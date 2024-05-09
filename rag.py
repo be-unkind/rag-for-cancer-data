@@ -8,6 +8,8 @@ import groq
 
 import chromadb.utils.embedding_functions as embedding_functions
 
+import gradio as gr
+
 GROQ_API_KEY = '...'
 HF_API_KEY = '...'
 
@@ -52,11 +54,21 @@ def construct_rag():
     uncompiled_rag = CancerRAG()
     return uncompiled_rag
 
+def answer_generation(question):
+    rag = construct_rag()
+    answer = rag(question).answer
+    return answer
+
+def define_gradio_ui():
+    iface = gr.Interface(
+        fn=answer_generation,
+        inputs=[gr.Textbox("What is lung carcinoid tumor?")],
+        outputs="text",
+        title="Cancer Question Answering",
+        description="Ask a question about cancer."
+        )
+
+    iface.launch(share=True)
 
 if __name__ == "__main__":
-    rag = construct_rag()
-
-    test_query_1 = "What is lung carcinoid tumor?"
-    response_1 = rag(test_query_1)
-
-    print(response_1.answer)
+    define_gradio_ui()

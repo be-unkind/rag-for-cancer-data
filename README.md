@@ -16,6 +16,7 @@
 
     `python rag.py`
 
+    You will get private/public gradio url, where you will be able to test the model using simple ui
 
 
 ## Structure:
