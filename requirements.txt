@@ -1,0 +1,14 @@
+beautifulsoup4==4.11.2
+chromadb==0.5.0
+dspy-ai==2.4.9
+groq==0.5.0
+huggingface-hub==0.20.3
+langchain==0.1.17
+langchain-community==0.0.36
+langchain-core==0.1.50
+langchain-experimental==0.0.57
+langchain-openai==0.1.6
+langchain-text-splitters==0.0.1
+requests==2.31.0
+torch==2.0.1
+
