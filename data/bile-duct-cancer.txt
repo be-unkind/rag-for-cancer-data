@@ -1,0 +1,475 @@
+Intrahepatic bile duct cancers
+These cancers start in the smaller bile duct branches inside the liver. Sometimes they're confused with cancers that start in the liver cells (hepatocellular carcinomas),  and they are often treated the same way.
+Perihilar (also called hilar) bile duct cancers
+These cancers start at the hilum, where the left and right hepatic ducts have joined and are just leaving the liver. These are also called Klatskin tumors. These cancers are grouped with distal bile duct cancers as extrahepatic bile duct cancers.
+Distal bile duct cancers
+These cancers are found farther down the bile duct, closer to the small intestine. Like perihilar cancers, these are extrahepatic bile duct cancers because they start outside of the liver.
+Cancers that start in different parts of the bile ducts can cause different symptoms.
+Types of bile duct cancer by cell type
+Bile duct cancers can also be divided into types based on how the cancer cells look under the microscope.
+Nearly all bile duct cancers are cholangiocarcinomas. These cancers are a type of adenocarcinoma, which is a cancer that starts in gland cells. Cholangiocarcinomas start in the gland cells that line the inside of the ducts.
+Other types of bile duct cancers are much less common. These include sarcomas, lymphomas, and small cell cancers. Our information does not cover these rare types of bile duct cancer.
+Benign bile duct tumors
+Not all bile duct tumors are cancer. For example, bile duct hamartomas and bile duct adenomas are types of benign (non-cancer) tumors.
+Other cancers in the liver
+The most common type of cancer that starts in the liver – much more common than cholangiocarcinoma – is hepatocellular carcinoma. This type of cancer starts in the main cells that make up the liver.
+Cancers that start in other organs, such as the colon or rectum, can sometimes spread (metastasize) to the liver. These metastatic cancers are not true liver cancers. For example, colorectal cancer that has spread to the liver is still colorectal cancer, not liver cancer. The treatment and outlook for cancer that metastasizes to the liver is not the same as for a cancer that starts in the liver. For this reason, it’s important to know whether a tumor in the liver started in bile ducts (cholangiocarcinoma), the liver tissue itself (hepatocellular carcinoma), or another organ and has spread to the liver.How common is bile duct cancer?
+Bile duct cancer (cholangiocarcinoma) is rare. About 8,000 people in the United States are diagnosed with it each year. This includes both intrahepatic (inside the liver) and extrahepatic (outside the liver) bile duct cancers. But the actual number of cases is likely to be higher, because these cancers can be hard to diagnose, and some might be misclassified as other types of cancer. 
+Bile duct cancer is more common in Southeast Asia, mostly because a parasitic infection that can cause bile duct cancer is much more common there.
+Who gets bile duct cancer?
+Bile duct cancer is seen mainly in older people, but it can occur in younger people. The average age of people in the US diagnosed with cancer of the intrahepatic (inside the liver) bile ducts is 70, and for cancer of the extrahepatic (outside the liver) bile ducts it's 72.
+The chances of survival for patients with bile duct cancer depend to a large extent on its location and how advanced it is when it's found. For more on this, see Survival Statistics for Bile Duct Cancers.
+Visit the American Cancer Society’s Cancer Statistics Center for more key statistics.Because bile duct cancer is rare, it's been hard to study. Most experts agree that treatment in a clinical trial should be considered for any type or stage of bile duct cancer. This way people can get the best treatment available now and may also get the treatments that are thought to be even better.
+Research on bile duct cancer is taking place in many university hospitals, medical centers, and other institutions around the world. Each year, scientists find out more about what causes the disease, how to prevent it, and how to better treat it. The new and promising treatments discussed here tend to only be available in clinical trials.
+Surgery
+Doctors are constantly improving the surgical techniques used to treat bile duct cancers and looking for ways to make surgery possible for more people.
+For instance, sometimes surgery to remove the cancer might be possible, but it can’t be done because it might not leave enough healthy liver behind. One option being studied is to cut off the blood supply to the part of the liver that’s going to be removed (known as portal vein embolization). As this part of the liver shrinks, the other part of the liver grows to compensate. Over time, there might be enough healthy liver to go ahead with the operation to remove the part of the liver with the tumor.
+Better ways to use laparoscopic surgery are also being tested and compared to open surgery. Adjuvant and neoadjuvant treatments, those used before and after surgery, are also active areas of research interest. Doctors are looking for ways to combine other treatments with surgery to improve outcomes.
+Radiation therapy
+Researchers are looking at better ways to use radiation therapy. One example is using a different type of radiation called proton beam radiation therapy. This form of radiation uses proton beams instead of the usual photon or electron beams. Protons are parts of atoms that cause little damage to tissues they pass through but are very good at killing cells at the end of their path. This means that proton beam radiation may be able to deliver more radiation to the tumor while reducing side effects on normal tissues.
+Other ways to use radiation therapy are also being studied. For example, doctors are looking at whether radioactive stents placed inside bile ducts might help shrink tumors and keep the ducts open longer than standard stents.
+Another approach being widely studied is the injection of tiny radioactive beads into the hepatic artery, which carries blood to the area of the cancer. The beads lodge in the blood vessels near the tumor, where they give off small amounts of radiation. This is called transarterial radioembolization or TARE. So far, studies have shown good results with TARE, but more research is needed.
+Chemotherapy
+In general, the effects of chemo against bile duct cancer have been found to be limited, but new drugs and new combinations of drugs are being tested. Studies are also looking for better ways to combine chemo with other treatments, like surgery, radiation, and liver transplant.
+There's a lot of research interest in combining chemotherapy and targeted therapy.
+Targeted therapy
+Drugs have been developed that work differently from standard chemo drugs. These drugs can target specific changes in cancer cells that help them grow and survive. They can also change certain proteins made by the cancer cells to cause the cells to die. Targeted drugs can work with the immune system to help it find and kill cancer cells, too. Many of these drugs are being tested for use in treating bile duct cancer.
+Many other kinds of cancers are already treated with targeted therapy. As researchers learn more about the changes in bile duct cells that cause them to become cancer, they're looking to use targeted drugs that focus on killing the cells with these changes.
+For instance, some of these drugs target tumor blood vessels. Bile duct tumors need new blood vessels to grow beyond a certain size. Bevacizumab (Avastin®), erlotinib (Tarceva®), ramucirumab (Cyramza ®), and regorafenib (Stivarga®) are examples of drugs that target blood vessel growth and are being studied against bile duct cancer.
+Other drugs have different targets. For example, EGFR, a protein that helps cells grow, is found in high amounts on some cancer cells. Drugs that target EGFR have shown some benefit against many types of cancer. Some of these drugs, such as cetuximab (Erbitux®) and panitumumab (Vectibix®) are now being studied for use in people with bile duct cancer, often in combination with chemotherapy or other targeted drugs.
+Other types of targeted therapy, such as MEK inhibitors (like tivantinib ) and anti-PD1 drugs (like pembrolizumab [Keytruda®]), are also being studied for use against bile duct cancer.
+Again, this is an active area of research, but a lot more research is needed to find out if targeted therapy works and which drugs work best in treating bile duct cancer.A risk factor is anything that affects your chance of getting a disease like cancer. Different cancers have different risk factors. Some risk factors, like smoking, can be changed. Others, like a person’s age or family history, can’t be changed.
+But having a risk factor, or even many risk factors, does not mean that a person will get the disease. And many people who get the disease have few or no known risk factors.
+Researchers have found some risk factors that make a person more likely to develop bile duct cancer.
+Certain diseases of the liver or bile ducts
+People who have chronic (long-standing) inflammation of the bile ducts have an increased risk of developing bile duct cancer. Certain conditions of the liver or bile ducts can cause this, these include:
+
+Primary sclerosing cholangitis (PSC), a condition in which inflammation of the bile ducts (cholangitis) leads to the formation of scar tissue (sclerosis). People with PSC have an increased risk of bile duct cancer. The cause of the inflammation is not usually known. Many people with this disease also have inflammation of the large intestine, called ulcerative colitis.
+Bile duct stones, which are a lot like but much smaller than gallstones, can also cause inflammation that increases the risk of bile duct cancer.
+Choledochal cyst disease, a rare condition some people are born with. It causes bile-filled sacs along the bile ducts. (Choledochal means having to do with the common bile duct.) If not treated, the bile sitting in these sacs causes inflammation of the duct walls. The cells of the duct wall often have areas of pre-cancerous changes, which, over time, cam progress to bile duct cancer.
+Liver fluke infections, which occur in some Asian countries when people eat raw or poorly cooked fish that are infected with these tiny parasite worms. In humans, these flukes live in the bile ducts and can cause bile duct cancer. There are several types of liver flukes. The ones most closely related to bile duct cancer risk are Clonorchis sinensis and Opisthorchis viverrini. Liver fluke infection is rare in the US, but it can affect people who travel to Asia.
+Abnormalities where the bile duct and pancreatic duct normally meet which can allow digestive juices from the pancreas to reflux (flow back) into the bile ducts. This backward flow keeps the bile from moving through the bile ducts the way it should. People with these abnormalities are at higher risk of bile duct cancer.
+Cirrhosis, which is damage to the liver caused by scar tissue. It's caused by irritants like alcohol and diseases like hepatitis. Studies have found it raises the risk of bile duct cancer.
+Infection with hepatitis B virus or hepatitis C virus which increases the risk of intrahepatic bile duct cancers. This may be at least in part because long-term infections with these viruses can also lead to cirrhosis.
+
+Other rare diseases of the liver and bile duct that may increase the risk of developing bile duct cancer include polycystic liver disease and Caroli syndrome (a dilation of the intrahepatic bile ducts present at birth).
+Inflammatory bowel disease
+Inflammatory bowel disease includes ulcerative colitis and Crohn’s disease. People with these diseases have an increased risk of bile duct cancer.
+Older age
+Older people are more likely than younger people to get bile duct cancer. Most people diagnosed with bile duct cancer are in their 60s or 70s.
+Ethnicity and geography
+In the US, the risk of bile duct cancer is highest among Hispanic Americans. Worldwide, bile duct cancer is much more common in Southeast Asia and China, largely because of the high rate of infection with liver flukes in these areas.
+Obesity
+Being overweight or obese can increase the risk of cancers of the gallbladder and bile ducts. This could be because obesity increases the risk of gallstones and bile duct stones, as well as the risk of non-alcoholic fatty liver disease. But there may be other ways that being overweight can lead to bile duct cancers, such as changes in certain hormones.
+Non-alcoholic fatty liver disease
+Non-alcoholic fatty liver disease is the build-up of extra fat in the liver cells that's not caused by alcohol. Over time, this can cause swelling and scarring that can progress to cancer.
+Exposure to Thorotrast
+A radioactive substance called Thorotrast (thorium dioxide) was used as a contrast agent for x-rays until the 1950s. It was found to increase the risk for bile duct cancer, as well as some types of liver cancer, and is no longer used.
+Family history
+A history of bile duct cancer in the family seems to increase a person’s chances of developing this cancer, but the risk is still low because this is a rare disease. Most bile duct cancers are not found in people with a family history of the disease.
+Diabetes
+People with diabetes (type 1 or type 2) have a higher risk of bile duct cancer. This increase in risk is not high, and the overall risk of bile duct cancer in someone with diabetes is still low.
+Alcohol
+People who drink alcohol are more likely to get intrahepatic bile duct cancer. The risk is higher in those who have liver problems from drinking alcohol.
+Other possible risk factors
+Studies have found other factors that might increase the risk of bile duct cancer, but the links are not as clear. These include:
+
+Smoking
+Chronic pancreatitis (long-term inflammation of the pancreas)
+Infection with HIV (the virus that causes AIDS)
+Exposure to asbestos
+Exposure to radon or other radioactive chemicals
+Exposure to dioxin, nitrosamines, or polychlorinated biphenyls (PCBs)We don’t know the exact cause of most bile duct cancers, but researchers have found some risk factors that make a person more likely to develop bile duct cancer. There seems to be a link between this cancer and things that irritate and inflame the bile ducts, whether it’s bile duct stones, infestation with a parasite, or something else.
+Scientists are starting to understand how inflammation might lead to certain changes in the DNA of cells, making them grow out of control and form cancers. DNA is the chemical in each of our cells that makes up our genes – the instructions for how our cells function.
+
+Genes that control when cells grow, divide into new cells, and die are called oncogenes.
+Genes that slow down cell division or cause cells to die at the right time are called tumor suppressor genes.
+
+Cancers can be caused by DNA changes (mutations) that turn on oncogenes or turn off tumor suppressor genes. Changes in many different genes are usually needed for a cell to become cancer.
+We usually look like our parents because they are the source of our DNA. But DNA affects more than how we look. Some people inherit DNA mutations from their parents that greatly increase their risk for certain cancers. But inherited gene mutations are not thought to cause very many bile duct cancers.
+Gene mutations related to bile duct cancers are usually acquired during life rather than being inherited. For example, acquired changes in the TP53 tumor suppressor gene are found in most bile duct cancers. Other genes that may play a role in bile duct cancers include KRAS, HER2, and ALK. Some of the gene changes that lead to bile duct cancer might be caused by inflammation. But sometimes the cause of these changes is not known. Many gene changes might just be random events that sometimes happen inside a cell, without having an outside cause.There's no known way to prevent most bile duct cancers in the US. Many of the known risk factors for bile duct cancer, such as age, ethnicity, and bile duct abnormalities, are beyond our control. But there are things you can do that might help lower your risk.
+Getting to and staying at a healthy weight is one important way a person may reduce their risk of bile duct cancer, as well as many other types of cancer. The American Cancer Society recommends that people try to stay at a healthy weight, keep physically active, and follow a healthy eating pattern that includes plenty of fruits, vegetables, and whole grains, and that limits or avoids red and processed meats, sugary drinks, and highly processed foods. To learn more, see the American Cancer Society Guidelines for Diet and Physical Activity for Cancer Prevention.
+Other ways that people might be able to reduce their risk of bile duct cancer include:
+
+Get vaccinated against the hepatitis B virus (HBV) to prevent infection with this virus and the cirrhosis it can cause.
+Take precautions to avoid blood-borne or sexually transmitted infections like HBV and other viruses (like hepatitis C virus) to help prevent cirrhosis.
+Treat hepatitis infections (such as B and C) to help prevent cirrhosis.
+Avoid or limit alcohol. If you do drink, have no more than 1 drink per day for women or 2 drinks per day for men.
+Quit (or don’t start) smoking.
+Protect yourself against exposure to certain chemicals (see Risk Factors for Bile Duct Cancer).Only a small number of bile duct cancers are found before they have spread too far to be removed by surgery.
+The bile ducts are deep inside the body, so small tumors can’t be seen or felt during routine physical exams. There are no blood tests or other tests that can reliably detect bile duct cancers early enough to be useful as screening tests. (Screening is testing for cancer in people without any symptoms.) Because of this, most bile duct cancers are found only after the cancer has grown enough to cause signs or symptoms. The most common symptom is jaundice, a yellowing of the skin and eyes, which is caused by a blocked bile duct.Bile duct cancer does not usually cause signs or symptoms until later in the course of the disease, but sometimes symptoms can appear sooner and lead to an early diagnosis. If the cancer is diagnosed at an early stage, treatment might work better.
+When bile duct cancer does cause symptoms, it's usually because a bile duct is blocked. Symptoms tend to depend on whether the cancer is in ducts inside the liver (intrahepatic) or in ducts outside the liver (extrahepatic), and include:
+Jaundice
+Normally, bile is made by the liver and released into the intestine. Jaundice occurs when the liver can’t get rid of bile, which contains a greenish-yellow chemical called bilirubin. As a result, bilirubin backs up into the bloodstream and settles in different parts of the body. Jaundice can often be seen as a yellowing of the skin and in the white part of the eyes.
+Jaundice is the most common symptom of bile duct cancer, but most of the time, jaundice isn't caused by cancer. It's more often caused by hepatitis (inflammation of the liver) or a gallstone that has traveled to the bile duct. But whenever jaundice occurs, a doctor should be seen right away.
+Itching
+Excess bilirubin in the skin can also cause itching. Most people with bile duct cancer notice itching.
+Light-colored/greasy stools
+Bilirubin contributes to the brown color of bowel movements, so if it doesn’t reach the intestines, the color of a person’s stool might be lighter.
+If the cancer blocks the release of bile and pancreatic juices into the intestine, a person might not be able to digest fatty foods. The undigested fat can also cause stools to be unusually pale. They might also be bulky, greasy, and float in the toilet.
+Dark urine
+When bilirubin levels in the blood get high, it can also come out in the urine and turn it dark.
+Abdominal (belly) pain
+Early bile duct cancers seldom cause pain, but bigger tumors may cause belly pain, especially below the ribs on the right side.
+Loss of appetite/weight loss
+People with bile duct cancer may not feel hungry and may lose weight without trying to do so.
+Fever
+Some people with bile duct cancer develop fevers.
+Nausea and vomiting
+These are not common symptoms of bile duct cancer, but they may occur in people who develop an infection (cholangitis) as a result of bile duct blockage. These symptoms are often seen along with a fever.
+Keep in mind: Bile duct cancer is rare. These symptoms are far more likely to be caused by something other than bile duct cancer. For example, people with gallstones have many of these same symptoms. And there are many far more common causes of belly pain than bile duct cancer. Also, hepatitis (an inflamed liver most often caused by infection with a virus) is a much more common cause of jaundice.
+Still, if you have any of these problems, it’s important to see a doctor right away so the cause can be found and treated, if needed.Most bile duct cancers aren't found until a person goes to a doctor because they have symptoms.
+Medical history and physical exam
+If there's reason to suspect that you might have bile duct cancer, your doctor will want to take your complete medical history to check for risk factors and to learn more about your symptoms.
+A physical exam is done to look for signs of bile duct cancer or other health problems. If bile duct cancer is suspected, the exam will focus mostly on the abdomen (belly) to check for any lumps, tenderness, or build-up of fluid. The skin and the white part of the eyes will be checked for jaundice (a yellowish color).
+If symptoms and/or the results of the physical exam suggest you might have bile duct cancer, tests will be done. These could include lab tests, imaging tests, and other procedures.
+Blood tests
+Tests of liver and gallbladder function
+Lab tests might be done to find out how much bilirubin is in your blood. Bilirubin is the chemical that causes jaundice. Problems in the bile ducts, gallbladder, or liver can raise the blood level of bilirubin.
+The doctor may also do tests for albumin, liver enzymes (alkaline phosphatase, AST, ALT, and GGT), and certain other substances in your blood. These may be called liver function tests. They can help diagnose bile duct, gallbladder, or liver disease. If levels of these substances are higher, it might point to blockage of the bile duct, but they can’t show if it's due to cancer or some other reason.
+Tumor markers
+Tumor markers are substances made by cancer cells that can sometimes be found in the blood. People with bile duct cancer may have high blood levels of the markers called CEA and CA 19-9. High levels of these markers often mean that cancer is present, but the high levels can also be caused by other types of cancer, or even by problems other than cancer. Also, not all bile duct cancers make these tumor markers, so low or normal levels don't always mean cancer is not present.
+Still, these tests can sometimes be useful after a person is diagnosed with bile duct cancer. If the levels of these markers are found to be high, they can be followed over time to help see how well treatment is working.
+Imaging tests
+Imaging tests use x-rays, magnetic fields, or sound waves to create pictures of the inside of your body. Imaging tests can be done for a number of reasons, including:
+
+To look for suspicious areas that might be cancer
+To help a doctor guide a biopsy needle into a suspicious area to take a sample for testing
+To learn how far cancer has spread
+To help make treatment decisions
+To help find out if treatment is working
+To look for signs of the cancer coming back after treatment
+
+Imaging tests can often show a bile duct blockage. But they often can’t show if the blockage is caused by a tumor or a less serious problem like scarring.
+People who have (or might have) bile duct cancer may have one or more of these tests:
+Ultrasound
+Ultrasound uses sound waves and their echoes to create images of the inside of the body. A small instrument called a transducer gives off sound waves and picks up the echoes as they bounce off organs inside the body. The echoes are converted by a computer into an image on a screen.
+Abdominal ultrasound: This is often the first imaging test done in people who have symptoms such as jaundice or pain in the right upper part of their abdomen (belly). This is an easy test to have done, and it doesn't use radiation. You simply lie on a table while a technician moves the transducer on the skin over your abdomen.
+This type of ultrasound can also be used to guide a needle into a suspicious area or lymph node so that cells can be removed (biopsied) and looked at under a microscope. This is called an ultrasound-guided needle biopsy.
+Endoscopic or laparoscopic ultrasound: In these techniques, the doctor puts the ultrasound transducer inside your body and closer to the bile duct. This gives more detailed images than a standard ultrasound. The transducer is on the end of a thin, lighted tube that has a camera on it. The tube is either passed through your mouth, down through your stomach, and into the small intestine near the bile ducts (endoscopic ultrasound) or through a small surgical cut in the skin on side of your body (laparoscopic ultrasound).
+If there's a tumor, the doctor might be able to see how far it has grown and spread, which can help in planning for surgery. Ultrasound may be able to show if nearby lymph nodes are enlarged, which can be a sign that cancer has reached them. Needle biopsies of suspicious areas might be done.
+Computed tomography (CT) scan
+A CT scan uses x-rays to make detailed cross-sectional images of your body. It can be used to
+
+Help diagnose bile duct cancer by showing tumors in the area.
+Help stage the cancer (find out how far it has spread). CT scans can show the organs near the bile duct (especially the liver), as well as lymph nodes and distant organs where cancer might have spread to.
+A type of CT known as CT angiography can be used to look at the blood vessels around the bile ducts. This can help determine if surgery is an option.
+Guide a biopsy needle into a suspected tumor. This is called a CT-guided needle biopsy. To do it, you stay on the CT scanning table while the doctor advances a biopsy needle through your skin and toward the mass. CT scans are repeated until the needle is inside the mass. A small amount of tissue (a sample) is then taken out through the needle.
+
+Magnetic resonance imaging (MRI) scan
+Like CT scans, MRI scans show detailed images of soft tissues in the body. But MRI scans use radio waves and strong magnets instead of x-rays. A contrast material called gadolinium may be injected into a vein before the scan to see details better.
+MRI scans can provide a great deal of detail and be very helpful in looking at the bile ducts and other organs. Sometimes they can help tell a benign (non-cancer) tumor from one that's cancer. Special types of MRI scans may also be used in people who may have bile duct cancer:
+
+MR cholangiopancreatography (MRCP) can be used to look at the bile ducts and is described below in the section on cholangiography.
+MR angiography (MRA) looks at blood vessels and is also covered in the section on angiography.
+
+Cholangiography
+A cholangiogram is an imaging test that looks at the bile ducts to see if they're blocked, narrowed, or dilated (widened). This can help show if someone might have a tumor that's blocking a duct. It can also be used to help plan surgery. There are several types of cholangiograms, each of which has different pros and cons.
+Magnetic resonance cholangiopancreatography (MRCP): This is a way to get images of the bile ducts with the same type of machine used for standard MRIs. Neither an endoscope nor an IV contrast agent is used, unlike the other types of cholangiograms. Because it's non-invasive (nothing is put in your body), doctors often use MRCP if they just need images of the bile ducts. This test can’t be used to get biopsy samples of tumors or to place stents (small tubes) in the ducts to keep them open.
+Endoscopic retrograde cholangiopancreatography (ERCP): In this procedure, a doctor passes a long, flexible tube (endoscope) down your throat, through your stomach, and into the first part of the small intestine. This is usually done while you are sedated (given medicine to make you sleepy). A small catheter (tube) is passed out of the end of the endoscope and into the common bile duct. A small amount of contrast dye is injected through the catheter. The dye helps outline the bile ducts and pancreatic duct as x-rays are taken. The images can show narrowing or blockage of these ducts. This test is more invasive than MRCP, but it has the advantage of allowing the doctor to take samples of cells or fluid for testing. ERCP can also be used to put a stent (a small tube) into a duct to help keep it open.
+Percutaneous transhepatic cholangiography (PTC): In this procedure, the doctor puts a thin, hollow needle through the skin of your belly and into a bile duct inside your liver. You're given medicines through an IV line to make you sleepy before this test. A local anesthetic is also used to numb the area before putting in the needle. A contrast dye is then injected through the needle, and x-rays are taken as it passes through the bile ducts. Like ERCP, this test can also be used to take samples of fluid or tissues or to put a stent (small tube) in the bile duct to help keep it open. Because it's more invasive, PTC is not usually used unless ERCP has already been tried or can’t be done for some reason.
+Angiography
+Angiography or an angiogram is an x-ray test for looking at blood vessels in and around the liver and bile ducts. A thin plastic tube called a catheter is threaded into an artery and a small amount of contrast dye is injected to outline blood vessels. Then x-rays are taken. The images show if blood flow in is blocked anywhere or affected by a tumor, as well as any abnormal blood vessels in the area. The test can also show if a bile duct cancer has grown through the walls of blood vessels. This information is mainly used to help surgeons decide whether a cancer can be removed and to help plan the operation.
+Angiography can also be done with a CT scan (CT angiography) or an MRI (MR angiography). These tend to be used more often because they give information about the blood vessels without the need for a catheter. You may still need an IV line so that a contrast dye can be injected into your bloodstream during the imaging.
+Other tests
+Doctors may also use special instruments (endoscopes) to go into the body to get a more direct look at the bile duct and nearby areas. The scopes may be passed through small surgical incisions (cuts) or through natural body openings like the mouth.
+Laparoscopy
+Laparoscopy is a type of surgery. The doctor puts a thin tube with a light and a small video camera on the end (a laparoscope) through a small incision (cut) in the front of your belly to look at the bile ducts, gallbladder, liver, and other nearby organs and tissues. (Sometimes more than one cut is made.) This is typically done in the operating room while drugs are used to put you into a deep sleep and not feel pain (general anesthesia) during the surgery.
+Laparoscopy can help doctors plan surgery or other treatments, and can help determine the stage (extent) of the cancer. If needed, doctors can also use special instruments put in through the incisions to take out biopsy samples for testing. Laparoscopy is often done before surgery to remove the cancer, to help make sure the tumor can be removed completely.
+Cholangioscopy
+This procedure can be done during an ERCP (see above). The doctor passes a very thin fiber-optic tube with a tiny camera on the end down through the larger tube used for the ERCP. From there it can be maneuvered into the bile ducts. This lets the doctor see any blockages, stones, or tumors and even biopsy them.
+Biopsy
+Imaging tests might suggest that a bile duct cancer is present, but in many cases samples of bile duct cells or tissue is removed (biopsied) and looked at with a microscope to be sure of the diagnosis.
+But a biopsy isn't always done before surgery for a possible bile duct cancer. If imaging tests show a tumor in the bile duct, the doctor may decide to proceed directly to surgery and to treat the tumor as a bile duct cancer (see Surgery for Bile Duct Cancer).
+Types of biopsies
+There are many ways to take biopsy samples to diagnose bile duct cancer.
+During cholangiography: If ERCP or PTC is being done, a sample of bile may be collected during the procedure to look for cancer cells in the fluid. Bile duct cells and tiny pieces of bile duct tissue can also be taken out by biliary brushing. Instead of injecting contrast dye and taking x-ray pictures (as for ERCP or PTC), the doctor advances a small brush with a long, flexible handle through the endoscope or needle. The end of the brush is used to scrape cells and small tissue fragments from the lining of the bile duct. These are then looked at with a microscope.
+During cholangioscopy: Biopsy specimens can also be taken during cholangioscopy. This test lets the doctor see the inside surface of the bile duct and take samples of suspicious areas.
+Needle biopsy: For this test, a thin, hollow needle is put through the skin and into the tumor without making a cut in the skin. (The skin is numbed first with a local anesthetic.) The needle is usually guided into place using ultrasound or CT scans. When the images show that the needle is in the tumor, cells and/or fluid are drawn into the needle and sent to the lab to be tested.
+In most cases, this is done as a fine needle aspiration (FNA) biopsy, which uses a very thin needle attached to a syringe to suck out (aspirate) a sample of cells. Sometimes, the FNA doesn’t get enough cells for a definite diagnosis, so a core needle biopsy, which uses a slightly larger needle to get a bigger sample, may be done.
+Lab tests of biopsy samples
+Along with looking at the biopsy samples with a microscope to see if they contain cancer cells, other lab tests might be done on the samples as well.
+For example, cancer cells in the biopsy samples (or surgery samples) might be tested for certain gene or protein changes (sometimes called biomarkers), such as changes in the FGFR2 and IDH1 genes. This can help determine if certain targeted drugs might be helpful in treating the cancer.
+For more on biopsies and how samples are tested, see Testing Biopsy and Cytology Specimens for Cancer.The stage of a cancer describes how much cancer is in the body. It helps determine how serious the cancer is and how best to treat it. Doctors also use a cancer's stage when talking about survival statistics.
+The stage of a bile duct cancer is determined by the results of the physical exam, imaging and other tests, and by the results of surgery if it has been done.
+The American Joint Committee on Cancer (AJCC) TNM system
+A staging system is a standard way for the cancer care team to sum up the extent of a cancer. The main system used to describe the stages of bile duct cancer is the American Joint Committee on Cancer (AJCC) TNM system. There are actually 3 different staging systems for bile duct cancers, depending on where they start:
+
+Intrahepatic bile duct cancers (those starting within the liver)
+Perihilar (hilar) bile duct cancers (those starting in the hilum, the area just outside the liver)
+Distal bile duct cancers (those starting farther down the bile duct system)Survival rates can give you an idea of what percentage of people with the same type and stage of cancer are still alive a certain amount of time (usually 5 years) after they were diagnosed. They can’t tell you how long you will live, but they may help give you a better understanding of how likely it is that your treatment will be successful.
+Keep in mind that survival rates are estimates and are often based on previous outcomes of large numbers of people who had a specific cancer, but they can’t predict what will happen in any particular person’s case. These statistics can be confusing and may lead you to have more questions. Ask your doctor how these numbers might apply to you. 
+What is a 5-year relative survival rate?
+A relative survival rate compares people with the same type and stage of cancer to people in the overall population. For example, if the 5-year relative survival rate for a specific stage of bile duct cancer (cholangiocarcinoma) is 30%, it means that people who have that cancer are, on average, about 30% as likely as people who don’t have that cancer to live for at least 5 years after being diagnosed.
+Where do these numbers come from?
+The American Cancer Society relies on information from the Surveillance, Epidemiology, and End Results (SEER) database, maintained by the National Cancer Institute (NCI), to provide survival statistics for different types of cancer.
+The SEER database tracks 5-year relative survival rates for bile duct cancer in the United States, based on how far the cancer has spread. The SEER database, however, does not group cancers by AJCC TNM stages (stage 1, stage 2, stage 3, etc.). Instead, it groups cancers into localized, regional, and distant stages:
+
+Localized: There is no sign that the cancer has spread outside of the bile ducts.
+Regional: The cancer has spread outside the bile ducts to nearby structures or lymph nodes.
+Distant: The cancer has spread to distant parts of the body, such as the lungs.
+
+5-year relative survival rates for bile duct cancer
+These numbers are based on people diagnosed with cancers of the bile duct between 2012 and 2018. They are divided into intrahepatic and extrahepatic bile duct cancers.
+Intrahepatic bile duct cancers (those starting within the liver)
+
+
+
+SEER* stage
+5-year relative survival rate
+
+
+Localized
+23%
+
+
+Regional
+9%
+
+
+Distant
+3%
+
+
+All SEER stages combined
+9%
+
+
+
+Extrahepatic bile duct cancers (those starting outside the liver)
+(This includes both perihilar and distal bile duct cancers.)
+
+
+
+SEER stage
+5-year relative survival rate
+
+
+Localized
+18%
+
+
+Regional
+18%
+
+
+Distant
+2%
+
+
+All SEER stages combined
+11%
+
+
+
+*SEER= Surveillance, Epidemiology, and End Results
+Understanding the numbers
+
+These numbers apply only to the stage of the cancer when it is first diagnosed. They do not apply later on if the cancer grows, spreads, or comes back after treatment.
+These numbers don’t take everything into account. Survival rates are grouped based on how far the cancer has spread. But other factors, such as your age and overall health, and how well the cancer responds to treatment, can also affect your outlook.
+People now being diagnosed with bile duct cancer may have a better outlook than these numbers show. Treatments improve over time, and these numbers are based on people who were diagnosed and treated at least five years earlier.There are 2 general types of surgery for bile duct cancer: potentially curative surgery (resectable and unresectable) and palliative surgery.
+Potentially curative surgery for bile duct cancer
+Resectable (potentially curative surgery) means imaging tests or the results of earlier surgeries show there’s a good chance that the surgeon can remove all of the cancer along with a rim (margin) of healthy tissue around it.
+Only a small percentage of bile duct cancers are resectable when they're first found.
+If potentially curative surgery is being considered, you may want to get a second opinion or even be referred to a large cancer center. Nearly all doctors agree that surgery offers the only realistic chance for curing people with bile duct cancer. But there are differences of opinion about how advanced a bile duct cancer can be and still be treatable with surgery. The surgery needed for bile duct cancer is often complex and requires an experienced surgeon. These operations are most often done at major cancer centers.
+If a tumor is unresectable, it means doctors think the cancer is too advanced, it has spread too far, or is in too difficult a place to be entirely removed by surgery.
+Laparoscopy to plan bile duct surgery
+If your surgical team is planning curative surgery, they first may do a laparoscopy (a type of minor surgery) to look for any spread of the cancer that could make curative surgery not an option. This procedure is described in Tests for Bile Duct Cancer. During the laparoscopy, the surgeon can look for areas of cancer that did not show up on imaging tests. If the cancer is resectable, laparoscopy can also help plan the operation to remove it.
+Surgery to remove bile duct cancer can have serious side effects and, depending on how extensive it is, you may need many weeks to recover. If your cancer is very unlikely to be curable, be sure to carefully weigh the pros and cons of surgery or other treatments that will need a lot of recovery time. It’s very important to understand the goal of any surgery for bile duct cancer, what the possible benefits and risks are, and how the surgery is likely to affect your quality of life.
+Surgery for resectable bile duct cancers
+For resectable cancers, the type of operation depends on where the cancer is.
+
+Intrahepatic bile duct cancers are in bile ducts that are inside the liver. To treat these cancers, the surgeon cuts out the part of the liver containing the cancer. Removing part of the liver is called a partial hepatectomy. Sometimes this means that a whole lobe (right or left part) of the liver must be removed. This is called hepatic lobectomy and is a complicated operation that requires an experienced surgical team. If the amount of liver removed is not too great, the liver will still work normally because it has some ability to grow back.
+Perihilar bile duct cancer develops where the branches of the bile ducts first leave the liver. Surgery for these cancers is complicated and requires great skill. Usually part of the liver is removed, along with the bile duct, gallbladder, nearby lymph nodes, and sometimes part of the pancreas and small intestine. Then the surgeon connects the remaining ducts to the small intestine. This is a complex operation that can lead to life-threatening complications for some people.
+Distal bile duct cancers  are further down the bile duct near the pancreas and small intestine. Along with the bile duct and nearby lymph nodes, the surgeon often has to remove part of the pancreas and small intestine. This operation is called a Whipple procedure. Like the other operations, this is a complex procedure that requires an experienced surgical team.
+
+Surgery for unresectable bile duct cancers
+Surgery is less likely to be done for unresectable cancers, but there are some instances where it might be helpful.
+Liver transplant
+For some people with early stage, unresectable intrahepatic or perihilar bile duct cancers, removing the liver and bile ducts and then transplanting a donor liver may be an option. In some cases it might even cure the cancer. But getting a new liver may not be easy. Not many centers accept patients with bile duct cancer into their transplant programs. Also, few livers are available for patients with cancer because they tend to be used for more curable diseases. People needing a transplant must wait until a liver is available, which can take too long for some people with bile duct cancer.
+One option might be having a living donor (often a close relative) give a part of their liver for transplant. This can be successful, but it carries risks for the donor. Another option might be to treat the cancer first with chemotherapy and radiation. Then a transplant is done when a liver becomes available. Clinical trial results using this approach have been promising.
+Like other surgeries for bile duct cancer, a liver transplant is a major operation with potential risks (bleeding, infection, complications from anesthesia, etc.). But there are also some additional risks after this surgery. After liver transplant, drugs have to be taken to help suppress the patient's immune system to keep it from rejecting the new liver. These drugs have their own risks and side effects, especially the risk of getting serious infections. Some of the drugs used to prevent rejection can cause high blood pressure, high cholesterol, and diabetes. They can also weaken the bones and kidneys and can lead to the development of another cancer. After a liver transplant, regular blood tests are needed to check for signs of rejection. Sometimes liver biopsies are also done to see if rejection is occurring and if the anti-rejection medicines need to be changed.
+Palliative surgery for bile duct cancer
+Palliative surgery is done to relieve symptoms or treat (or even prevent) complications, such as blockage of the bile ducts. This type of surgery is done when the cancer is too widespread to be removed completely. Palliative surgery is not expected to cure the cancer, but it can sometimes help a person feel better and sometimes can even help them live longer.
+In some cases the doctor might think the cancer can be removed (is resectable) based on the information available (imaging tests, laparoscopy, etc.), but then once surgery is started it becomes clear that the cancer is too advanced to be removed completely. In these cases, the surgeon might still try to prevent or relieve symptoms using a different approach.
+Biliary bypass
+The surgeon creates a bypass around the tumor blocking the bile duct by connecting part of the bile duct before the blockage with a part of the duct that lies past the blockage The bile duct may also be connected to the intestine itself. Often, the gallbladder is used to provide some of the bypass. Different types of biliary bypass operations may be done, based on where the blockage is. The bypass allows the bile to flow into the intestines and can help reduce symptoms such as jaundice or itching.
+Stent placement
+If a bypass can’t be done, the surgeon may put a plastic or expandable metal tube (called a stent) inside the bile duct to keep it open and allow bile to flow.
+Palliative surgery is described in more detail in the section Palliative Therapy for Bile Duct Cancer.
+Possible risks and side effects of bile duct surgery
+The risks and side effects of surgery depend on the extent of the operation and a person’s overall health before surgery. Another key factor is how well the liver is working. All surgery carries some risk, including the possibility of bleeding, blood clots, infections, complications from anesthesia, pneumonia, and even death in rare cases.
+People will have some pain from the incision for some time after surgery, but this can usually be controlled with medicines.
+Surgery for bile duct cancer is a major operation that might mean removing parts of other organs. This can have a major effect on a person’s recovery and health after the surgery. Serious problems soon after surgery can include bile leakage into the abdomen, infections, and liver failure. Because most of the organs removed are involved in digestion, eating and nutrition problems may be a concern after surgery.Radiation therapy uses high-energy rays or particles to destroy cancer cells. Radiation isn't often used to treat bile duct cancer, still, it might be used in these ways:
+
+After surgery to remove the cancer: This is called adjuvant therapy. It's used to kill any tiny deposits of cancer cells that are left after surgery but are too small to see. Not all doctors agree that adjuvant radiation therapy is helpful.
+Before surgery for cancers that might be able to be taken out: Some doctors may use radiation therapy before surgery for certain cancers that are thought to be resectable (removable). This is done to try to shrink the cancer and make it easier to take it out. This is called neoadjuvant therapy. It’s not clear how helpful this is.
+As part of the main therapy for some advanced cancers: Radiation therapy can also be used as a main therapy for some patients whose cancer has not spread widely throughout the body, but can't be removed with surgery. While treatment in this case does not offer a cure, it may help patients live longer.
+As palliative therapy: Radiation therapy is often used to ease symptoms when a cancer is too advanced to be cured. It can help relieve pain or other symptoms by shrinking tumors that block bile ducts or blood vessels, or press on nerves.
+
+The 2 main types of radiation therapy are external beam radiation therapy (EBRT) and brachytherapy. EBRT is the most common form of radiation for bile duct cancer.
+External beam radiation therapy (EBRT)
+In this type of radiation therapy, a machine sends x-rays to a specific part of the patient's body to kill cancer cells.
+Before your treatments start, the radiation team will take careful measurements to determine the correct angles for aiming the radiation beams and the proper dose of radiation. The treatment is much like getting an x-ray, but the radiation is much stronger. The procedure itself is painless. Each treatment lasts only a few minutes, but the set-up time – getting you into place for treatment – usually takes longer. Most often, radiation treatments are given 5 days a week for many weeks. These are some of the ways EBRT might be given:
+Three-dimensional conformal radiation therapy (3D-CRT) uses special computers to precisely map the location of the tumor(s). Radiation beams are then shaped and aimed at the tumor(s) from several directions, which makes it less likely to damage normal tissues. It may be used to treat localized intrahepatic bile duct cancers that can't be removed with surgery.
+Intensity-modulated radiation therapy (IMRT) is an advanced form of 3D-CRT. It uses a computer-driven machine that moves around you as it delivers radiation. Along with shaping the beams and aiming them at the cancer from many angles, the intensity (strength) of the beams can be adjusted to limit the dose reaching the most sensitive normal tissues. This lets doctors deliver an even higher dose to the cancer.
+Stereotactic body radiotherapy (SBRT) uses the techniques of 3D-CRT and IMRT, but gives a high dose of radiation over fewer sessions. A course of SBRT may take a week or 2, while a course of radiation using these other techniques often takes 3 to 6 weeks.
+Chemoradiation is when chemotherapy (chemo) is given along with EBRT to help it work better. It may be tried in select patients with early stage perihilar bile duct cancer before a liver transplant is done. The main drawback of this approach is that the side effects tend to be worse than giving radiation alone.
+EBRT side effects
+Some common side effects of ERBT to treat bile duct cancer include:
+
+Skin changes, ranging from redness to blistering and peeling (in the area being treated)
+Nausea and vomiting
+Diarrhea
+Fatigue (tiredness)
+Hair loss (on the skin in the area being treated)
+Low blood cell counts
+Liver damage
+
+Side effects from radiation often start a week or 2 into treatment, and usually get better over time once treatment is over.
+Brachytherapy (internal radiation therapy)
+This type of treatment uses small pellets of radioactive material that are put next to or right into the tumor. The radiation travels a very short distance, so it affects the cancer without causing much harm to nearby healthy body tissues. For bile duct cancer, brachytherapy is sometimes done with a thin radioactive wire that's put into the bile duct for a short time. This may be called intrabiliary brachytherapy. Brachytherapy can be used alone, or it may be used along with EBRT. At this time it's mostly used as a palliative treatment.Chemotherapy (chemo) is treatment with cancer-killing drugs that are usually given into a vein (IV) or taken by mouth. These drugs enter the bloodstream and reach all areas of the body, making this treatment useful for some cancers that have spread to organs beyond the bile duct. Because the drugs reach all the areas of the body, this is known as a systemic treatment.
+Chemo can help some people with bile duct cancer, but so far it's not clear how useful it is for this type of cancer. Still, chemo might be used in these ways:
+
+After surgery to remove the cancer: Chemo may be given after surgery (often along with radiation therapy) to try to lower the risk that the cancer will come back. This is called adjuvant chemo.
+Before surgery: It may be given before surgery for cancers that might be able to be completely removed. Chemo might shrink the tumor enough to improve the odds that surgery will be successful. This is called neoadjuvant treatment.
+As part of the liver transplant process:  Chemo may be used to keep bile duct cancer under control while waiting for a liver transplant.
+As part of the main treatment for some advanced cancers: Chemo can be used (sometimes with radiation therapy) for more advanced cancers that cannot be removed or have spread to other parts of the body. Chemo does not cure these cancers, but it might help people live longer.
+As palliative therapy: Chemo can help shrink tumors or slow their growth for a time. This can help relieve symptoms from the cancer, for instance, by shrinking tumors that are pressing on nerves and causing pain.
+
+Doctors give chemo in cycles, with each period of treatment followed by a rest period to give the body time to recover. Chemo cycles generally last about 3 to 4 weeks. Chemo usually isn't recommended for patients in poor health, but advanced age by itself is not a barrier to getting chemotherapy.
+Hepatic artery infusion (HAI)As researchers learn more about the changes in cells that cause cancer, they've developed drugs to target some of these changes. These targeted drugs work differently from standard chemotherapy (chemo) drugs. They sometimes work when standard chemo drugs don’t, and they often have different side effects.
+FGFR2 inhibitors
+FGFRs (fibroblast growth factor receptors) are proteins on cells that help them grow and divide normally. A small number of people with bile duct cancer within the liver have changes in the genes that make FGFRs, which result in abnormal FGFR proteins that cause cells to grow out of control and turn into cancer.
+Pemigatinib (Pemazyre) and futibatinib (Lytgobi) are FGFR2 inhibitors. They block the abnormal FGFR2 protein in bile duct cancer cells and keep them from growing and spreading to other places.
+These drugs can be used to treat some advanced bile duct cancers that cannot be removed by surgery or have spread to distant areas after at least one previous chemotherapy treatment. For these drugs to work, your cancer must have an abnormal FGFR2 gene, so your cancer will be tested before starting any of these drugs.
+These medicines are taken by mouth as tablets, typically once a day. 
+Possible side effects of FGFR2 inhibitors
+The most common side effects of FGFR2 inhibitors include kidney problems, hair loss, diarrhea, constipation, nail problems, fatigue, taste changes, nausea, vomiting, dry mouth or mouth sores, loss of appetite, dry skin, dry eye or other eye problems, hand-foot syndrome, abdominal (belly) pain, and changes in blood mineral levels.
+IDH1 inhibitor
+In some people with bile duct cancer, the cancer cells have a change (mutation) in the IDH1 gene, which normally helps cells make the IDH1 protein. Mutations in this gene can lead to an abnormal IDH1 protein, which can stop cells from maturing the way they normally would.
+Ivosidenib (Tibsovo) is an IDH1 inhibitor. It blocks the abnormal IDH1 protein, which seems to help the cancer cells mature into more normal cells. This drug can be used in people with advanced, previously treated bile duct cancer, if the cancer cells are found to have an IDH1 mutation. Your doctor can test your cancer cells to see if they have an IDH1 mutation.
+This drug is taken by mouth, once a day.
+Possible side effects of ivosidenib
+Common side effects can include fatigue, nausea, vomiting, abdominal (belly) pain or swelling, diarrhea, loss of appetite, cough, low red blood cell counts (anemia), rash, and changes in lab tests showing the drug is affecting the liver.
+Less common but more serious side effects can include changes in heart rhythm, pneumonia, and jaundice (yellowing of the eyes and skin).Immunotherapy is the use of medicines to help a person’s immune system better recognize and destroy cancer cells. Many types of immunotherapy are being tested in clinical trials, and some might now be used to treat bile duct cancer.
+Immune checkpoint inhibitors
+An important part of the immune system is its ability to keep itself from attacking the body's normal cells. To do this, it uses “checkpoint” proteins on immune cells, which act like switches that need to be turned on (or off) to start an immune response. Cancer cells sometimes use these checkpoints to avoid being attacked by the immune system.
+Drugs that target these checkpoints (called immune checkpoint inhibitors) can be used to treat some bile duct cancers.
+PD-1 inhibitors
+Pembrolizumab (Keytruda) is a drug that targets PD-1, a checkpoint protein on immune system cells called T cells. PD-1 normally helps keep T cells from attacking other cells in the body (including some cancer cells). By blocking PD-1, this drug boosts the immune response against cancer cells. This can shrink some tumors or slow their growth.
+Pembrolizumab can used along with the chemotherapy drugs gemcitabine and cisplatin to treat bile duct cancer that can’t be removed by surgery or that has spread to other parts of the body.
+Pembrolizumab can also be used by itself to treat some advanced bile duct cancers, typically after other treatments have been tried, if there are no other good treatment options, and if the cancer cells have any of the following:
+
+A high level of microsatellite instability (MSI-H) or a defect in a mismatch repair gene (dMMR)
+A high tumor mutational burden (TMB-H), meaning the cells have many gene mutations
+
+Tumor cells can be tested for these changes.
+This drug is given as an intravenous (IV) infusion, typically once every 3 or 6 weeks.
+Possible side effects
+Side effects of PD-1 inhibitors can include:
+
+Feeling tired or weak
+Fever
+Cough
+Nausea
+Itching
+Skin rash
+Loss of appetite
+Muscle or joint pain
+Shortness of breath
+Constipation or diarrhea
+
+Other, more serious side effects occur less often. These can include:
+Infusion reactions: Some people might have an infusion reaction while getting this drug. This is like an allergic reaction, and can include fever, chills, flushing of the face, rash, itchy skin, feeling dizzy, wheezing, and trouble breathing. It’s important to tell your doctor or nurse right away if you have any of these symptoms while getting this drug.
+Autoimmune reactions: This drug works by basically removing one of the safeguards on the body’s immune system. Sometimes this causes the immune system to attack other parts of the body, which can cause serious or even life-threatening problems in the lungs, intestines, liver, hormone-making glands, kidneys, skin, or other organs.
+It’s very important to report any new side effects to your health care team right away. If you do have a serious side effect, treatment may need to be delayed or stopped, and you may be given high doses of corticosteroids to suppress your immune system.Palliative care is treatment used to help control or reduce symptoms caused by cancer. It's not meant to cure the cancer.
+If bile duct cancer has spread too far to be removed by surgery, doctors may focus on palliative treatments. For instance, pain medicines and drugs to control nausea or itching might be used to help you feel better. Chemotherapy and radiation can also be used to relieve problems caused by the tumor(s). Sometimes, surgery or other treatments are used to help you feel better or to help prevent possible problems the cancer might cause. Because bile duct cancers tend to grow and spread quickly, doctors try to use palliative therapies that are less likely to have unpleasant short-term side effects, whenever possible. Your cancer care team will talk with you about the pros and cons of all the treatments that might help you.
+Here are some examples of procedures that might be used as part of palliative care for bile duct cancer:
+Biliary stent or biliary catheter
+If cancer is blocking a bile duct, it can lead to jaundice (yellowing of the skin and eyes) as well as other problems, like infection and liver failure. A small tube or a catheter can be put into the duct to help keep it open.
+
+A stent is a small metal or plastic tube that's put through the blockage in the duct. It keeps the duct open to allow bile to drain into the small intestine.
+A catheter is a thin, flexible tube that's put in through the skin over the abdomen (belly). One end of the tube is put into a bile duct and the other end is outside the body. This allows the bile to drain into a bag. The bag can be emptied when needed. If you have a catheter, your doctor or nurse will teach you how to care for it.
+
+These procedures can be done as part of a cholangiography procedure such as ERCP or PTC (see Tests for Bile Duct Cancer ) or, in some cases, during surgery. They're often done to help prevent or relieve symptoms from more advanced cancers, but they can also be done to help relieve jaundice before potentially curative surgery is done. This helps lower the risk of complications from the surgery.
+The stent or catheter might need to be replaced every few months to help reduce the risk of infection and gallbladder inflammation. It will also need to be replaced if it becomes clogged.
+Biliary bypass
+Another option to allow bile to go into the small intestine and not build up in the liver is a surgery called biliary bypass. There are different biliary bypass operations. The decision on which one to use depends on where the blockage is. In these procedures, the surgeon creates a bypass around the tumor blocking the bile duct by connecting part of the bile duct before the blockage with a part of the duct that lies past the blockage, or with the intestine itself.
+As mentioned in Surgery for Bile Duct Cancer, biliary bypass is more likely to be done if a patient is already having surgery to try to cure the cancer by taking it out, but it turns out the cancer cannot be totally removed. While a bypass is clearly more invasive than placing a stent or catheter, it has some advantages in that it may last longer and infection is less likely to be a problem.
+Tumor ablation (radiofrequency ablation or cryosurgery)
+Tumors in the liver that can’t be resected can sometimes be destroyed (ablated) by putting a long metal probe through a small hole in the skin and into the tumor. A CT scan or ultrasound is used to guide it to the right place. The tip of the probe is then heated (in radiofrequency ablation ) or frozen (in cryotherapy) to kill the cancer cells.
+Photodynamic therapy (PDT)
+For PDT, a light-activated drug is injected into a vein. Over time, the drug tends to collect in cancer cells more than in normal cells. A few days later, an endoscope (a long, flexible tube that can be used to look inside the body) is passed down the throat, through the stomach and intestine, and into the bile ducts. A special laser light on the end of the endoscope is aimed at the tumor. The light turns on the drug, causing the cells to die. The combination of PDT and stenting can be helpful for patients with bile duct cancer whose tumors can't be removed with surgery.
+The drugs used for PDT can also collect in normal cells in the body, making a person very sensitive to sunlight or strong indoor lights. You'll need to stay out of any strong light for several weeks after the injection.
+Alcohol injection
+To relieve pain, doctors may deaden the nerves that carry pain signals from the bile duct and intestinal area to the brain by injecting these nerves with alcohol. This can be done during surgery or through a long, hollow needle that's guided into place with the help of a CT scan.The extent of bile duct cancer is an important factor in deciding on treatment options. Whenever possible, surgery is the main treatment for bile duct cancers. It offers the only realistic chance for a cure. Because of this, doctors generally divide bile duct cancers into:
+
+Resectable cancers, those that doctors believe can be removed completely by surgery, based on the results of imaging tests and other tests.
+Unresectable cancers, those that have spread too far or are in too difficult a place to be removed entirely by surgery.
+
+Most bile duct cancers are unresectable by the time they're found.
+Resectable bile duct cancers
+Most stage 0, I, and II cancers and possibly some stage III cancers are potentially resectable -- that is, it might be possible to remove them completely with surgery. But other factors can impact whether this is a good option, such as where the cancer is and whether the patient is healthy enough to have major surgery.
+Surgery to remove the cancer completely is the preferred treatment if it's possible. If surgery is being considered, a staging laparoscopy may be done first. This allows the doctor to look inside the abdomen (belly) for any spread of the cancer that could make it unresectable. (Laparoscopy is described in Tests for Bile Duct Cancer)
+Types of surgery
+The type of surgery done to remove the cancer depends on the location and extent of the cancer. (See Surgery for bile duct cancer for more details.)
+Other treatments that may be used with surgery
+If a person has jaundice (yellowing of the skin and eyes) before surgery, a stent or catheter may be put in the bile duct first. This allows the bile to flow the way it should. It can help relieve symptoms over a few days and might help make a person healthy enough to have the operation.
+Radiation therapy and/or chemotherapy (chemo) may be given after surgery to try to lower the risk that the cancer will come back. This is called adjuvant therapy. Doctors aren’t sure how helpful adjuvant therapy is. It's more likely to be used if there’s a higher chance that the cancer wasn’t removed completely (based on looking at and testing the tissue removed during surgery). If it's clear that some cancer was left behind, a second surgery to take out more tissue may also be an option in some cases.
+Sometimes it isn’t clear from imaging or other tests whether the cancer can be removed completely. These cancers may be called borderline resectable tumors. Some doctors may recommend treatment with radiation and/or chemo before surgery to try to shrink the tumor. (This is called neoadjuvant treatment.) Then, if the cancer shrinks, surgery can be done to try to remove all of it.
+Unresectable bile duct cancers
+These cancers cannot be removed with surgery, which includes most stage III and IV cancers. It may also include earlier stage cancers if a person isn’t healthy enough for surgery.
+Trying surgery
+As noted above, in cases where it isn’t clear if a cancer is resectable, chemotherapy and/or radiation therapy may be used first to try to shrink the cancer and make it resectable. Surgery could then be done to try to remove the cancer.
+In some cases, the doctor might think that a cancer is resectable, but once the operation starts it becomes clear that it can’t be removed completely. For example, the cancer may turn out to have spread farther than was seen on the imaging tests done before surgery. It doesn't help to remove only part of the cancer, and surgery could still cause major side effects, so this part of the operation is stopped. But while the doctor can see the area, a biliary bypass may be done to relieve any bile duct blockage or to try to keep it from happening in the future. Putting stents in the bile ducts to keep them open may also be an option.
+Liver transplant
+For some unresectable intrahepatic or perihilar bile duct cancers, a liver transplant (after complete removal of the liver and bile ducts) may be an option. Chemo and radiation may be given first. It's often hard to find a compatible liver donor, but a liver transplant can provide a chance for a cure.
+Other options
+For most bile duct cancers, it’s clear from imaging tests and/or laparoscopy when they're not resectable. For these cancers, treatment is aimed at trying to control the growth of the cancer for as long as possible and to relieve any symptoms it's causing.
+Radiation and/or chemo: Radiation therapy and/or chemo may shrink or slow the growth of the cancer for a time. When chemo is given alone (without radiation) the drugs cisplatin and gemcitabine are often used. When chemo is given with radiation, 5-FU is the drug most often used.
+Chemo plus immunotherapy: For advanced bile duct cancers that can’t be removed completely, another option might be chemo (cisplatin and gemcitabine) plus the immunotherapy drug pembrolizumab (Keytruda).
+Targeted therapy: For advanced bile duct cancers that have an FGFR2 or IDH1 gene mutation (change) and have grown after at least one other treatment, targeted therapy drugs might be an option.
+Ablation: For bile duct cancers within the liver, ablation using extreme heat (radiofrequency ablation) or cold (cryotherapy) may help control the tumors. But almost all of these cancers will start to grow again in the future.
+Clinical trials: For people looking to continue to try to treat the cancer, taking part in clinical trials of newer treatments may be an option. This way patients can get the best treatment available now and may also get the treatments that are thought to be even better.
+Much of the focus of treating people with unresectable cancers is on relieving symptoms from the cancer. Two of the most important problems are bile duct blockage (which can lead to jaundice, itching, and other symptoms) and pain.
+Palliative care
+This is supportive care. It's aimed at preventing and treating symptoms or problems caused by the bile duct cancer. Palliative care is used with every type of cancer treatment at every stage of bile duct cancer. It includes things like medicines to prevent nausea, pain control, and maintaining the flow of bile where a tumor may block it. Palliative care is focused on helping you feel better, it's not used to treat the cancer.
+Maintaining your quality of life is an important goal. Please don’t hesitate to discuss pain, other symptoms, or any quality-of-life concerns with your cancer care team.
+See Palliative Therapy for Bile Duct Cancer for details on some of these treatments.
+Recurrent bile duct cancer
+Cancer is called recurrent when it come backs after treatment. Recurrence can be local (in or near the same place it started) or distant (it comes back in other parts of the body, like the lungs). If the cancer comes back, further treatment depends on where the cancer recurs, the kind of treatment used in the past, and the patient’s overall health.
+In most cases if the cancer comes back after initial treatment, it will not be resectable. Treatment will be aimed at controlling the cancer growth and relieving symptoms, as described above for unresectable cancers and palliative care. In rare cases, if the cancer comes back where it started, surgery to try to remove the cancer (and possibly adjuvant therapy afterwards) may be an option. Because most of these cancers are not curable, people might want to consider taking part in a clinical trial of newer treatments.For some people with bile duct cancer, treatment can remove or destroy the cancer. The end of treatment can be both stressful and exciting. You may be relieved to finish treatment, but it’s hard not to worry about cancer coming back. This is very common if you’ve had cancer.
+For other people, the cancer might never go away completely. Some people may get regular treatment with chemotherapy or other treatments to try and help keep the cancer in check. Learning to live with cancer that doesn't go away can be difficult and very stressful. 
+Life after cancer means returning to some familiar things and also making some new choices.
+Follow-up care
+If you have completed treatment, your doctors will still want to watch you closely. It’s very important to go to all of your follow-up appointments. During these visits, your doctors will ask questions about any problems you may have. They will examine you and may check lab tests or x-rays and scans to look for signs of cancer or treatment side effects.
+Almost any cancer treatment can have side effects. Some may last for a few weeks to months, but others can last the rest of your life. Talk to your cancer care team about any changes or problems you notice and about any questions or concerns you have.
+There's no follow-up schedule for bile duct cancer for all doctors to follow. Many doctors recommend blood and/or imaging tests about every 6 months for at least the first couple of years after treatment. Then your doctor will probably want to see you once a year.
+If the cancer does come back (recur), further treatment will depend on where the cancer is, what treatments you’ve had before, and your overall health. For more on how recurrent bile duct cancer is treated, see Treatment Options Based on the Extent of Bile Duct Cancer . For more general information on recurrence, see Understanding Recurrence.
+Ask your doctor for a survivorship care plan
+Talk with your doctor about developing a survivorship care plan for you. This plan might include: 
+
+A suggested schedule for follow-up exams and tests
+A schedule for other tests you might need in the future, such as early detection (screening) tests for other types of cancer, or tests to look for long-term health effects from your cancer or its treatment
+A list of possible late- or long-term side effects from your treatment, including what to watch for and when you should contact your doctor
+Diet and physical activity suggestions
+Reminders to keep your appointments with your primary care provider (PCP), who will monitor your general health care 
+
+Keeping health insurance and copies of your medical records
+Even after treatment, it’s very important to keep health insurance. Tests and doctor visits cost a lot, and even though no one wants to think of their cancer coming back, this could happen.
+At some point after your cancer treatment, you might find yourself seeing a new doctor who doesn’t know about your medical history. It’s important to keep copies of your medical records to give your new doctor the details of your diagnosis and treatment. Learn more in Keeping Copies of Important Medical Records.
+Can I lower my risk of bile duct cancer progressing or coming back?
+If you have (or have had) bile duct cancer, you probably want to know if there are things you can do that might lower your risk of the cancer growing or coming back, such as exercising, eating a certain type of diet, or taking nutritional supplements. Unfortunately, it’s not yet clear if there are things you can do that will help.
+Adopting healthy behaviors such as not smoking, eating well, getting regular physical activity, and staying at a healthy weight might help, but no one knows for sure. Still, we do know that these types of changes can have positive effects on your health that can extend beyond your risk of bile duct cancer or other cancers.
+About dietary supplements
+So far, no dietary supplements (including vitamins, minerals, and herbal products) have been shown to clearly help lower the risk of bile duct cancer progressing or coming back. This doesn’t mean that no supplements will help, but it’s important to know that none have been proven to do so.
+Dietary supplements are not regulated like medicines in the United States. They do not have to be proven effective (or even safe) before being sold, although there are limits on what they’re allowed to claim they can do. If you’re thinking about taking any type of nutritional supplement, talk to your health care team. They can help you decide which ones you can use safely while avoiding those that might be harmful.
+If the cancer comes back
+If the cancer does recur at some point, your treatment options will depend on where the cancer is located, what treatments you’ve had before, and your overall health. For more information on how recurrent cancer is treated, see ﻿Treatment Options Based on the Extent of Bile Duct Cancer.
+For more general information, you may also want to see Understanding Recurrence.
+Getting emotional support
+Some amount of feeling depressed, anxious, or worried is normal when cancer is a part of your life. Some people are affected more than others. But everyone can benefit from help and support from other people, whether friends and family, religious groups, support groups, professional counselors, or others. Learn more in Life After Cancer.What is bile duct cancer?
+Cancer can start anywhere in the body. Bile duct cancer starts when cells in the bile ducts start to grow out of control and crowd out normal cells. This makes it hard for the body to work the way it should.
+Cancer cells can spread to other parts of the body. Cancer cells in the bile ducts can sometimes travel to the lungs and grow there. When cancer cells do this, it’s called metastasis . To doctors, the cancer cells in the new place look just like the ones from the bile ducts.
+Cancer is always named for the place where it starts. So when bile duct cancer spreads to the lungs (or any other place), it’s still called bile duct cancer. It’s not called lung cancer unless it starts in the lungs.

@@ -1,0 +1,642 @@
+Myelodysplastic syndromes (MDS) are conditions that can occur when the blood-forming cells in the bone marrow become abnormal. This leads to low numbers of one or more types of blood cells. MDS is considered a type of cancer.
+Normal bone marrow
+Bone marrow is found in the middle of certain bones. It is made up of blood-forming cells, fat cells, and supporting tissues. A small fraction of the blood-forming cells are blood stem cells. Stem cells are needed to make new blood cells.
+There are 3 main types of blood cells: red blood cells, white blood cells, and platelets.
+Red blood cells pick up oxygen in the lungs and carry it to the rest of the body. These cells also bring carbon dioxide back to the lungs. Having too few red blood cells is called anemia. It can make a person feel tired and weak and look pale. Severe anemia can cause shortness of breath.
+White blood cells (also known as leukocytes) are important in defending the body against infection. There are different types of white blood cells:
+
+Granulocytes are white blood cells that have granules that can be seen under the microscope. In the bone marrow, granulocytes develop from young cells called myeloblasts. The most common type of granulocyte is the neutrophil. When the number of neutrophils in the blood is low, the condition is called neutropenia. This can lead to severe infections.
+Monocytes are also important in protecting the body against germs. The cells in the bone marrow that turn into monocytes are called monoblasts.
+Lymphocytes make proteins called antibodies that help the body fight germs. They can also directly kill invading germs. Lymphocytes are not usually abnormal in MDS.
+
+Platelets are thought of as a type of blood cell, but they are actually small pieces of a cell. They start as a large cell in the bone marrow called the megakaryocyte. Pieces of this cell break off and enter the bloodstream as platelets. You need platelets for your blood to clot. They plug up damaged areas of blood vessels caused by cuts or bruises. A shortage of platelets, called thrombocytopenia, can result in abnormal bleeding or bruising.
+Myelodysplastic syndromes
+In MDS, some of the cells in the bone marrow are abnormal (dysplastic) and have problems making new blood cells. Many of the blood cells formed by these bone marrow cells are defective. Defective cells often die earlier than normal cells, and the body also destroys some abnormal blood cells, leaving the person without enough normal blood cells. Different cell types can be affected, although the most common finding in MDS is a shortage of red blood cells (anemia).
+There are several different types of MDS, based on how many types of blood cells are affected and other factors.
+In about 1 in 3 patients, MDS can progress to a rapidly growing cancer of bone marrow cells called acute myeloid leukemia (AML). In the past, MDS was sometimes referred to as pre-leukemia or smoldering leukemia. Because most patients do not get leukemia, MDS used to be classified as a disease of low malignant potential. Now that doctors have learned more about MDS, it is considered to be a form of cancer.Myelodysplastic syndromes (MDS) are classified using the World Health Organization (WHO) classification system, which was most recently updated in 2016. It divides MDS into types based mainly on how the cells in the bone marrow look under the microscope, as well as some other factors:
+
+How many early forms of cell types in the bone marrow (red blood cells, white blood cells, or platelets) show dysplasia (look abnormal under the microscope).
+How many types of low blood cell counts (cytopenias) a person has. 
+What portion of early red blood cells are ring sideroblasts (cells that contain rings of iron deposits around the nucleus).
+The portion of blasts (very early forms of blood cells) in the bone marrow or blood.
+Certain chromosome changes in the bone marrow cells. 
+
+Based on these factors, the WHO system recognizes 6 main types of MDS:
+
+MDS with multilineage dysplasia (MDS-MLD)
+MDS with single lineage dysplasia (MDS-SLD)
+MDS with ring sideroblasts (MDS-RS)
+MDS with excess blasts (MDS-EB)
+MDS with isolated del(5q)
+MDS, unclassifiable (MDS-U)
+
+Because small differences in the way the cells look can change the diagnosis, doctors may sometimes disagree on a patient’s exact type of MDS.
+MDS with multilineage dysplasia (MDS-MLD)
+In MDS-MLD:
+
+Dysplasia is seen in at least 10% of the early cells of 2 or 3 cell types (red blood cells, white blood cells, and/or megakaryocytes [the cells that make platelets]) in the bone marrow. 
+The person has low numbers of at least 1 type of blood cell. 
+There is a normal number (less than 5%) of very early cells called blasts in the bone marrow, and blasts are rare (or absent) in the blood.
+
+This is the most common type of MDS. In the past, it was referred to as refractory cytopenia with multilineage dysplasia (RCMD).
+MDS with single lineage dysplasia (MDS-SLD)
+In MDS-SLD: 
+
+Dysplasia is seen in at least 10% of the early cells of 1 cell type (either red blood cells, white blood cells, or megakaryocytes [the cells that make platelets]) in the bone marrow. 
+The person has low numbers of 1 or 2 types of blood cells, but normal numbers of the other type(s). 
+There is a normal number (less than 5%) of very early cells called blasts in the bone marrow, and blasts are rare (or absent) in the blood.
+
+This type of MDS is not common. It seldom, if ever, progresses to acute myeloid leukemia (AML). Patients with this type of MDS can often live a long time, even without treatment.
+This was referred to as refractory cytopenia with unilineage dysplasia (RCUD) in the previous classification system. It includes refractory anemia (RA), refractory neutropenia (RN), and refractory thrombocytopenia (RT), depending on which cell type is affected.
+
+MDS with ring sideroblasts (MDS-RS)
+In this type of MDS, many of the early red blood cells are ring sideroblasts. For this diagnosis, at least 15% of the early red blood cells must be ring sideroblasts (or at least 5% if the cells also have a mutation in the SF3B1 gene).
+This condition is further divided into 2 types, based on how many of the cell types in the bone marrow are affected by dysplasia:
+
+MDS-RS with single lineage dysplasia (MDS-RS-SLD): dysplasia in only one cell type 
+MDS-RS with multilineage dysplasia (MDS-RS-MLD): dysplasia in more than one cell type
+
+This type of MDS is not common. It rarely turns into AML, and the outcome for people with this type is generally better than for some other types of MDS. This was previously referred to as refractory anemia with ring sideroblasts (RARS).
+MDS with excess blasts (MDS-EB)
+In this type of MDS, there are more blasts than normal in the bone marrow and/or blood. The person also has low numbers of at least one type of blood cell. There may or may not be severe dysplasia in the bone marrow.
+This condition is further divided into 2 types, based on how many of the cells in the bone marrow or blood are blasts:
+
+MDS-EB1: blasts make up 5% to 9% of the cells in the bone marrow, or 2% to 4% of the cells in the blood 
+MDS-EB2: blasts make up 10% to 19% of the cells in the bone marrow, or 5% to 19% of the cells in the blood
+
+This type accounts for about 1 in 4 cases of MDS. It is one of the types most likely to turn into AML, with the risk being higher for MDS-EB2 than for MDS-EB1. This was previously referred to as refractory anemia with excess blasts (RAEB).
+MDS with isolated del(5q)
+In this type of MDS, the chromosomes of the bone marrow cells are missing part of chromosome number 5. (There may also be one other chromosome abnormality, as long as it isn’t a loss of part or all of chromosome 7.) The person also has low numbers of 1 or 2 types of blood cells (usually red blood cells), and there is dysplasia in at least 1 cell type in the bone marrow.
+This type of MDS is not common. It occurs most often in older women. For reasons that aren’t clear, patients with this type of MDS tend to have a good prognosis (outlook). They often live a long time and rarely go on to develop AML.
+MDS, unclassifiable (MDS-U)
+This type of MDS is uncommon. For MDS-U, the findings in the blood and bone marrow don’t fit any other type of MDS. For example, the numbers of any one of the cell types may be low in the blood, but less than 10% of that type of cell looks abnormal in the bone marrow. Or the cells in the bone marrow have at least one certain chromosome abnormality that is only seen in MDS or leukemia.
+This type is rare, so it has not been studied well enough to predict prognosis (outlook).
+Clinical classification of MDS
+Along with the WHO classification, MDS can also be classified based on the underlying cause. This is known as a clinical classification.
+
+If no cause can be identified, it's called primary MDS. (This type is more common.)
+When the cause of the disease is known, it's called secondary MDS.
+
+Secondary MDS is often related to prior cancer treatment, or it develops in someone who already had a different bone marrow disease. This is discussed further in Risk Factors for Myelodysplastic Syndrome.
+Identifying MDS as primary or secondary is important because the secondary type is much less likely to respond to treatment.The number of people diagnosed with myelodysplastic syndromes (MDS) in the United States each year is not known for sure. Some estimates have put this number at about 10,000, while other estimates have been much higher.
+MDS is uncommon before age 50, and the risk increases as a person gets older. It is most commonly diagnosed in people in their 70s. The number of new cases diagnosed each year is likely increasing as the average age of the US population increases.Research into the causes, diagnosis, and treatment of myelodysplastic syndromes (MDS) is being done at many cancer research centers around the world.
+Genetics and biology of MDS
+Scientists are making progress in understanding how changes in the DNA (genes) inside normal bone marrow cells can cause them to develop into myelodysplastic cells. It’s also clear that not all cases of MDS have the same gene changes. An improved understanding of this is helping to better classify different types of MDS and to determine a person’s likely prognosis (outlook). It might also help determine which patients might benefit most from different types of treatment.
+Scientists are also learning how bone marrow stromal cells influence MDS cells. Stromal cells in the bone marrow do not develop into blood cells. Instead, they help support, nourish, and regulate the blood-forming cells. Some studies suggest that although the stromal cells in MDS patients are not cancerous, they are not normal either, and seem to have a role in causing MDS. Scientists have identified some of the chemical signals that are exchanged between stromal cells and MDS cells.
+As more information from this research unfolds, it may be used to help develop new drugs or other types of treatment.
+Chemotherapy
+Studies are being done to find new drugs and drug combinations that might work better, as well as having less serious side effects.
+Drugs called hypomethylating agents, such as azacitidine (Vidaza) and decitabine (Dacogen), are currently some of the most effective drugs in treating MDS. But they’re not helpful for everyone, and they eventually stop working for most people. Guadecitabine is a newer drug that is related to decitabine, but it stays inside cells longer, so in theory it might work better. It has helped some people in early studies, and is now being tested in a larger study.
+Researchers are also testing oral (by mouth) forms of azacitidine and decitabine, which might be easier for patients to take.
+Research is also under way to see if there are some patients who might benefit from more intensive chemotherapy.
+Immune suppression
+In some people with MDS, the immune system seems to interfere with normal blood cell production. Some medicines, such as ATG and cyclosporine, are already being used to treat some people with MDS. Researchers are now looking at other ways to suppress the immune system in people with MDS to see if this might be helpful.
+Targeted therapy
+Targeted therapy drugs work differently from standard chemotherapy drugs. They affect specific parts of cancer cells that make them different from normal, healthy cells. Targeted drugs might work in some cases where chemotherapy doesn’t, and they tend to have different (and sometimes less severe) side effects. Targeted drugs are now part of the treatment for many types of cancer, and they are being studied for use in MDS as well.
+For example, luspatercept is a new drug that blocks cellular proteins that are part of the TGF-beta superfamily. These proteins slow down red blood cell production. In early studies, this drug has shown a lot of promise in raising red blood cell levels in people with lower-risk forms of MDS. Further studies of this and similar drugs are under way.
+Rigosertib is a new drug that targets several different proteins that normally help cancer cells grow. This drug has been shown to help some people with high-risk MDS in early studies, and is now being studied for use by itself and along with azacitidine.
+Other new targeted drugs now being studied for use in MDS include:
+
+Imetelstat, a telomerase inhibitor
+Pevonedistat, an NAE inhibitor
+Selinexor, an XPO1 inhibitor
+Glasdegib, a smoothened (SMO) inhibitor
+
+Many other targeted therapy drugs are now being studied as well.
+More general information on this type of treatment can be found in Targeted Therapy.
+Stem cell transplant
+Scientists continue to refine this procedure to increase its effectiveness, reduce complications, and determine which patients are most likely to be helped by this treatment.A risk factor is anything that changes your chance of getting a disease such as cancer. Different cancers have different risk factors. Some risk factors, like smoking, you can change. Others, like your age or family history, can’t be changed.
+But having a risk factor, or even several, does not always mean that a person will get the disease, and many people get cancer without having any known risk factors.
+There are several known risk factors for myelodysplastic syndromes (MDS).
+Older age
+Older age is one of the most important risk factors for MDS. MDS is uncommon in people younger than 50, and most cases are found in people in their 70s or 80s.
+Sex
+MDS is more common in men than in women. The reason for this is not clear, although it might have to do with men having been more likely to smoke or to be exposed to certain chemicals in the workplace in the past.
+Cancer treatment
+Prior treatment with chemotherapy (chemo) is another important risk factor for MDS. Patients who have been treated with certain chemo drugs for cancer are more likely to develop MDS later on. When MDS is caused by cancer treatment it is called secondary MDS or treatment-related MDS.
+Some of the drugs that can lead to MDS include:
+
+Mechlorethamine (nitrogen mustard)
+Procarbazine
+Chlorambucil
+Cyclophosphamide
+Ifosfamide
+Etoposide
+Teniposide
+Doxorubicin
+
+The risk of secondary MDS varies based on the type and doses of drugs. It might also be affected by the type of cancer the chemo is treating. Combining these drugs with radiation therapy increases the risk further. People who have had stem cell transplants (bone marrow transplants) can also develop MDS because of the very high doses of chemo they received. Still, only a small percentage of people who are treated with these medicines will eventually develop MDS.
+Genetic syndromes
+People with certain inherited syndromes are more likely to develop MDS. These syndromes are caused by abnormal (mutated) genes that have been passed on from one or both parents. Examples include:
+
+Fanconi anemia
+Shwachman-Diamond syndrome
+Diamond Blackfan anemia
+Familial platelet disorder with a propensity to myeloid malignancy
+Severe congenital neutropenia
+Dyskeratosis congenita
+
+Familial MDS
+In some families, MDS occurs more often than would be expected. Sometimes this is due to a known gene mutation that runs in the family, but in other cases the cause isn’t clear.
+Smoking
+Smoking increases the risk of MDS. Many people know that smoking can cause cancer of the lungs, but it can also cause cancer in other parts of the body that don't come into direct contact with smoke. Cancer-causing substances in tobacco smoke are absorbed into the blood as it passes through the lungs. Once in the bloodstream, these substances spread to many parts of the body.
+Environmental exposures
+Some environmental exposures have been linked to MDS:
+
+High-dose radiation exposure (such as surviving an atomic bomb blast or nuclear reactor accident) increases the risk of developing MDS.
+Long-term workplace exposure to benzene and certain chemicals used in the petroleum and rubber industries can also increase the risk of developing MDS.Some cases of myelodysplastic syndrome (MDS) are linked to known risk factors, but most often, the cause is unknown.
+Scientists have made great progress in understanding how certain changes in the DNA in bone marrow cells may cause MDS to develop. DNA is the chemical that makes up our genes, which control how our cells function. We usually look like our parents because they are the source of our DNA. But DNA affects more than the way we look.
+Some genes control when our cells grow, divide into new cells, and die: 
+
+Certain genes that help cells grow, divide, and stay alive are called oncogenes. 
+Genes that help keep cell division under control, or cause cells to die at the right time are called tumor suppressor genes. 
+
+Cancers can be caused by gene mutations (defects) that turn on oncogenes or turn off tumor suppressor genes.
+Usually mutations in several different genes inside bone marrow cells are needed before a person develops MDS. Some of the mutations most often seen in MDS cells include those in the DNMT3A, TET2, ASXL1, TP53, RUNX1, SRSF2, and SF3B1 genes. Some of these gene changes can be inherited from a parent, but more often they happen during a person’s lifetime.
+Inherited gene changes
+Researchers have found the gene changes that cause some rare inherited syndromes (like familial platelet disorder with a propensity to myeloid malignancy) linked to an increased risk of developing MDS. This syndrome is caused by inherited changes in the RUNX1 gene. Normally, this gene helps control the development of blood cells. Changes in this gene can lead to blood cells not maturing like they normally would, which can increase the risk of developing MDS.
+Gene changes acquired during a person’s lifetime
+Often, it’s not known why people without inherited syndromes develop MDS. 
+Some outside exposures can lead to MDS by damaging the DNA inside bone marrow cells. For example, tobacco smoke contains chemicals that can damage genes. Exposure to radiation or certain chemicals such as benzene or some chemotherapy drugs can also cause mutations that lead to MDS.
+But sometimes the gene changes that lead to MDS seem to occur for no apparent reason. Many of these gene changes are probably just random events that sometimes happen inside a cell, without having an outside cause. 
+Gene changes inside cells can build up over a person’s lifetime, which might help explain why MDS largely affects older people.There is no sure way to prevent myelodysplastic syndromes (MDS). But there are things you can do that might lower your risk.
+Not smoking
+Since smoking is linked to an increased risk of MDS, not smoking can lower the risk. Of course, people who don't smoke are also less likely than people who smoke to develop many other types of cancers, as well as heart disease, stroke, and other diseases.
+Avoiding exposure to radiation or certain chemicals
+Avoiding known cancer-causing industrial chemicals, such as benzene, might lower your risk of developing MDS. 
+Treating cancer with radiation and certain chemotherapy drugs can increase the risk of MDS. Doctors are studying ways to limit the risk of MDS in patients who get these treatments. For some cancers, doctors may try to avoid using the chemotherapy drugs that are more likely to lead to MDS. Some people, however, may need these specific drugs. Often, the obvious benefits of treating life-threatening cancers with chemo and radiation therapy must be balanced against the small chance of developing MDS several years later.At this time, there are no widely recommended tests to screen for myelodysplastic syndromes (MDS). (Screening is testing for cancer in people without any symptoms.)
+MDS is sometimes found when a person sees a doctor because of signs or symptoms they are having. These signs and symptoms often do not show up in the early stages of MDS. But sometimes MDS is found before it causes symptoms because of an abnormal result on a blood test that was done as part of a routine exam or for some other health reason. MDS that is found early does not always need to be treated right away, but it should be watched closely for signs that it's progressing.
+For some people who are known to be at increased risk, such as people with certain inherited syndromes or people who have received certain chemotherapy drugs, doctors might recommend close follow-up with blood tests or other exams or tests to look for possible early signs of MDS.A main feature of myelodysplastic syndromes (MDS) is that they cause low blood cell counts. Sometimes this is found on blood tests, even before symptoms appear. In other cases, symptoms related to shortages of one or more types of blood cells (cytopenias) are the first sign of MDS:
+
+Having too few red blood cells (anemia) can lead to feeling tired, dizzy, or weak, as well as shortness of breath and pale skin.
+Not having enough normal white blood cells (leukopenia), especially cells called neutrophils (neutropenia), can lead to frequent or severe infections.
+Having too few blood platelets (thrombocytopenia) can lead to easy bruising and bleeding. Some people have frequent or severe nosebleeds or bleeding from the gums.
+
+Other symptoms can include:
+
+Weight loss
+Fever
+Bone pain
+Loss of appetite
+
+These symptoms are more likely to be caused by something other than MDS. Still, if you have any of these symptoms, especially if they don’t go away or get worse over time, see your doctor so that the cause can be found and treated, if needed.Some people have signs or symptoms that suggest they might have a myelodysplastic syndrome (MDS). If you have symptoms, your health care provider will get a complete medical history, focusing on your symptoms and when they began. You will also be examined for possible causes of your symptoms.
+For other people, MDS might be suspected based on the results of blood tests that are done for another reason.
+In either case, if MDS is suspected, you will likely need tests to look at your blood and bone marrow cells to see if you have MDS or some other health condition.
+Blood cell counts and blood cell examination
+The complete blood count (CBC) is a test that measures the levels of red blood cells, white blood cells, and platelets in your blood. The CBC is often done with a differential count (or “diff”), which is a count of the different types of white blood cells in the blood sample. In a blood smear, some of the blood is put on a slide to see how the cells look under the microscope.
+Patients with MDS often have too few red blood cells (anemia). They may have shortages of white blood cells and blood platelets as well. Patients with some types of MDS might also have myeloblasts ("blasts") in the blood. These are very early forms of blood cells that are normally only found in bone marrow. Blasts in the blood are not normal and are often a sign of a bone marrow problem. Blood cells from MDS patients may also have certain abnormalities in size, shape, or other features that can be seen under the microscope.
+Blood abnormalities may suggest MDS, but the doctor cannot make an exact diagnosis without examining a sample of bone marrow cells.
+Other blood tests
+The doctor may also order tests to check for other possible causes of low blood counts. For example, low levels of iron, vitamin B12, or folate can cause anemia. If one of these is found to be abnormal, a diagnosis of MDS is much less likely.  
+Bone marrow tests
+Bone marrow samples are obtained from a bone marrow aspiration and biopsy, tests that are usually done at the same time. The samples are usually taken from the back of the pelvic (hip) bone. These tests are used first for diagnosis and classification, and they may be repeated later to tell if the MDS is responding to treatment or is transforming into an acute leukemia.
+For a bone marrow aspiration, the skin over the hip and the surface of the bone is numbed with local anesthetic, which may cause a brief stinging or burning sensation. A thin, hollow needle is then inserted into the bone, and a syringe is used to suck out a small amount of liquid bone marrow. Even with the anesthetic, most patients still have some brief pain when the marrow is removed.
+A bone marrow biopsy is usually done just after the aspiration. A small piece of bone and marrow is removed with a slightly larger needle that is put into the bone. The biopsy may also cause some brief pain. Once the biopsy is done, pressure will be applied to the site to help prevent bleeding.
+Lab tests of bone marrow or blood samples
+A pathologist (a doctor specializing in the diagnosis of diseases using laboratory tests) examines the bone marrow and blood samples under a microscope. Other doctors, such as a hematologist (a doctor specializing in medical treatment of diseases of the blood and blood-forming tissues), might review these as well.
+The doctors will look at the size, shape, and other features of the cells. The percentage of cells in the bone marrow or blood that are blasts (very early forms of blood cells) is particularly important. In MDS, the blasts do not mature properly, so there may be too many blasts and not enough mature cells.
+For a diagnosis of MDS, a patient must have less than 20% blasts in the bone marrow and blood. A patient who has more than 20% blasts is considered to have acute myeloid leukemia (AML).
+Other types of lab tests can also be done on the bone marrow or blood samples to help diagnose MDS:
+Flow cytometry and immunocytochemistry
+For both flow cytometry and immunocytochemistry, samples of cells are treated with antibodies, which are proteins that stick only to certain other proteins on cells. For immunocytochemistry, the cells are then looked at under a microscope to see if the antibodies stuck to them (meaning they have these proteins), while for flow cytometry a special machine is used.
+These tests can be helpful in distinguishing different types of MDS or leukemia from one another and from other diseases.
+Chromosome tests
+These tests look at the chromosomes (long strands of DNA) inside the cells. Each cell should have 46 chromosomes (23 pairs). Abnormal chromosomes are common in MDS (see below).
+Cytogenetics: In this test, the cells are looked at under a microscope to see if the chromosomes have any abnormalities. A drawback of this test is that it usually takes about 2 to 3 weeks because the cells must grow in lab dishes for a couple of weeks before their chromosomes can be viewed.
+The results of cytogenetic testing are written in a shorthand form that describes which chromosome changes are present. For example:
+
+A minus sign (-) or the abbreviation “del” is used to mean a deletion. For example, if a copy of chromosome 7 is missing, it can be written as -7 or del(7). Often, only a part of the chromosome is lost. There are 2 parts to a chromosome, called p and q. The loss of the q part of chromosome 5 is written 5q- or del(5q).
+A plus sign is used when there is an addition (an extra copy of all or part of a chromosome). +8, for example, means that chromosome 8 has been duplicated, and there are too many copies of it within the cell.
+The letter t is used to indicate a translocation, in which parts of two chromosomes have traded places with each other. For example, if chromosomes 8 and 21 have swapped pieces, it would be written as t(8;21)
+
+Certain chromosome changes in MDS cells can help predict the likely course of MDS. For example, a deletion of a part of chromosome 5, or del(5q), usually predicts a better outcome (as long as there is no more than one other chromosome change, and it isn't a loss of part of chromosome 7). Changes in 3 or more chromosomes or the deletion of chromosome 7 tend to have a poorer outlook.
+Fluorescent in situ hybridization (FISH): This test looks more closely at cell DNA using fluorescent dyes that only attach to specific gene or chromosome changes. An advantage of FISH is that it doesn’t require actively dividing cells, so it can usually provide results within a couple of days. FISH is very good for finding translocations – it can even find some that may be too small to be seen with usual cytogenetic testing.
+Polymerase chain reaction (PCR): This is a very sensitive DNA test that can also find some chromosome changes too small to be seen under a microscope, even if there are very few abnormal cells in a sample.
+Other molecular and genetic tests
+Other types of lab tests can also be done on the samples to look for specific gene or other changes in the MDS cells. This is sometimes referred to as biomarker testing.
+For example, the MDS cells are tested for changes (mutations) in genes such as IDH1. People whose MDS cells have changes in this gene are more likely to be helped by treatment with certain targeted therapy drugs.For most types of cancer, the stage of the cancer – a measure of how far it has spread – is one of the most important factors in selecting treatment options and in determining a person’s outlook (prognosis).
+But myelodysplastic syndromes (MDS) are diseases of the bone marrow. The outlook for these cancers isn't based on the size of a tumor or whether the cancer has spread. Because of this, doctors use other factors to predict outlook and decide when to treat. Some of these factors have been combined to develop scoring systems.
+Revised International Prognostic Scoring System (IPSS-R)
+The revised International Prognostic Scoring System (IPSS-R) is based on 5 factors:
+
+The percentage of blasts (very early forms of blood cells) in the bone marrow
+The type and number of chromosome abnormalities in the cells
+The level of red blood cells (measured as hemoglobin) in the patient's blood
+The level of platelets in the patient's blood
+The level of neutrophils (a type of white blood cell) in the patient's blood
+
+Each factor is given a score, with the lowest scores having the best outlook. Then the scores for the factors are added up to put people with MDS into 5 risk groups:
+
+Very low risk
+Low risk
+Intermediate risk
+High risk
+Very high risk
+
+These risk groups can be used to help predict a person’s outlook. This can be helpful when trying to determine the best treatment options.
+This system has some important limitations. For example, it was developed before many of the current treatments for MDS were available, so it only took into account people who were not treated for their MDS. It also did not include people who have MDS as a result of getting chemotherapy (secondary MDS). But this system can still be helpful and is still widely used.
+WHO Prognostic Scoring System (WPSS)
+The World Health Organization (WHO) scoring system is based on 3 factors:
+
+The type of MDS based on the WHO classification (For example, certain types of MDS-SLD and MDS-del(5q) tend to have the best outlook, whereas MDS-EB tends to have the worst.)
+Chromosome abnormalities (grouped as good, intermediate, or poor)
+Whether or not the patient needs regular blood transfusions
+
+Each factor is given a score, with the lowest scores having the best outlook. Then the scores are added up to put people with MDS into 5 risk groups:
+
+Very low risk
+Low risk
+Intermediate risk
+High risk
+Very high risk
+
+These risk groups can be used to help predict a person’s outlook, as well as how likely the MDS is to transform into acute myeloid leukemia (AML). This can be helpful when trying to determine the best treatment options. But as with the IPSS-R, this system has some important limitations. For example, it does not include people who have MDS as a result of getting chemotherapy (known as secondary MDS).
+Both the IPSS-R and the WPSS can be complex, and different doctors might use different systems. If you have MDS, talk to your doctor about which system they use, which risk group you are in, and what it might mean for your treatment and outlook.
+Other prognostic factors
+Along with the factors used in these scoring systems, doctors have found other factors that can also help predict a person’s outlook. These include:
+
+A person’s age
+A person’s performance status (how well they’re able to do normal daily activities)
+The severity of low blood cell counts
+The results of certain blood tests, such as the serum ferritin level
+Certain gene or chromosome changes that are not accounted for in the scoring systemsSurvival statistics are a way for doctors and patients to get a general idea of the outlook (prognosis) for people with a certain type of cancer. They can’t tell you how long you will live, but they may help give you a better understanding about how likely it is that your treatment will be successful. Some people will want to know the survival statistics for their cancer, and some people won’t. If you don’t want to know, you don’t have to.
+Median survival is one way to look at outcomes. It is the time after diagnosis at which half the patients in a certain group are still alive, and half have died. This is a middle value – half the patients live longer than this, and half do not live this long.
+Survival statistics don't tell the whole story
+Survival stats are often based on previous outcomes of large numbers of people who had the disease, but they can’t predict what will happen in any particular person’s case. There are some limitations to remember:
+
+The numbers below are based on patients diagnosed with a myelodysplastic syndrome (MDS) some time ago. Improvements in treatment since these numbers were gathered may result in a better outlook for people now being diagnosed with MDS.
+These numbers are based on prognostic scores that take into account certain factors, such as the type of MDS, the results of certain blood tests, and whether the abnormal cells have certain chromosome changes. But other factors might also affect a person’s outlook, such as the patient’s age and health, and how well the disease responds to treatment.
+
+Your doctor can tell you how the numbers below apply to you.
+Survival statistics for MDS
+The following survival statistics are based on the revised International Prognostic Scoring System (IPSS-R) risk groups. It’s important to note that this system is based largely on people who were diagnosed many years ago and who did not get treatments such as chemotherapy for their MDS.
+
+
+
+IPSS-R risk group
+Median survival
+
+
+Very low
+8.8 years
+
+
+Low
+5.3 years
+
+
+Intermediate
+3 years
+
+
+High
+1.6 years
+
+
+Very high
+0.8 years
+
+
+
+The WHO Prognostic Scoring System (WPSS) risk groups can also be used to predict outcome – both median survival and the chance that the MDS will transform into acute myeloid leukemia (AML) within 5 years. These statistics were published in 2007 based on patients diagnosed between 1982 and 2004.
+
+
+
+WPSS Risk Group
+Median Survival
+
+Risk of AML (within 5 years) 
+
+
+Very low
+11.8 years
+3%
+
+
+Low
+5.5 years
+14%
+
+
+Intermediate
+4 years
+33%
+
+
+High
+2.2 years
+54%
+
+
+Very high
+9 months
+84%
+
+
+
+Remember, these survival statistics are only estimates – they can’t predict what will happen to any individual person. Many other factors can also affect a person’s outlook. We understand that these statistics can be confusing and may lead you to have more questions. Talk to your doctor to better understand your specific situation.It is important to have open and honest discussions with your cancer care team about your myelodysplastic syndrome (MDS). You should feel free to ask any question, no matter how minor it might seem. For instance, consider these questions:
+When you’re told you have MDS
+
+How sure are you about the diagnosis of MDS?
+Can you explain what MDS is? How is it different from leukemia?
+Do I need any other tests before we can decide on treatment?
+Do I need to see any other types of doctors?
+What type of myelodysplastic syndrome do I have?
+Which risk group does my MDS fall into? How might this affect my prognosis and treatment options?
+Are there other factors that could affect my outlook or treatment options?
+If I’m concerned about the costs and insurance coverage for my diagnosis and treatment, who can help me?
+
+When deciding on a treatment plan
+
+How much experience do you have treating MDS?
+What treatment choices do I have? Do we need to treat the MDS right away?
+Which treatment, if any, do you recommend, and why?
+Should I get a second opinion before starting treatment? Can you suggest a doctor or cancer center?
+What should I do to be ready for treatment?
+How long will treatment last? What will it be like? Where will it be done?
+What are the risks or side effects of the treatments that you recommend? How long are they likely to last?
+Will treatment affect my daily activities?
+What is the outlook for my survival?
+
+During and after treatment
+Once treatment begins, you’ll need to know what to expect and what to look for. Not all of these questions may apply to you, but getting answers to the ones that do may be helpful.
+
+How will we know if the treatment is working?
+What type of follow-up will I need during and after treatment?
+Is there anything I can do to help manage side effects?
+What symptoms or side effects should I tell you about right away?
+How can I reach you on nights, holidays, or weekends?
+Do I need to change what I eat during treatment?
+Are there any limits on what I can do? 
+Should I exercise? What should I do, and how often?
+Can you suggest a mental health professional I can see if I start to feel overwhelmed, depressed, or distressed?
+What would my options be if the treatment isn’t working?
+Where can I find more information and support?
+
+Along with these sample questions, be sure to write down any others you want to ask. For instance, you might want information about recovery times so that you can plan your work or activity schedule. Or you might want to ask about clinical trials that might be right for you.
+Keep in mind that doctors aren’t the only ones who can give you information. Other health care professionals, such as nurses and social workers, can answer some of your questions. To learn more about speaking with your health care team, see Talking With Your Doctor.Supportive therapies are treatments that help treat (or prevent) the symptoms or complications of myelodysplastic syndromes (MDS), as opposed to treating the MDS directly. Supportive therapy might be used alone or along with other treatments for MDS. The main purpose of this type of treatment is to improve the comfort and quality of life for someone diagnosed with cancer no matter what stage the cancer or the goal of treatment might be. You might also hear supportive care referred to as palliative care, symptom management, or comfort care.
+For example, for many patients with MDS, one of the main goals of treatment is to prevent the problems caused by low blood cell counts.
+Treating low red blood cell counts (anemia)
+Low red blood cell counts (anemia) can cause severe fatigue and other symptoms. Patients with MDS and anemia that’s causing symptoms might benefit from getting injections of a manmade version of the growth factor erythropoietin, which can sometimes help the bone marrow make new red blood cells.
+If this isn't helpful, red blood cell transfusions might be needed. Some people are concerned about a slight risk of infections (such as hepatitis or HIV) spread by blood transfusion, but this possibility is very unlikely, and the benefits of the transfused cells greatly outweigh this risk.
+For people with some types of MDS who haven’t been helped by erythropoietin growth factors and who need regular blood transfusions, treatment with a drug called a red blood cell maturation agent, such as luspatercept, might be an option. This type of drug can sometimes help lower the number of transfusions a person needs.
+Treating iron build up from blood transfusions
+Blood transfusions can cause excess iron to build up in the body. The iron can build up over time in the liver, heart, and other organs, affecting how they function. This is usually seen only in people who receive many transfusions over a period of years. Patients at risk for iron overload are often advised to avoid taking iron supplements or multivitamins that contain iron.
+Drugs called chelating agents, which bind with the iron so that the body can get rid of it, can be used in patients who develop iron overload from red blood cell transfusions (unless they have poor kidney function).
+
+Deferoxamine (Desferal) is usually given as an infusion under the skin, using a small, portable pump. This can be inconvenient because the infusion must be done slowly (over at least 8 hours) each day or on most days of the week. 
+Deferasirox (Exjade, Jadenu) is a newer drug that is taken by mouth (as a tablet, dissolved in juice or water, or sprinkled on food) once a day. 
+
+For more information about red blood cell transfusions, see Blood Transfusion and Donation.
+Treating low platelet counts
+MDS patients with low platelet counts might have problems with bleeding or bruising easily. The options for treating a shortage of platelets might include platelet transfusions or treatment with certain growth factor drugs. If bleeding is not helped by these treatments, another option might be treatment with a drug called an antifibrinolytic agent, such as aminocaproic acid (Amicar).
+For more information about platelet transfusions, see Blood Transfusion and Donation.
+Treating low white blood cell counts
+Patients with low white blood cell counts are more likely to get infections, and the infections are more likely to be serious. It's important to avoid cuts and scrapes, and take care of them right away if they do happen. Patients should tell their doctors right away about any possible signs of infection, such as fever, signs of pneumonia (cough, shortness of breath), or urinary tract infection (burning when urinating).
+Doctors typically treat known or suspected bacterial infections with antibiotics. For serious infections, a white blood cell growth factor may also be used. This drug can raise the white blood cell count to help fight the infection.
+See Infections in People With Cancer for more detailed information about infections and how to lower your risk.Shortages of blood cells (red blood cells, white blood cells, or platelets) cause most of the symptoms in people with myelodysplastic syndromes (MDS). Hematopoietic growth factors can often help bring the blood counts closer to normal.
+Hematopoietic growth factors are hormone-like substances that help bone marrow make new blood cells. These substances occur naturally in the body, but scientists have found ways to make large amounts of them in the lab. Patients can get these factors in larger doses than would be made by their own body.
+Other medicines that raise blood cell counts in different ways might also be helpful for some people.
+Patients usually receive growth factors and similar drugs through subcutaneous (under the skin) injections. Your health care team can give the injections, or you or your family members might be able to learn to give them at home.
+Red blood cell growth factors
+
+Epoetin (Epogen or Procrit) is a manmade version of the growth factor erythropoietin, which promotes red blood cell production. It can help some patients avoid red blood cell transfusions. Giving some patients both epoetin and G-CSF (see "White blood cell growth factors") can improve their response to the epoetin.
+Darbepoetin alfa (Aranesp) is a long-acting form of epoetin. It works in the same way but was designed to be given less often.
+Luspatercept (Reblozyl) isn’t a manmade version of a natural growth factor, but it is another medicine that can help the body make more healthy red blood cells. Known as a red blood cell maturation agent, this drug affects TGF-β proteins in the bone marrow. TGF-β proteins normally help control how quickly new cells in the bone marrow mature into functioning red blood cells, so that there aren’t too many or too few of them in the body. By acting on specific TGF-β proteins, luspatercept helps the bone marrow make more healthy, full grown red blood cells.
+
+White blood cell growth factors
+
+Granulocyte colony stimulating factor (G-CSF, filgrastim, or Neupogen) and granulocyte macrophage-colony stimulating factor (GM-CSF, sargramostim, or Leukine) can improve white blood cell production. These are not used routinely to prevent infections, but they can help some MDS patients whose main problem is a shortage of white blood cells and who have frequent infections.
+Pegfilgrastim (Neulasta) is a long-acting form of G-CSF. It works in the same way but can be given less often.
+
+Platelet growth factors
+
+Drugs called thrombopoietin-receptor agonists, such as romiplostim (Nplate) and eltrombopag (Promacta) might help some people with MDS who have very low platelet levels, although this is still being studied.
+A drug called oprelvekin (interleukin-11, IL-11, or Neumega) can be used to raise platelet counts after chemotherapy and in some other diseases. But for most MDS patients, this drug has not been found to be very helpful.
+
+Studies are under way to find the best way to predict which patients will be helped by growth factors and similar drugs, as well as the best way to combine growth factors with each other and with other treatments, such as chemotherapy.Different types of drugs might be used to treat myelodysplastic syndrome (MDS).
+Chemotherapy
+Chemotherapy (chemo) is the use of drugs for treating a disease such as cancer. Some chemo drugs can be swallowed as pills, while others are injected by needle into a vein or muscle. These drugs are considered systemic treatment because they enter the bloodstream and reach most areas of the body. This type of treatment is useful for diseases such as MDS that are not only in one part of the body. The purpose of the chemo is to kill the abnormal stem cells in the bone marrow and allow normal ones to grow back.
+Hypomethylating agents
+These types of chemo drugs affect the way certain genes inside a cell are controlled. These drugs activate some genes that help cells mature. They also kill cells that are dividing rapidly. Examples of this type of drug include:
+
+Azacitidine (Vidaza)
+Decitabine (Dacogen)
+
+In some MDS patients, using one of these drugs can improve blood counts (sometimes enough so that blood transfusions aren’t needed), improve quality of life, lower the chance of getting leukemia, and even help a person live longer.
+Azacitidine can be injected under the skin or into a vein (IV), often for 7 days in a row, once a month.
+Decitabine is often injected into a vein (IV) over 3 hours every 8 hours for 3 days. This is repeated every 6 weeks. Decitabine can also be given by IV over an hour, each day for 5 days in a row, and repeated every 4 weeks.
+A newer form of this drug, known as Inqovi, combines decitabine with cedazuridine, which helps stop the decitabine from being broken down in the digestive system. This allows the drug to be taken by mouth as a tablet, typically once a day for 5 days in a row, which is repeated every 4 weeks.
+Hypomethylating agents can have some of the same side effects as standard chemo drugs (see below), but these side effects are usually milder.
+A major side effect of these drugs is usually an early drop in blood cell counts, which tends to get better as the drug begins to work. Other side effects can include:
+
+Fever
+Nausea/vomiting
+Diarrhea or constipation
+Fatigue and weakness
+
+Standard chemotherapy drugs
+Standard chemo drugs are less useful for MDS than the hypomethylating agents, so they are not used often. But higher-risk MDS is more likely to progress to acute myeloid leukemia (AML), so some patients with these types of MDS may receive the same chemo treatment as AML patients.
+The chemo drug most often used for MDS is cytarabine (ara-C). It can be given by itself at a low-dose, which can often help control the disease, but doesn’t often put it into remission.
+Another option is to give the same, intense type of chemo that is used for younger patients with AML. This means giving cytarabine at a higher dose, along with other chemo drugs. This is more often used in younger, healthier patients with higher-risk forms of MDS (like MDS with excess blasts). Some of the chemo drugs that can be combined with cytarabine are:
+
+Idarubicin
+Daunorubicin
+
+Other chemo drugs might be used as well.
+Patients who get the higher-dose treatment are more likely to have their MDS go into remission, but they can also have more severe, even life-threatening side effects, so this treatment is typically given in the hospital. Still, this treatment may be an option for some patients with advanced MDS.
+Chemo drugs can cause many side effects. These depend on the type and dose of the drugs given and how long they are taken. Common side effects include:
+
+Hair loss
+Mouth sores
+Loss of appetite
+Nausea and vomiting
+Low blood counts
+
+MDS patients already have low blood counts, which often become even worse for a time before they get better.
+
+Low white blood cell counts lead to an increased risk of serious infections.
+Low platelet counts can lead to problems with easy bruising and serious bleeding, including bleeding into the brain or the intestine.
+Low red blood cell counts (or anemia) can lead to fatigue and shortness of breath. In people with heart problems, severe anemia can lead to a heart attack.
+
+If a patient's blood cell counts become too low, they may need supportive therapy (including transfusions or growth factors) to help prevent or treat serious side effects. 
+Most side effects from chemo will go away after treatment is finished. Your health care team can often suggest ways to lessen side effects. For example, drugs can be given to help prevent or reduce nausea and vomiting.
+Chemo drugs can also affect other organs. For example:
+
+Idarubicin and daunorubicin can damage the heart, so they are often not given to patients who already have heart problems.
+Cytarabine can affect the brain and cause balance problems, sleepiness, and confusion. This is more common with higher doses.
+
+If serious side effects occur, the chemo treatments may have to be reduced or stopped, at least temporarily. It's important to carefully monitor and adjust drug doses, because some of these side effects can be permanent.
+
+Immune therapy
+Immunomodulating drugs (IMiDs)
+Lenalidomide (Revlimid) belongs to a class of drugs known as immunomodulating drugs (IMiDs). It seems to work well in low-grade MDS, often eliminating the need for blood transfusions, at least for a time. The drug seems to work best in people whose MDS cells are missing a part of chromosome 5 (MDS-del(5q)). But it can also help some MDS patients that do not have this abnormal chromosome.
+Side effects can include:
+
+Lowered blood counts (most often the white cell count and platelet count)
+Diarrhea or constipation
+Fatigue and weakness
+
+This drug can also increase the risk of serious blood clots that start in the veins in the legs (called a deep vein thrombosis, or DVT). Sometimes, part of a DVT can break off and travel to the lungs (called a pulmonary embolus, or PE), where it can cause breathing problems or even death.
+This drug might also cause serious birth defects if given to pregnant women. Because of this, it's only available through a special program by the drug company.
+Immune system suppression
+Drugs that suppress the immune system can help some patients with lower-risk MDS. These drugs are most helpful for people with low numbers of cells in the bone marrow (called hypocellular bone marrow).
+Anti-thymocyte globulin (ATG) is an antibody against a type of white blood cell called the T-lymphocyte, which helps control immune reactions. For some patients with MDS, T-lymphocytes interfere with normal blood cell production, so ATG can be helpful. ATG is given as an infusion through a vein. It must be given in the hospital because it can sometimes cause severe allergic reactions leading to low blood pressure and problems breathing.
+Cyclosporine is another drug that can suppress the immune system. It can be used along with ATG to help some patients with MDS. Side effects of cyclosporine can include loss of appetite and kidney damage.
+Targeted therapy
+IDH inhibitor
+In some people with MDS, the cancer cells have a change (mutation) in the IDH1 gene, which normally helps cells make the IDH1 protein.  Mutations in this gene can lead to an abnormal IDH1 protein, which can stop MDS cells from maturing the way they normally would.
+Ivosidenib (Tibsovo) is an IDH1 inhibitor. It blocks the abnormal IDH1 protein, which seems to help the cancer cells mature into more normal cells. This drug can be used in people with advanced, previously treated MDS, if the cancer cells are found to have an IDH1 mutation. Your doctor can test your cancer cells to see if they have an IDH1 mutation.
+This drug is taken by mouth, once a day.
+Possible side effects of ivosidenib
+Common side effects can include fatigue, nausea, vomiting, abdominal (belly) pain or swelling, diarrhea, loss of appetite, cough, low red blood cell counts (anemia), rash, and changes in lab tests showing the drug is affecting the liver.
+Less common but more serious side effects can include changes in heart rhythm, pneumonia, and jaundice (yellowing of the eyes and skin).
+More information about targeted therapy
+To learn more about how targeted drugs are used to treat cancer, see Targeted Cancer Therapy. To learn about some of the side effects listed here and how to manage them, see Managing Cancer-related Side Effects.A stem cell transplant (SCT) currently offers the only realistic chance to cure myelodysplastic syndrome (MDS), although many patients with MDS might not be eligible to have one. In this treatment, the patient receives high-dose chemotherapy and/or total body irradiation to kill the cells in the bone marrow (including the abnormal bone marrow cells). Then the patient gets new blood-forming stem cells.
+There are 2 main types of SCT:
+
+For an allogeneic stem cell transplant, after the bone marrow is destroyed, the patient receives blood-forming stem cells from another person -- the donor. This is the type of transplant typically used for MDS. The results of this treatment tend to be best when the donor’s cell type (also known as the HLA type) is closely matched to the patient’s cell type and the donor is closely related to the patient, such as a brother or sister. Less often, the donor is matched to the patient, but is not related.
+In an autologous stem cell transplant, the patient gets back their own stem cells (which were removed before treatment). This type of transplant is not typically used for patients with MDS because the patient's bone marrow contains abnormal stem cells.
+
+Allogeneic SCTs can have serious, even life-threatening, side effects, so they are typically done in younger patients who are in relatively good health. Patients in their 60s or even 70s have been transplanted successfully, but in older patients the SCT is generally done using less intensive (reduced intensity) chemotherapy and/or radiation. The lower doses may not kill all the bone marrow cells, but they are just enough to allow the donor cells to take hold and grow in the bone marrow. The lower doses also cause fewer side effects, which makes this type of transplant easier for older patients to tolerate. Still, some serious side effects are still possible.
+Side effects
+The early side effects from a SCT are similar to the side effects expected from chemotherapy and radiation, only more severe. One of the most serious side effects is low blood counts, which can lead to risks of serious infections and bleeding.
+Another possible serious side effect from allogeneic transplants is graft-versus-host disease (GVHD). This occurs when the new immune cells (from the donor) see the patient’s tissues as foreign and attack them. GVHD can affect any part of the body and can be life threatening.
+Although allogeneic SCT is currently the only treatment that can cure some people with MDS, not everyone who gets a transplant is cured. In addition, some people may die from complications of this treatment. Your chance for cure is higher if you are young and your MDS hasn’t begun to transform into leukemia. Still, doctors often recommend waiting until the MDS develops into a more advanced stage before considering a stem cell transplant.The treatment approach for myelodysplastic syndromes (MDS) depends on a number of factors, such as:
+
+The type of MDS
+The prognostic score (risk group) of the MDS
+A person’s age, overall health, and preferences
+
+Some people with MDS who don’t have very low blood cell counts or bothersome symptoms might not need to be treated right away. 
+If treatment is needed, a stem cell transplant (SCT) is usually considered the only way to potentially cure MDS, so it may be the treatment of choice for younger, relatively healthy patients if a matched donor is available. Unfortunately, many people with MDS are older or in poor health and might not be good candidates for a SCT.
+When SCT is not an option, MDS is very unlikely to be cured, but it can often still be treated. The main goal of treatment is to relieve symptoms and avoid complications and side effects.
+If low blood counts are causing problems, supportive care treatments such as transfusions or blood cell growth factors may be helpful. Careful general medical care and measures to prevent and treat infections are also very important. Supportive care is important regardless of whether a person is getting other treatments for MDS.
+If other treatment is needed, a chemotherapy drug such as azacitidine (Vidaza) or decitabine (Dacogen) is often the first choice, especially for patients with lower-risk forms of MDS. These drugs can often improve blood counts, and many patients need fewer transfusions and have a better quality of life, with less fatigue. These drugs can also help some people live longer. Another option for some people might be medicines to suppress the immune system, such as ATG and cyclosporine.
+If a person has the del(5q) type of MDS (where the cells are missing part of chromosome 5), lenalidomide (Revlimid) is often used as the first treatment. If this drug doesn’t help, treatment with azacitidine or decitabine is often the next option.
+For some patients with more advanced MDS, such as those whose prognostic scores are high risk or higher, or those whose MDS looks like it is becoming acute myeloid leukemia (AML), standard chemotherapy drugs might be an option. Unfortunately, this treatment can often be too toxic for patients who are elderly or who have many other medical problems. For young and healthy patients, though, the treatment is similar to treatment for AML.
+If one type of treatment doesn’t work (or if it stops working), another one might be tried. Many new medicines to treat MDS are also being studied in clinical trials. Because the best options to treat MDS aren’t clear, and because MDS often becomes hard to treat over time, taking part in a clinical trial might be a good option at some point. Talk to your health care team to learn more about clinical trials that might be right for you.Since myelodysplastic syndromes (MDS) are very hard to cure, most people with MDS never actually complete treatment. People may go through a series of treatments with rest in between. Some people might choose to stop active treatment in favor of supportive care. Learning to live with cancer that does not go away can be difficult and very stressful. See Managing Cancer as a Chronic Illness for more about this.
+Follow-up care
+Whether or not you're being actively treated for MDS, your doctors will still want to watch you closely, so it's very important to go to all follow-up appointments.
+Exams and tests
+During follow-up visits, your doctors will ask about symptoms, examine you, and may order blood tests. They will continue to watch for signs of infection or progression to leukemia, as well as for short-term and long-term side effects of treatment. This is a good time for you to ask your health care team any questions you need answered and to discuss any concerns you might have.
+Almost any cancer treatment can have side effects. Some may not last long, but others can be permanent. Don’t hesitate to tell your care team about any symptoms or side effects that bother you so they can help you manage them.
+Keeping health insurance and copies of your medical records
+It’s very important to keep health insurance. With a chronic disease like MDS, your treatment may never really be over. You don’t want to have to worry about paying for it. Many people have been bankrupted by medical costs.
+At some point after your treatment, you might find yourself seeing a new doctor who doesn’t know about your medical history. It’s important to keep copies of your medical records to give your new doctor the details of your diagnosis and treatment. Learn more in Keeping Copies of Important Medical Records.
+Can I lower my risk of the MDS progressing?
+If you have MDS, you probably want to know if there are things you can do to reduce your risk of it progressing, such as exercising, eating a certain type of diet, or taking nutritional supplements. At this time, not enough is known about MDS to say for sure if there are things you can do will help. 
+Adopting healthy behaviors such as not smoking, eating well, getting regular physical activity, and staying at a healthy weight may help, but no one knows for sure. However, we do know that these types of changes can have many other positive effects on your health, including helping you feel better.
+About dietary supplements
+So far, no dietary supplements (including vitamins, minerals, and herbal products) have been shown to clearly help lower the risk of MDS progressing. This doesn’t mean that no supplements will help, but it’s important to know that none have been proven to do so.
+Dietary supplements are not regulated like medicines in the United States – they don’t have to be proven effective (or even safe) before being sold, although there are limits on what they’re allowed to claim they can do. If you’re thinking about taking any type of nutritional supplement, talk to your health care team. They can help you decide which ones you can use safely while avoiding those that might be harmful.
+Getting emotional support
+Some amount of feeling depressed, anxious, or worried is normal when MDS is a part of your life. Some people are affected more than others. But everyone can benefit from help and support from other people, whether friends and family, religious groups, support groups, professional counselors, or others. To learn more about this, see Coping With Cancer.What are myelodysplastic syndromes?
+Cancer can start any place in the body. Myelodysplastic syndromes , or MDS for short, are cancers that start in the bone marrow, the soft inner part of some bones where new blood cells are made. In MDS, some cells in the bone marrow don’t grow like they should, so there aren’t enough of some types of blood cells. This makes it hard for the body to work the way it should.
+Some people with MDS go on to get leukemia, a cancer of the bone marrow in which blood cells start to grow out of control.
+Normal blood cells
+To understand MDS, it helps to know about all the types of blood cells.
+
+Red blood cells (RBCs) carry oxygen from the lungs to all other parts of the body. People without enough RBCs (called anemia) often feel tired or weak.
+White blood cells (WBCs) help the body fight infections. There are many types of white blood cells.
+Platelets are parts that break off from some bone marrow cells. Platelets help stop bleeding by plugging holes in blood vessels.
+
+Different types of MDS
+In MDS, some bone marrow cells have problems making new blood cells. This can leave you with too few normal blood cells. There are several types of MDS, which are based on how the blood and bone marrow cells have been changed. Some types of MDS are more likely to turn into leukemia later on. Ask your doctor to tell you the exact kind of MDS you have.
+Questions to ask the doctor
+
+Why do you think I have MDS?
+Is there a chance I don’t have MDS?
+Would you please write down the kind of MDS you think I might have?
+What will happen next?
+
+How does the doctor know I have MDS?
+MDS is sometimes found by blood tests done for some other reason. Even when there are symptoms, they may be very general, such as feeling tired or weak, losing weight without trying to, having a fever, getting black and blue marks or bleeding easily, having pale skin, or getting sick a lot.
+Tests that may be done
+The doctor will ask you questions about your health and do a physical and exam. If signs are pointing to MDS, more tests will be done. Here are some of the tests you may need:
+Blood cell counts: This blood test is often the first test done. Most people with MDS have too few RBCs. They might also have too few WBCs or platelets.
+Other blood tests: Other blood tests might be done to look for other causes of low blood counts, such as low levels of vitamin B12 and folate.
+Bone marrow aspiration and biopsy (ASP-er-AY-shun and BY-op-see): For these tests, a doctor uses thin, hollow needles to remove a little bit of bone marrow, most of the time from the hip bone. The area around the bone is numbed, and you may be given a drug to make you sleep during the test. The samples are sent to a lab to see how many early (immature) cells (called blasts) are in the bone marrow. Other lab tests might be done on the bone marrow cells as well, such as looking for certain gene changes. These tests can help tell which type of MDS you have.
+Questions to ask the doctor
+
+What tests will I need?
+Who will do these tests?
+Where will they be done?
+Who can explain them to me?
+How and when will I get the results?
+Who will explain the results to me?
+What do I need to do next?
+
+How serious is my MDS?
+MDS is a disease of the bone marrow. Unlike most other cancers, it is not staged by looking at the how much cancer is in the body. In MDS other factors like your age, blood counts, how the bone marrow looks, and changes in the bone marrow cells are used to give the MDS a score, which can help tell how likely it is to grow or be helped by treatment. Ask your doctor how your MDS will be scored and what that means for you.
+Questions to ask the doctor
+
+Does anything about my cells change the treatment? Or make my case better or worse?
+Are there other doctors I need to see?
+How many people with MDS have you treated?
+What type of MDS do I have?
+Based on the type of MDS, how long do you think I’ll live?
+What will happen next?
+
+What kind of treatment will I need?
+MDS is a group of diseases. The treatment plan that is best for you will depend on the type of MDS you have, your age and general health, and other factors. Some people with MDS might not need to be treated right away, but can just be watched closely instead. If you do need treatment, the main treatments are:
+
+Chemotherapy
+Immune treatments
+Growth factors
+Supportive therapy
+Stem cell transplant
+
+Chemo
+Chemo is the short word for chemotherapy – the use of drugs to fight cancer. Chemo can be taken as a pill or put into a vein. The drugs go into the blood and reach most places in the body. Chemo is given in cycles or rounds. Each round of treatment is followed by a break. For MDS, there are a few types of chemo drugs and ways to take them. Ask your doctor which chemo drugs you will get, how you will take them, and how often you will take them.
+Side effects of chemo
+Chemo can have many side effects, like:
+
+Hair loss
+Mouth sores
+Not feeling like eating
+Diarrhea
+Feeling sick to your stomach and throwing up
+More risk of infections
+Getting black and blue marks and bleeding easily
+Tiredness
+
+But these problems tend to go away after treatment ends. There are ways to treat most chemo side effects. Talk to your cancer care team so they can help.
+Immune treatments
+These treatments either boost or hold back your immune system. A few types of immune treatments can be used to treat MDS. These drugs may be given into a vein, as a shot, or taken as pills. Ask your doctor which drugs you will get and what to expect.
+Side effects of immune treatments
+These drugs can cause many side effects. Some of the drugs can make you feel weak or tired or can cause diarrhea, low blood counts, and blood clots. Most of these problems go away after treatment ends.
+There are ways to treat many of the side effects caused by these drugs. If you have side effects, talk to your cancer care team so they can help
+Growth factors
+Having too few blood cells causes most of the symptoms in MDS. Growth factors speed up the process of making blood cells in the bone marrow. The body makes growth factors, but they can also be made in a lab. Growth factors can be given (most of the time as injections under the skin) to help make more blood cells. Different growth factors can be used, depending on the case. Ask your doctor which kind of growth factor you may get and what to expect.
+Supportive treatment
+For many people with MDS, the main goal of treatment is to prevent problems from low blood cell counts. Sometimes you may need blood transfusions or other drugs to help manage your symptoms. Ask your doctor what kind of supportive treatment to expect with your type of MDS.
+Stem cell transplant
+A stem cell transplant (SCT) is the only treatment that can cure MDS. SCT lets doctors use very high doses of chemo to kill cells in the bone marrow. The high doses of these drugs destroy the bone marrow, which keeps new blood cells from being made. Although the drugs destroy the bone marrow, stem cells given after the chemo can bring back the bone marrow. For people with MDS, these new stem cells come from someone else who donates some of their stem cells. There are different kinds of SCT, each of which can have bad side effects. Ask your doctor which type you will have and what to expect.
+Clinical trials
+Clinical trials are research studies that test new drugs or other treatments in people. They compare standard treatments with others that may be better.
+Clinical trials are one way to get the newest cancer treatments. They are the best way for doctors to find better ways to treat cancer. Still, they’re not right for everyone. And it’s up to you whether to take part in a clinical trial.
+If you would like to learn more about clinical trials that might be right for you, start by asking your doctor if your clinic or hospital conducts clinical trials. See Clinical Trials to learn more.
+What about other treatments I hear about?
+When you have cancer you might hear about other ways to treat the cancer or treat your symptoms. These may not always be standard medical treatments. These treatments may be vitamins, herbs, special diets, and other things. You may wonder about these treatments.
+Some of these are known to help, but many have not been tested. Some have been shown not to help. A few have even been found to be harmful. Talk to your doctor about anything you’re thinking about using, whether it’s a vitamin, a diet, or anything else.
+Questions to ask the doctor
+
+What treatment do you think is best for me?
+What’s the goal of this treatment? How is it likely to help?
+Will I need other types of treatment, too?
+What’s the goal of these treatments?
+What side effects could I have from these treatments?
+What can I do about side effects that I might have?
+Should we think about a stem cell transplant? If so, when?
+Is there a clinical trial that might be right for me?
+What about special vitamins or diets that friends tell me about? How will I know if they are safe?
+How soon do I need to start treatment?
+What should I do to be ready for treatment?
+Is there anything I can do to help the treatment work better?
+What’s the next step?
+
+What will happen after treatment?
+If you have MDS you may go through a series of treatments with rests in between. Sometimes you may stop treatment for a while in favor of supportive care that treats other problems you have. Even if you have stopped your treatment, it’s still very important to see your cancer doctor. Be sure to go to all of these follow-up visits. Your doctors will ask about symptoms, do physical exams, and may do blood tests and other tests to see if the MDS is getting worse.
+Having cancer and dealing with treatment can be hard, but it can also be a time to look at your life in new ways. You might be thinking about how to improve your health. Call us at 1-800-227-2345 or talk to your doctor to find out what you can do to feel better.
+You can’t change the fact that you have cancer. What you can change is how you live the rest of your life – making healthy choices and feeling as good as you can.

@@ -1,0 +1,479 @@
+Cancer starts when cells in the body begin to grow out of control. Cells in nearly any part of the body can become cancer and can spread. To learn more about how cancers start and spread, see What Is Cancer?
+Kaposi sarcoma (KS) is a cancer that develops from the cells that line lymph or blood vessels. It usually appears as tumors on the skin or on mucosal surfaces such as inside the mouth, but these tumors can also develop in other parts of the body, such as in the lymph nodes (bean-sized collections of immune cells throughout the body), the lungs, or digestive tract.
+The abnormal cells of KS form purple, red, or brown blotches or tumors on the skin. These affected areas are called lesions. The skin lesions of KS most often show on the legs or face. They may look bad, but they usually cause no symptoms. Some lesions on the legs or in the groin area may cause the legs and feet to swell painfully.
+KS can cause serious problems or even become life threatening when the lesions are in the lungs, liver, or digestive tract. KS in the digestive tract, for example, can cause bleeding, while tumors in the lungs may cause trouble breathing.
+Types of Kaposi sarcoma
+There are four different types of KS defined by the different populations it develops in, but the changes within the KS cells are very similar.
+Epidemic (AIDS-associated) Kaposi sarcoma
+The most common type of KS in the United States is epidemic or AIDS-associated  KS. This type of KS develops in people who are infected with HIV, the virus that causes AIDS.
+HIV stands for human immunodeficiency virus. A person infected with HIV (someone who is HIV-positive) does not necessarily have AIDS, but the virus can be present in the body for a long time, often many years, before causing major illness. The disease known as AIDS begins when the virus has seriously damaged a person's immune system, which means they can get certain types of infections (such as Kaposi sarcoma--associated herpesvirus, KSHV) or other medical complications, including KS.
+KS is considered an AIDS defining illness. This means that when KS occurs in someone infected with HIV, that person officially has AIDS (and is not just HIV-positive).
+In the United States, treating HIV infection with highly active antiretroviral therapy (HAART) has resulted in fewer cases of AIDS-associated KS. Still, some patients can develop KS in the first few months of HAART treatment.
+For most patients with HIV, HAART can often keep advanced KS from developing. Still, KS can occur in people whose HIV is well controlled with HAART. Even if KS develops, it is still important to continue HAART.
+In areas of the world where it is not easy to get HAART, KS in AIDS patients can advance quickly.
+Classic (Mediterranean) Kaposi sarcoma
+Classic KS occurs mainly in older people of Mediterranean, Eastern European, and Middle Eastern heritage. Classic KS is more common in men than in women. People typically have one or more lesions on the legs, ankles, or the soles of their feet. Compared to other types of KS, the lesions in this type do not grow as quickly, and new lesions do not develop as often. The immune system of people with classic KS is not as weak as it is in those who have epidemic KS, but it may be weaker than normal. Getting older can naturally weaken the immune system a little. When this occurs, people who already have a KSHV (Kaposi sarcoma--associated herpesvirus) infection are more likely to develop KS.
+Endemic (African) Kaposi sarcoma
+Endemic KS occurs in people living in Equatorial Africa and is sometimes called African KS. Kaposi sarcoma--associated herpesvirus (KSHV) infection is much more common in Africa than in other parts of the world, so the risk of KS is higher. Other factors in Africa that weaken the immune system (such as malaria, other chronic infections, and malnutrition) also probably contribute to the development of KS, since the disease affects a broader group of people that includes children and women. Endemic KS tends to occur in younger people (usually under age 40). Rarely a more aggressive form of endemic KS is seen in children before puberty. This type usually affects lymph nodes and other organs and can progress quickly.
+Endemic KS used to be the most common type of KS in Africa. Then, as AIDS became more common in Africa, the epidemic type became more common.
+Iatrogenic (transplant-related) Kaposi sarcoma
+When KS develops in people whose immune systems have been suppressed after an organ transplant, it is called iatrogenic, or transplant-related KS. Most transplant patients need to take drugs to keep their immune system from rejecting (attacking) the new organ. But by weakening the body’s immune system, these drugs increase the chance that someone infected with KSHV (Kaposi sarcoma--associated herpesvirus) will develop KS. Stopping the immune-suppressing drugs or lowering their dose often makes KS lesions go away or get smaller.Before the AIDS epidemic, Kaposi sarcoma (KS) was rare in the United States. At that time, only about 2 new cases of KS were found for every million people in the United States each year. Most often, the types of KS that occurred were classic and transplant-related.
+With the AIDS epidemic, the rate of KS in this country increased more than 20 times — peaking at about 47 cases per million people (per year) in the early 1990s.
+With new treatments for HIV and AIDS, KS has become less common in the United States, and it now occurs at a rate of about 6 cases per million people each year. It is still seen most often in people infected with HIV. In the United States, KS is much more common in men than in women, and it is rarely seen in children. It is also more common in African Americans than in White individuals in the United States. Transplant recipients are another group that gets KS. About 1 in 200 transplant patients in the United States gets KS. Most of these people were already infected with Kaposi sarcoma associated herpesvirus (KSHV) before the transplant, but the virus didn’t cause problems because their immune system kept it in check. The drugs the transplant patients take to suppress their immune system allow KS to develop.
+In areas of the world (such as Africa) where KSHV and HIV infection rates are high, both endemic and epidemic (AIDS-associated) KS are seen, and can occur in men, women, and children.
+Visit the American Cancer Society’s Cancer Statistics Center for more key statistics.A great deal of research is being done to find more effective ways to prevent and treat Kaposi sarcoma (KS).
+Prevention
+Probably the most important advance in the prevention of AIDS-related KS has been the development of drugs that help control HIV infection and AIDS. This has reduced the chance of getting KS.
+Testing for Kaposi sarcoma--associated herpesvirus (KSHV), the virus that causes KS, could help manage patients at risk for KS, including those who are HIV-positive or those who will be having an organ transplant and will be taking drugs to suppress their immune system.
+Newer drugs, such as valganciclovir, used to treat related herpesviruses such as cytomegalovirus (CMV) can also help treat KSHV infections. These drugs stop the KSHV-infected cells from making more of the virus, although they haven’t been found to help treat KS once it has developed.
+Treatment
+Researchers are studying new and different ways to treat KS.
+KS lesions depend on the formation of new blood vessels for their growth. Drugs called angiogenesis inhibitors, which block the growth of blood vessels within tumors, may help treat these lesions. For example, the drug bevacizumab (Avastin®) has been shown to cause some KS lesions to shrink or stop growing in a small study. This drug and other angiogenesis inhibitors, such as sirolimus and everolimus, are being studied further.
+Drugs called immunomodulating agents both boost the immune system and affect blood vessel growth, so these drugs may be helpful against KS. The oldest of these drugs, thalidomide (Thalomid®), has been shown to help shrink some KS lesions in early studies, but this drug can have side effects that make it hard to take. Related drugs, such as lenalidomide (Revlimid®) and pomalidomide (Pomalyst®), which tend to have fewer side effects, are now being studied.
+Some other drugs that are already used to treat other cancers are also being studied for use against KS, including bortezomib (Velcade®), imatinib (Gleevec®), and sorafenib (Nexavar®).
+Research into HIV vaccines and antiretroviral drugs also may have a great impact on AIDS-related KS.
+KSHV also offers a new target for KS drugs and biologic therapy. Clinical trials are testing whether antiviral drugs that target KSHV may be used for KS.Kaposi sarcoma (KS) is caused by infection with a virus called the Kaposi sarcoma-associated herpesvirus (KSHV), also known as human herpesvirus 8 (HHV8). KSHV is in the same family as Epstein-Barr virus (EBV), the virus that causes infectious mononucleosis (mono) and is linked to several types of cancer.
+In KS, the cells that line blood and lymphatic vessels (called endothelial cells) are infected with KSHV. The virus brings genes into the cells that can cause the cells to divide too much and to live longer than they should. These same genes may cause the endothelial cells to form new blood vessels and may also increase the production of certain chemicals that cause inflammation. These types of changes may eventually turn them into cancer cells.
+KSHV infection is much more common than KS. Most people infected with this virus do not get KS and many will never show any symptoms. Infection with KSHV is needed to cause KS, but in most cases infection with KSHV alone does not lead to KS. Most people who develop KS have the KSHV and also have a weakened immune system, due to HIV infection, organ transplant, being older, or some other factor.
+The number of people infected with KSHV varies in different places around the world. In the United States, studies have found that less than 10% of people are infected with KSHV. The infection is more common in people infected with HIV than in the general population in the United States. KSHV infection is also more common in men who have sex with men than in men who only have sex with women.
+In some areas of Africa, up to 80% of the population shows signs of KSHV infection. In these areas the virus seems to spread from mother to child. KSHV is also found in saliva, semen, and vaginal fluid, which may be some ways it is passed to others.
+For more on infections and their role in cancer, see Infections That Can Lead to Cancer.Kaposi sarcoma (KS) is caused by the Kaposi sarcoma--associated herpesvirus (KSHV). There are no vaccines at this time to protect people against KSHV. For now, preventing KS depends on reducing the chance of becoming infected with KSHV and reducing the chance that people who are infected with KSHV will develop KS.
+Most cases of KS in the United States occur in people with HIV and AIDS. Taking measures to avoid becoming infected with HIV could prevent most cases of KS in this country.
+
+Since HIV can be spread through sex, avoiding unprotected sex with people infected with HIV could help prevent these infections. Many people with HIV don’t know that they are infected, so many public health workers recommend using a condom during any sexual contact.
+Another way to lower the risk of getting HIV is to take a pill every day that contains ant-viral drugs. This is called pre-exposure prophylaxis (PrEP). At this time, the Centers for Disease Control and Prevention (CDC) recommends PrEP for people who are HIV negative and at very high risk for HIV. The CDC has more information about who should use PrEP.
+HIV can also be spread through the use of contaminated (dirty) needles to inject recreational drugs. For people who inject drugs, the safest way to avoid HIV is to quit. However, some people are unable to quit on their own or get help in quitting, and they may not be able to stop using drugs right away. For these people, clean needles and injection supplies can help protect them. In some areas, there are programs to make sure that drug users can get clean needles and syringes.
+HIV-infected mothers can pass the virus to their babies during pregnancy, delivery, or breastfeeding. Treating the mothers and infants with anti-HIV drugs and avoiding breastfeeding can greatly reduce the risk of these infections.
+In the past, blood product transfusions and organ transplants were responsible for some HIV infections. As a result of improved testing for HIV, there is now a very low risk of HIV infection from blood products or organ transplants in the United States.
+
+For people who are infected with HIV and KSHV, taking the right medicines can reduce the chance of developing KS.
+
+Testing for HIV can identify people infected with this virus. People with HIV should get treatment to help strengthen their immune system, which usually includes highly active antiretroviral therapy (HAART). HAART reduces the risk that people with HIV will develop KS (and AIDS). Treating infections that commonly occur in people with weakened immunity also reduces the likelihood of developing problems with KS.
+HIV-infected people who take drugs to treat herpesvirus infections (such as ganciclovir or foscarnet) are less likely to develop KS because these drugs also work against KSHV (which is a type of herpesvirus). Still, these drugs can have serious side effects, so they are only taken to treat certain viral infections, not to prevent KS.
+
+For people who are at risk of developing KS after an organ transplant (iatrogenic KS), using certain types of immune suppressive drugs, such as sirolimus or everolimus (mTOR inhibitors), may reduce the chances of KS while still helping prevent rejection of the new organ.Most cancers start in one place and then spread to other parts of the body. When these cancers are found early, they are more likely to be curable. Kaposi sarcoma (KS) is different, because it tends to form in several areas at the same time. Even when only one skin lesion is visible, many people already have other areas of KS that are just too small to be seen.
+There are no recommended routine screening tests to look for KS in people who are not at increased risk of the disease.
+People infected with HIV are much more likely to develop KS, so many health experts recommend that people infected with HIV be examined regularly by health care providers who are experienced in recognizing KS and other diseases that go along with HIV infection and AIDS. People with possible symptoms of KS (see  Signs and Symptoms of Kaposi Sarcoma) should see their doctors right away so that the cause can be found as soon as possible and treated, if needed.Kaposi sarcoma (KS) usually appears first as spots (called lesions) on the skin. The lesions can be purple, red, or brown. KS lesions can be flat and not raised above the surrounding skin (called patches), flat but slightly raised (called plaques), or bumps (called nodules). The skin lesions of KS most often develop on the legs or face, but they can also appear in other areas. Lesions on the legs or in the groin area can sometimes block the flow of fluid out of the legs. This can lead to painful swelling in the legs and feet.
+KS lesions can also develop on mucous membranes (the inner linings of certain parts of the body) such as inside the mouth and throat and on the outside of the eye and inner part of the eyelids. The lesions are usually not painful or itchy.
+KS lesions can also sometimes appear in other parts of the body. Lesions in the lungs might block part of an airway and cause shortness of breath. Lesions that develop in the stomach and intestines can cause abdominal pain and diarrhea.
+Sometimes KS lesions bleed. If the lesions are in the lung, it can cause you to cough up blood and lead to shortness of breath. If the lesions are in the stomach or intestines, it can cause bowel movements to become black and tarry or bloody. Bleeding from lesions in the stomach and intestines can be so slow that blood isn’t visible in the stool, but over time the blood loss can lead to low red blood cell counts (anemia). This can cause symptoms like tiredness and shortness of breath.Kaposi sarcoma (KS) is often found when a person goes to the doctor because of signs or symptoms they are having. Sometimes KS may be found during a routine physical exam. If KS is suspected, further tests will be needed to confirm the diagnosis.
+Medical history and physical exam
+If your doctor suspects you might have KS, you will be asked about your medical history to learn about illnesses, operations, your sexual activity, and other possible exposures to Kaposi sarcoma--associated herpesvirus (KSHV) and HIV. The doctor will ask you about your symptoms and about any skin tumors you have noticed.
+As part of a complete physical exam, the doctor will examine your skin and the inside of your mouth to look for KS lesions. Sometimes KS lesions develop inside the rectum (the part of the large intestine just inside the anus). A doctor might be able to feel these lesions during an exam with a gloved finger. The doctor may also check the stool for occult (unseen) blood, since KS in the intestines can cause bleeding.
+Biopsy
+To be sure that a lesion is caused by KS, the doctor will need to take a small sample of tissue from the lesion and send it to a lab to be checked. This is called a biopsy. A specially trained doctor called a pathologist can often diagnose KS by looking at the cells in the biopsy sample in the lab.
+For skin lesions, the doctor will usually perform a punch biopsy, which removes a tiny round piece of tissue. If the entire lesion is removed, it is called an excisional biopsy. These procedures can often be done with just local anesthesia (numbing medicine).
+Lesions in other areas, such as the lungs or intestines, can be biopsied during other procedures such as bronchoscopy or endoscopy, which are described below. Since biopsy of lesions in these areas can sometimes cause serious bleeding, biopsy is often not done in people already known to have KS.
+Chest x-ray
+Your lungs may be x-rayed to see if KS is there. If the x-ray shows something abnormal, other tests, such as a CT scan, might be needed to tell for sure if it is KS or some other condition.
+For people known to have KS in the lung, chest x-rays can be used to see how the disease is responding to treatment.
+Bronchoscopy
+Bronchoscopy is a test that lets the doctor look into the windpipe (trachea) and the large airways of the lungs. This procedure is often done if you are having problems such as shortness of breath or coughing up blood, or if the chest x-ray or CT scan shows something abnormal. Any of these could mean that KS is in the lungs.
+Before bronchoscopy starts, you are put to sleep with a light anesthesia. Then the doctor inserts the bronchoscope (a thin, flexible lighted tube with a small video camera on the end) through the mouth, down the windpipe, and into the lungs. If the doctor sees an abnormal area that might be KS, it can be biopsied through the bronchoscope. Bronchoscopy with biopsies can also be used to help diagnose other lung problems seen in AIDS patients, such as pneumonia.
+Gastrointestinal endoscopy
+One or more of these tests might be done when the doctor suspects that KS is in the stomach or intestines and is causing problems.
+Upper endoscopy (also called esophagogastroduodenoscopy, or EGD)
+Upper endoscopy is used to look at the inner lining of the esophagus, the stomach, and the first part of the small intestine. For this procedure, you are first given drugs to make you sleepy. Then, the doctor guides the endoscope (a thin, flexible, lighted tube with a small video camera on the end) through the mouth and esophagus and into the stomach and small intestine. This lets the doctor see things like ulcers, infections, and KS lesions.
+If an abnormal area is seen, the doctor can use small surgical instruments through the endoscope to biopsy it.
+Colonoscopy
+Colonoscopy is used to look inside the large intestine (colon and rectum). Before this test can be done, the colon and rectum must be cleaned out to remove any stool. This often means drinking a large amount of a liquid laxative the night before and the morning of the procedure, and spending a lot of time in the bathroom.
+Just before the procedure, you will be given intravenous (IV) medicine to make you relaxed or even asleep (sedation). Then a colonoscope (a long, flexible, tube with a light and video camera on the end) is inserted through the rectum and into the colon. Any abnormal areas seen can be biopsied.
+Capsule endoscopy
+Capsule endoscopy is a way to look at the small intestine. It is not truly a type of endoscopy, since it doesn’t use an endoscope. Instead, you swallow a capsule (about the size of a large vitamin pill) that contains a light source and a very small camera. Like any other pill, the capsule goes through the stomach and into the small intestine.
+As it travels through the small intestine (usually over about 8 hours), it takes thousands of pictures. These images are transmitted electronically to a device worn around your waist while you go on with normal daily activities. The images can then be downloaded onto a computer, where the doctor can look at them as a video.
+The capsule passes out of the body through the stool during a normal bowel movement and is discarded. A disadvantage of this test is that it doesn’t allow the doctor to biopsy any abnormal areas. You will probably be told not to eat or drink for about 12 hours before the test.
+Double balloon enteroscopy
+Double balloon enteroscopy is another way to look at the small intestine. Regular endoscopy cannot look very far into the small intestine because it is too long and has too many curves. This method gets around these problems by using a special endoscope that is made up of 2 tubes, one inside the other. For this test, you are given intravenous (IV) medicine to make you relaxed (sedation), and may be even given general anesthesia (so that you are asleep).
+The endoscope is then inserted either through the mouth or the anus, depending on if there is a specific part of the small intestine to be examined. Once inside the small intestine, the inner tube, which has the camera on the end, is advanced about a foot as the doctor looks at the lining of the intestine. Then a balloon at its end is inflated to anchor it. The outer tube is then pushed forward to near the end of the inner tube and is anchored in place with a second balloon.
+This process is repeated over and over, letting the doctor see the intestine a foot at a time. The doctor can even take a biopsy if something abnormal is seen. This procedure is more involved than capsule endoscopy (and can take hours to complete), but it has the advantage of letting the doctor biopsy any lesions seen.
+KS can also affect other organs, such as the liver, spleen, heart, or bone marrow. These areas do not often need to be biopsied in people already known to have KS based on biopsies of other tissues, such as skin, lungs, or intestines.After someone is diagnosed with Kaposi sarcoma, doctors will try to figure out if it has spread, and if so, how far. This process is called staging. The stage of a cancer describes the extent of the cancer in the body. It helps determine how serious the cancer is and how best to treat it. The stage is one of the most important factors in deciding how to treat the cancer and determining how successful treatment might be. 
+How is the stage determined?
+The results of the staging process are usually described in a standard way, using a staging system. Staging systems for most other types of cancer are based on the size of the primary tumor (the first one to develop) and how far the cancer has spread from there. But for people with AIDS-related Kaposi sarcoma (KS), the most common type in the United States, the outlook is influenced at least as much by the presence of other AIDS-related problems as it is by the spread of KS. For this reason, staging KS also considers factors such as how much the immune system is damaged and the presence of AIDS-related infections.
+There is no officially accepted system for staging KS like there is for most other forms of cancer. But for AIDS-related KS, most doctors use the AIDS Clinical Trials Group system.
+The AIDS Clinical Trial Group system
+The AIDS Clinical Trials Group (ACTG) system for AIDS-related KS considers 3 factors:
+
+The extent of the tumor (T)
+The status of the immune system (I), as measured by the number of CD4 cells (a specific type of immune cell) in the blood
+The extent of systemic illness (S) within the body (how sick is the person from the cancer or the HIV)
+
+Under each major heading, there are 2 subgroups: either a 0 (good risk) or a 1 (poor risk). The following are the possible staging groups under this system:
+T (tumor) status
+T0 (good risk): Localized tumor
+KS is only in the skin and/or the lymph nodes (bean-sized collections of immune cells throughout the body), and/or there is only a small amount of disease on the palate (roof of the mouth). The KS lesions in the mouth are flat rather than raised.
+T1 (poor risk): The KS lesions are widespread. One or more of the following is present:
+
+Edema (swelling) or ulceration (breaks in the skin) due to the tumor
+Extensive oral KS: lesions that are nodular (raised) and/or lesions in areas of the mouth besides the palate (roof of the mouth)
+Lesions of KS are in organs other than lymph nodes (such as the lungs, the intestine, the liver, etc.). Kaposi sarcoma in the lungs can sometimes mean a worse prognosis (outcome).
+
+I (immune system) status
+The immune status is assessed using a blood test known as the CD4 count, which measures the number of white blood cells called helper T cells.
+I0 (good risk): CD4 cell count is 150 or more cells per cubic millimeter (mm3).
+I1 (poor risk): CD4 cell count is lower than 150 cells per mm3.
+S (systemic illness) status
+S0 (good risk): No systemic illness present; all of the following are true:
+
+No history of opportunistic infections (infections that rarely cause problems in healthy people but affect people with suppressed immune systems) or thrush (a fungal infection in the mouth).
+No B symptoms lasting more than 2 weeks. B symptoms include:Unexplained fever; night sweats (severe enough to soak the bed clothes); weight loss of more than 10% without dieting
+Karnofsky performance status (KPS) score of 70 or higher. This means you are up and about most of the time and able to take care of yourself.
+
+S1 (poor risk): Systemic illness present; one or more of the following is true:
+
+History of opportunistic infections or thrush
+One or more B symptoms is present
+KPS score is under 70
+Other HIV-related illness is present, such as neurological (nervous system) disease or lymphoma
+
+Overall risk group
+Once these features have been evaluated, patients are assigned an overall risk group (either good risk or poor risk). In fact, since highly active antiretroviral therapy (HAART) became available to treat HIV, the immune status (I) has become less important and is often not counted in determining the risk group:
+
+Good risk: T0 S0, T1 S0, or T0 S1
+Poor risk: T1 S1Survival rates can give you an idea of what percentage of people with the same type and stage of cancer are still alive a certain amount of time (usually 5 years) after they were diagnosed. They can’t tell you how long you will live, but they may help give you a better understanding of how likely it is that your treatment will be successful.
+Keep in mind that survival rates are estimates and are often based on previous outcomes of large numbers of people who had a specific cancer, but they can’t predict what will happen in any particular person’s case. These statistics can be confusing and may lead you to have more questions. Ask your doctor, who is familiar with your situation, how these numbers might apply to you. 
+What is a 5-year relative survival rate?
+A relative survival rate compares people with the same type and stage of Kaposi sarcoma to people in the overall population. For example, if the 5-year relative survival rate for a specific stage of Kaposi sarcoma is 80%, it means that people who have that cancer are, on average, about 80% as likely as people who don’t have that cancer to live for at least 5 years after being diagnosed.
+Where do these numbers come from?
+The American Cancer Society relies on information from the Surveillance, Epidemiology, and End Results (SEER) database, maintained by the National Cancer Institute (NCI), to provide survival statistics for different types of cancer.
+The SEER database tracks 5-year relative survival rates for Kaposi sarcoma in the United States, based on how far the cancer has spread. The SEER database, however, does not group these cancers by the AIDS Clinical Trial Group system (good risk, poor risk). Instead, it groups them into localized, regional, and distant stages:
+
+Localized: The cancer is confined to one area--for example, the skin, a mucosal surface such as the mouth, or an organ like part of the digestive tract.
+Regional: The cancer has grown outside of the place where it started (such as the skin, mouth or digestive tract) and into nearby areas or nearby lymph nodes.
+Distant: The cancer has spread to distant parts of the body, such as the lungs or liver.
+
+5-year relative survival rates for Kaposi sarcoma
+These numbers are based on people diagnosed with Kaposi sarcoma from 2012 to 2018.
+
+
+
+SEER Stage
+5-Year Relative Survival Rate
+
+
+Localized
+81%
+
+
+Regional
+65%
+
+
+Distant
+47%
+
+
+All SEER stages combined
+75%
+
+
+
+Understanding the numbers
+
+These numbers apply only to the stage of the cancer when it is first diagnosed. They do not apply later on if the cancer grows, spreads, or comes back after treatment.
+These numbers don’t take everything into account. Survival rates are grouped based on how far the cancer has spread, but your age and overall health, the type of Kaposi sarcoma you have, your CD4 cell count, how well the cancer responds to treatment, and other factors can also affect your outlook.
+People now being diagnosed with Kaposi sarcoma may have a better outlook than these numbers show. Treatments improve over time, and these numbers are based on people who were diagnosed and treated at least 5 years earlier.It’s important to have frank, open discussions with your cancer care team. They want to answer all of your questions, so that you can make informed treatment and life decisions. For instance, consider these questions:
+When you’re told you have Kaposi sarcoma
+
+Where is the cancer located?
+Has the cancer spread beyond the skin? Has it spread to nearby lymph nodes or other organs?
+What is the cancer’s stage (extent), and what does that mean?
+Will I need other tests before we can decide on treatment?
+What is my CD4 count and should I be doing anything to try to increase it?
+Are there any other infections contributing to my condition?
+For AIDS-related KS, is my HIV viral load controlled?
+Do I need to see any other doctors or health professionals?
+Based on what you’ve learned about my cancer, what is my prognosis (outlook)?
+If I’m concerned about the costs and insurance coverage for my diagnosis and treatment, who can help me?
+
+When deciding on a treatment plan
+
+What are my treatment options?
+What do you recommend and why?
+How much experience do you have treating this type of cancer?
+Should I get a second opinion? How do I do that? Can you recommend someone?
+What would the goal of the treatment be?
+How quickly do we need to decide on treatment?
+What should I do to be ready for treatment?
+How long will treatment last? What will it be like? Where will it be done?
+What risks or side effects are there to the treatments you suggest? Are there things I can do to reduce these side effects?
+How might treatment affect my daily activities? Can I still work full time?
+What are the chances the cancer will recur (come back) with these treatment plans?
+What will we do if the treatment doesn’t work or if the cancer recurs?
+What if I have transportation problems getting to and from treatment? 
+
+During treatment
+Once treatment begins, you’ll need to know what to expect and what to look for. Not all of these questions may apply to you, but asking the ones that do may be helpful.
+
+How will we know if the treatment is working?
+Is there anything I can do to help manage side effects?
+What symptoms or side effects should I tell you about right away?
+How can I reach you on nights, holidays, or weekends?
+Do I need to change what I eat during treatment?
+Are there any limits on what I can do?
+Can I exercise during treatment? If so, what kind should I do, and how often?
+Can you suggest a mental health professional I can see if I start to feel overwhelmed, depressed, or distressed?
+What if I need social support during treatment because my family lives far away?
+
+After treatment
+
+Do I need a special diet after treatment?
+Are there any limits on what I can do?
+What other symptoms should I watch for?
+What kind of exercise should I do now?
+What type of follow-up will I need after treatment?
+How often will I need to have follow-up exams and imaging tests?
+Will I need any blood tests?
+How will we know if the cancer has come back? What should I watch for?
+What will my options be if the cancer comes back?
+
+Along with these sample questions, be sure to write down some of your own. For instance, you might want more information about recovery times, or you might want to ask about clinical trials.
+Keep in mind that doctors aren’t the only ones who can give you information. Other health care professionals, such as nurses and social workers, can answer some of your questions. To find out more about speaking with your health care team, see The Doctor-Patient Relationship﻿.For epidemic (AIDS-associated) and iatrogenic (transplant related) Kaposi sarcoma (KS), it is most important to treat any immune deficiency that exists, as well as any related infections.
+For people with HIV or AIDS, this means using combinations of anti-HIV drugs. This is known as highly active antiretroviral therapy (HAART). For many AIDS patients, HAART may be the only treatment needed to shrink the KS lesions and to keep them under control.
+In organ-transplant patients whose immune systems are suppressed by drugs, stopping, lowering or changing the drugs may be helpful. Sirolimus and everolimus are new drugs that may control the KS lesions as well as prevent organ rejection.
+New KS lesions are more likely to develop when a patient’s blood test results for Kaposi sarcoma herpesvirus (KSHV) are positive. The risk of developing new lesions is lower when antiviral medicines such as ganciclovir or foscarnet are used. These medicines may help prevent new lesions but they do not help existing lesions get better. They can also cause serious side effects.
+KS lesions tend to get worse if you develop bacterial or other active infections. Therefore, it is very important to do what you can to lower your risk of bacterial infections and to treat active infections promptly if they do occur.Local treatment only affects certain Kaposi sarcoma (KS) lesions (or areas of lesions). This type of treatment is often used to treat a few skin lesions in one spot to help a person look or feel better. Local therapy is most useful when there are just a few lesions in a very visible area (such as the face). The drawbacks of local therapy are that it doesn’t treat lesions anywhere else and it can’t keep new lesions from developing.
+Sometimes, the doctor might recommend just observation if a person's immune system is functioning well from treatment with highly active antiretroviral therapy (HAART) or transplant medications, and the areas of KS are small and not bothersome to the person.
+Topical treatment
+This type of treatment puts medicine directly on the lesion. For example, alitretinoin, a retinoid drug related to vitamin A, is available as a gel that can be used to treat KS skin lesions. When it is placed on a KS lesion 2 to 4 times a day, it makes it get smaller or go away in 1 to 3 months. Side effects of this gel include skin irritation and lightening of the skin.
+Imiquimod is a cream that can also be used to treat KS skin lesions. It is applied three times a week for 24 weeks and may cause some itching and redness where it is used.
+Cryosurgery (cryotherapy)
+Cryosurgery can be useful for small KS lesions on the face, although it is not as helpful for large or deep lesions. Liquid nitrogen is applied to the tumor to freeze and kill the cells. After the dead area of skin thaws, it may swell, blister and crust over. The wound may take several weeks to heal, and the skin of the treated area may be lighter after treatment.
+Surgery
+When a person has only a few, small Kaposi sarcoma lesions, one option may be to remove them with surgery. This can be done in different ways.
+Simple excision: The skin is first numbed with a local anesthetic. The tumor is then cut out with a surgical knife, along with some surrounding normal skin. The remaining skin is carefully stitched back together, leaving a small scar.
+Curettage and electrodesiccation: The tumor is removed by scraping it with a curette (a long, thin instrument with a sharp looped edge on one end), then treating the area with an electric needle (electrode) to try to destroy any remaining cancer cells. This process can be repeated.
+A drawback of surgery is that the lesion might recur (come back) in the same place.
+Surgery may also be an option for a single KS lesion that is blocking the air entering the lungs or blocking the urinary system.
+Intralesional chemotherapy
+A small amount of a chemotherapy drug is injected directly into the KS lesions. Very little of the drug is absorbed into the body. This lets the patient avoid many of the side effects normally seen with chemotherapy.
+The most common drug used for intralesional chemotherapy in KS is vinblastine. Some people may have swelling, blistering, and pain at the injection site with this type of treatment.
+Photodynamic therapy (PDT)
+A special liquid drug is applied to the skin. The drug collects in the tumor cells over several hours or days and makes the cells sensitive to certain types of light. A special light source is then focused on the tumor(s), and the cells die. A possible side effect of PDT is that it can make the skin very sensitive to sunlight for some time, so precautions may be needed to avoid severe burns.
+For more information on this technique, see Photodynamic Therapy.
+Radiation therapy
+Radiation can also be used as a local treatment for KS.Radiation therapy uses high-energy radiation to kill cancer cells. When the radiation is given from outside the body it is called external beam radiation therapy. This is the type of radiation therapy used to treat lesions of Kaposi sarcoma (KS). KS lesions usually respond well to radiation treatments, but sometimes new lesions can appear in the skin right next to the area where the radiation was given.
+Radiation therapy is often effective as a type of local therapy to treat KS lesions on or near the surface of the body. Radiation is used to reduce symptoms like pain or swelling from the KS lesions. It is also used for skin lesions that look bad and can easily be seen (like on the face).
+For KS lesions on the skin, the form of radiation most often used is called electron-beam radiation therapy (EBRT). It uses tiny particles called electrons that don’t pass very far through the skin’s surface. This limits non-skin side effects. EBRT can also be used to treat large areas of the skin if a person has many widespread KS lesions.
+Radiation can also be used to treat KS lesions in the mouth or throat. The form of radiation used for this, known as photon radiation, can penetrate deeper into the body.
+Radiation treatments for KS lesions are often given once a week for several weeks. Getting treatment is much like getting an x-ray, but the radiation is stronger. The procedure itself is painless. Each treatment lasts only a few minutes, although the initial setup time takes longer.
+Side effects of radiation therapy can include skin changes, nausea, vomiting, and fatigue, Radiation can also cause anemia (low red blood cells), as well as lower numbers of white blood cells, which increases the risk of infection.
+Serious side effects are rare when radiation is given to just a small area of the skin, but a small portion of patients have severe skin reactions.
+When radiation is used to treat KS lesions in the mouth or throat, these areas can become painful and open sores can develop. If chemotherapy and radiation are given at the same time, the side effects can be worse.Chemotherapy (chemo) is the use of drugs to treat cancer. When the drugs are given into a vein or by mouth, they enter the bloodstream to reach almost all areas of the body. This is a type of systemic treatment. It is useful to treat cancer that has spread to many areas of the body. When the drugs are injected directly into a tumor it is called intralesional chemotherapy. (See  Local Therapy for Kaposi Sarcoma.)
+The systemic chemo drugs used most often to treat Kaposi sarcoma (KS) belong to a group known as liposomal anthracyclines. Anthracyclines are drugs that treat many different cancers. In liposomal anthracyclines, the drugs are enclosed in tiny fat globules. In this form, they are better taken up by tumors and have fewer side effects. The liposomal anthracyclines used in the US to treat KS are:
+
+Liposomal doxorubicin (Doxil®)
+Liposomal daunorubicin (DaunoXome®)
+
+Another chemo drug commonly used to treat KS is paclitaxel (Taxol®). Initial studies show it seems to work as well as liposomal doxorubicin and its main side effect is a low white blood cell count.
+Other chemotherapy drugs that treat KS include:
+
+Nab-paclitaxel (Abraxane®)
+Gemcitabine (Gemzar®)
+Vinorelbine (Navelbine®)
+Bleomycin
+Vinblastine (Velban®)
+Vincristine (Oncovin®)
+Etoposide (VP-16)
+
+More than half of KS patients treated with chemo will improve, but KS generally doesn’t go away completely. Sometimes chemo can be stopped as long as lesions are not causing problems or increasing in size and number. If the KS starts to get worse, treatment may be restarted.
+It can be hard to give chemo to people for long periods of time if they have immune system problems (such as HIV/AIDS), because chemo drugs can also weaken the immune system. In all patients, it is important to try to improve immune function and treat related infections. This is especially important when giving chemo.
+As previously noted, patients with epidemic KS should be treated with combined antiretroviral therapy (cART), which can be given along with systemic chemotherapy.
+When choosing a treatment plan, your doctor will take into account drug interactions between the antiretroviral drugs and the chemo drugs. Once there is adequate control of the KS disease, chemo may be stopped, at least for a time. The KS may then be controlled with cART alone.
+Chemo drugs attack cells that are dividing quickly, which is why they work against cancer cells. But other cells in the body, such as those in the bone marrow, the lining of the mouth and intestines, and the hair follicles, also divide quickly. These cells are also likely to be affected by chemotherapy, which can lead to side effects such as:
+
+Nausea and vomiting
+Loss of appetite
+Mouth sores
+Diarrhea
+Hair loss
+Increased risk of infection (from too few white blood cells)
+Easy bruising or bleeding (from too few blood platelets)
+Fatigue (from too few red blood cells)
+
+The side effects of chemo depend on the type of drug, the amount taken, and the length of treatment.
+Some drugs can have other side effects. For example, drugs such as vincristine or paclitaxel can damage nerves (called neuropathy), sometimes leading to numbness, tingling, or pain, particularly in your fingers and toes. This can also cause some weakness in your arms and legs. These problems tend to be worse in AIDS patients because the AIDS virus affects bone marrow and often nerve cells.
+Most side effects go away once treatment is finished, but some can last a long time (or even be permanent). Be sure to ask your doctor about the possible side effects from the chemo drugs that you will receive.
+There are often ways to prevent or lessen these side effects. For example, drugs can be given to help nausea and vomiting. Tell your medical team about any side effects or changes you notice while getting chemo so that they can be treated promptly.Immunotherapy is the use of medicines to stimulate a person's own immune system to recognize and destroy cancer cells more effectively.
+Immunomodulating agents
+The way immunomodulating agents affect the immune system isn’t entirely clear. Three immunomodulating agents can be used to treat Kaposi sarcoma (KS). The first of these drugs to be developed, thalidomide, caused severe birth defects when taken during pregnancy. Because the other immunomodulating agents are related to thalidomide, there’s concern that they could also cause birth defects. That’s why all of these drugs can only be ordered through a special program run by the drug company that makes them.
+Because all of these drugs can increase the risk of serious blood clots, they are often given along with aspirin or a blood thinner.
+Thalidomide (Thalomid) was first used decades ago as a sedative and as a treatment for morning sickness in pregnant women. When it was found to cause birth defects, it was taken off the market. Later, it became available again as a treatment for multiple myeloma. A few studies show it works in some people with KS that has come back or keeps growing on other drugs.
+Side effects of thalidomide can include drowsiness, fatigue, constipation, depression, and nerve damage (neuropathy). The neuropathy can be severe, and might not go away after the drug is stopped.
+Pomalidomide (Pomalyst) can be used to treat people with KS who are HIV negative or have AIDS but their cancer is no longer responding to highly active antiretroviral therapy (HAART).
+Some common side effects of pomalidomide include low blood counts (red cells, white cells, and platelets) kidney problems, rash, constipation, low phosphate or calcium levels, nausea and diarrhea.
+Lenalidomide (Revlimid) might be used in some people with KS that has come back or keeps growing on other drugs.
+The most common side effects of lenalidomide are thrombocytopenia (low platelets) and low white blood cell counts. It can also cause painful nerve damage.Different treatment options for Kaposi sarcoma (KS) were discussed in previous sections. Deciding which treatment to use depends on a number of factors, such as
+
+The type of KS (which helps predict how fast the disease may grow and spread)
+The number and location of the KS lesions
+What kinds of problems the KS is causing
+The person’s overall health
+
+These factors need to be considered because certain treatments, such as chemotherapy, can have serious side effects. Someone who is weak or sick from other problems may not be able to tolerate chemotherapy. In a case like this, the chemo may do more harm than good.
+AIDS-related Kaposi sarcoma
+For someone with AIDS, the most important part of KS treatment is treating the HIV infection with anti-AIDS drug combinations. In many patients, KS lesions begin to get smaller as their immune function gets better. In some patients with AIDS, highly active antiretroviral therapy (HAART) may be the only treatment needed to treat the KS. HAART also helps AIDS patients live longer and feel better. Still, other treatments for KS may be needed to improve symptoms (like pain and swelling).
+A local treatment such as radiation therapy, cryosurgery, or a topical retinoid, may be used if a person has only a few skin lesions. KS tumors of the skin, mouth, or anus are sometimes treated with low-doses of radiation therapy. As a rule, doctors use radiation therapy to relieve symptoms or treat highly visible lesions. Sometimes radiation is given to patients who can’t have chemotherapy because they are too weak or have poor liver function.
+Chemotherapy may be added to HAART for patients with:
+
+Many skin or mouth lesions
+Severe swelling from KS (lymphedema)
+Lung lesions causing shortness of breath
+Lesions in the stomach and intestines that have caused anemia (low red blood cell count), weight loss, or other problems
+
+For chemotherapy, paclitaxel or one of the liposomal anthracyclines is usually given. If those drugs do not work, other chemotherapy drugs can be tried (see the section about chemotherapy treatment for KS).
+For people with AIDS-related KS whose HAART therapy no longer keeps the cancer under control, the immunomodulatory drug, pomalidomide, might be an option. It can also be used in people with KS who are HIV negative.
+Classic Kaposi sarcoma
+Classic KS grows and spreads slowly, so lesions are more often treated with surgery, radiation therapy, or another local treatment like intralesional chemotherapy.
+Chemotherapy may be used for widespread skin lesions or for KS that is in the lymph nodes, the lungs, or the digestive tract. Liposomal anthracyclines or paclitaxel are the drugs most often used for chemotherapy.
+Transplant-related Kaposi sarcoma
+In people who have had organ transplants, KS lesions sometimes go away on their own if the drugs that suppress the immune system are changed or stopped. A drug called sirolimus may be used in place of another anti-rejection drug because it can often make KS lesions get smaller.
+Skin lesions can be treated with radiation therapy or another local treatment. Most doctors try to avoid giving chemotherapy in KS patients who have had organ transplants. But some patients may agree to take part in clinical trials of new drugs.
+Endemic Kaposi sarcoma
+Because endemic KS occurs in poor countries, treatment options are often limited. When available, the same treatments given for classic KS may be used.For some people with Kaposi sarcoma (KS), treatment may remove or destroy the cancer. The end of treatment can be both stressful and exciting. You may be relieved to finish treatment, but it is hard not to worry about cancer coming back. This is a very real concern for those who have KS, since treatments often do not cure the disease.
+For many people with KS, the cancer never goes away completely. Some people may get regular treatments with chemotherapy, radiation therapy, or other therapies to try to help keep the cancer in check. Learning to live with cancer that does not go away can be difficult and very stressful. See Managing Cancer As a Chronic Illness for more about this.
+Life after Kaposi sarcoma means returning to some familiar things and making some new choices.
+Follow-up care
+During and after treatment, it’s very important to go to all your follow-up appointments. During these visits, your doctors will ask about symptoms, examine you, and order blood tests or imaging studies such as CT scans or x-rays. Follow-up is needed to see if the cancer has come back, if more treatment is needed, and to check for any side effects. This is the time for you to talk to your cancer care team about any changes or problems you notice and any questions or concerns you have.
+Almost any cancer treatment can have side effects. Some last for a few weeks to several months, but others can be permanent. Don’t hesitate to tell your cancer care team about any symptoms or side effects that bother you so they can help you manage them.
+Ask your doctor for a survivorship care plan
+Talk with your doctor about developing a survivorship care plan for you. This plan might include:
+
+A suggested schedule for follow-up exams and tests
+A schedule for other tests you might need in the future, such as early detection (screening) tests for other types of cancer, or tests to look for long-term health effects from your cancer or its treatment
+A list of possible late- or long-term side effects from your treatment, including what to watch for and when you should contact your doctor
+Diet and physical activity suggestions
+Reminders to keep your appointments with your primary care provider (PCP), who will monitor your general health care
+
+Keeping health insurance and copies of your medical records
+Even after treatment, it’s very important to keep health insurance. Tests and doctor visits cost a lot, and even though no one wants to think about their cancer coming back, this could happen.
+At some point after your cancer treatment, you might find yourself seeing a new doctor who doesn’t know about your medical history. It’s important to keep copies of your medical records to give your new doctor the details of your diagnosis and treatment. Learn more in Keeping Copies of Important Medical Records. 
+Can I lower my risk of Kaposi sarcoma progressing or coming back?
+If you have (or have had) Kaposi sarcoma, you probably want to know if there are things you can do that might lower your risk of the cancer growing or coming back, such as exercising, eating a certain type of diet, or taking nutritional supplements. Unfortunately, it’s not yet clear if there are things you can do that will help.
+Adopting healthy behaviors such as not smoking, eating well, getting regular physical activity, and staying at a healthy weight might help, but no one knows for sure. However, we do know that these types of changes can have positive effects on your health that can extend beyond your risk of Kaposi sarcoma or other cancers.
+It is very important for people who have had Kaposi sarcoma to do what they can to keep their immune systems healthy and to limit their risk of infection. If you are HIV-positive, this means being sure to take your antiviral medicines regularly. Talk with your doctor about getting vaccines and other steps you can take to help prevent infections.
+About dietary supplements
+So far, no dietary supplements (including vitamins, minerals, and herbal products) have been shown to clearly help lower the risk of cancer progressing or coming back. This doesn’t mean that no supplements will help, but it’s important to know that none have been proven to do so.
+Dietary supplements are not regulated like medicines in the United States – they do not have to be proven effective (or even safe) before being sold, although there are limits on what they’re allowed to claim they can do. If you’re thinking about taking any type of nutritional supplement, talk to your health care team. They can help you decide which ones you can use safely while avoiding those that might be harmful.
+If the cancer comes back
+If the cancer does recur at some point, your treatment options will depend on where the cancer is located, what treatments you’ve had before, and your health.
+For more information, see Understanding Recurrence.
+Getting emotional support
+Some amount of feeling depressed, anxious, or worried is normal when KS is a part of your life. Some people are affected more than others. But everyone can benefit from help and support from other people, whether friends and family, religious groups, support groups, professional counselors, or others. Learn more in Life After Cancer.What is Kaposi sarcoma?
+Kaposi sarcoma or KS is a type of cancer that starts in the lining of blood or lymph vessels. It causes purple, red, or brown patches or tumors under or on the skin. Your doctor may call the patches lesions . They're most often in the skin, but can be found other places, too, like inside the mouth, or in the lymph nodes, lungs, or stomach.
+Are there different kinds of sarcoma?
+There are a few kinds of Kaposi sarcoma (KS). They are much the same, but named for the group of people they start in. The most common kind of KS in the US is AIDS-related KS. It's found in people living with HIV.
+Your doctor can tell you more about the type you have.
+Questions to ask the doctor
+
+Why do you think I have KS?
+Is there a chance I don’t have KS?
+Would you please write down the kind of KS you think I might have?
+Where is the KS?
+What will happen next?
+
+How does the doctor know I have Kaposi sarcoma?
+Most of the time, Kaposi sarcoma (KS) is diagnosed when a patient sees a doctor about a change in or on their skin. Your doctor will ask questions about your symptoms and do a physical exam.
+If signs are pointing to KS, you might need to have more tests. Here are some of the tests you may need:
+Biopsy
+A biopsy is the only way to tell for sure if you have KS. In a biopsy, the doctor takes out a small piece of the lesion to check it for cancer cells.
+There are different ways to do a biopsy. The type used will depend on the size of the lesion and where it is in your body. Ask your doctor what kind you will need.
+Other tests
+X-rays: A chest x-ray may be done to see if there's KS in your lungs.
+Bronchoscopy : If the chest x-ray shows a change or you're coughing up blood and/or having trouble breathing this test may be used to look into your lungs. You will be given drugs to make you sleep while a thin, lighted tube is put down your throat and into your lungs. Your doctor can get a close look at the inside of your breathing tubes and lungs. If a change is seen, a biopsy can be done through the tube.
+Endoscopy: Some people with KS in their stomach or intestines (digestive tract) have belly pain and see blood in their bowel movements. If the doctor thinks you might have KS in your digestive tract, flexible tubes can be used to look inside your body. These tubes, called scopes may be put in through your mouth or your rectum. The doctor can look at the inside of your digestive tract and do a biopsy through the scope if a change is found. You will be given drugs to make you sleep during these tests.
+Questions to ask the doctor
+
+What tests will I need to have?
+Who will do these tests?
+Where will they be done?
+Who can explain them to me?
+How and when will I get the results?
+Who will explain the results to me?
+What do I need to do next?
+
+How serious is my cancer?
+If you have Kaposi sarcoma (KS), the doctor will want to find out where it is and how big the lesions are. Your overall health and the health of your immune system (based on your CD4 cell count) are also key factors. This information is used to put you into a risk group: The good risk group or the poor risk group.
+Ask the doctor which risk group you're in and what it means for you.
+Questions to ask the doctor
+
+Do you know the risk group I'm in?
+If not, how and when will you find out the risk group?
+Would you explain to me what my risk group means for me?
+Based on my risk group, how long do you think I’ll live?
+What will happen next?
+
+What kind of treatment will I need?
+The treatment that's best for you depends on:
+
+How well your immune system is working
+Where the lesions are
+How many lesions there are
+The size of the lesions
+Your overall health
+Your feelings about treatment and side effects
+
+For most people with AIDS-related Kaposi sarcoma (KS), treating the HIV with HAART (highly active antiretroviral therapy) keeps the KS under control.
+KS is also treated with local treatments, radiation, and/or chemotherapy.
+Local therapy
+If there are just a few lesions on skin that can be seen (like your face or arms), local therapy might be an option. These treatments only treat the lesion itself. They can include:
+
+Drugs like creams or gels that are put right onto the lesion
+Chemo that's put right into the lesion using a small needle
+Freezing the lesion to kill the cancer cells
+Minor surgery to remove the lesion
+Using special drugs and lasers (called PDT or photodynamic therapy) to kill the cancer cells
+Radiation to kill the cancer cells
+
+Side effects of local therapy
+These treatments can make your skin red and sore for a while. Your skin may also be lighter when it heals.
+Ask the doctor to expect. If you have problems, let your doctors know. Doctors who treat KS should be able to help you with any problems that come up.
+Radiation treatments
+Radiation uses high-energy rays (like x-rays) to kill cancer cells. It can be used as local therapy and may also be used to treat KS lesions in your mouth or throat or big lesions that cover a lot of your skin. It might be given along with chemo. Radiation can also help treat symptoms like pain and swelling.
+A machine aims the radiation beams at the tumor. This is called external beam radiation.
+Side effects of radiation treatments
+If your doctor suggests radiation treatment, talk about what side effects might happen. Side effects depend on the type of radiation that’s used and the area being treated. Common side effects of radiation are:
+
+Skin changes where the radiation is given
+Feeling very tired
+Nausea
+Low blood counts
+
+Most side effects get better after treatment ends. Some might last longer. Talk to your cancer care team about what you can expect during and after treatment.
+Chemo
+Chemo is the short word for chemotherapy, the use of drugs to fight cancer. The drugs are often given through a needle into a vein or taken as pills. These drugs go into your blood and spread through your body.
+Chemo may be used to help shrink a tumor, but the KS seldom goes away. Chemo may be started and stopped as needed to keep KS under control.
+Side effects of chemo
+Chemo can make you feel very tired, sick to your stomach, and cause your hair to fall out. But these problems go away after treatment ends.
+There are ways to treat most chemo side effects. If you have side effects, talk to your cancer care team so they can help.
+Clinical trials
+Clinical trials are research studies that test new drugs or other treatments in people. They compare standard treatments with others that may be better.
+If you'd like to learn more about clinical trials that might be right for you, start by asking your doctor if your clinic or hospital takes part in clinical trials. See Clinical Trials to learn more.
+Clinical trials are one way to get the newest cancer treatment. They are the best way for doctors to find better ways to treat cancer. If your doctor can find one that’s studying the kind of cancer you have, it’s up to you whether to take part. And if you do sign up for a clinical trial, you can always stop at any time.
+What about other treatments I hear about?
+When you have cancer you might hear about other ways to treat the cancer or treat your symptoms. These may not always be standard medical treatments. These treatments may be vitamins, herbs, diets, and other things. You may be curious about these treatments.
+Some of these are known to help, but many have not been tested. Some have been shown not to help. A few have even been found to be harmful. Talk to your doctor about anything you’re thinking about using, whether it’s a vitamin, a diet, or anything else.
+Questions to ask the doctor
+
+Will I need to see other doctors?
+What treatment do you think is best for me?
+What's the goal of this treatment? Do you think it could cure the cancer?
+Will treatment include surgery? If so, who will do the surgery?
+What will the surgery be like?
+Will I need other types of treatment, too?
+What will these treatments be like?
+What's the goal of these treatments?
+What side effects could I have from these treatments?
+What can I do about side effects that I might have?
+Will I be able to have children after treatment?
+Is there a clinical trial that might be right for me?
+What about vitamins or diets that friends tell me about? How will I know if they are safe?
+How soon do I need to start treatment?
+What should I do to be ready for treatment?
+Is there anything I can do to help the treatment work better?
+What's the next step?
+
+What will happen after treatment?
+You’ll be glad when treatment is over. But it’s hard not to worry about cancer coming back. Even when cancer never comes back, people still worry about it. For years after treatment ends, you will see your cancer doctor. At first, your visits may be every few months. Then, the longer you’re cancer-free, the less often the visits are needed.
+Be sure to go to all of these follow-up visits. Your doctors will ask about symptoms, do physical exams, and may do blood tests or other tests to see if the cancer has come back.
+Having cancer and dealing with treatment can be hard, but it can also be a time to look at your life in new ways. You might be thinking about how to improve your health. Call us at 1-800-227-2345 or talk to your doctor to find out what you can do to feel better.
+You can’t change the fact that you have cancer. What you can change is how you live the rest of your life – making healthy choices and feeling as good as you can.

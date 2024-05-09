@@ -1,0 +1,496 @@
+Cancer starts when cells begin to grow out of control. Cells in nearly any part of the body can become cancer, and can spread to other areas. To learn more about how cancers start and spread, see What Is Cancer? For information about the differences between childhood cancers and adult cancers, see Cancer in Children.
+Retinoblastoma is a cancer that starts in the retina, the very back part of the eye. It is the most common type of eye cancer in children. Rarely, children can have other kinds of eye cancer, such as medulloepithelioma, which is described briefly below, or ocular (eye) melanoma.
+To understand retinoblastoma, it helps to know how the parts of the eye work.
+The eye
+The main part of the eye is the eyeball (also known as the globe), which is filled with a jelly-like material called vitreous humor. The front of the eyeball has a clear lens with an iris (the colored part of the eye that acts like a camera shutter), which allows light to enter the eye and focuses it on the retina.
+The retina is the inner layer of cells in the back of the eye. It is made up of special nerve cells that are sensitive to light. These light-sensing cells are connected to the brain by the optic nerve, which runs out the back of the eyeball. The pattern of light (image) that reaches the retina is sent through the optic nerve to an area of the brain called the visual cortex, allowing us to see.Retinoblastoma is the most common type of eye cancer in children. It accounts for about 2% of all childhood cancers. Still, it is rare overall. Only about 200 to 300 children are diagnosed with retinoblastoma each year in the United States.
+Retinoblastoma is most common in infants and very young children. The average age of children is 2 when it is diagnosed. It rarely occurs in children older than 6.
+About 3 out of 4 children with retinoblastoma have a tumor in only one eye (known as unilateral retinoblastoma). In about 1 case in 4, both eyes are affected (known as bilateral retinoblastoma).
+Retinoblastoma occurs about equally in boys and girls and in different races and ethnicities. It also occurs equally in the right or left eye.
+Overall, more than 9 out of 10 children in the United States with retinoblastoma are cured, but the outlook is not as good if the cancer has spread outside of the eye.Over the past few decades, research into retinoblastoma has led to many advances in treatment, which in turn has led to much higher cure rates and fewer side effects. Still, not all children are cured, and even those who are cured might still have long-term side effects from treatment, so more research is needed.
+Research on retinoblastoma is being done at many medical centers, university hospitals, and other institutions around the world.
+Genetics, genetic testing, and gene therapy
+The defective gene responsible for nearly all retinoblastomas (the RB1 gene) was identified in 1986. This discovery, along with technical advances in finding DNA changes, has made genetic testing for heritable (hereditary) retinoblastoma possible.
+A great deal of research has gone into figuring out how certain DNA changes in retinal cells cause them to become cancerous. Scientists understand these changes better for retinoblastoma than for most other cancer types. Although probably still years away, researchers hope that this understanding will one day lead to gene therapies, very specific treatments that can repair or counteract these DNA changes.
+For example, researchers have found that an oncogene known as SYK is overactive in retinoblastoma cells. Drugs that target the protein this gene makes are now being developed. Another gene called MDM4 also seems to be involved in the development of retinoblastoma, and drugs aimed at blocking its effects are being studied.
+Researchers have also found that a very small portion of retinoblastomas don’t seem to have changes in the RB1 gene, but instead have too many copies of another gene called MYCN. These cancers seem to be different in some important ways from those with RB1 gene changes.
+Treatment
+Research is building on the progress made in treating retinoblastoma over the past few decades.
+Radiation therapy
+External radiation therapy can be used to treat retinoblastoma, but it can cause side effects because the radiation often reaches nearby tissues as well. This is especially important in children with hereditary retinoblastoma, whose cells are more likely to be damaged by radiation.
+Newer forms of radiation therapy such as intensity modulated radiation therapy (IMRT) and proton beam therapy can better target the tumor and spare nearby normal tissues. These techniques, which are described in Radiation Therapy for Retinoblastoma, may help doctors limit the side effects from radiation therapy.
+Focal treatments
+Doctors continue to improve the techniques used for cryotherapy, laser therapy (photocoagulation and thermotherapy), and other focal treatments. The goal is to kill tumor cells more precisely while sparing other parts of the eye.
+Chemotherapy
+Chemotherapy (chemo) has played a larger role in treating many retinoblastomas in recent years.
+
+Systemic chemo: Chemo given into a vein (IV) is now commonly used to shrink tumors before local treatments such as cryotherapy or laser therapy. Chemo is also given to some children after the removal of the eye (known as adjuvant chemotherapy) to help prevent the recurrence of retinoblastoma outside the eye. Doctors are also studying the use of different chemo drugs, as well as new ways of combining currently used drugs, to try to improve how well chemo works.
+
+Localized chemo: Doctors continue to improve upon newer ways of getting chemo into the eye, such as intra-arterial chemo and intravitreal chemo. These approaches let doctors get higher doses of chemo to the tumors while reducing many of the typical chemo side effects, and are quickly becoming part of the standard treatment for many retinoblastomas. These techniques are described in Chemotherapy for Retinoblastoma.
+High-dose chemotherapy and stem cell transplant: A stem cell transplant (SCT) lets doctors give higher doses of chemo than could safely be given otherwise. (In the past, this type of treatment was commonly referred to as a bone marrow transplant.) Doctors are studying the use of this type of treatment in children with retinoblastoma that has spread outside the eye and who are unlikely to be cured with other treatments.
+Chemo drugs can affect quickly dividing cells like those in the bone marrow, which is where new blood cells are made. Even though higher doses of these drugs might be more effective in treating tumors, they can’t be given because they would cause severe damage to bone marrow cells, leading to life-threatening shortages of blood cells.
+To try to get around this problem, the doctor may treat the child with high-dose chemo (sometimes along with radiation therapy) and then use a stem cell transplant to “rescue” the bone marrow.
+To learn more about stem cell transplants, including how they are done, see Stem Cell Transplant for Cancer.
+Oncolytic virus therapy
+Researchers are also trying to find ways to take advantage of the gene changes in retinoblastoma cells to treat these tumors. One example is VCN-01, a virus that’s been modified in the lab to infect and destroy cells that don’t have working copies of the RB1 gene (which includes the vast majority of retinoblastomas). This treatment is now being studied in the earliest phases of clinical trials.A risk factor is anything that increases a person’s chance of getting a disease such as cancer. Different cancers have different risk factors.
+Lifestyle-related risk factors such as body weight, physical activity, diet, and tobacco use play a major role in many adult cancers. But these factors usually take many years to influence cancer risk, and they are not thought to play much of a role in childhood cancers, including retinoblastomas.
+There are very few known risk factors for retinoblastoma.
+Age
+Most children diagnosed with retinoblastoma are younger than 3 years old. Most congenital (heritable) retinoblastomas are found during the first year of life, while non-heritable retinoblastomas tend to be diagnosed in 1- and 2-year-olds. Retinoblastomas are rare after age 6.
+Heredity
+The risk of retinoblastoma is much higher in children with a parent who had the congenital (heritable) form of retinoblastoma. This form often results in tumors in both eyes (bilateral retinoblastoma).  
+But for most children with retinoblastoma, there is no family history of the disease. This is true whether they have the heritable or non-heritable form of retinoblastoma.
+On the other hand, children with the heritable form of retinoblastoma have a 1 in 2 chance of eventually passing on the RB1 gene change that causes the tumor to their children. Children with the non-heritable form do not pass on an increased risk.
+To learn more about the causes of the heritable and non-heritable forms of retinoblastoma, see What Causes Retinoblastoma?
+Unclear risk factors
+Some studies have suggested some parental factors that might be linked to an increased risk of retinoblastoma, such as:
+
+Diets low in fruits and vegetables among mothers during pregnancy
+Exposure to chemicals in gasoline or diesel exhaust during pregnancy
+Exposure of fathers to radiation
+Older age among fathers
+
+The possible link between these factors and retinoblastoma is still being studied.There are very few known risk factors for retinoblastoma, but the main gene changes inside cells that can lead to retinoblastoma are now fairly well known. 
+Early in fetal development, well before birth, cells in the retina of the eye divide to make new cells to fill the retina. At a certain point, these cells normally stop dividing and become mature retinal cells. But sometimes something goes wrong with this process. Instead of maturing, some retinal cells continue to grow out of control, which can lead to retinoblastoma.
+Certain changes in a person’s DNA can cause cells of the retina to grow out of control. DNA is the chemical in our cells that makes up our genes, which control how our cells function. We usually look like our parents because they are the source of our DNA. But DNA affects much more than how we look.
+Some genes control when our cells grow, divide into new cells, and die at the right time:
+
+Genes that help cells grow, divide, or stay alive are called oncogenes.
+Genes that help keep cell division under control or cause cells to die at the right time are called tumor suppressor genes.
+
+Cancers can be caused by DNA changes (mutations) that keep oncogenes turned on, or that turn off tumor suppressor genes.
+The most important gene in retinoblastoma is the RB1 tumor suppressor gene. This gene makes a protein (pRb) that helps stop cells from growing too quickly. Each cell normally has two RB1 genes. As long as a retinal cell has at least one RB1 gene that works as it should, it will not form a retinoblastoma. But when both of the RB1 genes are mutated or missing, a cell can grow unchecked. This can lead to further gene changes, which in turn may cause cells to become cancerous.
+Heritable or bilateral retinoblastoma
+About 1 in 3 children with retinoblastoma has a germline mutation in one RB1 gene; that is, the RB1 gene mutation is in all the cells in the body. In most of these children (75%), this mutation occurs very early in development, while still in the womb. The other 25% of children inherit the gene mutation from one of their parents.
+About 9 of 10 children who are born with this RB1 germline mutation develop retinoblastoma. This happens when the second RB1 gene is lost or mutated. Most often the retinoblastoma is bilateral (in both eyes), but sometimes it is found early enough that it is still only in one eye.
+These children have heritable retinoblastoma (also called hereditary or congenital retinoblastoma). All bilateral retinoblastomas are considered heritable, although not all heritable retinoblastomas are bilateral when they are found.
+Everybody has two RB1 genes but passes only one on to each of their children. (The child gets the other RB1 gene from the other parent.) Therefore there is a 1 in 2 chance that a parent who had heritable retinoblastoma will pass the mutated gene on to their child.
+Most children with heritable retinoblastoma don’t have an affected parent. But these children can still pass their RB1 gene mutation on to their children. This is why this form of retinoblastoma is called "heritable” (even though neither of the child’s parents may have been affected).
+Because children with this form of retinoblastoma have RB1 gene changes in all the cells in their body, they are also at higher risk for developing some other types of cancer. For more on this, see After Treatment for Retinoblastoma.
+Non-heritable (sporadic) retinoblastoma
+Most of the remaining 2 out of 3 children with retinoblastoma do not have the RB1 gene mutation in all the cells of their body. Instead, the RB1 mutation happens early in life and first occurs only in one cell in one eye. These children are not at risk for passing the gene mutation on to their offspring.
+(In a very small portion of non-heritable retinoblastomas, there is no RB1 gene mutation. Some of these retinoblastomas seem to be caused by changes in another gene, known as MYCN.)
+Whether the changes in the RB1 gene are heritable or sporadic, it’s not clear what causes these changes. They may result from random gene errors that sometimes occur when cells divide to make new cells. There are no known lifestyle-related or environmental causes of retinoblastoma, so it’s important to remember that there is nothing these children or their parents could have done to prevent these cancers.Retinoblastoma is a rare cancer, and there are no widely recommended screening tests for retinoblastoma. (Screening is testing for a disease like cancer in people with no signs or symptoms.) Still, many retinoblastomas are found early by parents, relatives, or a child’s doctor.
+During children’s regular physical exams, doctors routinely check their eyes. Some of the things doctors look for include:
+
+Changes in how the eyes look (inside or outside)
+Changes in how the eyes move
+Changes in the child’s vision
+
+Any of these might be a sign of retinoblastoma, although they are more often caused by something else.
+Sometimes, a parent or relative might notice that a young child’s eye doesn’t look normal, and it will prompt a visit to the doctor. It’s important for parents to be aware of the possible signs and symptoms of retinoblastoma, and to report anything unusual to the doctor as soon as possible. Most often the cause is something other than retinoblastoma, but it’s important to have it checked so that the cause can be found and treated right away, if needed.
+For children at increased risk
+For children in families known to carry an RB1 gene change (which causes ﻿heritable retinoblastoma), or in families with a history of retinoblastoma who have not had genetic testing for RB1 gene changes, doctors recommend regular, thorough eye exams during the first years of life to detect tumors at an early stage. These children might need an eye exam soon after birth, and then frequently during the first years of life.
+The RB1 gene defect can be found by a special blood test, so most doctors now advise that children with parents or siblings with a history of retinoblastoma have this genetic test done during the first few weeks after birth. The results of the test then help define how often eye exams should be done. For example, children at risk because they have an RB1 gene change might need an eye exam every month or so during the first year, and then every few months until at least age 4 or 5.
+Children with the heritable form of retinoblastoma usually develop tumors in both eyes (bilateral retinoblastoma). Most heritable retinoblastomas develop and are diagnosed in infants only a few months old. Usually, if tumors develop in both eyes, it happens at the same time. But in some children, tumors develop in one eye first, then a few months (or even years) later in the other eye. So even if retinoblastoma is diagnosed in only one eye, these children will still need regular exams of the other eye for several years after treatment.
+If a child has retinoblastoma that is thought to be hereditary, many doctors also recommend magnetic resonance imaging (MRI) scans of the brain at regular intervals for up to 5 years to check for a trilateral retinoblastoma (which includes a brain tumor such as a pineoblastoma). For more information, see Tests for Retinoblastoma.Retinoblastomas nearly always occur in young children. They are often found when a parent or doctor notices that a child’s eye looks unusual.
+White pupillary reflex
+This is the most common early sign of retinoblastoma. Normally when you shine a light in the eye, the pupil (the dark spot in the center of the eye) looks red because of the blood vessels in the back of the eye. In an eye with retinoblastoma, the pupil often appears white or pink instead, which is known as a white pupillary reflex (or leukocoria).
+A parent might notice this white glare after a flash photograph is taken, especially if the pupils are different colors. It also might be noted by the child’s doctor during a routine eye exam.
+Lazy eye
+Sometimes the eyes don’t appear to look in the same direction, a condition often called lazy eye. (Doctors call this strabismus.) There are many possible causes of this in children. Most of the time lazy eye is caused by a mild weakness of the muscles that control the eyes, but it can also be caused by retinoblastoma.
+Other possible signs and symptoms
+Less common signs and symptoms of retinoblastoma include:
+
+Vision problems
+Eye pain
+Redness of the white part of the eye
+Bleeding in the front part of the eye
+Bulging of the eye
+A pupil that doesn’t get smaller when exposed to bright light
+A different color in each iris (the colored part of the eye)
+
+If the cancer spreads outside the eye, symptoms depend on where the cancer is. Some possible symptoms include:
+
+Loss of appetite and weight loss
+Headache
+Vomiting
+Lumps under the skin in the neck
+
+Many of these signs and symptoms are more likely to be caused by something other than retinoblastoma. Still, if your child has any of these, check with your child’s doctor so the cause can be found and treated, if needed.Retinoblastomas are usually found when a child is brought to a doctor because they are having certain signs or symptoms.
+For most types of cancer, a biopsy is needed to make the diagnosis. During a biopsy, the doctor takes a sample from the tumor and sends it to a lab to be looked at with a microscope.
+But biopsies usually are not done to diagnose retinoblastoma, for 2 main reasons:
+
+Taking a biopsy specimen from a tumor in the eye can’t be done easily without harming the eye and risking the spread of cancer cells outside the eye.
+Retinoblastoma can usually be diagnosed accurately without a biopsy by doctors who have experience with this disease, and it’s unlikely to be confused with other eye problems in children.
+
+Medical history and physical exam
+If your child has signs or symptoms of retinoblastoma, the doctor will examine your child’s eyes and get a complete medical history to learn more about your child’s symptoms. The doctor may also ask about any family history of retinoblastoma or other cancers. This can be important when deciding if more tests and exams are needed. Your family history is also useful for determining whether other relatives could possibly pass the retinoblastoma (RB1) gene change on to their children or develop this cancer themselves (if they are young children), and if they might benefit from genetic counseling and testing.
+If a retinoblastoma is suspected, the doctor will refer you to an ophthalmologist (a doctor who specializes in eye diseases), who will examine the eye closely to be more certain about the diagnosis. The ophthalmologist will use special lights and magnifying lenses to look inside the eye. Usually, the child needs to be asleep (under general anesthesia) during the exam so that the doctor can take a careful and detailed look.
+If a diagnosis of retinoblastoma seems likely based on the eye exam, imaging tests will be done to help confirm it and to find out how far it might have spread within the eye and possibly to other parts of the body. Usually an ophthalmologist who specializes in treating cancers of the eye (called an ocular oncologist) will make the final determination. This doctor should also be part of the team of doctors treating the cancer.
+Imaging tests
+Imaging tests use x-rays, sound waves, magnetic fields, or radioactive substances to create pictures of the inside of the body. Imaging tests may be done for a number of reasons, including:
+
+To help tell if a tumor in the eye is likely to be a retinoblastoma
+To determine how large the tumor is and how far it has spread
+To help determine if treatment is working
+
+Children thought to have retinoblastoma may have one or more of these tests.
+Ultrasound of the eye
+Ultrasound uses sound waves to create images of tissues inside the body, such as the inner parts of the eye. For this test, a small ultrasound probe is placed up against the eyelid or eyeball. The probe gives off sound waves and detects the echoes that bounce off the tissues inside and around the eye. The echoes are converted by a computer into an image on a screen.
+Ultrasound is one of the most common imaging tests to confirm a child has retinoblastoma. This test can also be very useful when tumors in the eye are so large they prevent doctors from seeing inside the whole eye.
+This test doesn't hurt and doesn't expose the child to radiation, but the child may need to be given medicine to help keep them calm or even asleep so the doctor can get a good look at the eye.
+Optical coherence tomography (OCT) is a similar type of test that uses light waves instead of sound waves to create very detailed images of the back of the eye.
+Magnetic resonance imaging (MRI) scan
+An MRI scan creates detailed images using radio waves and strong magnets (instead of x-rays). MRI scans often are used for retinoblastomas because they provide very detailed images of the eye and surrounding structures, without using radiation. This test is also very good for looking at the brain and spinal cord.
+Most children with retinoblastoma will have an MRI scan as part of their initial workup. For children with bilateral retinoblastomas (tumors in both eyes), many doctors continue to do MRI scans of the brain for several years after treatment to look for tumors of the pineal gland (sometimes called trilateral retinoblastoma).
+Your child may have to lie inside a narrow tube for this test, which is confining and can be upsetting. This test also requires staying still for long periods of time. Young children may be given medicine to help keep them calm or even asleep during the test.
+Computed tomography (CT) scan
+CT scans can help determine the size of a retinoblastoma tumor and how much it has spread within the eye and to nearby areas.
+Normally, either a CT or an MRI scan is needed, but usually not both. Most doctors prefer to use MRI, because CT scans use x-rays, which might raise a child’s risk for other cancers in the future. However, a CT scan can show deposits of calcium in the tumor much better than an MRI, which can be very helpful when the diagnosis of retinoblastoma is not clear.
+Bone scan
+A bone scan can help show if the retinoblastoma has spread to the skull or other bones. Most children with retinoblastoma don’t need to have a bone scan. It's normally used only when there is a strong reason to think retinoblastoma might have spread outside the eye.
+For this test, a small amount of low-level radioactive material is injected into the blood and travels to the bones. A special camera can detect the radioactivity and creates a picture of the skeleton.
+Areas of active bone changes appear as “hot spots” on the scan. These areas may suggest cancer is in an area, but other bone diseases can also cause the same pattern. To help tell these apart, other tests such as plain x-rays or MRI scans of the bone might be needed.
+For more details on imaging tests, see Imaging (Radiology) Tests.
+Genetic testing
+When a child is diagnosed with retinoblastoma, it’s important to know if it’s the heritable (congenital) form or the non-heritable form of the disease. (See What Causes Retinoblastoma?) 
+If tumors are found in both eyes (bilateral retinoblastoma), it can be assumed that the child has heritable retinoblastoma (even if there is no family history of the disease). This means they carry the mutant RB1 gene in all of their cells. Some children with retinoblastoma in only one eye might also carry the mutant RB1 gene in all of their cells. 
+A blood test can be done to look for the RB1 gene change in cells outside the eye. This test can usually tell if the child has the heritable form of retinoblastoma.
+Knowing which form a child has important, because children with heritable retinoblastoma have an increased risk for developing other cancers later in life, and are more likely to develop cancer if they get radiation therapy. These children will need close follow-up after treatment. (See After Treatment.) They will also have a 1 in 2 chance of passing the RB1 gene change on to each of their own children. 
+A child having the heritable form of retinoblastoma can also have implications for other family members, such as brothers or sisters, who might also carry the RB1 gene change. Meeting with a genetic counselor can give you a better idea of what this risk might be and if other children in the family should be tested for the mutation. 
+Sometimes tests can’t tell with certainty if a child inherited the RB1 gene change. In these cases the safest plan is to monitor the child (and other children in the family) closely for retinoblastoma with frequent eye exams.
+Other tests
+Other tests are not often needed for retinoblastomas, but they might be helpful in some situations.
+Biopsy
+For most cancers, a biopsy (removing a tissue sample from the tumor and looking at it under a microscope) is needed to make a diagnosis. But trying to biopsy a tumor at the back of the eye can often damage the eye and may spread tumor cells, so this is almost never done to diagnose retinoblastoma. Instead, doctors make the diagnosis based on eye exams and on imaging tests, like those listed above. This is why it's very important that the diagnosis of retinoblastoma is made by experts.
+Lumbar puncture (spinal tap)
+Retinoblastomas can sometimes grow along the optic nerve, which connects the eye to the brain. If the cancer has spread to the surface of the brain, this test can often find cancer cells in samples of cerebrospinal fluid (CSF), which is the fluid that surrounds the brain and spinal cord. Most children with retinoblastoma don’t need a lumbar puncture. It's used mainly when there is a reason to think retinoblastoma might have spread into the brain.
+Typically for this test, the child is given anesthesia so they will be asleep and not move during the procedure. This can help ensure the spinal tap is done cleanly. The doctor first numbs an area in the lower part of the back over the spine. A small, hollow needle is then placed between the bones of the spine to withdraw a small amount of the fluid, which is then sent to the lab for testing.
+Bone marrow aspiration and biopsy
+These 2 tests might be done to see if the cancer has spread to the bone marrow, the soft, inner part of certain bones. These tests are usually not needed unless the retinoblastoma has grown outside the eye and doctors suspect it might have also spread to the bone marrow.
+The tests typically are done at the same time. The samples are usually taken from the back of the pelvic (hip) bone, but sometimes they may be taken from other bones. Usually the child is given anesthesia so they will be asleep during the procedure.
+For a bone marrow aspiration, a thin, hollow needle is then inserted into the bone, and a syringe is used to suck out (aspirate) a small amount of liquid bone marrow.
+A bone marrow biopsy is usually done just after the aspiration. A small piece of bone and marrow is removed with a slightly larger needle that is pushed down into the bone. Once the biopsy is done, pressure is applied to the site to help stop any bleeding.
+The samples are then sent to a lab to be tested for cancer cells.The stage of cancer describes how far it has spread. The outlook (prognosis) for children with retinoblastoma depends, to some extent, on the cancer’s stage. The stage is also an important factor in choosing treatment.
+Retinoblastoma is staged based on the results of eye exams, imaging tests, and any tests that were done, which are described in Tests for Retinoblastoma.
+A staging system is a standard way for your child’s cancer care team to sum up how far a cancer has spread. Doctors use staging systems to predict the outlook for saving the child’s vision, as well as for survival and the likelihood that certain treatments will be effective.
+When determining the best treatment options, doctors often divide retinoblastomas into 2 main groups:
+
+Intraocular retinoblastoma: The cancer is still within the eye.
+Extraocular retinoblastoma: The cancer has spread outside the eye. Extraocular cancers can be divided further into orbital retinoblastomas, which have spread only to the eye socket, and metastatic retinoblastomas, which have spread to distant parts of the body, such as the brain or bone marrow.
+
+In the United States, most retinoblastomas are diagnosed before they have spread outside the eye, so staging systems that apply only to intraocular retinoblastoma are used most often in this country. There are 2 staging systems for intraocular retinoblastomas.
+It’s important to know that regardless of the stage, almost all children with intraocular retinoblastoma can be cured if they are properly treated. But the stage has a bigger impact on whether the affected eye (or the vision in the eye) can be saved.
+International Classification for Intraocular Retinoblastoma
+The International Classification for Intraocular Retinoblastoma is the staging system that most doctors now use. It divides intraocular retinoblastomas into 5 groups, labeled A through E, based on the extent of the cancer and on the chances that the eye can be saved using current treatment options.
+Group A
+Small tumors (no more than 3 millimeters [mm] across) that are only in the retina and are not near important structures such as the optic disc (where the optic nerve enters the retina) or the foveola (the center of vision).
+Group B
+All other tumors (either larger than 3 mm or close to the optic disc or foveola) that are still only in the retina.
+Group C
+Well-defined tumors with small amounts of spread under the retina (subretinal seeding) or into the jelly-like material that fills the eye (vitreous seeding).
+Group D
+Large or poorly defined tumors with widespread vitreous or subretinal seeding. The retina may have become detached from the back of the eye.
+Group E
+The tumor is very large, extends near the front of the eye, is bleeding or causing glaucoma (high pressure inside the eye), or has other features that mean there is almost no chance the eye can be saved.
+The Reese-Ellsworth staging system
+The Reese-Ellsworth system was developed in the 1960s, when most children were being treated with external beam radiation therapy (EBRT). While this is no longer a common treatment, some doctors may still use this system to classify retinoblastomas that have not spread beyond the eye. This system can help determine the likelihood of preserving vision while still treating the tumor.
+Terms such as favorable, doubtful, and unfavorable used in this staging system refer to the likelihood that the cancer can be treated while saving the affected eye, not to the likelihood of the child’s survival. Indeed, more than 9 in 10 children with intraocular retinoblastomas are cured. The major challenge is saving the vision in the affected eye.
+To explain the groupings below, it helps to define a few terms.
+
+The optic disc is the end of the optic nerve where it is attached to the retina. Retinoblastomas are diagnosed by looking at the retina through the front of the eye, so doctors can’t measure their size directly using a ruler. Instead they compare the size of the tumor with the size of the optic disc, which is usually about 1.5 millimeters (1/16 inch) across. For example, a tumor estimated to be 3 times the size of the disc (3 disc diameters or 3 DD) would be about 4.5 millimeters (3/16 inch) across.
+The equator is an imaginary line that divides the front and back halves of the eyeball.
+
+The Reese-Ellsworth staging system divides intraocular retinoblastoma into 5 groups. The higher the group number, from 1 to 5, the lower the chance of controlling the retinoblastoma or of saving the eye or any useful vision.
+Group 1 (very favorable for saving [or preserving] the eye)
+
+1A: one tumor, smaller than 4 disc diameters (DD), at or behind the equator
+1B: multiple tumors smaller than 4 DD, all at or behind the equator
+
+Group 2 (favorable for saving [or preserving] the eye)
+
+2A: one tumor, 4 to 10 DD, at or behind the equator
+2B: multiple tumors, with at least one 4 to 10 DD, and all at or behind the equator
+
+Group 3 (doubtful for saving [or preserving] the eye)
+
+3A: any tumor in front of the equator
+3B: one tumor, larger than 10 DD, behind the equator
+
+Group 4 (unfavorable for saving [or preserving] the eye)
+
+4A: multiple tumors, some larger than 10 DD
+4B: any tumor extending toward the front of the eye to the ora serrata (front edge of the retina)
+
+Group 5 (very unfavorable for saving [or preserving] the eye)
+
+5A: tumors involving more than half of the retina
+5B: vitreous seeding (spread of tumors into the jelly-like material that fills the eye)
+
+Other staging systems
+Other staging systems that include both intraocular retinoblastomas and those that have spread beyond the eye (extraocular retinoblastomas) may be used by some doctors. These can be especially useful in countries where these cancers are more likely to have spread by the time they are found. For example, the American Joint Commission on Cancer (AJCC) staging system takes into account 4 key pieces of information:
+
+T: The size of the main (primary) tumor and how far it has grown within and outside of the eye
+N: Whether or not the cancer has reached nearby lymph nodes (small, bean-shaped collections of immune cells, to which cancers sometimes spread) in the head or neck
+M: Whether or not the cancer has spread (metastasized) to distant parts of the body, such as the bone marrow, brain, skull, or long bones
+H: Whether or not the child has the heritable form of retinoblastoma
+
+This system can be used to describe the extent of retinoblastomas in detail, particularly for those that have spread outside the eye, which rarely happens in the United States.
+The different staging systems used for retinoblastoma can be confusing. Be sure to ask your child’s doctor if you have any questions about the stage of your child’s cancer.It’s important to have honest, open discussions with your child’s doctors. You should ask any question, no matter how small it might seem. Here are some examples.
+If retinoblastoma has just been diagnosed
+
+How sure are you that my child has retinoblastoma?
+Is only one eye affected or are there tumors in both eyes?
+Do we know if this is the heritable (hereditary) form of retinoblastoma? How can we find out? If it is, what would this mean?
+Has the cancer spread outside the eye?
+What is the stage of the cancer, and what does that mean?
+Has my child’s vision been affected?
+Do we need any other tests before we can decide on treatment?
+How much experience do you have treating this type of cancer?
+Do we need to see any other types of doctors?
+Who else will be on the treatment team, and what do they do?
+
+When deciding on a treatment plan
+
+What are our treatment options?
+Can my child’s sight be saved? If so, how much?
+What do you advise for treatment and why?
+Should we get a second opinion? How do we do that? Can you recommend a doctor or cancer center?
+Are there any clinical trials we should consider?
+How soon do we need to start treatment?
+How long will treatment last? What will it be like? Where will it be done?
+What should we do to be ready for treatment?
+What are the risks and side effects of the suggested treatments?
+Which side effects start shortly after treatment and which ones might develop later on?
+Will treatment affect the growth of the area around my child’s eye?
+Will treatment affect my child’s ability to grow and develop?
+Could treatment affect my child’s ability to have children later on?
+
+During and after treatment
+Once treatment begins, you’ll need to know what to expect and what to look for. Not all of these questions may apply, but getting answers to the ones that do may be helpful.
+
+How will we know if the treatment is working?
+Is there anything we can do to help manage side effects?
+What symptoms or side effects should we tell you about right away?
+How can we reach you or someone on your team on nights, weekends, or holidays?
+Who can we talk to if we have questions about costs, insurance coverage, or social support?
+What are the chances of the cancer coming back after treatment? What are our options if this happens?
+Is there any risk of this type of tumor occurring in our other children or relatives?
+Should we consider genetic counseling and testing?
+What type of follow-up will my child need after treatment?
+Does my child have a higher long-term risk of other cancers?
+
+Along with these sample questions, be sure to write down some of your own. For instance, you might want more information about recovery times so you can plan your schedules. You may also want to ask about nearby or online support groups, where you may be able to get in touch with other families who have been through similar situations.
+Also keep in mind that doctors aren't the only ones who can give you information. Other health care professionals, such as nurses and social workers, may be able to answer some of your questions. You can find out more about speaking with your health care team in The Doctor-Patient Relationship.Surgery is not needed for many retinoblastomas, especially for smaller tumors.
+But if a tumor has grown large before it is found, vision in the eye might have already been lost, with no hope of getting it back. The usual treatment in this case is enucleation, an operation to remove the whole eye, plus part of the optic nerve attached to it.
+Enucleation might also be needed if the cancer is not cured using other treatments that were meant to try to save the eye.
+This surgery is done while the child is under general anesthesia (in a deep sleep). During the same operation, an orbital implant is usually put in to take the place of the eyeball. The implant is made of silicone or hydroxyapatite (a substance similar to bone). It is attached to the muscles that moved the eye, so it should move the same way as the eye would have.
+Your child will probably be able to leave the hospital the same day or the next day.
+After several weeks, you can visit an ocularist, who will create an artificial eye for your child. This is a thin shell that fits over the orbital implant and under the eyelids, like a big contact lens. It will match the size and color of the remaining eye. Once it's in place, it will be very hard to tell it apart from the real eye.
+When retinoblastoma occurs in both eyes, enucleation of both eyes would result in complete blindness. If neither eye has useful vision because of damage already caused by the cancer, this may be the best way to make sure all of the cancer is gone. But if there is any chance of saving useful vision in one or both eyes, doctors may advise trying other types of treatment first.
+Possible risks and side effects
+Complications during or right after surgery, such as bleeding, reactions to anesthesia, or infection, are not common, but they can happen.
+The most obvious side effect of enucleation is the loss of vision in that eye, although most often the vision has already been lost because of the cancer.
+Removing the eye also can affect the future growth of bone and other tissues around the eye socket, which can make the area look somewhat sunken. Using an orbital implant can sometimes lessen this effect. (Radiation therapy, which is often the other major treatment option in such cases, might cause the same side effect.)This treatment uses high energy x-rays or particles to kill cancer cells. Radiation therapy is an effective treatment for some children with retinoblastoma. Compared with surgery, it has the advantage of possibly saving vision in the eye. But radiation therapy also has some disadvantages (see Possible side effects below).
+Two types of radiation therapy can be used to treat children with retinoblastoma.
+External beam radiation therapy
+External beam radiation therapy (EBRT) focuses radiation beams from a source outside the body on the cancer. This was once a common treatment for retinoblastoma. But because of the side effects it can cause, it is now most often used only for cancers that are not well-controlled with other treatments.
+How EBRT is done
+Before treatments start, the radiation team takes careful measurements with imaging tests such as MRI scans to determine the correct angles for aiming the radiation beams and the proper dose of radiation. This planning session is called simulation.
+Radiation is usually given 5 days a week for several weeks. Each treatment is much like getting an x-ray, but the dose of radiation is much stronger. For each session, your child will lie on a special table while a machine delivers the radiation from precise angles.
+The actual treatment each day lasts only a few minutes, but the setup time – getting your child into place for treatment – usually takes longer. The child’s head is positioned in a custom-fitted mold that is similar to a cast used to treat broken bones. The treatment is not painful, but young children may be given medicine to make them sleep so they will stay still during treatment.
+Newer forms of EBRT
+Many centers now use newer types of external radiation therapy, which can target the tumor more precisely. This lowers the doses that surrounding normal tissues get, which may help reduce side effects.
+Intensity modulated radiation therapy (IMRT)
+IMRT lets doctors shape the radiation beams and aim them at the tumor from several angles, as well as adjust the intensity (strength) of the beams to limit the dose reaching the nearby normal tissues. This may let the doctor deliver a higher dose to the tumor, while reducing side effects. Many major hospitals and cancer centers now use IMRT.
+Proton beam therapy
+Protons are positive parts of atoms. Unlike the x-rays used in standard radiation, which release energy both before and after they hit their target, protons cause little damage to tissues they pass through and then release their energy after traveling a certain distance. Proton beam radiation may be able to deliver the same level of radiation to the tumor while causing much less damage to nearby normal tissues.
+Early results with proton beam therapy are promising, but it’s still fairly new, and there is very little long-term data on its use for retinoblastoma. Only a limited number of centers offer proton beam therapy in the United States at this time.
+Possible side effects of EBRT
+Some of the side effects of EBRT tend to go away after a short while and are usually not serious. Short-term problems might include effects on skin areas that receive radiation, which can range from mild sunburn-like changes and hair loss to more severe skin reactions.
+More importantly, EBRT can damage nearby normal body tissues. This might eventually lead to cataracts (clouding of the lens of the eye) and damage to the retina or optic nerve, which could reduce vision. Radiation can also slow the growth of bones and other tissues near the eye, which can affect the way the area around the eye looks over time.
+External radiation therapy can also increase the risk of developing a second cancer in the area. This is especially important in children with the hereditary form of retinoblastoma, who are already at increased risk for developing other types of cancer.
+Newer forms of radiation therapy, such as IMRT and proton beam therapy, target the tumor more precisely and spare more normal tissue. This may make some of these side effects less likely than in the past.
+Brachytherapy (plaque radiotherapy)
+The use of brachytherapy, also known as internal radiation therapy or episcleral plaque radiotherapy, is limited to small tumors.
+During brachytherapy, a small amount of radioactive material is placed on the outside of the part of the eyeball where the tumor is, and it stays there for several days. The radioactive material is put in a small carrier (known as a plaque), which is shaped like a very small bottle cap. The plaque is made of gold or lead to shield nearby tissues from the radiation. The radiation travels a very short distance, so most of it will be focused only on the tumor.
+The plaque is sewn in place on the eyeball with tiny stitches during a short operation. It is then removed during a second operation several days later. Both operations are done while the child is under general anesthesia (in a deep sleep). The child typically stays in the hospital while the plaque is in place.
+Possible side effects of brachytherapy
+Brachytherapy is less likely to cause side effects than external radiation. The main concern is damage to the retina or optic nerve, which can affect vision many months later. Recent advances in treatment may make this problem less likely. Brachytherapy has not been linked to an increased risk of developing a second cancer.Lasers are highly focused beams of light that can be used to heat and destroy body tissues. Different types of laser therapy can sometimes be used to treat small retinoblastoma tumors.
+Laser photocoagulation
+Photocoagulation is a type of treatment that uses a laser beam aimed through the pupil (the dark spot in the front of the eye). The laser is focused on the blood vessels that surround and supply the tumor, destroying them by heating them. Photocoagulation is effective only for smaller tumors toward the back of the eye.
+Your child will be under general anesthesia (in a deep sleep) during the treatment. The treatment is usually given 2 or 3 times, with about a month between treatments.
+Possible side effects
+In some cases, laser therapy can damage the retina, which can lead to blind spots or temporarily cause the retina to detach from the back of the eyeball.
+Transpupillary thermal therapy (TTT)
+For this treatment, also just called thermotherapy, the doctor uses a different type of laser than what’s used in photocoagulation. This laser applies infrared light directly to the tumor to heat and kill the tumor cells. The temperatures aren’t quite as high as those used in photocoagulation, so some of the blood vessels on the retina may be spared.
+Thermotherapy can be used alone for very small tumors. For larger tumors, it can be used along with chemotherapy (called thermochemotherapy) or with radiation therapy (called thermoradiotherapy). Heat seems to help these other treatments work better.
+The treatment is given while the child is asleep (under general anesthesia), usually for about 10 minutes at a time. Typically, 3 treatments about a month apart are needed to control each tumor. When used as part of thermochemotherapy, the heat is usually applied at a lower temperature over a slightly longer period of time, starting within a few hours after chemotherapy.
+Possible side effects
+Thermotherapy can sometimes cause part of the iris (the colored part of the eye) to shrink. Other possible effects include clouding of part of the eye lens or damage to the retina, which might affect vision.In cryotherapy, the doctor uses a small metal probe that is cooled to very low temperatures, killing the retinoblastoma cells by freezing them. It is only effective for small tumors toward the front of the eye. It is not used routinely for children with several tumors.
+The child will be in a deep sleep (under general anesthesia) during the treatment. After the child is asleep, the probe is placed on the outer surface of the eyeball next to the tumor, which is then frozen and thawed several times. Cryotherapy is usually given 2 or 3 times, with about a month between treatments.
+Possible side effects
+Cryotherapy can cause the eye and eyelid to swell for a few days. As with laser therapy, cryotherapy can damage the retina, which can lead to blind spots or temporarily cause the retina to detach from the back of the eyeball.Chemotherapy (chemo) is the use of anti-cancer drugs to treat cancer. Chemo can be given in different ways to treat retinoblastoma.
+Systemic chemotherapy
+Chemo drugs can be injected into a vein (IV) or given by mouth. These drugs enter the bloodstream and reach throughout the body. This is known as systemic chemotherapy.
+Systemic chemo is given in cycles, with each treatment followed by a rest period to give the body time to recover. Each chemo cycle typically lasts for a few weeks, and the total length of treatment is often several months.
+Some of the chemo drugs used to treat retinoblastoma include:
+
+Carboplatin
+Cisplatin
+Vincristine
+Etoposide
+Cyclophosphamide
+Topotecan
+Doxorubicin
+
+Most often, 2 or 3 drugs are given at the same time. A standard combination is carboplatin, vincristine, and etoposide, although for very small tumors, only carboplatin and vincristine may be enough. Other drugs might be used if these are not effective.
+Intra-arterial chemotherapy
+Sometimes instead of systemic chemotherapy, the chemo is injected directly into the ophthalmic artery, the main artery that supplies blood to the eye. In this newer technique, a very thin catheter (a long, hollow, flexible tube) is inserted into a large artery on the inner thigh and slowly threaded through the blood vessels all the way up into the ophthalmic artery. (This is done with the child asleep under general anesthesia.) The chemo is then infused into the artery. The drug used most often is melphalan, but other drugs such as carboplatin and topotecan can also be used. This process may then be repeated every few weeks, depending on how much the tumor shrinks.
+Because the chemo is put directly into the artery feeding the eye, doctors can use much smaller doses of chemo drugs (less than 10% of the doses used for systemic chemo). Therefore, there are fewer side effects from the chemo.
+Results so far with this technique in eyes with advanced tumors have been promising, generally with good tumor control and few side effects. In many cases it has allowed doctors to save an eye that otherwise would have needed to be removed.
+Intravitreal chemotherapy
+In this newer approach, a tiny needle is used to inject a chemo drug (typically melphalan or topotecan) directly into the vitreous humor, the jelly-like substance inside the eye. This is sometimes used (along with systemic or intra-arterial chemo) to treat tumors that are widespread within the eye and have not been helped by other treatments. 
+Ways chemotherapy is used
+Chemo may be used in different situations:
+
+Chemo can be used as the first treatment to shrink some tumors that have not spread outside the eye. This is called chemoreduction. These tumors can then be treated more effectively with focal therapies such as laser therapy, cryotherapy, or brachytherapy.
+Chemo is sometimes used when the eye has already been treated or removed, but the tumor has extended into some areas in the eye that make it more likely to have spread. This type of treatment is called adjuvant chemotherapy.
+Systemic chemo is also used to treat children whose retinoblastoma has spread outside the eye, a much more critical situation. If the cancer has spread to the brain, chemo may also be given directly into the cerebrospinal fluid that surrounds it. (This is known as intrathecal chemotherapy.) Tumors outside the eye may shrink for a time with standard doses of chemo, but they will usually start growing again. For this reason, if the cancer has spread to other parts of the body, doctors recommend giving more intense chemo, usually along with a stem cell transplant.
+
+Possible side effects of chemo
+Systemic chemo: Chemo drugs can affect cells in the body other than cancer cells, which can lead to side effects.
+The side effects of chemo depend on the types and doses of drugs used, and how long they are given. Possible short-term side effects include:
+
+Hair loss
+Mouth sores
+Loss of appetite
+Nausea and vomiting
+Diarrhea or constipation
+Increased chance of infections (from having too few white blood cells)
+Easy bruising or bleeding (from having too few blood platelets)
+Fatigue (from having too few red blood cells)
+
+Most of these side effects go away after treatment is finished. There are often ways to lessen these side effects. For example, drugs can be given to help prevent or reduce nausea and vomiting. Be sure to discuss any questions about side effects with your child’s cancer care team, and let them know if your child has side effects so they can be managed.
+Along with the effects listed above, certain chemo drugs can cause specific side effects. For example:
+
+Cisplatin and carboplatin can affect the kidneys. Giving the child plenty of fluids during treatment can help reduce this risk. These drugs can also cause hearing loss in young children, especially in babies younger than 6 months. Your child’s doctor may check your child’s hearing with tests during or after treatment. When carboplatin is injected directly into the tissues near the eye (periocular chemotherapy), it can cause redness and swelling in the area.
+Vincristine can damage nerves. Some children may feel tingling and numbness, particularly in their hands and feet.
+Some chemo drugs can increase the risk of developing a cancer of white blood cells known as acute myeloid leukemia (AML) later in life. Fortunately, this is not common.
+Doxorubicin can damage the heart. The risk of this happening goes up with the total amount of the drug given. Doctors try to limit this risk as much as possible by not giving more than the recommended doses and by checking the heart with an echocardiogram (an ultrasound of the heart) during treatment.
+Cyclophosphamide can damage the bladder, which can cause blood in the urine. The risk of this can be lowered by giving this drug along with plenty of fluids and with a drug called mesna, which helps protect the bladder. Cyclophosphamide can also lower the chances of having children in the future.
+
+Intra-arterial chemo: Much lower doses of chemo are used in this approach, so the side effects tend to be limited to the eye area. Possible side effects include:
+
+Swelling around the eye
+Detachment of the retina from the back of the eye
+Bleeding inside the eye
+Weakening of the muscles that move the eye
+Drooped eyelid
+Loss of eyelashes
+
+Possible long-term side effects are not yet clear, as this technique is still fairly new. Treatment might affect the small blood vessels in and around the eye, although it’s not yet known if this might affect vision as the child gets older. This approach also exposes the child to some radiation, because real time x-rays are used to help guide the catheter into place. It’s not yet clear if (or how much) this might raise cancer risk later in life. 
+Intravitreal chemo: As with intra-arterial chemo, the side effects from this newer technique seem to be limited to the eye and nearby areas. Each treatment might damage the retina slightly, which might affect vision.
+In the past, there was concern that placing a needle into the eye to give the chemo might open a small hole that could allow tumor cells to spread outside of the eye. However, studies have found that this risk is very low, and doctors now use techniques that lower this risk even further.If your child has retinoblastoma, a number of factors can affect the treatment options your child’s doctor recommends. Some of these include:
+
+The size and location of the tumor(s)
+Whether the cancer is just in one eye or both
+The chance for saving vision in the eye(s)
+Whether the cancer has spread outside the eye
+
+Many of these factors are taken into account as part of the stage of the cancer.
+If the retinoblastoma is only in one eye, treatment depends on whether vision in the eye can be saved.
+If the retinoblastoma is in both eyes, doctors will try to save at least one eye if at all possible so that the child maintains some vision.
+Many children will get several types of treatment. Treatment might be needed for months or even years.
+No matter which types of treatment are used, it’s very important that they are given by experts at centers experienced in treating these tumors.
+If the eye can see and probably can be saved
+For some smaller tumors, focal treatments such as laser therapy or cryotherapy might be the only treatment needed.
+But more often, tumors are larger or in hard-to-treat areas. Treatment usually includes a combination of chemotherapy and focal treatments.
+If systemic chemotherapy (chemotherapy given by vein) is used, it is typically given for about 6 months to shrink the tumor as much as possible. More recently, many centers have begun to give chemotherapy directly into the artery that feeds the eye (known as intra-arterial chemotherapy) instead of systemic chemotherapy. If the cancer has spread widely inside the eye, chemo might also be injected directly into the eye (known as intravitreal chemotherapy). Usually a few treatments are needed, each given a few weeks apart.
+Depending on how much the tumor shrinks and where it is in the eye, different focal treatments can then be applied, usually starting after the first or second cycle of chemotherapy. Treatment options might include brachytherapy (plaque radiotherapy), cryotherapy, or laser therapy (photocoagulation or thermotherapy). External radiation therapy might also be given, but if so, it's usually delayed until the end of chemotherapy.
+If the combination of these treatments doesn’t control the disease, the eye might need to be removed.
+If the eye cannot see or cannot be saved
+If there is no vision in the eye, if the tumor is so advanced within the eye that there is no hope of cure by other means, or if there is painful glaucoma (increased pressure inside the eye), then the eye is removed and an orbital implant is placed in the socket.
+If the cancer affects only one eye, no other treatments may be needed. But sometimes, after looking at the removed eye under the microscope, the doctors find that some retinoblastoma cells might have escaped the eye, which means the cancer might come back later in other parts of the body. These children may be given chemotherapy, possibly along with radiation therapy to the area around the eye, to try to lower this risk.
+In some instances where there are large tumors in both eyes, chemo may be used first to try to shrink the tumors and avoid the need for surgery in both eyes. If chemo shrinks the tumors enough, focal therapies such as brachytherapy (plaque radiotherapy), cryotherapy, or laser therapy (photocoagulation or thermotherapy) might allow at least one eye (and some vision) to be saved.
+Some children with retinoblastoma in only one eye may actually have the hereditary form of retinoblastoma, which means they will probably develop cancer in the other eye as well. Therefore, it's very important to consider genetic counseling and testing to determine if the child has hereditary retinoblastoma. If so, they need to have the other eye examined regularly after treatment.
+If the cancer has spread outside the eye
+In this uncommon situation, treatment is usually a combination of chemotherapy, radiation, and in some cases surgery.
+If the cancer has spread only to the orbit (the area around the eye), treatment with chemotherapy, surgical removal (enucleation) of the eye, and radiation therapy to the orbit is often successful.
+If the cancer has spread outside the orbit to distant parts of the body such as the liver or the bones and bone marrow, the chances of a cure using standard chemotherapy and other treatments are not as good. In these cases, using higher doses of chemotherapy followed by a stem cell transplant is usually recommended.
+Cancers that have spread to the brain (including trilateral retinoblastomas, which are retinoblastomas that usually start in the pineal gland) are very hard to treat. High-dose chemotherapy and stem cell transplant has shown some promise for these cancers. Clinical trials using other newer treatments may be an option in this situation as well.
+If the cancer comes back in the eye after initial treatment
+Treatment of cancer that recurs in the eye depends on the size and location of the tumor and on what treatments were used the first time.
+If the tumor is small, the child’s sight can often be saved and the cancer destroyed with local treatments such as cryotherapy, laser therapy, radiation therapy (if not already used), or other treatments. Chemotherapy might be given first to shrink the tumor, which might help the other treatments work better.
+If the child’s sight cannot be saved, the eye might need to be removed.
+Either way, the chance of a cure is very good as long as the cancer is still confined to the eye.
+If the cancer comes back outside the eye after initial treatment
+Cancers that recur outside the eye are harder to treat. Options might include chemotherapy and radiation, or high-dose chemotherapy with a stem cell transplant in some cases. In this situation, the treatment and the chances of cure are similar to what is described above (when the cancer has spread outside the eye before initial treatment).
+Summary of treatment
+If the cancer is in only one eye and the potential for saving sight is good, chemotherapy (either by vein or directly into the artery of the eye) and focal treatments such as cryotherapy, laser therapy (photocoagulation or thermotherapy), or plaque radiation are used (although very small tumors, which are very rare, can be treated with focal treatments alone). If there is little or no chance to save the eye (or useful vision), the eye will likely need to be removed.
+If the cancer is in both eyes, then the doctors will try to save as much vision as possible. The treatment usually starts with chemotherapy, followed by focal treatments. Surgery might still be needed if these treatments aren’t effective.
+If the cancer has spread outside of the eye, treatment is usually a combination of chemotherapy, radiation, and in some cases surgery.
+In all cases, children who have had retinoblastoma need to be followed closely for some time after treatment.During and after treatment for retinoblastoma, the main concerns for most families are the daily aspects of getting through treatment and beating the cancer. After treatment, the concerns tend to shift toward the long-term effects of the cancer and its treatment, and concerns about the cancer still being there or coming back.
+It’s certainly normal to want to put the tumor and its treatment behind you and to get back to a life that doesn’t revolve around cancer. But it’s important to realize that follow-up care is a central part of a process that offers your child the best chance for recovery and long-term survival.
+Follow-up exams and tests
+Once treatment is finished, your child's health care team will discuss a follow-up schedule with you, including which tests should be done and how often. It’s very important to go to all follow-up appointments. Follow-up is needed to check for cancer recurrence (or new cancers), as well as possible side effects of certain treatments. Doctor visits and tests are done more often at first. If nothing abnormal is found, the time between tests can then be extended.
+If a child with retinoblastoma in only one eye has been treated by removal of that eye (enucleation), regular exams are needed to look for tumor recurrence or spread, or any growth problems related to the surgery. It’s also important to have the remaining eye checked regularly so that if a second retinoblastoma develops later on it can be found and treated as early as possible.
+For children who have had treatment other than removal of the eye, close follow-up exams by an ophthalmologist (eye doctor) are very important to look for signs of the cancer coming back or other problems.
+In children with heritable (bilateral) retinoblastoma, it’s very common for new tumors to form until the child is 3 or 4 years old. This is not a failure of the treatment, but the natural process in heritable retinoblastoma. Therefore, it’s very important that these children are examined regularly by specialists after completing treatment.
+During these exams, general anesthesia (where the child is asleep) may be needed to keep a young child still enough for the doctor to do a thorough eye exam. This is done to be certain the cancer has been destroyed, to find recurrences as early as possible, and to look for problems caused by treatments.
+Children with the heritable form of retinoblastoma also have a small risk of developing a tumor in the pineal gland within a few years. (This is known as trilateral retinoblastoma.) The pineal gland is a bean-sized structure beneath the middle of the brain. It can have cells similar to retina cells, which is why tumors can start there. Many doctors recommend that MRI scans of the head be done regularly for several years after treatment to try to detect these tumors as early as possible.
+It’s also important for you to report any new symptoms your child is having, such as pain or vision problems, to your doctor right away, since they could be an early sign of cancer coming back or long-term side effects of treatment.
+Ask the cancer care team for a survivorship care plan
+Talk with the treatment team about developing a survivorship care plan. This plan might include:
+
+A summary of the diagnosis, tests done, and treatment given
+A suggested schedule for follow-up exams and tests
+A schedule for other tests that might be needed in the future, such as early detection (screening) tests for other types of cancer, or tests to look for long-term health effects from the cancer or its treatment
+A list of possible late- or long-term side effects from treatment, including what to watch for and when to contact the doctor
+
+Keeping health insurance and copies of medical records
+As much as you might want to put the experience behind you once treatment is completed, it’s also very important to keep good records of your (child’s) medical care during this time. Gathering these details soon after treatment may be easier than trying to get them at some point in the future. This can be very helpful later on if you (or your child) change doctors. Learn more in Keeping Copies of Important Medical Records.
+It’s also very important to keep health insurance coverage. Tests and doctor visits can cost a lot, and even though no one wants to think of the tumor coming back, this could happen.
+Possible late and long-term effects of treatment
+With major advances in treatment in recent decades, most children treated for retinoblastoma are now expected to have normal lifespans. But some of the treatments needed to cure the cancer can affect a child’s health later in life, so watching for health effects as they get older has become more of a concern in recent years.
+Just as the treatment of childhood cancer requires a very specialized approach, so does the care and follow-up after treatment. The earlier any problems can be recognized, the more likely it is they can be treated effectively.
+Young people treated for retinoblastoma are at risk, to some degree, for several possible late effects of their cancer treatment. It’s important to discuss what these effects might be with your child’s medical team.
+The risk of late effects depends on a number of factors, such as the specific treatments used, the doses of treatment, the type of retinoblastoma (heritable or non-heritable), and the age of the child when being treated. These late effects can include:
+
+Reduction or loss of vision in the affected eye(s)
+Deformities in the bones around the eye (especially after surgery or external radiation)
+Reduced kidney function
+Heart problems after getting certain chemotherapy drugs
+Slowed or delayed growth and development
+Changes in sexual development and ability to have children
+Increased risk of other cancers (especially in children with hereditary retinoblastoma – see below)
+
+Other complications from treatment are possible as well. Your child’s doctor should carefully review any possible problems with you.
+Second cancers after retinoblastoma
+Heritable (hereditary) retinoblastoma
+Children with the ﻿heritable form of retinoblastoma have a much higher risk of developing other types of cancer throughout their lives. This is because each cell in the body has an abnormal RB1 tumor suppressor gene, which if it were normal would help stop some of these cancers from forming.
+The risk for these cancers is even higher in any parts of the body that got radiation during treatment for retinoblastoma. 
+Most of these cancers are very treatable if detected early, which is why it’s very important that these children are followed closely throughout their lives.
+The most common second cancers among hereditary retinoblastoma survivors include:
+
+Osteosarcoma (a type of bone cancer)
+Soft tissue sarcomas (cancers that develop in muscle, tendons and ligaments, and fatty tissue)
+Melanoma of the skin
+Lung cancer
+Lymphoma
+Bladder cancer
+Uterine cancer
+Breast cancer
+Brain tumors
+Cancers in the mouth or nose
+
+Because of the increased risk these children face, it’s important that they’re taught about other factors that might increase their risk of cancer as they get older. For example, too much sun exposure can increase the risk of melanoma even further, and smoking can increase lung cancer risk, so avoiding these types of risk factors is very important. It’s also important to know what types of cancer screening tests these children might need as they get older. Of course, these children are also at risk of other cancers as they get older, just like children who did not have retinoblastoma.
+As noted above, children with the heritable form of retinoblastoma also have a small risk of developing a tumor in the pineal gland within a few years. This is why many doctors recommend that MRI scans of the head be done regularly for several years after treatment to try to detect such tumors as early as possible.
+Non-heritable (sporadic) retinoblastoma
+Children who do not have the heritable form of retinoblastoma don’t have the RB1 gene change in all of their cells, so they don’t have such a high risk of other cancers. Still, their risk of some cancers might be higher as a result of getting chemotherapy and/or radiation therapy. These children are also at risk for other cancers as they get older, just like children who did not have retinoblastoma.
+Long-term follow-up care
+To help increase awareness of late effects and improve follow-up care of childhood cancer survivors throughout their lives, the Children’s Oncology Group (COG) has developed long-term follow-up guidelines for survivors of childhood cancers. These guidelines can help you know what to watch for, what type of screening tests should be done to look for problems, and how late effects can be treated.
+It’s very important to discuss possible long-term complications with your child’s health care team, and to make sure there is a plan in place to watch for these problems and treat them, if needed. To learn more, ask your child’s doctors about the COG survivor guidelines. You can also read them on the COG website: www.survivorshipguidelines.org. The guidelines themselves are written for health care professionals. Patient versions of some of the guidelines are available (as “Health Links”) on the site as well, but we urge you to discuss them with your doctor.
+For more about some of the possible long-term effects of treatment, see Late Effects of Childhood Cancer Treatment.
+Emotional and social issues
+Most children with retinoblastoma are very young at the time of diagnosis. Still, some children may have emotional or psychological issues that need to be addressed during and after treatment. Depending on their age, they may also have some problems with normal functioning and school work. 
+These types of issues can often be helped with support and encouragement. Doctors and other members of the health care team can recommend special support programs and services to help children during and after treatment. For more information, see When Your Child's Treatment Ends.
+Parents and other family members can also be affected, both emotionally and in other ways. Some common family concerns include financial stresses, traveling to and staying near the cancer center, and the need for family members to take time off from work. Social workers and other professionals at treatment centers can help families sort through these issues.
+Centers that treat many patients with retinoblastoma may have programs to introduce new patients and their families to others who have finished their treatment. This can give parents an idea of what to expect during and after treatment, which is very important.
+If needed, centers can also refer patients to special programs and facilities for the visually impaired. Most patients treated for retinoblastoma in only one eye will have normal vision in the unaffected eye, but the appearance of the treated eye and the area around it might change. Such changes can often be lessened by treatment in a center with expertise in reconstructive surgery. Early intervention and counseling can also help address any psychological effects of changes in appearance.
+Support groups for families of children with cancer can also be helpful. If you need help finding such a group, call your American Cancer Society at 1-800-227-2345 and we can put you in touch with a group or resource that may work for you.What is retinoblastoma?
+Cancer starts when cells in the body begin to grow out of control. Cells in nearly any part of the body can become cancer. 
+Retinoblastoma is a type of cancer that starts in the retina, which is in the back part of the eye. This cancer is most often found in young children. 
+To understand retinoblastoma, it helps to know a little about the eye. The front of the eye has a clear lens with an iris (the colored part of the eye that acts like a camera shutter). In the middle of the iris is a small hole called the pupil, through which light enters the eye.
+The light going into the eye hits the retina, which is the inner layer of cells in the back of the eye. It is made up of special light-sensing cells. These cells are connected to the brain by the optic nerve, which runs out the back of the eyeball. The pattern of light (image) that reaches the retina is sent through the optic nerve to the brain, allowing us to see.

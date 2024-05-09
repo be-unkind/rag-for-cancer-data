@@ -1,0 +1,791 @@
+Cancer starts when cells in the body begin to grow out of control and crowd out normal cells. Cells in nearly any part of the body can become cancer, and can then spread to other areas of the body. To learn more about cancer and how it starts and spreads, see What Is Cancer?
+
+Neuroblastoma is a cancer that starts in certain very early forms of nerve cells, most often found in an embryo or fetus. (The term neuro refers to nerves, while blastoma refers to a cancer that starts in immature or developing cells). This type of cancer occurs most often in infants and young children.
+The types of cancers that develop in children are often different from the types that develop in adults. To learn more about , see What Are the Differences Between Cancers in Adults and Children?
+To understand neuroblastoma, it helps to know about the sympathetic nervous system, which is where these tumors start.
+The sympathetic nervous system
+The brain, spinal cord, and the nerves that reach out from them to all areas of the body are all part of the nervous system. The nervous system is needed for thinking, sensation, and movement, among other things.
+Part of the nervous system also controls body functions we are rarely aware of, such as heart rate, breathing, blood pressure, digestion, and other functions. This part of the nervous system is known as the autonomic nervous system.
+The sympathetic nervous system is part of the autonomic nervous system. It includes:
+
+Nerve fibers that run along either side the spinal cord.
+Clusters of nerve cells called ganglia (plural of ganglion) at certain points along the path of the nerve fibers.
+Nerve-like cells found in the medulla (center) of the adrenal glands. The adrenals are small glands that sit on top of each kidney. These glands make hormones (such as adrenaline [epinephrine]) that help control heart rate, blood pressure, blood sugar, and how the body reacts to stress.
+
+The main cells that make up the nervous system are called nerve cells or neurons. These cells interact with other types of cells in the body by releasing tiny amounts of chemicals (hormones). This is important, because neuroblastoma cells often release certain chemicals that can cause symptoms (see Signs and Symptoms of Neuroblastoma).
+Neuroblastomas
+Neuroblastomas are cancers that start in early nerve cells (called neuroblasts) of the sympathetic nervous system, so they can be found anywhere along this system.
+
+Most neuroblastomas begin in the abdomen, either in an adrenal gland or in sympathetic nerve ganglia.
+Most of the rest start in sympathetic ganglia near the spine in the chest or neck, or in the pelvis.
+Rarely, a neuroblastoma has spread so widely by the time it is found that doctors can’t tell exactly where it started.
+
+Some neuroblastomas grow and spread quickly, while others grow slowly. Sometimes, in very young children, the cancer cells die for no reason and the tumor goes away on its own. In other cases, the cells sometimes mature on their own into normal ganglion cells and stop dividing (which makes the tumor a benign ganglioneuroma - see below).
+Other autonomic nervous system tumors in children
+Not all childhood autonomic nervous system tumors are malignant (cancerous). Some tumors are benign (non-cancerous), and some can have both benign and cancer cells within the same tumor.
+
+Ganglioneuroma is a benign (non-cancerous) tumor made up of mature ganglion and nerve sheath cells.
+Ganglioneuroblastoma is a tumor that has both malignant and benign parts. It contains neuroblasts (immature nerve cells) that can grow and spread abnormally, similar to neuroblastoma, as well as areas of more mature tissue that are similar to ganglioneuroma.
+
+If a child is thought to have one of these tumors, it is usually removed by surgery and looked at carefully with a microscope to see if it has areas of cancer cells (which would make it a ganglioneuroblastoma). If the final diagnosis is ganglioneuroma, no other treatment is needed. If it’s found to be a ganglioneuroblastoma, it’s treated the same way as a neuroblastoma.Neuroblastoma is by far the most common cancer in infants (younger than 1 year old). There are about 700 to 800 new cases of neuroblastoma each year in the United States. This number has remained about the same for many years.
+The average age of children when they are diagnosed is about 1 to 2 years. Rarely, neuroblastoma is detected by ultrasound even before birth. About 9 out of 10 neuroblastomas are diagnosed by age 5. It is rare in people over the age of 10 years.
+ 
+Statistics related to survival are discussed in Survival Rates for Neuroblastoma Based on Risk Groups.
+Visit the American Cancer Society’s Cancer Statistics Center for more key cancer statistics.Important research into neuroblastoma is being done right now in many university hospitals, medical centers, and other research institutions around the world. Each year, scientists find out more about what causes the disease and how to improve treatment.
+Genetics of neuroblastomas
+Researchers now have better tests to look for changes in the genes of neuroblastoma cells. Researchers might know that a change has happened on a certain chromosome (a strand of DNA inside the cell, which contains its genes), but they still need to learn more about that gene or what part of a gene has been affected. There are a few different ways that genes change in neuroblastoma cells:
+
+Sometimes there are extra copies of the same gene (called amplification) on a chromosome.
+Sometimes a chromosome can have missing pieces of DNA (called deletions) or extra pieces of DNA (called gains or additions), which can affect which genes the chromosome has.
+Sometimes genes have mutations (changes in the DNA) or other changes that can turn the gene on or off, which can affect how the cell grows and divides.
+
+Understanding the gene changes in neuroblastoma helps researchers understand which neuroblastomas are likely to be cured with less intense treatment, and which will need more aggressive treatment. Some of these gene changes are being used now to help cancer care teams determine a child's neuroblastoma stage and risk group. Other gene changes might help researchers find new treatments that work on certain types of neuroblastoma cells.
+Here are some specific DNA and gene changes currently being studied:
+
+DNA changes on the short arm of chromosome 6 (6p22) are more likely to be seen in neuroblastomas that grow more aggressively.
+Neuroblastoma cells in older children are more likely to have changes in the ATRX tumor suppressor gene. Tumors with this gene change tend to grow more slowly, but they are also harder to cure. This may help explain why older children tend to have high-risk neuroblastomas (which are often harder to treat), while younger children tend to have low- or intermediate-risk neuroblastomas (which are often easier to treat).
+Changes in or having more than one copy (amplification) of the ALK and MYCN genes are features used to help decide a child's risk group. Some drugs that target cells with ALK gene changes are already used to treat other types of cancer, and they are now being studied for use against neuroblastomas with ALK gene changes (see below). Some scientists also are studying how ALK gene changes might be related to extra copies of the MYCN gene in neuroblastoma cells.
+
+Treatment
+Survival rates for neuroblastoma have gotten better as doctors have found ways to improve on current treatments, but survival rates for children with high-risk neuroblastoma are not as good as they are for children with low- or intermediate-risk disease.
+Most clinical trials of high-risk neuroblastoma (more aggressive and hard-to-treat tumors) are focused on finding the best combinations of chemotherapy (chemo) drugs, stem cell transplant regimens, immunotherapies and other new treatments to try to cure more children. Current studies of low- and intermediate-risk neuroblastoma are trying to figure out if children can get less treatment and still do as well.
+Chemotherapy
+The search continues for the best combinations of chemo drugs to treat neuroblastoma.
+Several chemo drugs that are already used to treat other cancers, such as topotecan, irinotecan, and temozolomide, are now being studied in combination with other kinds of therapies for use against high-risk neuroblastoma or neuroblastoma that has come back.
+Other studies are looking to see if some children with low- or intermediate-risk neuroblastoma can be treated with less (or even no) chemotherapy. The goal is to still have the same good results, but with fewer side effects from treatment.
+Stem cell transplants
+Doctors are also trying to improve the success rate for children with aggressive neuroblastoma with high-dose chemotherapy and stem cell transplants, using different combinations of chemotherapy, radiation therapy, retinoids, immunotherapy, and other treatments. For example:
+
+Recent research has suggested that giving two stem cell transplants (tandem transplants) to children with high-risk neuroblastoma works better than giving just one stem cell transplant.
+Doctors are studying whether using different combinations of chemo drugs, such as busulfan and melphalan, might work better than the chemo combinations currently being used before a stem cell transplant.
+Other studies are looking at whether using stem cells donated from another person (an allogeneic stem cell transplant), instead of from the patient (an autologous stem cell transplant), might help some children with hard-to-treat tumors.
+
+Retinoids
+Retinoids such as 13-cis-retinoic acid (isotretinoin) can reduce the risk of recurrence after treatment in children with high-risk neuroblastoma, especially when they are given with certain immunotherapy treatments. Giving 13-cis-retinoic acid in combination with different types of chemotherapy drugs, immunotherapies called monoclonal antibodies, and targeted drugs is being studied in a number of clinical trials to help determine the combinations that might work best.
+Targeted drugs
+Knowing what makes neuroblastoma cells different from normal cells might lead to new approaches to treating this disease. Newer drugs that target neuroblastoma cells more specifically than standard chemo drugs are now being studied in clinical trials. For example:
+In some neuroblastomas, the cells have changes in the ALK gene that help them grow. Drugs that target cells with changes in the ALK gene, such as crizotinib (Xalkori), have already been shown to be helpful in treating some other types of cancer. Crizotinib is now being studied as part of the treatment for children with high-risk neuroblastoma when the cells have ALK gene changes. Other drugs that target cells with ALK changes, such as lorlatinib (Lorbrena) and ceritinib (Zykadia), are also being studied.
+In some neuroblastomas, the cells have an overactive Aurora A kinase signaling pathway, which helps the cells grow. Drugs that target the Aurora A kinase pathway, such as LY3295668 erbumine, are now being studied in clinical trials for use against neuroblastoma.
+Doctors are also looking more closely at the gene changes inside neuroblastoma cells to see if other targeted drugs might be helpful. Some of the targeted drugs being studied in this way include sorafenib, dasatinib, and vorinostat.
+Many other targeted drugs are now being studied for use against neuroblastoma as well.
+Immunotherapy
+Immunotherapy is the use of medicines to help a patient’s own immune system fight cancer. Several different kinds of immunotherapy are now being tested or used against neuroblastoma.
+Anti-GD2 monoclonal antibodies
+The monoclonal antibodies dinutuximab (Unituxin) and naxitamab (Danyelza), which target GD2 on neuroblastoma cells, are now being used in the United States for some children with high-risk neuroblastoma, to help immune system cells find and destroy the cancer cells. These antibodies are typically used after a stem cell transplant, but studies are now being done to see if they might be helpful earlier in the course of treatment as well.
+Other antibodies that target GD2 are also being studied. For example, Hu14.18K322A is a modified antibody that might work as well as other GD2 antibodies without some of the side effects. And dinutuximab beta (Qarziba), which is similar to dinutuximab, is now being used in Europe.
+Vaccines
+Several cancer vaccines are also being studied for use against neuroblastoma. For these vaccines, injections of modified neuroblastoma cells or other substances are given to try to get the child’s own immune system to attack cancer cells. These treatments are still in the early stages of clinical trials.
+CAR T-cell therapies
+CAR T-cell therapy is a promising new way to get a patient's own immune cells called T cells to fight cancer by changing them in the lab so they can find and destroy cancer cells. The T cells used in CAR T-cell therapies get changed in the lab by adding a gene for a lab-made receptor (called a chimeric antigen receptor or CAR), which helps them attack specific cancer cells.
+Studies are now being done to see if CAR T-cells that target GD2 (or other substances) on neuroblastoma cells can be helpful in treating this disease. Most of these are very early clinical trials that are ongoing or still in the planning phase.
+Several other types of immunotherapy are also being studied for use against neuroblastoma. Many of these are in very early clinical trials. If you have questions about these or other investigational treatments for neuroblastoma, talk to your child’s cancer care team.A risk factor is anything that increases the chances of getting a disease such as cancer. Different types of cancer have different risk factors.
+Lifestyle-related risk factors such as body weight, physical activity, diet, and the use of tobacco and alcohol play a major role in many adult cancers. But these factors usually take many years to influence cancer risk, and they are not thought to play much of a role in childhood cancers, including neuroblastomas.
+No environmental factors (such as being exposed to chemicals or radiation during the mother’s pregnancy or in early childhood) are known to increase the chance of getting neuroblastoma.
+Age
+Neuroblastoma is most common in infants and very young children. It is very rare in people over the age of 10 years.
+Heredity
+Most neuroblastomas do not seem to run in families. But in about 1% to 2% of cases, children with neuroblastoma have a family history of it.
+In children with this familial form of neuroblastoma (those with an inherited tendency to develop this cancer), the average age at diagnosis is younger than the age for sporadic (not inherited) cases. Children with familial neuroblastoma sometimes develop more than one of these cancers, often in different organs (for example, in both adrenal glands or in more than one sympathetic ganglion).
+It’s important to distinguish neuroblastomas that start in more than one organ from neuroblastomas that start in one organ and then spread to others (metastatic neuroblastomas), because tumors that develop in several places at once are likely to be familial. This might mean that family members should consider genetic counseling and testing (see Genetic Testing: What You Need to Know).
+Having birth defects (congenital anomalies)
+Some studies have shown that children with certain birth defects might have an increased risk of developing neuroblastoma. Some of the link between birth defects and neuroblastoma might be related to changes in genes that happen during fetal development.
+Genes are instructions in each of our body's cells that tell them what to do. The development of a fetus, which happens in a mother's womb, is controlled by genes that tell the cells how to grow and divide. If cell growth and development doesn't happen normally in the fetus, it can lead to a birth defect. Changes in genes during fetal development might also increase the risk of some kinds of childhood cancers, like neuroblastoma. For more about genes and causes of neuroblastoma, see What Causes Neuroblastoma?While there are a few known risk factors for neuroblastoma, the cause of most neuroblastomas is not known. Still, researchers have found important differences between neuroblastoma cells and the normal neuroblasts (early forms of nerve cells) from which they develop.
+How normal cells become neuroblastoma cells
+Nerve cells and cells in the medulla (center) of the adrenal gland start out as neuroblasts in a growing fetus. Most often, neuroblasts grow and develop into mature cells. Neuroblastomas can occur when normal fetal neuroblasts do not become mature cells, but instead continue to grow and divide.
+Some neuroblasts might not have matured completely by the time a baby is born. Most of these eventually mature into normal nerve cells over time, or they simply die off and do not form neuroblastomas.
+But sometimes, neuroblasts remaining in very young infants continue to grow and form a tumor. Many of these tumors will still eventually mature into nerve tissue or go away on their own. But as children get older, it becomes less likely that these cells will mature, and more likely that they will grow into a cancer.
+Why some neuroblasts don't mature
+The reason some neuroblasts don't mature is because they have changes in the DNA inside the cells. DNA is the chemical in each of our cells that makes up our genes, which control how our cells function. The DNA in our cells is in long, string-like structures called chromosomes.
+Some genes normally control when our cells grow, divide into new cells, and die:
+
+Certain genes that help cells grow, divide, or stay alive can sometimes change to become oncogenes.
+Genes that help keep cell division under control, repair damaged DNA, or cause cells to die at the right time are called tumor suppressor genes.
+
+Cancers can be caused by DNA changes that create oncogenes, or that turn off tumor suppressor genes. These gene changes can sometimes be inherited from a parent (which is rare with neuroblastomas), or they may happen during a person's lifetime as cells in the body divide to make new cells.
+Most often, neuroblastoma cells have chromosome changes (such as having too many or too few chromosomes, or missing part of a chromosome) that are likely to affect certain genes. Scientists are still trying to determine which genes are affected by these chromosome changes, as well as how these changes affect the growth of neuroblastoma cells.
+Acquired versus inherited gene changes in neuroblastoma
+Most neuroblastomas are the result of gene changes in neuroblasts that happen during the child’s development, sometimes even before birth. What causes these acquired gene changes is not known. They might be just be random events that sometimes happen inside cells, without having an outside cause.
+These acquired gene changes are found only in the child’s cancer cells, so they will not be passed on to their children.
+In rare cases, neuroblastoma occurs as a result of gene changes inherited from a parent. Inherited changes in certain genes account for most hereditary (familial) neuroblastomas:
+
+Changes in the ALK oncogene account for most cases of inherited neuroblastoma.
+Changes in PHOX2B, a gene that normally helps nerve cells mature, account for a small number of inherited neuroblastomas.
+
+Some neuroblastoma gene changes can affect a child’s outlook
+Some other gene changes seem to affect how quickly a neuroblastoma can grow:
+
+Neuroblastoma cells sometimes have extra copies (amplification) of the MYCN oncogene, which is often a sign that the tumor will grow quickly and might be harder to treat.
+If the NTRK1 gene (which makes the TrkA protein) is overactive in neuroblastoma cells, the neuroblastoma might have a better outlook.
+Neuroblastoma cells in older children are more likely to have changes in the ATRX tumor suppressor gene. Tumors with this gene change tend to grow more slowly, but they are also harder to cure. This may help explain why younger children with neuroblastoma tend to do better long term than children who are older when they are diagnosed.
+
+It's still not clear what causes many of the gene and chromosome changes that can lead to neuroblastoma. There are no known lifestyle-related or environmental causes of neuroblastomas, so it's important to remember that there is nothing these children or their parents could have done to prevent these cancers.The risk of many adult cancers can be reduced with certain lifestyle changes (such as staying at a healthy weight or quitting smoking), but at this time there are no known ways to prevent most cancers in children.
+The only known risk factors for neuroblastoma cannot be changed. There are no known lifestyle-related or environmental causes of neuroblastomas.
+Some studies suggest that having pregnant women take prenatal multi-vitamins or folic acid might lower the risk of neuroblastoma in their children, but further research is needed to confirm this.
+If there is a history of neuroblastoma in your family, you may want to talk with a genetic counselor about your children’s risks of developing the disease. It is important to remember, though, that familial neuroblastoma is very rare.Some neuroblastomas can be found early, before they start to cause any signs or symptoms.
+For example, a small number of neuroblastomas are found before birth during an ultrasound, a test that uses sound waves to create an image of the internal organs of a fetus. Ultrasounds are often done during pregnancy to estimate the age of a fetus, predict the date of birth, and look for certain common birth defects. 
+Neuroblastoma is also sometimes found incidentally in young children without any symptoms during tests done to look for other childhood diseases or during regular medical checkups. 
+But most often, neuroblastoma is first detected because of signs or symptoms a child is having.
+Screening for neuroblastoma
+Screening is testing for a disease, such as cancer, in people who don’t have any symptoms. Screening can help find some types of cancer early, when they’re likely to be easier to treat.
+Studies in several countries have looked at screening infants for neuroblastoma. Screening was done by testing the infants’ urine for certain chemicals made by neuroblastoma tumors. (For more on this urine test, see Tests for Neuroblastoma.) However, these studies did not find neuroblastoma screening to be helpful. 
+Screening did find many tumors that wouldn’t normally have been detected. But most of these tumors probably would have gone away or matured into benign (non-cancerous) tumors on their own, so they never would have caused any problems if they hadn’t been found. (See What Is Neuroblastoma? for more on this.) Screening didn’t lower the number of cancers found at advanced stages, nor did it lower the number of deaths from neuroblastoma.
+Screening for neuroblastoma could have downsides as well. For example, finding tumors that would never cause serious problems might still needlessly frighten parents and lead to unnecessary tests and surgery in some children.
+For these reasons, most experts do not recommend screening for neuroblastoma in infants who are not at increased risk of the disease.
+Screening might be recommended for infants who are at increased risk, such as those with a family history of neuroblastoma. Along with a urine test, this might also include genetic testing to look for changes in the ALK gene, which is often seen in cases of hereditary (familial) neuroblastoma.Neuroblastoma can start in different places in the body. Neuroblastoma cells can also sometimes release chemicals called hormones, which can affect other parts of the body. Because of this, neuroblastoma can cause many different signs and symptoms. Some of the more common symptoms can include:
+
+Lump or swelling in the child's belly that doesn't seem to hurt
+Swelling in the legs or in the upper chest, neck, and face
+Problems with breathing or swallowing
+Weight loss
+Not eating or complaining about feeling full
+Problems with bowel movements or urinating
+Pain in bones
+Lumps or bumps under the skin, which may appear blue
+Drooping eyelid and small pupil (the black area in the center of the eye) in one eye
+Problems being able to feel or move parts of the body
+Eyes that appear to bulge and/or bruising around the eyes
+
+Signs and symptoms might be different depending on where the tumor is, how large it is, how far it has spread, and if the tumor makes hormones.
+Many of these signs and symptoms are more likely to be caused by something other than neuroblastoma. Still, if your child has any of these symptoms, check with your doctor so the cause can be found and treated, if needed.
+Signs or symptoms caused by the main tumor
+Tumors in the abdomen (belly) or pelvis: One of the most common signs of a neuroblastoma is a large lump or swelling in the child’s abdomen. The child might not want to eat (which can lead to weight loss). If the child is old enough, they may complain of feeling full or having belly pain. But the lump itself is usually not painful to the touch.
+Sometimes, a tumor in the abdomen or pelvis can affect other parts of the body. For example, tumors that press against or grow into the blood and lymph vessels in the abdomen or pelvis can stop fluids from getting back to the heart. This can sometimes lead to swelling in the legs and, in boys, the scrotum.
+In some cases, the pressure from a growing tumor can affect the child’s bladder or bowel, which can cause problems urinating or having bowel movements.
+Tumors in the chest or neck: Tumors in the neck can often be seen or felt as a hard, painless lump.
+If the tumor is in the chest, it might press on the superior vena cava (the large vein in the chest that returns blood from the head and neck to the heart). This can cause swelling in the face, neck, arms, and upper chest (sometimes with a bluish-red skin color). It can also cause headaches, dizziness, and a change in consciousness if it affects the brain.
+Tumors in the chest or neck might also press on the throat or windpipe, which can cause coughing and trouble breathing or swallowing.
+Neuroblastomas that press on certain nerves in the chest or neck can sometimes cause other symptoms, such as a drooping eyelid and a small pupil (the black area in the center of the eye), part of a condition known as Horner syndrome.
+Pressure on other nerves near the spine might affect the child’s ability to feel or move their arms or legs.
+Signs or symptoms caused by cancer spread to other parts of the body
+Many neuroblastomas have already spread to the lymph nodes or other parts of the body by the time they are found.
+Spread to the lymph nodes: Lymph nodes are bean-sized collections of immune cells found throughout the body. Cancer that has spread to the lymph nodes can cause them to swell. These nodes can sometimes be felt as lumps under the skin, especially in the neck, above the collarbone, under the arm, or in the groin. Enlarged lymph nodes in children are much more likely to be a sign of infection than cancer, but they should be checked by a doctor.
+Spread to bones: Neuroblastoma often spreads to bones. A child who can talk may complain of bone pain. The pain may be so bad that the child limps or refuses to walk. If it spreads to the bones in the spine, tumors can press on the spinal cord and cause weakness, numbness, or paralysis in the arms or legs.
+Spread to the bones around the eyes is common and can lead to bruising around the eyes or cause an eyeball to stick out slightly. The cancer might also spread to other bones in the skull, causing bumps under the scalp.
+Spread to bone marrow: If the cancer spreads to the bone marrow (the inner part of certain bones, where new blood cells are made), the child may not have enough red blood cells, white blood cells, or blood platelets. These shortages of blood cells can result in tiredness, irritability, weakness, frequent infections, and excess bruising or bleeding from small cuts or scrapes.
+Bleeding problems: Rarely, large tumors can start to break down, leading to a loss of clotting factors in the blood. This can result in a high risk of serious bleeding, which is known as a consumption coagulopathy and can be life threatening.
+Stage 4S (MS) neuroblastoma: A special widespread form of neuroblastoma (known as stage 4S or stage MS) sometimes occurs, usually during the first few months of life. In this special form, the neuroblastoma has spread to the liver, to the skin, and/or to the bone marrow (in small amounts). Blue or purple bumps that look like small blueberries may be a sign of spread to the skin. The liver can become very large and can be felt as a mass on the right side of the belly. Sometimes it can grow large enough to push up on the lungs, which can make it hard for the child to breathe. While stage 4S neuroblastoma is already widespread when it is found, it is very treatable, and it often shrinks or goes away on its own. Almost all children with this form of neuroblastoma can be cured.
+Signs or symptoms caused by hormones from the tumor
+Neuroblastoma cells sometimes release hormones that can cause problems with tissues and organs in other parts of the body, even though the cancer has not spread to those tissues or organs. These problems are called paraneoplastic syndromes.
+Signs and symptoms of paraneoplastic syndromes can include:
+
+Constant watery diarrhea
+Fever
+High blood pressure (causing irritability)
+Rapid heartbeat
+Reddening (flushing) of the skin
+Sweating
+
+An uncommon set of symptoms is called the opsoclonus-myoclonus-ataxia syndrome or opsoclonus myoclonus ataxia (OMA). This is thought to result from the body’s immune system attacking the normal nerve tissue. A child with this syndrome typically has irregular, rapid eye movements (opsoclonus) and twitch-like muscle spasms (myoclonus), and appears uncoordinated when standing or walking (ataxia). They might also have trouble speaking. Children who have this syndrome tend to have a better outlook when it comes to the neuroblastoma itself, although some children might have long-term nervous system problems, even after the neuroblastoma has been treated. (For more on this, see Late and Long-Term Effects of Neuroblastoma and Its Treatment.)Neuroblastomas are usually found when a child is brought to the doctor because of signs or symptoms they are having. If a neuroblastoma (or another type of tumor) is suspected, tests will be needed to confirm the diagnosis.
+If a neuroblastoma is found, other tests will then be needed to learn more about it.
+Medical history and physical exam
+If your child has signs or symptoms that might be caused by a neuroblastoma (or another tumor), the doctor will ask about the symptoms and how long they have been present. The doctor might also ask if there are any possible risk factors, such as a family history of neuroblastoma.
+The doctor will examine your child for possible signs of a neuroblastoma or other health problems. For example, the doctor may feel the abdomen (belly) for any abnormal masses or swelling. The doctor might check for lumps or bumps under the skin and examine your child's eyes closely. They might also check child's blood pressure because sometimes neuroblastoma can cause high blood pressure. Neuroblastomas can sometimes grow close to the spinal cord, which can affect movement and strength in the child’s arms and legs, so the doctor may pay close attention to these.
+Some signs that could be caused by neuroblastoma, such as fever and enlarged lymph nodes, are much more likely to be caused by an infection, so the doctor might look for other signs of infection at first.
+If the history and exam suggest a child might have a neuroblastoma (or another type of tumor), more tests will be done. These could include:
+
+Blood and urine tests
+Imaging tests
+Biopsies
+
+These tests are important because many of the symptoms and signs of neuroblastoma can also be caused by other diseases, such as infections, or even other types of cancer.
+Blood and urine catecholamine tests
+Cells in the body make many different types of hormones. For example, sympathetic nerve cells normally release hormones called catecholamines, such as epinephrine (adrenaline) and norepinephrine, which enter the blood and eventually break down into smaller pieces, called metabolites. The metabolites normally pass out of the body in urine. When epinephrine and norepinephrine are broken down by the body, the two most common metabolites made are:
+
+Homovanillic acid (HVA)
+Vanillylmandelic acid (VMA)
+
+Neuroblastoma cells also often make these catecholamines, so these same metabolites can be detected in blood and urine. If the neuroblastoma cells are making catecholamines, the amount of HVA and VMA in urine or blood will be higher than expected.
+If a child does have neuroblastoma, levels of HVA and VMA can also be followed during treatment to get an idea of how well it is working.
+Other blood and urine tests: If neuroblastoma is suspected or has been found, your child’s doctor will probably order blood tests to check blood cell counts, liver and kidney function, and the balance of salts (electrolytes) in the body. A urinalysis (urine test) may also be done to help check kidney function.
+Imaging tests
+Imaging tests use x-rays, magnetic fields, sound waves, or radioactive substances to create pictures of the inside of the body. Imaging tests can be done for a number of reasons, including:
+
+To help find out if a suspicious area might be cancer
+To learn how far cancer has spread
+To help determine if treatment is working
+
+Most children who have or might have neuroblastoma will get one or more of these tests, but they might not need all of them.
+Children with neuroblastoma are often very young, so it can be hard to do some of these tests because the child might need to hold very still. Depending on the child's age and the imaging test being done, they might get medicines to make them drowsy (or even asleep) to help them keep still.
+Ultrasound (sonogram)
+Ultrasound uses sound waves and their echoes to look inside the body. This might be one of the first tests done in very young children if a tumor is suspected, because it is fairly quick and easy, it does not use radiation, and it can often give the doctor a good view inside the body, especially in the abdomen (belly). Ultrasounds are usually not needed if the child has already had an MRI or CT scan.
+Ultrasound is used most often to look for tumors in the abdomen. (It’s not used to look in the chest because the ribs block the sound waves.)
+Magnetic resonance imaging (MRI)
+MRI scans provide detailed images of soft tissues in the body. These scans may be slightly better than CT scans for seeing the extent of a neuroblastoma tumor, especially around the spine.
+MRI scans use radio waves and strong magnets to create the images instead of x-rays, so there is no radiation. A contrast material called gadolinium may be injected into a vein before the scan to better see details.
+Computed tomography (CT or CAT) scan
+CT scans combine many x-ray pictures to make detailed cross-sectional images of the inside of the body. These tests are often used to look for neuroblastoma in the abdomen, pelvis, and chest.
+Before the test, your child may be asked to drink a contrast solution and/or get an IV (intravenous) injection of a contrast dye. This helps better outline structures in the body.
+CT-guided needle biopsy: CT scans can also be used to help guide a biopsy needle into a tumor. But needle biopsies (described below) aren't often done if neuroblastoma is suspected because the amount of the sample collected might not be enough for all of the tumor tests that are needed.
+MIBG scan
+This test is often an important part of finding out how far a child's neuroblastoma has spread. It is often done after a CT scan or MRI has been done.
+For this test, a form of the chemical meta-iodobenzylguanidine (MIBG) that contains a small amount of radioactive iodine is injected into the blood. MIBG is similar to norepinephrine, a hormone made by sympathetic nerve cells, and in most patients it will attach to neuroblastoma cells anywhere in the body. Between 1 and 3 days later, the body is scanned with a special camera to look for areas that picked up the radioactivity. This helps doctors know where the neuroblastoma is and if it has spread to the bones and/or other parts of the body.
+MIBG scans can be repeated after treatment to see if the tumors are responding well. It is also good to know if the tumor takes up the MIBG because in some cases, this radioactive molecule can be used at higher doses to treat the neuroblastoma (see Radiation Therapy for Neuroblastoma).
+The thyroid gland can also absorb MIBG, so a medicine containing iodine is sometimes given before, during, and after the test to protect the thyroid.
+Bone scan
+A bone scan can help show if a cancer has spread to the bones, and can provide a picture of the entire skeleton at once. Neuroblastoma often causes bone damage, which can be seen on a bone scan. This test isn’t often needed for neuroblastoma, because an MIBG scan can usually detect cancer spread to the bone. But if the MIBG scan doesn’t find cancer in the bone and the doctor still suspects it might have spread there, a bone scan might be helpful.
+For this test, a small amount of low-level radioactive material (technetium-99) is injected into a vein. (The amount of radioactivity used is very low and will pass out of the body within a day or so.) The substance settles in areas of damaged bone throughout the skeleton over the course of a couple of hours. Your child then lies on a table for about 30 minutes while a special camera detects the radioactivity and creates a picture of the skeleton. Younger children may be given medicine to help keep them calm or even asleep during the test.
+Areas of active bone changes attract the radioactivity and appear as “hot spots” on the skeleton. These areas may suggest cancer, but other bone diseases can also cause the same pattern. To help tell these apart, other imaging tests such as plain x-rays or MRI scans, or even a bone biopsy might be needed.
+Positron emission tomography (PET) scan
+For a PET scan, a radioactive substance (usually a type of sugar called FDG) is injected into the blood. The amount of radioactivity used is very low and will pass out of the body within a day or so. Because cancer cells are growing quickly, they absorb large amounts of the radioactive sugar. After about an hour, your child will be moved onto a table in the PET scanner. They will lie on the table for about 30 minutes while a special camera creates a picture of areas of radioactivity in the body. Younger children may be given medicine to help keep them calm or even asleep during the test.
+PET scans usually aren’t needed if an MIBG scan has been done. But a PET scan might be useful for some neuroblastomas, especially if the neuroblastoma cells do not absorb MIBG.
+X-rays
+X-rays can be used to look at the bones, although they aren’t as good at showing other structures in the body.
+The doctor may order an x-ray of part of the body as an early test if a child is having symptoms and it’s not clear what might be causing them. But the pictures might not be good enough to spot tumors.
+In children with neuroblastoma, an MIBG, PET, or bone scan is usually better than an x-ray for looking at the bones in the rest of the body and to see if neuroblastoma has spread to the bones, but an x-ray test might still be helpful in some situations.
+Biopsies
+During a biopsy, a doctor removes one or more pieces (samples) from the tumor for testing.
+Exams and imaging tests might strongly suggest a child has neuroblastoma, but a biopsy is usually needed to be sure. (Some very young infants with small adrenal tumors seen on an imaging test might not need a biopsy. Instead, the tumor might be watched closely with further imaging tests, as these tumors often mature or go away on their own.)
+In adults, biopsies are sometimes done using local anesthetic (numbing medicine), but in children they are more often done while the child is under general anesthesia (asleep).
+There are 2 main types of biopsies:
+
+Incisional (open or surgical) biopsy: This is the most common type of biopsy for neuroblastoma. It is done by removing a piece of the tumor through an incision (cut) in the skin. For tumors deep in the body, this may be done laparoscopically using long, thin surgical tools inserted through small cuts in the skin.
+Needle (closed) biopsy: For this type of biopsy, a thin, hollow needle is inserted through the skin and into the tumor to remove a small sample. If the tumor is deep within the body, CT scans or ultrasound can be used to help guide the needle into the tumor. Needle biopsies are not usually helpful when a child might have neuroblastoma because the amount of tumor in the sample is often not enough to do all the special tests that are needed.
+
+Once the biopsy samples have been removed, they are sent to a lab, where they are viewed under a microscope by a pathologist (a doctor with special training in identifying cancer cells). Special lab tests are often done on the samples as well to show if the tumor is a neuroblastoma.
+If it is a neuroblastoma, lab tests can also help determine how quickly the tumor might grow or spread, as well as which treatments might work best. Some of these tests are described in Neuroblastoma Stages and Prognostic Markers.
+Bone marrow aspiration and biopsy
+Neuroblastoma often spreads to the bone marrow (the soft inner parts of certain bones). If blood or urine levels of catecholamines are increased, then finding cancer cells in a bone marrow sample is enough to diagnose neuroblastoma (without getting a biopsy of the main tumor). If neuroblastoma has already been diagnosed by a biopsy done elsewhere in the body, bone marrow tests are done to help determine the extent of the disease.
+A bone marrow aspiration and biopsy are usually done at the same time. In most cases the samples are taken from the back of both pelvic (hip) bones.
+Even when the area is numbed with local anesthetic, these tests can be painful, so in most cases the child is also given other medicines to reduce pain or even be asleep during the procedure.
+For a bone marrow aspiration, a thin, hollow needle is inserted into the bone and a syringe is used to suck out a small amount of liquid bone marrow.
+For a bone marrow biopsy, a small piece of bone and marrow is removed with a slightly larger needle that is pushed down into the bone. Once the biopsy is done, pressure is applied to the site to help stop any bleeding.
+Samples from the bone marrow are sent to a lab, where they are looked at and tested for the presence of cancer cells. You can read more about testing tissue samples in Testing Biopsy and Cytology Specimens for Cancer.If someone is diagnosed with neuroblastoma, doctors will try to figure out if it has spread, and if so, how far. This process is called staging. The stage of a neuroblastoma describes how much cancer is in the body.
+(For neuroblastoma, several other factors are looked at along with a child's stage to decide what risk group a child falls into. Risk groups give an overall picture of how a neuroblastoma is likely to respond to treatment and, it helps doctors choose the treatments that might work best. Doctors also use neuroblastoma risk groups when talking about survival statistics. For more information, see Neuroblastoma Risk Groups.)
+There are two systems used for neuroblastoma staging. The main difference between them is whether the staging system can be used to help determine a child's risk group before treatment has started.
+
+The International Neuroblastoma Risk Group Staging System (INRGSS) uses results from imaging tests (such as CT or MRI and MIBG scans) to help decide the stage. The INRGSS stage can be determined before treatment has started.
+The International Neuroblastoma Staging System (INSS) is based on the results from the surgery to remove a child's tumor instead of imaging tests.
+
+These staging systems can both be used to help make sure children with neuroblastoma get the treatments that are best for them. If your child has neuroblastoma and has not had surgery, you are most likely to hear about your child's stage based on INRGSS. If your child has had surgery, you may hear doctors talk about your child's stage using either system.
+The stages for neuroblastoma are complex and can be confusing. If you are unsure about what they mean for your child, ask your child’s doctor to explain them to you in a way you can understand.
+International Neuroblastoma Risk Group Staging System (INRGSS)
+The INRGSS was developed to help determine a child's stage and risk group before treatment has started. It has also helped researchers around the world compare results of studies to help figure out which treatments are best. INRGSS uses imaging tests (usually a CT or MRI scan, and an MIBG scan), as well as exams and biopsies to help define the stage. The stage can then be used to help predict how resectable the tumor is – that is, how much of it can be removed with surgery.
+The INRGSS uses image-defined risk factors (IDRFs), which are factors seen on imaging tests that might mean the tumor will be harder to remove. This includes things like the tumor growing into a nearby vital organ or growing around important blood vessels.
+The INRGSS divides neuroblastomas into 4 stages:
+L1: The tumor has not spread from where it started and has not grown into vital structures as defined by the list of IDRFs. It is confined to one area of the body, such as the neck, chest, or abdomen.
+L2: The tumor has not spread far from where it started (for example, it may have grown from the left side of the abdomen into the left side of the chest), but it has at least one IDRF.
+M: The tumor has spread (metastasized) to a distant part of the body (except tumors that are stage MS).
+MS: Metastatic disease in children younger than 18 months, with cancer spread only to skin, liver, and/or bone marrow.
+International Neuroblastoma Staging System (INSS)
+The INSS takes into account the results of surgery to remove the tumor. It cannot help doctors determine a stage before any treatment has started, so it doesn't work as well for children who don't need or can't have surgery. In simplified form, the stages are:
+Stage 1: The cancer is still in the area where it started. It is on one side of the body (right or left). All visible tumor has been removed completely by surgery (although looking at the tumor’s edges under the microscope after surgery may show some cancer cells). Lymph nodes near the tumor are free of cancer (although nodes enclosed within the tumor may contain neuroblastoma cells).
+Stage 2A: The cancer is still in the area where it started and on one side of the body, but not all of the visible tumor could be removed by surgery. Lymph nodes near the tumor are free of cancer (although nodes enclosed within the tumor may contain neuroblastoma cells).
+Stage 2B: The cancer is on one side of the body, and it may or may not have been removed completely by surgery. Nearby lymph nodes outside the tumor contain neuroblastoma cells, but the cancer has not spread to lymph nodes on the other side of the body or elsewhere.
+Stage 3: The cancer has not spread to distant parts of the body, but one of the following is true:
+
+The cancer can't be removed completely by surgery, and it has crossed the midline (defined as the spine) to the other side of the body. It may or may not have spread to nearby lymph nodes.
+The cancer is still in the area where it started and is on one side of the body. It has spread to lymph nodes that are relatively nearby but on the other side of the body.
+The cancer is in the middle of the body and is growing toward both sides (either directly or by spreading to nearby lymph nodes).
+
+Stage 4: The cancer has spread to distant parts of the body such as distant lymph nodes, bones, liver, skin, bone marrow, or other organs (but the child does not meet the criteria for stage 4S).
+Stage 4S (also called “special” neuroblastoma): The child is younger than 1 year old. The cancer is on one side of the body. It might have spread to lymph nodes on the same side of the body but not to nodes on the other side. The neuroblastoma has spread to the liver, skin, and/or the bone marrow. However, no more than 10% of marrow cells are cancer cells, and imaging tests such as an MIBG scan do not show cancer in the bone marrow.
+Recurrent: While not a formal part of the staging system, this term is used to describe cancer that has come back (recurred) after it has been treated. The cancer might come back in the area where it first started or in another part of the body.
+Prognostic markers
+Prognostic markers are features that help predict whether the child’s prognosis (outlook for cure) is better or worse than would be predicted by the stage alone. Many of these prognostic markers are used along with a child's stage to assign their risk group:
+
+Age: Younger children (under 12-18 months) are more likely to have a better outcome than older children.
+Tumor histology: Tumor histology is how the neuroblastoma cells look under the microscope. Tumors that contain more normal-looking cells and tissues tend to have a better prognosis and are said to have a favorable histology. Tumors whose cells and tissues look more abnormal under a microscope tend to have a poorer prognosis and are said to have an unfavorable histology.
+DNA ploidy: The amount of DNA in each cell, known as ploidy or the DNA index, can be measured using special lab tests. Neuroblastoma cells with about the same amount of DNA as normal cells (a DNA index of 1) are classified as diploid. Cells with increased amounts of DNA (a DNA index higher than 1) are termed hyperdiploid. Neuroblastoma cells with more DNA are associated with a better prognosis, particularly for children under 2 years of age. DNA ploidy is not as useful for understanding a prognosis in older children.
+MYCN gene amplifications: MYCN is a gene that normally helps regulate cell growth. Changes in the MYCN gene can turn it into an oncogene, which can make cells grow and divide too quickly, as with cancer cells. Neuroblastomas with too many copies (amplification) of the MYCN oncogene tend to grow quickly and can be harder to treat.
+Chromosome changes: Tumor cells that are missing certain parts of chromosomes 1 or 11 (known as 1p deletions or 11q deletions) may predict a less favorable prognosis. Having an extra part of chromosome 17 (17q gain) is also linked with a worse prognosis. Understanding the importance of chromosome deletions/gains is an active area of neuroblastoma research. For more information, see What's New In Neuroblastoma Research?
+Neurotrophin (nerve growth factor) receptors: These are substances on the surface of normal nerve cells and on some neuroblastoma cells. They normally allow the cells to recognize neurotrophins, which are hormone-like chemicals that help the nerve cells mature. Neuroblastomas that have more of certain neurotrophin receptors, especially the nerve growth factor receptor TrkA, may have a better prognosis.
+
+Serum (blood) levels of certain substances can also be used to help predict prognosis.
+
+Neuroblastoma cells release ferritin, a chemical that is an important part of the body's normal iron metabolism, into the blood. Patients with high ferritin levels tend to have a worse prognosis.
+Increased levels of lactate dehydrogenase (LDH) in the blood is also linked with a worse outlook in children with neuroblastoma.Risk groups are used to help predict how likely it is that a child with neuroblastoma can be cured (and therefore how intensive treatment might need to be). For example, a child in a low-risk group can often be cured with limited treatment, such as surgery alone. Children in higher risk groups often need more intensive treatment to have the best chance of being cured.
+The risk groups are based on the stage (extent) of the cancer, as well as other factors that can affect a child’s prognosis (outlook), such as their age. (See Neuroblastoma Stages and Prognostic Markers.)
+The risk groups included here are commonly accepted standard risk groups in the United States. Other internationally used risk groups are being tested in clinical trials.
+Children’s Oncology Group (COG) risk groups
+The Children’s Oncology Group (COG, the major group of doctors who treat childhood cancer in the US) risk group system was initially based on the International Neuroblastoma Staging System (INSS) staging system, but is now transitioning to using the International Neuroblastoma Risk Group Staging System (INRGSS), along with the major prognostic factors, all of which are described in Neuroblastoma Stages and Prognostic Markers. These are combined to place children into 3 different risk groups:
+
+Low risk
+Intermediate risk
+High risk
+
+These risk groups are based on what is known about neuroblastoma and how it is treated. As new research provides more information, the risk groups may change over time. For example, in recent treatment recommendations the age cut-off for some of these categories has been revised from up to 12 months to up to 18 months.
+
+
+
+International Neuroblastoma Risk Group (INRG) classification
+The International Neuroblastoma Risk Group (INRG) classification is a newer system that is now being used to help researchers in different countries compare results and work together to find the best treatments. This system is based on the INRGSS staging system, which includes the image-defined risk factors (IDRFs), as well as many of the prognostic factors listed in Neuroblastoma Stages and Prognostic Markers, such as:
+
+The child’s age
+Tumor histology (how the tumor looks under the microscope)
+The presence or absence of MYCN gene amplification in tumor cells
+Certain changes in chromosome 11 (known as an 11q aberration) in tumor cells
+DNA ploidy (the total number of chromosomes in the tumor cells)
+
+The INRG classification uses these factors to put children into 16 different pre-treatment groups (lettered A through R). Each pre-treatment group falls into 1 of 4 overall risk groups:
+
+Very low risk
+Low risk
+Intermediate risk
+High risk
+
+This system will most likely be used in addition to the COG risk classification system in the United States.
+The risk groups for neuroblastoma are complex and can be confusing. If you are unsure about your child’s risk group and what it means, ask your child’s doctor to explain it to you in a way you can understand.Survival rates are a way to get an idea of the outlook for children with a certain type of cancer. They can’t tell you for sure if treatment will be successful, but they may help give you a better understanding of how likely this is.
+What is a 5-year survival rate?
+The 5-year survival rate refers to the percentage of children who live at least 5 years after their cancer is diagnosed. Of course, many children live much longer than 5 years (and many are cured).
+To get 5-year survival rates, doctors have to look at children who were treated at least 5 years ago. Improvements in treatment since then may result in a better outlook for children now being diagnosed with neuroblastoma.
+Survival rates are based on previous outcomes of large numbers of people who had the disease, but they can't predict what will happen in any particular child’s case.
+The survival rates below are based on the risk group of the child’s cancer. The risk group, in turn, is based on the stage (extent) of the cancer, as well as other prognostic factors (such as the child’s age). But other factors can also affect a child’s outlook, such as the location of the tumor and how well the cancer responds to treatment. Your child’s doctor can tell you how the numbers below might apply to your child, as they know your situation best.
+Survival by Children’s Oncology Group (COG) risk group
+
+Low-risk group: Children in the low-risk group have a 5-year survival rate that is higher than 95%.
+Intermediate-risk group: Children in the intermediate-risk group have a 5-year survival rate of around 90% to 95%.
+High-risk group: Children in the high-risk group have a 5-year survival rate of around 50%.It's important to have open, honest discussions with your child’s cancer care team. Ask any question, no matter how minor it might seem. Among the questions you might want to ask are:
+If a neuroblastoma has been diagnosed
+
+What is the stage (extent) of the neuroblastoma? What does this mean?
+Which risk group does my child’s cancer fall into? What does this mean?
+What else can you tell about the cancer based on the tests that have been done?
+Do we need to have any other tests before we discuss treatment options?
+How much experience do you have treating this type of cancer?
+Do we need to see any other types of doctors?
+Who else will be on the treatment team, and what do they do?
+
+When deciding on a treatment plan
+
+Does the neuroblastoma need to be treated? Why or why not?
+What are our treatment options?
+Does one type of treatment increase the chance of cure more than another?
+Are there any clinical trials we should consider?
+Which treatment do you recommend? Why?
+Should we get a second opinion? How do we do that? Can you recommend a doctor or cancer center?
+How soon do we need to start treatment?
+What should we do to be ready for treatment?
+How long will treatment last? What will it be like? Where will it be done?
+How will treatment affect our daily lives?
+How long will it take my child to recover from treatment?
+What are the possible side effects from treatment? What can be done for them?
+Which side effects start shortly after treatment and which ones might develop later on?
+How might treatment affect my child’s ability to learn, grow, and develop?
+Will treatment affect my child’s ability to have children someday? Can we do anything about this?
+Will my child have a higher long-term risk of other cancers?
+
+During and after treatment
+Once treatment begins, you’ll need to know what to expect and what to look for. Not all of these questions may apply, but getting answers to the ones that do may be helpful.
+
+How will we know if the treatment is working?
+Is there anything we can do to help manage side effects?
+What symptoms or side effects should we tell you about right away?
+How can we reach you or someone on your team on nights, weekends, or holidays?
+Who can we talk to if we have questions about costs, insurance coverage, or social support? 
+What are the chances that the cancer will come back after treatment? What would we do if this happens?
+What type of follow-up will my child need after treatment?
+Do you know of any local or online support groups where we can talk to other families who are coping with neuroblastoma or childhood cancer?
+
+Along with these sample questions, be sure to write down some of your own. For instance, you might want more information about recovery times so that you can plan your work or school schedules.
+Keep in mind, too, that doctors aren't the only ones who can give you information. Other members of your health care team, such as nurses and social workers, can answer some of your questions. To find more about speaking with your health care team, see The Doctor-Patient Relationship.Surgery can be used both to help diagnose neuroblastoma and to treat it. For smaller tumors that have not spread, surgery is often the only treatment that is needed.  
+Surgical (open) biopsy
+In many cases, doctors need to get a sample of the tumor to be sure it is a neuroblastoma before deciding which treatment might work best. Tumor samples can be removed during a surgical biopsy to be looked at under a microscope and for other lab tests.
+If the tumor is in the abdomen (belly), the surgeon might do the biopsy with a laparoscope. This is a long, thin tube with a tiny video camera on the end. It is put into the abdomen through a small incision to allow the surgeon to see inside. The surgeon then makes a second small incision to reach inside the abdomen with long, thin instruments and remove pieces of the tumor.
+Surgery to treat neuroblastoma
+After neuroblastoma is diagnosed, surgery is often used to try to remove as much of the tumor as possible. In some cases, surgery can remove all (or almost all) of the tumor, and no additional treatments are needed.
+During the operation, the surgeon looks carefully for signs of cancer spread to other organs. Nearby lymph nodes (small collections of immune system cells to which cancers often spread first) are removed and looked at under a microscope for cancer cells.
+If possible, the surgeon will remove the entire tumor. This is less likely if the tumor is near vital structures or wrapped around large blood vessels. Even if some of the tumor is left behind, that doesn't always mean the tumor will come back. Whether chemotherapy or other treatments will be needed after surgery depends on the child's risk group.
+If the tumor is very large, chemotherapy may be used before surgery to shrink the tumor and make it easier to remove.
+Possible risks and side effects of surgery
+The risks from surgery depend on the location of the tumor and the extent of the operation, as well as the child’s health beforehand. Serious complications, although rare, can include problems with anesthesia; excess bleeding; infections; and damage to blood vessels, kidneys or other organs, or nerves. Complications are more likely if the tumor is large and growing into blood vessels or nerves. Most children will have some pain for a while after the operation, but this can usually be helped with medicines if needed.Chemotherapy (chemo) is the use of anti-cancer drugs, which are usually given into a vein. The drugs enter the bloodstream and travel throughout the body to reach and destroy cancer cells. This makes chemo useful for treating neuroblastoma, especially if it can’t all be removed with surgery.
+When might chemotherapy be used?
+Whether a child with neuroblastoma will get chemotherapy depends on their risk group, which is based on the stage (extent) and location of the cancer, the child’s age, and other factors. 
+Some children with neuroblastoma are treated with chemo either before surgery (neoadjuvant chemotherapy) or after surgery (adjuvant chemotherapy).
+In other cases, especially when the cancer has spread too far to be removed completely by surgery, chemo is the main treatment. 
+Which chemo drugs are used for neuroblastoma?
+Chemo for neuroblastoma usually includes a combination of drugs. The main chemo drugs used include:
+
+Cyclophosphamide
+Cisplatin or carboplatin
+Vincristine
+Doxorubicin (Adriamycin)
+Etoposide
+Topotecan
+Melphalan (sometimes used during stem cell transplant)
+Busulfan (sometimes used during stem cell transplant)
+Thiotepa (sometimes used during stem cell transplant)
+
+The most common combination of drugs includes cisplatin (or carboplatin), cyclophosphamide, doxorubicin, vincristine, and etoposide, but others may be used.
+For children in the high-risk group, other drugs might be added as well, and some drugs might be given at higher doses. This may be followed by a stem cell transplant.
+Doctors give chemo in cycles. Treatment is given for a few days in a row, followed by time off to allow the body time to recover. The cycles are typically repeated every 3 or 4 weeks. The total length of treatment depends on which risk group the child is in – higher risk groups usually require longer treatment.
+Possible side effects of chemotherapy
+Chemo drugs can affect other cells in the body that are dividing quickly, which can lead to side effects. The side effects of chemo depend on the type and dose of drugs given and the length of time they are taken.
+General side effects of chemo
+Side effects common to many chemo drugs include:
+
+Hair loss
+Mouth sores
+Loss of appetite
+Nausea and vomiting
+Diarrhea or constipation
+
+Chemo can damage the bone marrow, where new blood cells are made. This can lead to low blood cell counts, which can result in:
+
+Increased chance of infections (from having too few white blood cells)
+Easy bruising or bleeding (from having too few blood platelets)
+Fatigue (from having too few red blood cells)
+
+Most of these side effects tend to go away after treatment is finished. There are often ways to lessen these side effects. For example, drugs can be given to help prevent or reduce nausea and vomiting. Be sure to ask your child’s doctor or nurse about medicines to help reduce side effects, and let them know if your child has side effects so they can be managed.
+Side effects of certain chemo drugs
+Along with the effects listed above, some drugs can have specific side effects. For example:
+Cyclophosphamide can damage the bladder, which can cause blood in the urine. The risk of this can be lowered by giving the drugs with plenty of fluids and with a drug called mesna, which helps protect the bladder. This drug can also damage the ovaries or testicles, which could affect fertility (the ability to have children).
+Doxorubicin can damage the heart. Doctors try to reduce this risk as much as possible by limiting the doses of doxorubicin and by checking the heart with an echocardiogram (an ultrasound of the heart) during treatment. This drug can also cause skin damage if it should leak out of the vein while it is being given.
+Cisplatin and carboplatin can affect the kidneys. Giving plenty of fluids can help reduce this risk. These drugs can also affect hearing. Your child’s doctor may order hearing tests (audiograms) during or after treatment.
+Vincristine and etoposide can cause nerve damage (neuropathy). Some patients may have tingling, numbness, weakness, or pain, particularly in the hands and feet.
+Chemotherapy can also have some longer-term side effects. For example, some drugs can increase the risk of later developing another type of cancer (such as leukemia). While this is a serious risk, it is not common, and the small increase in risk has to be weighed against the importance of chemotherapy in treating neuroblastoma. For more on the possible long-term effects of treatment, see Late and Long-term Effects of Neuroblastoma and Its Treatment.
+Ornithine decarboxylase inhibitor
+Eflornithine (Iwilfin) works in a different way than standard chemotherapy drugs. This drug affects an enzyme inside cells known as ornithine decarboxylase (ODC), which is important for the function of the MYCN oncogene. High-risk neuroblastoma cells often have too many copies of this gene, which helps them grow.
+Eflornithine can be used in people with high-risk neuroblastoma to lower the risk of it coming back, if the cancer has already shrunk in response to previous treatment that included an anti-GD2 antibody.
+This drug is taken as pills, typically twice a day for up to 2 years.
+Side effects of eflornithine
+Common side effects of this drug include: 
+
+Infections, including ear, sinus, skin, respiratory, and urinary tract infections (UTIs)
+Red and swollen eyes (pink eye) 
+Diarrhea
+Vomiting 
+Cough
+Stuffy, runny, or itchy nose, or sneezing
+Fever 
+
+M﻿ore serious side effects can include:
+Low blood cell counts: This drug can damage the bone marrow, where new blood cells are made. This can lead to low blood cell counts, which can result in:
+
+Increased chance of infections (from having too few white blood cells)
+Easy bruising or bleeding (from having too few blood platelets)
+Feeling tired (from having too few red blood cells)
+
+Tests will be done to check blood counts before and during treatment.
+Liver problems: This drug can damage the liver, which might result in jaundice (yellowing of the eyes and skin), easy bruising or bleeding, nausea, and other problems. Blood tests will be done to check liver function before and during treatment.
+Hearing loss: This drug might cause hearing loss, which can sometimes be serious. For people getting this drug, hearing will be checked before and during treatment.Radiation therapy uses high-energy rays or particles to kill cancer cells.
+When might radiation therapy be used?
+Radiation therapy is sometimes a necessary part of treatment, but because of the possible long-term side effects in young children, doctors avoid using it when possible.
+Most children with neuroblastoma will not need radiation therapy. It is most commonly used in children with high-risk neuroblastoma, typically after a stem cell transplant. It might also be used for children with low- and intermediate-risk neuroblastoma, if a child has life-threatening symptoms and needs emergency treatment to shrink the tumor.
+How is radiation therapy given?
+Two types of radiation therapy can be used to treat children with neuroblastoma:
+
+External beam radiation therapy
+MIBG radiotherapy
+
+External beam radiation therapy
+External radiation therapy uses a machine to focus a beam of radiation on the cancer from a radiation source outside the body. This type of treatment might be used:
+
+To try to shrink tumors before surgery, making them easier to remove
+To treat larger tumors that are causing serious problems (such as trouble breathing) and do not respond quickly to chemotherapy
+As part of the treatment regimen after a stem cell transplant in children with high-risk neuroblastoma to destroy neuroblastoma cells that remain behind. Radiation might be given to the primary tumor area and other areas of the body that might have active disease seen on an MIBG scan.
+To help relieve pain caused by advanced neuroblastoma
+
+When radiation is aimed at the whole body, it is known as total body irradiation (TBI). This was used in the past for children with high-risk neuroblastoma before a stem cell transplant, but now it's more common for radiation only to be given after a stem cell transplant, and only to the primary tumor site and any other areas of the body that might have active neuroblastoma cells.
+Before the radiation treatments start, the radiation team will take careful measurements with imaging tests such as MRI scans to determine the correct angles for aiming the radiation beams and the proper dose of radiation.
+Your child might also be fitted with a plastic mold resembling a body cast to keep them in the same position during each treatment so that the radiation can be aimed more accurately.
+The number of radiation treatments given depends on the situation.
+For each treatment session, your child lies on a special table while a machine delivers the radiation from a precise angle. Radiation therapy is much like getting an x-ray, but the dose of radiation is much higher. The treatment is not painful. Each actual treatment lasts only a few minutes, but the setup time – getting your child into place for treatment – usually takes longer. Young children may be given medicine to make them sleep so they will not move during the treatment.
+Possible side effects of external radiation therapy
+Radiation therapy is sometimes an important part of treatment, but young children’s bodies are very sensitive to it, so doctors try to use as little radiation as possible to help avoid or limit any problems. Radiation can cause both short-term and long-term side effects, which depend on the dose of radiation and where it is aimed.
+Short-term effects
+
+Radiation can affect the skin in the area treated. Effects can range from mild sunburn-like changes and hair loss to more severe skin reactions.
+Radiation to the abdomen (belly) can cause nausea or diarrhea.
+Radiation therapy can make a child tired, especially toward the end of treatment.
+
+Radiation can also make the side effects of chemotherapy worse. Talk with your child’s doctor about the possible side effects because there are ways to relieve some of them.
+Long-term effects
+
+Radiation therapy can slow the growth of normal body tissues (such as bones) that get radiation, especially in younger children. In the past this led to problems such as short bones or a curving of the spine, but this is less likely with the lower doses of radiation used today.
+Radiation can affect the thyroid gland in the neck, causing it to make less thyroid hormone (hypothyroidism). Symptoms of hypothyroidism can vary greatly. In children, hypothyroidism can affect growth and development. Thyroid replacement medicine is usually all that's needed to manage hypothyroidism.
+Radiation that reaches the chest area can affect the heart and lungs. This does not usually cause problems right away, but in some children it may eventually lead to heart or lung problems as they get older.
+Radiation to the abdomen in girls can damage the ovaries. This might lead to abnormal menstrual cycles or problems getting pregnant or having children later on.
+Radiation can damage the DNA inside cells. As a result, radiation therapy slightly increases the risk of developing a second cancer in the areas that get radiation, usually many years after the radiation is given.
+
+Close follow-up with doctors is important as children grow older so that any problems can be found and treated as soon as possible. For more on the possible long-term effects of treatment, see Late and Long-term Effects of Neuroblastoma and Its Treatment.
+MIBG radiotherapy
+As described in Tests for Neuroblastoma, MIBG is a chemical similar to norepinephrine, which is made by sympathetic nerve cells. A slightly radioactive form of MIBG is sometimes injected into the blood as part of an imaging test to look for neuroblastoma cells in the body. This is called an MIBG scan.
+A more highly radioactive form of MIBG can also be used to treat some children with advanced neuroblastoma, often along with other treatments. Once injected into the blood, the MIBG goes to neuroblastoma cells anywhere in the body and delivers its radiation. (This type of radiation travels only a very short distance, so it doesn’t affect most healthy cells in the body.)
+The child will need to stay in a special hospital room for a few days after the injection until most of the radiation has left the body. Most of the radiation leaves the body in the urine, so younger children might need to have a catheter in the bladder to help urine leave the body, usually for a couple of days.
+Possible side effects
+Most of the radiation from MIBG therapy stays in the area of the neuroblastoma, so most children don't have serious side effects from this treatment. MIBG therapy can sometimes cause mild nausea and vomiting. It can also make some children feel tired or sluggish. Some children might have swollen cheeks from the MIBG treatment because it can affect the salivary glands. Rarely, it might cause high blood pressure for a short period of time.This type of treatment combines higher doses of chemotherapy (chemo) with a transplant to replace the bone marrow stem cells damaged by the chemo. It is often used in children with high-risk neuroblastoma who are unlikely to be cured with other treatments.
+Giving higher doses of chemotherapy might be more effective in treating these cancers, but normally this can’t be done because it would cause severe damage to the stem cells in the bone marrow, which make new blood cells. This could lead to life-threatening shortages of blood cells.
+A stem cell transplant (SCT) can sometimes help doctors get around this problem by giving the high-dose chemo, then replacing the patient’s bone marrow cells by giving them new stem cells.
+Before the stem cell transplant, a child is usually given about 5 months of intense chemotherapy and sometimes surgery to remove the tumor as well. Some children might get 2 stem cell transplants a few months apart, called tandem stem cell transplants.
+SCT is a complex treatment that can cause life-threatening side effects. If the doctors think your child can benefit from a transplant, the best place to have this done is at a cancer center where the staff has experience with the procedure and managing the recovery period.
+Collecting stem cells before the transplant
+For most children with neuroblastoma, their own stem cells are collected and used for the transplant.
+To help prepare for stem cell collection, doctors give a medicine called G-CSF (filgrastim),which helps the bone marrow make more stem cells and helps those cells move into the bloodstream.
+G-CSF is usually started at the end of a regular cycle of chemo and is given daily. Once part of the white blood cell count (known as the absolute neutrophil count, or ANC) reaches a certain level, the dose of G-CSF is increased until there are enough stem cells to collect.
+The child will have a special kind of central venous catheter put in place so the stem cells can be collected during a process called apheresis. The collection process is similar to donating blood, but instead of going into a collecting bag, the blood goes into a special machine that filters out the stem cells and returns the other parts of the blood back to the child’s body. Apheresis can take a few hours, and your child will probably need to lie flat and hold still during the procedure. This process may be repeated over a few days. The collected stem cells are then frozen until the transplant.
+The high-dose chemo and transplant procedure
+Typically, the child will be admitted to the SCT unit of the hospital on the day before the high-dose chemo begins. They will usually stay in the hospital until after the chemo and the stem cells have been given, and until the stem cells have started making new blood cells again (typically at least several weeks).
+The child gets high-dose chemo first. This destroys the cancer cells in the body, as well as the normal cells in the bone marrow. After the chemo, the frozen stem cells are thawed and given as a blood transfusion. The stem cells travel through the bloodstream and settle in the child’s bone marrow.
+Usually within a couple of weeks, the stem cells begin making new white blood cells. Soon after, they will start making new red blood cells and platelets. Until new blood cells are made, the child is at high risk of infection because of a low white blood cell count, as well as bleeding because of a low platelet count. To help lower the risk of infection, the child stays in a special hospital room, and visitors must wear protective clothing. Blood and platelet transfusions and treatment with IV antibiotics may also be used to help prevent or treat infections or bleeding problems.
+The child usually stays in the hospital room until the ANC rises to a safe level. The child is then seen in an outpatient clinic almost every day for several weeks. Because platelet counts often take longer to return to a safe level, the child may get platelet transfusions as an outpatient. Patients may need to make regular visits to the outpatient clinic for about 6 months, after which time their regular doctors may continue their care.
+Possible side effects
+A stem cell transplant can have both short-term and long-term side effects.
+Early or short-term side effects
+The early complications and side effects are usually caused by the high-dose chemo, and they can be severe. They are the result of damage to the bone marrow and other quickly growing tissues of the body, and can include:
+
+Low blood cell counts (with fatigue and increased risk of infection and bleeding)
+Nausea and vomiting
+Loss of appetite
+Mouth sores
+Diarrhea
+Hair loss
+Liver problems
+
+One of the most common and serious short-term effects is an increased risk for serious infections. Antibiotics are often given to try to prevent this. Other side effects, like low red blood cell and platelet counts, might require blood product transfusions or other treatments.
+Late or long-term side effects
+Some complications and side effects can last for a long time or might not occur until months or years after the transplant. These can include:
+
+Damage to the heart or lungs
+Problems with the thyroid or other hormone-making glands
+Problems with fertility
+Damage to bones or problems with bone growth
+Development of another cancer (including leukemia) years later
+
+Be sure to talk to your child’s doctor before the transplant to learn about possible long-term effects your child might have. For more on the possible long-term effects of this and other treatments, see Late and Long-term Effects of Neuroblastoma and Its Treatment.Retinoids are chemicals that are related to vitamin A. They are known as differentiating agents because they are thought to help some cancer cells mature (differentiate) into normal cells.
+In children with high-risk neuroblastoma, treatment with a retinoid called 13-cis-retinoic acid (isotretinoin) reduces the risk of the cancer coming back after high-dose chemotherapy and stem cell transplant. Most doctors now recommend 6 months of 13-cis-retinoic acid after the transplant. This drug is taken as a capsule, twice a day for 2 weeks, followed by 2 weeks off.
+Researchers are now trying to develop more effective retinoids and to define the exact role of this approach in treating neuroblastoma.
+Possible side effects
+The most common side effect of 13-cis-retinoic acid is dry and cracked lips. Dry skin or eyes are also possible, as are nosebleeds, muscle and joint pains, and changes in the nails.Immunotherapy is the use of medicines to help a patient’s own immune system recognize and destroy cancer cells more effectively. Several types of immunotherapy are now being studied for use against neuroblastoma (some of which are described in What’s New in Neuroblastoma Research?), and some are now being used to treat it.
+Anti-GD2 monoclonal antibodies
+Monoclonal antibodies are lab-made versions of immune system proteins that can attach to a very specific target on cells in the body. These antibodies can be injected into the blood to seek out and attach to cancer cells.
+Many neuroblastoma cells have large amounts of a substance called GD2 on their surfaces. Monoclonal antibodies that attach to GD2 can help the body’s immune system find and destroy these cancer cells.
+Dinutuximab (Unituxin)
+This monoclonal antibody is typically given together with cytokines (immune system hormones) such as GM-CSF and interleukin-2 (IL-2), as well as isotretinoin, to help the body’s immune system recognize and destroy neuroblastoma cells. It is typically used as part of the treatment for children with high-risk neuroblastoma, following a stem cell transplant.
+This drug is given as an infusion into a vein (IV) over many hours, for 4 days in a row. This is done about once a month, usually for a total of about 5 cycles of treatment. Other medicines are given before and during each infusion to help with possible side effects such as pain or infusion reactions.
+Possible side effects
+Dinutuximab can cause side effects, some of which can be serious. Possible side effects include:
+
+Nerve pain (which can sometimes be severe)
+Leaking of fluid from small blood vessels (which can lead to low blood pressure, fast heart rate, shortness of breath, and swelling)
+Infusion reactions (which can lead to airway swelling, trouble breathing, and low blood pressure)
+Eye and vision problems
+Fever
+Vomiting
+Diarrhea
+Itching
+Trouble urinating
+Infections
+Low blood cell counts
+Changes in mineral levels in the blood
+
+Other side effects are possible as well. Talk to your child's treatment team to learn more about the possible side effects and what can be done about them.
+Naxitamab (Danyelza)
+This monoclonal antibody is given together with the cytokine (immune system hormone) GM-CSF to help the body’s immune system recognize and destroy neuroblastoma cells.
+Naxitamab can be used in patients who are at least one year old and who have high-risk neuroblastoma that is in their bones or bone marrow and that has come back or started to grow again after initially responding to treatment. 
+This drug is given as an infusion into a vein (IV) over 30 to 60 minutes on days 1, 3, and 5 of each 4-week cycle. Other medicines are given before and during each infusion to help with possible side effects such as pain or infusion reactions.
+Possible side effects
+Naxitamab can cause side effects, some of which can be serious. Possible side effects include:
+
+Nerve pain (which can sometimes be severe)
+Infusion reactions (which can lead to airway swelling, trouble breathing, and low blood pressure)
+Eye and vision problems
+Rapid heartbeat
+Fever
+Vomiting
+Cough
+Nausea
+Diarrhea
+Low blood pressure
+Itching
+Trouble urinating
+Infections
+Low blood cell counts
+Changes in mineral levels in the blood
+
+Other side effects are possible as well. Talk to your child's treatment team to learn more about the possible side effects and what can be done about them.Treatment for neuroblastoma is largely based on which risk group a child is in. Generally, younger children with smaller tumors are in the lower risk groups, while older children, children with tumors that have spread throughout the body, and children whose tumors have unfavorable features or extra copies of the MYCN gene are in the high-risk group. Some infants with neuroblastoma that has spread throughout the body can still be considered low risk, especially if their tumor does not have extra copies of MYCN or other unfavorable features.
+Low risk
+Children at low risk usually don’t need very intensive treatment to cure the neuroblastoma. In fact, some children (especially young infants with small tumors) might not need to be treated at all because some of these neuroblastomas will mature or go away on their own.
+If a child is low risk and the tumor can easily be removed, surgery might be the only treatment needed. Even if some neuroblastoma is left behind after surgery, the child can usually be watched carefully without further treatment because the remaining tumor will often mature or go away on its own. 
+If much of the tumor can’t be removed, the tumor gets bigger after surgery, or if the tumor is causing symptoms, chemotherapy (chemo) is typically given. A common chemo regimen is a combination of carboplatin, cyclophosphamide, doxorubicin, and etoposide. But other combinations may be used.
+For those few children who have symptoms from a low-risk tumor that can’t safely be treated right away with surgery, a short course of chemo might be given first. For example, if the tumor is pressing on the spinal cord or affecting breathing, chemo may be used to shrink the tumor to control the symptoms. A short course of radiation therapy might be used if the symptoms are not getting better with chemo, are life threatening, or are causing spinal cord compression.
+Infants with stage 4S (MS) disease and no symptoms can often be watched carefully with no treatment, because these cancers typically mature or go away on their own. If the tumor causes problems such as an enlarged liver, which can be life-threatening for very young infants, chemo that is less intense may be used to shrink the tumor. Radiation therapy may be used if chemo doesn't shrink the liver right away.
+Infants younger than 6 months with small adrenal tumors (which are assumed to be neuroblastomas) can often be watched closely with imaging tests, without needing surgery or other treatments. Many of these tumors will mature or go away on their own, but if a tumor keeps growing or is causing symptoms, surgery or chemo might be used.
+Intermediate risk
+Surgery is an important part of treatment for children at intermediate risk, but it is rarely enough on its own. Children are typically given 4 to 8 cycles (about 12 to 24 weeks) of chemotherapy before or after surgery. The chemo drugs used usually include carboplatin, cyclophosphamide, doxorubicin, and etoposide. If chemo is used first, surgery may then be done to remove any remaining tumor. Radiation therapy usually isn't needed unless the tumor is not responding well to chemo or if a child's symptoms from the tumor require emergency treatment.
+Doctors are also studying the possibility of observing infants and young babies with no symptoms and favorable tumor features instead of treatment with surgery and/or chemotherapy. In this approach, doctors watch the tumor closely using imaging tests to make sure the tumor goes away or does not get bigger. If the tumor does gets bigger or a child has symptoms, then treatment with chemotherapy will be started. Some studies have shown promising results using this approach, and more studies are now being done.
+Children at intermediate risk who need chemo are monitored closely to see how they respond after every 2 cycles (6 to 8 weeks). The total number of cycles they get depends on how well the chemo shrinks the tumor. Doctors hope that treating with chemo based on these results can allow children who have tumors that respond quickly to get less chemo.
+High risk
+Children at high risk require more aggressive treatment, which often includes chemotherapy, surgery, radiation, stem cell transplant, immunotherapy, and retinoid therapy. Treatment is often done in 3 phases.
+Induction: The goal of this phase is to get the cancer into remission by destroying or removing as much of it as possible. Treatment usually starts with chemotherapy, using alternating regimens of several drugs (in the United States, typically cisplatin, etoposide, vincristine, cyclophosphamide, doxorubicin, and topotecan) given at higher doses than what is used for other risk groups.
+Doctors are also studying the use of other treatments in this phase, such as targeted drugs for tumors with ALK gene mutations and MIBG radiotherapy for tumors that take up MIBG.
+Surgery is usually done after induction to try to remove any tumors that are still visible.
+Consolidation: This phase uses more intensive treatment to try to get rid of any remaining cancer cells in the body. High-dose chemotherapy is given, followed by one or two stem cell transplants. Some research has suggested that giving two stem cell transplants back to back (tandem stem cell transplants) may be better than giving one stem cell transplant. This is now being studied further in clinical trials.
+Radiation is often given to the primary tumor site after a stem cell transplant (even if the tumor was removed by surgery) and to any other parts of the body that might still have cancer, based on MIBG scan results.
+Maintenance: The goal of this phase of treatment is to try to lower the chance that the cancer will come back. Treatment is typically given for about 6 months after consolidation has been completed, and includes the retinoid drug 13-cis-retinoic acid (isotretinoin), as well as immunotherapy with a monoclonal antibody such as dinutuximab (Unituxin) and immune-activating cytokines (GM-CSF and IL-2). As part of this treatment, the drug eflornithine might be given for up to 2 years as well.
+Recurrent neuroblastoma
+If neuroblastoma comes back after initial treatment, it is known as a recurrence or relapse. Treatment of recurrent neuroblastoma depends on many factors, including the initial risk group, where the cancer recurs, and what treatments have been used.
+For low- and intermediate-risk neuroblastomas that recur in the same area where they started, surgery with or without chemotherapy may be effective.
+For high-risk cancers or those that recur in distant parts of the body, treatment is usually more intense, and may include a combination of chemotherapy, surgery, and radiation therapy (such as MIBG radiotherapy). Chemotherapy might include drugs that weren’t used during the initial treatment. Other options might include intensive treatment with high-dose chemotherapy followed by a stem cell transplant, or treatment with the monoclonal antibody naxitamab (Danyelza).
+Because these cancers can be hard to treat, clinical trials of newer treatments, such as other monoclonal antibodies, CAR T-cell therapy, or other new anti-cancer drugs, might be another reasonable option. To learn more, see What’s New in Neuroblastoma Research?During treatment for neuroblastoma, the main concerns for most families are the daily aspects of getting through treatment and beating the cancer. After treatment, the concerns tend to shift toward the long-term effects of neuroblastoma and its treatment, as well as worries about neuroblastoma coming back.
+It's certainly normal to want to put neuroblastoma and its treatment behind you and to get back to a life that doesn’t revolve around cancer. But getting the right follow-up care offers your child the best chance for recovery and long-term survival.
+Follow-up exams and tests
+After treatment, the doctor will probably order follow-up tests, which may include lab tests and imaging tests (MIBG scans, PET scans, ultrasound, CT scans, and/or MRI scans) to see if there is any tumor remaining. The tests done will depend on the child's risk group, the size and location of the tumor, and other factors.
+Because there is a chance that the cancer might return after treatment, it's very important to go to all follow-up appointments and to report any new symptoms to your child’s doctor right away. The health care team will discuss a follow-up schedule with you, including which tests should be done and how often. Doctor visits, lab tests, and imaging tests to look for signs of recurrence are done more often at first. If nothing abnormal is found, the time between tests can then be extended.
+A benefit of follow-up care is that it gives you a chance to discuss any questions and concerns that arise during and after your child’s recovery. For example, almost any cancer treatment can have side effects. Some might last for only a short time, but others can last longer or might not show up until months or even years later. It’s important to report any new symptoms to the doctor right away so that the cause can be found and treated, if needed.
+Ask your child’s doctor for a survivorship care plan
+Talk with your child’s doctor about developing a survivorship care plan. This plan might include: 
+
+A summary of the diagnosis, tests done, and treatment given
+A suggested schedule for follow-up exams and tests
+A schedule for other tests your child might need in the future, such as early detection (screening) tests for other types of cancer, or tests to look for long-term health effects from neuroblastoma or its treatment
+A list of possible late or long-term side effects from your child’s treatment, including what to watch for and when to contact the doctor
+Diet and physical activity suggestions
+
+Keeping records of health insurance and your child’s medical care
+As much as you might want to put the experience behind you once treatment is done, it’s very important to keep good records of your child’s medical care during this time. Eventually, your child will grow up, be on their own, and have new doctors. It’s important for your child to be able to give the new doctors the details of their cancer diagnosis and treatment. Gathering the details soon after treatment may be easier than trying to get them at some point in the future.
+Ask your cancer care team where and how to get this information. Learn more in Keeping Copies of Important Medical Records.
+It’s also important to keep health insurance coverage. Tests and doctor visits can cost a lot, and even though no one wants to think of neuroblastoma coming back, this could happen.
+Can we lower the risk of neuroblastoma progressing or coming back?
+If your child has (or has had) neuroblastoma, you probably want to know if there are things you can do that might lower the risk of it growing or coming back, such as having them eat a certain type of diet or take nutritional supplements. Unfortunately, it’s not yet clear if there are things you can do that will help.
+As your child gets older, adopting healthy behaviors such as not smoking, eating well, getting regular physical activity, and staying at a healthy weight might help, but no one knows for sure. However, we do know that these types of behaviors can have positive effects on your child’s health that can extend beyond their risk of neuroblastoma or other cancers.
+About dietary supplements
+So far, no dietary supplements (including vitamins, minerals, and herbal products) have been shown to clearly help lower the risk of neuroblastoma progressing or coming back. This doesn’t mean that there are no supplements that can help, but it’s important to know that none have been proven to do so.
+Dietary supplements are not regulated like medicines in the United States – they do not have to be proven effective (or even safe) before being sold, although there are limits on what they’re allowed to claim they can do. If you’re thinking about having your child take any type of nutritional supplement, talk to your child’s health care team. They can help you decide which ones can be used safely while avoiding those that might be harmful.
+To learn more, see Dietary Supplements: What Is Safe?
+
+Emotional and social issues in children with neuroblastoma
+When a child is diagnosed with cancer, it is a crisis for the whole family. Younger children might not remember much about their experience after treatment is completed, but getting through it and helping them cope can be a challenge. Older children might have difficulty being away from school, friends, and activities that they enjoy, in addition to dealing with treatment stresses. Most pediatric cancer centers have special support programs and services to help children with cancer during treatment and for many years after treatment ends.  
+Parents and other family members, especially siblings, can also be affected, both emotionally and in other ways. The family’s situation should be evaluated by the treatment center as soon as possible. Some common family concerns include financial stresses, traveling to and staying near the cancer center, the need for family members to take time off from work, the possible loss of a job, and the need for home schooling. Social workers and other professionals at cancer centers can help families sort through these issues.  
+To learn more about helping children with neuroblastoma and their loved ones cope during and after treatment, see Finding Help and Support When Your Child Has Cancer.Neuroblastoma can cause long-lasting side effects. Most of the long-term side effects depend on what kind of treatment a child had, where the tumor was located, and how old the child was when treated. Children who received seeveral kinds of treatment (surgery, radiation, chemotherapy, immunotherapy, etc.) are more likely to have serious long-term side effects.
+Because of major advances in treatment, most children treated for neuroblastoma are now surviving into adulthood. Doctors have learned that the treatment can affect children’s health later in life, so watching for health effects as they get older has become more of a concern in recent years.
+Neuroblastoma survivors are at risk for several possible late effects from their treatment. It’s important to discuss what these possible effects might be with your child’s medical team.
+After treatment, the cancer care team will create a Survivorship Care Plan describing the treatments given and what that tells you about your child's risk of late effects. The plan will also describe how the child should be monitored for these problems. Most children do not experience all the problems they might be at risk for, but if problems do come up, it's important to find them early, so they can be treated effectively.
+Depending on the treatment and other factors, late effects after neuroblastoma treatment might include:
+
+Hearing loss
+Problems with bones and muscles, like scoliosis (curving of the spine)
+Thyroid problems
+Problems with growth and development
+Fertility problems
+Neurological (nervous system) problems
+Second cancers, including leukemia
+Emotional or psychological issues
+
+In very rare instances and for unknown reasons, in some children with neuroblastoma the body’s immune system attacks the child’s normal nerve tissue, which can lead to symptoms such as rapid eye movements, muscle spasms, and lack of coordination. This is called opsoclonus myoclonus syndrome. Sometimes this syndrome improves or goes away after the neuroblastoma is treated, but some children might have longer-term problems such as learning disabilities, delays in muscle development, language problems, and behavioral problems. These children may need further treatment with drugs that suppress the immune system, such as corticosteroids or intravenous immunoglobulin (IVIG).
+To learn more about some of the possible long-term effects of treatment, see Late Effects of Childhood Cancer Treatment.
+Long-term follow-up guidelines
+To help increase awareness of late effects and improve follow-up care of childhood cancer survivors throughout their lives, the Children’s Oncology Group (COG) has developed long-term follow-up guidelines for survivors of childhood cancers. These guidelines are used to create a child's Survivorship Care Plan. They can also help you know what to watch for, what types of screening tests should be done to look for problems, and how late effects can be treated.
+To learn more, ask your child’s doctors about the COG survivor guidelines. You can also download them for free at the COG website: www.survivorshipguidelines.org. The guidelines are written for health care professionals, but patient versions of some of the guidelines are available (as “Health Links”) on the site as well.What is neuroblastoma?
+Cancer is a disease where cells somewhere in the body start growing out of control. Neuroblastoma is a type of cancer that starts in nerve cells that are not yet fully formed.
+Nerve cells make up the nervous system, which includes the brain, spinal cord, and nerves. Some nerve cells give off chemicals that are sent to parts of the body and help us think, feel, touch, smell, hear, see, and move.
+Most neuroblastomas start in the sympathetic nervous system. This is a part of the nervous system that helps control blood pressure, heart rate, and digesting food. Neuroblastoma tumors can start to grow anywhere these nerve cells are found, such as near the spine or in the belly, chest, or neck.
+Some neuroblastomas grow slowly (and some might even shrink or go away on their own), while others can grow quickly and spread to other parts of the body.
+Neuroblastoma happens most often in babies and young children. It is rare in children who are more than 10 years old.
+Questions to ask the doctor
+
+Why do you think my child has neuroblastoma?
+Is there a chance my child doesn’t have neuroblastoma?
+What will happen next?
+
+How does the doctor know my child has neuroblastoma?
+Neuroblastomas are often found when a child is brought to the doctor because of certain signs or symptoms. (Some neuroblastomas are first seen on an ultrasound done during pregnancy, even before a child is born.)
+If signs or symptoms are pointing to neuroblastoma, tests will be done. Here are some of the tests your child may need:
+Blood and urine tests
+Chemicals that may show neuroblastoma can be found in certain blood and urine tests. Other tests may also be done to check how the liver, kidneys, and other organs are working.
+Imaging tests
+
+Ultrasound (sonogram): An ultrasound may be one of the first tests done if the doctor thinks a child has a neuroblastoma. An ultrasound can be used to look for problems in the abdomen, but it can’t be used to look at the chest or neck.
+Chest or other x-ray: An x-ray may be one of the first imaging tests done if a child has symptoms, although it can’t always show a tumor.
+MRI: An MRI can show more details about some parts of the body. It is helpful for seeing the extent of a tumor. This test does not use radiation.
+CT scan: CT scans (sometimes called CAT scans) use x-rays to make detailed pictures of the inside of the body. This test can help tell if the neuroblastoma has spread outside of the nervous system.
+MIBG scan: A MIBG scan is usually done after a CT or MRI to see how far a neuroblastoma has spread. This scan uses a dye that attaches to neuroblastoma cells, and a special camera to take pictures of where the dye is in the body.
+Bone scan: A bone scan uses a different dye to look at all the bones in the body. If a MIBG scan is done, this test might not be needed.
+PET scan: A PET scan uses a dye and a camera, too. The pictures a PET scan takes are not as detailed as a CT or MRI scan. But a PET scan can help find neuroblastoma cells almost anywhere in the body.  
+
+Biopsies
+
+Surgical biopsy: For this test, the doctor removes a piece of the tumor. The sample is then sent to the lab and looked at for cancer cells. Other lab tests might be done if cancer cells are found.
+Bone marrow aspiration and biopsy: This test might be done to see if neuroblastoma has spread to the bone marrow (the soft, inner parts of some bones). A doctor uses thin, hollow needles to remove small amounts of bone marrow, usually from the hip bone. The samples are sent to a lab to check them for cancer cells.
+
+How serious is my child’s neuroblastoma?
+Children with neuroblastoma are divided into risk groups, based on things like the child’s age, how far the cancer has grown or spread, and if the cancer cells have certain gene changes. The risk group helps doctors decide which treatment options are best. Ask the doctor to explain which risk group your child might be in and what it means for their outlook and treatment.
+Questions to ask the doctor
+
+Which neuroblastoma risk group is my child in? What does this mean?
+Are there any other factors that might affect my child’s outlook?
+Will we will need to see other doctors?
+How much experience do you have treating neuroblastoma?
+Will my child need any other tests?
+Who will do these tests?
+Where will they be done?
+How and when will we get the results?
+Who will explain the results?
+Does the tumor need to be treated? If so, how soon do we need to start treatment?
+What will happen next?
+
+What kind of treatment will my child need?
+The treatment plan that’s best for your child will depend on:
+
+The risk group of the neuroblastoma
+The chance that a type of treatment will help
+Your feelings about the treatment and the side effects that could come with it
+
+Surgery
+Surgery to remove the tumor may be the only treatment needed for small neuroblastomas. If neuroblastomas are large or if they have spread, other treatment will be given as well.
+Chemo
+Chemotherapy (chemo) is the use of drugs to kill cancer cells. Children in certain risk groups need chemo as part of their treatment. It's one of the main treatments for most neuroblastomas that have spread to other parts of the body. Sometimes chemo is given before surgery, and sometimes after surgery.
+Doctors give chemo in cycles, with each cycle followed by a rest period. Children often get more than one chemo drug at different times.
+Side effects of chemo
+Chemo can have side effects like:
+
+Hair loss
+Mouth sores
+Loss of appetite
+Diarrhea
+Nausea and vomiting
+Increased risk of infections (because of low white blood cell counts)
+Bruising and bleeding easily (from low platelet counts)
+Tiredness (caused by low red blood cell counts)
+
+These problems tend to go away after treatment ends. There are ways to treat most chemo side effects, so be sure to talk to your child’s cancer care team so they can help.
+Immunotherapy
+Immunotherapy drugs are newer treatments that help the immune system attack the cancer. Some are now being used to treat high-risk neuroblastomas. Many others are now being studied as well.
+Retinoid therapy
+Retinoids are chemicals that are like vitamin A. Sometimes a retinoid drug is given after other treatment for neuroblastoma. Talk to your child's doctor to know if this kind of treatment may help with your child's neuroblastoma.
+Radiation treatments
+External beam radiation
+Radiation uses high-energy rays (like x-rays) to kill cancer cells. Most children with neuroblastoma don’t need radiation, but some might, depending on their risk group. Ask your child’s doctor if radiation will be part of the treatment and what to expect.  Side effects of external radiation
+If your child’s doctor suggests radiation treatment, ask about what side effects might happen. Side effects depend on where the radiation is aimed. The most common side effects of radiation are:
+
+Skin changes in the area where the radiation is given
+Feeling very tired
+
+These side effects tend to get better after treatment ends. Radiation can also cause long-term effects if it reaches the brain, heart, lungs, or other organs. Talk to your child’s cancer care team about what to expect.
+MIBG radiotherapy
+MIBG therapy is a kind of radiation therapy. It uses a chemical with radiation attached to it, which is injected into the blood to treat neuroblastoma.
+Side effects of MIBG
+There are usually no serious side effects to MIBG therapy. The most common side effects are:
+
+Nausea and vomiting
+Feeling tired
+Swollen cheeks
+
+High-dose chemo and stem cell transplant
+For children at high risk of the neuroblastoma returning after treatment, one or two stem cell transplants might be advised. In this treatment, a child is given high doses of chemo (higher than could normally be given because of the damage it does to the bone marrow, where new blood cells are made). The child then gets blood stem cells to help rebuild the bone marrow. Other treatments, such as radiation therapy, retinoid therapy, and immunotherapy might be given after the transplant.
+This is a complex treatment that can have major side effects (mainly from the high doses of chemo), so it needs to be done in a center that has experience doing stem cell transplants.
+Clinical trials
+Clinical trials are research studies that test new drugs or other treatments in people. They compare standard treatments with others that may be better. Clinical trials are one way to get the newest cancer treatment. They are the best way for doctors to find better ways to treat cancer. If your doctor can find a clinical trial that might be right for your child, it’s up to you whether to take part. And you can always stop at any time.
+If you would like to learn more about clinical trials that might be right for your child, start by asking your doctor if your clinic or hospital conducts clinical trials. See Clinical Trials to learn more.
+What about other treatments I hear about?
+When your child has neuroblastoma, you might hear about other ways to treat the cancer or its symptoms. These may not always be standard medical treatments. These treatments may be vitamins, herbs, special diets, and other things. You may wonder about these treatments.
+Some of these are known to help, but many have not been tested. Some have been shown not to help. A few have even been found to be harmful. Talk to your child’s doctor about anything you’re thinking about using, whether it’s a vitamin, a diet, or anything else.
+Questions to ask the doctor
+
+What are our treatment choices?
+What do you recommend and why?
+What’s the goal of this treatment? Do you think it could cure the neuroblastoma?
+Will my child need other types of treatment, too?
+What’s the goal of these treatments?
+What side effects could my child have from these treatments?
+What can we do about side effects?
+Is there a clinical trial that might be right for my child?
+What about special vitamins or diets that friends tell me about? How will we know if they are safe?
+How soon do we need to start treatment?
+What should we do to be ready for treatment?
+Is there anything we can do to help the treatment work better?
+Should we think about a stem cell transplant?
+What’s the next step?
+
+What will happen after treatment?
+You’ll be glad when treatment is over. But it’s hard not to worry about cancer coming back. Even when cancer never comes back, people still worry about it. For years after treatment ends, your child will see their cancer doctor. Be sure they go to all of these follow-up visits. Your child will have exams, blood tests, and maybe other tests to see if the cancer has come back.
+These doctor visits may be very frequent at first. Then, the longer your child is cancer-free, the less often the visits are needed.

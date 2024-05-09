@@ -1,0 +1,811 @@
+Cancer of the esophagus (also called esophageal cancer) starts when cells in the lining of the esophagus begin to grow out of control. Cells in nearly any part of the body can become cancer, and can spread to other areas of the body. To learn more about how cancers start and spread, see What Is Cancer?
+To understand esophagus cancer, it helps to know about the normal structure and function of the esophagus.
+The esophagus
+The esophagus is a hollow, muscular tube that connects the throat to the stomach. It lies behind the trachea (windpipe) and in front of the spine. In adults, the esophagus is usually between 10 and 13 inches (25 to 33 centimeters [cm]) long and is about ¾ of an inch (2cm) across at its smallest point.The American Cancer Society’s estimates for esophageal cancer in the United States for 2024 are:
+
+About 22,370 new esophageal cancer cases diagnosed (17,690 in men and 4,680 in women)
+About 16,130 deaths from esophageal cancer (12,880 in men and 3,250 in women)
+
+Esophageal cancer is more common among men than among women. The lifetime risk of esophageal cancer in the United States is about 1 in 127 in men and about 1 in 434 in women. (See Esophageal Cancer Risk Factors to learn about factors that can affect these chances.)
+Overall, the rates of esophageal cancer in the United States have been fairly stable for many years, but over the past decade they have been decreasing slightly. It is most common in White people. Adenocarcinoma is the most common type of esophagus cancer among White people, but squamous cell carcinoma is more common in African Americans. American Indian, Alaska Natives, and Hispanics have lower rates of esophageal cancer, followed by Asians and Pacific Islanders.
+Esophageal cancer makes up about 1% of all cancers diagnosed in the United States, but it is much more common in other parts of the world, such as Iran, northern China, India, and southern Africa.
+For information on survival, see Survival Rates for Cancer of the Esophagus by Stage.
+Visit the American Cancer Society’s Cancer Statistics Center for more key statistics.Research into the causes, prevention, and treatment of esophageal cancer is now being done at many medical centers, university hospitals, and other institutions around the world.
+Genetics
+Researchers have found 4 inherited syndromes that raise the risk of esophageal cancer. They have found specific genes related to 3 of these syndromes, and more research is being done. Researchers hope to find additional genes and to come up with more detailed recommendations for screening to find esophageal cancer early in people at high risk because of these syndromes.
+Tests
+Liquid biopsy
+Researchers are studying liquid biopsies for cancer screening, diagnosis, and treatment. Most liquid biopsies are done using a sample of blood, but samples of urine, spinal fluid, or pleural effusions (fluid around the lungs) can also be used. It is much easier to get a sample of blood for testing than to get a sample of the tumor with a needle, and studies have shown that liquid biopsies do contain tumor cells as well as pieces of DNA from the tumor.
+Current research is testing esophageal cancer DNA from liquid biopsies to find specific mutations. Researchers are hoping to find out if the gene changes could help doctors choose the best drugs for patients. Studies are also looking at whether the liquid biopsy tumor DNA can help predict how the tumor might respond to certain drugs, or how likely it might be to come back after treatment.
+Imaging tests
+Currently, people with esophageal cancer who get chemo or chemoradiation before surgery (neoadjuvant treatment) will have another imaging test after treatment to find out whether the tumor has gotten small enough to do surgery. Researchers are studying if a PET scan can help doctors decide the next step in treatment. For example, should people who were treated with neoadjuvant chemotherapy whose PET scans still show signs of cancer be treated with radiation therapy or a different chemotherapy to try and shrink the cancer more before getting surgery?
+Treatment
+Chemotherapy
+Many studies are testing what the best order of treatment is for esophageal cancer. Around the world, different combinations of treatment are used. Studies are looking to see if one combination is better than the other. For example, is chemotherapy better than chemoradiation? Is chemotherapy or chemoradiation better if given before surgery or after surgery? Do certain chemo drugs work better with radiation than others to shrink the tumor? 
+Immunotherapy and Targeted Therapy
+Immunotherapy drugs known as checkpoint inhibitors are useful in some other cancers and are now coming into use for esophageal cancer. For example, the drug pembrolizumab (Keytruda) is approved to treat some advanced cancers of the esophagus and gastroesophageal junction. Targeted therapy with drugs such as trastuzumab and ramucirumab is also approved for treatment of advanced esophageal cancer.
+There are studies now looking at using immunotherapy or targeted therapy drugs with or without chemotherapy before or after surgery in patients with potentially curable cancers to see if tumors will shrink more or have less of a chance of coming back.A risk factor is anything that increases your chance of getting a disease such as cancer. Different cancers have different risk factors. Some risk factors, like smoking, can be changed. Others, like a person’s age or family history, can’t be changed.
+Scientists have found several factors that can affect your risk of esophageal cancer. Some are more likely to increase the risk for adenocarcinoma of the esophagus and others for squamous cell carcinoma of the esophagus.
+But having a risk factor, or even many, does not mean that you will get esophageal cancer. And some people who get the disease may not have any known risk factors.
+Age
+The chance of getting esophageal cancer increases with age. Fewer than 15% of cases are found in people younger than age 55.
+Sex
+Men are more likely than women to get esophageal cancer.
+Tobacco and alcohol
+The use of tobacco products, including cigarettes, cigars, pipes, and chewing tobacco, is a major risk factor for esophageal cancer. The more a person uses tobacco and the longer it is used, the higher the cancer risk.
+Someone who smokes a pack of cigarettes a day or more has at least twice the chance of getting adenocarcinoma of the esophagus than a nonsmoker, and the risk does not go away if tobacco use stops. The link to squamous cell esophageal cancer is even stronger, but this risk does go down for people who quit tobacco.
+Drinking alcohol also increases the risk of esophageal cancer. The more alcohol someone drinks, the higher their chance of getting esophageal cancer. Alcohol increases the risk of squamous cell carcinoma more than the risk of adenocarcinoma.
+Smoking combined with drinking alcohol raises the risk of the squamous cell type of esophageal cancer much more than using either alone.
+Gastroesophageal reflux disease
+The stomach normally makes strong acid and enzymes to help digest food. In some people, acid can escape from the stomach up into the lower part of the esophagus. The medical term for this is gastroesophageal reflux disease (GERD), or just reflux. In many people, reflux causes symptoms such as heartburn or pain that seem to come from the middle of the chest. In some, though, reflux doesn’t cause any symptoms at all.
+People with GERD have a slightly higher risk of getting adenocarcinoma of the esophagus. This risk seems to be higher in people who have more frequent symptoms. But GERD is very common, and most of the people who have it do not go on to develop esophageal cancer. GERD can also cause Barrett’s esophagus (discussed below), which is linked to an even higher risk.
+Barrett’s esophagus
+If reflux of stomach acid into the lower esophagus goes on for a long time, it can damage the inner lining of the esophagus. This causes the squamous cells that normally line the esophagus to be replaced with gland cells. These gland cells usually look like the cells that line the stomach and the small intestine, and are more resistant to stomach acid. This condition is known as Barrett’s (or Barrett) esophagus.
+The longer someone has reflux, the more likely it is that they will develop Barrett’s esophagus. Most people with Barrett’s esophagus have had symptoms of heartburn, but many have no symptoms at all. People with Barrett’s esophagus are at a much higher risk than people without this condition to develop adenocarcinoma of the esophagus. Still, most people with Barrett’s esophagus do not get esophageal cancer.
+The gland cells in Barrett’s esophagus can become more abnormal over time. This can result in dysplasia, a pre-cancerous condition. Dysplasia is graded by how abnormal the cells look under the microscope. Low-grade dysplasia looks more like normal cells, while high-grade dysplasia is more abnormal. High-grade dysplasia is linked to the highest risk of cancer.
+Obesity
+People who are overweight or obese (very overweight) have a higher chance of getting adenocarcinoma of the esophagus. This is in part explained by the fact that people with obesity are more likely to have gastroesophageal reflux.
+Diet
+Certain substances in the diet may increase esophageal cancer risk. For example, there have been suggestions, as yet not well proven, that a diet high in processed meat may increase the chance of developing esophageal cancer. This may help explain the high rate of this cancer in certain parts of the world.
+On the other hand, a diet high in fruits and vegetables probably lowers the risk of esophageal cancer. The exact reasons for this are not clear, but fruits and vegetables have a number of vitamins and minerals that may help prevent cancer.
+Frequently drinking very hot liquids (temperatures of 149° F or 65° C - much hotter than a typical cup of coffee) may increase the risk for the squamous cell type of esophageal cancer. This might be the result of long-term damage to the cells lining the esophagus from the hot liquids.
+Physical inactivity
+People who engage in regular physical activity may have a lower risk of adenocarcinoma of the esophagus.
+Achalasia
+In this condition, the muscle at the lower end of the esophagus (the lower esophageal sphincter) does not relax properly. Food and liquid that are swallowed have trouble passing into the stomach and tend to collect in the lower esophagus, which becomes stretched out (dilated) over time. The cells lining the esophagus in that area can become irritated from being exposed to foods for longer than normal amounts of time.
+People with achalasia have a risk of esophageal cancer that is many times normal. On average, the cancers are found about 15 to 20 years after the achalasia began.
+Tylosis
+This is a rare, inherited disease that causes extra growth of the top layer of skin on the palms of the hands and soles of the feet. People with this condition also develop small growths (papillomas) in the esophagus and have a very high risk of getting squamous cell cancer of the esophagus.
+People with tylosis need to be watched closely to try to find esophageal cancer early. Often this requires regular monitoring with an upper endoscopy (described in Tests for Esophagus cancer).
+Plummer-Vinson syndrome
+People with this rare syndrome (also called Paterson-Kelly syndrome) have webs in the upper part of the esophagus, typically along with anemia (low red blood cell counts) due to low iron levels, tongue inflammation (glossitis), brittle fingernails, and sometimes a large spleen.
+A web is a thin piece of tissue extending out from the inner lining of the esophagus that causes an area of narrowing. Most esophageal webs do not cause any problems, but larger ones can cause food to get stuck in the esophagus, which can lead to problems swallowing and chronic irritation in that area from the trapped food.
+About 1 in 10 people with this syndrome eventually develop squamous cell cancer of the esophagus or cancer in the lower part of the throat (hypopharynx).
+Injury to the esophagus
+Lye is a chemical found in strong industrial and household cleaners such as drain cleaners. Lye is a corrosive agent that can burn and destroy cells. Accidentally drinking a lye-based cleaner can cause a severe chemical burn in the esophagus. As the injury heals, the scar tissue can cause an area of the esophagus to become very narrow (called a stricture). People with these strictures have an increased risk of squamous cell esophageal cancer, which often occurs many years (even decades) later.
+History of certain other cancers
+People who have had certain other cancers, such as lung cancer, mouth cancer, and throat cancer have a high risk of getting squamous cell carcinoma of the esophagus as well. This may be because these cancers can also be caused by smoking.
+Human papillomavirus (HPV) infection
+HPV is a group of more than 100 related viruses. They are called papillomaviruses because some of them cause a type of growth called a papilloma (or wart). Infection with certain types of HPV is linked to a number of cancers, including throat cancer, anal cancer, and cervical cancer.
+Signs of HPV infection have been found in up to one-third of esophagus cancers from people in parts of Asia and South Africa. But signs of HPV infection have not been found in esophagus cancers from people in the other areas, including the US. HPV is a rare cause of esophageal cancer.We do not yet know exactly what causes most esophageal cancers. However, there are certain risk factors that make getting esophageal cancer more likely. (See Esophageal Cancer Risk Factors.)
+Scientists believe that some risk factors, such as the use of tobacco or alcohol, may cause esophageal cancer by damaging the DNA in cells that line the inside of the esophagus. Long-term irritation of the lining of the esophagus, as happens with reflux, Barrett’s esophagus, achalasia, Plummer-Vinson syndrome, or scarring from swallowing lye, may also lead to DNA damage.
+Cancer is caused by changes in the DNA inside our cells. DNA is the chemical in each of our cells that makes up our genes – which control how our cells function. We usually look like our parents because they are the source of our DNA. But DNA affects more than how we look.
+Some genes control when cells grow, divide into new cells, and die.
+
+Certain genes that help cells grow, divide, and stay alive are called oncogenes.
+Genes that help keep cell division under control or cause cells to die at the right time are called tumor suppressor genes.
+
+Cancers can be caused by DNA mutations (changes) that turn on oncogenes or turn off tumor suppressor genes. This leads to cells growing out of control. Changes in many different genes are usually needed to cause esophageal cancer.
+The DNA of esophageal cancer cells often shows changes in many different genes. However, it’s not clear if there are specific gene changes that can be found in all (or most) esophageal cancers.
+For more about how genes changes can lead to cancer, see Genes and Cancer.
+Inherited gene ﻿mutations
+Some DNA mutations can be passed on in families and are found in all of a person's cells. These are called inherited mutations. A very small number of esophageal cancers are caused by inherited gene mutations. Some of these DNA changes and their effects on the growth of cells have been discovered and are being studied further. For example:
+
+Tylosis with esophageal cancer (sometimes called Howel-Evans syndrome) is caused by inherited changes in the RHBDF2 gene. People with changes in this gene are more at risk of developing the squamous cell type of esophageal cancer.
+Bloom syndrome is caused by changes in the BLM gene. The BLM gene is important in making a protein that stabilizes DNA as a cell divides. Without this protein, the DNA can become damaged, which can lead to cancer. People with Bloom syndrome are at a higher risk of developing squamous cell esophageal cancer, as well as AML, ALL, and other cancers involving the lymph system. For this syndrome, an abnormal gene is usually inherited from both parents, not just one.
+Fanconi anemia is a rare syndrome that involves abnormal genes that cannot repair damaged DNA. Mutations (changes) in certain FANC genes can lead to a higher risk of many cancers including AML and squamous cell cancer of the esophagus.   
+Familial Barrett’s Esophagus is a syndrome that includes families with Barrett’s esophagus and adenocarcinoma of the esophagus and GE junction. The exact genes associated with this are still being studied.
+
+Special genetic tests can find some of the gene mutations linked to these inherited syndromes. If you have a family history of esophageal cancer or other symptoms linked to these syndromes, you may want to ask your doctor about genetic counseling and genetic testing. The American Cancer Society recommends discussing genetic testing with a qualified cancer genetics professional before any genetic testing is done. For more on this, see Understanding Genetic Testing for Cancer and What Happens during Genetic Testing for Cancer?
+Acquired gene mutations
+Most gene mutations that lead to cancer are ﻿acquired mutations. They happen during a person’s lifetime and are not passed on to their children.
+In most cases of esophageal cancer, the DNA mutations that lead to cancer are acquired during a person’s life rather than having been inherited.
+Certain risk factors, such as tobacco and alcohol use, probably play a role in causing these acquired mutations, but so far it’s not known what causes most of them.Not all esophageal cancers can be prevented, but the risk of developing this disease can be greatly reduced by avoiding certain risk factors.
+Avoid tobacco and alcohol
+In the United States, the most important lifestyle risk factors for cancer of the esophagus are the use of tobacco and alcohol. Each of these factors alone increases the risk of esophageal cancer many times, and the risk is even greater if they are combined. Avoiding tobacco and alcohol is one of the best ways of limiting your risk of esophageal cancer. If you or someone you know would like to quit tobacco, call us at 1-800-227-2345 or see Stay Away from Tobacco.
+Watch your diet, body weight, and physical activity
+Following a healthy eating pattern and staying at a healthy weight are also important. A diet rich in fruits and vegetables may help lower esophageal cancer risk. Obesity has been linked with esophageal cancer, particularly the adenocarcinoma type, so staying at a healthy weight may also help limit the risk of this disease. Being physically active may also reduce your risk of esophageal cancer. 
+For more on this, read our American Cancer Society Guidelines for Diet and Physical Activity for Cancer Prevention.
+Get treated for reflux or Barrett’s esophagus
+Treating people with reflux may help prevent Barrett’s esophagus and esophageal cancer. Often, reflux is treated with changes in diet and lifestyle (for example, weight loss for overweight individuals), as well as drugs called H2 blockers or proton pump inhibitors (PPIs). Surgery might also be an option for treating reflux if the reflux is not controlled with diet, lifestyle changes, and medicines.
+People at a higher risk for esophageal cancer, such as those with Barrett’s esophagus, are often watched closely by their doctors with endoscopies to look for signs that the cells lining the esophagus have become more abnormal. (See Can Esophageal Cancer Be Found Early?) If dysplasia (a pre-cancerous condition) is found, the doctor may recommend treatments to keep it from developing into esophageal cancer.
+For those who have Barrett’s esophagus, daily treatment with a PPI might lower the risk of developing cell changes (dysplasia) that can turn into cancer. If you have chronic heartburn (or reflux), tell your doctor. Treatment can often improve symptoms and might prevent future problems.
+Some studies have found that the risk of cancer of the esophagus is lower in people with Barrett’s esophagus who take aspirin or other non-steroidal anti-inflammatory drugs (NSAIDs), such as ibuprofen. However, taking these drugs every day can lead to problems, such as kidney damage and bleeding in the stomach. For this reason, most doctors don’t advise that people take NSAIDs to try to prevent esophageal cancer. If you are thinking of taking an NSAID regularly, discuss the potential benefits and risks with your doctor first.Screening is the process of looking for cancer or pre-cancer in people who have no symptoms of the disease. In the United States, screening the general public for esophageal cancer is not recommended by any professional organization at this time. This is because no screening test has been shown to lower the risk of dying from esophageal cancer in people who are at average risk.
+However, people who have a high risk of esophageal cancer, such as those with Barrett’s esophagus, are often followed closely to look for early cancers and pre-cancers.
+Testing people at high risk
+Barrett's esophagus
+Many experts recommend that people with a high risk of esophageal cancer, such as those with Barrett’s esophagus, have upper endoscopy regularly. For this test, the doctor looks at the inside of the esophagus through a flexible lighted tube called an endoscope. (see Tests for Esophageal Cancer.) The doctor may remove small samples of tissue (biopsies) from the abnormal area so that they can be checked for dysplasia (pre-cancer cells) or cancer cells.
+Doctors aren’t certain how often the test should be repeated, but most recommend testing more often if areas of dysplasia are found. This testing is repeated even more often if there is high-grade dysplasia (the cells appear very abnormal).
+If the area of Barrett’s is large and/or there is high-grade dysplasia, treatment of the abnormal area might be advised because of the high risk that an adenocarcinoma is either already present (but was not found) or will develop within a few years. Treatment options for high-grade dysplasia might include surgery to remove part of the esophagus with the abnormal area, endoscopic mucosal resection (EMR), photodynamic therapy (PDT), or radiofrequency ablation (RFA). See Endoscopic Treatments for Esophageal Cancer. The outlook for these patients is relatively good after treatment.
+Inherited syndromes
+People with inherited syndromes (sometimes called hereditary syndromes) that put them at increased risk of developing esophageal cancer, might also need frequent endoscopies to look for cancer or pre-cancer. For example, people with tylosis or Bloom syndrome should consider screening with an upper endoscopy after turning 20 years old. People who have family members with familial (inherited) Barrett’s esophagus should consider screening with an upper endoscopy after 40 years old. If you have one of these inherited syndromes, it is best to speak with your doctor about cancer screening and what is right for you.
+Careful monitoring and treatment (if needed) may help prevent some esophageal cancers from developing. It may also detect some cancers early, when they are more likely to be treated successfully.Most people with esophageal cancer are diagnosed because they have symptoms. It's rare for people without symptoms to be diagnosed with this cancer. When it does happen, the cancer is usually found by accident because of tests done for other medical problems.
+Unfortunately, most esophageal cancers do not cause symptoms until they have reached an advanced stage, when they are harder to treat.
+The most common symptoms of esophageal cancer are:
+
+Trouble swallowing
+Chest pain
+Weight loss
+Hoarseness
+Chronic cough
+Vomiting
+Bone pain (if cancer has spread to the bone)
+Bleeding into the esophagus. This blood then passes through the digestive tract, which may turn the stool black. Over time, this blood loss can lead to anemia (low red blood cell levels), which can make a person feel tired.
+
+Having one or more symptoms does not mean you have esophageal cancer. In fact, many of these symptoms are more likely to be caused by other conditions. Still, if you have any of these symptoms, especially trouble swallowing, it’s important to have them checked by a doctor so that the cause can be found and treated, if needed.
+Trouble swallowing
+The most common symptom of esophageal cancer is a problem swallowing (called dysphagia). It can feel like the food is stuck in the throat or chest, and can even cause someone to choke on their food. This is often mild when it starts, and then gets worse over time as the cancer grows and the opening inside the esophagus gets smaller.
+When swallowing becomes harder, people often change their diet and eating habits without realizing it. They take smaller bites and chew their food more carefully and slowly. As the cancer grows larger, the problem can get worse. People then might start eating softer foods that can pass through the esophagus more easily. They might avoid bread and meat, since these foods typically get stuck. The swallowing problem may even get bad enough that some people stop eating solid food completely and switch to a liquid diet. If the cancer keeps growing, at some point even liquids might be hard to swallow.
+To help pass food through the esophagus, the body makes more saliva. This causes some people to complain of bringing up lots of thick mucus or saliva (spit).
+Chest pain
+Sometimes, people have pain or discomfort in the middle part of their chest. Some people get a feeling of pressure or burning in the chest. These symptoms are more often caused by problems other than cancer, such as heartburn, so they are rarely seen as a signal that a person might have cancer.
+Swallowing may become painful if the cancer is large enough to limit the passage of food through the esophagus. The medical term for painful swallowing is odynophagia.  Pain may be felt a few seconds after swallowing, as food or liquid reaches the tumor and has trouble getting around it.
+Weight loss
+Many people with esophageal cancer lose weight without trying to. This happens because their swallowing problems keep them from eating enough to maintain their weight. The cancer might also decrease their appetite and increase their metabolism.Esophagus cancers are usually found because of signs or symptoms a person is having. If esophagus cancer is suspected, exams, tests, and a biopsy (a sample of esophagus cells) will be needed to confirm the diagnosis. If cancer is found, further tests will be done to help determine the extent (stage) of the cancer.
+Medical history and physical exam
+If you have symptoms that might be caused by esophageal cancer, the doctor will ask about your medical history to learn about your symptoms and possible risk factors.
+Your doctor will also examine you closely to look for possible signs of esophageal cancer and other health problems.
+If the results of your history and physical exam suggest you might have esophageal cancer, more tests will be done. These could include imaging tests and/or biopsies of the esophagus. You may also be referred to a gastroenterologist (a doctor specializing in digestive system diseases) for further tests and treatment.
+Imaging tests for esophagus cancer
+Imaging tests use x-rays, magnetic fields, sound waves, or radioactive substances to create pictures of the inside of your body. Imaging tests might be done for a number of reasons both before and after a diagnosis of esophageal cancer, including:
+
+To look at a suspicious area that might be cancer
+To learn how far cancer might have spread
+To help determine if the treatment is working
+To look for possible signs of cancer coming back after treatment
+
+Barium swallow test
+If you're having trouble swallowing, sometimes a barium swallow is the first test done. In this test, you will be asked to swallow a thick, chalky liquid called barium to coat the walls of the esophagus. When x-rays are taken, the barium outlines the esophagus. This test can be done by itself, or as a part of a series of x-rays called an upper gastrointestinal (GI) series, that includes the stomach and part of the intestine
+A barium swallow test can show any abnormal areas in the normally smooth inner lining of the esophagus, but it can't be used to determine how far a cancer may have spread outside of the esophagus.
+This test can show even small, early cancers. Early cancers can look like small round bumps or flat, raised areas (called plaques), while advanced cancers look like large irregular areas and can cause narrowing of the inside of the esophagus.
+This test can also be used to diagnose one of the more serious complications of esophageal cancer called a tracheo-esophageal fistula. This occurs when the tumor destroys the tissue between the esophagus and the trachea(windpipe) and creates a hole connecting them. Anything that is swallowed can then pass from the esophagus into the windpipe and lungs. This can lead to frequent coughing, gagging, or even pneumonia. This problem can be helped with surgery or an endoscopy procedure.
+Computed tomography (CT) scan
+A CT scan uses x-rays to make detailed cross-sectional images of your body. Instead of taking 1 or 2 pictures, like a regular x-ray, a CT scanner takes many pictures and a computer then combines them to show a slice of the part of your body being studied.
+This test can help tell if esophageal cancer has spread to nearby organs and lymph nodes (bean-sized collections of immune cells to which cancers often spread first) or to distant parts of the body.
+Before the test, you may be asked to drink 1 to 2 pints of a liquid called oral contrast. This helps outline the esophagus and intestines. If you are having any trouble swallowing, you need to tell your doctor before the scan.
+CT-guided needle biopsy: If a suspected area of cancer is deep within your body, a CT scan might be used to guide a biopsy needle into this area to get a tissue sample to check for cancer.
+Magnetic resonance imaging (MRI) scan
+Like CT scans, MRI scans show detailed images of soft tissues in the body. But MRI scans use radio waves and strong magnets instead of x-rays. MRI can also be used to look for possible cancer spread to the brain and spinal cord.
+Positron emission tomography (PET) scan
+For a PET scan, a slightly radioactive form of sugar (known as FDG) is injected into the blood and collects mainly in cancer cells. These areas of radioactivity can be seen on a PET scan using a special camera.
+PET/CT scan: Sometimes a PET scan is combined with a CT scan using a special machine that can do both at the same time. This lets the doctor compare areas of higher radioactivity on the PET scan with the more detailed picture of that area on the CT scan.
+PET/CT scans can be useful:
+
+In diagnosing esophageal cancer.
+If your doctor thinks the cancer might have spread but doesn’t know where. They can show spread of cancer to the liver, bones, or some other organs. They are not as useful for looking at the brain or spinal cord.
+
+Endoscopy
+An endoscope is a flexible, narrow tube with a tiny video camera and light on the end that is used to look inside the body. Tests that use endoscopes can help diagnose esophageal cancer or determine the extent of its spread.
+Upper endoscopy
+This is an important test for diagnosing esophageal cancer. During an upper endoscopy, you are sedated (made sleepy) and then the doctor passes an endoscope (a thin, flexible tube with a light and a small video camera on the end) down your throat and into the esophagus and stomach. The endoscope's camera is connected to a monitor, which lets the doctor see any abnormal areas in the wall of the esophagus clearly.
+The doctor can use special instruments through the scope to remove (biopsy) tissue samples from any abnormal areas. These samples are sent to the lab to check if they contain cancer.
+If the esophageal cancer is blocking the opening (called the lumen) of the esophagus, certain instruments can be used to help enlarge the opening to help food and liquid pass.
+Upper endoscopy can give the doctor important information about the size and spread of the tumor, which can be used to help determine if the tumor can be removed with surgery.
+Endoscopic ultrasound
+This test is usually done at the same time as the upper endoscopy. For an endoscopic ultrasound, a probe that gives off sound waves is at the end of an endoscope. This allows the probe to get very close to tumors in the esophagus. This test is very useful in determining the size of an esophageal cancer and how far it has grown into nearby areas. It can also help show if nearby lymph nodes might be affected by the cancer. If enlarged lymph nodes are seen on the ultrasound, the doctor can pass a thin, hollow needle through the endoscope to get biopsy samples of them. This helps the doctor decide if the tumor can be removed with surgery.
+Bronchoscopy
+This exam may be done for cancer in the upper part of the esophagus to see if it has spread to the trachea (windpipe) or the bronchi (tubes leading from the windpipe into the lungs).
+Thoracoscopy and laparoscopy
+These exams let the doctor see lymph nodes and other organs near the esophagus inside the chest (by thoracoscopy) or the abdomen (by laparoscopy) through a hollow lighted tube and can be used to get biopsy samples.
+These procedures are done in an operating room while you are under general anesthesia (in a deep sleep). A small incision (cut) is made in the side of the chest wall (for thoracoscopy) or the abdomen (for laparoscopy). Sometimes more than one cut is made. The doctor then inserts a scope (a thin, lighted tube with a small video camera on the end) through the incision to view the space around the esophagus. The surgeon can pass thin tools into the space to remove lymph nodes and biopsy samples to see if the cancer has spread. This information is often important in deciding whether a person is likely to benefit from surgery.
+Lab tests of biopsy samples
+Usually if a suspected esophageal cancer is found on endoscopy or an imaging test, it is biopsied. In a biopsy, the doctor removes a small piece of tissue with a cutting instrument passed through the scope.
+HER2 testing: If esophageal cancer is too advanced for surgery, your biopsy samples may be tested for the HER2 gene or protein. In some people, the esophageal cancer cells make too much of the HER2 protein, which helps them grow. Drugs that target the HER2 protein may help treat these cancers. Only cancers that have too much of the HER2 gene or protein are likely to benefit from these drugs, which is why doctors may test tumor samples for it. (See Targeted Drug Therapy for Esophageal Cancer.)
+PD-L1 testing: Some esophageal cancers may be tested to see how much of the PD-L1 protein the cancer cells have. Tumors with more of this protein might be more likely to be helped by an immunotherapy drug.
+MMR and MSI testing: Esophageal cancer cells might be tested to see if they show high levels of gene changes called microsatellite instability (MSI), or if they have changes in any of the mismatch repair (MMR) genes (MLH1, MSH2, MSH6, and PMS2).
+Esophageal cancers that test positive for MMR changes or high MSI and cannot be treated with surgery, have come back after initial treatment, or have spread to other parts of the body might benefit from treatment with an immunotherapy drug.
+See Testing Biopsy and Cytology Specimens for Cancer to learn more about the types of biopsies, how the tissue is used in the lab to diagnose cancer, and what the results may show.
+Blood tests
+Your doctor might order certain blood tests if they think you have esophageal cancer.
+Complete blood count (CBC): This test measures the different types of cells in your blood. It can show if you have anemia (too few red blood cells). Some people with esophageal cancer have low red blood cell counts because the tumor has been bleeding.
+Liver enzymes: You may also have a blood test to check your liver function, because esophageal cancer can sometimes spread to the liver.After someone is diagnosed with esophageal cancer, doctors will try to figure out if it has spread, and if so, how far. This process is called staging. The stage of a cancer describes how much cancer is in the body. It helps determine how serious the cancer is and how best to treat it. Doctors also use a cancer's stage when talking about survival statistics.
+The earliest stage esophageal cancers are called stage 0 (high grade dysplasia). It then ranges from stage I (1) through IV (4). As a rule, the lower the number, the less the cancer has spread. A higher number, such as stage IV, means cancer has spread more. And within a stage, an earlier letter means a lower stage. Although each person’s cancer experience is unique, cancers with similar stages tend to have a similar outlook and are often treated in much the same way.
+Most esophageal cancers start in the innermost lining of the esophagus (the epithelium) and then grow into deeper layers over time.
+How is the stage determined?
+The staging system most often used for esophageal cancer is the American Joint Committee on Cancer (AJCC) TNM system, which is based on 3 key pieces of information:
+
+The extent (size) of the tumor (T): How far has the cancer grown into the wall of the esophagus? Has the cancer reached nearby structures or organs? (See What Is Cancer of the Esophagus? to learn about the layers of the esophagus wall.)
+The spread to nearby lymph nodes (N): Has the cancer spread to nearby lymph nodes?
+The spread (metastasis) to distant sites (M): Has the cancer spread to distant lymph nodes or distant organs such as the lungs or liver?
+
+Numbers or letters after T, N, and M provide more details about each of these factors. Higher numbers mean the cancer is more advanced. Once a person’s T, N, and M categories have been determined, this information is combined in a process called stage grouping to assign an overall stage. For more information see Cancer Staging.
+Staging systems for esophageal cancer
+Since esophageal cancer can be treated in different ways, different staging systems have been created for each situation:
+
+Pathological stage (also called the surgical stage): If surgery is done first, the pathological stage is determined by examining tissue removed during an operation. This is the most common system used.
+Clinical stage: If surgery might not be possible or will be done after other treatment is given, then the clinical stage is determined based on the results of a physical exam, biopsy, and imaging tests. The clinical stage will be used to help plan treatment, but it might not predict outlook as accurately as the pathologic stage. This is because sometimes the cancer has spread further than the clinical stage estimates.
+Postneoadjuvant stage: If chemotherapy or radiation is given before surgery(this is called neoadjuvant therapy), then a separate postneoadjuvant stage will be determined after surgery.
+
+Since most cancers are staged with the pathological stage, we have included that staging system in the tables below. If your cancer has been clinically staged or if you have had neoadjuvant therapy, it is best to talk to your doctor about your specific stage for those situations.
+Grade
+Another factor that can affect your treatment and your outlook is the grade of your cancer. The grade describes how closely the cancer looks like normal tissue when seen through a microscope.
+The scale used for grading esophagus cancers is from 1 to 3.
+
+GX: The grade cannot be evaluated.(The grade is unknown).
+Grade 1 (G1: well differentiated; low grade) means the cancer cells look more like normal esophagus cells.
+Grade 3 (G3: poorly differentiated, undifferentiated; high grade) means the cancer cells look very abnormal.
+Grades 2 (G2: moderately differentiated; intermediate) falls somewhere in between Grade 1 and Grade 3.
+
+Low-grade cancers tend to grow and spread more slowly than high-grade cancers. Most of the time, the outlook is better for low-grade cancers than it is for high-grade cancers of the same stage﻿.
+Location
+Some stages of early squamous cell carcinoma also take into account where the tumor is in the esophagus. The location is assigned as either upper, middle, or lower based on where the middle of the tumor is.
+Esophageal cancer stage descriptions
+The tables below are simplified versions of the TNM system, based on the most recent AJCC systems effective January 2018. They include staging systems for squamous cell carcinoma and adenocarcinoma. It’s important to know that esophageal cancer staging can be complex. If you have any questions about the stage of your cancer or what it means, please ask your doctor to explain it to you in a way you understand.
+Squamous Cell Carcinoma Stages
+
+
+
+AJCC Stage
+Stage description SQUAMOUS CELL CARCINOMA
+
+
+0
+The cancer is only in the epithelium (the top layer of cells lining the inside of the esophagus). It has not started growing into the deeper layers. This stage is also known as high-grade dysplasia. It has not spread to any lymph nodes or distant organs. The cancer grade does not apply. The cancer can be located anywhere in the esophagus.
+
+
+IA
+The cancer is growing into the lamina propria or muscularis mucosa (the tissue under the epithelium). It has not spread to any lymph nodes or distant organs. The cancer is grade 1 or an unknown grade and located anywhere in the esophagus.
+
+
+IB
+The cancer is growing into the lamina propria, muscularis mucosa (the tissue under the epithelium), submucosa or the thick muscle layer (muscularis propria). It has not spread to nearby lymph nodes or to distant organs. The cancer can be any grade or an unknown grade and located anywhere in the esophagus.
+
+
+  IIA
+The cancer is growing into the thick muscle layer (muscularis propria). It has not spread to nearby lymph nodes or to distant organs. The cancer can be grade 2 or 3 or an unknown grade and located anywhere in the esophagus.
+
+
+OR
+
+
+The cancer is growing into the outer layer of the esophagus (the adventitia). It has not spread to nearby lymph nodes or to distant organs. The cancer can be any of the following:
+
+Any grade and located in the lower esophagus OR
+Grade 1 and located in the upper or middle esophagus.
+
+
+
+IIB  
+The cancer is growing into the outer layer of the esophagus (the adventitia). It has not spread to nearby lymph nodes or to distant organs. The cancer can be any of the following:
+
+Grade 2 or 3 and located in the upper or middle of the esophagus OR
+An unknown grade and located anywhere in the esophagus OR
+Any grade and have an unknown location in the esophagus.
+
+
+
+OR
+
+
+The cancer is growing into the lamina propria, muscularis mucosa (the tissue under the epithelium) or into the submucosa. It has spread to 1 or 2 nearby lymph nodes. The cancer can be any grade and located anywhere in the esophagus.
+
+
+IIIA
+The cancer is growing into the lamina propria, muscularis mucosa (the tissue under the epithelium), submucosa or the thick muscle layer (muscularis propria). It has spread to no more than 6 nearby lymph nodes. It has not spread to distant organs. The cancer can be any grade and located anywhere in the esophagus.
+
+
+IIIB
+The cancer is growing into:
+
+The thick muscle layer (muscularis propria) and spread to no more than 6 nearby lymph nodes OR
+The outer layer of the esophagus (the adventitia) and spread to no more than 6 nearby lymph nodes OR
+The pleura (the thin layer of tissue covering the lungs), the pericardium (the thin sac surrounding the heart), or the diaphragm (the muscle below the lungs that separates the chest from the abdomen) and spread to no more than 2 nearby lymph nodes.
+ It has not spread to distant organs. The cancer can be any grade and located anywhere in the esophagus.
+
+
+IVA
+The cancer is growing into:
+
+The pleura (the thin layer of tissue covering the lungs), the pericardium (the thin sac surrounding the heart), or the diaphragm (the muscle below the lungs that separates the chest from the abdomen) and spread to no more than 6 nearby lymph nodes OR
+The trachea (windpipe), the aorta (the large blood vessel coming from the heart), the spine, or other crucial structures and no more than 6 nearby lymph nodes OR
+Any layers of the esophagus and spread to 7 or more nearby lymph nodes.
+ It has not spread to distant organs. The cancer can be any grade and located anywhere in the esophagus.
+
+
+IVB
+The cancer has spread to distant lymph nodes and/or other organs. such as the liver and lungs. The cancer can be any grade and located anywhere in the esophagus.
+
+
+
+Adenocarcinoma stages
+The location of the cancer in the esophagus does not affect the stage of adenocarcinomas.
+
+
+
+AJCC Stage
+Stage description ADENOCARCINOMA
+
+
+0
+The cancer is only in the epithelium (the top layer of cells lining the inside of the esophagus). It has not started growing into the deeper layers. This stage is also known as high-grade dysplasia. It has not spread to any lymph nodes or distant organs. The cancer grade does not apply.
+
+
+IA
+The cancer is growing into the lamina propria or muscularis mucosa (the tissue under the epithelium). It has not spread to any lymph nodes or distant organs. The cancer is grade 1 or an unknown grade.
+
+
+IB
+The cancer is growing into the lamina propria, muscularis mucosa (the tissue under the epithelium), or the submucosa. It has not spread to nearby lymph nodes or to distant organs. The cancer can be grade 1 or 2 or an unknown grade.
+
+
+IC
+The cancer is growing into the lamina propria, muscularis mucosa (the tissue under the epithelium), submucosa or the thick muscle layer (muscularis propria). It has not spread to nearby lymph nodes or to distant organs. The cancer can be grade 1, 2 or 3.
+
+
+  IIA
+The cancer is growing into the thick muscle layer (muscularis propria). It has not spread to nearby lymph nodes or to distant organs. The cancer can be grade 3 or an unknown grade.
+
+
+IIB  
+The cancer is growing into the lamina propria, muscularis mucosa (the tissue under the epithelium), or the submucosa. It has spread to 1 or 2 nearby lymph nodes. It has not spread to distant organs. The cancer can be any grade.
+
+
+OR
+
+
+The cancer is growing into the outer layer of the esophagus (the adventitia). It has not spread nearby lymph nodes. The cancer can be any grade.
+
+
+IIIA
+The cancer is growing into the lamina propria, muscularis mucosa (the tissue under the epithelium), the submucosa, or the thick muscle layer (muscularis propria). It has spread to no more than 6 nearby lymph nodes. It has not spread to distant organs. The cancer can be any grade.
+
+
+IIIB
+The cancer is growing into:
+
+The thick muscle layer (muscularis propria) and spread to no more than 6 nearby lymph nodes OR
+The outer layer of the esophagus (the adventitia) and spread to no more than 6 nearby lymph nodes OR
+The pleura (the thin layer of tissue covering the lungs), the pericardium (the thin sac surrounding the heart), or the diaphragm (the muscle below the lungs that separates the chest from the abdomen) and spread to no more than 2 nearby lymph nodes.
+ It has not spread to distant organs. The cancer can be any grade.
+
+
+IVA
+The cancer is growing into:
+
+The pleura (the thin layer of tissue covering the lungs), the pericardium (the thin sac surrounding the heart), or the diaphragm (the muscle below the lungs that separates the chest from the abdomen) and spread to no more than 6 nearby lymph nodes OR
+The trachea (windpipe), the aorta (the large blood vessel coming from the heart), the spine, or other crucial structures and no more than 6 nearby lymph nodes OR
+Any layers of the esophagus and spread to 7 or more nearby lymph nodes.
+ It has not spread to distant organs. The cancer can be any grade.
+
+
+IVB
+The cancer has spread to distant lymph nodes and/or other organs. such as the liver and lungs. The cancer can be any grade.
+
+
+
+
+                      
+                    
+Resectable versus unresectable cancer
+The AJCC staging system provides a detailed summary of how far an esophagus cancer has spread. But for treatment purposes, doctors are often more concerned about whether the cancer can be removed completely with surgery (resected). If, based on where the cancer is located and how far it has spread, it could be removed completely by surgery, it is considered potentially resectable. If the cancer has spread too far to be removed completely, it is considered unresectable.
+As a general rule, stage 0, I, and II esophageal cancers are potentially resectable. Most stage III cancers are potentially resectable also, even when they have spread to nearby lymph nodes, as long as the cancer has not grown into the trachea (windpipe), the aorta (the large blood vessel coming from the heart), the spine, or other nearby important structures. Unfortunately, many people whose cancer is potentially resectable might not be able to have surgery to remove their cancers because they aren’t healthy enough.
+If you have localized esophageal cancer, it is often recommended that your case be discussed at a multidisciplinary meeting. In this meeting, your medical information is reviewed at one time with doctors from different specialties (for example, medical oncology, pathology, surgery, radiation oncology) who, as a group, recommend a treatment plan for you.
+Cancers that have grown into nearby structures or that have spread to distant lymph nodes or to other organs are considered unresectable, so treatments other than surgery are usually the best option.Survival rates can give you an idea of what percentage of people with the same type and stage of cancer are still alive a certain amount of time (usually 5 years) after they were diagnosed. They can’t tell you how long you will live, but they may help give you a better understanding of how likely it is that your treatment will be successful.
+Keep in mind that survival rates are estimates and are often based on previous outcomes of large numbers of people who had a specific cancer, but they can’t predict what will happen in any particular person’s case. These statistics can be confusing and may lead you to have more questions. Ask your doctor how these numbers might apply to you.
+What is a 5-year relative survival rate?
+A relative survival rate compares people with the same stage of esophageal cancer to people in the overall population. For example, if the 5-year relative survival rate for a specific stage of esophageal cancer is 60%, it means that people who have that cancer are, on average, about 60% as likely as people who don’t have that cancer to live for at least 5 years after being diagnosed.
+Where do these numbers come from?
+The American Cancer Society relies on information from the Surveillance, Epidemiology, and End Results (SEER) database, maintained by the National Cancer Institute (NCI), to provide survival statistics for different types of cancer. The SEER database tracks 5-year relative survival rates for esophageal cancer in the United States, based on how far the cancer has spread. The SEER database, however, does not group cancers by AJCC TNM stages (stage 1, stage 2, stage 3, etc.). Instead, it groups cancers into localized, regional, and distant stages:
+
+Localized means that the cancer is growing only in the esophagus.
+Regional means that the cancer has spread to nearby lymph nodes or tissues.
+Distant means that the cancer has spread to organs or lymph nodes away from the main tumor.
+
+5-year relative survival rates for esophageal cancer
+These numbers are based on people diagnosed with esophageal cancer between 2013 and 2019.
+
+
+
+Stage
+5-Year Relative Survival Rate
+
+
+Localized
+49%
+
+
+Regional
+28%
+
+
+Distant
+6%
+
+
+All SEER* stages combined
+22%
+
+
+
+*SEER = Surveillance, Epidemiology, and End Results
+These survival rates do not separate squamous cell carcinomas from adenocarcinomas, although people with adenocarcinomas are generally thought to have a slightly better prognosis (outlook) overall.
+Understanding the numbers
+
+People now being diagnosed with esophageal cancer may have a better outlook than these numbers show. Treatments improve over time, and these numbers are based on people who were diagnosed and treated at least five years earlier.
+These numbers apply only to the stage of the cancer when it is first diagnosed. They do not apply later on if the cancer grows, spreads, or comes back after treatment.
+These numbers don’t take everything into account. Survival rates are grouped based on how far the cancer has spread, but your age, overall health, how well the cancer responds to treatment, and other factors will also affect your outlook.It’s important for you to have honest, open discussions with your cancer care team. They want to answer all your questions, so that you can make informed treatment and life decisions. For instance, consider these questions:
+When you’re told you have esophageal cancer
+
+What kind of esophageal cancer do I have?
+Where is the cancer located?
+Has the cancer spread beyond where it started?
+What is the cancer’s stage (extent), and what does that mean?
+Will I need other tests before we can decide on treatment?
+Should the cancer be checked for gene changes that could help you choose my treatment options?
+Do I need to see any other doctors or health professionals?
+If I’m concerned about the costs and insurance coverage for my diagnosis and treatment, who can help me?
+
+When deciding on a treatment plan
+
+What are my treatment options?
+What do you recommend and why?
+How much experience do you have treating this type of cancer?
+Should I get a second opinion? How do I do that? Can you recommend someone?
+What is the goal of the treatment?
+How quickly do I need to decide on treatment?
+What should I do to be ready for treatment?
+How long will treatment last? What will it be like? Where will my treatment be done?
+What risks or side effects are there to the treatments you suggest? Are there things I can do to reduce these side effects?
+Will I need a feeding tube during treatment to help with nutrition?
+How might treatment affect my daily activities? Can I still work full time?
+What are the chances the cancer will recur (come back) with these treatment plans?
+What will we do if the treatment doesn’t work or if the cancer recurs?
+What if I have trouble getting to and from my treatments because of transportation problems?
+
+During treatment
+Once treatment begins, you’ll need to know what to expect and what to look for. Not all of these questions may apply to you, but asking the ones that do may be helpful.
+
+How will we know if the treatment is working?
+Is there anything I can do to help manage side effects?
+What symptoms or side effects should I tell you about right away?
+How can I reach you on nights, holidays, or weekends?
+Do I need to change what I eat during treatment?
+Are there any limits on what I can do?
+Can I exercise during treatment? If so, what kind of exercise should I do, and how often?
+Can you suggest a mental health professional I can see if I start to feel overwhelmed, depressed, or distressed?
+What if I need some social support during treatment because my family lives far away?
+
+After treatment
+
+Do I need a special diet after treatment? Should I eat smaller, more frequent meals from now on?
+Do I need to take certain vitamins after treatment?
+Are there any limits on what I can do?
+What symptoms should I watch for?
+What kind of exercise should I do now?
+What type of follow-up will I need after treatment?
+How often will I need to have follow-up endoscopy and imaging tests?
+Will I need any blood tests?
+How will we know if the cancer has come back? What should I watch for?
+
+Along with these sample questions, be sure to write down some of your own. For instance, you might want more information about recovery times so you can plan your work or activity schedule. You might also want to ask if you qualify for a clinical trial.
+Doctors are not the only ones who can give you information. Other health care professionals, such as nurses and social workers, can also answer some of your questions. You can find more information about speaking with your health care team in The Doctor-Patient Relationship.For some earlier stage cancers, surgery can be used to try to remove the cancer and some of the normal surrounding tissue. In some cases, it might be combined with other treatments, such as chemotherapy and/or radiation therapy.
+Esophagectomy
+Surgery to remove some or most of the esophagus is called an esophagectomy. If the cancer has not yet spread far beyond the esophagus, removing the esophagus (and nearby lymph nodes) may cure the cancer. Unfortunately, most esophageal cancers are not found early enough for doctors to cure them with surgery.
+Often a small part of the stomach is removed as well. The upper part of the esophagus is then connected to the remaining part of the stomach. Part of the stomach is pulled up into the chest or neck to become the new esophagus.
+How much of the esophagus is removed depends upon the stage of the tumor and where it’s located:
+
+If the cancer is in the lower part of the esophagus (near the stomach) or at the place where the esophagus and stomach meet (the gastroesophageal or GE junction), the surgeon will remove part of the stomach, the part of the esophagus containing the cancer, and about 3 to 4 inches (about 7.6 to 10 cm) of normal esophagus above this. Then the stomach is connected to what is left of the esophagus either high in the chest or in the neck.
+If the tumor is in the upper or middle part of the esophagus, most of the esophagus will need to be removed to be sure to get enough tissue above the cancer. The stomach will then be brought up and connected to the esophagus in the neck. If for some reason the stomach can’t be pulled up to attach it to the remaining part of the esophagus, the surgeon may use a piece of the intestine to bridge the gap between the two. When a piece of intestine is used, it must be moved without damaging its blood vessels. If the vessels are damaged, not enough blood will get to that piece of intestine, and the tissue will die.
+
+Esophagectomy techniques
+Esophagectomy can be done in different ways. No matter which technique is used, esophagectomy is not a simple operation, and it may require a long hospital stay. It is very important to have it done at a center that has a lot of experience treating these cancers and performing these procedures.
+Open esophagectomy: In the standard, open technique, the surgeon operates through one or more large incisions (cuts) in the neck, chest, or abdomen (belly).
+
+If the main incisions are in the neck and abdomen, it is called a transhiatal esophagectomy.
+If the main incisions are in the chest and abdomen, it is called a transthoracic esophagectomy
+Some procedures might be done through incisions in all three places: the neck, chest, and abdomen.
+
+You and your surgeon should discuss in detail the operation planned for you and what you can expect.
+Minimally invasive esophagectomy: For some early (small) cancers, the esophagus can be removed through several small incisions instead of large incisions. The surgeon puts a laparoscope ( a thin flexible tube with a light) through one of the incisions to see everything during the operation. Then the surgical instruments go in through other small incisions. To do this type of procedure well, the surgeon needs to be highly skilled and have a lot of experience removing the esophagus this way. Because it uses smaller incisions, minimally invasive esophagectomy may allow the patient to leave the hospital sooner, have less blood loss, and recover faster.
+Lymph node removal
+For either type of esophagectomy, nearby lymph nodes are also removed during the operation. These are then checked in the lab to see if they have cancer cells. Typically, at least 15 lymph nodes are removed during surgery.
+If the cancer has spread to the lymph nodes, the outlook is not as good, and the doctor may recommend other treatments (like chemotherapy and/or radiation) after surgery.
+Possible risks of esophagectomy
+Like most serious operations, surgery of the esophagus has some risks.
+
+Short-term risks include reactions to anesthesia, more bleeding than expected, blood clots in the lungs or elsewhere, and infections. Most people will have at least some pain after the operation, which can usually be helped with pain medicines.
+Lung complications are common. Pneumonia may develop, leading to a longer hospital stay, and sometimes even death.
+Some people might have voice changes after the surgery.
+There may be a leak at the place where the stomach (or intestine) is connected to the esophagus, which might require another operation to fix. This is not as common as it used to be because of improvements in surgical techniques.
+Strictures (narrowing) can form where the esophagus is surgically connected to the stomach, which can cause problems swallowing for some patients. To relieve this symptom, these strictures can be expanded during an upper endoscopy procedure.
+After surgery, the stomach may empty too slowly because the nerves that cause it to contract can be damaged by surgery. This can sometimes lead to frequent nausea and vomiting.
+After surgery, bile and stomach contents can back up into the esophagus because the ring-shaped muscle that normally keeps them inside the stomach (the lower esophageal sphincter) is often removed or changed by the surgery. This can cause symptoms such as heartburn. Sometimes antacids or motility drugs can help these symptoms.
+
+Some complications from this surgery can be life threatening. The risk of dying from this operation is related to the doctor’s experience with these procedures. In general, the best outcomes are achieved with surgeons and hospitals that have the most experience. This is why patients should ask the surgeon about their experience: how often they operate on the esophagus, how many times they have done this procedure, and what percentage of their patients have died after this surgery. The hospital where the surgery is done is also important, and any hospital that you consider should be willing to show you their survival statistics.
+Surgery for palliative care
+Sometimes minor types of surgery are used to help prevent or relieve problems caused by the cancer, instead of trying to cure it. For example, minor surgery can be used to place a feeding tube directly into the stomach or small intestine in people who need help getting enough nutrition. This is discussed in Palliative Therapy for Esophageal Cancer.Radiation therapy uses high-energy rays (such as x-rays) or particles to destroy cancer cells. It is often combined with other types of treatment, such as chemotherapy (chemo) and/or surgery, to treat esophageal cancer. Chemotherapy can make radiation therapy more effective against some esophagus cancers. Using these 2 treatments together is called chemoradiation.
+When is radiation therapy used for esophagus cancer?
+Radiation therapy may be used:
+
+As part of the main treatment of esophageal cancer in some patients, typically along with chemo (chemoradiation). This is often used for people who can’t have surgery due to poor health or for people who don’t want surgery.
+Before surgery (and along with chemo when possible), to try to shrink the cancer and make it easier to remove. This is called neoadjuvant treatment.
+After surgery (and along with chemo when possible), to try to kill any cancer cells that may have been left behind but are too small to see. This is known as adjuvant therapy.
+To ease the symptoms of advanced esophageal cancer such as pain, bleeding, or trouble swallowing. This is called palliative therapy.
+
+Types of radiation therapy
+There are 2 main types of radiation therapy used to treat esophageal cancer.
+External-beam radiation therapy (EBRT) is the type of radiation therapy used most often for people with esophageal cancer. The radiation is focused on the cancer from a machine outside the body. It is much like getting an x-ray, but the radiation is more intense. How often and how long the radiation treatments are delivered depends on the reason the radiation is being given and other factors. It can last anywhere from a few days to weeks.
+Internal radiation therapy (brachytherapy) is a type of radiation where the doctor passes an endoscope (a long, flexible tube) down the throat to place radioactive material very close to the cancer. The radiation travels only a short distance, so it reaches the tumor but has little effect on nearby normal tissues. This usually means fewer side effects than with external beam radiation. The radioactive source is removed a short time later.
+Brachytherapy is not used often to treat esophageal cancer, but might be helpful with more advanced esophageal cancers to shrink tumors so a patient can swallow more easily. This technique cannot be used to treat a very large area, so it is better used as a way to relieve symptoms (and not to try to cure the cancer).
+Brachytherapy can be given 2 ways:
+
+For high-dose rate (HDR) brachytherapy, the doctor leaves the radioactive material near the tumor for a few minutes at a time, which may require several treatments.
+In low-dose rate (LDR) brachytherapy, a lower dose of radiation is put near the tumor for longer periods (1 or 2 days) at a time. The patient needs to stay in the hospital during this treatment, but it can usually be completed in only 1 or 2 sessions.
+
+Other types of radiation, such as IMRT (a type of EBRT) as well as proton therapy, are being studied to treat esophageal cancer.
+Side effects of radiation therapy
+If you are going to get radiation therapy, it’s important to ask your doctor beforehand about the possible side effects so you know what to expect. Possible Side effects of external radiation therapy can include:
+
+Skin changes in areas getting radiation, such as redness, blistering and peeling
+Nausea and vomiting
+Diarrhea
+Fatigue
+Painful sores in the mouth and throat
+Dry mouth or thick saliva (spit)
+Pain with swallowing
+
+These side effects are often worse if chemotherapy is given at the same time as radiation.
+Most side effects of radiation are temporary, but some less common side effects can be permanent. For example, in some cases radiation can cause a stricture (narrowing) in the esophagus, which might require more treatment. Radiation to the chest can cause lung damage, which may lead to problems breathing and shortness of breath.
+If you notice any side effects, talk to your doctor right away so steps can be taken to lessen them.Several types of treatment for esophageal cancer can be done by passing an endoscope (a long, flexible tube) down the throat and into the esophagus. Some of these treatments may be used to try to cure very early stage cancers, or even to prevent them from developing by treating Barrett’s esophagus or dysplasia. Other treatments are used mainly to help relieve symptoms from more advanced esophageal cancers that can’t be removed.
+Endoscopic mucosal resection
+Endoscopic mucosal resection (EMR) can be used for dysplasia (pre-cancer) and some small, very early-stage cancers of the esophagus.
+In this technique, a piece of the inner lining of the esophagus is removed with instruments passed down the endoscope. After the abnormal tissue is removed, patients take drugs called proton pump inhibitors to suppress acid production in the stomach. This can help keep the disease from returning.
+The most common side effect of EMR is bleeding in the esophagus, which is usually not serious. Less common but more serious side effects can include esophageal strictures (areas of narrowing) that might need to be treated by with dilation, and puncture (perforation) of the wall of the esophagus which would need surgery.
+Photodynamic therapy
+Photodynamic therapy (PDT) is not used often but can be used to treat Barrett’s esophagus, esophageal pre-cancers (dysplasia), and some very early stage esophageal cancers. It might also be used to treat large cancers that are blocking the esophagus. In this situation, PDT is not meant to destroy all the cancer, but to kill enough of the cancer to improve a person’s ability to swallow.
+For this technique, a light-activated drug called porfimer sodium (Photofrin) is injected into a vein. Over the next couple of days, the drug is more likely to collect in cancer cells than in normal cells. A special type of laser light is then focused on the cancer through an endoscope. This light changes the drug into a new chemical that can kill the cancer cells. The dead cells may then be removed a few days later during an upper endoscopy. This process can be repeated if needed.
+The advantage of PDT is that it can kill cancer cells with very little harm to normal cells. But because the chemical must be activated by light, it can only kill cancer cells near the inner surface of the esophagus – those that can be reached by the light. This light cannot reach cancers that have spread deeper into the esophagus or to other organs.
+PDT can cause swelling in the esophagus for a few days, which may lead to some problems swallowing. Strictures (areas of extreme narrowing) can also happen. These often need to be treated by with dilation. Other possible side effects include bleeding or holes in the esophagus.
+Some of this drug also collects in normal cells in the body, such as skin and eye cells. This can make you very sensitive to sunlight or strong indoor lights. Too much exposure can cause serious skin reactions, which is why doctors recommend staying out of any strong light for 4 to 6 weeks after the injection.
+This treatment can cure some very early esophageal cancers that have not spread to deeper tissues. But this procedure destroys the tissue, so it can be hard to be certain that the cancer hasn’t spread into deeper layers of the esophagus. Since the light used in PDT can only reach those cancer cells near the surface of the esophagus, cells of deeper cancers could be left behind, and grow into a new tumor. People getting this treatment need to have follow-up endoscopies to make sure the cancer hasn’t grown back. They also need to stay on a drug called a proton pump inhibitor to stop stomach acid production.
+For more information on this technique, see Photodynamic Therapy.
+Radiofrequency ablation (RFA)
+This procedure can be used to treat dysplasia in areas of Barrett’s esophagus. It may lower the chance of cancer developing in that area.
+A balloon containing many small electrodes is passed into an area of Barrett’s esophagus through an endoscope. The balloon is then inflated so that the electrodes are in contact with the inner lining of the esophagus. Then an electrical current is passed through it, which kills the cells in the lining by heating them.
+Over time, normal cells will grow in to replace the Barrett’s cells. People getting this treatment need to stay on drugs to block stomach acid production after the procedure. Endoscopy (with biopsies) is then done regularly to watch for any further changes in the lining of the esophagus. Rarely, RFA can cause strictures (narrowing) or bleeding in the esophagus.
+Treatments to help keep the esophagus open
+Laser ablation
+This technique can be used to help open the esophagus when it is blocked by an advanced cancer. This can help people with problems swallowing.
+A laser beam is aimed at the cancer through the tip of an endoscope to destroy the cancer. The laser is called a neodymium: yttrium-aluminum-garnet (Nd:YAG) laser. Laser endoscopy can be helpful, but the cancer often grows back, so the procedure may need to be repeated.
+Argon plasma coagulation
+This technique is like laser ablation, but it uses argon gas and a high-voltage spark delivered through the tip of an endoscope. The spark causes the gas to reach very high temperatures, which can then be aimed at the tumor. This approach is used to help unblock the esophagus for people who have trouble swallowing.
+Electrocoagulation (electrofulguration)
+For this treatment, a probe is passed down into the esophagus through an endoscope to burn the tumor off with electric current. In some cases, this treatment can help relieve esophageal blockage.
+Esophageal stent
+A stent is a device that, once in place, expands (opens up) to become a tube that helps hold the esophagus open. Stents are made of mesh material. Most often stents are made of metal, but they can also be made of plastic. Using endoscopy, a stent can be placed into the esophagus across the length of the tumor.
+How well the stent works depends on the type that is used and where it is placed. Stents will relieve trouble swallowing for most people. They are often used after other endoscopic treatments to help keep the esophagus open.Chemotherapy (chemo) is anti-cancer drugs that may be given intravenously (injected into your vein) or by mouth. The drugs travel through the bloodstream to reach cancer cells in most parts of the body.
+By itself, chemo rarely cures esophageal cancer so it is often given with radiation therapy (called chemoradiation).
+When is chemotherapy used for esophageal cancer?
+Chemo may be used at different times during treatment for esophageal cancer.
+
+After surgery (adjuvant chemotherapy): Adjuvantchemo might be given (often with radiation) to kill any cancer cells that might have been left behind or have spread but are too small to see on imaging tests. If these cells were allowed to grow, they could form new tumors in other places in the body. It isn’t clear that adjuvant chemoradiation is as helpful as giving it before surgery.
+Before surgery (neoadjuvant chemotherapy): For some cancers, neoadjuvant chemo might be given (often with radiation) to try to shrink the cancer so it can be removed with less extensive surgery. This can lower the chance of the cancer coming back and help people live longer than using surgery alone.
+Chemo for advanced cancers: For cancers that have spread to other organs, such as the liver, chemo can also be used to help shrink tumors and relieve symptoms. Although it is not likely to cure the cancer, it often helps people live longer.
+
+Drugs used to treat esophageal cancer
+Some common drugs and drug combinations used to treat esophageal cancer include those below which can be given along with radiation or without:
+
+Carboplatin and paclitaxel (Taxol)
+Oxaliplatin and either 5-FU or capecitabine
+Cisplatin and either 5-fluorouracil (5-FU) or capecitabine
+Cisplatin and Irinotecan (Camptosar)
+Paclitaxel (Taxol) and either 5-FU or capecitabine
+
+Other common drugs and drug combinations that can be used to treat esophageal cancer but are usually not given with radiation include:
+
+ECF: epirubicin (Ellence), cisplatin, and 5-FU (especially for gastroesophageal junction tumors)
+DCF: docetaxel (Taxotere), cisplatin, and 5-FU
+Trifluridine and tipiracil (Lonsurf), a combination drug in pill form
+
+For some esophagus cancers, chemo may be used along with the targeted drug trastuzumab (Herceptin) or ramucirumab (Cyramza). For more information on these drugs, see Targeted Therapy for Esophageal Cancer.
+How is chemotherapy given?
+Chemo drugs for esophageal cancer are typically given into a vein (IV), either as an injection over a few minutes or as an infusion over a longer period of time. Some drugs you take by mouth. All of these drugs enter your bloodstream and reach most areas of your body. These drugs can be given in a doctor’s office, infusion center, or in a hospital.
+Often, a slightly larger and sturdier IV called a central venus catheter (CVC) is needed to administer chemo. It might also be called a central venous access device (CVAD), or central line. Once put in place, a CVC can stay in as long as you’re getting treatment so you won’t need to be stuck with a needle in the arms or hands each time to put in an IV catheter. It can be used to put medicines, blood products, nutrients, or fluids right into your blood. It can also be used to take out blood for testing. There are many different kinds of CVCs. The most common types are the port and the PICC line.
+Chemo is given in cycles, followed by a rest period to give you time to recover from the effects of the drugs. Cycles are most often 2 or 3 weeks long. The schedule varies depending on the drugs used. For example, with some drugs, the chemo is given only on the first day of the cycle. With others, it is given for a few days in a row, or once a week. Then, at the end of the cycle, the chemo schedule repeats to start the next cycle.
+Adjuvant or neoadjuvant chemo is often given for a total of 3 to 6 months, depending on the drugs used. The length of treatment for advanced esophageal cancer depends on how well it is working and what side effects you might have.
+Possible side effects of chemotherapy
+Chemo drugs can cause side effects. These depend on the type and dose of drugs given, and the length of treatment. Some of the most common side effects of chemo include:
+
+Nausea and vomiting
+Loss of appetite
+Hair loss
+Mouth sores
+Diarrhea or constipation
+
+Chemo can also affect the blood-forming cells of the bone marrow, which can lead to:
+
+Increased chance of infection (from having too few white blood cells)
+Easy bleeding or bruising (from having too few blood platelets)
+Fatigue (from having too few red blood cells and other reasons)
+
+Other side effects are also possible. Some of these are more common with certain chemo drugs. For example:
+
+Hand-foot syndrome. During treatment with capecitabine or 5-FU (when given as an infusion), this can start out as redness in the hands and feet, and then progress to pain and sensitivity in the palms and soles. If it worsens, blistering or skin peeling can occur, sometimes leading to painful sores. It’s important to tell your doctor right away about any early symptoms, such as redness or sensitivity, so that steps can be taken to keep things from getting worse.
+Neuropathy (nerve damage). This is a common side effect of oxaliplatin, cisplatin, docetaxel, and paclitaxel. Symptoms include numbness, tingling, and even pain in the hands and feet. Oxaliplatin can also cause intense sensitivity to cold in the throat and esophagus (the tube connecting the throat to the stomach) and the palms of the hands. This can cause problems swallowing liquids or holding a cold glass. If you will be getting oxaliplatin, talk with your doctor about side effects, and let them know right away if you develop numbness and tingling or other side effects.
+Allergic or sensitivity reactions. Some people can have reactions while getting the drug oxaliplatin. Symptoms can include skin rash, chest tightness and trouble breathing, back pain, or feeling dizzy, lightheaded, or weak. Be sure to tell your nurse right away if you notice any of these symptoms while you are getting chemo.
+Diarrhea. This is a common side effect with many of these drugs, but can be particularly bad with irinotecan. It needs to be treated right away — at the first loose stool — to prevent severe dehydration. This often means taking drugs like loperamide (Imodium). If you are on a chemo drug that is likely to cause diarrhea, your doctor will give you instructions on what drugs to take and how often to take them to control this symptom.
+Weight loss. People with esophageal cancer often have already lost weight before the cancer was found. Treatments such as chemo, radiation, or both can make it hard to eat well enough to get good nutrition, making weight loss worse. Depending on your situation, the cancer care team might recommend placement of a feeding tube to keep up your nutrition and weight during treatment. This feeding tube may be used short-term (during treatment and a bit afterwards) or it may be permanent depending on your cancer. To learn more, see Supportive Care for Esophageal Cancer.
+
+Most of these side effects tend to go away after treatment is finished. Some, such as hand and foot numbness, may last for a long time. There are often ways to lessen these side effects. For example, you can be given drugs to help prevent or reduce nausea and vomiting.
+Be sure to discuss any questions about side effects with your cancer care team. Report any side effects or changes you notice while getting chemo right away so that they can be treated promptly. In some cases, the doses of the chemo drugs may need to be reduced or treatment may need to be delayed or stopped to prevent the effects from getting worse.As researchers have learned more about the changes in cells that cause cancer, they have developed newer drugs that specifically target these changes. Targeted drugs work differently from standard chemotherapy drugs. They sometimes work when standard chemo drugs don’t, and they often have different side effects. They can be used either along with chemo or by themselves.
+Drugs that target HER2
+Some esophagus cancers have too much of the HER2 protein on the surface of their cells, which can help cancer cells grow. Having too much of this protein is caused by having too many copies of the HER2 gene. Cancers with increased levels of HER2 are called HER2-positive. Drugs that target the HER2 protein can often be helpful in treating HER2-positive cancers.
+Trastuzumab (Herceptin, others)
+Trastuzumab is a monoclonal antibody, a man-made version of an immune system protein, which targets HER2. It can be used to help treat some HER2-positive cancers of the gastroesophageal (GE) junction (the place where the esophagus and stomach meet).
+If you have a GE junction cancer and can’t have surgery, your doctor may have your tumor tested for the HER2 protein or gene. People whose cancers have normal amounts of HER2 are very unlikely to be helped by this drug.
+Trastuzumab is given into a vein (IV), typically once every 3 weeks, along with chemo.
+Herceptin was the original brand name for trastuzumab, but several similar versions (called biosimilars) are now available as well, including Ogivri, Herzuma, Ontruzant, Trazimera, and Kanjinti.
+Possible side effects of trastuzumab
+Most of the side effects of trastuzumab are relatively mild and can include fever and chills, cough, and headache. These occur less often after the first dose.
+This drug can also sometimes cause heart damage, leading to the heart muscle becoming weak. This drug is not given with certain chemo drugs called anthracyclines, such as epirubicin (Ellence) or doxorubicin (Adriamycin), because it can further increase the risk of heart damage if they are given together. Before starting treatment with this drug, your doctor may test your heart function with an echocardiogram or a MUGA scan.
+Fam-trastuzumab deruxtecan (Enhertu)
+This is an antibody-drug conjugate (ADC), which is a monoclonal antibody linked to a chemotherapy drug. In this case, the anti-HER2 antibody acts like a homing signal by attaching to the HER2 protein on cancer cells, bringing the chemo directly to them.
+This ADC can be used by itself to treat advanced HER2-positive GE junction cancers, typically after treatment with trastuzumab has been tried. 
+This drug is infused into a vein (IV). It is typically given once every 3 weeks.
+Side effects of fam-trastuzumab deruxtecan
+This drug can cause low blood cell counts, which can increase a person’s risk of infections and bleeding. Other common side effects can include nausea, vomiting, diarrhea or constipation, loss of appetite, fever, feeling tired, and hair loss.
+This drug can cause serious lung disease in some people, which might even be life threatening. It’s very important to let your doctor or nurse know right away if you’re having symptoms such as coughing, wheezing, trouble breathing, or fever.
+This drug can also rarely cause heart damage. Before starting treatment with this drug, your doctor may test your heart function with an echocardiogram or a MUGA scan. 
+Ramucirumab
+For cancers to grow and spread, they need to make new blood vessels so that the tumors get blood and nutrients. One of the proteins that tells the body to make new blood vessels is called VEGF. To start this process, VEGF attaches to other proteins on the outside of the cancer cell called receptors.
+Ramucirumab (Cyramza) is a monoclonal antibody that blocks the process of making new blood vessels. Ramucirumab joins to the VEGF receptor, which blocks VEGF and stops the signal to the body to make more blood vessels. This can help slow or stop the growth of the cancer.
+Ramucirumab is used to treat cancers that start at the gastroesophageal (GE) junction when they are advanced. It is most often used after another drug stops working. It can be used alone or in combination with the chemo drug paclitaxel. 
+This drug is given as infusion into a vein (IV) every 2 weeks.
+Possible side effects of ramucirumab
+The most common side effects of this drug are high blood pressure, swelling of the arms or legs, protein in the urine, and fatigue. Rare but possibly serious side effects include blood clots, severe bleeding, holes forming in the stomach or intestines (called perforations), and problems with wound healing. If a hole forms in the stomach or intestine it can lead to severe infection and may require surgery to correct.
+Entrectinib and larotrectinib
+In some cancers, the cells have genes that join together. The fusion of one of these genes, called NTRK, with another gene can lead to abnormal cell growth.
+Drugs that target this abnormal gene fusion, called TRK inhibitors, include entrectinib (Rozlytrek) and larotrectinib (Vitrakvi). One of these drugs might be used to treat esophageal cancer with an NTRK gene fusion if the cancer cannot be removed with surgery or has spread to other parts of the body, and if it has grown despite other treatments.
+These drugs are given as pills daily.
+Possible side effects of entrectinib and larotrectinib
+The most common side effects are fatigue, nausea, vomiting, dizziness, cough, diarrhea, and constipation. Other more serious, but less common, side effects include liver problems and confusion.Immunotherapy is the use of medicines that help a person’s own immune system find and destroy cancer cells more effectively. It can be used to treat some people with esophagus cancer.
+Immune checkpoint inhibitors
+An important part of the immune system is its ability to keep itself from attacking normal cells in the body. To do this, it uses “checkpoint” proteins on immune cells, which act like switches that need to be turned on (or off) to start an immune response. Cancer cells sometimes use these checkpoints to avoid being attacked by the immune system.
+Drugs called immune checkpoint inhibitors target these checkpoint proteins, which can help restore the immune response against esophagus cancer cells.
+PD-1 inhibitors
+Pembrolizumab (Keytruda) and nivolumab (Opdivo) are drugs that target PD-1, a protein on T cells (a type of immune system cell). The PD-1 protein normally helps keep T cells from attacking other cells in the body. By blocking PD-1, these drugs boost the immune response against cancer cells. This can shrink some tumors or slow their growth.
+Pembrolizumab can be used to treat some advanced cancers of the esophagus or gastroesophageal junction (GEJ), typically when treatments such as surgery and chemoradiation (chemotherapy plus radiation therapy) can’t be done. Pembrolizumab might be given by itself or along with chemotherapy (and possibly the targeted drug trastuzumab, if the cancer tests positive for HER2), depending on the situation.
+In certain cases when no other treatment options are available, this drug can be used for people whose cancer has tested positive for specific gene changes, such as a high level of microsatellite instability (MSI-H), defects in one of the mismatch repair genes (dMMR), or a high tumor mutational burden (TMB-H).
+This drug is given as an intravenous (IV) infusion, typically every 3 or 6 weeks.
+Nivolumab can be used in different situations:
+
+It can be used in people with cancer of the esophagus or gastroesophageal junction (GEJ) who got chemotherapy and radiation (chemoradiation) before surgery, if lab tests after surgery show that some cancer may have been left behind.
+It can be used by itself in people with advanced squamous cell cancer of the esophagus, typically after chemotherapy has been tried.
+It can be used along with chemotherapy as a first treatment in people with advanced squamous cell cancer of the esophagus. When given this way, it can help some people live longer.
+It can be used along with ipilimumab as a first treatment in people with advanced squamous cell cancer of the esophagus. When given this way, it can help some people live longer.
+It can be used along with chemo in people with advanced adenocarcinoma of the esophagus or with advanced cancer of the gastroesophageal junction (GEJ).
+
+This drug is given as an intravenous (IV) infusion, usually once every 2, 3, or 4 weeks.
+CTLA-4 inhibitor
+Ipilimumab (Yervoy) is another drug that boosts the immune response, but it has a different target. It blocks CTLA-4, another protein on T cells that normally helps keep them in check.
+It can be used along with nivolumab as the first option to treat advanced squamous cell cancer of the esophagus that can’t be removed by surgery or that has spread to other parts of the body.
+This drug is given as an intravenous (IV) infusion, usually once every 6 weeks when given in combination with nivolumab.
+Possible side effects of immune checkpoint inhibitors
+Common side effects of these drugs can include fatigue, cough, nausea, skin rash, poor appetite, constipation, muscle or joint pain, itching, fever, and diarrhea.
+Other, more serious side effects happen less often. These can include:
+Infusion reactions: Some people might have an infusion reaction while getting one of these drugs. This is like an allergic reaction, and can include fever, chills, flushing of the face, rash, itchy skin, feeling dizzy, wheezing, and trouble breathing. It’s important to tell your doctor or nurse right away if you have any of these symptoms while getting one of these drugs.
+Autoimmune reactions: These drugs work by basically removing one of the safeguards on the body’s immune system. Sometimes the immune system starts attacking other parts of the body, which can cause serious or even life-threatening problems in the lungs, intestines, liver, hormone-making glands, kidneys, skin, or other organs.
+It’s very important to report any new side effects to your health care team promptly. If serious side effects do occur, treatment may need to be stopped and you may get high doses of corticosteroids to suppress your immune system.The type of treatment(s) your doctor recommends will depend on the stage of the cancer and on your overall health. This section sums up the options usually considered for each stage of esophageal cancer.
+Treating stage 0 esophagus cancer
+A stage 0 tumor contains abnormal cells called high-grade dysplasia and is a type of pre-cancer. The abnormal cells look like cancer cells, but they are only found in the inner layer of cells lining the esophagus (the epithelium). They have not grown into deeper layers of the esophagus. This stage is often diagnosed when someone with Barrett’s esophagus has a routine biopsy.
+Options for treatment typically include endoscopic treatments such as photodynamic therapy (PDT), radiofrequency ablation (RFA), or endoscopic mucosal resection (EMR). Long-term follow-up with frequent upper endoscopy is very important after endoscopic treatment to continue to look for pre-cancer (or cancer) cells in the esophagus.
+Another option is to have the abnormal part of the esophagus removed with an esophagectomy. This is a major operation, but one advantage of this approach is that it doesn’t require lifelong follow-up with endoscopy.
+Treating stage I esophagus cancer
+In this stage the cancer has grown into some of the deeper layers of the esophagus wall (past the innermost layer of cells) but has not reached the lymph nodes or other organs.
+T1 cancers: Some very early stage I cancers that are only in a small area of the mucosa and haven’t grown into the submucosa (T1a tumors) can be treated with EMR, sometimes followed by another type of endoscopic procedure, like ablation, to destroy any remaining abnormal areas in the esophagus lining. Other times, ablation alone is enough treatment.
+But most patients with T1 cancers who are healthy enough will have surgery (esophagectomy) to remove the part of their esophagus that contains the cancer. Chemotherapy and radiation therapy given at the same time (chemoradiation) may be recommended after surgery if there are signs that all of the cancer may not have been removed.
+T2 cancers: For patients with cancers that have invaded the muscularis propia (T2 tumors), treatment with chemoradiation is often given before surgery. Surgery alone may be an option for smaller tumors (less than 2 cm). If the cancer is in the part of the esophagus near the stomach, chemo without radiation may be given before surgery.
+If the cancer is in the upper part of the esophagus (in the neck), chemoradiation may be recommended as the main treatment instead of surgery. For some patients, this may cure the cancer. Close follow-up with endoscopy is very important in looking for possible signs of cancer returning.
+People with stage I cancers who can’t have surgery because they have other serious health problems, or who don’t want surgery, may be treated with EMR and endoscopic ablation, chemo, radiation therapy, or both together (chemoradiation).
+Treating stages II and III cancer of the esophagus
+Stage II includes cancers that have grown into the main muscle layer of the esophagus or into the connective tissue on the outside of the esophagus. This stage also includes some cancers that have spread to 1 or 2 nearby lymph nodes.
+Stage III includes some cancers that have grown through the wall of the esophagus to the outer layer, as well as cancers that have grown into nearby organs or tissues. It also includes most cancers that have spread to nearby lymph nodes.
+For people who are healthy enough, treatment for these cancers is most often chemoradiation (chemotherapy plus radiation therapy) followed by surgery. Patients with adenocarcinoma at the place where the stomach and esophagus meet (the gastroesophageal junction) are sometimes treated with chemo (without radiation) followed by surgery. Surgery alone may be an option for some small tumors.
+If surgery is the first treatment, chemoradiation may be recommended afterward, especially if the cancer is an adenocarcinoma or if there are signs that some cancer may have been left behind.
+In some instances (especially for cancers in the upper part of the esophagus), chemoradiation may be recommended as the main treatment instead of surgery. Patients who do not have surgery need close follow-up with endoscopy to look for possible signs of remaining cancer. Unfortunately, even when cancer cannot be seen, it can still be present below the inner lining of the esophagus, so close follow-up is very important.
+People who cannot have surgery because they have other serious health problems or the cancer is too large to remove are usually treated with chemoradiation. If chemoradiation isn’t an option, chemotherapy, immunotherapy, or a combination of the two might be used. Sometimes, two immunotherapy drugs might be used together. For people with gastroesophageal junction cancers that are HER2 positive, immunotherapy with pembrolizumab, plus chemotherapy and the targeted drug trastuzumab might be an option as the first treatment.
+Treating stage IV cancer of the esophagus
+Stage IV esophageal cancer has spread to distant lymph nodes or to other distant organs.
+In general, these cancers are very hard to get rid of completely, so surgery to try to cure the cancer is usually not a good option. Treatment is used mainly to help keep the cancer under control for as long as possible and to relieve any symptoms it is causing.
+Chemo may be given (possibly along with targeted drug therapy or immunotherapy) to try to help patients feel better and live longer. Sometimes, two immunotherapy drugs might be used together. Radiation therapy or other treatments may be used to help with pain or trouble swallowing. Another option at some point might be treatment with immunotherapy by itself. If the cancer cells have certain gene changes, a targeted drug such as larotrectinib (Vitrakvi) or entrectinib (Rozlytrek) might be an option.
+For cancers that started at the gastroesophageal (GE) junction, treatment with the targeted drug ramucirumab (Cyramza) may be an option at some point. It can be given by itself or combined with chemo. Other options at some point might include treatment with an immunotherapy drug (possibly along with chemo), or the chemotherapy combination pill trifluridine–tipiracil (Lonsurf). If the cancer is HER2-positive, treatment with the targeted drug trastuzumab, plus the immunotherapy drug pembrolizumab, plus chemotherapy, might be an option as the first treatment. The targeted drug fam-trastuzumab deruxtecan (Enhertu) might be an option at some point.
+Treating recurrent cancer of the esophagus
+Recurrent means the cancer has come back after treatment. The recurrence may be local (near the area of the initial tumor), or it may be in distant organs. Treatment of esophageal cancer that comes back (recurs) after initial treatment depends on where it recurs and what treatments have been used, as well as a person’s health and wishes for further treatment.
+Local recurrence
+If the cancer was initially treated endoscopically (such as with endoscopic mucosal resection or photodynamic therapy), it most often comes back in the esophagus. This type of recurrence is often treated with surgery to remove the esophagus. If the patient isn’t healthy enough for surgery, the cancer may be treated with chemotherapy, radiation, or both.
+If cancer recurs locally (such as in nearby lymph nodes), radiation and/or chemotherapy may be used after the esophagus has been removed. Radiation may not be an option if it was already given as part of the initial treatment. If chemotherapy was given before, it is usually still possible to give more chemotherapy. Sometimes the same drugs that were used before are given again, but often other drugs are used. Other treatment options for local recurrence after surgery might include more surgery or other treatments to help prevent or relieve symptoms.
+If the cancer recurs locally after chemoradiation (without surgery), esophagectomy might be an option if the person is healthy enough. If surgery is not possible, treatment options might include chemotherapy or other treatments to help prevent or relieve symptoms.
+Distant recurrence
+Esophageal cancer that recurs in distant parts of the body is treated like a stage IV cancer.
+Your options depend on which, if any, drugs you received before the cancer came back and how long ago you received them, as well as on your health. Radiation therapy may be an option to relieve symptoms as well.
+Recurrent cancers can often be hard to treat, so you might also want to ask your doctor if you might be eligible for clinical trials involving newer treatments.
+Managing symptoms of recurrent esophageal cancer
+Some people prefer not to have treatments that have serious side effects and choose to receive only treatments that will help keep them comfortable and add to their quality of life. For more information on treatments that may be helpful, see Supportive Therapy for Esophageal Cancer.
+For more on dealing with cancer recurrence, see Understanding Recurrence.Supportive therapy is treatment aimed at preventing or relieving symptoms instead of trying to cure the cancer. The main purpose of this type of treatment is to improve the comfort and quality of life for someone diagnosed with cancer no matter what stage the cancer or the goal of treatment might be. You might also hear supportive care referred to as palliative care, symptom management, or comfort care.
+Several types of treatment can be used to help prevent or relieve symptoms of esophageal cancer. In some cases, they are given along with other treatments that are intended to cure the cancer. In other cases, supportive or palliative treatments are given when a cure is not possible.
+Feeding tube
+People with esophageal cancer often have already lost weight before the cancer was found. Treatments such as chemo, radiation, and chemoradiation can cause painful sores in the mouth and throat. These can make it hard to eat well enough to get good nutrition, making weight loss worse.
+Some people with esophageal cancer may need to have a feeding tube, usually called a jejunostomy tube (or J-tube), put in place before treatment. This is done through a small hole in the skin over the abdomen during a minor operation. A J-tube lets liquid nutrition be put directly into the small intestine to prevent further weight loss and improve nutrition. This can make treatment easier to tolerate. Less often, the tube is placed into the stomach instead. This is known as a gastrostomy tube or G-tube.
+A feeding tube can easily be removed when it's no longer needed.
+Esophageal dilation
+This procedure is used to stretch out an area of the esophagus that is narrowed or blocked to allow better swallowing.
+A small balloon-like device or a device shaped like a pipe is passed down the throat and pushed through the narrowed area to stretch it out. This can be repeated if needed. Before the procedure, your doctor may give you a sedative to help you relax and may numb your throat by spraying it with a local anesthetic.
+There is a small risk of bleeding or tearing a hole in the esophagus (called a perforation) with this procedure, which could require surgery or other treatments to fix. The esophagus typically stays open only a few weeks after dilation, so this is often followed by other treatments (such as placing an expandable stent) to help keep the esophagus open.
+Other endoscopic procedures
+Several types of endoscopic procedures can be used to help keep the esophagus open in people who are having trouble swallowing. These techniques are described in more detail in Endoscopic Treatments for Esophageal Cancer. Procedures that may be used include:
+
+Esophageal stent placement
+Photodynamic therapy
+Electrocoagulation
+Laser ablation
+Argon plasma coagulation
+
+Radiation therapy
+External-beam radiation can often help relieve some of the symptoms from advanced esophageal cancer, including pain and problems swallowing. Radiation is often used for cancer that has spread to the brain or spine, but it is also useful in treating problems with swallowing from a narrowed or blocked esophagus.
+If an area had been treated with external beam radiation therapy earlier, it might not be able to be treated that way again. In that case, brachytherapy may be an option. Brachytherapy is especially useful in helping to relieve a blocked esophagus. See Radiation Therapy for Esophageal Cancer for more details.
+Chemotherapy and targeted therapy
+When used to help treat advanced esophageal cancer, chemotherapy and targeted therapy can both be considered a type of palliative or supportive therapy because they are intended to help slow the growth of the cancer and relieve symptoms from the cancer, as opposed to trying to cure it.
+Pain management
+Pain control is an important concern for people with cancer. There are many ways to treat cancer pain. People with cancer should let their cancer care team know right away if they are in pain. The cancer care team can provide medicines and other supportive treatments to relieve pain and other symptoms. See Cancer Pain to learn more.For some people with esophagus cancer, treatment can remove or destroy the cancer. Completing treatment can be both stressful and exciting. You may be relieved to finish treatment, but find it hard not to worry about cancer coming back. This is a very common concern if you've had cancer.
+For other people, the esophagus cancer might never go away completely. Some people may get regular treatments with chemotherapy, radiation therapy, or other treatments to try and help keep the cancer in check. Learning to live with cancer that does not go away can be difficult and very stressful.
+Follow-up care
+Even if you have completed treatment, your doctor will still want to watch you closely. It’s very important to go to all your follow-up appointments. During these visits, your doctors will ask if you are having any problems and may do exams and lab tests or imaging tests to look for signs of cancer or treatment side effects.
+Almost any cancer treatment can have side effects. Some might last only a few days or weeks, but others might last a long time. Some might not even show up until years after you have finished treatment. Your doctor visits are a good time to ask questions and talk about any changes or problems you notice or concerns you have.
+It’s very important to report any new symptoms to the doctor right away, especially if they include trouble swallowing or chest pain because this could be from the cancer coming back or late side effects of treatment. Early treatment of these problems can relieve many symptoms and improve your quality of life. New symptoms or problems could also be caused by a new disease or a second cancer.
+Doctor visits
+To some extent, the frequency of follow up visits and tests will depend on the stage of your cancer, the treatment you received, and the chance of it coming back.
+Many doctors recommend follow-up visits with a physical exam (which may include imaging tests, blood tests, and endoscopy) every 3 to 6 months for the first two years after treatment. This is often changed to visits every 6 to 12 months for the next 3 years, and then once a year after that. Some doctors may advise different follow-up schedules.
+Survivors of esophageal cancer should also follow the American Cancer Society guidelines for the early detection of cancer, such as those for breast, cervical, lung, and prostate cancer.
+Ask your doctor for a survivorship care plan
+Talk with your doctor about developing a survivorship care plan for you. This plan might include:
+
+A suggested schedule for follow-up exams and tests
+A schedule for other tests you might need to look for long-term health effects from your cancer or its treatment
+A list of possible late- or long-term side effects from your treatment, including what to watch for and when you should contact your doctor
+Suggestions for things you can do that might improve your health and possibly lower your chances of the cancer coming back (such diet changes and increasing physical activity).
+Reminders to keep your appointments with your primary care provider (PCP), who will monitor your general health care
+
+Help for common problems
+Supportive treatments are aimed at helping to relieve the symptoms of esophagus cancer. In some cases they are used along with other treatments that focus on curing the cancer, but are often used in people with advanced cancer to help improve their quality of life.
+Trouble swallowing
+Cancer of the esophagus often causes trouble swallowing, which can lead to weight loss and weakness due to poor nutrition. A team of doctors and nutritionists can work with you to provide nutritional supplements and information about your individual nutritional needs during and after treatment. Certain surgeries to treat esophageal cancer can also affect your eating habits and may make gaining weight difficult. Your cancer care team can give you suggestions such as eating small frequent meals, using nutritional supplements, and other advice to help you maintain your weight and nutritional intake. For more information and nutrition tips for during and after cancer treatment, see Nutrition for People With Cancer.
+Some people with esophageal cancer treated with surgery or radiation therapy to the esophagus may have later problems with an esophageal stricture (narrowing of the esophagus). This can be helped with procedures to open this area such as placing an esophageal stent or sometimes using esophageal dilatation.
+Pain
+There are many ways to control pain caused by cancer of the esophagus and its treatment. If you have pain, tell your cancer care team right away, so they can give you quick and effective pain management. For more information, see Cancer Pain.
+Nutrition
+Eating right can be hard for anyone, but it can get even tougher during and after cancer treatment. This is especially true for cancers of the esophagus. The cancer or its treatment may affect how you swallow or cause other problems. Nausea can be a problem from some treatments. You may not feel like eating and lose weight when you don’t want to.
+During treatment: Many people lose weight or have taste problems during treatment. If this happens to you, do the best you can. Eat whatever appeals to you. Eat what you can, when you can. Now is not the time to restrict your diet. You may find it helps to eat small portions every 2 to 3 hours. Try to keep in mind that these problems usually improve over time. You may want to ask your cancer team about seeing a dietitian, an expert in nutrition who can give you ideas on how to optimize your weight and diet during treatment. Some patients may benefit from having a feeding tube put in temporarily while they get treatment.
+After treatment: If the stomach was used to replace all or part of the esophagus, the stomach might not be able to hold food for digestion like it did before. Swallowed food passes quickly into the intestine, which can cause diarrhea, sweating, and flushing after eating. This is called dumping syndrome. This may mean you have to change your diet and how you eat. For example, you may need to eat smaller amounts of food more often. Your health care team can help you adjust your diet if you are having problems eating.
+For more information on supportive treatments, see Supportive Therapy for Esophageal Cancer.
+Keeping health insurance and copies of your medical records
+Even after treatment, it’s very important to keep health insurance. Tests and doctor visits cost a lot, and even though no one wants to think of their cancer coming back, this could happen.
+At some point after your cancer treatment, you might find yourself seeing a new doctor who doesn’t know about your medical history. It’s important to keep copies of your medical records to give your new doctor the details of your diagnosis and treatment.
+Can I lower the risk of my esophagus cancer progressing or coming back?
+If you have (or have had) esophageal cancer, you probably want to know if there are things you can do (aside from your treatment) that might lower your risk of the cancer growing or coming back, such as getting or staying active, eating a certain type of diet, or taking nutritional supplements.
+At this time, not enough is known about esophagus cancer to say for sure if there are things you can do that will be helpful.
+It is clear that smoking and drinking alcohol are linked to an increased risk of esophageal cancer. While it’s not clear if smoking can affect esophageal cancer growth or recurrence, it is still helpful to stop smoking to lower your risk of getting other smoking-related cancers. Not smoking and avoiding alcohol can also help improve your appetite and overall health and help you tolerate chemotherapy and radiation better. If you need help quitting smoking, talk to your doctor or call the American Cancer Society at 1-800-227-2345.
+Adopting other healthy behaviors such as eating well, getting regular physical activity, and staying at a healthy weight may help as well, but no one knows for sure. However, we do know that these types of changes can have positive effects on your health that can extend beyond your risk of cancer.
+About dietary supplements
+So far, no dietary supplements (including vitamins, minerals, and herbal products) have been shown to clearly help lower the risk of esophageal cancer progressing or coming back. This doesn’t mean that no supplements will help, but it’s important to know that none have been proven to do so.
+Dietary supplements are not regulated like medicines in the United States – they do not have to be proven effective (or even safe) before being sold, although there are limits on what sellers are allowed to claim they can do. If you’re thinking about taking any type of nutritional supplement, talk to your health care team. They can help you decide which ones you can use safely while avoiding those that might be harmful.
+If the cancer comes back
+If the cancer does return at some point, your treatment options will depend on where the cancer is, what treatments you’ve had before, and your health. Surgery, radiation therapy, chemotherapy, targeted therapy, immunotherapy, or some combination of these might be options. Other types of treatment might also be used to help relieve any symptoms from the cancer. For more information on how recurrent cancer is treated, see Treating Esophageal Cancer by Stage.
+For more general information on recurrence, you may also want to see Understanding Recurrence.
+Getting emotional support
+Its normal to feel depressed, anxious, or worried when esophagus cancer is a part of your life. Some people are affected more than others. But everyone can benefit from help and support from other people, whether friends and family, religious groups, support groups, professional counselors, or others. Learn more in Life After Cancer.
+Second cancers after treatment
+Cancer survivors can be affected by many health problems, but often a major concern is facing cancer again. Cancer that comes back after treatment is called a recurrence. But some cancer survivors may develop a new, unrelated cancer later. This is called a second cancer.
+Unfortunately, being treated for cancer doesn’t mean you can’t get another cancer. People who have had esophagus cancer can still get the same types of cancers that other people get. In fact, they might be at a higher risk of certain types of cancer, including:
+
+Cancers of the mouth and throat
+Cancer of the larynx (voice box)
+Lung cancer
+Thyroid cancer
+Small intestine cancer
+
+Men who were treated for esophagus cancer also have an increased risk of stomach cancer.
+For people who have had esophageal cancer, most experts don’t recommend any additional testing to look for second cancers unless you have symptoms. People who have been treated for esophageal cancer and have no signs of recurrence, but who smoke, may want to talk with their doctor about if they should be screened for lung cancer.
+Can I lower my risk of getting a second cancer?
+There are steps you can take to lower your risk and stay as healthy as possible. For example, the most common risk factors for cancer of the esophagus are smoking and alcohol intake, which are also linked to many of the second cancers listed above. Staying away from tobacco products and limiting alcohol may help lower your risk of a second cancer.
+To help maintain good health, esophageal cancer survivors should also:
+
+Get to and stay at a healthy weight
+Keep physically active and limit sitting or lying down time
+Follow a healthy eating pattern that includes plenty of fruits, vegetables, and whole grains, and that limits or avoids red and processed meats, sugary drinks, and highly processed foods.
+It’s best not to drink alcohol. If you do drink, have no more than 1 drink per day for women or 2 drinks per day for men.
+
+These steps may also lower the risk of some other health problems.
+See Second Cancers in Adults for more information about causes of second cancers.What is esophagus cancer?
+Your esophagus is the soft tube that connects the mouth to the stomach. Cancer that starts growing in the esophagus is called esophagus cancer or esophageal cancer. It starts when cells in the inner lining of the esophagus grow out of control and crowd out normal cells.
+Cancer cells can spread to other parts of the body. Cancer cells in the esophagus can sometimes travel to the liver and grow there. When cancer cells do this, it’s called metastasis. To doctors, the cancer cells in the new place look just like the ones from the esophagus.
+Cancer is always named for the place where it starts. So when esophagus cancer spreads to the liver (or any other place), it’s still called esophagus cancer. (It’s not called liver cancer unless it starts from cells in the liver.)

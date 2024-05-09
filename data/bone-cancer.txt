@@ -1,0 +1,801 @@
+The information here focuses on primary bone cancers (cancers that start in bones) that most often are seen in adults. Information on Osteosarcoma, Ewing Tumors (Ewing sarcomas), and Bone Metastases is covered separately.
+Cancer starts when cells begin to grow out of control. Cells in nearly any part of the body can become cancer, and can then spread (metastasize) to other parts of the body. To learn more about cancer and how it starts and spreads, see What Is Cancer?
+Bone cancer is an uncommon type of cancer that begins when cells in the bone start to grow out of control. To understand bone cancer, it helps to know a little about normal bone tissue.How common is bone cancer?
+The American Cancer Society’s estimates for primary cancer of the bones and joints for 2023 are:
+
+About 3,970 new cases diagnosed (2,160 in males; 1, 810 in females)
+About 2,140 deaths (1,200 in males; 940 in females)
+
+This includes cancers in both children and adults.
+Primary bone cancers (cancers that start in the bones) are uncommon, accounting for less than 1% of all cancers. In adults, cancers that spread to the bones from other organs (known as bone metastasis) are much more common than primary bone cancers.
+Osteosarcoma is the most common type of primary bone cancer overall, followed by chondrosarcoma and Ewing tumors (Ewing sarcomas). But this varies by age group.
+In adults, the most common primary bone cancer is chondrosarcoma. This is followed by osteosarcomas, chordomas, and Ewing tumors. Other types of bone cancer are much less common.
+In children and teens, osteosarcoma and Ewing tumors are much more common than chondrosarcoma or other types of bone cancers.
+The prognosis (outlook) for people with bone cancer depends on many factors, including the type of bone cancer, the location of the tumor, whether the cancer has spread (metastasized) when it’s first found, the person’s age and overall health, and how well the cancer responds to treatment. For more on this, see Survival Rates for Bone Cancer.
+Visit the American Cancer Society’s Cancer Statistics Center for more key statistics.The information here focuses on primary bone cancers (cancers that start in bones) that most often are seen in adults. Information on Osteosarcoma, Ewing Tumors (Ewing sarcomas), and Bone Metastasis is covered separately.
+Many medical centers and other institutions around the world are conducting research on primary bone cancer.
+Genetics of primary bone cancers
+There has been progress in learning about the gene changes in bone cells that lead to different types of bone tumors. Learning more about these changes might lead to better ways to find bone tumors, tell the different types apart, and treat them, based on their gene defects.
+Treatment
+Primary bone cancers are rare in adults, so it’s been hard to study the best ways to treat them. Most experts agree that people with primary bone cancers, especially those with advanced or recurrent cancers, might want to consider enrolling in a clinical trial studying new ways to treat these cancers.
+There are many clinical trials focusing on treating different types of bone cancer.
+Chemotherapy
+Some studies are testing new chemotherapy (chemo) drugs. Researchers are also looking for new, and maybe better, ways to use the drugs already available. For instance, doctors are studying whether adding a bisphosphonate called zoledronic acid (Zometa) to the bone cement used to fill in the space left after removing a giant cell tumor might decrease the chance that the tumor will come back in that place.
+Another area of interest is long-term chemo side effects. Some types of bone cancer can also occur among younger people, and doctors are trying to learn more about how the chemo drugs used might cause long-term side effects as survivors grow older.
+Targeted drug therapy
+Unfortunately, chemo isn’t very effective against some type of bone tumors. Newer targeted therapy drugs work differently from standard chemo drugs. They target certain changes in genes and proteins in cancer cells.
+A great deal of research is being done to learn more about the genetic changes inside bone cancer cells. Doctors are using what they learn to develop new targeted drugs for some types of bone cancer, as well as to test and use existing targeted drugs that focus on some of these gene changes. These drugs might change the cancer's ability to grow and spread, providing newer and better ways to treat these tumors.
+For instance, targeted drugs already exist for several gene and protein changes researchers have found in chordoma cells. Some of these targeted drugs are now options in treating advanced chordomas. Some targeted drugs are now being tested and used against advanced chondrosarcomas as well.
+Immunotherapy
+Immunotherapy drugs help the body’s own immune system to recognize and attack cancer cells. There are many types of immunotherapy medicines. Some of these are being studied to see if they can be helpful in treating certain types of bone cancers.
+For example, cancer cells sometimes have even more gene and protein changes than typical cancer cells. This makes them even more different from normal cells (and therefore more visible to the immune system). Cancers with these types of changes are more likely to respond to some types of immunotherapy drugs. This includes cancers with high microsatellite instability (MSI-H), with defects in mismatch repair genes (dMMR), or with a high tumor mutational burden (TMB-H). Lab tests of tumor samples can be done to look for these changes.
+Unfortunately, only a small proportion of bone cancers have these types of changes. But when they do, immunotherapy drugs called checkpoint inhibitors, such as pembrolizumab (Keytruda), can sometimes be helpful.
+Researchers are also studying many other types of immunotherapy for use in treating bone cancers.
+Drugs that affect bone cells
+Drugs that affect the cells within bones (osteoblasts and osteoclasts) can be helpful in treating some bone tumors. These drugs are more often used for other types of cancer that have spread to the bones, but they might also be helpful in treating some types of primary bone cancers.
+For example, denosumab (Xgeva) is a type of drug known as a RANKL inhibitor, which affects bone cells called osteoclasts. It can be used to treat some giant cell tumors of bone.
+Zoledronic acid (Zometa) is a type of drug known as a bisphosphonate, which affects osteoclasts in a different way. Doctors are studying whether this drug also might be helpful in treating some types of bone tumors, such as giant cell tumors of bone.
+Radiation therapy
+The most common type of radiation therapy to treat most types of cancer uses beams of x-rays. But high doses of x-rays are needed to treat most types of bone tumors, which can affect nearby areas and lead to side effects. Doctors are now looking to other types of radiation that might be safer or more effective.
+For example, proton beam radiation uses beams made up of protons (parts of atoms), which have properties that allow areas near the tumor to get less radiation. Proton radiation is often used to treat bone tumors near very sensitive organs, like the brain or the spine. It is sometimes used for tumors in other parts of the body, too. And as advances make this treatment even more precise and more widely available, it may be found to work better in treating bone tumors. There are only a limited number of proton beam treatment centers in the United States at this time.
+A much less common form of particle radiation, carbon ion radiation, uses heavier particles that might cause more damage to the tumor. This may be helpful in treating some types of bone tumors that do not respond to current treatments, but more research is needed to be sure. This treatment is only available in a handful of centers worldwide, and there are no carbon ion radiation facilities in the United States at this time.The information here focuses on primary bone cancers (cancers that start in bones) that most often are seen in adults. Information on Osteosarcoma, Ewing Tumors (Ewing sarcomas), and Bone Metastases is covered separately.
+A risk factor is anything that raises your chances of getting a disease such as cancer. Different cancers have different risk factors. Some risk factors, like smoking, can be changed. Others, like a person’s age or family history, can’t be changed.
+But having a risk factor, or even several risk factors, does not mean that you will get the disease. Many people with one or more risk factors never get cancer, while others who get cancer may have had few or no known risk factors.
+There are different types of primary bone cancers (cancers that start in the bones), and while they might have some things in common, these different cancers do not all have the same risk factors.
+Many bone cancers are not linked with any known risk factors and have no obvious cause. But there are a few factors that can raise the risk of some types of bone cancers.
+The main risk factors for osteosarcoma and Ewing tumors are discussed elsewhere.
+Chondrosarcoma risk factors
+Older age: Most chondrosarcomas occur in older adults, although they can develop in younger people as well.
+Benign bone tumors: Having certain types of benign (non-cancerous) bone tumors can increase a person’s risk of chondrosarcoma. 
+For example, an enchondroma is a benign cartilage tumor that can develop in the middle of a bone. These tumors rarely transform into chondrosarcomas, but people with many of these tumors (a condition called multiple enchondromatosis) have an increased risk of chondrosarcoma. Sometimes this condition is linked with inherited changes in the IDH1 or IDH2 genes.
+Multiple exostoses (also known as multiple osteochondromas) is an inherited condition in which a person has many benign bone tumors called osteochondromas, which are made mostly of cartilage. These tumors can sometimes be painful and can lead to deformed or fractured bones. Each tumor also has a small chance of transforming into a chondrosarcoma. This disorder is most often caused by  inherited changes (mutations) in either the EXT1 or EXT2 gene.
+Chordoma risk factors
+Most chordomas do not have a known cause. But a small number of chordomas seem to run in families (known as familial chordoma). This is often linked to a mutation (change) in the TBXT gene that a person inherits from a parent.
+Patients with tuberous sclerosis, an inherited syndrome caused by a defect (mutation) in either the TSC1 or TSC2 gene, seem to have a high risk of chordoma during childhood, although this seems to be rare overall.
+Other risk factors for bone cancer
+There are few known risk factors for other, less common types of bone cancer, although there are some factors that increase the risk for several types of bone cancer.
+Paget disease of bone: This is a benign condition that occurs mostly in older people, in which an area (or areas) of bone becomes more active than normal. This can result in abnormal bone that is more likely to fracture (break). People with this condition have a small chance of developing bone tumors in these areas. Most often this is an osteosarcoma, but it can also be a less common type of bone tumor, such as a giant cell tumor of bone.
+Previous radiation therapy: People who have received radiation therapy (usually to treat another type of cancer) have a slightly increased risk of developing bone cancer in the area that was treated. This risk is higher in people who were treated when they were younger (especially as children) and those who were treated with higher doses of radiation.
+These cancers tend to develop many years (often decades) after the radiation therapy was given. Most often these are osteosarcomas, but they also can be less common types of bone cancer, such as fibrosarcoma of bone or undifferentiated pleomorphic sarcoma (UPS) of bone.The information here focuses on primary bone cancers (cancers that start in bones) that most often are seen in adults. Information on Osteosarcoma, Ewing Tumors (Ewing sarcomas), and Bone Metastases is covered separately.
+There are different types of primary bone cancers (cancers that start in the bones), and while they might have some things in common, these different cancers most likely do not all have the same causes.
+Researchers have found some risk factors for bone cancer, but often it’s not clear exactly how these factors might affect how cells in the bones become cancer cells. Research is underway to learn more about the causes of these cancers.
+Scientists have learned how certain changes in the DNA in bone cells can cause them to become cancerous. DNA is the chemical in our cells that makes up our genes, which control how our cells function. We usually look like our parents because they are the source of our DNA. But DNA affects more than how we look. It influences our risks for developing certain diseases, including some kinds of cancer.
+
+Genes that normally help cells grow, divide, or stay alive can sometimes change to become oncogenes.
+Genes that help keep cell division under control, repair mistakes in DNA, or make cells die at the right time are called tumor suppressor genes.
+
+Cancers can be caused by gene mutations (defects) that create oncogenes, or that turn off tumor suppressor genes.
+Some people inherit gene mutations (changes) from a parent that increase their risk of bone cancer. (See Risk Factors for Bone Cancer.) Some of these mutations are now known, and genetic testing can look for them.
+But the gene changes leading to bone cancer are usually acquired during life rather than inherited from a parent. These changes sometimes result from factors such as exposure to radiation, but most of these changes are probably just random events that sometimes happen inside a cell, without having an outside cause. These mutations are present only in the cancer cells, so they cannot be passed on to the person’s children.
+Scientists are making progress in understanding these genetic changes and how they happen, but there are still many things that are not completely understood at this time. As more is learned about these changes, it might help doctors find better ways to prevent, diagnose, and treat these cancers.The information here focuses on primary bone cancers (cancers that start in bones) that most often are seen in adults. Information on Osteosarcoma, Ewing Tumors (Ewing sarcomas), and Bone Metastases is covered separately.
+Most known risk factors for bone cancer (such as age and certain bone diseases and inherited conditions) cannot be changed. Other than exposure to radiation (usually during radiation therapy), there are no known lifestyle-related or environmental causes of bone cancer, so at this time there is no way to protect against most of these cancers.The information here focuses on primary bone cancers (cancers that start in bones) that most often are seen in adults. Information on Osteosarcoma, Ewing Tumors (Ewing sarcomas), and Bone Metastasis is covered separately.
+At this time, there are no widely recommended screening tests for bone cancer in people who aren’t known to be at increased risk. (Screening is testing for cancer in people without any symptoms.)
+Still, most bone cancers are found at an early stage, before they have clearly spread to other parts of the body. Symptoms such as bone pain or swelling often prompt a visit to a doctor. (For more on this, see Signs and Symptoms of Bone Cancer.)
+For people at higher risk
+For some people who are at increased risk for bone cancer because they have certain bone conditions (listed in Risk Factors for Bone Cancer), doctors might recommend closer monitoring. Watching for early signs and symptoms can sometimes be helpful in finding bone cancer early and treating it successfully.The information here focuses on primary bone cancers (cancers that start in bones) that most often are seen in adults. Information on Osteosarcoma, Ewing Tumors (Ewing sarcomas), and Bone Metastasis is covered separately.
+There are different types of primary bone cancer. Signs and symptoms depend mainly on the type, location, and extent of the cancer.
+Pain
+Pain in the area of the tumor is the most common sign of bone cancer. At first, the pain might not be there all the time. It may get worse at night or when the bone is used, such as when walking for a tumor in a leg bone. Over time, the pain can become more constant, and it might get worse with activity.
+Sometimes a tumor can weaken a bone to the point where it breaks (fractures), which can cause a sudden onset of intense pain (see Fractures below).
+Lump or swelling
+Some bone tumors cause a lump or swelling in the area, although this might not happen until sometime after the area becomes painful.
+Cancers in the bones of the neck can sometimes cause a lump in the back of the throat that can lead to trouble swallowing or breathing.
+Fractures
+Bone cancer can weaken the bone, but most often the bones do not fracture (break). People with a fracture next to or through a bone tumor usually describe sudden severe pain in a bone that had been sore for a few months.
+Other symptoms
+Cancer in the bones of the spine can press on the nerves coming out of the spinal cord. This can cause numbness and tingling or even weakness in different parts of the body, depending on where the tumor is.
+Bone cancer, like many other types of cancer, can sometimes cause weight loss and fatigue.
+If the cancer spreads to other organs, it can also cause other symptoms. For instance, if the cancer spreads to the lungs, it might result in a cough or trouble breathing.
+Bone cancer isn’t common, and the symptoms it can cause are more likely to be due to other conditions, such as injuries or arthritis. Still, if you have symptoms that go on for a long time or get worse, it’s important to see a doctor so the cause can be found and treated, if needed.The information here focuses on primary bone cancers (cancers that start in bones) that most often are seen in adults. Information on Osteosarcoma, Ewing Tumors (Ewing sarcomas), and Bone Metastasis is covered separately.
+Primary bone cancers are usually found when signs or symptoms a person is having prompt them to visit a doctor.
+Symptoms and the results of physical exams and imaging tests might suggest that a person has bone cancer. But in most cases, doctors need to confirm this by taking and testing a tissue or cell sample (a procedure known as a biopsy).
+It’s important for doctors to distinguish primary bone cancers from cancers that have spread to the bones from other parts of the body (bone metastasis), as well as from bone tumors that are benign (not cancer) and from other types of bone problems. These conditions might need different types of treatment.
+Accurate diagnosis of a bone tumor often depends on combining information about which bone and what part of the bone is affected, how it looks on imaging tests, and what the tumor cells look like under a microscope.
+If a bone cancer is found, other tests might then be needed to learn more about it.
+Medical history and physical exam
+If a person has signs or symptoms that suggest they might have a bone tumor, the doctor will want to take a complete medical history to find out more about the symptoms.
+A physical exam can sometimes provide information about a possible tumor. For example, the doctor may be able to see or feel an abnormal mass.
+The doctor may also look for problems in other parts of the body. When adults have cancer in the bones, it’s most often the result of cancer that started somewhere else and then spread to the bones (bone metastasis).
+After the exam, if the doctor suspects it could be bone cancer (or another type of bone tumor), more tests will be done. These might include imaging tests, biopsies, and/or lab tests.
+Imaging tests
+Imaging tests use x-rays, magnetic fields, or radioactive substances to create pictures of the inside of the body. Imaging tests might be done for a number of reasons, including:
+
+To help find out if a suspicious area might be cancer
+To help determine if a cancer might have started in another part of the body
+To learn how far cancer has spread
+To help determine if treatment is working
+To look for signs that the cancer might have come back
+
+People who have or might have bone cancer will have one or more of these tests. For more information on these tests, see Imaging (Radiology) Tests for Cancer.
+X-rays
+An x-ray of the bone is often the first test done if some type of bone tumor is suspected. Tumors might look “ragged” instead of solid on an x-ray, or they might look like a hole in the bone. Sometimes doctors can see a tumor that might extend into nearby tissues (such as muscle or fat).
+Doctors might strongly suspect an abnormal area is a bone cancer by the way it appears on an x-ray, but usually a biopsy (described below) is needed to tell for sure.
+Adults with bone tumors might have a chest x-ray done to see if the cancer has spread to the lungs. But this test isn't needed if a chest CT scan (discussed below) has been done.
+Magnetic resonance imaging (MRI)
+MRI scans create detailed images of the inside of the body using radio waves and strong magnets instead of x-rays, so no radiation is involved. A contrast material called gadolinium is often injected into a vein before the scan to better see details.
+An MRI is often done to get a more detailed look at an abnormal area of bone seen on an x-ray. MRIs can usually show if it’s likely to be a tumor, an infection, or some type of bone damage from another cause.
+MRIs can help determine the exact extent of a tumor, as they can show the marrow inside bones and the soft tissues around the tumor, including nearby blood vessels and nerves. MRIs can also show any small bone tumors several inches away from the main tumor (called skip metastases). Knowing the extent of tumor is very important when planning surgery.
+Computed tomography (CT) scan
+A CT scan combines many x-ray pictures to make detailed cross-sectional images of parts of the body. 
+CT scans aren’t usually as helpful as MRIs in showing the detail in and around bone tumors. But they are often done to look for possible cancer spread in other parts of the body, such as the lungs, liver, or other organs.
+CT scans can also be used to guide a biopsy needle into a tumor (a CT-guided needle biopsy). For this test, you stay on the CT scanning table while the doctor moves a biopsy needle toward the tumor. CT scans are repeated until the tip of the needle is within the mass. (See Needle biopsy below.)
+Bone scan
+A bone scan can show if a cancer has spread to other bones, and is often part of the workup for people with bone cancer. This test is useful because it can show the entire skeleton at once. A positron emission tomography (PET) scan, described below, can often provide similar information, so a bone scan might not be needed if a PET scan is done.
+For this test, a small amount of low-level radioactive material is injected into the blood and travels to the bones. A special camera that can detect the radioactivity then creates a picture of the skeleton.
+Areas of active bone changes attract the radioactivity and appear as “hot spots” on the skeleton. Hot spots may suggest areas of cancer, but other bone diseases can also cause the same pattern. To make an accurate diagnosis, other tests such as plain x-rays, MRI scans, or even a bone biopsy might be needed.
+Positron emission tomography (PET or PET scan)
+For a PET scan, a form of radioactive sugar (known as FDG) is injected into the blood. Because cancer cells in the body are growing quickly, they absorb large amounts of the sugar. A special camera then creates a picture of areas of radioactivity in the body. The picture is not detailed like a CT or MRI scan, but it provides useful information about the whole body.
+PET scans can help show the spread of bone cancer to the lungs, other bones, or other parts of the body. They can also be used to see how well the cancer is responding to treatment.
+Many machines can do a PET and CT scan at the same time (PET/CT scan). This lets the doctor compare areas of higher radioactivity on the PET scan with the more detailed appearance of that area on the CT scan.
+Biopsy
+The results of imaging tests might strongly suggest that a person has bone cancer, but a biopsy (removing some of the abnormal area and checking it under a microscope and with other lab testing) is usually the only way to be certain.
+If the tumor is most likely a primary bone cancer, it’s very important that the biopsy is done by doctors experienced in treating bone tumors. Whenever possible, the biopsy and surgical treatment should be planned together, and the same doctor should do both. Proper planning of the biopsy can help prevent later complications and might reduce the amount of surgery needed later on.
+Sometimes the wrong kind of biopsy can make it hard for the surgeon to later remove all of the cancer, which might then require more extensive surgery. It might also increase the risk of the cancer spreading.
+The type of biopsy done is based on whether the tumor looks benign (not cancer) or malignant (cancer) and exactly what type of tumor it most likely is (based on imaging tests, the patient’s age, and where the tumor is). Some kinds of bone tumors can be diagnosed from needle biopsy samples, but larger samples (from a surgical biopsy) are often needed to diagnose other types. Plans to remove the entire tumor during the biopsy will also impact the type of biopsy done.
+Needle biopsy
+For these biopsies, the doctor uses a hollow needle to remove a small cylinder of tissue from the tumor. The biopsy is usually done with local anesthesia, where numbing medicine is injected into the skin and other tissues over the biopsy site. In some cases, the patient might need sedation or general anesthesia (where the patient is asleep).
+Often, the doctor can aim the needle by feeling the suspicious area if it's near the surface of the body. If the tumor can’t be felt because it's too deep, the doctor can guide the needle into the tumor using an imaging test such as an ultrasound or CT scan. These types of image-guided biopsies are usually done by a doctor who is an interventional radiologist.
+There are 2 types of needle biopsies:
+
+A core needle biopsy uses a large needle to remove a cylinder of tissue. This is the most common type of needle biopsy used for bone tumors.
+A fine needle aspiration (FNA) biopsy uses a very thin needle on the end of a syringe to suck out a small amount of fluid and some cells from the tumor. This type of biopsy is less likely to be helpful for bone tumors, as the smaller needle might not be able to get through the bone. And even if it can be done, it might not remove enough of a sample for testing. But FNA can sometimes be useful for checking abnormal areas in other parts of the body for cancer cells.
+
+Surgical (open) biopsy
+For this type of biopsy, a doctor (typically an orthopedic surgeon) cuts through the skin to reach the tumor. If only a piece of it is removed, it is called an incisional biopsy. If the entire tumor is removed (not just a small piece), it's called an excisional biopsy.
+These biopsies are often done in an operating room with the patient under general anesthesia (in a deep sleep). They can also be done using a nerve block, which numbs a large area of the body.
+Again, it’s important that the biopsy is done by an expert in bone tumors, or it could result in problems later on. For example, if the tumor is on the arm or leg and the biopsy isn’t done properly, it might lower the chances of saving the limb. If possible, the incision for the biopsy should be lengthwise along the arm or leg because this is the way the incision will be made during the operation to remove the cancer. The entire scar of the original biopsy will also most likely need to be removed, so making the biopsy incision this way means less tissue will need to be removed later on.
+Lab tests
+Testing the biopsy samples
+All samples removed by biopsy are sent to a pathologist (a doctor specializing in lab tests) to be looked at with a microscope. If cancer cells are seen, other types of lab tests might also be done to learn more about the exact type of cancer. 
+The pathologist will also assign the cancer a grade, which is a measure of how quickly it is likely to grow and spread, based on how the tumor cells look. Cancers that look somewhat like normal bone tissue are described as low grade (and tend to grow more slowly), while those that look very abnormal are called high grade. For more on grading, see Bone Cancer Stages.
+Blood tests
+Blood tests are not needed to diagnose bone cancer, but they may be helpful once a diagnosis is made. For example, high levels of chemicals in the blood such as alkaline phosphatase and lactate dehydrogenase (LDH) can suggest that the cancer may be more advanced.
+Other tests such as blood cell counts and blood chemistry tests are done before surgery and other treatments to get a sense of a person’s overall health. These tests can also be used to monitor the person’s health while they are getting treatments such as chemotherapy.The information here focuses on primary bone cancers (cancers that start in bones) that most often are seen in adults. Information on Osteosarcoma, Ewing Tumors (Ewing sarcomas), and Bone Metastasis is covered separately.
+After someone is diagnosed with bone cancer, doctors will try to figure out if it has spread, and if so, how far. This process is called staging. The stage of a cancer describes how much cancer is in the body. It helps determine how serious the cancer is and how best to treat it. Doctors also use a cancer's stage when talking about survival statistics.
+The stage of a bone cancer is based on the results of physical exams, imaging tests, and any biopsies that have been done, which are described in Tests for Bone Cancer.
+
+Cancer staging can be complex, so ask your doctor to explain it to you in a way you understand. 
+A staging system is a standard way for the cancer care team to sum up the extent of the cancer. Two main staging systems can be used to describe bone cancers. 
+Musculoskeletal Tumor Society (MSTS) staging system
+A system commonly used to stage bone cancer is the MSTS system, also known as the Enneking system. It is based on 3 key pieces of information:
+
+The grade (G) of the cancer, which is a measure of how likely it is to grow and spread, based on how it looks under the microscope. In this system, cancers are either low grade (G1) or high grade (G2). Low-grade cancer cells look more like normal cells and are less likely to grow and spread quickly, while high-grade cancer cells look more abnormal.
+The extent of the primary tumor (T), which is classified as either intracompartmental (T1), meaning it has basically remained within the bone, or extracompartmental (T2), meaning it has grown beyond the bone into other nearby structures.
+If the tumor has metastasized (M), which means it has spread to other areas, either to nearby lymph nodes (bean-sized collections of immune system cells) or other organs. Tumors that have not spread to the lymph nodes or other organs are considered M0, while those that have spread are M1.
+
+These factors are combined to give an overall stage, using Roman numerals from I to III. Stages I and II are divided into A for intracompartmental tumors or B for extracompartmental tumors.
+
+
+
+Stage
+Grade
+Tumor
+Metastasis
+
+
+IA
+G1
+T1
+M0
+
+
+IB
+G1
+T2
+M0
+
+
+IIA
+G2
+T1
+M0
+
+
+IIB
+G2
+T2
+M0
+
+
+III
+G1 or G2
+T1 orT2
+M1
+
+
+
+In summary:
+
+Low-grade, localized tumors are stage I.
+High-grade, localized tumors are stage II.
+Metastatic tumors (regardless of grade) are stage III.
+
+AJCC TNM staging system
+The other staging system sometimes used for bone cancer is the American Joint Committee on Cancer (AJCC) TNM system. This system is based on 4 key pieces of information:
+
+The extent (size) of the main (primary) tumor (T): How large is the tumor and/or has it reached nearby bones? Is it in more than one spot in the bone?
+The spread to nearby lymph nodes (N): Has the cancer spread to nearby lymph nodes?
+The spread (metastasis) to distant sites (M): Has the cancer spread to distant parts of the body, such as the lungs, other bones, or the liver?
+The grade of the cancer (G): How abnormal do the cells look under a microscope?
+
+Numbers or letters after T, N, M, and G provide more details about each of these factors. Higher numbers generally mean the cancer has more concerning features. 
+For example, the scale used for grading bone cancer in this system ranges from 1 to 3. Low-grade cancers (G1) tend to grow and spread more slowly than high-grade (G2 or G3) cancers.
+
+Grade 1 (G1) means the cancer looks much like normal bone tissue.
+Grade 2 (G2) means the cancer looks more abnormal.
+Grade 3 (G3) means the cancer looks very abnormal.
+
+Once a person’s T, N, M, and G categories have been determined, this information is combined in a process called stage grouping to assign an overall stage. These stages (which are different from those of the MSTS system) are described by Roman numerals from I to IV (1 to 4), and are sometimes divided further.
+Where the cancer started is another important factor in the AJCC system. In the current edition of the system (which came into use in 2018), the T categories are different for bone cancers that start in the arms, legs, trunk, skull, or facial bones, as opposed to cancers that start in the pelvis or spine. The T categories in the table below do not apply to cancers that start in the pelvis or spine. If you have a cancer that starts in one of these areas, it’s best to speak with your doctor about your cancer's stage.
+Two types of stages can be assigned to bone cancers in the TNM system:
+
+The clinical stage is based on the results of the exams and tests that have been done before the cancer has been treated with surgery. This stage can be used to help plan treatment.
+Once surgery has been done, the pathological stage (also called the surgical stage) can be determined, based on the results of exams and imaging tests, as well as what was found during surgery.
+
+Sometimes, the clinical and pathological stages can be different (for example, if surgery finds that the cancer has spread farther than could be seen on imaging tests). The table below describes the pathological stage of the cancer.
+
+
+
+AJCC stage
+Stage grouping
+Stage description*  (8 centimeters = about 3 inches)
+
+
+IA
+T1 N0 M0 G1 or GX
+The main tumor is no more than 8 centimeters across (T1). The cancer has not spread to nearby lymph nodes (N0) or to distant parts of the body (M0). The cancer is low grade (G1), or the grade cannot be determined (GX).  
+
+
+    IB
+T2 N0 M0 G1 or GX
+The main tumor is more than 8 centimeters across (T2). The cancer has not spread to nearby lymph nodes (N0) or to distant parts of the body (M0). The cancer is low grade (G1), or the grade cannot be determined (GX).
+
+
+OR
+
+
+T3 N0 M0 G1 or GX
+There is more than one tumor in the same bone (T3). The cancer has not spread to nearby lymph nodes (N0) or to distant parts of the body (M0). The cancer is low grade (G1), or the grade cannot be determined (GX).
+
+
+IIA  
+T1 N0 M0 G2 or G3
+The main tumor is no more than 8 centimeters across (T1). The cancer has not spread to nearby lymph nodes (N0) or to distant parts of the body (M0). The cancer is high grade (G2 or G3).
+
+
+IIB  
+T2 N0 M0 G2 or G3
+The main tumor is more than 8 centimeters across (T2). The cancer has not spread to nearby lymph nodes (N0) or to distant parts of the body (M0). The cancer is high grade (G2 or G3).
+
+
+III
+T3 N0 M0 G2 or G3
+There is more than one tumor in the same bone (T3). The cancer has not spread to nearby lymph nodes (N0) or to distant parts of the body (M0). The cancer is high grade (G2 or G3).
+
+
+IVA
+Any T N0 M1a Any G
+The main tumor can be any size, and there may be more than one in the bone (Any T). The cancer has not spread to nearby lymph nodes (N0). It has spread only to the lungs (M1a). The cancer can be any grade (Any G).
+
+
+IVB
+Any T N1 Any M Any G
+The main tumor can be any size, and there may be more than one in the bone (Any T). The cancer has spread to nearby lymph nodes (N1). It may or may not have spread to distant organs like the lungs or other bones (Any M). The cancer can be any grade (Any G).
+
+
+OR
+
+
+Any T Any N M1b Any G
+The main tumor can be any size, and there may be more than one in the bone (Any T). The cancer might or might not have spread to nearby lymph nodes (Any N). It has spread to distant parts of the body, such as other bones, the liver, or the brain (M1b). The cancer can be any grade (Any G).
+
+
+
+ * The following additional categories are not listed on the table above:
+
+TX: Main tumor cannot be assessed due to lack of information.
+T0: No evidence of a primary tumor.
+NX: Regional lymph nodes cannot be assessed due to lack of information. 
+
+For more general information on how cancers are staged, see Cancer Staging.The information here focuses on primary bone cancers (cancers that start in bones) that most often are seen in adults. Information on Osteosarcoma, Ewing Tumors (Ewing sarcomas), and Bone Metastasis is covered separately.
+Survival rates can give you an idea of what percentage of people with the same type and stage of cancer are still alive a certain length of time (usually 5 years) after they were diagnosed. They don't tell you how long a person will live, but they might help give you a better understanding of how likely it is that your treatment will be successful.
+Keep in mind that survival rates are estimates and are often based on previous outcomes of large numbers of people who had a specific cancer, but they can’t predict what will happen in any particular person’s case. These statistics can be confusing and might raise more questions for you. Ask your doctor how these numbers might apply to you. 
+What is a 5-year relative survival rate?
+A relative survival rate compares people with the same type (and often stage) of cancer to people in the overall population. For example, if the 5-year relative survival rate for a specific type and stage of bone cancer is 80%, it means that people who have that cancer are, on average, about 80% as likely as people who don’t have that cancer to live for at least 5 years after being diagnosed.
+Where do these numbers come from?
+The American Cancer Society relies on information from the Surveillance, Epidemiology, and End Results (SEER) database, maintained by the National Cancer Institute (NCI), to provide survival statistics for different types of cancer.
+The SEER database tracks 5-year relative survival rates for different types of bone cancer in the United States, based on how far the cancer has spread. The SEER database, however, does not group cancers by MSTS or TNM stages (stage 1, stage 2, stage 3, etc.). Instead, it groups cancers into localized, regional, and distant stages:
+
+Localized: There is no sign that the cancer has spread outside of the bone where it started.
+Regional: The cancer has grown outside the bone and into nearby bones or other structures, or it has reached nearby lymph nodes.
+Distant: The cancer has spread to distant parts of the body, such as to the lungs or to bones in other parts of the body.
+
+5-year relative survival rates for certain bone cancers
+These numbers are based on people diagnosed with certain types of bone cancer between 2012 and 2018. For rates for some of the other more common types of bone cancer, see Survival Rates for Osteosarcoma or Survival Rates for Ewing Tumors.
+Chondrosarcoma
+
+
+
+SEER* stage
+5-year relative survival rate
+
+
+Localized
+91%
+
+
+Regional
+76%
+
+
+Distant
+17%
+
+
+All SEER stages combined
+79%
+
+
+
+Chordoma
+
+
+
+SEER stage
+5-year relative survival rate
+
+
+Localized
+87%
+
+
+Regional
+84%
+
+
+Distant
+69%
+
+
+All SEER stages combined
+84%
+
+
+
+Giant cell tumor of bone
+
+
+
+SEER stage
+5-year relative survival rate
+
+
+Localized
+90%
+
+
+Regional
+77%
+
+
+Distant
+36%
+
+
+All SEER stages combined
+78%
+
+
+
+*SEER=Surveillance, Epidemiology, and End Results
+Some types of bone cancer are so rare that it can be hard to get accurate survival rates. If you have a type of bone cancer not listed here and you'd like to know more about your prognosis (outlook), talk to your health care team to learn more.
+Understanding the numbers
+
+These numbers apply only to the stage of the cancer when it is first diagnosed. They do not apply later on if the cancer grows, spreads, or comes back after treatment.
+These numbers don’t take everything into account. Survival rates are grouped based on the type of bone cancer and how far the cancer has spread. But other factors, such as your age and overall health, which bone the cancer started in, and how well the cancer responds to treatment, can also affect your outlook.
+People now being diagnosed with bone cancer may have a better outlook than these numbers show. Treatments improve over time, and these numbers are based on people who were diagnosed and treated at least 5 years earlier.The information here focuses on primary bone cancers (cancers that start in bones) that most often are seen in adults. Information on Osteosarcoma, Ewing Tumors (Ewing sarcomas), and Bone Metastasis is covered separately.
+It’s important to have honest, open discussions with your health care team. Ask any question, no matter how small it might seem. For instance, consider these questions:
+Before getting a bone biopsy
+
+How much experience do you have doing this type of biopsy? 
+Are you part of a team that treats bone cancers?
+What will happen during the biopsy?
+How long will it take to get the results from the biopsy?
+
+If bone cancer has been diagnosed
+
+What type of bone cancer do I have?
+Has the cancer spread outside the bone?
+What is the stage of my cancer, and what does that mean?
+Do you think the cancer can be resected (removed) completely?
+Do I need any other tests before we can decide on treatment?
+Will I need to see any other types of doctors?
+How much experience do you have treating this type of cancer?
+Who else will be part of the treatment team, and what do they do?
+
+When deciding on a treatment plan
+
+What are my treatment options?
+What do you recommend and why?
+(For tumors on an arm or leg) Which is the better surgical option: limb-sparing surgery or amputation? Why?
+Are there any clinical trials we should consider? How can I find out more about them?
+What’s the goal of treatment?
+Should I get a second opinion? How do we do that? Can you recommend a doctor or cancer center?
+How soon do I need to start treatment?
+What should I do to be ready for treatment?
+How long will treatment last? What will it be like? Where will it be done?
+What risks or side effects are there to the treatments you suggest?
+Which side effects start shortly after treatment, and which ones might develop later on?
+
+During and after treatment
+Once treatment begins, you’ll need to know what to expect and what to look for. Not all of these questions may apply to you, but getting answers to the ones that do may be helpful.
+
+How will we know if the treatment is working?
+Is there anything we can do to help manage side effects?
+What symptoms or side effects should we tell you about right away?
+How can I reach you or someone on your team on nights, weekends, or holidays?
+Who can I talk to if I have questions about costs, insurance coverage, or social support? 
+What are the chances of the cancer coming back with these treatment plans? What will our options be if this happens?
+What type of follow up and rehab will I need after treatment?
+Do you know of any local or online support groups where I can talk to others who have been through this?
+
+Along with these sample questions, be sure to write down some of your own. For instance, you might want more information about recovery times so that you can plan your work schedule.
+Keep in mind that doctors aren’t the only ones who can give you information. Other health care professionals, such as nurses and social workers, can answer some of your questions. To find more about speaking with your health care team, see The Doctor-Patient Relationship.The information here focuses on primary bone cancers (cancers that start in bones) that most often are seen in adults. Information on Osteosarcoma, Ewing Tumors (Ewing sarcomas), and Bone Metastasis is covered separately.
+Surgery is an important part of treatment for most types of bone cancer. It typically includes:
+
+The biopsy to diagnose the cancer
+The surgical removal of the tumor(s)
+
+Whenever possible, it’s very important that the biopsy and the surgery to remove the tumor be planned together, and that an experienced orthopedic surgeon does both the biopsy and the surgery. The biopsy needs to be done in a certain way to give the best chance that less extensive surgery will be needed later on.
+The main goal of surgery is to remove all of the cancer. If even a small amount of cancer is left behind, it might grow and make a new tumor, and might even spread to other parts of the body. To lower the risk of this happening, surgeons remove the tumor plus some of the normal tissue around it. This is known as a wide excision.
+After surgery, a doctor called a pathologist will look at the removed tissue to see if the margins (outer edges) have cancer cells.
+
+If cancer cells are seen at the edges of the tissue, the margins are called positive. Positive margins can mean that some cancer was left behind.
+When no cancer cells are seen at the edges of the tissue, the margins are said to be negative, clean, or clear. A wide-excision with clean margins helps limit the risk that the cancer will come back in the place where it started.
+
+The type of surgery done depends mainly on the location and size of the tumor. Although all operations to remove bone cancers are complex, tumors in the limbs (arms or legs) are generally not as hard to remove as those in the jaw bone, at the base of the skull, in the spine, or in the pelvic (hip) bone.
+Surgery for bone tumors in the arms or legs
+Tumors in the arms or legs might be treated with either:
+
+Limb-salvage (limb-sparing) surgery: removing the cancer and some surrounding normal tissue but leaving the limb basically intact
+Amputation: removing the cancer and all or part of an arm or leg
+
+When discussing your options with the treatment team, it's important to consider the pros and cons of either type of surgery. For example, most people prefer limb-salvage over amputation, but it's a more complex operation and can have more complications. If a limb is amputated, the patient will need to learn to live with and use a prosthetic limb.
+Both types of operations have the same overall survival rates when done by expert surgeons. Studies looking at quality of life have shown little difference in how people react to the final result of the different procedures. And when researchers have looked at the results of the different surgeries in terms of a person’s quality of life afterward, there has been little difference between them.  Still, emotional issues can be very important, and support and encouragement are needed for all patients.
+No matter which type of surgery is done, physical rehabilitation will be needed afterward (see below).
+Limb-salvage surgery
+Most people with arm or leg tumors can have limb-sparing surgery, but this depends on where the tumor is, how big it is, and if it has grown into nearby structures.
+The goal of limb-salvage surgery is to remove all of the cancer and still leave a working leg or arm. This type of surgery is very complex and needs to be done by surgeons with special skills and experience. The challenge for the surgeon is to remove the entire tumor while still saving the nearby tendons, nerves, and blood vessels to keep as much of the limb’s function and appearance as possible. If the cancer has grown into these structures, they will need to be removed along with the tumor. (In such cases, amputation might sometimes be the best option.)
+The section of bone that is removed along with the tumor is replaced with a bone graft (a piece of bone from another part of the body or from another person) or with an endoprosthesis (internal prosthesis), which is a device made of metal and other materials that replaces part or all of a bone. Some newer devices combine a graft and a prosthesis.
+Complications of limb-salvage surgery can include infections and grafts or rods that become loose or broken. Those who have limb-salvage surgery might need more surgery in the following years, and some might still eventually need an amputation.
+Amputation
+For some patients, amputation of part or all of a limb is the best option. For example, if the tumor is very large or if it has grown into important nerves and/or blood vessels, it might not be possible to remove all of it and still leave behind a functional limb.
+The surgeon determines how much of the arm or leg needs to be amputated based on the results of MRI scans and examination of removed tissue by the pathologist at the time of surgery.
+Surgery is usually planned so that muscles and the skin will form a cuff around the amputated bone. This cuff fits into the end of an artificial limb (external prosthesis). Another option might be to implant a prosthesis into the remaining bone, the end of which remains outside the skin. This can then be attached to an external prosthesis.
+Reconstructive surgery can help some patients who lose a limb to function as well as possible. For instance, if the leg must be amputated mid-thigh (including the knee joint), the lower leg and foot can be rotated and attached to the thigh bone, so that the ankle joint functions as a new knee joint. This surgery is called rotationplasty. A prosthetic limb would still be needed to replace the lower part of the leg.
+If the bone tumor is in the shoulder or upper arm and amputation is needed, in some cases the area with the tumor can be removed and the lower arm reattached so that the patient has a functional, but much shorter, arm.
+Rehabilitation after surgery on an arm or leg
+This may be the hardest part of treatment, and it cannot be described here completely. If possible, there should be a meeting with a rehab specialist before surgery so you will understand what this might entail.
+Rehab after amputation typically takes less time than after limb-sparing surgery. For a tumor on a leg bone, people are often walking again 3 to 6 months after leg amputation, whereas it takes about a year, on average, for patients to learn to walk again after limb-salvage surgery. Physical rehab is also much more intense after limb-salvage surgery than it is after amputation, but it’s still extremely important. If the patient doesn’t actively take part in the rehabilitation program, the salvaged arm or leg might become useless, and might require amputation.
+Surgery for bone tumors in other parts of the body
+Tumors in the pelvic (hip) bones can often be hard to remove completely with surgery. Some types of tumors can be treated with chemotherapy first to help shrink the cancer and make the operation easier. Pelvic bones can sometimes be reconstructed after surgery, but in some cases pelvic bones and the leg they are attached to might need to be removed.
+For tumors in the lower jaw bone, the entire lower half of the jaw may be removed and later replaced with bone from other parts of the body. If the surgeon can’t remove all of the tumor, radiation therapy may be used as well.
+For tumors in areas like the spine or the skull, it might not be possible to remove all of the tumor safely. Cancers in these bones could require a combination of treatments such as curettage (removal by scraping - see below), cryosurgery, and radiation.
+Joint fusion (arthrodesis): Sometimes, after the removal of a tumor that involves a joint (an area where two bones come together), it might not be possible to reconstruct the joint. In this case, surgery might be done to fuse the two bones together. This is most often used for tumors in the spine, but it might also be used in other parts of the body, such as a shoulder or hip. While it can help stabilize the joint, it results in loss of motion, which the person will have to learn to adjust to.
+Curettage (intralesional excision)
+For some types of bone tumors that are less likely to spread or to come back after treatment, the surgeon might scrape out the tumor without removing a section of the bone. This is done with a sharp instrument called a curette, and it leaves a hole in the bone. After as much of the tumor is removed as possible, the surgeon might treat the nearby bone tissue with other techniques such as chemicals or extreme cold (cryosurgery) to try to kill any remaining tumor cells.
+Bone cement
+The bone cement PMMA (polymethylmethacrylate) starts out as a liquid and hardens over time. It can be put into the hole in the bone in liquid form after curettage. As it hardens, it gives off a lot of heat, which might help kill any remaining tumor cells.
+Surgical treatment of bone tumor metastasis
+If bone cancer has spread (metastasized) to other parts of the body, these tumors need to be removed to have a chance at curing the cancer.
+When bone cancer spreads, it most often goes to the lungs. If surgery can be done to remove these metastases, it must be planned very carefully. Before the operation, the surgeon will consider the number of tumors, where they are (in one or both lungs), their size, and the person’s overall health.
+Imaging tests such as a chest CT scan might not show all of the tumors, so the surgeon will have a treatment plan ready in case more tumors are found during the operation.
+Some bone cancers might spread to other bones or to organs like the kidneys, liver, or brain. Whether these tumors can be removed with surgery depends on their size, location, and other factors.
+Unfortunately, not all cancers that have spread can be removed with surgery. Some metastases might be too big or too close to important structures (such as large blood vessels) to be removed safely. People whose overall health isn’t good (for example, because of heart, liver, or kidney problems) might not be able to withstand the stress of anesthesia and surgery to remove the metastases. If this is the case, other treatments might be offered to try to control these tumors for as long as possible.
+Side effects of surgery
+Short-term risks and side effects: Surgery to remove bone cancer can often be a long and complex operation. Serious short-term side effects are not common, but they can include reactions to anesthesia, excess bleeding, blood clots, and infections. Pain is common after the operation, and it might require strong pain medicines for a while after surgery as the site heals.
+Long-term side effects: The long-term side effects of surgery depend mainly on where the tumor is and what type of operation is done. Many bone cancers occur in bones of the arms or legs, and some of the long-term issues from surgery on these tumors are described above.
+Complications of limb-sparing surgery can include loose or broken bone grafts or prostheses. Infections are also a concern in people who have had amputations, especially of part of a leg, because the pressure placed on the skin at the site of the amputation can cause the skin to break down over time. It’s also possible that the surgery could damage nerves in the limb, which might affect the function of the limb or cause pain (known as neuropathic pain).
+As mentioned above, physical therapy and rehabilitation are very important after surgery for bone cancer. Following the recommended rehab program offers the best chance for good long-term limb function. Even with proper rehab, people might still have to adjust to long-term issues such as changes in how they walk or do other tasks, and changes in appearance. Physical, occupational, and other therapies can often help people adjust and cope with these challenges.The information here focuses on primary bone cancers (cancers that start in bones) that most often are seen in adults. Information on Osteosarcoma, Ewing Tumors (Ewing sarcomas), and Bone Metastasis is covered separately.
+Radiation therapy uses high-energy rays or particles to kill cancer cells.
+For most types of bone cancer, the cancer cells are not easily killed by radiation, so high doses are needed. This can damage nearby healthy tissues, including key structures (like nerves and blood vessels) in the area. Because of this, radiation therapy isn't used as a main treatment for most types of bone tumors (although it's often used for Ewing tumors).
+External beam radiation therapy is radiation delivered from outside the body that's focused on the cancer. This is the type of radiation therapy used most often to treat bone cancer.
+Before treatment starts, the radiation team takes careful measurements of the area to be treated with imaging tests such as MRI scans to determine the correct angles for aiming the radiation beams and the proper dose of radiation. This planning session is called simulation.
+Most often, radiation is given in more than one treatment. Each treatment is much like getting an x-ray, although the dose of radiation is much higher. The treatment is not painful. For each session, you lie on a special table while a machine delivers the radiation from precise angles.
+Each treatment lasts only a few minutes, although the setup time – getting you into place for treatment – usually takes longer.
+When might radiation therapy be used?
+Radiation therapy might be used in different situations:
+
+After surgery if it’s not clear that all of the cancer was removed (for example, if cancer cells were found in the edges (margins) of the removed tissue). This is done to try to kill any cancer cells that may have been left behind.
+Instead of surgery (possibly along with other treatments) for bone cancers that can’t be removed (resected) completely. It might help control the growth of the tumor, and can also help control symptoms like pain and swelling.
+
+Types of radiation therapy
+Because high doses of radiation are needed to kill bone cancer cells, doctors typically use special types of radiation therapy when treating them. These approaches allow them to control the size and strength of the radiation beams so that higher doses get to the tumor and spare the nearby tissues.
+Intensity-modulated radiation therapy (IMRT)
+With IMRT, a computer program is used to shape and aim radiation beams at the tumor from several different angles, as well as to adjust the strength (intensity) of the beams. This makes it possible to reduce radiation damage to nearby normal tissues while increasing the radiation dose to the cancer.
+Stereotactic radiosurgery (SRS)
+This technique lets doctors give a large dose of radiation to a small tumor area, usually in one session. Once imaging tests have been done to show the exact location of the tumor, a very thin beam of radiation is focused on the area from many different angles. This is typically done with a radiation source on the end of a computer-controlled robotic arm, which rotates around the person as they lie on a table. 
+Sometimes doctors give the radiation in several smaller treatments to deliver the same or slightly higher dose. This is called stereotactic body radiotherapy (SBRT).
+Proton-beam radiation therapy
+Proton-beam radiation therapy uses protons to kill cancer cells, instead of x-rays or other types of radiation.
+Protons are parts of atoms that travel a certain distance before releasing most of their energy, but that cause little damage to the tissues they pass through. This is different from x-rays, which give off the same amount of energy as they pass through normal tissue both before and after reaching the tumor. Doctors can use this property of protons to give higher doses of radiation to the tumor while doing less damage to the normal tissue around it. 
+This type of treatment can be helpful in treating tumors in small, intricate areas (such as the base of the skull or the spine), where it's very important to limit the radiation that reaches nearby structures.
+Proton beam radiation requires highly specialized equipment, and there are only a limited number of them in the United States at this time. 
+Side effects of radiation therapy
+Possible side effects of radiation therapy depend on what area of the body is being treated and how much radiation is used.
+Short-term problems can include effects on skin areas that receive radiation, which can range from mild sunburn-like changes and hair loss to more severe skin reactions. Radiation to the abdomen or pelvis can cause nausea, diarrhea, and urinary problems. Talk with your doctor about the possible side effects because there may be ways to relieve some of them.
+Depending on where the radiation is given, it can also damage other organs:
+
+Radiation to the chest wall or lungs can affect lung and heart function.
+Radiation to the jaw area might affect the salivary glands, which could lead to dry mouth and tooth problems.
+Radiation therapy to the spine or skull might affect the nerves in the spinal cord or brain. This could lead to nerve damage, headaches, and trouble thinking, which usually become most serious a year or two after treatment. Radiation to the spine might cause numbness or weakness in part of the body.
+Radiation to the pelvis can damage the bladder or intestines, which can lead to problems with urination or bowel movements. It can also damage reproductive organs, so doctors do their best to protect these organs by shielding them from the radiation or moving them out of the way whenever possible.
+Radiation that includes a joint (a place where two bones come together) might damage the joint, which could result in pain, scarring, and/or limited range of motion.
+
+Another concern with radiation therapy is that it might cause a new cancer to form in the part of the body that was treated. The higher the dose of radiation (and the younger a person is), the more likely this is to occur, but the overall risk is small and should not keep people who need radiation from getting it.The information here focuses on primary bone cancers (cancers that start in bones) that most often are seen in adults. Information on Osteosarcoma, Ewing Tumors (Ewing sarcomas), and Bone Metastasis is covered separately.
+Chemotherapy (chemo) is the use of drugs to treat cancer. These drugs are usually given into a vein (IV) and can reach and destroy cancer cells anywhere in the body, so chemo is most likely to be useful for cancers that have spread to other organs.
+Chemo is often an important part of treatment for Ewing sarcoma, osteosarcoma, and undifferentiated pleomorphic sarcoma (UPS). But it's used less often for most other types of bone cancers, like giant cell tumors and most types of chordomas and chondrosarcomas. These types aren’t very sensitive to chemo, so other medicines might be tried first instead.
+Chemo drugs commonly used to treat bone cancer
+Some of the chemo drugs that can be used to treat bone cancer include:
+
+Doxorubicin (Adriamycin)
+Cisplatin
+Etoposide (VP-16)
+Ifosfamide
+Cyclophosphamide
+Methotrexate
+Vincristine
+
+In most cases, 2 or more drugs are given together.
+Side effects of chemo
+Chemo kills cancer cells, but it also damages some normal cells, which can lead to side effects. These depend on the type of drugs and doses used, and the length of time they're taken.
+Some common short-term side effects can include:
+
+Nausea and vomiting
+Loss of appetite
+Hair loss
+Mouth sores
+Diarrhea
+
+Chemo can damage the bone marrow, where new blood cells are made. This can lead to low blood cell counts, which can result in:
+
+Increased chance of infection (from having too few white blood cells)
+Easy bleeding or bruising after minor cuts or injuries (from having too few platelets)
+Fatigue or shortness of breath (from having too few red blood cells)
+
+While you're getting chemo, your doctor will order lab tests to be sure your blood cell counts are at safe levels.
+Some side effects are linked to certain drugs. For example:
+
+Ifosfamide and cyclophosphamide can damage the lining of the bladder and cause bloody urine. The chance of this happening can be lowered by giving a drug called mesna during chemo, along with plenty of fluids.
+Cisplatin may cause nerve damage (called peripheral neuropathy) leading to problems with numbness, tingling, or pain in the hands and feet. Kidney damage can also occur after treatment. Giving lots of fluid before and after the drug is infused can help prevent this. Cisplatin can sometimes affect hearing, especially of high-pitched sounds. Your doctor may have you get a hearing test (called an audiogram) before giving cisplatin.
+Over time, doxorubicin can damage the heart. The risk of this goes up with the total amount of the drug given. Before giving doxorubicin, your doctor may test your heart function to make sure that it's safe to give you this drug.
+
+It’s important to note that many of the serious side effects are uncommon, but they can happen. Talk with your cancer care team so you know what to expect from the chemo you're getting.
+The doctors and nurses will watch you closely for side effects. Most side effects tend to go away in time after treatment is over. Still, it's important to tell your cancer care team about any side effects you have so they can be treated. Be sure to discuss any questions you have about side effects with the cancer care team, and tell them about any side effects so that they can be controlled.The information here focuses on primary bone cancers (cancers that start in bones) that most often are seen in adults. Information on Osteosarcoma, Ewing Tumors (Ewing sarcomas), and Bone Metastasis is covered separately.
+As researchers have learned more about the gene changes inside cells that can lead to bone cancer, they have developed newer drugs that specifically target some of these changes. These targeted drugs work differently from standard chemotherapy (chemo) drugs, and they tend to have different side effects.
+Targeted drugs are especially important in treating types of bone cancer where chemo has not been very useful, such as chordomas.
+Other types of non-chemo drugs that can be used to treat some types of bone cancers include bone-directed drugs and immunotherapy drugs.
+Targeted drugs for bone cancer
+The targeted drugs used to treat some types of bone cancers are known as kinase inhibitors. Kinases are proteins in the cell (or on its surface) that normally relay signals (such as telling the cell to grow). Blocking certain kinases can help stop or slow the growth of some tumors.
+These drugs are used most often to treat chordomas that have spread or have come back after treatment. Some of these drugs might also be used to treat advanced chondrosarcomas. 
+Examples of kinase inhibitors include:
+
+Imatinib (Gleevec)
+Dasatinib (Sprycel)
+Sunitinib (Sutent)
+Erlotinib (Tarceva)
+Lapatinib (Tykerb)
+Sorafenib (Nexavar)
+Regorafenib (Stivarga)
+Pazopanib (Votrient)
+
+These drugs are pills, typically taken once or twice a day. 
+The side effects of these drugs can vary, based on which one is being used, and can include things like diarrhea, nausea, muscle pain, and fatigue. Some of these drugs can cause itchy skin rashes or fluid build-up around the eyes, feet, or belly.
+Drugs that affect bone cells
+Denosumab (Xgeva) is a drug known as a RANKL inhibitor. The RANKL protein normally tells cells called osteoclasts to break down bone. By binding to RANKL denosumab can block this.
+This drug can be used to treat giant cell tumors of bone that have either come back after surgery or cannot be removed with surgery.
+This drug is injected under the skin (sub-q or SQ). Often, the tumor can take months to shrink.
+Most side effects are mild and can include body aches, fatigue, diarrhea, and nausea. A rare but very serious side effect of denosumab is damage to the jawbone, called osteonecrosis of the jaw (ONJ). This can lead to loss of teeth and/or infections of the jaw bone. ONJ can be triggered by having dental work while taking the drug. Maintaining good oral hygiene by flossing, brushing, making sure that dentures fit properly, and having regular dental check-ups may help prevent this. Most doctors recommend that patients have a dental check-up and have any tooth or jaw problems treated before they start taking this drug.
+Immunotherapy drugs for bone cancer
+Immunotherapy drugs help the body’s own immune system recognize and attack cancer cells.
+Pembrolizumab (Keytruda)
+An important part of the immune system is its ability to keep itself from attacking normal cells in the body. To do this, it uses “checkpoint” proteins on immune cells, which act like switches that need to be turned on (or off) to start an immune response. Cancer cells sometimes exploit these checkpoints to avoid being attacked by the immune system.
+Pembrolizumab targets the PD-1 checkpoint protein on immune system cells called T cells. This protein normally helps keep these cells from attacking other cells in the body. By blocking PD-1, this drug boosts the immune response against cancer cells. This can shrink some tumors or slow their growth.
+This drug can be used in some people with advanced bone cancer if the cancer cells have certain types of gene changes.
+Pembrolizumab is given as an intravenous (IV) infusion, typically once every 3 or 6 weeks.
+Possible side effects of this drug can include feeling tired or weak, cough, nausea, itching, skin rash, loss of appetite, muscle or joint pain, shortness of breath, and constipation or diarrhea.
+Other, more serious side effects occur less often:
+Infusion reactions: This is like an allergic reaction, and can include fever, chills, flushing of the face, rash, itchy skin, feeling dizzy, wheezing, and trouble breathing. It’s important to tell your doctor or nurse right away if you have any of these symptoms while getting this drug.
+Autoimmune reactions: This drug works by basically removing one of the safeguards on the body’s immune system. Sometimes the immune system starts attacking other parts of the body, which can cause serious or even life-threatening problems in the lungs, intestines, liver, hormone-making (endocrine) glands, kidneys, skin, or other organs.
+Interferon alfa-2b
+Interferons are a family of substances naturally made by our immune system. Interferon alfa-2b may be used to treat giant cell tumors of the bone that have come back after treatment or that have spread.
+This drug is most often given daily as an injection under the skin. It can also be injected into a muscle or vein.
+Interferon can cause significant side effects. These include "flu-like" symptoms like muscle aches, bone pain, fever, headaches, fatigue, nausea, and vomiting. Patients taking this drug might have problems thinking and concentrating. Interferon can also lower blood cell counts. These effects continue as long as the drug is used, but can become easier to tolerate over time. Still, some patients find it hard to deal with these side effects every day and may need to stop treatment because of them.
+For more information about drugs that help the immune system attack cancer, see Immunotherapy.The information here focuses on primary bone cancers (cancers that start in bones) that most often are seen in adults. Information on Osteosarcoma, Ewing Tumors (Ewing sarcomas), and Bone Metastasis is covered separately.
+The treatment of bone cancers in adults depends on the type of bone cancer, where the cancer started, its stage (extent), a person’s overall health and preferences, and other factors.
+Often, more than one type of treatment is used. Treating these cancers can be complex, so they are often best treated by a team of different types of doctors who have experience with them.The information here focuses on primary bone cancers (cancers that start in bones) that most often are seen in adults. Information on Osteosarcoma, Ewing Tumors (Ewing sarcomas), and Bone Metastasis is covered separately.
+For some people with bone cancer, treatment may remove or destroy the cancer. Completing treatment for bone cancer can be both stressful and exciting. You may be relieved to finish treatment, but you might find it hard not to worry about cancer coming back. This is very common if you've had cancer.
+For some other people, the cancer might never go away completely. They might get regular treatments to help keep the cancer in check for as long as possible and to prevent or limit any problems it might cause. Learning to live with cancer that does not go away can be difficult and very stressful. 
+Follow-up care
+Even if you've completed treatment, your doctors will still want to watch you closely. It's very important to go to all of your follow-up appointments. During these visits, your doctors will ask about any problems you might be having and may do exams and order lab or imaging tests to look for signs that the cancer might have come back.
+Exams and tests will probably be done every 3 to 6 months for the first few years, but as time goes on, the time between scans and visits may get longer. Because many types of primary bone tumors can come back even years after treatment, you might need regular imaging tests for many years.
+Your doctors will also look for treatment side effects. Almost any cancer treatment can have side effects. Some might last for only a short time, but others can last longer. Your doctor visits are a good time for you to talk to your cancer care team about any changes you notice or any problems or concerns you have.
+After bone surgery, fitting for a prosthetic limb, rehabilitation, and/or physical therapy might be important to help you regain as much of your independence and ability to move as possible. For more on this, see Surgery for Bone Cancer.
+
+Ask your doctor for a survivorship care plan
+Talk with your doctor about developing a survivorship care plan for you. This plan might include: 
+
+A suggested schedule for follow-up exams and tests
+A schedule for other tests you might need in the future, such as early detection (screening) tests for other types of cancer, or tests to look for long-term health effects from your cancer or its treatment
+A list of possible late- or long-term side effects from your treatment, including what to watch for and when you should contact your doctor
+Diet and physical activity suggestions
+Reminders to keep your appointments with your primary care provider, who will monitor your general health care 
+
+Keeping health insurance and copies of your medical records
+As much as you might want to put the experience behind you once treatment is completed, it’s also very important to keep good records of your medical care during this time. Gathering these details soon after treatment may be easier than trying to get them at some point in the future. This can be very helpful later on if you change doctors. Learn more in Keeping Copies of Important Medical Records.
+It’s also very important to keep health insurance coverage. Tests and doctor visits can cost a lot, and even though no one wants to think of the tumor coming back, this could happen.
+Can I lower my risk of the bone cancer progressing or coming back?
+If you have (or have had) primary bone cancer, you probably want to know if there are things you can do that might lower your risk of the cancer growing or coming back, such as exercising, eating a certain type of diet, or taking nutritional supplements. Unfortunately, it’s not yet clear if there are things you can do that will help.
+Adopting healthy behaviors such as not smoking, eating well, getting regular physical activity, and staying at a healthy weight might help, but no one knows for sure. Still, we do know that these types of changes can have positive effects on your overall health beyond your risk of bone cancer or other cancers.
+About dietary supplements
+So far, no dietary supplements (including vitamins, minerals, and herbal products) have been shown to clearly help lower the risk of bone cancer progressing or coming back. This doesn’t mean that no supplements will help, but it’s important to know that none have been proven to do so.
+Dietary supplements are not regulated like medicines in the United States – they do not have to be proven effective (or even safe) before being sold, although there are limits on what they’re allowed to claim they can do. If you’re thinking about taking any type of nutritional supplement, talk to your health care team. They can help you decide which ones you can use safely while avoiding those that might be harmful.
+If the cancer comes back
+If the cancer does come back (recur) at some point, your treatment options will depend on where the cancer is located, what treatments you’ve had before, and your overall health. For more information, see Treating Specific Types of Bone Cancers.
+For more general information, see Understanding Recurrence.
+Could I get a second cancer after treatment?
+People who’ve had bone cancer can still get other cancers. In fact, bone cancer survivors are at higher risk for getting some other types of cancer.
+Survivors of bone cancer have an increased risk of getting another bone cancer. (This is different from the first cancer coming back.) Sometimes this is the same kind of cancer as the original tumor, but it can also be a different type. 
+Survivors of bone cancer also have an increased risk of:
+
+Soft tissue sarcoma
+Lung cancer
+Esophagus cancer
+Stomach cancer
+Colorectal cancer
+Liver cancer
+Pancreas cancer
+Acute myeloid leukemia (AML)
+
+The risk of leukemia is linked to treatment with chemotherapy.
+Experts don’t recommend any additional screening tests to look for second cancers in people who’ve had bone cancer. Still, it’s important to let your doctor know about any new symptoms or problems you have, because they could be caused by the bone cancer coming back, or by a new disease or second cancer.
+Like other people, survivors of bone cancer should follow the American Cancer Society guidelines for the early detection of cancer and should stay away from tobacco products, which increase the risk of many types of cancer.
+To help maintain good health, survivors should also:
+
+Get to and stay at a healthy weight.
+Keep physically active and limit the time spent sitting or lying down.
+Follow a healthy eating pattern that includes plenty of fruits, vegetables, and whole grains, and limits or avoids red and processed meats, sugary drinks, and highly processed foods.
+Avoid or limit alcohol. If you do drink, have no more than 1 drink per day for women or 2 per day for men.
+
+These steps may also help lower the risk of some other health problems.
+See Second Cancers in Adults for more information about second cancers.What is bone cancer?
+Cancer starts when cells begin to grow out of control. Cells in nearly any part of the body can become cancer, and can then spread to other parts of the body. To learn more about cancer and how it starts and spreads, see What Is Cancer?
+Primary bone cancers start when the cells in the bone start to grow out of control.
+Primary bone cancer versus bone metastasis
+Primary bone cancers start in bones. Most bone cancers in children and teens are primary bone cancers.
+But in adults, most cancers in the bones started in a different organ and then spread to the bones. This is known as bone metastasis, and it can happen with some common cancers like breast, prostate, or lung cancer. For example, breast cancer that spreads to the bones is not bone cancer, it’s metastatic breast cancer. The cancer cells in the bone look like the cancer cells in the breast, and they're treated the same way.
+Types of bone cancer
+There are many types of bone cancer. Your doctor can tell you more about the type you have.
+Osteosarcoma and Ewing tumors (Ewing sarcomas) are the most common bone cancers in children and teens. For more on these cancers, click on their links.
+The most common types of bone cancer in adults include:
+
+Chondrosarcoma
+Undifferentiated pleomorphic sarcoma (UPS) of bone (formerly known as malignant fibrous histiocytoma [MFH] of bone)
+Fibrosarcoma of bone
+Malignant giant cell tumor of bone
+Chordoma
+
+Other cancers that can start in the bones
+Some cancers start in the bone marrow (the center of the bones, where new blood cells are made). These cancers include multiple myeloma, leukemias, and some non-Hodgkin lymphomas. These are not thought of as bone cancers. For more on these cancers, click on the links above.
+Questions to ask the doctor
+
+Why do you think I have bone cancer?
+Is there a chance I don’t have bone cancer?
+Would you please write down the kind of bone cancer you think I might have?
+Where is the cancer? Which bone is it in?
+What will happen next?
+
+How does the doctor know I have bone cancer?
+These cancers may not be found until they cause pain that makes a person go to the doctor. Other signs or symptoms of bone cancer can include swelling, a lump, and/or the bone breaking.
+The doctor will ask you questions about your health and do a physical exam. If signs are pointing to bone cancer, tests will be needed to find out for sure. Here are some of the tests you may need:
+X-rays: Most bone cancers can be seen on x-rays, so this is often the first test done if a person might have bone cancer.
+MRI scan: MRIs use radio waves and strong magnets instead of x-rays to make detailed pictures of the body. MRIs can be used to learn more about the size and shape of a tumor in a bone.
+CT scan (CAT scan): This test combines many x-rays to make detailed pictures. It can be used to see if the cancer has spread to the liver, lungs, or other organs.
+Bone scan: This test may be done to see if the cancer has spread to other bones. A small amount of low-level radioactive substance is put into your blood. It settles in damaged areas of bone all over the body. A special camera shows the radioactivity and makes a picture of your bones.
+PET scan: A PET scan is like a bone scan, but it uses a type of sugar that can be seen inside your body with a special camera. Where there is cancer, this sugar shows up as a “hot spot.” This test is useful when your doctor thinks the cancer might have spread, but doesn’t know where. Some machines can do both a PET and a CT scan at the same time (known as a PET/CT scan).
+Biopsy: For this test, the doctor takes out small pieces of the tumor. These are checked for cancer cells. This is the only way to know for sure if you have bone cancer (and what type it is). Biopsies can be done with a hollow needle or with surgery. Ask the doctor what kind of biopsy you need and how it’s done.
+If the tumor is in a bone, it’s very important that a surgeon who treats a lot of bone tumors does the biopsy. This might affect treatment later on.
+Questions to ask the doctor
+
+What tests will I need?
+Who will do these tests?
+Where will they be done?
+Who can explain them to me?
+How and when will I get the results?
+Who will explain the results to me?
+What do we need to do next?
+
+How serious is my cancer?
+If you have bone cancer, the doctor will want to find out how far it has spread. This is called staging. Your doctor will want to find out the stage of your cancer to help decide what type of treatment is best for you.
+The stage describes how much the cancer grew in the place it started. It also tells if the cancer has spread to other parts of your body.
+Your cancer can be stage 1, 2, 3, or 4. The lower the number, the less the cancer has spread. A higher number means a more serious cancer. Be sure to ask the doctor about the cancer stage and what it means for you.
+Questions to ask the doctor
+
+Do you know the stage of my cancer?
+If not, how and when will you find out the stage?
+Would you explain what the stage means for me?
+How might the stage of the cancer affect my treatment?
+What will happen next?
+
+What kind of treatment will I need?
+There are many ways to treat bone cancer:
+Surgery and radiation treat only the cancer in the bone. They do not affect the rest of the body.
+Chemo, targeted drugs, and other types of drugs go through the whole body. They can reach cancer cells almost anywhere in the body.
+Doctors often use both types of treatments for bone cancers. The treatment plan that’s best for you will depend on:
+
+The type of bone cancer
+Where the cancer is
+The stage of the cancer
+The chance that a type of treatment will cure the cancer or help in some way
+Your age and overall health
+Your feelings about the treatment and the side effects that come with it
+
+Surgery
+Surgery is an important part of treatment for most kinds of bone cancer. The goal of surgery is to take out all of the cancer. Often some of the normal tissue around it needs to be removed as well. In rare cases, the arm or leg with cancer needs to be amputated to get all the cancer. If the cancer has spread, those tumors need to be taken out, too.
+Surgery can also be used to help rebuild or repair the changes caused by taking out the bone with cancer.
+Ask your doctor what kind of surgery you need and how the surgery will be done.
+Side effects of surgery
+Any type of surgery can have risks and side effects, such as bleeding, blood clots, and infections. And surgery on different parts of the body can have different side effects. Ask the doctor what you can expect. If you have problems, let your doctors know. Doctors who treat people with bone cancer should be able to help you with any problems that come up.
+Radiation
+Radiation uses high-energy rays (like x-rays) to kill cancer cells. Most bone cancer cells are not easily killed with radiation, so this type of treatment isn't used for all bone cancers. It may be used if surgery can't take out a tumor. It also may be used after surgery to kill cancer cells that may have been left behind.
+Radiation is aimed at the cancer from a machine outside the body. This is called external beam radiation.
+Side effects of radiation treatments
+If your doctor suggests radiation treatment, talk about what side effects might happen. Side effects depend on the part of your body that’s treated. The most common side effects of radiation are:
+
+Skin changes where the radiation is given
+Feeling very tired
+Low blood cell counts
+
+Most side effects get better after treatment ends, but some might last longer. Talk to your cancer care team about what you can expect.
+Chemotherapy (chemo)
+Chemotherapy is the use of drugs to fight cancer. The drugs are often given through a needle into a vein. These drugs go into the blood and spread through the body.
+Chemo is given in cycles or rounds. Each round of treatment is followed by a rest break. Most of the time, 2 or more chemo drugs are given. Treatment often lasts for many months.
+Side effects of chemo
+Chemo can make you feel very tired, sick to your stomach, or cause your hair to fall out. But these problems go away after treatment ends. Some chemo drugs might cause other side effects, some of which might last a long time.
+There are ways to treat most chemo side effects. If you have side effects, talk to your cancer care team so they can help.
+Targeted and other drugs
+Targeted drugs work mostly on the changes in cells that make them cancer. These drugs work differently from chemo drugs. They may work even if other treatment doesn’t.
+Some other types of drugs might affect only bone cells, or they might help the body's immune system fight the cancer. These types of drugs can be helpful in treating some types of bone cancer.
+Side effects of targeted drugs
+Side effects depend on which drug is used. These drugs might make you feel sick to your stomach or cause chills, fever, rashes, and headaches. Side effects often go away after treatment ends.
+There are ways to treat most of the side effects caused by targeted or other types of drugs. If you have side effects, tell your cancer care team so they can help.
+Clinical trials
+Clinical trials are research studies that test new drugs or other treatments in people. They compare standard treatments with others that may be better.
+If you would like to learn more about clinical trials that might be right for you, start by asking your doctor about them.
+Clinical trials are one way to get state-of-the art cancer treatment. They are often the best way for doctors to find better ways to treat cancer. But they might not be right for everyone. If your doctor can find one that’s studying the kind of cancer you have, it’s up to you whether to take part. And if you do sign up for a clinical trial, you can always stop at any time.
+What about other treatments I hear about?
+When you have cancer you might hear about other ways to treat it or treat your symptoms. These might not always be standard medical treatments. These treatments could be vitamins, herbs, diets, and other things.
+Some of these treatments might be helpful, but many have not been tested. Some have been shown not to help. A few have even been found to be harmful. Talk to your doctor about anything you’re thinking about using, whether it’s a vitamin, a diet, or anything else.
+Questions to ask the doctor
+
+What treatment do you think is best for me?
+What’s the goal of treatment? Do you think it could cure the cancer?
+Will treatment include surgery? If so, who will do the surgery?
+What will the surgery be like?
+Will surgery change the way my body looks and works?
+Will I need rehab after surgery?
+Will I need other types of treatment, too?
+What will these treatments be like?
+What side effects could I have from these treatments?
+What can I do about side effects that I might have?
+Is there a clinical trial that might be right for me?
+What about vitamins or diets that friends tell me about? How will I know if they are safe?
+How soon do I need to start treatment?
+What should I do to be ready for treatment?
+Is there anything I can do to help the treatment work better?
+What’s the next step?
+
+What will happen after treatment?
+You’ll be glad once treatment is over. But it can be hard not to worry about cancer coming back. Even when cancer never comes back, people still worry about it. For years after treatment ends, you will need to see your cancer doctor. Be sure to go to all of these follow-up visits. You might have exams, blood tests, scans, x-rays, and maybe other tests to see if the cancer has come back.
+At first, your visits may be every few months. Then, the longer you’re cancer-free, the less often the visits are needed. Your doctor will tell you which tests should be done and how often based on the type and stage of your cancer and what treatments you've had.
+Having cancer and dealing with treatment can be hard, but it can also be a time to look at your life in new ways. You might be thinking about how to improve your health. Call us or talk to your doctor to find out what you can do to feel better.

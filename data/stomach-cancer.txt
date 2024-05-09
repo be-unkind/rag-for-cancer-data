@@ -1,0 +1,664 @@
+Cancer starts when cells in the body begin to grow out of control. Cells in nearly any part of the body can become cancer, and can then spread to other areas of the body. To learn more about cancer and how it starts and spreads, see What Is Cancer?
+Stomach cancer, also called gastric cancer, begins when cells in the stomach start to grow out of control.
+The stomach
+To understand stomach cancer, it helps to know about the normal structure and function of the stomach.How common is stomach cancer?
+The American Cancer Society’s estimates for stomach cancer (also known as gastric cancer) in the United States for 2024 are:
+
+About 26,890 new cases of stomach cancer (16,160 in men and 10,730 in women)
+About 10,880 deaths from this type of cancer (6,490 men and 4,390 women)
+
+Stomach cancer accounts for about 1.5% of all new cancers diagnosed in the US each year.
+Who gets stomach cancer?
+Stomach cancer mostly affects older people. The average age of people when they are diagnosed is 68. About 6 of every 10 people diagnosed with stomach cancer each year are 65 or older.
+The lifetime risk of developing stomach cancer is higher in men (about 1 in 101) than in women (about 1 in 155). But each person's risk can be affected by many other factors.
+Stomach cancer trends over time
+In the US, the number of new cases of stomach cancer has been dropping by about 1.5% each year over the last 10 years.
+For much of the early 20th century, stomach cancer was the leading cause of cancer death in the United States, but today it is well down on this list. The reasons for this aren't completely clear, but two main factors are thought to have been important:
+
+The increased use of refrigeration for food storage, which has led to people eating fewer salted and smoked foods (known risk factors for stomach cancer).
+The decline in the number of people infected with the Helicobacter pylori (H pylori) bacteria, which is thought to be a major cause of stomach cancer.
+
+While stomach cancer has become less common in the US, it's still much more common in some other parts of the world, particularly in East Asia. It remains one of the leading causes of cancer-related deaths in the world.
+For statistics on survival for stomach cancer, see Survival Rates for Stomach Cancer.
+Visit the American Cancer Society’s Cancer Statistics Center for more key statistics.Important research on stomach cancer (also known as gastric cancer) is being done in many medical centers and other institutions around the world. Scientists are learning more about what causes the disease and how best to prevent, detect, and treat it.
+Risk factors
+Diet
+Research has clearly shown that differences in diet are an important factor in explaining variations in stomach cancer risk around the world. Research in countries with relatively low stomach cancer risk has provided some insight into risk factors. For example, diets high in preserved meats and low in fresh fruits and vegetables have been linked with higher risk.
+Helicobacter pylori infection
+Helicobacter pylori (H﻿ pylori) is a common type of bacteria that has been linked with an increased risk of stomach cancer. Some studies have shown that certain types of H pylori (especially the cagA strains) are more strongly linked to stomach cancer than others. Some inherited traits related to blood groups may also affect whether someone infected with H pylori will develop cancer. Further research is needed to help doctors determine how to use this information to test which people might be at higher risk for developing stomach cancer.
+Research has also found that a healthy diet is important for reducing stomach cancer risk for people infected with H pylori.
+Chemoprevention
+Chemoprevention is the use of natural or man-made chemicals to lower the risk of developing cancer.
+Antioxidants
+One of the ways cancer might form is by the creation of chemicals inside cells called free radicals. Free radicals can sometimes damage the genes inside cells, which in some cases might lead to cancer.
+Antioxidants are a group of nutrients and other chemicals that can destroy free radicals or prevent them from forming. These nutrients include vitamin C, beta-carotene, vitamin E, and the mineral selenium.
+Studies that have looked at using dietary supplements to lower stomach cancer risk have had mixed results so far. There is some evidence that antioxidant supplements might reduce the risk of stomach cancer in people with poor nutrition to begin with, but it's not clear if they'd have the same effects in people who eat healthier diets. Further research in this area is needed.
+Antibiotics
+Some studies have found that treating chronic H pylori infection with antibiotics may help prevent pre-cancerous stomach abnormalities, but more research is needed.
+Although not truly chemoprevention, antibiotics may help prevent stomach cancer from recurring (coming back) in some cases. Research has shown that antibiotics may lower the risk that the cancer will come back in another part of the stomach in people who have been treated for early-stage stomach cancer. Unfortunately, stomach cancers are more often found at a later stage in the United States, so it's not clear how useful these results might be here.
+Non-steroidal anti-inflammatory drugs (including aspirin)
+Some (but not all) studies have found that people who take non-steroidal anti-inflammatory drugs (NSAIDs) such as aspirin or ibuprofen might have a lower risk of stomach cancer. More research is needed to better define this possible link. In the meantime, doctors generally don't recommend taking these medicines just to try to lower your risk of cancer, because they can cause serious side effects in some people.
+Staging
+Sentinel lymph node biopsy
+In people diagnosed with stomach cancer, it’s important to find out if it has spread to nearby lymph nodes. Doctors are studying whether sentinel lymph node biopsy (SLNB) can help find the spread of stomach cancer. This technique has proved successful in melanoma and breast cancer.
+In this procedure, the surgeon injects a blue dye and/or a radioactive tracer substance into the cancer. These travel to the sentinel lymph nodes, the nearby lymph nodes that would be the first site of cancer spread. Once these nodes are found with the help of the dye or tracer, the doctors can remove these lymph nodes and look for cancer. If no cancer is found in these lymph nodes, then the cancer is unlikely to have reached others, and a full lymph node removal might not be needed. If cancer is found in the sentinel lymph node(s), then all the lymph nodes in the area would need to be removed.
+This technique has been shown to help find more lymph nodes to remove, and to find lymph nodes that are more likely to contain cancer cells. But it's not yet clear if this technique is ready for widespread use.
+Treatment
+Surgery
+Doctors are constantly working to improve the surgical techniques used to treat stomach cancer. 
+For some very early stage stomach cancers, surgery can be done using endoscopy, in which long, thin instruments are passed down the throat to remove the cancer and some layers of the stomach wall (see Surgery for Stomach Cancer). Surgeons are looking for ways to improve this approach. Unfortunately, most stomach cancers in the United States are not found early enough for this type of surgery.
+Surgeons are also studying different approaches to removing part or all of the stomach. For example, some surgeons now do these operations laparoscopically, in which long, thin instruments are passed through small cuts in the abdomen to remove the cancer. This can be done with the surgeon holding the instruments directly, or while sitting at a control panel to move robotic arms with instruments on the ends. While laparoscopic surgery usually results in a shorter hospital stay and a quicker recovery, it’s not yet clear how it compares to standard surgery (using a longer abdominal incision) in terms of other results.
+Chemotherapy
+Many chemotherapy (chemo) drugs can be used to treat stomach cancer, often in combination with each other. Newer chemo drugs are also being studied. For example, S-1 is an oral chemo drug related to 5-FU. This drug is commonly used for stomach cancer in some other parts of the world, but it is not yet available in the United States.
+New ways of giving chemo are also being studied. For example, some doctors are looking at infusing chemo directly into the abdomen (intraperitoneal chemotherapy) to see if it might work better with fewer side effects.
+Other studies are testing the best ways to combine chemo with other treatments such as radiation therapy, targeted therapy drugs, or immunotherapy.
+A good deal of effort is being directed at improving the results of surgery by adding chemo and/or radiation therapy either before or after surgery. Some studies are also looking at benefits of giving chemo during surgery. Several clinical trials are in progress.
+Targeted therapy drugs
+Chemo drugs affect cells that divide rapidly, which is why they work against cancer cells. But there are other aspects of cancer cells that make them different from normal cells. In recent years, researchers have developed newer targeted drugs to try to exploit these differences. Targeted drugs sometimes work when standard chemo drugs don't. They also tend to have different side effects than chemo drugs.
+Drugs that block HER2: Some stomach cancers have too much of the HER2 protein on the surface of their cells, which helps them grow. Drugs that target this protein, such as trastuzumab (Herceptin) and fam-trastuzumab deruxtecan (Enhertu), can be used to help treat these cancers. Many other drugs that target HER2, such as lapatinib (Tykerb), pertuzumab (Perjeta), trastuzumab emtansine (Kadcyla), and margetuximab, are now being studied for use against stomach cancer in clinical trials.
+Drugs that block VEGF and its receptors: VEGF is a protein that helps tumors develop new blood vessels, which they need to grow. Drugs that target VEGF (or the VEGF receptors on the surface of cells) can help stop some stomach cancers from growing. Ramucirumab (Cyramza), a drug that blocks VEGF receptors, can be used to treat some advanced stomach cancers. Other targeted drugs that target VEGF receptors, such as apatinib, are also being studied.
+Other targeted drugs: Many other drugs that target different parts of cancer cells are now being studied for use against stomach cancer as well.
+Research is also looking at combining targeted drugs with chemotherapy or immunotherapy, or with other targeted drugs.
+Immunotherapy
+Immunotherapy is an approach that uses drugs to help the body's immune system fight the cancer.
+In recent years, drugs called immune checkpoint inhibitors have been shown to be helpful in treating many types of cancer. One of these drugs, pembrolizumab (Keytruda) is now approved to treat advanced stomach cancer in some people, typically after other treatments have been tried. Doctors are now studying whether this drug might be helpful earlier in the course of treatment, or if combining it with other drugs might be helpful. Several other checkpoint inhibitors are also being studied for use in stomach cancer.
+Other types of immunotherapy are now being tested for use against stomach cancer as well.
+For more information on this type of treatment, see Immunotherapy.A risk factor is anything that raises your chances of getting a disease such as cancer. Different cancers have different risk factors. Some risk factors, like smoking, can be changed. Others, like a person’s age or family history, can’t be changed.
+But having a risk factor, or even several risk factors, does not mean that you will get the disease. Many people with one or more risk factors never get cancer, while others who get cancer may have had few or no known risk factors.
+Scientists have found several risk factors that make a person more likely to get stomach cancer. Some of these can be controlled, but others cannot.
+Sex
+Stomach cancer is more common in men than in women.
+Age
+Stomach cancer can occur in younger people, but the risk goes up as a person gets older. Most people diagnosed with stomach cancer are in their 60s, 70s, or 80s.
+Ethnicity
+In the United States, stomach cancer is more common in Hispanic Americans, African Americans, Native Americans, Asian Americans, and Pacific Islanders than it is in non-Hispanic White people.
+Geography
+Worldwide, stomach cancer is more common in East Asia, Eastern Europe, and South and Central America. This disease is less common in Africa and North America.
+Helicobacter pylori infection
+Infection with Helicobacter pylori (H pylori) bacteria seems to be a major cause of stomach cancer, especially cancers in the lower (distal) part of the stomach. Long-term infection of the stomach with this germ may lead to atrophic gastritis and other pre-cancerous changes of the inner lining of the stomach. 
+People with stomach cancer have a higher rate of H pylori infection than people without this cancer. H pylori infection is also linked to some types of lymphoma of the stomach. Even so, most people who carry this germ in their stomach never develop cancer.
+Being overweight or obese
+Being overweight or obese is linked with an increased risk of cancers of the cardia (the upper part of the stomach near the esophagus).
+Diet
+Stomach cancer risk is increased in people whose diets include large amounts of foods preserved by salting, such as salted fish and meat and pickled vegetables.
+Eating processed, grilled, or charcoaled meats regularly appears to increase risk of non-cardia stomach cancers.  
+Eating few or no fruits likely increases the risk of stomach cancer.  On the other hand, eating lots of fresh fruits (especially citrus fruits) and raw vegetables appears to lower the risk of stomach cancer.  
+Alcohol use
+Alcohol use probably increases the risk of stomach cancer. The evidence for this link is strongest for people who have 3 or more drinks per day.
+Tobacco use
+Smoking increases stomach cancer risk, particularly for cancers of the upper part of the stomach near the esophagus. The rate of stomach cancer is about doubled in people who smoke.
+Previous stomach surgery
+Stomach cancers are more likely to develop in people who have had part of their stomach removed to treat non-cancerous diseases such as ulcers. This might be because the stomach makes less acid, which allows more harmful bacteria to be present. Reflux (backup) of bile from the small intestine into the stomach after surgery might also add to the increased risk. These cancers typically develop many years after the surgery.
+Some types of stomach polyps
+Polyps are non-cancerous growths on the lining of the stomach. Most types of polyps (such as hyperplastic polyps or inflammatory polyps) do not seem to increase a person’s risk of stomach cancer much, if at all. But adenomatous polyps – also called adenomas – can sometimes develop into cancer.
+Pernicious anemia
+Certain cells in the stomach lining normally make a substance called intrinsic factor (IF) that the body needs to absorb vitamin B12 from foods. People without enough IF may end up with a vitamin B12 deficiency, which affects the body’s ability to make new red blood cells and can cause other problems as well. This condition, called pernicious anemia, can be caused by certain autoimmune conditions, as well as by some types of stomach surgery. Along with anemia (having too few red blood cells), people with this disease have an increased risk of stomach cancer.
+Menetrier disease (hypertrophic gastropathy)
+In this condition, excess growth of the stomach's inner lining causes large folds in the lining and leads to low levels of stomach acid. Because this disease is very rare, it is not known exactly how much this increases the risk of stomach cancer.
+Inherited cancer syndromes
+Some people inherit gene mutations (changes) from their parents that lead to conditions that can raise their risk of stomach cancer. These inherited syndromes account for only a small percentage of stomach cancers worldwide.
+Hereditary diffuse gastric cancer (HDGC)
+This inherited syndrome greatly increases the risk of developing stomach cancer. This condition is rare, but the lifetime stomach cancer risk among affected people is up to 70%. Women with this syndrome also have an increased risk of invasive lobular breast cancer. This syndrome is most often caused by mutations in the CDH1 gene.
+Lynch syndrome (hereditary non-polyposis colorectal cancer, or HNPCC)
+Lynch syndrome (formerly known as HNPCC) is an inherited genetic disorder that increases the risk of colorectal cancer, stomach cancer, and some other cancers. This syndrome is caused by mutations in one of the mismatch repair (MMR) genes, such as MLH1 or MSH2. These genes normally help repair DNA that has been damaged.
+Familial adenomatous polyposis (FAP)
+People with FAP get many polyps in the colon, and sometimes in the stomach and intestines, starting at an early age. People with this syndrome have a very high risk of getting colorectal cancer and a slightly increased risk of getting stomach cancer. FAP is caused by mutations in the APC gene.
+Gastric adenoma and proximal polyposis of the stomach (GAPPS)
+This rare condition is caused by a mutation in a specific part of the APC gene. People with GAPPS develop many polyps in the stomach and have an increased risk of stomach cancer.
+Li-Fraumeni syndrome
+People with this syndrome have an increased risk of several types of cancer, including developing stomach cancer at a relatively young age. Li-Fraumeni syndrome is caused by a mutation in the TP53 gene.
+Peutz-Jeghers syndrome (PJS)
+People with this condition develop polyps in the stomach and intestines, as well as in other areas including the nose, the airways of the lungs, and the bladder. The polyps in the stomach and intestines are called hamartomas. They can cause problems like bleeding or blockage of the intestines. PJS can also cause dark freckle-like spots on the lips, inner cheeks and other areas. People with PJS have an increased risk of several types of cancer, including cancers of the colon, pancreas, stomach, and breast. This syndrome is caused by mutations in the STK11 gene.
+A family history of stomach cancer
+People with first-degree relatives (parents, siblings, or children) who have had stomach cancer are more likely to develop this disease, even without one of the inherited cancer syndromes described above. Still, most people who get stomach cancer do not have a family history of it.
+Common variable immune deficiency (CVID)
+In people with CVID, the immune system can’t make enough antibodies to help protect against germs. This can lead to frequent infections as well as other problems, including atrophic gastritis and pernicious anemia. People with CVID are more likely to get gastric lymphoma and stomach cancer.
+Epstein-Barr virus (EBV) infection
+Epstein-Barr virus causes infectious mononucleosis (also called mono). Most people are infected with this virus at some time in their lives, usually as children or teens.
+EBV has been linked to nasopharyngeal cancer and to some forms of lymphoma. It is also found in the cancer cells of about 5% to 10% of people with stomach cancer, although it isn’t yet clear if the virus actually causes stomach cancer. Stomach cancers linked to EBV tend to be slower growing and have less of a tendency to spread.
+Certain occupations
+Workers in the coal, metal, and rubber industries seem to have a higher risk of getting stomach cancer.
+Having type A blood
+Blood type groups refer to certain substances that are normally present on the surface of red blood cells and some other types of cells. These groups are important in matching blood for transfusions. For unknown reasons, people with type A blood have a higher risk of getting stomach cancer.There are many known risk factors for stomach cancer (also called gastric cancer), but often it's not clear exactly how these factors might affect how cells in the stomach become cancer cells. This is the subject of ongoing research.
+Pre-cancerous changes in the stomach
+Several changes thought to be pre-cancerous can occur in the inner lining of the stomach.
+In atrophic gastritis, the normal gland cells of the stomach are either fewer or absent. There is also some degree of inflammation (in which the stomach cells are damaged by cells of the immune system). Atrophic gastritis is often caused by infection with H pylori bacteria (see below). It can also be caused by an autoimmune reaction, in which a person’s immune system attacks the cells lining the stomach. Some people with this condition go on to develop pernicious anemia or other stomach problems, including cancer.
+Another possible pre-cancerous change is intestinal metaplasia. In this condition, the cells that normally line the stomach are replaced by cells that look like the cells that usually line the intestine. People with this condition often have chronic atrophic gastritis as well. This might also be related to H pylori infection.
+Both atrophic gastritis and intestinal metaplasia can lead to having too few gland cells, which would normally secrete substances that help protect the cells in the stomach’s inner lining. Damage to the DNA inside these cells can sometimes lead to dysplasia, in which the cells become larger and very abnormal looking (more like cancer cells). In some cases, dysplasia can then progress to stomach cancer.
+Changes in genes (DNA) in stomach cancer cells
+Recent research has provided clues on how some stomach cancers form. For instance, H pylori bacteria, particularly certain subtypes, can convert substances in some foods into chemicals that cause mutations (changes) in the DNA of the cells in the stomach lining. This may help explain why certain foods such as preserved meats increase a person’s risk for stomach cancer. On the other hand, some of the foods that might lower stomach cancer risk, such as fruits and vegetables, contain antioxidants (like vitamins A and C) that can block substances that damage a cell’s DNA.
+Stomach cancers, like other cancers, are caused by changes in the DNA inside cells. DNA is the chemical that carries our genes, which control how our cells function. We look like our parents because they are the source of our DNA. But DNA affects more than how we look.
+Some genes control when cells grow, divide into new cells, and die:
+
+Genes that normally help cells grow, divide, and stay alive can sometimes change to become oncogenes.
+Genes that help keep cell division under control, repair mistakes in DNA, or cause cells to die at the right time are called tumor suppressor genes.
+
+Cancers can be caused by DNA changes that keep oncogenes turned on, or that turn off tumor suppressor genes.
+Inherited versus acquired gene mutations
+Inherited mutations in some genes (as explained in Stomach Cancer Risk Factors) can increase a person’s stomach cancer risk. But these are thought to cause only a small percentage of stomach cancers.
+Most of the gene changes that lead to stomach cancer occur after birth. Some of these acquired mutations might be caused by risk factors such as H pylori infection or tobacco use. But other gene changes may just be random events that sometimes happen inside cells, without having an outside cause.There is no sure way to prevent stomach cancer (also known as gastric cancer), but there are things you can do that could lower your risk.
+Diet, nutrition, body weight, physical activity, and alcohol use
+Being overweight or obese increases the risk of some types of stomach cancer, so getting to and staying at a healthy weight might lower your risk.
+Getting regular physical activity might also help lower your risk of stomach cancer.
+Aside from possible effects on stomach cancer risk, staying at a healthy weight and being active may also lower your risk of several other cancers and health problems.
+A diet that includes plenty of fresh fruits and vegetables probably also lowers stomach cancer risk. Citrus fruits (such as oranges, lemons, and grapefruit) may be especially helpful,  but be aware that grapefruit and grapefruit juice can change the blood levels of certain drugs you take. Talk to your health care team about this before adding grapefruit to your diet.
+The American Cancer Society recommends that people follow a healthy eating pattern, which includes a variety of colorful fruits and vegetables and whole grains, and avoids or limits red and processed meats, sugar-sweetened beverages, and highly processed foods.
+Alcohol use probably increases the risk of stomach cancer, so avoiding or limiting alcohol might lower your risk.
+For more on diet, body weight, physical activity, and alcohol use, see the ﻿American Cancer Society Guideline for Diet and Physical Activity for Cancer Prevention.
+Studies that have looked at other dietary factors, such as taking dietary supplements or drinking tea (particularly green tea) have not led to firm conclusions when it comes to lowering stomach cancer risk. Further research is needed in these areas.
+Not smoking
+Smoking can increase the risk of cancers of the upper stomach (the portion closest to the esophagus). Tobacco use increases the risk for many other types of cancer as well. If you don’t use tobacco, don’t start. If you already do and want help quitting, call the American Cancer Society at 1-800-227-2345.
+Treating H pylori infection
+It's not yet clear if people whose stomach linings are chronically infected with the H pylori bacteria but who do not have any symptoms should be treated with antibiotics. This is a topic of current research. Some studies have suggested that giving antibiotics to people with H pylori infection might lower the number of pre-cancerous lesions in the stomach and reduce the risk of developing stomach cancer. But not all studies have found this.
+While it’s not yet clear if all people with H pylori infection should be treated, some research has shown that it might be helpful to treat people with H pylori who are also at higher risk for stomach cancer for other reasons, such as having a close relative with stomach cancer.
+More research is needed to be sure that treating other groups of people with H pylori infection can lower stomach cancer risk.
+If your doctor thinks you might have H pylori infection, there are several ways to test for this, including a breath test, a blood test, a stool test, and an endoscopy procedure, in which a biopsy is done. (See Tests for Stomach Cancer.)
+Aspirin use
+Using aspirin or other non-steroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen or naproxen seems to lower the risk of stomach cancer. These medicines can also lower the risk of developing colon polyps and colon cancer. But they can also cause serious (and even life-threatening) internal bleeding and other potential health risks in some people.
+Most doctors consider any reduced cancer risk an added benefit for people who take these drugs for other reasons, such as to treat arthritis. But doctors do not routinely recommend taking NSAIDs specifically to prevent stomach cancer. Studies have not yet determined for which people the benefits of lowering cancer risk would outweigh the risks of bleeding complications.
+For people at greatly increased risk
+Hereditary diffuse gastric cancer (HDGC) is a rare inherited condition in which people have a greatly increased risk of stomach cancer, which often develops at a fairly early age. This rare syndrome is most often caused by an inherited mutation in the CDH1 gene. 
+It's very important to recognize people and families with this inherited syndrome, because most people who have it will develop stomach cancer. Families with HDGC typically have two or more close relatives who develop stomach cancer (usually the diffuse type), and/or at least one person who is diagnosed before age 50. Some family members might also develop invasive lobular breast cancer.
+Doctors often refer people who might have HDGC to a genetics professional, so they can discuss possibly getting genetic testing. If testing is done and shows a person has a mutation (abnormal change) in the CDH1 gene, doctors often recommend they consider having their stomach removed (typically between the ages of 20 and 30) before cancer develops. However, this operation (called a total gastrectomy) can lead to long-term changes in the way a person eats.
+Some other hereditary cancer syndromes are also linked with an increased risk for stomach cancer, including Lynch syndrome, familial adenomatous polyposis (FAP), Li-Fraumeni syndrome, and Peutz-Jeghers syndrome. The risk of stomach cancer with these syndromes is not nearly as high as it is with HDGC, so removal of the stomach is not typically recommended for people who have these syndromes. However, doctors might recommend getting regular tests to try to find stomach cancer early in some of these people.Screening is testing for a disease, such as cancer, in people without symptoms.
+Some of the tests that can be used to screen for stomach cancer (also known as gastric cancer), such as upper endoscopy, are described in Tests for Stomach Cancer.
+Stomach cancer screening in people at average risk 
+No major medical organizations in the United States recommend routine screening for stomach cancer in people at average risk. This is largely because this disease isn’t common in the US, so the benefits of screening most likely would not outweigh the possible harms (such as needing additional tests or procedures, even in some people who might not end up having stomach cancer).
+Because routine screening for stomach cancer is not done in the United States, most people are not diagnosed with stomach cancer until they have certain signs and symptoms that point to the need for medical tests.
+In some countries in East Asia and South America, where stomach cancer is much more common, mass screening of the population has helped find many stomach cancers at an early, possibly more curable stage. However, it’s not clear if this has led to a lower number of stomach cancer deaths.
+Stomach cancer screening in people at increased risk
+The benefits of screening might outweigh the risks in some people who are at increased risk for stomach cancer because they have certain risk factors (for example, certain potentially pre-cancerous stomach conditions or inherited conditions such as Lynch syndrome or familial adenomatous polyposis [FAP]). For example, upper endoscopy might be recommended at regular intervals in these people.
+If you have risk factors that might increase your risk of stomach cancer, talk to your doctor about the possible pros and cons of stomach cancer screening for you.
+Screening isn't usually recommended for people in families with hereditary diffuse gastric cancer (HDGC). Instead, doctors often recommend that people who have changes in the CDH1 gene that causes this syndrome consider having their stomach removed (total gastrectomy), because their risk of stomach cancer is very high.Early-stage stomach cancer (gastric cancer) rarely causes symptoms. In countries where screening for stomach cancer is not routine, such as the United States, most stomach cancers aren’t found until they’ve grown fairly large or have spread outside the stomach.
+When stomach cancer does cause signs and symptoms, they can include:
+
+Poor appetite
+Weight loss (without trying)
+Abdominal (belly) pain
+Vague discomfort in the abdomen, usually above the navel
+Feeling full after eating only a small meal
+Heartburn or indigestion
+Nausea
+Vomiting, with or without blood
+Swelling or fluid build-up in the abdomen
+Blood in the stool
+Feeling tired or weak, as a result of having too few red blood cells (anemia)
+Yellowing of the skin and eyes (jaundice), if the cancer spreads to the liver
+
+Most of these symptoms are more likely to be caused by things other than stomach cancer, such as a viral infection or an ulcer. Some of these symptoms may also be caused by other types of cancer. But people who have any of these problems, especially if they don’t go away or get worse, should see a doctor so the cause can be found and treated, if needed.Stomach cancer (also known as gastric cancer) is usually found when a person goes to the doctor because of signs or symptoms they are having. If stomach cancer is suspected, exams and tests will be needed to find out for sure. If cancer is found, other tests might then be needed to learn more about it.
+Medical history, physical exam, and tests to look for bleeding
+When taking your medical history, the doctor will ask about your symptoms (such as eating problems, pain, bloating, etc.) and possible risk factors to see if they might suggest stomach cancer or another cause. The physical exam can give your doctor information about possible signs of stomach cancer or other health problems. In particular, the doctor will feel your belly for anything abnormal.
+The doctor might order a blood test to look for anemia (a low red blood cell count), which could be caused by the cancer bleeding into the stomach. A test might also be done to look for blood in your stool (feces) that can't be seen by the naked eye, which could also be a sign of bleeding in the stomach.
+If your doctor thinks you might have stomach cancer or another type of stomach problem, they will likely refer you to a gastroenterologist (a doctor who treats diseases of the digestive tract), who will examine you and might do further testing.
+Upper endoscopy
+Upper endoscopy (also called esophagogastroduodenoscopy or EGD) is the test most often done if the doctor thinks you might have stomach cancer.
+During this test, the doctor passes an endoscope, which is a thin, flexible, lighted tube with a small video camera on the end, down your throat. This lets the doctor see the inner lining of your esophagus, stomach, and first part of the small intestine. If abnormal areas are seen, biopsy samples can be removed using instruments passed through the endoscope. The tissue samples are sent to a lab, where they are looked at with a microscope to see if they contain cancer.
+Unfortunately, some types of stomach cancers can be hard to see during an endoscopy.
+Endoscopy can also be used as part of a special imaging test known as endoscopic ultrasound, which is described below.
+In some situations, endoscopy can be used to help remove very early stage cancers. It can also be used to help prevent or relieve symptoms or other complications from stomach cancer, without the need for more extensive surgery. (See Surgery for Stomach Cancer.)
+You will most likely be given medicine to make you sleepy (sedation) before the endoscopy.
+Biopsy
+Your doctor may suspect cancer if an abnormal-looking area is seen on endoscopy or an imaging test, but the only way to tell for sure if it's cancer is by doing a biopsy. During a biopsy, the doctor removes small pieces (samples) of the abnormal area.
+Biopsies to check for stomach cancer are most often done during an upper endoscopy. If the doctor sees any abnormal areas in the stomach lining during the endoscopy, instruments can be passed down the endoscope to biopsy them.
+Some stomach cancers can start deep within the stomach wall, which can make them hard to biopsy with standard endoscopy. If the doctor suspects cancer might be deeper in the stomach wall, endoscopic ultrasound (described below) can be used to guide a thin, hollow needle into the wall of the stomach to get a biopsy sample.
+Biopsies may also be taken from areas of possible cancer spread, such as nearby lymph nodes or suspicious areas in other parts of the body.
+Testing biopsy samples
+Biopsy samples are sent to a lab to be looked at under a microscope. The samples are checked to see if they contain cancer, and if they do, what kind it is (for example, intestinal or diffuse adenocarcinoma, carcinoid tumor, gastrointestinal stromal tumor [GIST], or lymphoma).
+If stomach cancer is found, more lab tests may be done on the biopsy samples to learn more about the cancer cells. This might affect how the cancer is treated. 
+HER2 testing: The cancer cells may be tested to see if they have too much of a growth-promoting protein called HER2. Cancers with increased levels of HER2 are called HER2-positive. These cancers can be treated with drugs that target the HER2 protein.
+The biopsy sample is usually tested for HER2 using either immunohistochemistry (IHC) or fluorescent in situ hybridization (FISH). Often the IHC test is used first, which gives results on a scale from 0 to 3+.
+
+If the results are 0 or 1+, the cancer is HER2-negative, so drugs targeting HER2 aren’t likely to be helpful.
+If the test comes back 3+, the cancer is HER2-positive, so treatment with drugs targeting HER2 could be an option.
+When the result is 2+, the HER2 status of the cancer is not clear, so it needs to be tested with FISH to clarify the result.
+
+Testing for other gene or protein changes: The cancer cells may also be tested for other gene or protein changes that might affect treatment. For example:
+
+If the cells have a certain amount of an immune checkpoint protein called PD-L1, treatment with an immune checkpoint inhibitor such as pembrolizumab (Keytruda) might be an option.
+If the cells have high levels of microsatellite instability (MSI-H) or a defect in a mismatch repair gene (dMMR), treatment with an immune checkpoint inhibitor might be an option.
+If the cells have a high tumor mutational burden (TMB-H), meaning they have many gene mutations, treatment with an immune checkpoint inhibitor might be an option.
+If the cells have changes in one of the NTRK genes, certain targeted drugs might be an option for treatment.
+
+See Testing Biopsy and Cytology Specimens for Cancer to learn more about different types of biopsies and tests, how they are used to diagnose cancer, and what the results can tell you.
+Imaging tests
+Imaging tests use x-rays, magnetic fields, sound waves, or radioactive substances to create pictures of the inside of your body. Imaging tests may be done for a number of reasons, including:
+
+To help find out if a suspicious area might be cancer
+To learn how far cancer may have spread
+To help determine if treatment has been effective
+
+Upper gastrointestinal (GI) series
+This is an x-ray test to look at the inner lining of the esophagus, stomach, and first part of the small intestine. This test is used less often than upper endoscopy to look for stomach cancer or other stomach problems, as it can miss some abnormal areas, and it doesn't allow the doctor to take biopsy samples. But it is less invasive than endoscopy, and it might be useful in some situations.
+For this test, you drink a white chalky solution containing a substance called barium. The barium coats the inner lining of the esophagus, stomach, and small intestine. (Air might be pumped into the stomach through a thin tube at this time as well.) Several x-ray pictures are then taken. Because x-rays can’t pass through the coating of barium, this outline any abnormal areas in the lining of these organs.
+Computed tomography (CT or CAT) scan
+A CT scan uses x-rays to make detailed, cross-sectional images of the soft tissues in the body.
+CT scans can show the stomach fairly clearly and often can confirm the location of a cancer. CT scans can also show other parts of the body to which stomach cancer might have spread, such as the liver and nearby lymph nodes. This can help determine the extent (stage) of the cancer and if surgery may be a good treatment option.
+CT-guided needle biopsy: CT scans can also be used to guide a biopsy needle into a suspected area of cancer spread. For this test, you will lie on the CT scanning table while the doctor moves a biopsy needle through the skin toward the mass. CT scans are repeated until the needle is within the mass. A biopsy sample is then removed and sent to a lab for testing.
+Endoscopic ultrasound
+Endoscopic ultrasound (EUS) is often used to see how far a cancer might have spread into the wall of the stomach, or into nearby areas or nearby lymph nodes. 
+For this test, a small ultrasound probe is placed on the tip of an endoscope. While you are sedated, the endoscope is passed down your throat and into the stomach. The probe is put up against the wall of the stomach where the cancer is. It gives off sound waves and detects the echoes as they bounce back, which are then converted into images. Doctors can use these images to look at the layers of the stomach wall, as well as the nearby lymph nodes and other structures just outside the stomach. 
+EUS can also be used to help guide a needle into a suspicious area to get a biopsy sample (known as an EUS-guided needle biopsy).
+Positron emission tomography (PET) scan
+A PET scan can be useful to help determine the extent of the cancer in the body. For this test, you are injected with a slightly radioactive form of sugar, which collects mainly in cancer cells. A special camera is then used to create a picture of areas of radioactivity in the body. The picture is not detailed like a CT or MRI scan, but a PET scan can look for possible areas of cancer spread in all areas of the body at once.
+Many newer machines can do both a PET and CT scan at the same time (PET/CT scan). This lets the doctor see areas that “light up” on the PET scan in more detail.
+Although PET scans can be useful for finding areas of cancer spread, they aren’t always helpful in certain kinds of stomach cancer because some types don’t take up much of the radioactive sugar.
+Magnetic resonance imaging (MRI)
+Like a CT scan, an MRI can show detailed images of soft tissues in the body. But MRIs use radio waves and strong magnets instead of x-rays.
+This test is not used as often as CT scans to look for stomach cancer, but it may be helpful in certain situations, such as when looking for tumors in the liver.
+Chest x-ray
+This test can help show if the cancer has spread to the lungs. It might also be used to help determine if a person has any serious lung or heart diseases, which might affect whether surgery would be a treatment option. A chest x-ray isn’t needed if a CT scan of the chest has been done.
+You can read more about imaging tests in Imaging (Radiology) Tests for Cancer.
+Other tests
+Laparoscopy
+If stomach cancer has already been found, and imaging tests such as CT or PET scans have not shown it has spread to other parts of the body, doctors might do a laparoscopy before any other surgery. This can help confirm the cancer is still only in the stomach, which means surgery to remove it might still be an option.
+This procedure is done in an operating room while you are under general anesthesia (in a deep sleep). A laparoscope (a thin, flexible tube with a small video camera on the end) is inserted through a small cut in the belly. This lets the doctor look closely at the surfaces of the organs and nearby lymph nodes inside the abdomen, or even remove small samples of tissue, which can then be tested for cancer. 
+If it doesn’t look like the cancer has spread, sometimes the doctor will “wash” the abdomen with saline (saltwater). This is called peritoneal washing. The fluid is then collected and checked for cancer cells.
+Sometimes laparoscopy is combined with ultrasound to give a better picture of the cancer.
+Tests of organ function
+If cancer is found, the doctor might recommend certain lab tests, especially if surgery might be an option. For instance, blood tests will be done to make sure your liver and kidneys are working normally and that your blood clots normally. 
+If surgery is planned or you are going to get medicines that can affect the heart, you may also have an electrocardiogram (EKG) and/or an echocardiogram (an ultrasound of the heart) to make sure your heart is functioning well.After someone is diagnosed with stomach cancer (gastric cancer), doctors will do exams and tests to help determine if it has spread, and if so, how far. This process is called staging. The stage of a cancer describes the extent of the cancer in the body. It helps determine how serious the cancer is and how best to treat it. Doctors also use a cancer's stage when talking about survival statistics.
+Although each person's cancer experience is unique, cancers with similar stages tend to have a similar outlook and are often treated in much the same way.
+The AJCC TNM staging system
+The staging system most often used for stomach cancer is the American Joint Committee on Cancer (AJCC) TNM system, which was last updated in 2018.
+This system is used to stage all stomach cancers (carcinomas) except those starting in the gastroesophageal junction (where the stomach and the esophagus meet) or those that start in the cardia (the first part of the stomach) and are growing into the gastroesophageal junction. Those cancers are staged (and often treated) like cancers of the esophagus. Other types of cancer that can start in the stomach, such as gastrointestinal stromal tumors (GISTs) and lymphomas, are staged differently as well.
+The TNM system for stomach cancer is based on 3 key pieces of information:
+The T category describes the extent of the main (primary) tumor, including how far it has grown into the layers of the stomach wall and if it has reached nearby structures or organs.Survival rates can give you an idea of what percentage of people with the same type and stage of cancer are still alive a certain amount of time (usually 5 years) after they were diagnosed. They can’t tell you how long you will live, but they may help give you a better understanding of how likely it is that your treatment will be successful.
+Keep in mind that survival rates are estimates and are often based on previous outcomes of large numbers of people who had a specific cancer, but they can’t predict what will happen in any particular person’s case. These statistics can be confusing and may lead you to have more questions. Ask your doctor how these numbers might apply to you.  
+What is a 5-year relative survival rate?
+A relative survival rate compares people with the same type and stage of cancer to people in the overall population. For example, if the 5-year relative survival rate for a specific stage of stomach cancer is 70%, it means that people who have that cancer are, on average, about 70% as likely as people who don’t have that cancer to live for at least 5 years after being diagnosed.
+Where do these numbers come from?
+The American Cancer Society relies on information from the Surveillance, Epidemiology, and End Results (SEER) database, maintained by the National Cancer Institute (NCI), to provide survival statistics for different types of cancer.
+The SEER database tracks 5-year relative survival rates for stomach cancer (also known as gastric cancer) in the United States, based on how far the cancer has spread. The SEER database, however, does not group cancers by AJCC TNM stages (stage 1, stage 2, stage 3, etc.). Instead, it groups cancers into localized, regional, and distant stages:
+
+Localized: There is no sign that the cancer has spread outside of the stomach.
+Regional: The cancer has spread outside the stomach to nearby structures or lymph nodes.
+Distant: The cancer has spread to distant parts of the body, such as the liver.
+
+5-year relative survival rates for stomach cancer
+These numbers are based on people diagnosed with cancers of the stomach between 2013 and 2019.
+
+
+
+SEER* stage
+5-year relative survival rate
+
+
+Localized
+75%
+
+
+Regional
+35%
+
+
+Distant
+7%
+
+
+All SEER stages combined
+36%
+
+
+
+*SEER = Surveillance, Epidemiology, and End Results
+Understanding the numbers
+
+These numbers apply only to the stage of the cancer when it is first diagnosed. They do not apply later on if the cancer grows, spreads, or comes back after treatment.
+These numbers don’t take everything into account. Survival rates are grouped based on how far the cancer has spread, but your age and overall health, how well the cancer responds to treatment, and other factors can also affect your outlook.
+People now being diagnosed with stomach cancer may have a better outlook than these numbers show. Treatments improve over time, and these numbers are based on people who were diagnosed and treated at least five years earlier.It’s important to have honest, open discussions with your cancer care team. Feel free to ask any question, no matter how small it might seem. Here are some questions you might want to ask.
+When you're told you have stomach cancer
+
+What kind of stomach cancer do I have?
+Where is the cancer in my stomach?
+What is the stage of my cancer, and what does that mean in my case?
+Are there other tests that need to be done before we can decide on treatment?
+Will I need to see any other types of doctors?
+How much experience do you have treating this type of cancer?
+Based on what you’ve learned about my cancer, what is my prognosis (outlook)?
+
+When deciding on a treatment plan
+
+What treatment choices do I have?
+What do you recommend and why?
+What is the goal of treatment (to cure the cancer, slow its growth, ease symptoms, etc.)?
+Are there any clinical trials I should think about now?
+Should I get a second opinion? How do I do that? Can you recommend a doctor or cancer center?
+How quickly do we need to decide on treatment?
+What should I do to be ready for treatment?
+How long will treatment last? What will it involve? Where will it be done?
+What risks or side effects are there to the treatments you suggest? How long are they likely to last?
+How will treatment affect my daily life? Will it affect the way I eat?
+
+During treatment
+Once treatment begins, you’ll need to know what to expect and what to look for. Not all of these questions may apply to you, but getting answers to the ones that do may be helpful.
+
+How will we know if the treatment is working?
+Is there anything I can do to help manage side effects?
+What symptoms or side effects should I tell you about right away?
+How can I reach you or someone on your team on nights, weekends, or holidays?
+Do I need to change what I eat during treatment?
+Are there any limits on what I can do?
+Should I exercise? What should I do, and how often?
+Do you know of any local or online support groups where I can talk to others who have been through this?
+Can you suggest a mental health professional I can see if I start to feel overwhelmed, depressed, or distressed?
+
+After treatment
+
+Are there any limits on what I can do?
+What symptoms should I watch for?
+Should I exercise or follow a special diet?
+What type of follow-up will I need after treatment?
+How will we know if the cancer has come back? What should I watch for?
+What will my options be if the treatment doesn't work or if the cancer comes back?
+Where can I find more information and support?
+
+Along with these sample questions, be sure to write down some of your own.
+Keep in mind that doctors aren’t the only ones who can give you information. Other health care professionals, such as nurses and social workers, can answer some of your questions. To find more about speaking with your health care team, see The Doctor-Patient Relationship.Surgery is often part of the treatment for stomach cancer (gastric cancer), if it can be done. If the cancer hasn't spread to other parts of the body, surgery (often along with other treatments) offers the best chance to try to cure the cancer.
+Surgery can be done for two main reasons:
+
+Surgery to remove the cancer: Surgery may be done to remove the cancer and part or all of the stomach, as well as some nearby lymph nodes and other structures, depending on the location and stage (extent) of the cancer. The surgeon will try to leave behind as much normal stomach as possible. Sometimes other organs will need to be removed as well.
+Palliative surgery: If the cancer is too widespread to be removed completely, surgery might still be done to help prevent bleeding from the tumor or prevent the stomach from being blocked by tumor growth. This type of surgery can prevent or relieve symptoms, but it is not expected to cure the cancer.
+
+Surgery to remove the cancer
+Different types of surgery can be used to try to remove stomach cancer. The type of operation used depends on what part of the stomach the cancer is in and how far it has grown into nearby areas.
+Before your surgery, talk to your surgeon about how much of the stomach will need to be removed. Some surgeons try to leave behind as much of the stomach as they can, which might allow patients to eat more normally afterward. However, the main goal of surgery is to be sure all the cancer has been removed. The surgeon will try to achieve negative surgical margins, meaning that no cancer cells are seen at the edges of the removed part of the stomach, even when looking at it under a microscope.
+Endoscopic resection
+Endoscopic mucosal resection (EMR) and endoscopic submucosal dissection (ESD) are procedures that can be used to treat some very early-stage cancers, when the tumor is not thought to have grown deeply into the stomach wall and the chance of spread outside the stomach is very low.
+These procedures do not require a cut (incision) in the skin. Instead, the surgeon passes an endoscope (a long, flexible tube with a small video camera on the end) down the throat and into the stomach. Surgical tools can be passed through the endoscope to remove the tumor and some layers of the normal stomach wall below and around it. (ESD goes deeper into the stomach wall than EMR.)
+These operations are not done as often in the United States as they are in some East Asian countries (like Japan) where stomach cancer is more common and more often found at an early stage due to screening. If you are going to have this kind of surgery, it should be done at a center that has experience with this technique.
+Subtotal (partial) gastrectomy
+In this operation, only part of the stomach is removed. This is often recommended if the cancer is only in the lower part of the stomach (in which case it is known as a distal gastrectomy). It might also be used for cancers that are only in the upper part of the stomach (in which case it is known as a proximal gastrectomy).
+Part of the stomach is removed, sometimes along with part of the esophagus (in a proximal gastrectomy) or the first part of the small intestine (in a distal gastrectomy). The remaining section of stomach is then reattached. Some of the omentum (an apron-like layer of fatty tissue that covers the stomach and intestines) is removed as well, along with nearby lymph nodes. If the cancer has reached the spleen or parts of other nearby organs, these are removed as well.
+Eating is much easier after surgery if only part of the stomach is removed instead of the entire stomach.
+Total gastrectomy
+This operation is done if the cancer has spread widely in the stomach. It is also often advised if the cancer is in the upper part of the stomach, near the esophagus.
+The surgeon removes the entire stomach, nearby lymph nodes, and the omentum, and may remove the spleen and parts of the esophagus, intestines, pancreas, or other nearby organs if the cancer has reached them. The end of the esophagus is then attached to part of the small intestine. This allows food to move down the intestinal tract. But people who have had their stomach removed can only eat a small amount of food at a time. Because of this, they will need to eat more often.
+Surgical approaches to subtotal or total gastrectomy
+Most subtotal and total gastrectomies are done through a large incision (cut) in the skin of the abdomen (belly). This is sometimes referred to as an open surgical approach.
+In some centers, these operations are done as a laparoscopic gastrectomy, in which long, thin surgical instruments (including one with a small video camera on the end) are inserted into the abdomen through several small cuts. Some surgeons do these operations using robotic-assisted laparoscopic surgery (sometimes just called robotic surgery). In this technique, the surgeon sits at a control panel and moves robotic arms that have laparoscopic instruments on the ends. (For more on this, see What’s New in Stomach Cancer Research?)
+Although the laparoscopic approach (including robotic surgery) might result in a shorter hospital stay, less pain after the operation, and a shorter recovery time (because of the smaller incisions), many doctors feel that this technique needs to be studied further before it can be considered a standard treatment for stomach cancer.
+No matter which approach is used, it’s important that your surgeon is skilled and experienced with the technique.
+Lymph node removal
+In either a subtotal or total gastrectomy, the nearby lymph nodes are removed. This is known as a lymph node dissection or lymphadenectomy, and it's a very important part of the operation. Many doctors feel that the success of the surgery is directly related to how many lymph nodes the surgeon removes.
+In the United States, it is recommended that at least 16 lymph nodes be removed (called a D1 lymphadenectomy) when a gastrectomy is done. Surgeons in some East Asian countries (such as Japan and South Korea) have had very high success rates by removing even more lymph nodes near the cancer (called a D2 lymphadenectomy).
+Surgeons in Europe and the United States have not been able to equal the results of the East Asian surgeons. It is not clear if this is because East Asian surgeons are more experienced (stomach cancer is much more common in these countries), because their patients tend to have earlier stage disease (because they screen for stomach cancer) and are healthier, or if other factors play a role.
+In any event, it takes a skilled surgeon who is experienced in stomach cancer surgery to remove as many lymph nodes as possible. Ask your surgeon about their experience in operating on stomach cancer. Studies have shown that the results are better when both the surgeon and the hospital have had extensive experience in treating patients with stomach cancer.
+Palliative surgery for unresectable cancer
+For people with stomach cancer that can't be removed completely, surgery can often still be used to help control the cancer or to help prevent or relieve symptoms or complications.
+Gastric bypass (gastrojejunostomy)
+Tumors in the lower part of the stomach may eventually grow large enough to block food from leaving the stomach. For people healthy enough for surgery, one option to help prevent or treat this is to bypass the lower part of the stomach. This is done by attaching part of the small intestine (the jejunum) to the upper part of the stomach, which allows food to leave the stomach through the new connection.
+Subtotal gastrectomy
+For some people who are healthy enough for surgery, removing the part of the stomach with the tumor can help treat problems such as bleeding, pain, or the tumor blocking the passage of food through the stomach, even if the surgery does not cure the cancer. Because the goal is not to cure the cancer, nearby lymph nodes and parts of other organs usually do not need to be removed.
+Feeding tube placement
+Some people with stomach cancer aren’t able to eat or drink enough to get adequate nutrition. A minor operation can be done to place a feeding tube through the skin of the abdomen and into the lower part of the stomach (known as a gastrostomy tube or G tube) or into the small intestine (jejunostomy tube or J tube). Liquid nutrition can then be put directly into the tube.
+Endoscopy procedures
+In some situations, upper endoscopy procedures can be done to help prevent or relieve symptoms, without the need for more extensive surgery:
+
+Endoscopic tumor ablation: In some cases, such as in people who are not healthy enough for surgery, an endoscope (a long, flexible tube passed down the throat) with a laser on the end can be used to vaporize parts of the tumor. This can be done to stop bleeding or help relieve a blockage without surgery.
+Stent placement: Another non-surgical option to keep a tumor from blocking the opening at the beginning or end of the stomach is to use an endoscope to place a stent (a hollow metal tube) into the opening. This helps keep it open and allows food to pass through it. For tumors in the upper (proximal) stomach, the stent is placed where the esophagus and stomach meet. For tumors in the lower (distal) part of the stomach, the stent is placed at the junction of the stomach and the small intestine.
+
+Possible complications and side effects of surgery
+Surgery for stomach cancer is complex and can have complications. These can include bleeding from the surgery, blood clots, and damage to nearby organs during the operation. Rarely, the new connections made between the ends of the stomach, esophagus, and small intestine may leak.
+Surgical techniques have improved in recent years, so only a very small percentage of people die from surgery for stomach cancer. The chance of this happening is higher when the operation is more extensive, such as when other organs are removed, but it is lower in the hands of highly skilled surgeons.
+You will not be allowed to eat or drink anything for at least a few days after a total or subtotal gastrectomy. This is to give the digestive tract time to heal and to make sure there are no leaks in parts that have been connected together during the operation.
+Side effects after surgery can include nausea, heartburn, abdominal (belly) pain, and diarrhea, particularly after eating. These side effects result from the fact that once part or all of the stomach is removed, food enters the intestines much more quickly after eating. These side effects might get better over time, but for some people they might not. Your doctor might prescribe medicines to help with them.
+Changes in your diet will be needed after a partial or total gastrectomy. The biggest change is that you will need to eat smaller, more frequent meals. The amount of stomach removed will affect how much you need to change the way you eat.
+Some people might have trouble taking in enough nutrition after surgery for stomach cancer. Further treatment like chemotherapy and radiation after surgery can make this problem worse. To help with this, a tube is sometimes placed into the intestine, either at the time of the surgery or afterward. The other end of this tube, called a jejunostomy tube or J tube, remains outside of the skin on the abdomen. Liquid nutrition can be put directly through this tube into the intestine to help prevent or treat malnutrition.
+The stomach helps the body absorb some vitamins, so people who have had a subtotal or total gastrectomy might develop vitamin deficiencies. If certain parts of the stomach are removed, doctors routinely prescribe vitamin supplements, some of which can only be injected.
+It cannot be stressed enough that you should make sure your surgeon is experienced in treating stomach cancer and able to perform the most up-to-date operations to reduce your risk of complications.Chemotherapy (chemo) uses anti-cancer drugs that are injected into a vein (through an IV line or central venous catheter) or given by mouth as pills. These drugs enter the bloodstream and reach all areas of the body, making this treatment useful for cancer that has spread to organs beyond where it started.
+When is chemo used for stomach cancer?
+Chemo might be used at different times to help treat stomach cancer:
+
+Chemo can be given before surgery for stomach cancer. This is known as neoadjuvant treatment. (Sometimes chemo is given along with radiation therapy, which is known as chemoradiation.) Neoadjuvant treatment can often shrink the tumor and possibly make surgery easier. It may also help keep the cancer from coming back and help patients live longer. For some stages of stomach cancer, neoadjuvant chemo is one of the standard treatment options. Often, chemo is then given again after surgery.
+Chemo may be given after surgery has been done to remove the cancer. This is called adjuvant treatment. The goal of adjuvant chemo is to kill any areas of cancer that may have been left behind but are too small to see. This can help keep the cancer from coming back. Often, for stomach cancer, chemo is given with radiation therapy after surgery. This may be especially helpful for cancers that could not be removed completely by surgery.
+Chemo may be given as the primary (main) treatment if the cancer has spread (metastasized) to distant parts of the body, or if it can't be removed for some other reason. Chemo may help shrink the cancer or slow its growth, which can relieve symptoms and help people live longer.
+
+Doctors give chemo in cycles, with each period of treatment followed by a rest period to allow the body time to recover. Each cycle typically lasts for a few weeks.
+Which chemo drugs are used for stomach cancer?
+Many different chemo drugs can be used to treat stomach cancer, including:
+
+5-FU (fluorouracil), often given along with leucovorin (folinic acid)
+Capecitabine
+Carboplatin
+Cisplatin
+Docetaxel
+Epirubicin
+Irinotecan
+Oxaliplatin
+Paclitaxel
+Trifluridine and tipiracil (Lonsurf), a combination drug in pill form
+
+Most often, 2 or 3 of these drugs are combined (sometimes along with a targeted drug as well). But this depends on factors such as  the stage of the cancer, the person’s overall health, and whether chemo is combined with radiation therapy. Three-drug combinations can have more side effects, so they are usually reserved for people who are in very good health and who can be followed closely by their doctor.
+For earlier stage cancers, some common drug combinations used before and/or after surgery include:
+
+Oxaliplatin plus 5-FU/leucovorin (FOLFOX), or oxaliplatin plus capecitabine (CAPOX)
+FLOT (5-FU/leucovorin, oxaliplatin, and docetaxel)
+Docetaxel or paclitaxel plus either 5-FU or capecitabine
+Cisplatin plus either 5-FU or capecitabine
+Paclitaxel and carboplatin
+
+When chemo is given with radiation after surgery, a single drug such as 5-FU or capecitabine may be used.
+For advanced stomach cancer, many of the same combinations of drugs can be used, although doctors often prefer combinations of 2 drugs rather than 3 to try to reduce side effects. Some of the most commonly used combinations include:
+
+Oxaliplatin plus 5-FU/leucovorin (FOLFOX), or oxaliplatin plus capecitabine (CAPOX)
+Cisplatin plus either 5-FU or capecitabine
+Irinotecan plus 5-FU/leucovorin (FOLFIRI) 
+Paclitaxel plus either cisplatin or carboplatin
+Docetaxel plus cisplatin
+Epirubicin, either cisplatin or oxaliplatin, and either 5-FU or capecitabine
+Docetaxel, 5-FU, and either cisplatin, carboplatin, or oxaliplatin
+
+If a person isn’t healthy enough to get a combination of chemo drugs, a single drug, such as 5-FU, capecitabine, docetaxel, or paclitaxel, might be used instead.
+If one of these combinations (or a single drug) is no longer helpful, another drug or combination of drugs might be tried. 
+Side effects of chemo
+Chemo drugs attack cells in the body that are dividing quickly, which can lead to side effects. These depend on the type and dose of drugs, and the length of treatment. Side effects from chemo can include:
+
+Nausea and vomiting
+Loss of appetite
+Hair loss
+Diarrhea or constipation
+Mouth sores
+Increased chance of infection (from a shortage of white blood cells)
+Easy bleeding or bruising (from a shortage of platelets)
+Fatigue and shortness of breath (from a shortage of red blood cells)
+
+These side effects usually go away once treatment is finished. For example, hair will usually grow back after treatment ends. Be sure to tell your cancer care team about any side effects you have because there are often ways to help with them. For example, you can be given drugs to prevent or reduce nausea and vomiting.
+Some chemo drugs have specific side effects. Your treatment team can help you know which of these you might need to look out for.
+Nerve damage (neuropathy): Cisplatin, oxaliplatin, docetaxel, and paclitaxel can damage nerves. This can sometimes lead to symptoms (mainly in the hands and feet) such as pain, burning or tingling sensations, sensitivity to cold or heat, or weakness. In most cases this goes away once treatment is stopped, but it may be long-lasting in some people. Oxaliplatin can also affect nerves in the throat, causing throat pain that is worse when trying to eat or drink cold liquids or foods.
+Heart damage: Epirubicin and some other drugs can damage the heart if used for a long time or in high doses. For this reason, doctors carefully control the doses and use heart tests such as echocardiograms or MUGA scans to monitor heart function. Treatment with these drugs is stopped at the first sign of heart damage.
+Hand-foot syndrome can occur during treatment with capecitabine or 5-FU (when given as an infusion). This starts out as redness in the hands and feet, which can then progress to pain and sensitivity in the palms and soles. If it worsens, blistering, calluses, or skin peeling can occur, sometimes leading to painful sores. The best way to prevent severe hand-foot syndrome is to tell your doctor if you have early symptoms, such as redness or sensitivity, so that steps can be taken to keep things from getting worse.
+Diarrhea is a common side effect with many chemo drugs, but it can be particularly bad with irinotecan. It needs to be treated right away — at the first sign of loose stools — to prevent severe dehydration. If you are getting a chemo drug that is likely to cause diarrhea, your doctor will give you instructions on what drugs to take and how often to take them to control this symptom.
+Some chemo drugs can cause other side effects. Talk with your treatment team about what types of side effects you should watch for.As researchers have learned more about the changes in cells that cause cancer, they have developed newer drugs that specifically target these changes. Targeted drugs work differently from standard chemotherapy (chemo) drugs. They sometimes work when standard chemo drugs don’t, and they often have different side effects.
+Targeted drugs can sometimes be used to treat stomach cancer (gastric cancer), either alone or along with chemo, depending on the situation.
+Drugs that target HER2
+In some people with stomach cancer, the cancer cells have too much of a growth-promoting protein called HER2 on their surface. Cancers with increased levels of HER2 are called HER2-positive. Drugs that target the HER2 protein can often be helpful in treating these cancers.
+Trastuzumab (Herceptin, others)
+Trastuzumab is a monoclonal antibody, a man-made version of an immune system protein, which targets HER2. Adding trastuzumab to chemo can help some people with advanced, HER2-positive stomach cancer live longer than just chemo alone.
+This drug only works if the cancer cells have too much HER2, so samples of the cancer must be tested for HER2 before starting treatment (see Tests for Stomach Cancer).
+Trastuzumab is infused into a vein (through an IV line or central venous catheter). For stomach cancer, it is typically given once every 2 or 3 weeks along with chemo.
+Herceptin was the original brand name for trastuzumab, but several similar versions (called biosimilars) are now available as well, including Ogivri, Herzuma, Ontruzant, Trazimera, and Kanjinti.
+Side effects of trastuzumab
+The side effects of trastuzumab tend to be relatively mild. They can include fever and chills, weakness, nausea, vomiting, cough, diarrhea, and headache. These side effects occur less often after the first dose.
+This drug can also rarely cause heart damage. The risk is higher if trastuzumab is given with certain chemo drugs called anthracyclines, such as epirubicin. Before starting treatment with this drug, your doctor may test your heart function with an echocardiogram or a MUGA scan.
+Fam-trastuzumab deruxtecan (Enhertu)
+This is an antibody-drug conjugate (ADC), which is a monoclonal antibody linked to a chemotherapy drug. In this case, the anti-HER2 antibody acts like a homing signal by attaching to the HER2 protein on cancer cells, bringing the chemo directly to them.
+This ADC can be used by itself to treat advanced HER2-positive stomach cancer, typically after treatment with trastuzumab has been tried. 
+This drug is infused into a vein (through an IV line or central venous catheter). For stomach cancer, it is typically given once every 3 weeks.
+Side effects of fam-trastuzumab deruxtecan
+This drug can cause low blood cell counts, which can increase a person’s risk of infections and bleeding. Other common side effects of this drug can include nausea, vomiting, diarrhea or constipation, loss of appetite, fever, feeling tired, and hair loss.
+This drug can cause serious lung disease in some people, which might even be life threatening. It’s very important to let your doctor or nurse know right away if you’re having symptoms such as coughing, wheezing, trouble breathing, or fever.
+This drug can also rarely cause heart damage. Before starting treatment with this drug, your doctor may test your heart function with an echocardiogram or a MUGA scan.
+Drugs that target VEGF
+For tumors to grow, they need to make new blood vessels to get blood and nutrients. One of the proteins that tells cells in the body to make new blood vessels is called VEGF. The VEGF protein does this by attaching to cell surface proteins called VEGF receptors.
+Ramucirumab (Cyramza)
+Ramucirumab is a monoclonal antibody that binds to a VEGF receptor. This keeps VEGF from binding to cells and telling them to make more blood vessels. This can help slow or stop the growth of some cancers.
+Ramucirumab is used to treat advanced stomach cancer, most often after at least one chemo drug (or combination) stops working.
+This drug is given as infusion into a vein (IV), typically once every 2 weeks. It can be given by itself or along with chemo.
+Side effects of ramucirumab
+The most common side effects of this drug are high blood pressure, headache, and diarrhea.
+Less common but possibly serious side effects can include blood clots, severe bleeding, holes forming in the stomach or intestines (perforations), and problems with wound healing. If a hole forms in the stomach or intestine, it can lead to severe infection and may require surgery to correct.
+TRK inhibitors
+A very small number of stomach cancers have changes in one of the NTRK genes. This causes them to make abnormal TRK proteins, which can lead to abnormal cell growth and cancer.
+Larotrectinib (Vitrakvi) and entrectinib (Rozlytrek) are drugs that target the TRK proteins. These drugs can be used to treat advanced cancers with NTRK gene changes that are still growing despite other treatments.
+These drugs are taken as pills, once or twice daily.
+Side effects of TRK inhibitors
+Common side effects of these drugs can include dizziness, fatigue, nausea, vomiting, constipation, weight gain, and diarrhea.
+Less common but serious side effects can include abnormal liver tests, heart problems, and confusion.
+Other targeted drugs
+Other targeted therapy drugs are now being tested against stomach cancer. Some of these target the HER2 protein, while others have different targets. Some of these drugs are discussed in more detail in What’s New in Stomach Cancer Research?Immunotherapy is the use of medicines to help a person's own immune system find and destroy cancer cells more effectively.
+Immune checkpoint inhibitors
+An important part of the immune system is its ability to prevent itself from attacking normal cells in the body. To do this, it uses “checkpoint” proteins on immune cells, which act like switches that need to be turned on (or off) to start an immune response. Cancer cells sometimes use these checkpoints to avoid being attacked by the immune system.
+Drugs that target these checkpoints (called immune checkpoint inhibitors) can be used to treat some people with stomach cancer (also known as gastric cancer).
+PD-1 inhibitors
+Nivolumab (Opdivo) and pembrolizumab (Keytruda) are drugs that target PD-1, a protein on immune system cells called T cells. The PD-1 protein normally helps keep T cells from attacking other cells in the body. By blocking PD-1, these drugs boost the immune response against cancer cells. This can shrink some tumors or slow their growth.
+Nivolumab can be used in people with advanced stomach cancer, typically along with chemotherapy.
+This drug is given as an intravenous (IV) infusion, usually once every 2 or 3 weeks.
+Pembrolizumab can be used as part of the first treatment for people with advanced stomach cancer, either:
+
+Along with chemotherapy if the cancer cells test negative for HER2, or
+Along with chemotherapy and the targeted drug trastuzumab, if the cancer cells test positive for both HER2 and for the PD-L1 protein
+
+This drug can also be used after other treatments including chemotherapy have been tried, and if the cancer cells test positive for any of the following:
+
+A high level of microsatellite instability (MSI-H) or a defect in a mismatch repair gene (dMMR)
+A high tumor mutational burden (TMB-H), meaning they have many gene mutations
+
+This drug is given as an intravenous (IV) infusion, typically once every 3 or 6 weeks.
+Possible side effects
+Side effects of these drugs can include:
+
+Feeling tired or weak
+Fever
+Cough
+Nausea
+Itching
+Skin rash
+Loss of appetite
+Muscle or joint pain
+Shortness of breath
+Constipation or diarrhea
+
+Other, more serious side effects occur less often. These can include:
+Infusion reactions: Some people might have an infusion reaction while getting one of these drugs. This is like an allergic reaction, and can include fever, chills, flushing of the face, rash, itchy skin, feeling dizzy, wheezing, and trouble breathing. It’s important to tell your doctor or nurse right away if you have any of these symptoms while getting one of these drugs.
+Autoimmune reactions: These drugs work by basically removing one of the safeguards on the body’s immune system. Sometimes this causes the immune system to attack other parts of the body, which can lead to serious or even life-threatening problems in the lungs, intestines, liver, hormone-making glands, kidneys, skin, or other organs.
+It’s very important to report any new side effects to your health care team right away. If serious side effects do occur, treatment may need to be stopped and you may get high doses of corticosteroids to suppress your immune system.Radiation therapy uses high-energy rays or particles to kill cancer cells in a specific part of the body.
+When is radiation therapy used?
+Radiation can be used in different ways to help treat stomach cancer (gastric cancer):
+
+For some earlier stage cancers, radiation can be used along with chemotherapy (chemo) before surgery to try to shrink the cancer and make it easier to remove. (This combination is known as chemoradiation.)
+After surgery, radiation therapy can be used along with chemo to try to kill any cancer cells that weren't removed during the surgery. This may help delay or prevent recurrence of the cancer.
+For cancers that can't be removed by surgery, radiation therapy can sometimes be used to help slow the growth of the cancer and ease symptoms, such as pain, bleeding, or eating problems.
+
+How is radiation therapy given?
+When radiation therapy is used to treat stomach cancer, the radiation is focused on the cancer from a machine outside the body. Often, special types of radiation therapy, such three-dimensional conformal radiation therapy (3D-CRT) or intensity modulated radiation therapy (IMRT) are used. These approaches use computers to aim the radiation at the cancer from several angles (as well as other special techniques). This can help focus the radiation on the cancer and limit the damage to nearby normal tissues.
+Before your treatments start, the radiation team will take careful measurements to determine the correct angles for aiming the radiation beams and the proper dose of radiation. This planning session, called simulation, usually includes getting imaging tests such as CT or MRI scans.
+Radiation therapy is much like getting an x-ray, but the radiation is much stronger. The treatment itself is painless. Each treatment lasts only a few minutes, although the setup time — getting you into place for treatment — usually takes longer. Treatments are usually given 5 days a week over at least several weeks, but the length of treatment depends on the reason it’s being given.
+Possible side effects of radiation therapy
+Side effects from radiation therapy for stomach cancer can include:
+
+Skin problems, ranging from redness to blistering and peeling, in areas the radiation passed through
+Nausea and vomiting
+Diarrhea
+Fatigue
+Low blood cell counts
+
+These usually go away within a few weeks after the treatment is finished.
+When radiation is given with chemotherapy, side effects are often worse.
+Some people may have problems eating and getting enough fluids during and after treatment. Some might need to have fluids given into a vein (IV) or have a feeding tube placed to get nutrition during treatment. If the tube is only needed for a short time, one can be passed down the nose and throat and into the stomach or intestine. If the tube is needed for a longer time, it can be placed through the skin in the abdomen and into the intestine during a surgical procedure. This is known as a jejunostomy tube or J-tube. Liquid nutrition can then be put directly into the tube.
+Be sure to tell your doctor about any side effects you have, because there are often ways to relieve them.
+Radiation might also damage nearby organs. This could lead to problems such as heart or lung damage, or even an increased risk of another cancer later on. Doctors do their best to prevent this by using only the needed dose of radiation, carefully controlling where the beams are aimed, and shielding certain parts of the body from the radiation during treatment.Treatment of stomach cancer (also known as gastric cancer) depends largely on where the cancer is in the stomach and how far it has spread. But other factors, such as a person’s age, overall health, and preferences, can be important as well.
+Stomach cancer typically starts in the inner lining of the stomach. From there, it can grow and spread in different ways. It can grow through the wall of the stomach and into nearby organs. It might also spread to the nearby lymph nodes (bean-sized structures that help fight infections). As the cancer becomes more advanced, it can travel through the bloodstream or lymph system and spread (metastasize) to organs such as the liver, lungs, and bones, which can make it harder to treat.
+Surgery to remove the cancer is typically part of treatment if it can be done, as it offers the best chance for long-term survival. But surgery might not be a good option if the cancer has spread widely or if a person isn’t healthy enough for it. Other treatments such as chemotherapy and radiation therapy are often part of treatment as well, either along with or instead of surgery. Newer treatments such as targeted drugs and immunotherapy might be helpful in some situations as well.
+Because most people will get different types of treatment for their cancer, it’s important that a team of doctors review and discuss the best options for treatment. Stomach cancer isn’t common in the United States, and it can be challenging to treat, so it’s important that your cancer care team is experienced in treating stomach cancer.
+While the AJCC TNM stage of the cancer can be important when deciding on treatment, doctors often divide stomach cancers into larger groups when determining the best treatment options. These include:
+
+Very early stage cancers. These cancers have not grown deeply into the wall of the stomach or spread outside the stomach. These cancers make up only a small portion of stomach cancers in the United States.
+Potentially resectable cancers. These cancers have grown deeper into the stomach wall and may have grown into nearby areas or lymph nodes. But these cancers aren’t thought to have spread to distant parts of the body, so surgery might still be an option to try to remove (resect) them completely.
+Unresectable local or regional cancers. These cancers have also grown deeper into the stomach wall and may have grown into nearby areas or lymph nodes. While the cancer hasn’t yet spread to distant parts of the body, it's unlikely it can all be removed with surgery. For example, the cancer might be too close to vital areas, or the person might not be healthy enough for major surgery.
+Metastatic cancers. These cancers have spread to distant parts of the body.
+
+Very early stage cancers
+These cancers are still only in the inner lining layer of the stomach and have not grown into deeper layers of the stomach wall.
+Very early stage cancers can typically be treated by surgery, with either subtotal gastrectomy (removal of part of the stomach) or total gastrectomy (removal of the entire stomach). Nearby lymph nodes are removed as well.
+Some small stage 0 cancers can be treated by endoscopic resection. In this procedure the cancer and some layers of the stomach wall are removed through an endoscope passed down the throat. This procedure is done more often in countries like Japan, where stomach cancer is often detected early during screening. It is rare to find stomach cancer so early in the United States, so this treatment has not been used as often here. If it is done, it should be at a cancer center that has experience with this technique.
+If the results of surgery (or endoscopic resection) show that all of the cancer has been removed, the person can usually be followed closely, without needing any further treatment. If it’s not clear that all of the cancer has been removed, chemotherapy and radiation are likely to be recommended. Another option might be a more extensive surgery to remove the cancer.
+Potentially resectable cancers
+These cancers have grown deeper into the stomach wall and may have grown into nearby areas, but there are no signs they have spread to other parts of the body, so surgery might be an option to remove (resect) them. 
+It’s very important that all of the needed tests are done to stage these cancers accurately before surgery is attempted, so the doctors know the true extent of the cancer in the body. Trying to remove the cancer isn’t likely to be helpful if it has spread too far, and surgery can have serious side effects, so accurately staging these cancers helps ensure the potential benefits of surgery outweigh the potential downsides. Along with imaging tests like CT and PET scans, other tests such as endoscopic ultrasound (EUS) or staging laparoscopy might be done before trying to remove the cancer. (See Tests for Stomach Cancer for more on these tests.)
+Depending on the location and extent of the cancer, some people might get surgery as their first treatment, with either subtotal gastrectomy (removal of part of the stomach) or total gastrectomy (removal of the entire stomach). Nearby lymph nodes (and possibly parts of nearby organs) are removed as well. Other people might get chemotherapy alone or chemo plus radiation therapy (known as chemoradiation) first to try to shrink the cancer and make the surgery easier.
+After surgery, chemo (or chemoradiation, if it wasn’t used before surgery) might be given to try to kill any remaining cancer cells. This is especially true if it’s not clear that all of the cancer was removed, or if too few lymph nodes were removed during surgery. Another option if not all of the cancer was removed might be a more extensive operation.
+Unresectable local or regional cancers
+These cancers haven’t spread to distant parts of the body, but they can’t be removed (resected) completely with surgery.
+Options for the first line of treatment for these cancers might include chemotherapy alone, chemo plus immunotherapy, chemo plus immunotherapy plus the targeted drug trastuzumab (if the cancer tests positive for HER2 and for the PD-L1 protein), or chemo plus radiation therapy (chemoradiation).
+The stage (extent) of the cancer is then reassessed after treatment. It’s very important that doctors know the true extent of the cancer at this point. Along with imaging tests like CT and PET scans, other tests such as endoscopic ultrasound (EUS) or staging laparoscopy might be done. (See Tests for Stomach Cancer for more on these tests.)
+
+If the cancer has shrunk enough with this treatment, surgery to remove the cancer might be an option at this point. This might be a subtotal gastrectomy (removal of part of the stomach) or total gastrectomy (removal of the entire stomach). Nearby lymph nodes (and possibly parts of nearby organs) are removed as well.
+If the cancer is still unresectable after the initial treatment, further treatment is aimed at controlling the cancer growth for as long as possible and preventing or relieving any problems it causes. This is similar to the treatment of metastatic cancer (described next).
+
+Sometimes, even when the cancer is potentially resectable, a person might not be healthy enough for major surgery, or they might decide not to have it. Treatment for these cancers is typically aimed at controlling the cancer growth for as long as possible and preventing or relieving any problems it causes. This is similar to the treatment of metastatic cancer (described next).
+Metastatic cancers
+These cancers have spread to distant parts of the body, and they are very hard to cure. But treatment can often help keep the cancer under control and help prevent or relieve problems it might cause.
+Treatment aimed at controlling the growth of the cancer might include chemotherapy alone, chemotherapy plus immunotherapy, or chemotherapy along with radiation therapy if a person is healthy enough. For people whose cancers test positive for HER2, the targeted drug trastuzumab can be added to the chemo, which might help it work better. If the cancer cells also test positive for the PD-L1 protein, another option is to add the immunotherapy drug pembrolizumab to the trastuzumab and chemo, as part of the first treatment.
+If one type of chemo doesn’t work (or if it stops working), another type of chemo might be tried. Other options might include a targeted therapy drug or an immunotherapy drug.
+Some types of palliative surgery, such as a gastric bypass (or, less often, a subtotal gastrectomy) might be helpful in some situations to keep the stomach and/or intestines from becoming blocked (obstructed) or to control bleeding.
+Endoscopic procedures might also be used to help prevent or relieve symptoms, especially in people who can’t have (or don’t want) surgery. For example, a laser beam directed through an endoscope (a long, flexible tube passed down the throat) can destroy parts of the tumor to stop it from blocking the passage of food through the stomach. If needed, an endoscope can be used to place a stent (a hollow metal tube) where the esophagus and stomach meet to help keep it open and allow food to pass through. This can also be done at the junction of the stomach and the small intestine.
+Stomach cancer (and its treatment) can often lead to problems with eating, and getting adequate nutrition is often a concern. Some people might be helped by the placement of a feeding tube. If it is only needed for a short time, a thin tube can be passed down the nose and throat and into the stomach or intestine. If a feeding tube is needed for a longer time, a minor surgical procedure can be done to place the tube through the skin of the abdomen and into either the lower part of the stomach (a gastrostomy tube or G tube) or the small intestine (a jejunostomy tube or J tube). Liquid nutrition can then be put directly into the tube.
+Because these cancers can be hard to treat, new treatments being tested in clinical trials may benefit some patients.
+Even if treatments do not destroy or shrink the cancer, there are often ways to relieve pain, trouble eating, and other symptoms. It's important to tell your cancer care team about any symptoms you have right away, so they can be managed effectively.
+Recurrent cancer
+Cancer that comes back after initial treatment is known as recurrent cancer. Treatment options for recurrent cancer depend on where the cancer recurs, what treatments a person has already had, and the person’s overall health.
+If the cancer comes back only in one area near where the original cancer was, surgery might be an option to try to remove it, if a person is health enough for the operation.
+If the cancer recurrence is more widespread or is in a distant part of the body, or if a person isn’t healthy enough for surgery, treatment is similar to that for metastatic cancer (described above), in which the main goals are to control the cancer growth for as long as possible and to prevent or relieve any problems it might cause.
+For people who are interested, clinical trials of newer treatments may be an option and could be considered.For some people with stomach cancer (also known as gastric cancer), treatment can remove or destroy the cancer. The end of treatment can be both stressful and exciting. You may be relieved to finish treatment, but it’s hard not to worry about cancer coming back. This is very common if you’ve had cancer.
+For other people, the cancer might never go away completely. Some people may get chemotherapy, targeted therapy, or other treatments to try to keep the cancer in check for as long as possible and to prevent or limit any problems it might cause. Learning to live with cancer that does not go away can be difficult and very stressful. 
+Life after stomach cancer means returning to some familiar things and making some new choices.
+Follow-up care
+Even if you have completed treatment, your doctors will still want to watch you closely. It's very important to go to all of your follow-up appointments. During these visits, your doctors will ask questions about any problems you are having and may do exams and lab or imaging tests to look for signs of stomach cancer or treatment side effects.
+Almost any cancer treatment can have side effects. Some might only last for a short time, but others can last longer. Your doctor visits are a good time for you to ask questions and talk about any changes, problems, or other concerns you have.
+If you have finished treatment, most doctors recommend follow-up visits every 3 to 6 months for the first few years, then less often after that. These visits usually include a physical exam and review of any symptoms you’re having. Lab tests and other exams such as upper endoscopy might also be done or ordered at this time. Imaging tests such as CT cans are not usually needed at each visit, but they might be done if you have any suspicious symptoms or physical findings on exam.
+Ask your doctor for a survivorship care plan
+Talk with your doctor about developing a survivorship care plan for you. This plan might include:
+
+A suggested schedule for follow-up exams and tests
+A schedule for other tests you might need in the future, such as early detection (screening) tests for other types of cancer, or tests to look for long-term health effects from your cancer or its treatment
+A list of possible late- or long-term side effects from your treatment, including what to watch for and when you should contact your doctor
+Diet and physical activity suggestions
+Reminders to keep your appointments with your primary care provider (PCP), who will monitor your general health care
+
+Help with nutrition issues
+For many people, stomach cancer and its treatment can affect how they eat and absorb nutrition. Nausea can be a problem during and after some treatments, and some people lose their appetite (as well as some weight). People also often find they need to change the way they eat, such as eating smaller, more frequent meals instead of a few larger ones each day.
+Your cancer care team may refer you to a dietitian, an expert in nutrition, who can help you adjust to changes in your eating habits and can give you ideas on how to deal with some of the nutrition issues that might arise from the cancer or its treatment.
+If you have lost or are losing weight, or if you are having trouble eating, do the best you can. Eat what appeals to you. Eat what you can, when you can. You might find it helps to eat small portions every 2 to 3 hours until you feel better. Try to keep in mind that these problems usually improve over time.
+If part or all of your stomach has been removed, you might need to eat smaller amounts of food more often. Your doctor or dietitian may also recommend that you stay upright for some time after eating. Your health care team can help you adjust your diet if you are having problems eating.
+Some people with stomach cancer have problems with nausea, diarrhea, sweating, and flushing after eating. This is called dumping syndrome. When part or all of the stomach is removed, the food that is swallowed quickly passes into the intestine, leading to these symptoms after eating. These symptoms often get better over time, although some people might still need to take medicines to help with long-term diarrhea.
+People who have had surgery — especially if they had the upper part of their stomach removed (in either a subtotal or total gastrectomy) — will probably need to have blood work done regularly to check their vitamin and mineral levels. Some people might need vitamin supplements, which could include B12 injections. (The pill form of vitamin B12 isn’t absorbed into the body if the upper part of the stomach has been removed.)
+Some people may need additional help to make sure they get the nutrition they need. For example, some people might need nutritional supplements. Some people may even need a feeding tube, called a jejunostomy tube (or J-tube), put into the small intestine. This is done through a small hole in the skin over the abdomen during a minor operation. A J-tube allows liquid nutrition to be put directly into the small intestine to help prevent weight loss and improve nutrition. Less often, the tube may be placed into the lower part of the stomach instead. This is known as a gastrostomy tube or G-tube.
+Keeping health insurance and copies of your medical records
+Even after treatment, it’s very important to keep health insurance. Tests and doctor visits cost a lot, and even though no one wants to think of their cancer coming back, this could happen.
+At some point after your cancer treatment, you might find yourself seeing a new doctor who doesn’t know about your medical history. It’s important to keep copies of your medical records to give your new doctor the details of your diagnosis and treatment. Learn more in Keeping Copies of Important Medical Records.
+Can I lower my risk of stomach cancer progressing or coming back?
+If you have (or have had) stomach cancer, you probably want to know if there are things you can do that might lower your risk of the cancer growing or coming back, such as exercising, eating a certain type of diet, or taking nutritional supplements. Unfortunately, it’s not yet clear if there are things you can do that will help.
+Eating a diet rich in fruits and vegetables, staying at a healthy weight, getting regular physical activity, and avoiding or limiting alcohol are all linked with a lower risk of getting stomach cancer. But we don’t know if these types of changes affect the risk of cancer progressing or coming back. However, we do know that they can have positive effects on your health that can extend beyond your risk of cancer.
+Tobacco use has clearly been linked to stomach cancer, so not smoking might help reduce your risk. We don’t know for certain if this will help, but we do know that it can help improve your appetite and overall health. It can also reduce the chance of developing other types of cancer. If you want to quit smoking and need help, call the American Cancer Society at 1-800-227-2345. You can also learn more in our Guide to Quitting Tobacco.
+About dietary supplements
+So far, no dietary supplements (including vitamins, minerals, and herbal products) have been shown to clearly help lower the risk of cancer progressing or coming back. This doesn’t mean that no supplements will help, but it’s important to know that none have been proven to do so.
+Dietary supplements are not regulated like medicines in the United States – they don't have to be proven effective (or even safe) before being sold, although there are limits on what they’re allowed to claim they can do. If you’re thinking about taking any type of nutritional supplement, talk to your health care team. They can help you decide which ones you can use safely while avoiding those that might be harmful.
+If the cancer comes back
+If the cancer does recur at some point, your treatment options will depend on where the cancer is located, what treatments you’ve had before, and your health. For more information on how recurrent cancer is treated, see Treatment Choices Based on the Extent of Stomach Cancer.
+For more general information on recurrence, you may also want to see Understanding Recurrence.
+Could I get a second cancer after treatment?
+People who’ve had stomach cancer can still get other cancers. They do not get second cancers at an increased rate overall, but they do seem to have an increased risk of cancers of the thyroid and small intestine.
+Experts do not recommend any additional testing to look for second cancers in people who’ve had stomach cancer. Still, it’s important to let your doctor know about any new symptoms or problems you have, because they could be caused by the stomach cancer coming back, or by a new disease or second cancer.
+Like other people, survivors of stomach cancer should follow the American Cancer Society guidelines for the early detection of cancer and stay away from tobacco products, which increase the risk of many types of cancers.
+To help maintain good health, survivors should also:
+
+Get to and stay at a healthy weight.
+Stay physically active and limit time spent sitting or lying down.
+Follow a healthy eating pattern that includes plenty of fruits, vegetables, and whole grains, and that limits or avoids red and processed meats, sugary drinks, and highly processed foods.
+Avoid or limit alcohol. If you do drink, have no more than 1 drink per day for women or 2 per day for men.
+
+These steps may also lower the risk of some other health problems.
+See Second Cancers for more information about causes of second cancers.What is stomach cancer?
+Cancer can start any place in the body. Stomach cancer (also called gastric cancer) starts in the stomach. It starts when cells in the stomach grow out of control and crowd out normal cells. This makes it hard for the body to work the way it should.
+Cancer cells can spread to other parts of the body. For example, cancer cells in the stomach can sometimes travel to the liver and grow there. When cancer cells do this, it’s called metastasis. To doctors, the cancer cells in the new place look just like the ones from the stomach.
+Cancer is always named based on the place where it starts. So when stomach cancer spreads to the liver (or any other part of the body), it’s still called stomach cancer. It’s not called liver cancer unless it starts from cells in the liver.

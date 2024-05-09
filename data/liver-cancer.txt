@@ -1,0 +1,667 @@
+Liver cancer is a type of cancer that starts in the liver. Cancer starts when cells in the body begin to grow out of control. To learn more about how cancers start and spread, see What Is Cancer?
+To understand liver cancer, it helps to know about the normal structure and function of the liver.
+The liver
+The liver is the largest internal organ. It lies under your right ribs just beneath your right lung. It has two lobes (sections).The American Cancer Society’s estimates for primary liver cancer and intrahepatic bile duct cancer in the United States for 2024 are:
+
+About 41,630 new cases (28,000 in men and 13,630 in women) will be diagnosed
+About 29,840 people (19,120 men and 10,720 women) will die of these cancers
+
+Liver cancer incidence rates have more than tripled since 1980, while the death rates have more than doubled during this time.
+Where is liver cancer more common?
+Liver cancer is much more common in countries in sub-Saharan Africa and Southeast Asia than in the US. In many of these countries it is the most common type of cancer. More than 800,000 people are diagnosed with this cancer each year throughout the world. Liver cancer is also a leading cause of cancer deaths worldwide, accounting for more than 700,000 deaths each year.
+Visit the American Cancer Society’s Cancer Statistics Center for more key statistics.Because there are only a few effective ways to prevent or treat liver cancer at this time, there is always a great deal of research going on in the area of liver cancer. Scientists are looking for causes and ways to prevent liver cancer, as well as ways to improve treatments.
+Prevention
+Some scientists believe that vaccinations and improved treatments for hepatitis could prevent about half of liver cancer cases worldwide. Researchers are studying ways to prevent or treat hepatitis infections before they cause liver cancers. Research into developing a vaccine to prevent hepatitis C is ongoing. Progress is also being made in treating chronic hepatitis.
+Screening
+Several new blood tests are being studied to see if they can detect liver cancer earlier than using  AFP and ultrasound. Ones being studied include DCP, Glypican-3, osteopontin and Golgi protein-73. CT scans and MRI scans are also being studied as different imaging tests to screen for liver cancer instead of ultrasound.
+Surgery
+Newer techniques are being developed to make both partial hepatectomy and liver transplants safer and more effective.
+Adding other treatments to surgery
+An active area of research uses adjuvant therapies – treatments given right after surgery – to try to reduce the chances that the cancer will return. Most of the studies so far using chemotherapy or chemoembolization after surgery have not shown that they help people live longer. Research studies are also looking into newer drugs, like targeted therapy and may prove to be more effective. Some promising results have also been seen with radioembolization, but these need to be confirmed in larger studies. Another area studied has been the use of anti-viral therapy in people with liver cancer related to having viral hepatitis to see if it improves outcomes after surgery.
+Doctors are also studying ways to make more liver cancers resectable by trying to shrink them before surgery. Studies are now looking at different types of neoadjuvant therapies (therapies given before surgery), including targeted therapy, chemotherapy, ablation, embolization, and radiation therapy. Early results have been promising but have only looked at small numbers of patients.
+Determining recurrence risk after surgery
+After a partial hepatectomy, one of the biggest concerns is that the cancer might come back (recur). Knowing someone's risk for recurrence after surgery might give doctors a better idea of how best to follow up with them, and may someday help determine who needs additional treatment to lower this risk.
+Researchers are studying ways to predict if the cancer will come back by testing the liver cells in the surgery sample through genetic profiling. These studies are promising but will need to be confirmed in other larger studies before it is widely used.
+Ablation therapy
+Newer ablation techniques are being studied. One type, called irreversible electroporation, is an ablation procedure that does not use heat or cold to destroy cancer cells. It uses high voltage to open the "pores" of the cell (like the pores of your skin) which causes the cancer cells to die. It may be very useful for cancers that are in difficult areas to treat, such as near blood vessels.
+Targeted therapy
+New drugs have been developed that work differently from standard chemotherapy drugs. These new targeted drugs act on specific proteins in cancer cells or their surrounding environments.
+Tumor blood vessels are the target of several newer drugs. Liver tumors need new blood vessels to grow. The drug sorafenib (Nexavar), which is already used for some liver cancers that can't be removed surgically, works in part by hindering new blood vessel growth. This drug is now being studied for use earlier in the course of the disease, such as after surgery or trans-arterial chemoembolization (TACE). Researchers are also studying whether combining it with chemotherapy may make it more effective.
+Ramucirumab (Cyramza) is another targeted drug that works on blocking new blood vessel growth which can result in tumor shrinkage. It is already being used in other cancers such as stomach cancer, NSCLC and colorectal cancer. It is being studied in people with liver cancer with positive results.
+Biomarkers
+Knowing which liver cancers will respond to certain treatments before giving them would help save people from side effects of unhelpful drugs. Research is being done to look for specific biomarkers (proteins) such as p-ERK, or genomic profiling (specific gene changes of a cancer) to see if targeted therapy or immunotherapy can be chosen based a tumor's special traits.
+Virus therapy
+A newer approach to treatment is the use of a virus, known as JX-594. This started as the same virus that was used to make the smallpox vaccine, but it has been altered in the lab so that it mainly infects cancer cells and not normal cells. A solution containing the virus is injected into liver cancers, and the virus can enter the cancer cells, where it causes them to die or to make proteins that result in them being attacked by the body’s immune system. Early results of this treatment against advanced liver cancer have been promising, even in patients who have already had other treatments.A risk factor is anything that increases your chance of getting a disease, such as cancer. Different cancers have different risk factors. Some risk factors, like smoking, can be changed. Others, like a person's age or family history, can't be changed.
+But having a risk factor, or even several risk factors, does not mean that you will get the disease. And some people who get the disease may have few or no known risk factors.
+Factors that can increase your risk of liver cancer
+Several factors can increase a person's chance of getting a hepatocellular carcinoma (HCC).
+Sex
+Hepatocellular carcinoma is much more common in men than in women. Much of this is probably because of behaviors affecting some of the risk factors described below. The fibrolamellar subtype of HCC is more common in women.
+Race/ethnicity
+In the United States, Asian Americans and Pacific Islanders have the highest rates of liver cancer, followed by Hispanic and Latino, American Indians, Alaska Natives, African Americans, and White individuals.
+Chronic viral hepatitis
+Worldwide, the most common risk factor for liver cancer is chronic (long-term) infection with hepatitis B virus (HBV) or hepatitis C virus (HCV). These infections lead to cirrhosis of the liver and are responsible for making liver cancer the most common cancer in many parts of the world.
+In the US, infection with hepatitis C is the more common cause of HCC, while in Asia and developing countries, hepatitis B is more common. People infected with both viruses have a high risk of developing chronic hepatitis, cirrhosis, and liver cancer. The risk is even higher if they are heavy drinkers (at least 6 alcoholic drinks a day).
+HBV and HCV can spread from person to person through sharing contaminated needles (such as in drug use), unprotected sex, or childbirth. They can also be passed on through blood transfusions, although this is very rare in the United States since blood products are tested for these viruses. In developing countries, children sometimes contract hepatitis B infection from prolonged contact with family members who are infected.
+HBV is more likely to cause symptoms, such as a flu-like illness and jaundice (a yellowing of the eyes and skin). But most people recover completely from HBV infection within a few months. Only a very small percentage of adults become chronic carriers (and have a higher risk for liver cancer). Infants and small children who become infected have a higher risk of becoming chronic carriers.
+HCV, on the other hand, is less likely to cause symptoms. But most people with HCV develop chronic infections, which are more likely to lead to liver damage or even cancer.
+Other viruses, such as the hepatitis A virus and hepatitis E virus, can also cause hepatitis. But people infected with these viruses do not develop chronic hepatitis or cirrhosis, and do not have an increased risk of liver cancer.
+Cirrhosis
+Cirrhosis is a disease in which liver cells become damaged and are replaced by scar tissue. People with cirrhosis have an increased risk of liver cancer. Most (but not all) people who develop liver cancer already have some evidence of cirrhosis.
+There are several possible causes of cirrhosis. Most cases in the United States occur in people who abuse alcohol or have chronic HBV or HCV infections.
+Non-alcoholic fatty liver disease
+Non-alcoholic fatty liver disease is a common condition in obese people. People with a subtype of this disease, known as non-alcoholic steatohepatitis (NASH), might go on to develop cirrhosis.
+Primary biliary cirrhosis
+Some types of autoimmune diseases that affect the liver can also cause cirrhosis. For example, in primary biliary cirrhosis (PBC) the bile ducts in the liver are damaged and even destroyed which can lead to cirrhosis. People with advanced PBC have a high risk of liver cancer.
+Inherited metabolic diseases
+Certain inherited metabolic diseases can lead to cirrhosis.
+People with hereditary hemochromatosis absorb too much iron from their food. The iron settles in tissues throughout the body, including the liver. If enough iron builds up in the liver, it can lead to cirrhosis and liver cancer.
+Heavy alcohol use
+Alcohol abuse is a leading cause of cirrhosis in the US, which in turn is linked with an increased risk of liver cancer.
+Tobacco use
+Smoking increases the risk of liver cancer. People who smoked and stopped have a lower risk than those who still smoke, but both groups have a higher risk than those who never smoked.
+Obesity
+Being obese (very overweight) increases the risk of developing liver cancer. This is probably because it can result in fatty liver disease and cirrhosis.
+Type 2 diabetes
+Type 2 diabetes has been linked with an increased risk of liver cancer, usually in patients who also have other risk factors such as heavy alcohol use and/or chronic viral hepatitis. This risk may also be increased because people with type 2 diabetes tend to be overweight or obese, which in turn can cause liver problems.
+Certain rare diseases
+Diseases that increase the risk of liver cancer include:
+
+Tyrosinemia
+Alpha1-antitrypsin deficiency
+Porphyria cutanea tarda
+Glycogen storage diseases
+Wilson disease
+
+Aflatoxins
+These cancer-causing substances are made by a fungus that contaminates peanuts, wheat, soybeans, ground nuts, corn, and rice. Storage in a moist, warm environment can lead to the growth of this fungus. Although this can occur almost anywhere in the world, it is more common in warmer and tropical countries. Developed countries, such as the US and those in Europe, test foods for levels of aflatoxins.
+Long-term exposure to these substances is a major risk factor for liver cancer. The risk is increased even more in people with hepatitis B or C infections.
+Vinyl chloride and thorium dioxide (Thorotrast)
+Exposure to these chemicals raises the risk of angiosarcoma of the liver (see What is liver cancer?). It also increases the risk of developing cholangiocarcinoma and hepatocellular cancer, but to a far lesser degree. Vinyl chloride is a chemical used in making some kinds of plastics. Thorotrast is a chemical that in the past was injected into some patients as part of certain x-ray tests. When the cancer-causing properties of these chemicals were recognized, steps were taken to eliminate them or minimize exposure to them. Thorotrast is no longer used, and exposure of workers to vinyl chloride is strictly regulated.
+Anabolic steroids
+Anabolic steroids are male hormones used by some athletes to increase their strength and muscle mass. Long-term anabolic steroid use can slightly increase the risk of hepatocellular cancer. Cortisone-like steroids, such as hydrocortisone, prednisone, and dexamethasone, do not carry this same risk.
+Factors that may lower your risk of liver cancer
+Hepatitis B vaccine
+Since chronic hepatitis B infection can lead to cirrhosis and then liver cancer, getting vaccinated against the hepatitis B virus may protect people from liver cancer caused by the hepatitis B virus.
+Treatment of viral hepatitis
+It is known that chronic infections with hepatitis B or even hepatitis C can lead to cirrhosis and liver cancer. Getting treatment for either infection can lower one's risk of liver cancer.
+Factors with unclear effects on liver cancer risk
+Aspirin
+Aspirin has been shown to reduce the risk of a few cancers. Some studies have shown a reduced risk of liver cancer with regular use of aspirin, but more research is needed.Although several risk factors for liver cancer are known (see Liver Cancer Risk Factors), exactly how these may lead normal liver cells to become cancerous is only partially understood. Some of these risk factors affect the DNA of cells in the liver, which can result in abnormal cell growth and may cause cancers to form.
+DNA is the chemical in our cells that carries our genes which control how our cells function. We look like our parents because they are the source of our DNA. But DNA affects more than just how we look.
+Some genes control when cells grow, divide into new cells, and die.
+
+Genes that help cells to grow and divide and stay alive are called oncogenes.
+Genes that keep cell division under control, repair mistakes in DNA, or cause cells to die at the right time are called tumor suppressor genes.
+
+Cancers can be caused by DNA changes (mutations) that turn on oncogenes or turn off tumor suppressor genes. Several different genes usually need to have changes for a cell to become cancerous.
+Certain chemicals that cause liver cancer, such as aflatoxins, are known to damage the DNA in liver cells. For example, studies have shown that aflatoxins can damage the TP53 tumor suppressor gene, which normally works to prevent cells from growing too much. Damage to the TP53 gene can lead to increased growth of abnormal cells and formation of cancers.
+Hepatitis viruses can also change DNA when they infect liver cells. In some patients, the virus's DNA can insert itself into a liver cell's DNA, where it may turn on the cell's oncogenes.
+Liver cancer clearly has many different causes, and there are undoubtedly many different genes involved in its development. It is hoped that a more complete understanding of how liver cancers develop will help doctors find ways to better prevent and treat them.Many liver cancers could be prevented by reducing exposure to known risk factors for this disease.
+Avoid, get tested for, and treat hepatitis B and C infections
+Worldwide, the most significant risk factor for liver cancer is chronic infection with hepatitis B virus (HBV) and hepatitis C virus (HCV). These viruses can spread from person to person through sharing contaminated needles (such as in drug use), through unprotected sex, and through childbirth, so some liver cancers could be avoided by not sharing needles and by using safer sex practices (such as always using condoms).
+Blood transfusions were once a major source of hepatitis infection as well. But because blood banks in the United States test donated blood to look for these viruses, the risk of getting a hepatitis infection from a blood transfusion is extremely low.
+HBV vaccine﻿
+The US Centers for Disease Control and Prevention (CDC) recommends that all children and adults up to age 59, as well as older adults at risk for HBV, get the HBV vaccine to reduce their risk of chronic hepatitis B and liver cancer.
+There is no vaccine for HCV. Preventing HCV infection, as well as HBV infection in people who have not been immunized, is based on understanding and avoiding some of the ways in which these infections occur.
+Screening and testing for chronic HBV and HCV infections
+Some people might have a chronic HBV or HCV infection without even knowing it. To help find these infections, the CDC recommends that all people 18 years of age or older get tested for HBV and HCV at least once during their lifetime, and that some groups of people get tested at a younger age and/or more often. (For detailed lists of who should get tested for HBV and HCV and how often, visit the CDC website at https://www.cdc.gov/hepatitis/hbv/bfaq.htm and https://www.cdc.gov/hepatitis/hcv/cfaq.htm.)
+Treating chronic HBV and HCV
+If a person is found to have a chronic HBV or HCV infection, treatment and preventive measures can help slow liver damage and reduce cancer risk.
+Medicines to treat chronic HCV infection can eliminate the virus in many people and may lower their risk of liver cancer.
+A number of medicines can be used to treat chronic HBV. They can reduce the number of viruses in the blood and lessen liver damage. Although these drugs don't cure the disease, they lower the risk of cirrhosis, and they may lower the risk of liver cancer as well.
+Limit alcohol and tobacco use
+Drinking alcohol can lead to cirrhosis, which in turn, can lead to liver cancer. Not drinking alcohol or drinking in moderation could help prevent liver cancer.
+Since smoking also increases the risk of liver cancer, not smoking will also prevent some of these cancers. If you smoke, quitting will help lower your risk of this cancer, as well as many other cancers and life-threatening diseases.
+Get to and stay at a healthy weight
+Avoiding obesity might be another way to help protect against liver cancer. People who are obese are more likely to have fatty liver disease and diabetes, both of which have been linked to liver cancer.
+Limit exposure to cancer-causing chemicals
+Changing the way certain grains are stored in tropical and subtropical countries could reduce exposure to cancer-causing substances such as aflatoxins. Many developed countries already have regulations to prevent and monitor grain contamination.
+Treat diseases that increase liver cancer risk
+Certain inherited diseases can cause cirrhosis of the liver, increasing a person’s risk for liver cancer. Finding and treating these diseases early in life could lower this risk. For example, all children in families with hemochromatosis should be screened for the disease and treated if they have it. Treatment regularly removes small amounts of blood to lower the amount of excess iron in the body.It is often hard to find liver cancer early because signs and symptoms often do not appear until it is in its later stages. Small liver tumors are hard to detect on a physical exam because most of the liver is covered by the right rib cage. By the time a tumor can be felt, it might already be quite large.
+At this time, there are no widely recommended screening tests for liver cancer in people who are at average risk. (Screening means testing for cancer in people who have no symptoms or history of cancer.) But testing might be recommended for some people at higher risk.
+Testing people at high risk for liver cancer
+Many patients who develop liver cancer have long-standing cirrhosis (scar tissue formation from liver damage). Doctors may do tests to look for liver cancer if a patient with cirrhosis gets worse for no apparent reason.
+For people at higher risk of liver cancer because they have cirrhosis (from any cause), hereditary hemochromatosis, or chronic hepatitis B infection (even without cirrhosis), some experts recommend screening for liver cancer with alpha-fetoprotein (AFP) blood tests and ultrasound exams every 6 months. In some studies, screening was linked to improved survival from liver cancer.
+AFP is a protein that can be measured in the blood of patients with liver cancer. But looking for high AFP levels isn’t a perfect test for liver cancer. Many patients with early liver cancer have normal AFP levels. Also, AFP levels can be increased from other kinds of cancer as well as some non-cancerous conditions.Having one or more of the symptoms below does not mean you have liver cancer. In fact, many of these symptoms are more likely to be caused by other conditions. Still, if you have any of these symptoms, it’s important to have them checked by a doctor so that the cause can be found and treated, if needed. Signs and symptoms of liver cancer often do not show up until the later stages of the disease, but sometimes they may show up sooner. If you go to your doctor when you first notice symptoms, your cancer might be diagnosed earlier, when treatment is most likely to be helpful. Some of the most common symptoms of liver cancer are:
+
+Weight loss (without trying)
+Loss of appetite
+Feeling very full after a small meal
+Nausea or vomiting
+An enlarged liver, felt as fullness under the ribs on the right side
+An enlarged spleen, felt as fullness under the ribs on the left side
+Pain in the abdomen (belly) or near the right shoulder blade
+Swelling or fluid build-up in the abdomen (belly)
+Itching
+Yellowing of the skin and eyes (jaundice)
+
+Other symptoms can include fever, enlarged veins on the belly that can be seen through the skin, and abnormal bruising or bleeding.
+People who have chronic hepatitis or cirrhosis might feel worse than usual or might just have changes in lab test results, such as liver function tests or alpha-fetoprotein (AFP) levels.
+Some liver tumors make hormones that act on organs other than the liver. These hormones may cause:
+
+High blood calcium levels (hypercalcemia), which can cause nausea, confusion, constipation, weakness, or muscle problems
+Low blood sugar levels (hypoglycemia), which can cause fatigue or fainting
+Breast enlargement (gynecomastia) and/or shrinkage of the testicles in men
+High counts of red blood cells (erythrocytosis) which can cause someone to look red and flushed
+High cholesterol levelsSome liver cancers can be found by testing people at high risk who don't have symptoms (screening), but most liver cancers are found because they are causing symptoms. If you have possible signs or symptoms of liver cancer, see your doctor, who will examine you and may order some tests.
+Medical history and physical exam
+Your doctor will ask about your medical history to learn more about your symptoms and possible risk factors. Your doctor will also examine you to look for signs of liver cancer and other health problems, probably paying special attention to your abdomen and checking your skin and the whites of your eyes looking for jaundice (a yellowish color).
+If symptoms and/or the results of the physical exam suggest you might have liver cancer, more tests will probably be done. These might include imaging tests, lab tests, and/or biopsies of liver tissue.
+Imaging tests
+Imaging tests use x-rays, magnetic fields, or sound waves to create pictures of the inside of your body. Imaging tests maybe done for a number of reasons both before and after a diagnosis of liver cancer, including:
+
+To help find suspicious areas that might be cancer
+To help a doctor guide a biopsy needle into a suspicious area to take a sample
+To learn how far cancer might have spread
+To help guide certain treatments in the liver
+To help determine if treatment is working
+To look for possible signs of cancer coming back after treatment
+
+Ultrasound
+Ultrasound is often the first test used to look at the liver. It uses sound waves to create an image on a computer screen. This test can show tumors growing in the liver, which then can be tested for cancer, if needed.
+Computed tomography (CT)
+The CT scan is an x-ray test that makes detailed images of your body. A CT scan of the abdomen can help find many types of liver tumors. It can give specific information about the size, shape, and location of any tumors in the liver or elsewhere in the abdomen, as well as nearby blood vessels. CT scans can also be used to guide a biopsy needle precisely into a suspected tumor (called a CT-guided needle biopsy). If you are found to have liver cancer, a CT of your chest may also be done to look for possible cancer spread to the lungs.
+Magnetic resonance imaging (MRI)
+Like CT scans, MRI scans provide detailed images of soft tissues in the body. But MRI scans use radio waves and strong magnets instead of x-rays. MRI scans can be very helpful in looking at liver tumors. Sometimes they can tell a benign tumor from a malignant one. They can also be used to look at blood vessels in and around the liver to see any blockages, and can help show if liver cancer has spread to other parts of the body.
+Angiography
+An angiogram is an x-ray test that looks at blood vessels. Contrast medium, or dye, is injected into an artery to outline blood vessels while x-ray images are taken.
+Angiography can be used to show the arteries that supply blood to a liver cancer, which can help doctors decide if a cancer can be removed and to help plan the operation. It can also be used to help guide some types of non-surgical treatment, such as embolization (see Embolization Therapy for Liver Cancer).
+Angiography can be uncomfortable because a small catheter (a flexible hollow tube) must be put into the artery leading to the liver to inject the dye. Usually the catheter is put into an artery in your groin and eased up into the liver artery. You have to stay very still while the catheter is in place. A local anesthetic is often used to numb the area before inserting the catheter. Then the dye is injected quickly to outline all the vessels while the x-rays are being taken.
+Angiography can also be done with a CT scanner (CT angiography) or an MRI scanner (MR angiography). These techniques are often used instead of x-ray angiography because they can give information about the blood vessels in the liver without the need for a catheter in the groin. You will still need an IV line in your arm so that a contrast dye can be injected into the blood during the test.
+Bone scan
+A bone scan can help look for cancer that has spread (metastasized) to bones. Doctors don't usually order this test for people with liver cancer unless you have symptoms such as bone pain, or if there's a chance you may qualify for a liver transplant to treat your cancer.
+Other tests and procedures
+Other types of tests may be done if your doctor thinks you might have liver cancer but the imaging results aren’t certain.
+Biopsy
+A biopsy is the removal of a sample of tissue to see if it is cancer. Sometimes, the only way to be sure that liver cancer is present is to take a biopsy and look at it in the pathology lab. But in some cases, doctors can be fairly certain that a person has liver cancer based on the results of imaging tests such as CT and MRI scans. In these cases, a biopsy may not be needed.
+Doctors are often concerned that sticking a needle into the tumor or otherwise disturbing it without completely removing it might help cancer cells spread along the needle's path. This is a major concern if surgery or a liver transplant might be an option to try to cure the cancer, as any spread of the cancer might make the person ineligible for a transplant. That is why some experts recommend that patients who could be transplant candidates only have biopsies done at the center where the transplant will be done.
+If a biopsy is needed, it can be done in several ways.
+Needle biopsy: A hollow needle is placed through the skin in the abdomen and into the liver. The skin is first numbed with local anesthesia before the needle is placed. This type of biopsy is typically done with the help of an ultrasound or CT scan to guide the needle.
+Laparoscopic biopsy: Biopsy specimens can also be taken during laparoscopy. This lets the doctor see the surface of the liver and take samples of abnormal-appearing areas.
+Surgical biopsy: An incisional biopsy (removing a piece of the tumor) or an excisional biopsy (removing the entire tumor and some surrounding normal liver tissue) can be done with surgery.
+For more information about biopsies and how they are tested, see Testing Biopsy and Cytology Specimens for Cancer.
+Lab tests
+Your doctor could order lab tests for a number of reasons:
+
+To help diagnose liver cancer
+To help determine what might have caused your liver cancer
+To learn how well your liver is working, which can affect what treatments you can have
+To get an idea of your general health and how well your other organs are working, which also could affect what treatments you can have
+To see how well treatment is working
+To look for signs that the cancer has come back after treatment
+
+Alpha-fetoprotein blood (AFP) test
+AFP is a protein that can be found in high levels in adults with liver disease, liver cancer, who are pregnant, or other cancers.
+If AFP levels are very high in someone with a liver tumor, it can be a sign that liver cancer is present. But liver cancer isn’t the only reason for high AFP levels. Many patients with early liver cancer have normal levels of AFP, so high AFP levels aren’t very helpful in determining if a liver mass might be cancer.
+This test, however, is sometimes useful in people already diagnosed with liver cancer. The AFP level can help determine treatment options. During treatment, the test can be used to give an idea of how well it is working, as the AFP level should go down if treatment is effective. The test can also be used after treatment, to look for possible signs that the cancer has come back (recurred).
+Other blood tests
+Tests for viral hepatitis: Your doctor might order blood tests to check for hepatitis B and C.
+Liver function tests (LFTs): Because liver cancer often develops in livers already damaged by hepatitis and/or cirrhosis, doctors need to know the condition of your liver before starting your treatment. If the part of your liver not affected by cancer isn’t working well, you might not be able to have surgery to try to cure the cancer, as the surgery might require removal of a large part of your liver. Other treatment options such as certain targeted therapy or chemotherapy may also not be good choices if your liver is not working well.
+Blood clotting tests: The liver also makes proteins that help blood clot when you bleed. A damaged liver might not make enough of these clotting factors, which could increase your risk of bleeding. Your doctor may order blood tests to help measure this risk.
+Kidney function tests: Tests of blood urea nitrogen (BUN) and creatinine levels are often done to assess how well your kidneys are working.
+Complete blood count (CBC): This test measures levels of red blood cells (which carry oxygen throughout your body), white blood cells (which fight infections), and platelets (which help the blood clot). It gives an idea of how well the bone marrow (where new blood cells are made) is functioning.
+Blood chemistry tests and other tests: Blood chemistry tests check the levels of a number of substances in the blood, some of which might be affected by liver cancer. For example, liver cancer can raise blood levels of calcium, while blood glucose levels may fall. Liver cancer can also sometimes raise cholesterol levels, so this may be checked as well.
+For more information about tests see Exams and Tests for Cancer.After someone is diagnosed with liver cancer, doctors will try to figure out if it has spread, and if so, how far. This process is called staging. The stage of a cancer describes how much cancer is in the body. It helps determine how serious the cancer is and how best to treat it. Doctors also use a cancer's stage when talking about survival statistics.
+Liver cancer stages range from stage I (1) through IV (4). As a rule, the lower the number, the less the cancer has spread. A higher number, such as stage IV, means cancer has spread more. Although each person’s cancer experience is unique, cancers with similar stages tend to have a similar outlook and are often treated in much the same way.
+How is the stage determined?
+There are several staging systems for liver cancer, and not all doctors use the same system. The staging system most often used in the United States for liver cancer is the AJCC (American Joint Committee on Cancer) TNM system, which is based on 3 key pieces of information:
+
+The extent (size) of the tumor (T): How large has the cancer grown? Is there more than one tumor in the liver? Has the cancer reached nearby structures like the veins in the liver?
+
+
+The spread to nearby lymph nodes (N): Has the cancer spread to nearby lymph nodes?
+The spread (metastasis) to distant sites (M): Has the cancer spread to distant lymph nodes or distant organs such as the bones or lungs?
+
+The system described below is the most recent AJCC system, effective January 2018.
+Numbers or letters after T, N, and M provide more details about each of these factors. Higher numbers mean the cancer is more advanced. Once a person’s T, N, and M categories have been determined, this information is combined in a process called stage grouping to assign an overall stage. For more information see Cancer Staging.
+Liver cancer is usually staged based on the results of the physical exam, biopsies, and imaging tests (ultrasound, CT or MRI scan, etc.), also called a clinical stage. If surgery is done, the pathologic stage (also called the surgical stage) is determined by examining tissue removed during an operation.
+Cancer staging can be complex, so ask your doctor to explain it to you in a way you understand.
+
+
+
+AJCC Stage
+Stage grouping
+Stage description*
+
+
+IA
+T1a N0 M0
+A single tumor 2 cm (4/5 inch) or smaller that hasn't grown into blood vessels (T1a). It has not spread to nearby lymph nodes (N0) or to distant sites (M0).
+
+
+IB
+T1b N0 M0
+A single tumor larger than 2cm (4/5 inch) that hasn't grown into blood vessels (T1b). The cancer has not spread to nearby lymph nodes (N0) or to distant sites (M0).
+
+
+II
+T2 N0 M0
+Either a single tumor larger than 2 cm (4/5 inch) that has grown into blood vessels, OR more than one tumor but none larger than 5 cm (about 2 inches) across (T2). It has not spread to nearby lymph nodes (N0) or to distant sites (M0).
+
+
+  IIIA    
+T3 N0 M0
+More than one tumor, with at least one tumor larger than 5 cm across (T3). It has not spread to nearby lymph nodes (N0) or to distant sites (M0).
+
+
+IIIB
+T4 N0 M0
+At least one tumor (any size) that has grown into a major branch of a large vein of the liver (the portal or hepatic vein) (T4). It has not spread to nearby lymph nodes (N0) or to distant sites (M0).
+
+
+IVA
+Any T N1 M0
+A single tumor or multiple tumors of any size (Any T) that has spread to nearby lymph nodes (N1) but not to distant sites (M0).
+
+
+IVB
+Any T Any N M1
+A single tumor or multiple tumors of any size (any T). It might or might not have spread to nearby lymph nodes (any N). It has spread to distant organs such as the bones or lungs (M1).
+
+
+
+
+                      
+                    
+ 
+* The following additional categories are not listed on the table above: 
+
+TX: Main tumor cannot be assessed due to lack of information.
+T0: No evidence of a primary tumor.
+NX: Regional lymph nodes cannot be assessed due to lack of information. 
+
+Other liver cancer staging systems
+The staging systems for most types of cancer depend only on the extent of the cancer, but liver cancer is complicated by the fact that most patients have damage to the rest of their liver along with the cancer. This also affects treatment options and survival outlook.
+Although the TNM system defines the extent of liver cancer in some detail, it does not take liver function into account. Several other staging systems have been developed that include both of these factors:
+
+The Barcelona Clinic Liver Cancer (BCLC) system
+The Cancer of the Liver Italian Program (CLIP) system
+The Okuda system
+
+These staging systems have not been compared against each other. Some are used more than others in different parts of the world, but at this time there is no single staging system that all doctors use. If you have questions about the stage of your cancer or which system your doctor uses, be sure to ask.
+Child-Pugh score (cirrhosis staging system)
+The Child-Pugh score measures liver function, especially in people with cirrhosis. Many people with liver cancer also have cirrhosis, and in order to treat the cancer, doctors need to know how well the liver is working. This system looks at 5 factors, the first 3 of which are results of blood tests:
+
+Blood levels of bilirubin (the substance that can cause yellowing of the skin and eyes)
+Blood levels of albumin (a major protein normally made by the liver)
+The prothrombin time (measures how well the liver is making blood clotting factors)
+Whether there is fluid (ascites) in the abdomen
+Whether the liver disease is affecting brain function
+
+Based on these factors, there are 3 classes of liver function. If all these factors are normal, then liver function is called class A. Mild abnormalities are class B, and severe abnormalities are class C. People with liver cancer and class C cirrhosis are often too sick for surgery or other major cancer treatments.
+The Child-Pugh score is actually part of the BCLC and CLIP staging systems mentioned previously.
+Liver cancer classification
+Formal staging systems (such as those described before) can often help doctors determine a patient's prognosis (outlook). But for treatment purposes, doctors often classify liver cancers more simply, based on whether or not they can be cut out (resected) completely. Resectable means able to be removed by surgery.
+Potentially resectable or transplantable cancers
+If the patient is healthy enough for surgery, these cancers can be completely removed by surgery or treated with a liver transplant. This would include most stage I and some stage II cancers in the TNM system, in patients who do not have cirrhosis or other serious medical problems. Only a small number of patients with liver cancer have this type of tumor.
+Unresectable cancers
+Cancers that have not spread to the lymph nodes or distant organs but cannot be completely removed by surgery are classified as unresectable. This includes cancers that have spread throughout the liver or can’t be removed safely because they are close to the area where the liver meets the main arteries, veins, and bile ducts.
+Inoperable cancer with only local disease
+The cancer is small enough and in the right place to be removed but you aren’t healthy enough for surgery. Often this is because the non-cancerous part of your liver is not healthy (because of cirrhosis, for example), and if the cancer is removed, there might not be enough healthy liver tissue left for it to function properly. It could also mean that you have serious medical problems that make surgery unsafe.
+Advanced (metastatic) cancers
+Cancers that have spread to lymph nodes or other organs are classified as advanced. These would include stages IVA and IVB cancers in the TNM system. Most advanced liver cancers cannot be treated with surgery.Survival rates can give you an idea of what percentage of people with the same type and stage of cancer are still alive a certain length of time (usually 5 years) after they were diagnosed. They can’t tell you how long you will live, but they may help give you a better understanding of how likely it is that your treatment will be successful.
+Keep in mind that survival rates are estimates and are often based on previous outcomes of large numbers of people who had a specific cancer, but they can’t predict what will happen in any particular person’s case. These statistics can be confusing and may lead you to have more questions. Ask your doctor how these numbers might apply to you.  
+What is a 5-year relative survival rate?
+A relative survival rate compares people with the same type and stage of cancer to people in the overall population. For example, if the 5-year relative survival rate for a specific stage of liver cancer is 30%, it means that people who have that cancer are, on average, about 30% as likely as people who don’t have that cancer to live for at least 5 years after being diagnosed.
+Where do these numbers come from?
+The American Cancer Society relies on information from the Surveillance, Epidemiology, and End Results (SEER) database, maintained by the National Cancer Institute (NCI), to provide survival statistics for different types of cancer.
+The SEER database tracks 5-year relative survival rates for liver cancer in the United States, based on how far the cancer has spread. The SEER database, however, does not group cancers by AJCC TNM stages (stage 1, stage 2, stage 3, etc.). Instead, it groups cancers into localized, regional, and distant stages:
+
+Localized: There is no sign that the cancer has spread outside of the liver.
+Regional: The cancer has spread outside the liver to nearby structures or lymph nodes.
+Distant: The cancer has spread to distant parts of the body, such as the lungs or bones.
+
+5-year relative survival rates for liver cancer
+These numbers are based on people diagnosed with cancers of the liver (or intrahepatic bile ducts) between 2013 and 2019.
+
+
+
+SEER* stage
+5-year relative survival rate
+
+
+Localized
+37%
+
+
+Regional
+14%
+
+
+Distant
+4%
+
+
+All SEER stages combined
+22%
+
+
+
+*SEER = Surveillance, Epidemiology, and End Results
+In general, survival rates are higher for people who can have surgery to remove their cancer, regardless of the stage. For example, studies have shown that patients with small, resectable (removable) tumors who do not have cirrhosis or other serious health problems are likely to do well if their cancers are removed. For people with early-stage liver cancers who have a liver transplant, the 5-year survival rate is in the range of 60% to 70%.
+Understanding the numbers
+
+People now being diagnosed with liver cancer may have a better outlook than these numbers show. Treatments improve over time, and these numbers are based on people who were diagnosed and treated at least five years earlier.
+These numbers apply only to the stage of the cancer when it is first diagnosed. They do not apply later on if the cancer grows, spreads, or comes back after treatment.
+These numbers don’t take everything into account. Survival rates are grouped based on how far the cancer has spread, but your age, overall health, how well the cancer responds to treatment, and other factors will also affect your outlook.It’s important to have honest, open discussions with your cancer care team. They want to answer all of your questions, so that you can make informed treatment and life decisions. Here are some questions to consider:
+When you’re told you have liver cancer
+
+What kind of liver cancer do I have?
+Has the cancer spread beyond my liver?
+What is the stage of my cancer?
+How well is my liver working?
+Will I need other tests before we can decide on treatment?
+Will I need to see other doctors or health professionals?
+If I’m concerned about the costs and insurance coverage for my diagnosis and treatment, who can help me?
+
+When deciding on a treatment plan
+
+What are my treatment choices?
+What do you recommend and why?
+How much experience do you have treating this type of cancer?
+What is the goal of the treatment?
+Can the cancer be removed with surgery?
+Will I need a liver transplant?
+Should I get a second opinion? How do I do that? Can you recommend a doctor or cancer center?
+What risks or side effects should I expect? How long are they likely to last?
+How quickly do we need to decide on treatment?
+Should I think about taking part in a clinical trial?
+How soon do I need to start treatment?
+What should I do to be ready for treatment?
+How long will treatment last? What will it be like? Where will it be done?
+Will treatment affect my daily activities?
+What will we do if the treatment doesn’t work or if the cancer comes back?
+
+During treatment
+Once treatment begins, you’ll need to know what to expect and what to look for. Not all of these questions may apply to you, but asking the ones that do may be helpful.
+
+How will we know if the treatment is working?
+Is there anything I can do to help manage side effects?
+What symptoms or side effects should I tell you about right away?
+How can I reach you on nights, holidays, or weekends?
+Do I need to change what I eat during treatment?
+Are there any limits on what I can do?
+Will my treatment affect my daily activities?
+Can I exercise during treatment? If so, what can I do, and how often?
+Can you suggest a mental health professional I can see if I start to feel overwhelmed, depressed, or distressed?
+What if I need social support during treatment because my family lives far away?
+
+After treatment
+
+Will I need a special diet after treatment?
+Are there limits on what I can do?
+What symptoms should I watch for?
+What kind of exercise can I do now?
+How often will I need to have follow-up exams and tests?
+How will we know if the cancer has come back? What should I watch for?
+What will my options be if the cancer comes back?
+What type of follow-up will I need after treatment?
+
+In addition to these examples, you might want to write down some of your own. For instance, you might want more information about recovery times.The best option to cure liver cancer is with either surgical resection (removal of the tumor with surgery) or a liver transplant. If all cancer in the liver is completely removed, you will have the best outlook. Small liver cancers may also be cured with other types of treatment such as ablation or radiation. 
+Partial hepatectomy
+Partial hepatectomy is surgery to remove part of the liver. Only people with good liver function who are healthy enough for surgery and who have a single tumor that has not grown into blood vessels can have this operation.
+Imaging tests, such as CT or MRI with angiography are done first to see if the cancer can be removed completely. Still, sometimes during surgery the cancer is found to be too large or has spread too far to be removed, and the surgery that has been planned cannot be done.
+Most patients with liver cancer in the United States also have cirrhosis. In someone with severe cirrhosis, removing even a small amount of liver tissue at the edges of a cancer might not leave enough liver behind to perform important functions.
+People with cirrhosis are typically eligible for surgery if there is only one tumor (that has not grown into blood vessels) and they will still have a reasonable amount (at least 30%) of liver function left once the tumor is removed. Doctors often assess this function by assigning a Child-Pugh score (see Liver Cancer Stages), which is a measure of cirrhosis based on certain lab tests and symptoms.
+Patients in Child-Pugh class A are most likely to have enough liver function to have surgery. Patients in class B are less likely to be able to have surgery. Surgery is not typically an option for patients in class C.
+Possible risks and side effects
+Liver resection is a major, serious operation that should only be done by skilled and experienced surgeons. Because people with liver cancer usually have other liver problems besides the cancer, surgeons have to remove enough of the liver to try to get all of the cancer, but also leave enough behind for the liver to function.
+
+Bleeding: A lot of blood passes through the liver, and bleeding after surgery is a major concern. Also, the liver normally makes substances that help the blood clot. Damage to the liver (both before the surgery and during the surgery) can add to potential bleeding problems.
+Infection
+Complications from anesthesia
+Blood clots
+Pneumonia
+New liver cancer: Because the remaining liver still has the underlying disease that led to the cancer, sometimes a new liver cancer can develop afterward.
+
+Liver transplant
+When it is available, a liver transplant may be the best option for some people with liver cancer. Liver transplants can be an option for those with tumors that cannot be removed with surgery, either because of the location of the tumors or because the liver has too much disease for the patient to tolerate removing part of it. In general, a transplant is used to treat patients with small tumors (either 1 tumor smaller than 5 cm across or 2 to 3 tumors no larger than 3 cm) that have not grown into nearby blood vessels. It can also rarely be an option for patients with resectable cancers (cancers that can be removed completely). With a transplant, not only is the risk of a second new liver cancer greatly reduced, but the new liver will function normally.
+According to the Organ Procurement and Transplantation Network, about 1,000 liver transplants were done in people with liver cancer in the United States in 2016, the last year for which numbers are available. Unfortunately, the opportunities for liver transplants are limited. Only about 8,400 livers are available for transplant each year, and most of these are used for patients with diseases other than liver cancer. Increasing awareness about the importance of organ donation is an essential public health goal that could make this treatment available to more patients with liver cancer and other serious liver diseases.
+Most livers used for transplants come from people who have just died. But some patients receive part of a liver from a living donor (usually a close relative) for transplant. The liver can regenerate some of its lost function over time if part of it is removed. Still, the surgery does carry some risks for the donor. About 370 living donor liver transplants are done in the United States each year. Only a small number of them are for patients with liver cancer.
+People needing a transplant must wait until a liver is available, which can take too long for some people with liver cancer. In many cases a person may get other treatments, such as embolization or ablation, while waiting for a liver transplant. Or doctors may suggest surgery or other treatments first and then a transplant if the cancer comes back.
+Possible risks and side effects
+Like partial hepatectomy, a liver transplant is a major operation with serious risks and should only be done by skilled and experienced surgeons. Possible risks include:
+
+Bleeding
+Infection: People who get a liver transplant are given drugs to help suppress their immune systems to prevent their bodies from rejecting the new organ. These drugs have their own risks and side effects, especially the risk of getting serious infections. By suppressing the immune system, these drugs might also allow any liver cancer that had spread outside of the liver to grow even faster than before. Some of the drugs used to prevent rejection can also cause high blood pressure, high cholesterol, and diabetes; can weaken the bones and kidneys; and can even lead to a new cancer.
+Blood clots
+Complications from anesthesia
+Rejection of new liver: After a liver transplant, regular blood tests are done to check for signs of the body rejecting the new liver. Sometimes liver biopsies are also taken to see if rejection is happening and if changes are needed in the drugs that prevent rejection.Ablation is treatment that destroys liver tumors without removing them. These techniques can be used in patients with a few small tumors and when surgery is not a good option (often because of poor health or reduced liver function). They are less likely to cure the cancer than surgery, but they can still be very helpful for some people. These treatments are also sometimes used in patients waiting for a liver transplant.
+Ablation is best used for tumors no larger than 3 cm across (a little over an inch). For slightly larger tumors (1 to 2 inches, or 3 to 5 cm across), it may be used along with embolization. Because ablation often destroys some of the normal tissue around the tumor, it might not be a good choice for treating tumors near major blood vessels, the diaphragm, or major bile ducts.
+People getting this type of treatment typically do not need to stay in a hospital. Often, ablation can be done without surgery by inserting a needle or probe into the tumor through the skin. The needle or probe is guided into place with ultrasound or CT scan. Sometimes, though, to be sure the treatment is aimed at the right place, the ablation may be done in the operating room under general anesthesia (you are asleep) and may need an incision (cut) like the one for a partial hepatectomy .
+Radiofrequency ablation (RFA)
+Radiofrequency ablation is one of the most common ablation methods for small tumors. It uses high-energy radio waves. The doctor inserts a thin, needle-like probe into the tumor through the skin. A high-frequency current is then passed through the tip of the probe, which heats the tumor and destroys the cancer cells.
+Microwave ablation (MWA)
+Microwave ablation uses the energy from electromagnetic waves to heat and destroy the tumor using a probe.
+Cryoablation (cryotherapy)
+Cryoablation destroys a tumor by freezing it using a thin metal probe. The probe is guided into the tumor and then very cold gasses are passed through the probe to freeze the tumor which causes the cancer cells to die.
+Ethanol (alcohol) ablation
+This is also known as percutaneous ethanol injection (PEI). In this procedure, concentrated alcohol is injected directly into the tumor to damage cancer cells. Sometimes multiple treatments of alcohol ablation may be needed.
+Side effects of ablation therapy
+Possible side effects after ablation therapy include abdominal pain, infection in the liver, fever and abnormal liver tests. Serious complications are uncommon, but they are possible.
+Newer ablation techniques in liver cancer are also being studied.Embolization is a procedure that injects substances directly into an artery in the liver to block or reduce the blood flow to a tumor in the liver.
+The liver is special in that it has 2 blood supplies. Most normal liver cells are fed by the portal vein, whereas a cancer in the liver is mainly fed by the hepatic artery. Blocking the part of the hepatic artery that feeds the tumor helps kill off the cancer cells, but it leaves most of the healthy liver cells unharmed because they get their blood supply from the portal vein.Radiation therapy uses high-energy rays (or particles) to kill cancer cells. It may not be a good option for some patients whose liver has been greatly damaged by diseases such as hepatitis or cirrhosis.
+Radiation can be helpful in treating:
+
+Liver cancer that cannot be removed by surgery
+Liver cancer that cannot be treated with ablation or embolization or did not respond well to those treatments
+Liver cancer that has spread to other areas such as the brain or bones
+People with pain because of large liver cancers
+People with a tumor thrombus (a collection of liver cancer cells) blocking the portal vein.
+
+How is radiation therapy given?
+External beam radiation therapy (EBRT) focuses radiation from a source outside of the body on the cancer. Getting radiation therapy is much like getting an x-ray, but the radiation is stronger. The procedure itself is painless. Each treatment lasts only a few minutes, although the setup time – getting you into place for treatment – usually takes longer. Most often, EBRT treatments are small doses of radiation given 5 days a week for several weeks.
+Although liver cancer cells are sensitive to radiation, much care is taken when planning the treatment to avoid damaging normal liver tissue as much as possible. Newer radiation techniques, such as stereotactic body radiation therapy (SBRT), help doctors target liver tumors while reducing the radiation to nearby healthy tissues. This makes it more effective and reduces side effects. SBRT allows treatment to be completed in a short-time compared to EBRT. It uses very focused beams of high-dose radiation given on one or a few days. Beams are aimed at the tumor from many different angles. To focus the radiation precisely, the person is put in a specially designed body frame for each treatment. This type of radiation may be used in people with small cancers who are waiting for a liver transplant.
+Radioembolization
+As mentioned in Embolization Therapy for Liver Cancer, tumors in the liver can be treated by injecting small radioactive beads into the hepatic artery. The beads then lodge in the liver near the tumor and give off small amounts of radiation that travel only a short distance.
+Possible side effects of radiation therapy for liver cancer
+Some of the more common side effects of radiation therapy include:
+
+Skin changes in areas getting radiation, ranging from redness to blistering and peeling
+Nausea and vomiting
+Fatigue
+Diarrhea
+Loss of appetite
+
+These effects typically go away within a few weeks after treatment ends.
+A more serious side effect of radiation therapy to the liver is radiation-induced liver disease (RILD). It commonly happens 3 to 4 months after treatment and usually only lasts a set time, but can be fatal in some instances. Signs and symptoms seen with RILD can include abnormal blood liver tests, an enlarged liver and spleen, ascites (fluid build up in the abdomen), and jaundice. Ask your doctor what side effects to expect and how to prevent or relieve them.As researchers learn more about the changes in cells that cause cancer, they have been able to develop newer drugs that specifically target these changes. Targeted drugs work differently from standard chemotherapy drugs (which are described in Chemotherapy for Liver Cancer) and often have different side effects.
+Like chemotherapy, these drugs enter the bloodstream and reach almost all areas of the body, which makes them potentially useful against cancers that have spread to distant parts of the body. Because standard chemo is not very effective in most patients with liver cancer, doctors are focusing more on using targeted therapies.
+Kinase inhibitors
+Kinases are proteins on or near the surface of a cell that carry important signals to the cell’s control center. Many of the targeted drugs used to treat liver cancer are kinase inhibitors. These drugs block several kinase proteins, which normally help tumor cells grow in one of two ways:
+
+Some kinases help tumor cells grow directly.
+Some kinases help tumors form the new blood vessels they need in order to get bigger (a process called angiogenesis).
+
+Blocking these proteins can often help stop the growth of the cancer.
+Sorafenib (Nexavar) and lenvatinib (Lenvima)
+One of these drugs can be used as the first treatment for liver cancer if it cannot be treated by surgery or if it has spread to other organs.
+Sorafenib is a pill taken twice daily. Lenvatinib is a pill that is taken once a day. 
+Sorafenib may work better in people with liver cancer caused by hepatitis C.
+
+Regorafenib (Stivarga) and cabozantinib (Cabometyx)
+These drugs can be used to treat advanced liver cancer, typically if other treatments are no longer helpful.
+Regorafenib is a pill, typically taken once a day for 3 weeks, followed by a week off. Cabozantinib is a pill taken once a day.
+Side effects of kinase inhibitors
+Common side effects of these drugs can include fatigue, loss of appetite, hand-foot syndrome (redness and irritation of the hands and feet), high blood pressure, weight loss, diarrhea, and abdominal (belly) pain.
+Less common but more serious side effects can include problems with blood flow to the heart, bleeding, abnormal thyroid tests, and perforations (holes) in the stomach or intestines.
+Monoclonal antibodies
+Monoclonal antibodies are man-made versions of immune system proteins (antibodies) that are designed to attach to a specific target. The monoclonal antibodies used to treat liver cancer affect a tumor’s ability to form new blood vessels, which it needs to grow beyond a certain size. This new blood vessel growth is called angiogenesis, so these drugs are often referred to angiogenesis inhibitors.
+Bevacizumab (Avastin)
+Bevacizumab is a monoclonal antibody that targets vascular endothelial growth factor (VEGF), a protein that helps new blood vessels to form. This drug can be used along with the immunotherapy drug atezolizumab (Tecentriq) as the first treatment for liver cancer that cannot be treated by surgery or that has spread to other organs.
+This drug is given as an infusion into a vein (IV), typically once every 3 weeks.
+Ramucirumab (Cyramza)
+Ramucirumab is a monoclonal antibody that targets a VEGF receptor (VEGFR) protein on cells, which can help stop the formation of new blood vessels. This drug can be used to treat advanced liver cancer, typically after another treatment stops working.
+This drug is given as an infusion into a vein (IV), usually once every 2 weeks.
+Side effects of angiogenesis inhibitors
+Common side effects of these drugs can include:
+
+High blood pressure
+Tiredness (fatigue)
+Bleeding
+Low white blood cell counts (with increased risk of infections)
+Headaches
+Mouth sores
+Loss of appetite
+Diarrhea
+
+Rare but possibly serious side effects can include blood clots, severe bleeding, holes (called perforations) in the stomach or intestines, heart problems, and slow wound healing.Immunotherapy is the use of medicines that help a person’s own immune system find and destroy cancer cells. It can be used to treat some people with liver cancer.
+Immune checkpoint inhibitors
+An important part of the immune system is its ability to keep itself from attacking normal cells in the body. To do this, it uses “checkpoints” – proteins on immune cells that need to be turned on (or off) to start an immune response. Cancer cells sometimes use these checkpoints to avoid being attacked by the immune system. Newer drugs that target these checkpoints hold a lot of promise as liver cancer treatments.
+PD-1 and PD-L1 inhibitors
+PD-1 is a checkpoint protein on immune cells called T cells. When PD-1 attaches to PD-L1, a protein on other cells in the body, it acts as a type of “off switch” that basically tells the T cell to leave the other cell alone. Some cancer cells have large amounts of PD-L1, which helps them hide from an immune attack. Drugs that target either PD-1 or PD-L1 can block this binding and boost the immune response against cancer cells.
+Atezolizumab (Tecentriq) and durvalumab (Imfinzi) target the PD-L1 protein. Blocking this protein can help boost the immune response against cancer cells. This can shrink some tumors or slow their growth.
+Atezolizumab can be used along with the targeted drug bevacizumab (Avastin) as the first treatment for liver cancer that cannot be treated by surgery or that has spread to other organs.
+Durvalumab can be used with another immunotherapy drug tremelimumab (Imjudo) as the first treatment for liver cancer that cannot be removed with surgery.
+These drugs are given as an infusion into a vein (IV), typically once every 2, 3, or 4 weeks.
+Pembrolizumab (Keytruda) and nivolumab (Opdivo) are drugs that target PD-1, which can help boost the immune response against cancer cells. This can shrink some tumors or slow their growth.
+These drugs can be used in people with advanced liver cancer who have previously been treated (such as with the targeted drug sorafenib [Nexavar]). Pembrolizumab can be used by itself, while nivolumab is typically used along with ipilimumab (see below).
+These drugs are given as an intravenous (IV) infusion, typically every 2, 3, 4, or 6 weeks.
+CTLA-4 inhibitor
+Ipilimumab (Yervoy) and tremelimumab (Imjudo) are other types of drugs that boost the immune response, but they have a different target. They block CTLA-4, another protein on T cells that normally helps keep them in check.
+Tremelimumab (Imjudo) can be used with another immunotherapy drug durvalumab as the first treatment for liver cancer that cannot be removed with surgery. It is given as an intravenous (IV) infusion once every 4 weeks. 
+Ipilimumab can be used in combination with nivolumab to treat liver cancer that has previously been treated (such as with the targeted drug sorafenib). This drug is given as an intravenous (IV) infusion, usually once every 3 weeks for 4 treatments.
+Possible side effects of checkpoint inhibitors
+Side effects of these drugs can include:
+
+Feeling tired or weak
+Fever
+Cough
+Nausea
+Itching
+Skin rash
+Loss of appetite
+Muscle or joint pain
+Constipation or diarrhea
+
+Other, more serious side effects occur less often:
+Infusion reactions: Some people might have an infusion reaction while getting these drugs. This is like an allergic reaction, and can include fever, chills, flushing of the face, rash, itchy skin, feeling dizzy, wheezing, and trouble breathing. It’s important to tell your doctor or nurse right away if you have any of these symptoms while getting these drugs.
+Autoimmune reactions: These drugs work by basically removing one of the safeguards on the body’s immune system. Sometimes the immune system starts attacking other parts of the body, which can cause serious or even life-threatening problems in the lungs, intestines, liver, hormone-making glands, kidneys, skin, or other organs.
+Serious side effects seem to occur more often with ipilimumab than with the PD-1 and PD-L1 inhibitors.
+It’s very important to report any new side effects to your health care team promptly. If serious side effects do occur, treatment may need to be stopped and you may get high doses of corticosteroids to suppress your immune system.Chemotherapy (chemo) is treatment with drugs to destroy cancer cells. Chemo may be an option for people whose liver cancer cannot be treated with surgery, has not responded to local therapies such as ablation or embolization, or when targeted therapy is no longer helpful.
+Which chemotherapy drugs are used for liver cancer?
+Unfortunately, most chemo drugs do not have a great effect on liver cancer. Recent advances have shown that a combination of drugs may be more helpful than using just a single chemo drug. But even these combinations of drugs shrink only a small number of tumors, and the responses often do not last long. And most studies show systemic chemo has not helped patients live longer.
+The most common chemotherapy drugs for treating liver cancer include:
+
+Gemcitabine (Gemzar)
+Oxaliplatin (Eloxatin)
+Cisplatin
+Doxorubicin (pegylated liposomal doxorubicin)
+5-fluorouracil (5-FU)
+Capecitabine (Xeloda)
+Mitoxantrone (Novantrone)
+
+Sometimes, combinations of 2 or 3 of these drugs are used. GEMOX (gemcitabine plus oxaliplatin) is one option for people who are fairly healthy and may tolerate more than one drug. 5-FU based chemotherapy, for example with FOLFOX (5-FU, oxaliplatin and leucovorin), is another option for people with bad liver disease.
+How is chemotherapy given?
+You can get chemotherapy in different ways.
+Systemic chemotherapy
+Drugs are injected right into a vein (IV) or taken by mouth. These drugs enter the bloodstream and reach almost all areas of the body, possibly making this treatment useful for cancers that have spread to other parts of the body.
+For IV chemo, a slightly larger and sturdier catheter is required in the vein system to administer chemo. They are known as central venous catheters (CVCs), central venous access devices (CVADs), or central lines. They are used to put medicines, blood products, nutrients, or fluids right into your blood. They can also be used to take out blood for testing. Many different kinds of CVCs are available. The 2 most common types are the port and the PICC line. 
+Doctors give chemo in cycles, with each period of treatment followed by a rest period to give you time to recover from the effects of the drugs. Cycles are most often 2 or 3 weeks long. The schedule varies depending on the drugs used. For example, with some drugs, the chemo is given only on the first day of the cycle. With others, it is given for a few days in a row, or once a week. Then, at the end of the cycle, the chemo schedule repeats to start the next cycle.
+Treatment for advanced liver cancer is based on how well it is working and what side effects you have.
+Regional chemotherapy
+Drugs are put right into an artery that leads to the part of the body with the tumor. This focuses the chemo on the cancer cells in that area. It reduces side effects by limiting the amount of drug reaching the rest of the body. Hepatic artery infusion, or chemo given directly into the hepatic artery, is regional chemotherapy that can be used for liver cancer.Although the AJCC (TNM) staging system (see Liver Cancer Stages) is often used to describe the spread of a liver cancer, doctors use a more practical system to determine treatment options. Liver cancers are often categorized as:
+
+Potentially resectable or transplantable cancer
+Unresectable (inoperable) cancer that has not spread
+Advanced cancer
+
+Potentially resectable or transplantable liver cancer (stage I and some stage II cancers)
+Potentially resectable
+If your cancer is early stage and the rest of your liver is healthy, surgery (partial hepatectomy) may cure you. Only a small number of people with liver cancer are in this category. Important factors that may influence the outcome are the size of the tumor(s) and if nearby blood vessels are affected. Larger tumors or those that invade blood vessels are more likely to come back in the liver or spread elsewhere after surgery. How well your liver is working and your general health are also important. For some people with early-stage liver cancer, a liver transplant could be another option.
+Clinical trials are now looking at whether patients who have a partial hepatectomy will be helped by getting other treatments in addition to surgery. Some studies have found that using chemoembolization or other treatments along with surgery may help some patients live longer. More research is needed to know the value (if any) of adding other treatments to surgery.
+Potentially transplantable
+If your cancer is at an early stage, but the rest of your liver isn’t healthy, you may be able to be treated with a liver transplant. A transplant may also be an option if the tumor is in a part of the liver that makes it hard to remove (such as very close to a large blood vessel). Candidates for liver transplant might have to wait a long time for a liver to become available. While they are waiting, they are often given other treatments, such as ablation or embolization, to keep the cancer under control.
+Unresectable (inoperable) liver cancer that has not spread
+Unresectable cancers include cancers that haven’t yet spread to lymph nodes or distant parts of the body, but that can’t be removed safely by partial hepatectomy. This might be because:
+
+The tumor is too large to be removed safely.
+The tumor is in a part of the liver that makes it hard to remove (such as very close to a large blood vessel).
+There are several tumors or the cancer has spread throughout the liver.
+The person isn't healthy enough for liver surgery.
+
+Treatment options might include ablation, embolization, or both for the liver tumor(s). Other options may include targeted therapy, immunotherapy, chemotherapy (either systemic or by hepatic artery infusion), and/or radiation therapy. For some of these cancers, treatment may shrink the tumor(s) enough so that surgery (partial hepatectomy or transplant) may become possible.
+These treatments are very unlikely to cure the cancer, but they can reduce symptoms and may even help a person live longer. Because these cancers can be hard to treat, clinical trials of newer treatments may offer a good option in many cases.
+Advanced (metastatic) liver cancer (includes all N1 or M1 tumors)
+Advanced liver cancer has spread either to the lymph nodes or to other organs. Because these cancers are widespread, they cannot be removed with surgery.
+For people whose liver is functioning well enough (Child-Pugh class A or B), initial treatment options might include:
+
+The immunotherapy drug atezolizumab (Tecentriq) plus the targeted drug bevacizumab (Avastin)
+Either of the targeted drugs sorafenib (Nexavar) or lenvatinib (Lenvima)
+
+If these drugs are no longer working, other targeted drugs, such as regorafenib (Stivarga), cabozantinib (Cabometyx), or ramucirumab (Cyramza) are possible options. Immunotherapy drugs such as pembrolizumab (Keytruda), or nivolumab (Opdivo) combined with ipilimumab (Yervoy), might also be helpful.
+As with unresectable liver cancer that has not spread, clinical trials of newer targeted therapies, immunotherapy, new approaches to chemotherapy (new drugs and ways to deliver chemotherapy), new forms of radiation therapy, and other new treatments may be helpful. These clinical trials are also important for improving the outcome for future patients.
+Treatments such as radiation might also be used to help relieve pain and other symptoms. Please be sure to discuss any symptoms you have with your cancer team, so they can treat them effectively.
+Recurrent liver cancer
+Cancer that comes back after treatment is called recurrent. Recurrence can be local (in or near the same place it started) or distant (spread to organs such as the lungs or bone). Treatment of liver cancer that returns after initial therapy depends on many factors, including where it comes back, the type of initial treatment, and how well the liver is functioning.
+People with resectable cancer that recurs in the liver might be eligible for further surgery or local treatments like ablation or embolization.
+If the cancer is widespread, targeted therapy, immunotherapy, or chemotherapy drugs may be options. Patients may also wish to ask their doctor whether a clinical trial may be right for them.
+Treatment can also be given to relieve pain and other side effects. Please be sure to discuss any symptoms you have with your cancer care team, so they may be treated effectively.For some people with liver cancer, treatment can remove or destroy the cancer. Completing treatment can be both stressful and exciting. You may be relieved to finish treatment, but find it hard not to worry about cancer coming back. This is a very common concern if you have had cancer.
+For many people with liver cancer, the cancer may never go away completely, or it might come back in another part of the body. These people may still get regular treatments with chemotherapy, radiation therapy, or other therapies to help keep the cancer under control for as long as possible. Learning to live with cancer that does not go away can be difficult and very stressful.
+Follow-up care
+Even if you have completed treatment, your doctors will still want to watch you closely. It is very important to go to all your follow-up appointments. During these visits, your doctors will ask questions about any problems you are having and might do exams and blood tests, such as alpha-fetoprotein (AFP), liver function tests (LFTs). Imaging tests, such as ultrasound, CT, or MRI scans might also be done. These tests will help look for signs of cancer or side effects of treatment.
+Some treatment side effects might last a long time or might not even show up until years after you have finished treatment. Your doctor visits are a good time to ask questions and talk about any changes or problems you notice or concerns you have.
+It’s important for all liver cancer survivors, to tell their health care team about any new symptoms or problems, because they could be caused by the cancer coming back, by a new disease, or a second cancer.
+Doctors visits and tests
+If you have been treated with surgery, a liver transplant, or ablation/embolization and have no signs of cancer remaining, most doctors recommend follow-up with imaging tests and blood tests every 3 to 6 months for the first 2 years, then every 6 to 12 months. Follow-up is needed to check for cancer recurrence or spread, as well as possible side effects of certain treatments.
+Follow-up after liver transplant: A liver transplant can be very effective at treating the cancer and replacing a damaged liver. But this is a major procedure that requires very close follow-up after treatment. Along with monitoring your recovery from surgery and looking for possible signs of cancer, your medical team will watch you carefully to make sure your body is not rejecting the new liver.
+You will need to take strong medicines to help prevent rejection. These medicines can have their own side effects, including weakening your immune system, which can make you more likely to get infections.
+Your transplant team should tell you what to watch for in terms of symptoms and side effects and when you need to contact them. It is very important to follow their instructions closely.
+Anti-viral treatment: If you have hepatitis B or C that may have contributed to your liver cancer, your doctor may want to put you on medicines to treat or help control the infection.
+Ask your doctor for a survivorship care plan
+Talk with your doctor about developing a survivorship care plan for you. This plan might include:
+
+A suggested schedule for follow-up exams and tests
+A schedule for other tests you might need, such as tests to look for long-term health effects from your cancer or its treatment
+A list of possible late- or long-term side effects from your treatment, including what to watch for and when you should contact your doctor
+Suggestions for things you can do that might improve your health, including possibly lowering your chances of the cancer coming back
+
+Keeping health insurance and copies of your medical records
+Even if you've finished treatment, it’s very important to keep health insurance. Tests and doctor visits cost a lot, and even though no one wants to think of their cancer coming back, this could happen.
+At some point after your cancer treatment, you might find yourself seeing a new doctor who does not know about your medical history. It’s important to keep copies of your medical records to give your new doctor the details of your diagnosis and treatment.
+Can I lower my risk of liver cancer progressing or coming back?
+If you have (or have had) liver cancer, you probably want to know if there are things you can do that might lower your risk of the cancer coming back, such as exercising, eating a certain type of diet, or taking nutritional supplements. Unfortunately, it’s not yet clear if there are things you can do that will help.
+Getting treatment for hepatitis B or hepatitis C may help reduce damage to your liver that can increase liver cancer risk. Tobacco and alcohol use has clearly been linked to liver cancer, so not smoking and avoiding alcohol may help reduce your risk. We don’t know for certain if this will help, but we do know that it can help improve your appetite and overall health. It can also reduce the chance of developing other types of cancer. If you want to quit smoking and need help, call the American Cancer Society at 1-800-227-2345.
+Other healthy behaviors such as eating well, being active, and staying at a healthy weight might help as well, but no one knows for sure. However, we do know that these types of changes can have positive effects on your health that can extend beyond your risk of liver or other cancers.
+About dietary supplements
+So far, no dietary supplements (including vitamins, minerals, and herbal products) have been shown to clearly help lower the risk of liver cancer progressing or coming back. This doesn’t mean that no supplements can help, but it’s important to know that so far none have been proven to do so.
+Dietary supplements are not regulated like medicines in the United States – they do not have to be proven effective (or even safe) before being sold, although there are limits on what they’re allowed to claim they can do. If you’re thinking about taking any type of nutritional supplement, talk to your health care team. They can help you decide which ones you can use safely while avoiding those that might be harmful.
+If the cancer comes back
+If your cancer does come back at some point (called a recurrence), your treatment options will depend on the where the cancer is, what treatments you’ve had before, and your health. Treatment options might include ablation, embolization, radiation therapy, chemotherapy, targeted therapy, or some combination of these. See Treatment of Liver Cancer, By Stage.
+For more general information on cancer recurrence, see Understanding Recurrence.
+Second cancers after treatment
+People who’ve had liver cancer can still get other cancers. Learn more in Second Cancers After Liver Cancer.
+Getting emotional support
+It is normal to feel depressed, anxious, or worried when liver cancer is a part of your life. Some people are affected more than others. But everyone can benefit from help and support from other people, whether friends and family, religious groups, support groups, professional counselors, or others. Learn more in Life After Cancer.Liver cancer survivors can be affected by a number of health problems, but often a major concern is facing cancer again. Cancer that comes back after treatment is called a recurrence. But some cancer survivors develop a new, unrelated cancer later. This is called a second cancer.
+Unfortunately, being treated for liver cancer doesn’t mean you can’t get another cancer. People who have had liver cancer can still get the same types of cancers that other people get. In fact, they might be at higher risk for certain types of cancer.
+Studies looking at the second cancers liver cancer survivors can get are not easy to do, mainly because of the poor outcomes related to liver cancer. The little information that is known shows that there is an increased risk of:
+
+Oral cavity cancer
+Ovarian cancer
+Kidney cancer
+Thyroid cancer
+
+For people diagnosed with liver cancer before age 50, there appears to be an increased risk of these second cancers:
+
+Colon cancer
+Ovarian cancer
+Bladder cancer
+Acute Myeloid Leukemia (AML)
+
+Exactly how high the risk is of developing these second cancers is not known at this time.
+Follow-up after liver cancer treatment
+After completing treatment, you should still see your doctor regularly. Report any new symptoms or problems, because they could be caused by the cancer spreading or coming back, or by a new disease or second cancer.
+Liver cancer survivors should also follow the American Cancer Society guidelines for the early detection of cancer, such as those for colorectal, breast, cervical, and prostate cancer. Screening tests can find some cancers early, when they are likely to be treated more successfully. For people who have had liver cancer, most experts don’t recommend any additional testing to look for second cancers unless you have symptoms or if you or your family have an inherited disease. 
+Can I lower my risk of getting a second cancer?
+There are steps you can take to lower your risk and stay as healthy as possible. For example, people who have had liver cancer should stay away from tobacco products. Not smoking lowers the chance of developing most lung cancers, and may help decrease the possibility of a new liver cancer forming.
+To help maintain good health, liver cancer survivors should also:
+
+Get to and stay at a healthy weight
+Keep physically active and limit the time you spend sitting or lying down
+Follow a healthy eating pattern that includes plenty of fruits, vegetables, and whole grains, and limits or avoids red and processed meats, sugary drinks, and highly processed foods
+Not drink alcohol. If you do drink, have no more than 1 drink per day for women or 2 per day for men
+
+These steps may also lower the risk of some other health problems.
+See Second Cancers in Adults for more information about causes of second cancers.What is liver cancer?
+Liver cancer is a cancer that starts in the liver. It happens when cells in the liver start to change and grow out of control, crowding out normal cells. This makes it hard for the body to work the way it should. The liver makes bile to help the body use food. It also cleans the blood and helps the blood clot when you are cut.
+Liver cancer cells can spread to other parts of the body. When cancer does this, it's called metastasis. But even if a liver cancer spreads to your bones, it is still called and treated like a liver cancer, not bone cancer.

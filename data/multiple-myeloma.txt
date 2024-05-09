@@ -1,0 +1,627 @@
+Cancer starts when cells begin to grow out of control. Cells in nearly any part of the body can become cancer, and can spread to other areas. To learn more about how cancers start and spread, see What Is Cancer?
+Multiple myeloma is a cancer of plasma cells. Normal plasma cells are found in the bone marrow and are an important part of the immune system. The immune system is made up of several types of cells that work together to fight infections and other diseases. Lymphocytes (lymph cells) are one of the main types of white blood cells in the immune system and include T cells and B cells. Lymphocytes are in many areas of the body, such as lymph nodes, the bone marrow, the intestines, and the bloodstream.
+When B cells respond to an infection, they mature and change into plasma cells. Plasma cells make the antibodies (also called immunoglobulins) that help the body attack and kill germs. Plasma cells, are found mainly in the bone marrow. Bone marrow is the soft tissue inside bones. In addition to plasma cells, normal bone marrow is also the home for other blood cells such as red cells, white cells, and platelets.
+In general, when plasma cells become cancerous and grow out of control, this is called multiple myeloma. The plasma cells make an abnormal protein (antibody) known by several different names, including monoclonal immunoglobulin, monoclonal protein (M-protein), M-spike, or paraprotein.
+There are, however, other plasma cell disorders that also have abnormal plasma cells but do not meet the criteria to be called active multiple myeloma. These other plasma cell disorders include:
+
+Monoclonal gammopathy of uncertain significance (MGUS)
+Smoldering multiple myeloma (SMM)
+Solitary plasmacytoma
+Light chain amyloidosis.
+
+Multiple myeloma features
+Low blood counts
+In multiple myeloma, the overgrowth of plasma cells in the bone marrow can crowd out normal blood-forming cells, leading to low blood counts.
+
+This can cause anemia (a shortage of red blood cells). People with anemia become weak and fatigued.
+Multiple myeloma can also cause the level of platelets in the blood to become low (called thrombocytopenia). This can lead to increased bleeding and bruising.
+Another condition that can develop is leukopenia (a shortage of normal white blood cells). This can lead to problems fighting infections.
+
+Bone and calcium problems
+Myeloma cells also interfere with cells that help keep bones strong. Bones are constantly being remade to keep them strong. Two kinds of bone cells work together to keep bones healthy and strong:
+
+Osteoclasts break down old bone
+Osteoblasts lay down new bone
+
+Myeloma cells make a substance that tells the osteoclasts to speed up dissolving the bone. So old bone is broken down without new bone to replace it, making the bones weak and easy to break. Fractured bones are a major problem in people with myeloma. This increase in bone break-down can also raise calcium levels in the blood. Problems caused by high calcium levels are discussed in Signs and Symptoms of Multiple Myeloma.
+Infections
+Abnormal plasma cells cannot protect the body from infections. As mentioned before, normal plasma cells produce antibodies that attack germs. In multiple myeloma, the myeloma cells crowd out the normal plasma cells, so that antibodies to fight the infection can’t be made. The antibody made by the myeloma cells does not help fight infections. That’s because the myeloma cells are just many copies of the same plasma cell – all making copies of the same exact (or monoclonal) antibody.
+Kidney problems
+Myeloma cells make an antibody that can harm the kidneys, leading to kidney damage and even kidney failure.
+Other Plasma Cell Disorders
+Monoclonal gammopathy
+A monoclonal gammopathy is when plasma cells make too many copies of the same antibody. It is usually found on a routine blood test when looking for other conditions. Although people with multiple myeloma have a monoclonal gammopathy, not everyone with monoclonal gammopathy has multiple myeloma. It can also occur in other diseases, such as Waldenstrom macroglobulinemia and some lymphomas. It can also occur in a disorder known as monoclonal gammopathy of undetermined significance (MGUS), which does not cause problems like multiple myeloma does. However, some people with MGUS will eventually go on to develop multiple myeloma or other diseases.
+Monoclonal gammopathy of undetermined significance
+In monoclonal gammopathy of undetermined significance (MGUS), abnormal plasma cells make many copies of the same antibody (called a monoclonal protein). However, these plasma cells do not form an actual tumor or mass and do not cause any of the problems seen in multiple myeloma. MGUS usually does not affect a person’s health. It doesn’t cause weak bones, high calcium levels, kidney problems, or low blood counts. It’s most often found when a routine blood test finds a high level of protein in the blood and further testing shows the protein is a monoclonal antibody. In MGUS, the number of plasma cells may be increased, but they still make up less than 10% of the cells in the bone marrow.
+MGUS is not considered cancer, but it is sometimes called pre-malignant because﻿ some people with MGUS will eventually develop cancers such as multiple myeloma, lymphoma, or amyloidosis. Each year, about 1% of people with MGUS develops one of these diseases. The risk is higher in people whose protein levels are particularly high. Patients with MGUS don’t need treatment, but they are watched closely to see if they get a disease that does need to be treated, such as multiple myeloma.
+Solitary plasmacytomas
+A plasmacytoma is a type of abnormal plasma cell growth that is cancerous. Rather than many tumors in different locations as in multiple myeloma, there is only one tumor, hence the name solitary plasmacytoma.
+A solitary plasmacytoma often develops in a bone. When a plasmacytoma starts in other tissues (such as the lungs or other organs), it is called a solitary extramedullary or extraosseous plasmacytoma. Solitary plasmacytomas are most often treated with radiation therapy. Sometimes surgery may be used. As long as no other plasmacytomas are found later on, the patient’s outlook is usually excellent. However, since many people with a solitary plasmacytoma will develop multiple myeloma, these people are watched closely for signs of this disease.
+Smoldering multiple myeloma ﻿(SMM)
+Smoldering multiple myeloma (SMM) is an early or asymptomatic (no symptoms) myeloma that is not causing any problems. People with smoldering myeloma have some signs of multiple myeloma, such as any of the following:
+
+A large amount of plasma cells in the bone marrow
+A high level of monoclonal immunoglobulin (monoclonal protein) in the blood
+A high level of light chains (small protein segments also called Bence Jones protein) in the urine.
+
+But, they have normal blood counts, normal calcium levels, normal kidney function, no bone or organ damage, and no signs of amyloidosis.
+People with smoldering multiple myeloma do not need treatment right away, because the disease can take anywhere from many months to years to become active (symptomatic) myeloma. Some people may have very slow disease that never becomes active myeloma. SMM is an area of active research. There are SMM that have high risk features that put them at a greater chance of turning into active myeloma and studies are being done to see if they should be reclassified as “active” myeloma or if they should start treatment sooner. People with SMM are also watched closely for signs of myeloma.
+Light chain amyloidosis
+Light chain amyloidosis is also a disorder of abnormal plasma cell growth, but with lower amounts of abnormal plasma cells in the bone marrow compared to multiple myeloma.
+Monoclonal proteins (antibodies) are made up of joined protein chains – 2 short light chains and 2 longer heavy chains. In light chain amyloidosis, abnormal plasma cells make too many light chains which are shorter and weigh less than the heavy chains. The light chains build up in tissues as an abnormal protein known as amyloid.
+The buildup of amyloid in certain organs can enlarge them and affect the way they work. For example, when amyloid builds up in the heart, it can cause an irregular heart beat and cause the heart to enlarge and get weaker. A weak heart can lead to a condition called congestive heart failure, with symptoms like shortness of breath and swelling in the legs. Amyloid in the kidneys can cause them to work poorly. This may not cause symptoms early on, but the poor kidney function may be found on blood tests. If it gets worse, it can lead to kidney failure. See Signs and Symptoms of Multiple Myeloma.
+Other names for light chain amyloidosis include AL and primary amyloidosis.
+Light chain amyloidosis is only one of the diseases where amyloid builds up and causes problems. Amyloidosis can also be caused by a genetic (hereditary) disease called familial amyloidosis. Long-standing (chronic) infection and/or inflammation can also cause amyloidosis. This is known as secondary or AA amyloidosis. These other kinds of amyloidosis are not covered here.
+Waldenstrom macroglobulinemia (WM)
+The cancer cells in people with WM are similar to those of multiple myeloma and non-Hodgkin lymphoma (NHL). Multiple myeloma is considered a cancer of plasma cells, and non-Hodgkin lymphoma is a cancer of lymphocytes. WM cells have features of both plasma cells and lymphocytes. 
+WM cells make large amounts of a certain type of antibody (immunoglobulin M, or IgM), which is known as a macroglobulin. Each antibody (protein) made by the WM cells is the same, so it is called a monoclonal protein, or just an M protein. The buildup of this M protein in the body can lead to many of the symptoms of WM, including excess bleeding, problems with vision, and nervous system problems. Even though WM has a monoclonal gammopathy and is sometimes grouped into other plasma cell disorders, it is considered a type of NHL. Another name for WM is lymphoplasmacytic lymphoma. Treatment for WM includes drugs used to treat multiple myeloma and NHL.
+For more details, see Waldenstrom Macroglobulinemia.The American Cancer Society’s estimates for multiple myeloma in the United States for 2024 are:
+
+About 35,780 new cases will be diagnosed (19,520 in men and 16,260 in women).
+About 12,540 deaths are expected to occur (7,020 in men and 5,520 in women).
+
+In the United States, the average lifetime risk of getting multiple myeloma is about 1 in 103 for men and about 1 in 131 for women. But each person's risk might be higher or lower than this, based on their risk factors.
+Visit the American Cancer Society’s Cancer Statistics Center for more key statistics.Important research into multiple myeloma is being done in university hospitals, medical centers, and other institutions around the world. Each year, scientists find out more about what causes the disease and how to improve treatment. Many new drugs are being tested.
+Researchers have found that bone marrow-support tissues and bone cells produce growth factors that increase the growth of myeloma cells. In turn, the myeloma cells produce substances that cause bone cells to undergo changes that weaken the bones. These discoveries are helping researchers develop new drugs to block these growth factors, slow down the cancer, and reduce bone destruction.
+Smoldering multiple myeloma
+Even though most patients with smoldering multiple myeloma have a low risk of turning into active myeloma, there are certain patients with features that make them at higher risk of developing active myeloma. New research is showing that by treating these patients sooner than waiting for symptoms may delay when active myeloma starts and may also improve survival.
+Minimal residual disease
+Minimal residual disease is a term used when tiny amounts of myeloma cancer cells are still present in the bone marrow after treatment. Patients who have no cancer cells left after treatment appear to have better survival rates than patients who still have even very small amounts of cancer cells. New technologies are working to find one myeloma cell in a million normal cells. Studies are also looking into whether getting rid of every myeloma cancer cell (having no minimal residual disease) should be a goal of therapy.
+Chimeric antigen receptor (CAR) T-cell therapy
+Your immune system helps keep track of all the substances normally found in your body. Any new substance the immune system doesn't recognize raises an alarm, causing the immune system to attack it. Chimeric antigen receptor T-cell therapy (CAR T-cell therapy) is a promising new way to get immune cells called T cells (a type of white blood cell) to fight cancer by changing them in the lab so they can find and destroy cancer cells. Recent studies have shown CAR T-cell therapy with the BCMA protein to be very promising even in myeloma patients who have previously been treated with many drugs.A risk factor is anything that changes a person’s chance of getting a disease such as cancer. Different cancers have different risk factors. For example, exposing skin to strong sunlight is a risk factor for skin cancer. Smoking is a risk factor for lung cancer and many other cancers. But risk factors don’t tell us everything. People who have no risk factors can still get the disease. Also, having a risk factor, or even several, does not mean that a person will get the disease.
+Here are a few risk factors that could affect someone’s chance of getting multiple myeloma.
+Age
+The risk of developing multiple myeloma goes up as people get older. Less than 1% of cases are diagnosed in people younger than 35. Most people diagnosed with this cancer are at least 65 years old.
+Sex
+Men are slightly more likely to develop multiple myeloma than women.
+Race
+Multiple myeloma is more than twice as common in African Americans than in White Americans. The reason is not known.
+Family history
+Multiple myeloma seems to run in some families. Someone who has a sibling or parent with myeloma is more likely to get it than someone who does not have this family history. Still, most patients have no affected relatives, so this accounts for only a small number of cases.
+Excess body weight
+Some research has suggested that having excess body weight increases a person’s risk of developing myeloma.
+Having other plasma cell diseases
+People with monoclonal gammopathy of undetermined significance (MGUS) or solitary plasmacytoma are at higher risk of developing multiple myeloma than someone who does not have these diseases.Scientists still do not know exactly what causes most cases of multiple myeloma. However, they have made progress in understanding how certain changes in DNA can make plasma cells become cancerous. DNA is the chemical that carries the instructions for nearly everything our cells do.
+
+Some genes (parts of our DNA) contain instructions for controlling when our cells grow and divide. These genes that promote cell growth are called oncogenes.
+Others genes that slow down cell growth or make cells die at the right time are called tumor suppressor genes.
+
+Cancers can be caused by mistakes, or defects, in the DNA called mutations that turn on oncogenes or turn off tumor suppressor genes.
+Recent studies have found that abnormalities of some oncogenes (such as MYC) develop early in the course of plasma cell tumors. Changes in other oncogenes (such as the RAS genes) are more often found in myeloma cells in the bone marrow after treatment, and changes in tumor suppressor genes (such as the gene for p53) are associated with spread to other organs.
+Myeloma cells also show abnormalities in their chromosomes. In human cells, DNA is packaged into chromosomes. Although normal human cells contain 46 chromosomes, some cancer cells may have extra chromosomes (called a duplication) or have all or part of a chromosome missing (called a deletion). One common finding in myeloma cells is that parts of chromosome number 17 are missing. These deletions appear to make the myeloma more aggressive and resistant to treatment.
+In about half of all people with myeloma, part of one chromosome has switched with part of another chromosome in the myeloma cells. This is called a translocation. When this occurs in a crucial area next to an oncogene, it can turn the oncogene on.
+Researchers have found that patients with plasma cell tumors have important abnormalities in other bone marrow cells and that these abnormalities may also cause excess plasma cell growth. Certain cells in the bone marrow called dendritic cells release a hormone called interleukin-6 (IL-6), which stimulates normal plasma cells to grow. Excessive production of IL-6 by these cells appears to be an important factor in development of plasma cell tumors.For certain types of cancer, risk factors are known for the most of the cases. For example, smoking causes most lung cancers. This provides an opportunity for prevention. For other cancers, such as cervical cancer, pre-cancers can be detected early by a screening test and treated before they develop into an invasive cancer.
+With multiple myeloma, few cases are linked to risk factors that can be avoided. There is no known way to prevent multiple myeloma from developing in those people with monoclonal gammopathy of undetermined significance or solitary plasmacytomas. Research is investigating if treating certain high risk smoldering multiple myeloma may keep it from becoming active multiple myeloma.It’s difficult to diagnose multiple myeloma early. Often, multiple myeloma causes no symptoms until it reaches an advanced stage. Sometimes, it might cause vague symptoms that at first seem to be caused by other diseases. Sometimes, multiple myeloma is found early when a routine blood test shows an abnormally high amount of protein in the blood.
+People with MGUS (monoclonal gammopathy of unknown significance) or solitary plasmacytoma are at risk of developing multiple myeloma and have regular bloodwork to monitor for it. Multiple myeloma may be diagnosed sooner in those people than those who did not have MGUS or a solitary plasmacytoma.Some patients with multiple myeloma have no symptoms at all. Others can have common symptoms of the disease including:
+Bone problems
+
+Bone pain, which can be in any bone, but is most often in the back, the hips, and skull
+Bone weakness, either all over (osteoporosis), or where there is a plasmacytoma
+Broken bones (fractures), sometimes from only a minor stress or injury
+
+Low blood counts
+Shortages of red blood cells, white blood cells, and blood platelets are common in multiple myeloma and might lead to other symptoms.
+
+Anemia: A reduced number of red blood cells that can cause weakness, a reduced ability to exercise, shortness of breath, and dizziness.
+Leukopenia: Too few white blood cells that can lower resistance to infections such as pneumonia.
+Thrombocytopenia: When blood platelet counts are low which may cause serious bleeding even with minor scrapes, cuts, or bruises. .
+
+High blood levels of calcium
+High levels of calcium in the blood (called hypercalcemia) can cause:
+
+Extreme thirst, leading to drinking a lot
+Urinating (peeing) a lot
+Dehydration
+Kidney problems and even kidney failure
+Severe constipation,
+Abdominal (belly) pain
+Loss of appetite
+Weakness
+Feeling drowsy
+Confusion
+
+If the level of calcium gets high enough, you can even slip into a coma.
+Nervous system symptoms
+If myeloma weakens the bones in the spine, they can collapse and press on spinal nerves. This is called spinal cord compression and can cause
+
+Sudden severe back pain
+Numbness, most often in the legs
+Muscle weakness, most often in the legs.
+
+This is a medical emergency and you should contact your doctor right away or go to the emergency room. If spinal cord compression is not treated right away, there is a possibility of permanent paralysis. 
+Nerve damage
+Sometimes, the abnormal proteins produced by myeloma cells are toxic to nerves. This damage can lead to weakness and numbness and sometimes a “pins and needles” sensation. This is also called peripheral neuropathy. 
+Hyperviscosity
+In some patients, large amounts of myeloma protein can cause the blood to “thicken.” This thickening is called hyperviscosity. It can slow blood flow to the brain and cause:
+
+Confusion
+Dizziness
+Symptoms of a stroke, like weakness on one side of the body and slurred speech
+
+Patients with these symptoms should call their doctor. Removing the protein from the blood using a procedure called plasmapheresis can rapidly reverse this problem. (Note: This is not something that can be treated with drugs known as “blood thinners.”)
+Kidney problems
+Myeloma protein can damage the kidneys. Early on, this doesn’t cause any symptoms, but signs of kidney damage may be seen on a blood test or a urine test. As the kidneys start to fail, they lose the ability to get rid of excess salt, fluid, and body waste products. This can lead to symptoms such as:
+
+Weakness
+Shortness of breath
+Itching
+Leg swelling.
+
+Infections
+Myeloma patients are much more likely to get infections. When someone with myeloma gets an infection, they may be slow to respond to treatment. That person may stay sick for a long time. Pneumonia is a common and serious infection seen in myeloma patients.
+Signs and symptoms of light chain amyloidosis
+Patients with amyloidosis (discussed in What Is Multiple Myeloma?) can have some of the same problems as patients with myeloma, such as kidney problems and nerve damage. They can also have other problems, such as:
+
+Heart problems: The heart may enlarge and become weaker. In some people, the heart becomes so weak that fluid builds up in the lungs, making them feel short of breath. Fluid may also build up in the legs and feet (edema). This is called congestive heart failure.
+Enlarged liver: The person may feel the liver below the right ribs. When this gets large it can press on the stomach so the person feels full after eating only a small amount of food.
+Enlarged tongue: When amyloid builds up in the tongue it can get larger. This can lead to problems swallowing and problems breathing during sleep (sleep apnea).
+Skin changes: Changes in the color or texture, easy bruising, and bleeding into the skin around the eyes (“raccoon eyes”)
+Kidney problems
+Carpal tunnel syndrome: Which causes numbness and weakness in the hands.If symptoms suggest that a person might have multiple myeloma, more tests are done.
+Lab tests
+Blood counts
+The complete blood count (CBC) is a test that measures the levels of red cells, white cells, and platelets in the blood. If there are too many myeloma cells in the bone marrow, some of these blood cell levels can be low. The most common finding is a low red blood cell count (anemia).
+Blood chemistry tests
+Levels of blood creatinine, albumin, calcium, and other electrolytes will be checked.
+
+Creatinine levels show how well your kidneys are working. High levels mean that the kidneys are not functioning well. This is common in people with myeloma.
+Albumin is a protein found in the blood. Low levels can be seen in myeloma.
+Calcium levels may be high in people with advanced myeloma. High calcium levels (hypercalcemia) can cause symptoms of fatigue, weakness, and confusion.
+
+A blood test to measure lactic dehydrogenase (LDH) levels might also be done. It can be a useful indicator of a patient’s prognosis (outlook). High levels mean the disease is more advanced and may have a worse prognosis.
+Urine tests
+A routine urine sample is typically taken to look for myeloma protein that has filtered through the kidney. You most likely also will be asked to give a sample of urine that has been collected over a 24-hour period, so it can measure how much myeloma protein is present. These tests are called urine protein electrophoresis (UPEP) and urine immunofixation. 
+Quantitative immunoglobulins
+This test measures the blood levels of the different antibodies (also called immunoglobulins). There are several different types of antibodies in the blood: IgA, IgD, IgE, IgG, and IgM. The levels of these immunoglobulins are measured to see if any are abnormally high or low. In multiple myeloma, the level of one type may be high while the others are low.
+Electrophoresis
+The antibody produced by myeloma cells is abnormal because it is monoclonal (all the exact same ). Serum protein electrophoresis (SPEP) is a test that measures the antibodies in the blood and can find a monoclonal antibody. Another test, called immunofixation or immunoelectrophoresis, is used to determine the exact type of abnormal antibody (IgG. IgA or some other type). Finding a monoclonal antibody in the blood may be the first step in diagnosing multiple myeloma. This abnormal protein is known by several different names, including monoclonal immunoglobulin, monoclonal protein (M protein), M spike, or paraprotein.
+Antibodies are made up of chains of protein : 2 long (heavy) chains and 2 shorter (light) chains. Sometimes pieces of the abnormal myeloma protein are filtered through the kidney into the urine. This urine protein, known as Bence Jones protein, is the part of the antibody called the light chain. The tests used for finding a monoclonal antibody in urine are called urine protein electrophoresis (UPEP) and urine immunofixation. These are done most often on urine that has been collected over a 24-hour period, not just on a routine urine sample.
+Serum free light chains
+This blood test can measure the light chain levels in the blood and is done when looking for myeloma or light chain amyloidosis.
+This is most helpful in the rare cases of myeloma in which no M protein is found by SPEP. Since the SPEP measures the levels of intact (whole) antibodies, it cannot measure the amount of light chains only.
+This test also calculates the light chain ratio which is used to see if there is one type of light chain more than the other. There are 2 kinds of light chains: kappa and lambda. Normally, they are present in equal amounts in the blood, giving a ratio of 1 to 1. If there is more of one type of light chain than the other, the ratio will be different, which can be a sign of myeloma.
+Beta-2 microglobulin
+This is another protein made by the myeloma cells. Although this protein itself doesn’t cause problems, it can be a useful indicator of a patient’s prognosis (outlook). High levels mean the disease is more advanced and may have a worse prognosis.
+Types of Biopsies
+Bone marrow biopsy
+People with multiple myeloma have too many plasma cells in their bone marrow. The procedure used to check the bone marrow is called a bone marrow biopsy and aspiration. It can be done either at the doctor’s office or at the hospital.
+In bone marrow aspiration, the back of the pelvic bone is numbed with local anesthetic. Then, a needle is inserted into the bone, and a syringe is used to remove a small amount of liquid bone marrow. This causes a brief sharp pain. For the biopsy, a needle is used to remove a tiny splinter of bone and marrow. Patients may feel some pressure during the biopsy. There is some soreness in the biopsy area when the numbing medicine wears off. Most patients can go home immediately after the procedure.
+The bone marrow tissue is examined in the lab to see the appearance, size, and shape of the cells, how the cells are arranged and to determine if there are myeloma cells in the bone marrow and, if so, how many. The aspirate (the liquid part of the bone marrow) may also be sent for other tests, including immunohistochemistry and flow cytometry, and chromosome analyses, including karyotype and fluorescent in situ hybridization (also known as FISH).
+
+Immunohistochemistry: a part of the biopsy sample is treated with special proteins which cause color changes and help identify myeloma cells.
+Flow cytometry: A sample of bone marrow is treated with special proteins that stick only to certain cells. This can help determine if those cells are abnormal and if they are myeloma cells, lymphoma cells, some other cancer, or a non-cancerous disease.
+
+
+Cytogenetics: A test that evaluates chromosomes (long strands of DNA) in normal bone marrow cells and myeloma cells. Some myeloma cells may have too many chromosomes, too few chromosomes, or other chromosome abnormalities (such as translocations and deletions). Finding these changes can sometimes help in to predicting a person’s prognosis (outlook). Cytogenetic testing usually takes about 2 to 3 weeks to get a result.
+
+
+Fluorescent in situ hybridization (FISH): It uses special fluorescent dyes that only attach to specific parts of chromosomes. It can find most chromosome changes (such as translocations and deletions) that can be seen in the lab in standard cytogenetic tests, as well as some changes too small to be seen with usual cytogenetic testing. It’s very accurate and results are often available within a couple of days.
+
+Fine needle aspiration biopsy
+Fine needle aspiration (FNA) uses a very thin needle and a syringe to withdraw a small amount of tissue from a tumor or lymph node. The doctor can aim the needle while feeling an enlarged lymph node near the surface of the body. If the abnormal area (tumor) is deep in the body, the needle can be guided while it’s watched on a computed tomography (CT) scan (see discussion of imaging tests later in this section). The main advantage of FNA is that it doesn’t require surgery. The disadvantage is that in some cases the thin needle cannot remove enough tissue for a definite diagnosis.
+Core needle biopsy
+This test is similar to FNA, but a larger needle is used and a larger tissue sample is removed.
+If an area looks abnormal on an x-ray, a biopsy may be needed to confirm that it’s a plasmacytoma. Most often, a needle biopsy (fine or core) is used.
+Imaging tests
+Imaging tests use sound waves, x-rays, magnetic fields, or radioactive substances to create pictures of the inside of your body. Imaging tests may be done for a number of reasons, such as:
+
+To look at suspicious areas that might be cancer
+To learn how far cancer has spread
+To help determine if treatment is working
+
+Bone x-rays
+X-rays can detect bone destruction caused by the myeloma cells. Often doctors will do a series of x-rays that includes most of the bones. This is called a bone survey or skeletal survey.
+CT scan (Computed tomography scan)
+A CT scan uses x-rays taken from different angles, which are combined by a computer to make detailed pictures of the organs. Sometimes, this test can help tell if your bones have been damaged by myeloma. It can also be used to guide a biopsy needle into an area of concern.
+Magnetic resonance imaging (MRI) scans
+Like CT scans, MRI scans show detailed images of soft tissues in the body. But MRI scans use radio waves and strong magnets instead of x-rays. A contrast material called gadolinium may be injected into a vein before the scan to see details better.
+MRI scans are very helpful in looking at bones, the brain, and the spinal cord. Because MRI can find plasmacytomas that can’t be seen on regular x-rays, they can be helpful if the patient has pain in a bone but nothing abnormal is seen on the x-ray. MRI can also be used to look at the bone marrow in patients with multiple myeloma.
+Positron emission tomography (PET) scans
+For this test, a form of radioactive sugar is put into a vein and travels throughout the body. Cancer cells absorb high amounts of this sugar. A special camera then takes pictures that show the areas where the sugar collected throughout the body. A PET scan is often combined with a CT scan (known as a PET/CT scan).
+When a patient appears to have a solitary plasmacytoma, a PET scan may be used to look for other plasmacytomas. Like MRI scans, PET scans can find plasmacytomas that can’t be seen on regular x-rays, so they are helpful if the patient has pain in a bone but the x-ray result is negative.
+Echocardiogram (ECHO)
+Amyloidosis often affects the heart, so if your doctor diagnoses or suspects you have this disorder, an echocardiogram (ECHO) may be ordered. This test is basically an ultrasound of the heart. It uses sound waves to look at the heart muscle and how well it’s working. The echocardiogram can see if the heart size is normal and if it is pumping normally. It also is especially helpful if amyloid is suspected because amyloid in the heart muscle looks different from normal heart muscle.
+Diagnosing Multiple Myeloma
+Multiple myeloma is often diagnosed based on tests, the patient’s symptoms and the doctor’s physical exam of the patient. A diagnosis of multiple myeloma requires either:
+1. A plasma cell tumor (proven by biopsy) OR at least 10% plasma cells in the bone marrow AND
+2. At least one of the following:
+
+High blood calcium level
+Poor kidney function
+Low red blood cell counts (anemia)
+Holes in the bones from tumor found on imaging studies (CT, MRI, PET scan)
+Increase in one type of light chain in the blood so that one type is 100 times more common than the other
+60% or more plasma cells in the bone marrow
+
+Smoldering myeloma
+This term is used to mean early myeloma that is not causing any symptoms. People with smoldering myeloma have some signs of multiple myeloma, such as any of the following:
+
+Plasma cells in the bone marrow between 10% and 60%
+High level of monoclonal immunoglobulin (M protein) in the blood
+High level of light chains in the urine (also called Bence Jones protein)
+
+But they have normal blood counts, normal calcium levels, normal kidney function, no bone or organ damage, and no signs of amyloidosis.
+Light chain amyloidosis
+A diagnosis of light chain amyloidosis is made when the patient has ALL of the following:
+
+Signs and symptoms of amyloidosis
+A biopsy that shows amyloid in any tissue (fat, bone marrow, or organ such as the heart)
+A positive test showing the amyloid protein is a light chain and not a heavy chain
+Abnormal plasma cells in the bone marrow, high levels of M protein in the blood, or high levels of M protein in the urine.  
+
+Amyloid can build up in any tissue, and a biopsy may be able to diagnose this disease. Sometimes it can be seen on a bone marrow biopsy. The biopsy done most often to look for amyloid uses a needle to remove some fat from the wall of the abdomen (belly). This is after the skin over the biopsy site is numbed with medicine. A doctor uses a special stain on the removed fat to look for amyloid.
+Because amyloid often affects the heart and kidneys, they may also be biopsied to look for amyloid. This is rarely needed to find out if a patient has light chain amyloidosis, but it is sometimes done in someone with amyloid if it isn’t clear that their heart or kidney problems are caused by the amyloid or some other problem.
+Other tests are often done as well, to help confirm that the patient has light chain amyloidosis and not some other kind. These include a bone marrow biopsy, serum free light chains, and electrophoresis of the urine (these were discussed earlier in this section).After someone is diagnosed with cancer, doctors will try to figure out if it has spread, and if so, how far. This process is called staging. The stage of a cancer describes how much cancer is in the body. It helps determine how serious the cancer is and how best to treat it. Doctors also use a cancer's stage when talking about survival statistics.
+The Revised International Staging System
+Multiple myeloma is staged using the Revised International Staging System (RISS) based on 4 factors:
+
+The amount of albumin in the blood
+The amount of beta-2-microglobulin in the blood
+The amount of LDH in the blood
+The specific gene abnormalities (cytogenetics) of the cancer.
+
+
+
+
+RISS Stage Group
+Factors
+
+
+I
+Serum beta-2 microglobulin is less than 3.5 (mg/L) AND Albumin level is 3.5 (g/dL) or greater AND Cytogenetics are considered “not high risk” * AND LDH levels are normal  
+
+
+II
+Not stage I or III
+
+
+III
+Serum beta-2 microglobulin is 5.5 (mg/L) or greater AND  Cytogenetics are considered “high-risk”* AND/OR LDH levels are high
+
+
+
+*The bone marrow may be sent for tests to look at the chromosomes in the cancer cells. This test may also be called cytogenetics. Certain chromosome changes can mean a poorer outlook. For example, loss of a piece of chromosome 17 is linked to a poorer outcome. Another genetic abnormality that predicts a poor outcome is an exchange of material from chromosomes 4 and 14. This is called a translocation. A translocation involving chromosomes 14 and 16 is also linked to a poorer outcome. These 3 specific chromosome changes are considered high risk. Other chromosome abnormalities are considered standard risk or not high risk.
+Cancer staging can be complex, so ask your doctor to explain it to you in a way you understand.
+
+Factors other than stage that affect survival
+Kidney function
+The blood creatinine level shows how healthy the kidneys are. Kidneys eliminate this chemical from the body. When they are damaged by the monoclonal immunoglobulin, blood creatinine levels rise, predicting a worse outlook.
+Age
+Age is also important. In the studies of the international staging system, older people with myeloma do not live as long.
+Overall Health
+Overall health can affect the outlook of someone with myeloma. Poorly controlled health conditions, such as diabetes or heart disease, for example, can predict a worse prognosis.Survival rates tell you what percentage of people with the same type and stage of cancer are still alive a certain amount of time (usually 5 years) after they were diagnosed. They can’t tell you how long you will live, but they may help give you a better understanding about how likely it is that your treatment will be successful.
+Keep in mind that survival rates are estimates and are often based on previous outcomes of large numbers of people who had a specific cancer, but they can’t predict what will happen in any particular person’s case. These statistics can be confusing and may lead you to have more questions. Ask your doctor, who is familiar with your situation, how these numbers may apply to you.
+What is a 5-year relative survival rate?
+A relative survival rate compares people with the same type and stage of cancer to people in the overall population. For example, if the 5-year relative survival rate for a specific stage of multiple myeloma is 60%, it means that people who have that cancer are, on average, about 60% as likely as people who don’t have that cancer to live for at least 5 years after being diagnosed.
+Where do these numbers come from?
+The American Cancer Society relies on information from the Surveillance, Epidemiology, and End Results (SEER) database, maintained by the National Cancer Institute (NCI), to provide survival statistics for different types of cancer.
+The SEER database tracks 5-year relative survival rates for myeloma in the United States, based on how far the cancer has spread. The SEER database, however, does not group cancers by the Revised International Staging System (stage 1, stage 2, or stage 3). Instead, it groups cancers into localized, regional, and distant stages:
+
+Localized: Only one tumor (a solitary plasmacytoma) is growing in the bone or outside the bone.
+Regional: This stage does not apply to myeloma, because this type of cancer does not spread to the lymph nodes. 
+
+
+Distant: Many tumors are found inside or outside the bones, or multiple myeloma has been diagnosed.
+
+5-year relative survival rates for myeloma
+These numbers are based on people diagnosed with plasmacytomas or multiple myeloma between 2012 and 2018.
+
+
+
+SEER Stage 
+5-year Relative Survival Rate
+
+
+Localized (solitary plasmacytoma)
+79%
+
+
+Regional
+Not applicable
+
+
+Distant (multiple myeloma)
+57%
+
+
+All SEER stages combined
+58%
+
+
+
+Understanding the numbers
+
+These numbers don’t take everything into account. Survival rates for myeloma are generally based on if a single plasmacytoma is found or if multiple myeloma is diagnosed. But other factors, such as the tumor’s cytogenetics (chromosome changes), the levels of certain proteins and other substances in the blood, your kidney function, and your age and overall health, can also affect your outlook.
+People now being diagnosed with myeloma may have a better outlook than these numbers show. Treatments have improved over time, and these numbers are based on people who were diagnosed and treated at least 5 years earlier.It’s important to have frank, open discussions with your cancer care team. They want to answer all of your questions, so that you can make informed treatment and life decisions. For instance, consider these questions:
+When you’re told you have multiple myeloma
+
+Where is the cancer located?
+Has the cancer spread beyond where it started?
+What is the cancer’s stage(extent), and what does that mean?
+Will I need other tests before we can decide on treatment?
+Do I need to see any other doctors or health professionals?
+If I’m concerned about the costs and insurance coverage for my diagnosis and treatment, who can help me?
+
+When deciding on a treatment plan
+
+What are my treatment options?
+What do you recommend and why?
+How much experience do you have treating this type of cancer?
+Should I get a second opinion? How do I do that? Can you recommend someone?
+What would the goal of the treatment be?
+How quickly do we need to decide on treatment?
+What should I do to be ready for treatment?
+How long will treatment last? What will it be like? Where will it be done?
+What risks or side effects are there to the treatments you suggest? Are there things I can do to reduce these side effects?
+How might treatment affect my daily activities? Can I still work full time?
+What are the chances the cancer will recur (come back) with these treatment plans?
+What will we do if the treatment doesn’t work or if the cancer recurs?
+What if I have transportation problems getting to and from treatment? 
+
+During treatment
+Once treatment begins, you’ll need to know what to expect and what to look for. Not all of these questions may apply to you, but asking the ones that do may be helpful.
+
+How will we know if the treatment is working?
+Is there anything I can do to help manage side effects?
+What symptoms or side effects should I tell you about right away?
+How can I reach you on nights, holidays, or weekends?
+Do I need to change what I eat during treatment?
+Are there any limits on what I can do?
+Can I exercise during treatment? If so, what kind should I do, and how often?
+Can you suggest a mental health professional I can see if I start to feel overwhelmed, depressed, or distressed?
+What if I need social support during treatment because my family lives far away?
+
+After treatment
+
+Do I need a special diet after treatment?
+Are there any limits on what I can do?
+What other symptoms should I watch for?
+What kind of exercise should I do now?
+What type of follow-up will I need after treatment?
+How often will I need to have follow-up exams and imaging tests?
+Will I need any blood tests?
+How will we know if the cancer has come back? What should I watch for?
+What will my options be if the cancer comes back?
+
+Along with these sample questions, be sure to write down some of your own. For instance, you might want more information about recovery times. Or you may want to ask about clinical trials.
+Keep in mind that doctors aren’t the only ones who can give you information. Other health care professionals, such as nurses and social workers, can answer some of your questions. To find out more about speaking with your health care team, see The Doctor-Patient Relationship.Surgery is sometimes used to remove single plasmacytomas, but it’s rarely used to treat multiple myeloma. When spinal cord compression causes paralysis, severe muscle weakness, or numbness, emergency surgery may be needed. Surgery to attach metal rods or plates can help support weakened bones and may be needed to prevent or treat fractures.Radiation therapy uses high-energy rays or particles to kill cancer cells. Radiation may be used to treat areas of bone damaged by myeloma that have not responded to chemotherapy and/or other drugs and are causing pain or may be near breaking. It’s also the most common treatment for solitary plasmacytomas.
+If myeloma severely weakens the vertebral (back) bones, these bones can collapse and put pressure on the spinal cord and spinal nerves. Symptoms include a sudden change in sensation (such as numbness or tingling), sudden weakness of leg muscles, or sudden problems with urination or moving the bowels. This is a medical emergency; patients with these symptoms should call their doctor right away. Prompt treatment with radiation therapy and/or surgery is often needed to prevent paralysis.
+The type of radiation therapy most often used to treat multiple myeloma or solitary plasmacytoma is called external beam radiation therapy. The radiation is aimed at the cancer from a machine outside the body. Having radiation therapy is much like having a diagnostic x-ray except that each treatment lasts longer, and the course of treatment can continue for several weeks.
+Side effects of radiation can include:
+
+Skin changes in the area being treated, which can range from redness to blistering and peeling
+Fatigue (tiredness)
+Nausea
+Diarrhea (if the belly or pelvis is being treated)
+Low blood counts
+
+These symptoms improve once treatment is over.Many different types of drugs can be used to treat multiple myeloma.In a stem cell transplant, the patient gets high-dose chemotherapy to kill the cells in the bone marrow. Then the patient receives new, healthy blood-forming stem cells. When stem cell transplants were first developed, the new stem cells came from bone marrow, and so this was known as a bone marrow transplant. Now, stem cells are more often collected from blood (a peripheral blood stem cell transplant).
+Stem cell transplant is commonly used to treat multiple myeloma. Before the transplant, drug treatment is used to reduce the number of myeloma cells in the patient’s body. (See Drug Therapy for Multiple Myeloma).)
+Stem cell transplants (SCT) can be autologous or allogeneic.
+Autologous transplants
+For an autologous stem cell transplant, the patient’s own stem cells are removed from the bone marrow or peripheral blood before the transplant. The cells are stored until they are needed for the transplant. Then, the person with myeloma gets treatment such as high-dose chemotherapy, sometimes with radiation, to kill the cancer cells. When this is complete, their stored stem cells are given back into their blood through a vein.
+This type of transplant is a standard treatment for patients with multiple myeloma. Although an autologous transplant can make the myeloma go away for a time (even years), it doesn’t cure the cancer, and often the myeloma returns.
+Some doctors recommend that patients with multiple myeloma have 2 autologous transplants, 6 to 12 months apart. This approach is called tandem transplant. Studies show that this may help some patients more than a single transplant. The drawback is that it causes more side effects and as a result can be riskier.
+Allogeneic transplants
+In an allogeneic stem cell transplant, the patient gets blood-forming stem cells from another person – the donor. The best treatment results occur when the donor’s cells are closely matched to the patient’s cell type and the donor is closely related to the patient, such as a brother or sister. Allogeneic transplants are much riskier than autologous transplants, but they may be better at fighting the cancer. That’s because transplanted (donor) cells may actually help destroy myeloma cells. This is called a graft vs. tumor effect. In studies of multiple myeloma patients, those who got allogeneic transplants often did worse in the short term than those who got autologous transplants. At this time, allogeneic transplants are not considered a standard treatment for myeloma, but may be done as a part of a clinical trial.
+Side effects
+The early side effects from a stem cell transplant (SCT) are similar to those from chemotherapy and radiation, only more severe. One of the most serious side effects is low blood counts, which can lead to risks of serious infections and bleeding.
+The most serious side effect from allogeneic transplants is graft-versus-host disease (or GVHD). This occurs when the new immune cells (from the donor) see the patient’s tissues as foreign and attack them. GVHD can affect any part of the body and can be life threatening.Chimeric antigen receptor (CAR) T-cell therapy is a type of cancer immunotherapy. It helps the body’s own immune system find and attack cancer cells. CAR T-cell therapy is also sometimes talked about as a type of cell-based gene therapy, because it involves altering the genes inside certain immune cells to help them attack the cancer.
+How is CAR T-cell therapy done?
+To make this treatment, immune cells called T cells are taken from the person’s blood during a process called leukapheresis. Blood is removed through an IV line and goes into a machine that takes out the T cells. The remaining blood then goes back into the body. This process typically takes a few hours, and it might need to be repeated. 
+The T cells are then frozen and sent to a lab, where they are genetically altered so they have specific receptors (called chimeric antigen receptors, or CARs) on their surface. These receptors help the T cells attach to proteins on cancer cells. The T cells are then multiplied in the lab, which typically takes several weeks.
+Once the CAR T cells are ready, the patient gets chemotherapy for a few days to help prepare the body. Then the CAR T cells are infused back into the patient’s blood, where they can seek out the cancer cells and help the immune system attack them.
+CAR T-cell treatments for multiple myeloma
+Idecabtagene vicleucel (ide-cel, Abecma) and ciltacabtagene autoleucel (cilta-cel, Carvykti) are CAR T-cell therapies that target the BCMA protein, which is found on myeloma cells. Either of these treatments can be used in people who have already received several other types of medicines to treat their multiple myeloma.
+Possible side effects of CAR T-cell treatments
+These treatments can have serious or even life-threatening side effects, so they need to be given in a medical center that is specially trained in their use.
+Cytokine release syndrome (CRS): CRS can happen when T cells release chemicals (cytokines) that ramp up the immune system. CRS most often happens within a few days to weeks after treatment, and in some cases it can be life-threatening. Symptoms can include:
+
+High fever and chills
+Trouble breathing
+Severe nausea, vomiting, and/or diarrhea
+Feeling dizzy or lightheaded
+Headaches
+Fast heartbeat
+Feeling very tired
+
+Nervous system problems: This treatment can sometimes have serious effects on the nervous system, which can result in symptoms such as:
+
+Headaches
+Changes in consciousness
+Confusion or agitation
+Seizures
+Shaking or twitching (tremors)
+Trouble speaking and understanding
+Loss of balance
+
+Because of the risk of these side effects, you’ll be advised not to drive, operate heavy machinery, or do any other potentially dangerous activities for at least 8 weeks after you get your treatment.
+Other serious side effects: Other possible serious side effects can include:
+
+Allergic reactions during the infusion
+A weakened immune system
+An increased risk of serious infections
+Low blood cell counts, which can increase the risk of infections, fatigue, and bruising or bleeding
+
+Your health care team will watch you closely for several weeks after you get the CAR T cells. It’s very important to report any side effects to your health care team right away, as there are often medicines that can help treat them.
+To learn more about this type of treatment, see CAR T-cell Therapy and Its Side Effects.Supportive treatment is aimed at preventing or relieving symptoms instead of trying to cure the cancer. The main purpose of this type of treatment is to improve the comfort and quality of life for someone diagnosed with cancer no matter what the cancer stage or the goal of treatment might be. You might also hear supportive care referred to as palliative care, symptom management, or comfort care.
+Intravenous immunoglobulin (IVIG)
+Patients with multiple myeloma often have low levels of the normal antibodies (immunoglobulins) needed to fight infection. This can lead to problems with lung and/or sinus infections that keep coming back. The level of antibodies in the patient’s blood can be tested, and if it’s low, antibodies from donors can be given into a vein (IV) to raise the levels and help prevent infections. The antibodies given are called IVIG or intravenous immunoglobulin. IVIG is often given once a month at first, but may be able to be given less often based on blood tests of antibody levels.
+Treatment for low blood cell counts
+Some patients develop low red blood cell counts (anemia) from multiple myeloma or its treatment. They might feel tired, lightheaded, or short of breath while walking. Anemia that’s causing symptoms can be treated with blood transfusions. These are often given on an outpatient basis.
+Epoetin (Procrit) and darbepoetin (Aranesp) are drugs that can help improve low red blood cell counts and reduce the need for blood transfusions in some patients who are getting chemotherapy. But these drugs are used much less often because they have been linked to poorer survival in some patients with lymphoid cancers, such as multiple myeloma.
+Plasmapheresis
+Plasmapheresis can be used to remove myeloma protein from the blood. It’s helpful when certain myeloma proteins build up, thicken the blood, and interfere with circulation (called hyperviscosity).
+Most often, this procedure is done through a large catheter (tube) placed in a vein in the neck, under the collarbone, or in the groin. This catheter is hooked up to a machine, and blood flows into the machine. The machine separates the blood cells from the blood plasma (liquid part of the blood), and then returns the blood cells to the patient, along with either salt solution or donor plasma. The plasma that’s removed, which contains the abnormal antibody protein made by the myeloma cells, is discarded.
+Although plasmapheresis lowers the abnormal protein level and can relieve symptoms for a time, it does not kill the myeloma cells. That means that without further treatment, the protein will just build up again. For this reason, plasmapheresis is often followed by chemotherapy or some other type of drug treatment to kill the cells that make the protein.Solitary plasmacytomas
+These tumors are often treated with radiation therapy. If the plasma cell tumor is not in a bone, it may be removed with surgery. Other treatments might also be considered if a person is at high risk of progressing to multiple myeloma.
+Smoldering multiple myeloma
+People with smoldering myeloma often do well for years without treatment. For many people, starting treatment early does not seem to help them live longer. These people are typically watched closely without starting treatment right away.
+Based on how abnormal the plasma cells look under the microscope and the levels of immunoglobulins, some people with smoldering multiple myeloma have a high risk of progressing to active myeloma. Some of these people might be helped by treatment with lenalidomide and dexamethasone before they develop symptoms.
+Active (symptomatic) myeloma
+People with active myeloma or light chain amyloidosis are often given a combination of 2 or 3 drugs. The drugs chosen depend on the person’s health (including their kidney function) and whether a stem cell transplant is planned.
+Often, a combination containing bortezomib, lenalidomide, and dexamethasone is used. Combinations containing bortezomib are especially helpful in people with kidney problems and those whose myeloma cells contain certain high-risk chromosome abnormalities.
+Many other combinations may be considered as well. If one drug combination stops working (or the myeloma comes back), other drugs can be tried. For more on these drugs and some of the common combinations used, see Drug Therapy for Multiple Myeloma.
+Treatment for bone disease (with a bisphosphonate or denosumab) is often started at the same time as well. If the areas of damaged bone continue to cause symptoms, radiation therapy may be used.
+People with multiple myeloma also receive supportive treatments, such as transfusions to treat low blood cell counts, and antibiotics and sometimes intravenous immunoglobulin (IVIG) for infections.
+A stem cell transplant may be part of treatment. Options for stem cell transplant are discussed in Stem Cell Transplant for Multiple Myeloma.
+Some people are given additional cycles of treatment after a transplant. This is called consolidation treatment and increases the chance of a complete response (where all signs and symptoms of the disease go away).
+Some people (even some who didn’t have a stem cell transplant) may be given long-term treatment with lenalidomide or bortezomib. This is known as maintenance treatment. It can help delay the return of the myeloma, but it can also cause serious side effects in some people.
+CAR T-cell therapy may be another treatment option for some people, especially if several other medicines have already been tried. This treatment helps the body’s own immune system attack the cancer cells. While it can be very effective for many people, it can also cause very serious side effects.For some people with multiple myeloma, treatment can remove or destroy the cancer. The end of treatment can be both stressful and exciting. You may be relieved to finish treatment, but it’s hard not to worry about cancer coming back. This is very common if you’ve had cancer.
+For other people, the cancer might never go away completely. Some people may get regular treatment with chemotherapy and other drugs, radiation therapy, or other treatments to try and help keep the cancer in check. Learning to live with cancer that does not go away can be difficult and very stressful. Life after multiple myeloma means returning to some familiar things and making some new choices.
+Follow-up care
+During and after treatment, it’s very important to go to all follow-up appointments. During these visits, your doctors will ask about symptoms, examine you, and order blood tests or imaging studies such as CT scans or x-rays. Follow-up is needed to see if the cancer has come back, if more treatment is needed, and to check for any side effects. This is the time for you to talk to your cancer care team about any changes or problems you notice and any questions or concerns you have.
+Almost any cancer treatment can have side effects. Some last for a few weeks to several months, but others can be permanent. Don’t hesitate to tell your cancer care team about any symptoms or side effects that bother you so they can help you manage them.
+Ask your doctor for a survivorship care plan
+Talk with your doctor about developing a survivorship care plan for you. This plan might include:
+
+A suggested schedule for follow-up exams and tests
+A schedule for other tests you might need in the future, such as early detection (screening) tests for other types of cancer, or tests to look for long-term health effects from your cancer or its treatment
+A list of possible late- or long-term side effects from your treatment, including what to watch for and when you should contact your doctor
+Diet and physical activity suggestions
+Reminders to keep your appointments with your primary care provider (PCP), who will monitor your general health care
+
+Keeping health insurance and copies of your medical records
+Even after treatment, it’s very important to keep health insurance. Tests and doctor visits cost a lot, and even though no one wants to think about their cancer coming back, this could happen.
+At some point after your cancer treatment, you might find yourself seeing a new doctor who doesn’t know about your medical history. It’s important to keep copies of your medical records to give your new doctor the details of your diagnosis and treatment. Learn more in Keeping Copies of Important Medical Records. 
+Can I lower my risk of multiple myeloma progressing or coming back?
+If you have (or have had) multiple myeloma, you probably want to know if there are things you can do that might lower your risk of the cancer growing or coming back, such as exercising, eating a certain type of diet, or taking nutritional supplements.
+Adopting healthy behaviors such as not smoking, eating well, getting regular physical activity, and staying at a healthy weight might help, but no one knows for sure. However, we do know that these types of changes can have positive effects on your health that can extend beyond your risk of myeloma or other cancers.
+About dietary supplements
+So far, no dietary supplements (including vitamins, minerals, and herbal products) have been shown to clearly help lower the risk of cancer progressing or coming back. This doesn’t mean that no supplements will help, but it’s important to know that none have been proven to do so.
+Dietary supplements are not regulated like medicines in the United States – they do not have to be proven effective (or even safe) before being sold, although there are limits on what they’re allowed to claim they can do. If you’re thinking about taking any type of nutritional supplement, talk to your health care team. They can help you decide which ones you can use safely while avoiding those that might be harmful.
+If the cancer comes back
+If the cancer does recur at some point, your treatment options will depend on where the cancer is located, what treatments you’ve had before, and your health. For more information on how recurrent cancer is treated, see Treatment Choices for Multiple Myeloma, by Stage.
+For more general information on recurrence, you may also want to see Understanding Recurrence.
+Second cancers after treatment
+People who’ve had multiple myeloma can still get other cancers. In fact, multiple myeloma survivors are at higher risk for getting some other types of cancer. Learn more in Second Cancers After Multiple Myeloma.
+Getting emotional support
+Some amount of feeling depressed, anxious, or worried is normal when multiple myeloma is a part of your life. Some people are affected more than others. But everyone can benefit from help and support from other people, whether friends and family, religious groups, support groups, professional counselors, or others. Learn more in Life After Cancer.Cancer survivors can be affected by a number of health problems, but often their greatest concern is facing cancer again. If a cancer comes back after treatment it is called a recurrence. But some cancer survivors may develop a new, unrelated cancer later. This is called a second cancer. No matter what type of cancer you have had, it is still possible to get another (new) cancer, even after surviving the first.
+Unfortunately, being treated for cancer doesn’t mean you can’t get another cancer. People who have had cancer can still get the same types of cancers that other people get. In fact, certain types of cancer and cancer treatments can be linked to a higher risk of certain second cancers.
+Survivors of multiple myeloma can get any type of second cancer, but they have an increased risk of:
+
+Acute myeloid leukemia (AML)
+Myelodysplastic syndrome (MDS)
+
+Follow-up after multiple myeloma treatment 
+Patients with multiple myeloma need to see their doctors regularly. Treatment often doesn’t cure this cancer, but can cause it to regress or go away for a time. If the cancer comes back or worsens, treatment may begin again. Let your doctor know about any new symptoms or problems, because they could be caused by the myeloma or by a new disease or second cancer.
+Can I lower my risk of getting a second cancer?
+There are steps you can take to lower your risk and stay as healthy as possible. For example, multiple myeloma survivors should do their best to stay away from all tobacco products and tobacco smoke, as smoking increases the risk of many cancers.
+To help maintain good health, multiple myeloma survivors should also:
+
+Get to and stay at a healthy weight
+Keep physically active and limit the time you spend sitting or lying down
+Follow a healthy eating pattern that includes plenty of fruits, vegetables, and whole grains, and limits or avoids red and processed meats, sugary drinks, and highly processed foods
+Not drink alcohol. If you do drink, have no more than 1 drink per day for women or 2 per day for men
+
+These steps may also lower the risk of some other health problems.
+See Second Cancers in Adults for more information about causes of second cancers.What is multiple myeloma?
+Cancer can start any place in the body. Multiple myeloma is a type of cancer that starts in plasma cells, which are in the bone marrow — the soft, inner part of some bones. Normal plasma cells are a type of white blood cell that fight off infections by making antibodies that spot and attack germs.
+When plasma cells grow out of control and become cancer cells, they can form a tumor, usually in a bone. If there is only one plasma cell tumor, it is called a solitary plasmacytoma. When there is more than one plasma cell tumor, it is called multiple myeloma.
+Questions to ask the doctor:
+
+Why do you think I have cancer?
+Is there a chance I don’t have cancer?
+Would you please write down the kind of cancer I have?
+What will happen next?
+
+How does the doctor know I have multiple myeloma?
+Multiple myeloma is hard to find early. Sometimes people with multiple myeloma don’t have any symptoms until it is worse. When symptoms do happen, they can include bone pain, being sick to your stomach, not feeling like eating, feeling very tired, , losing a lot of weight , and getting sick a lot. The doctor will ask you questions about your health and do a physical exam.
+If signs are pointing to multiple myeloma, more tests will be done. Here are some of the tests you may need:
+Blood cell counts: This blood test is often the first test done. Most people with multiple myeloma have a low red blood cell count.
+Blood and urine tests for immunoglobulins: Samples of your blood and urine might be tested for immunoglobulins (another name for antibodies). Levels of one of these proteins are typically higher than normal in people with multiple myeloma.
+Blood chemistry tests: Tests might be done to check how well your kidney is working and how much calcium, potassium, and sodium and other chemicals are in your blood.
+Bone marrow aspiration and biopsy : For these tests, a doctor uses thin, hollow needles to remove small amounts of bone marrow, usually from the hip bone. The area around the bone is numbed, and you may be given a drug to make you sleep during the test. The samples are sent to a lab to see if there are plasma cells in the bone marrow that aren’t normal.
+Other biopsy tests: If you have a tumor or an enlarged lymph node, a thin, hollow needle attached to a syringe might be used to remove a small piece of it. The sample is then tested for cancer cells.
+Bone x-rays: Bone damage caused by the myeloma cells can often be seen with x-rays. A series of x-rays might be done that includes most of the bones. This is called a bone survey or skeletal survey.
+CT scan: This is also called a CAT scan. It’s a special kind of x-ray that takes detailed pictures of the body. CT scans can help show if your bones have been damaged by myeloma.
+MRI scan: MRIs use radio waves and strong magnets instead of x-rays to take detailed pictures. MRI scans can be very helpful in looking at the bones and bone marrow.
+PET scan: This test uses a special kind of sugar that can be seen inside your body with a special camera. This sugar shows up as hot spots where the cancer is.
+Questions to ask the doctor:
+
+What tests will I need to have?
+Who will do these tests?
+Where will they be done?
+How and when will I get the results?
+Who will explain the results to me?
+What do I need to do next?
+
+How serious is my multiple myeloma?
+If you have multiple myeloma, the doctor will want to find out how advanced it is. This is called staging.
+The stage of multiple myeloma is based on the results of x-rays and certain blood or urine tests. Be sure to ask the doctor about the stage of your multiple myeloma and what it means for you.
+Questions to ask the doctor:
+
+Do you know the stage of my cancer?
+If not, how and when will you find out the stage of the cancer?
+Would you explain to me what the stage means in my case?
+Based on the stage of the cancer, how long do you think I’ll live?
+What will happen next?
+
+What kind of treatment will I need?
+The treatment plan that is best for you depends on the stage of your multiple myeloma, your age and overall health, and other factors. If the myeloma is found early and is not causing symptoms, you might not need to be treated right away. You might just be watched closely instead. If you do need treatment, it could include:
+
+Chemotherapy
+Other drug treatments like bisphosphonates that strengthen bones
+Stem cell transplant
+Radiation
+Other drugs and supportive therapy
+
+Chemo
+Chemo is the short word for chemotherapy – the use of drugs to fight cancer. The drugs are often given into a vein. These drugs go into the blood and spread all over the body. Chemo is given in cycles or rounds. Each round of treatment is followed by a break. Most of the time, 2 or more chemo drugs are given. Treatment often lasts for many months.
+Side effects of chemo
+Chemo can have many side effects, like:
+
+Hair loss
+Mouth sores
+Not feeling like eating
+Diarrhea
+Feeling sick to your stomach and throwing up
+More risk of infections
+Bruising and bleeding easily
+Tiredness
+
+But these problems tend to go away after treatment ends. There are ways to treat most chemo side effects. Be sure to talk to your cancer care team so they can help.
+Other drug treatments
+Many other types of drugs can be used to treat multiple myeloma or its symptoms. These drugs work differently from chemo. Some of them target parts of myeloma cells that make them different from normal cells. Others help your immune system attack the myeloma cells. Still others can help strengthen your bones and lower your risk of fractures (broken bones). Often, different types of drugs are combined (sometimes along with chemo).
+Some of these drugs are taken as pills, while others are injected into a vein. Each of these drugs can have its own side effects, so ask your doctor about which drugs you will get and what to expect.
+Stem cell transplant
+A stem cell transplant (SCT) lets doctors use very high doses of chemo to kill the myeloma cells. The high doses of these drugs destroy the bone marrow, which keeps new blood cells from being made. Although the drugs destroy the bone marrow, stem cells given after the chemo can bring back the normal blood-making bone marrow stem cells. There are different kinds of SCT, each of which can have side effects. Ask your doctor which type you will have and what to expect.
+Radiation treatments
+Radiation uses high-energy rays (like x-rays) to kill cancer cells. This treatment may be used to treat areas of myeloma that have not responded to other treatments and are causing pain or other problems.
+Side effects of radiation treatments
+If your doctor says you should get radiation treatment, ask what side effects might happen. The most common side effects of radiation are:
+
+Skin changes where the radiation is given
+Feeling very tired
+
+Most side effects get better after treatment ends. Some might last longer. Talk to your doctor about what you can expect.
+Supportive therapy
+Sometimes you might need treatments for some of the problems that myeloma can cause like low blood counts and infections. Ask your doctor what kind of supportive treatment to expect.
+Clinical trials
+Clinical trials are research studies that test new drugs or other treatments in people. They compare standard treatments with others that may be better.
+If you would like to learn more about clinical trials that might be right for you, start by asking your doctor if your clinic or hospital conducts clinical trials. See Clinical Trials to learn more.
+Clinical trials are one way to get the newest cancer treatment. They are the best way for doctors to find better ways to treat cancer. If your doctor can find one that’s studying the kind of cancer you have, it’s up to you whether to take part. And if you do sign up for a clinical trial, you can always stop at any time.
+What about other treatments I hear about?
+When you have cancer, you might hear about other ways to treat the cancer or treat your symptoms. These may not always be standard medical treatments. These treatments may be vitamins, herbs, special diets, and other things. You may wonder about these treatments.
+Some of these are known to help, but many have not been tested. Some have been shown not to help. A few have even been found to be harmful. Talk to your doctor about anything you’re thinking about using, whether it’s a vitamin, a diet, or anything else.
+Questions to ask the doctor
+What treatment do you think is best for me?
+
+What’s the goal of this treatment? How is it likely to help?
+Will I need other types of treatment, too?
+What’s the goal of these treatments?
+What side effects could I have from these treatments?
+What can I do about side effects that I might have?
+Should we think about a stem cell transplant? If so, when?
+Is there a clinical trial that might be right for me?
+What about special vitamins or diets that friends tell me about? How will I know if they are safe?
+How soon do I need to start treatment?
+What should I do to be ready for treatment?
+Is there anything I can do to help the treatment work better?
+What’s the next step?
+
+What will happen after treatment?
+Treatment often will not cure multiple myeloma, but it might make it go away for a time. If you have multiple myeloma, there might be times when you are not being treated. Or you might continue to get regular treatments with chemotherapy and other drugs, radiation, or other treatments to try to help keep the cancer in check.
+Whether or not you are being treated, ongoing follow-up is very important. Your doctors will ask about symptoms, do an exam, and might order blood tests or tests like CT scans or x-rays. This is the time for you to talk to your cancer care team about any changes or problems you notice and any questions or concerns you have.
+Having cancer and dealing with treatment can be hard, but it can also be a time to look at your life in new ways. You might be thinking about how to improve your health. Call us at 1-800-227-2345 or talk to your doctor to find out what you can do to feel better.
+You can’t change the fact that you have cancer. What you can change is how you live the rest of your life – making healthy choices and feeling as good as you can.

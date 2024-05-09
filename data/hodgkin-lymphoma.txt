@@ -1,0 +1,713 @@
+Cancer starts when cells start to grow out of control. Cells in nearly any part of the body can become cancer, and can then spread to other parts of the body. To learn more about how cancers start and spread, see What Is Cancer?
+Lymphomas are cancers that start in white blood cells called lymphocytes. There are 2 main types of lymphoma:
+
+Hodgkin lymphoma (HL)
+Non-Hodgkin lymphoma (NHL)
+
+HL and NHL come from different types of cells. They behave, spread, and respond to treatment differently, so it's important for you to know which one you have.
+This information is about Hodgkin lymphoma. To learn about the other type, see Non-Hodgkin Lymphoma.
+The lymph system
+To understand what Hodgkin lymphoma is, it helps to know about the lymph system (also known as the lymphatic system). The lymph system is part of the immune system, which helps fight infections and some other diseases. The lymph system also helps control the flow of fluids in the body.
+The lymph system is made up mainly of cells called lymphocytes, a type of white blood cell. There are 2 main types of lymphocytes:
+
+B lymphocytes (B cells): B cells make proteins called antibodies to help protect the body from germs (bacteria and viruses).
+T lymphocytes (T cells): There are many types of T cells. Some T cells destroy germs or abnormal cells in the body. Other T cells help boost or slow the activity of other immune system cells.
+
+Hodgkin lymphoma usually starts in B lymphocytes.
+Start and spread of Hodgkin lymphoma
+Lymph tissue is in many parts of your body, so Hodgkin lymphoma can start almost anywhere.The American Cancer Society’s estimates for Hodgkin lymphoma in the United States for 2024 are:
+
+About  8﻿,570 new cases (4,630 in males and 3,940 in females)
+About 910 deaths (550 males and 360 females)
+
+Children and adults can develop Hodgkin lymphoma, but it's most common in early adulthood (especially in a person’s 20s). The risk of Hodgkin lymphoma rises again in late adulthood (after age 55). Overall, the average age of people when they are diagnosed is 39.
+Hodgkin lymphoma is rare in children younger than 5 years old. But it's the most common cancer diagnosed in adolescents ages 15 to 19 years.
+Incidence rates have declined by about 1% each year for Hodgkin lymphoma since the mid-2000s.
+For statistics related to survival, see Survival Rates for Hodgkin Lymphoma by Stage.
+Visit the American Cancer Society’s Cancer Statistics Center for more key statistics.Treatments used today cure about 8 out of 10 cases of Hodgkin lymphoma (HL). Still, important research is going on in many university hospitals, medical centers, and other institutions around the world. Scientists are getting closer to finding out what causes the disease and how to better treat it. This is of special interest for hard-to-treat cases, like those that don't respond to current treatments or come back after treatment. Doctors are also looking for ways to limit the long-term side effects linked to HL treatment.
+Imaging tests
+PET/CT scans are commonly used to help doctors stage HL and decide how much treatment needs to be given. Doctors are also looking at whether PET/CT scans done during treatment can help decide if more or less treatment is needed.
+Researchers are trying to find out if MRI scans might work as well in children and teens with HL. If so, it would mean less radiation exposure and the resulting long-term side effects in young people.
+Treatment
+Overall cure rates for HL are high, but long-term side effects of treatment are an important issue. A very active area of research is directed at learning which patients can be treated with gentler therapy and which patients need stronger treatment.
+Radiation
+Doctors are looking to see which patients (especially children) might do just as well with lower doses of radiation, or even no radiation . They're also studying if newer forms of radiation therapy, such as intensity-modulated radiation therapy (IMRT) and proton therapy, might be useful for HL. These approaches focus radiation more precisely on tumors, which limits the doses reaching nearby normal tissues.
+Chemotherapy
+A related area of research is finding less-toxic treatments that have fewer serious long-term side effects, yet still cure as many patients as possible. Lower doses of chemotherapy (chemo), as well as new chemo drugs and drug combinations are being studied. Many of these drugs are already used to treat other cancers and have shown promise against HL that has come back (relapsed) after other chemo treatments. Studies are in progress to see if these drugs could work better than the ones now in use.
+Doctors are also looking for better chemo drugs to use with stem cell transplant. Again, improving outcomes while limiting long-term side effects is the goal.
+Another approach is using newer drugs that better target HL cells. Some of these are described below.
+Targeted therapy
+Newer drugs that work differently from standard chemo drugs are now being studied. Researchers are learning a lot about the gene changes found in HL cells. This could lead to drugs that target these changes and spare normal cells. These are known as targeted therapy drugs. Many other types of cancer are already treated with targeted therapies.
+Some of these targeted drugs are being studied in combinations, in the hope that they might work better when given together. Many are given along with other cancer treatments, like chemo and/or radiation. 
+Immunotherapy (including monoclonal antibodies)
+Immunotherapy is treatment that helps the body’s immune system find and attack cancer cells. Immunotherapy is helpful against several types of cancer, including Hodgkin lymphoma.
+Immune checkpoint inhibitors
+Immune system cells normally have substances on them that act as checkpoints to keep them from attacking healthy cells in the body. Cancer cells sometimes use these checkpoints to avoid being attacked by the immune system. Today, drugs that block these checkpoints are used to treat HL after other treatments have been tried. Researchers are now studying other ways to use these drugs. For instance, they're looking at whether these drugs might be used as "maintenance therapy" to keep HL from coming back after transplant. They're also testing them as a first treatment for HL. The use of immune checkpoint inhibitors in children and teens, as well as in older people who are too sick to get standard treatment, is also being studied. Several other checkpoint inhibitor drugs are being studied, too.
+Chimeric antigen receptor (CAR) T-cell therapy
+In this treatment, immune cells called T cells are removed from the patient’s blood and altered in the lab so they have receptors called chimeric antigen receptors, or CARs on their surface. These receptors can attach to proteins on the surface of lymphoma cells. The altered T cells are then multiplied in the lab and put back into the patient’s blood. They can then find the lymphoma cells and launch a precise immune attack against them.
+This technique has shown encouraging results in early clinical trials against some hard-to-treat Hodgkin lymphomas. Doctors are still improving how they make the T cells and are learning the best ways to use them. CAR T-cell therapy is only available in clinical trials at this time.
+Monoclonal antibodies
+Monoclonal antibodies (mAbs) are man-made versions of immune system proteins. Some can kill cancer cells by themselves. Others have radioactive molecules or cell poisons attached to them, which help kill cancer cells. An advantage of these drugs is that they seem to target lymphoma cells while having fewer side effects than standard chemo drugs. They may be used alone or along with chemo.
+Some mAbs, such as brentuximab vedotin (Adcetris) and rituximab (Rituxan), are already being used to treat some cases of HL. Researchers are now studying if these drugs might be useful in other ways. For instance, brentuximab is now being studied to see if it might be helpful earlier in the course of the disease or as part of the treatment used to get ready for a transplant. And studies are now being done to see if rituximab can help treat classic forms of HL as well as the nodular lymphocyte-predominant type. Researchers are also looking for the best way to use mAbs along with standard treatment. Many newer mAbs are now being studied, too.A risk factor is anything that affects your chance of getting a disease such as cancer. Different cancers have different risk factors. Some cancer risk factors, like smoking or being overweight, can be changed. Others, like a person’s age or family history, can’t be changed.
+A few risk factors make a person more likely to develop Hodgkin lymphoma (HL), but it’s not always clear why these factors increase risk. Having a risk factor, or even many, does not mean that you'll definitely get the disease. And many people who get HL have few or no known risk factors.
+Epstein-Barr virus infection/mononucleosis
+The Epstein-Barr virus (EBV) causes infectious mononucleosis (often called mono). People who have had mono have an increased risk of HL. But even though the risk is higher than for people who haven't had mono, it is still very small (about 1 in 1,000).
+The exact role of EBV in the development of HL isn't clear. Many people are infected with EBV, but very few develop HL. Parts of the virus are found in Reed-Sternberg cells in about 1 out of 4 people with classic HL in the US. But most people with HL have no signs of EBV in their cancer cells. 
+Age
+People can be diagnosed with HL at any age, but it's most common in early adulthood (especially in a person’s 20s) and in late adulthood (after age 55).
+Sex
+HL occurs slightly more often in males than in females.
+Family history
+Brothers and sisters of young people with this disease have a higher risk for HL. The risk is very high for an identical twin of a person with HL. But a family link is still uncommon – most people with HL do not have a family history of it.
+It’s not clear why family history might increase risk. It might be because family members have similar childhood exposures to certain infections (such as Epstein-Barr virus), because they share inherited gene changes that make them more likely to get HL, or some combination of these factors.  
+Weakened immune system
+The risk of HL is increased in people infected with HIV, the virus that causes AIDS.
+People who take medicines to suppress the immune system after an organ transplant and people with auto-immune diseases are also at higher than normal risk for HL.Some researchers think that infection with the Epstein-Barr virus sometimes causes DNA changes in B lymphocytes. In some cases, this leads to the development of Reed-Sternberg cells, which are the cancer cells in HL.
+DNA is the chemical in our cells that makes up our genes, which control how our cells work. We look like our parents because they are the source of our DNA. But DNA affects more than just how we look.
+Some genes control when cells grow, divide into new cells, and die:
+
+Genes that help cells grow, divide, and stay alive are called oncogenes.
+Genes that slow down cell division or cause cells to die at the right time are called tumor suppressor genes.
+
+Cancers can be caused by DNA changes that turn on oncogenes or turn off tumor suppressor genes.
+Scientists have found many gene changes in Reed-Sternberg cells that help the cells grow and divide or live longer than they should. Reed-Sternberg cells also make substances called cytokines, which attract many other cells into the lymph node, causing it to swell (enlarge). In turn, these non-cancerous cells then release substances that help Reed-Sternberg cells grow.
+Despite the advances in knowing how cancer cells work, scientists do not yet know what sets off these processes. An abnormal reaction to infection with EBV or to other infections may be the trigger in some cases. But a lot more research is needed to understand what causes Hodgkin lymphoma.Few of the known risk factors for Hodgkin lymphoma (HL) can be changed, so it's not possible to prevent most cases of the disease at this time.
+Infection with HIV, the virus that causes AIDS, is known to increase risk, so one way to limit your risk is to avoid known risk factors for HIV, such as intravenous (IV) drug use or unprotected sex with many partners. You can read more about this in HIV Infection, AIDS, and Cancer.
+Another risk factor for HL is infection with the Epstein-Barr virus (the cause of infectious mononucleosis, or mono), but there's no known way to prevent this infection.Screening tests or exams are used to look for disease in people who have no symptoms. At this time, there are no widely recommended screening tests for Hodgkin lymphoma (HL). This is because no screening test has been shown to lower the risk of dying from this cancer. Still, in some cases HL can be found early. 
+The best way to find HL early is to be on the lookout for possible symptoms. The most common symptom is enlargement or swelling of one or more lymph nodes, causing a lump or bump under the skin which usually doesn't hurt. It's most often on the side of the neck, in the armpit, or in the groin. More often this is caused by something like an infection, not HL, but it’s important to have such lumps checked by a doctor. 
+
+Careful, regular medical check-ups may be helpful for people with known risk factors for HL, such as a strong family history. These people do not often get HL, but they (and their doctors) should know about any possible symptoms and signs they might have.You or your child can have (HL) and feel perfectly well. But HL often causes symptoms or changes that should be checked by a doctor.
+Lump(s) under the skin
+The most common symptom of HL is a lump in the neck, under the arm, or in the groin, which is an enlarged lymph node. It doesn’t usually hurt, but it may become painful after drinking alcohol. The lump might get bigger over time, or new lumps might appear near it or even in other parts of the body.
+Still, HL is not the most common cause of lymph node swelling. Most enlarged lymph nodes, especially in children, are caused by an infection. Lymph nodes that grow because of infection are called reactive or hyperplastic nodes. These often hurt when they're touched. If an infection is the cause, the node should go back to its normal size after the infection goes away.
+Other cancers can cause swollen lymph nodes, too. If you have an enlarged lymph node, especially if you haven’t had a recent infection, it’s best to see a doctor so that the cause can be found and treated, if needed.
+B symptoms
+Some people with HL have what are known as B symptoms:
+
+Fever (which can come and go over several weeks) without an infection
+Drenching night sweats
+Weight loss without trying (at least 10% of your body weight over 6 months)
+
+These symptoms are an important part of staging HL and determining a person’s outlook.
+General (non-specific) symptoms
+Other possible symptoms of HL include:
+
+Itching skin
+Feeling tired (fatigue)
+Loss of appetite
+
+Sometimes the only symptom might be feeling tired all the time.
+Cough, trouble breathing, chest pain
+If HL affects lymph nodes inside your chest, the swelling of these nodes might press on the windpipe (trachea) and make you cough or even have trouble breathing, especially when lying down. Some people might have pain behind the breast bone.
+If you have symptoms
+Having one or more of the symptoms above doesn’t mean you definitely have HL. In fact, many of these symptoms are much more likely to be caused by other problems, like an infection. Still, if you or your child has any of these symptoms, have them checked by a doctor so that the cause can be found and, if needed, treated.Most people with Hodgkin lymphoma (HL) see their doctor because they have certain symptoms, or because they just don’t feel well and go in for a check-up.
+If a person has signs or symptoms that suggest HL, exams and tests will be done to find out for sure and, if so, to determine the exact type.
+Medical history and physical exam
+The doctor will want to get a thorough medical history. You'll be asked about symptoms, possible risk factors, family history, and other medical conditions.
+Next, the doctor will examine you (or your child), paying close attention to lymph nodes and other parts of the body that might be affected, including the spleen and liver. Because infections are the most common cause of enlarged lymph nodes, especially in children, the doctor will look for infection in the part of the body near any swollen lymph nodes.
+The doctor also might order blood tests to look for signs of infection or other problems. If the doctor suspects that HL might be the problem, a biopsy of a swollen lymph node might be recommended.
+Biopsies
+Because swollen lymph nodes are more likely to be caused by something other than HL, like an infection, doctors often wait a few weeks to see if they shrink on their own as the infection goes away. You may be given antibiotics to see if they cause the nodes to shrink.
+If the nodes don’t shrink or if they continue to grow, a lymph node (or a small piece of a node) is taken out to be checked in the lab. This procedure, called a biopsy, is the only way to be sure of the diagnosis. If it is HL, the biopsy can also show what type it is.
+Types of biopsies
+There are different types of biopsies. Doctors choose the best one to do based on the situation.
+Excisional or incisional biopsy: This is the preferred and most common type of biopsy for an enlarged lymph node. The doctor cuts through the skin to remove the lymph node.
+
+If the whole lymph node is removed, it's an excisional biopsy.
+If a small part of a larger tumor or node is removed, it's an incisional biopsy.
+
+If the node is just under the skin, the biopsy is fairly simple and can sometimes be done with numbing medicine (called local anesthesia). But if the node is inside the chest or abdomen (belly), you'll be sedated or given general anesthesia (where drugs are used to put you in a deep sleep). This type of biopsy almost always provides enough tissue to make a diagnosis of HL and tell the exact type.
+Needle biopsy: A needle biopsy is less invasive than excisional or incisional biopsies because there's no cut in the skin. But the drawback is that it might not get enough tissue to diagnose HL (or find out which type it is). There are 2 main types of needle biopsies:
+
+A fine needle aspiration (FNA) biopsy uses a very thin, hollow needle attached to a syringe to take out (aspirate) a small amount of fluid and tiny bits of tissue.
+A core needle biopsy uses a larger needle to remove a slightly larger piece of tissue.
+
+To biopsy an enlarged node just under the skin, the doctor can aim the needle while feeling the node. If a node or tumor is deep inside the body, a CT scan or ultrasound (see below) can be used to guide the needle.
+Most doctors do not use needle biopsies (especially FNA biopsies) to diagnose HL. But if the doctor suspects that lymph node swelling is caused by an infection or by the spread of cancer from another organ (such as the breast, lungs, or thyroid), a needle biopsy might be the first type of biopsy done. An excisional biopsy may still be needed to diagnose HL, even after a needle biopsy has been done.
+If HL has already been diagnosed, needle biopsies are sometimes used to check changes (like swollen nodes) in other parts of the body that might be from the lymphoma spreading or coming back after treatment.
+Bone marrow aspiration and biopsy: These tests are not used to diagnose HL, but they may be done after the diagnosis is made to see if the lymphoma is in the bone marrow. The bone marrow aspiration and biopsy are usually done at the same time. The samples are taken from the back of the pelvic (hip) bone, but sometimes they may be taken from other bones.
+In bone marrow aspiration, you lie on a table (either on your side or on your belly). After cleaning the skin over the hip, the doctor numbs the skin and the surface of the bone by injecting a local anesthetic (numbing drug). This may cause a brief stinging or burning feeling. A thin, hollow needle is then pushed into the bone, and a syringe is used to suck out a small amount of liquid bone marrow. Even with the anesthetic, most patients have some brief pain when the marrow is pulled out.
+A bone marrow biopsy is usually done just after the aspiration. A small piece or core of bone and marrow is removed with a slightly larger needle that's pushed into the bone. The biopsy may also cause some brief pain.
+Most children having a bone marrow aspiration and biopsy are either given medicine to make them drowsy or are given general anesthesia so they're asleep while it's done.
+Lab tests of biopsy samples
+All biopsy samples are looked at under a microscope by a pathologist (a doctor specially trained to recognize cancer cells), who will look for Hodgkin lymphoma cells (called Reed-Sternberg cells). Sometimes the first biopsy doesn't give a clear answer and more biopsies are needed.
+Looking at the tissue samples under the microscope is often enough to diagnose HL (and what type it is), but sometimes more lab tests are needed.
+Immunohistochemistry: This lab test looks for certain proteins on cells, such as CD15 and CD30. These are found on the surface of the Reed-Sternberg cells in classic Hodgkin lymphoma (cHL). Tests for other proteins may point to nodular lymphocyte-predominant Hodgkin lymphoma (NLPHL), to non-Hodgkin lymphoma (rather than Hodgkin lymphoma), or maybe to other diseases.
+Imaging tests
+Imaging tests use x-rays, sound waves, magnetic fields, or radioactive particles to make pictures of the inside of the body. Imaging tests can be used in many ways, such as:
+
+To look for possible causes of certain symptoms, such as enlarged lymph nodes in the chest
+To help determine the stage (extent) of Hodgkin lymphoma
+To help show if treatment is working
+To look for possible signs of cancer coming back after treatment
+
+These are the imaging tests most commonly used:
+Chest x-ray
+HL often enlarges lymph nodes in the chest. This can often be seen on a chest x-ray.
+Computed tomography (CT) scan
+A CT scan combines many x-rays to make detailed cross-sectional images of your body. This scan can help tell if any lymph nodes or organs in your body are enlarged. CT scans are useful for looking for HL in the neck, chest, abdomen (belly), and pelvis.
+CT-guided needle biopsy: A CT scan can also be used to guide a biopsy needle into a suspicious area. For this procedure, a person lies on the CT scanning table while the doctor moves a biopsy needle through the skin and toward the area. CT scans are repeated until the needle is in the right place. A biopsy sample is then removed and sent to the lab to be looked at under a microscope.
+Magnetic resonance imaging (MRI)
+Like CT scans, MRIs show detailed images of soft tissues in the body. But MRIs use radio waves and strong magnets instead of x-rays. This test is rarely used in HL, but if the doctor is concerned about spread to the spinal cord or brain, MRI is very useful for looking at these areas. 
+Positron emission tomography (PET) scan
+For a PET scan, a slightly radioactive form of sugar is put into your blood. Over time, it collects in very active cells, like cancer cells. A special camera is then used to create a picture of the parts of the body where the radioactivity collected. The picture is not detailed like a CT or MRI scan, but it can give helpful information about your whole body.
+PET scans can be used for many reasons in a person with HL:
+
+They can help show if an enlarged lymph node contains HL.
+They can help find small spots in the body that might be lymphoma, even if the area looks normal on a CT scan.
+They can help tell if the lymphoma is responding to treatment. Some doctors will repeat the PET scan after a few courses of chemotherapy. If it's working, the lymph nodes will no longer take up the radioactive sugar.
+They can be used after treatment to help decide if an enlarged lymph node still has cancer or if it's just scar tissue.
+
+PET/CT scan: Some machines can do both a PET scan and a CT scan at the same time. This lets the doctor compare areas of higher radioactivity on the PET scan with the more detailed pictures from the CT scan. PET/CT scans often can help pinpoint the areas of lymphoma better than a CT scan alone.
+Bone scan
+A bone scan isn't usually done unless a person is having bone pain or has lab test results that suggest the lymphoma might have reached the bones.
+For this test, a radioactive substance is injected into a vein. It travels to damaged areas of bone, and a special camera can then detect the radioactivity. HL sometimes causes bone damage, which may be picked up on a bone scan. But bone scans can’t show the difference between cancers and non-cancer problems, so more tests might be needed.
+Other tests
+Blood tests
+Blood tests aren’t used to diagnose HL, but they can help your doctor get a sense of how advanced it is and how well you might tolerate certain treatments.
+The complete blood count (CBC) is a test that measures the levels of different cells in the blood. People with HL can sometimes have abnormal blood counts. For example, if the lymphoma invades the bone marrow (where new blood cells are made) a person might have anemia (not enough red blood cells). A high white blood cell count is another possible sign of HL, although it can also be caused by infection.
+A test called an erythrocyte sedimentation rate (ESR) can help measure how much inflammation is in the body. It can be elevated in some people with HL.
+Blood tests might also be done to check liver and kidney function and to look for signs that the cancer might have reached the bones. Some women may have a pregnancy test.
+Your doctor might also suggest other blood tests to look for signs of certain infections:
+
+HIV test: This may be done if you have abnormal symptoms that might be related to HIV infection.
+Hepatitis B and C virus test: Certain chemo drugs could cause problems if you have these infections. 
+
+Tests of heart and lung function
+These tests might be done if certain chemo drugs that could affect the heart or the lungs are going to be used.
+
+An echocardiogram (an ultrasound of the heart) or a MUGA scan can be used to check heart function.
+Lung (pulmonary) function tests (PFTs) can be used to see how well the lungs are working.After someone is diagnosed with Hodgkin lymphoma (HL), doctors will try to figure out if it has spread, and if so, how far. This process is called staging. The stage of a cancer describes how much cancer is in the body. It helps determine how serious the cancer is and how best to treat it. Doctors also use a cancer's stage when talking about survival statistics.
+HL generally starts in the lymph nodes. If it spreads, it's usually to another set of nearby lymph nodes. It can invade (grow into) nearby organs as well. Rarely, HL will start in an organ other than lymph nodes, such as a lung.
+The stage is based on:
+
+Your medical history
+If you have certain symptoms (called B symptoms)
+The physical exam
+Biopsies
+Imaging tests, which typically include a chest x-ray, CT scan of the chest/abdomen/pelvis, and PET scan
+Bone marrow aspiration and biopsy (sometimes, but not always done)
+
+These exams, tests, and biopsies are discussed in Tests for Hodgkin Lymphoma.
+In general, the results of imaging tests such as PET and CT scans are the most important when determining the stage of the lymphoma.
+Lugano classification
+A staging system is a way for the cancer care team to sum up the extent of a cancer’s spread. The staging system used for Hodgkin lymphoma is the Lugano classification, which is based on the older Ann Arbor system. It has 4 stages, labeled I, II, III, and IV.
+For limited stage (I or II) HL that affects an organ outside of the lymph system, the letter E is added to the stage (for example, stage IE or IIE).
+Stage I: Either of the following means that the HL is stage I:
+
+HL is found in only 1 lymph node area or lymphoid organ such as the thymus (I).
+The cancer is found only in 1 part of 1 organ outside the lymph system (IE).
+
+Stage II: Either of the following means that the HL is stage II:
+
+HL is found in 2 or more lymph node areas on the same side of (above or below) the diaphragm, which is the thin muscle beneath the lungs that separates the chest and abdomen (II).
+The cancer extends locally from one lymph node area into a nearby organ (IIE).
+
+Stage III: Either of the following means that the HL is stage III:
+
+HL is found in lymph node areas on both sides of (above and below) the diaphragm (III).
+HL is in lymph nodes above the diaphragm and in the spleen.
+
+Stage IV: HL has spread widely into at least one organ outside of the lymph system, such as the liver, bone marrow, or lungs.
+Other modifiers may also be used to describe the Hodgkin lymphoma stage:
+Bulky disease
+This term is used to describe tumors in the chest that are at least ⅓ as wide as the chest, or tumors in other areas that are at least 10 centimeters (about 4 inches) across. It's usually labeled by adding the letter X to the stage. It's especially important for stage II lymphomas, because bulky disease may require more intensive treatment.
+A vs. B
+Each stage may also be assigned a letter (A or B). B is added (stage IIIB, for example) if a person has any of these B symptoms:
+
+Loss of more than 10% of body weight over the previous 6 months (without dieting)
+Unexplained fever of at least 100.4°F (38°C)
+Drenching night sweats
+
+If a person has any B symptoms, it usually means the lymphoma is more advanced, and more intensive treatment is often recommended. If no B symptoms are present, the letter A is added to the stage.
+Resistant or recurrent Hodgkin lymphoma
+Resistant or recurrent HL is not part of the formal staging system, but doctors or nurses might use these terms to describe what's going on with the lymphoma in some cases.
+
+The terms resistant or progressive disease are used when the lymphoma does not go away or progresses (grows) while you're being treated.
+Recurrent or relapsed disease means that HL went away with treatment, but it has now come back. If the lymphoma returns, it might be in the same place where it started or in another part of the body. This can happen shortly after treatment or years later.Survival rates can give you an idea of what percentage of people with the same type and stage of cancer are still alive a certain amount of time (usually 5 years) after they were diagnosed. They can’t tell you how long you will live, but they may help give you a better understanding about how likely it is that your treatment will be successful.
+Keep in mind that survival rates are estimates and are often based on previous outcomes of large numbers of people who had a specific cancer, but they can’t predict what will happen in any particular person’s case. These statistics can be confusing and may lead you to have more questions. Ask your doctor, who is familiar with your situation, how these numbers may apply to you.  
+What is a 5-year relative survival rate?
+A relative survival rate compares people with the same stage of Hodgkin lymphoma to people in the overall population. For example, if the 5-year survival rate for a specific stage of Hodgkin lymphoma is 80%, it means that people who have that cancer are, on average, about 80% as likely as people who don't have that cancer to live 5 years after being diagnosed.
+Where do these numbers come from?
+The American Cancer Society relies on information from the Surveillance, Epidemiology, and End Results (SEER) database, maintained by the National Cancer Institute (NCI), to provide survival statistics for different types of cancer.
+The SEER database tracks 5-year relative survival rates for Hodgkin lymphoma in the United States, based on how far the cancer has spread. The SEER database, however, does not group cancers by the Lugano classification (stage 1, stage 2, stage 3, etc.). Instead, it groups cancers into localized, regional, and distant stages:
+
+Localized: The cancer is limited to one lymph node area, one lymphoid organ, or one organ outside the lymph system.
+Regional: The cancer reaches from one lymph node area to a nearby organ, is found in two or more lymph node areas on the same side of (above or below) the diaphragm, or is considered bulky disease.
+Distant: The cancer has spread to distant parts of the body, such as the lungs, liver, or bone marrow, or to lymph node areas above and below the diaphragm.
+
+5-year relative survival rates for Hodgkin lymphoma
+These numbers are based on people diagnosed with Hodgkin lymphoma between 2012 and 2018.
+
+
+
+SEER Stage
+5-Year Relative Survival Rate
+
+
+Localized
+93%
+
+
+Regional
+95%
+
+
+Distant
+83%
+
+
+All SEER stages combined
+89%
+
+
+
+Understanding the numbers
+
+These numbers apply only to the stage of the cancer when it is first diagnosed. They do not apply later on if the cancer grows, spreads, or comes back after treatment.
+These numbers don’t take everything into account. Survival rates are grouped based on how far the cancer has spread, but your age and overall health, how well the lymphoma responds to treatment, and other prognostic factors (described below) can also affect your outlook.
+People now being diagnosed with Hodgkin lymphoma may have a better outlook than these numbers show. Treatments have improved over time, and these numbers are based on people who were diagnosed and treated at least 5 years earlier.
+
+Other prognostic factors
+Along with the stage of the Hodgkin lymphoma, other factors can affect a person’s prognosis (outlook). For example, having some of these factors means the lymphoma is likely to be more serious:
+
+Having B symptoms or bulky disease
+Being older than 45
+Being male
+Having a high white blood cell count (above 15,000)
+Having a low red blood cell count (hemoglobin level below 10.5)
+Having a low blood lymphocyte count (below 600)
+Having a low blood albumin level (below 4)
+Having a high erythrocyte sedimentation rate, or ESR (over 30 in someone with B symptoms, or over 50 for someone without B symptoms)
+
+Some of these factors are used to help divide stage I or II Hodgkin lymphoma into favorable and unfavorable groups, which can affect how intense the treatment needs to be. To learn more, see Treating Classic Hodgkin Lymphoma by Stage.It’s important to have honest, open discussions with your cancer care team. You should ask any question, no matter how minor it might seem. Here are some questions you might want to ask:
+When you’re told you have Hodgkin lymphoma
+
+What type of Hodgkin lymphoma do I have?
+What is the stage (extent) of the lymphoma? What does this mean?
+Will I need any other tests before we can decide on treatment?
+Do I need to see any other doctors?
+If I’m concerned about the costs and insurance coverage for my diagnosis and treatment, who can help me?
+
+When deciding on a treatment plan
+
+How much experience do you have treating Hodgkin lymphoma?
+What are my treatment choices? Which do you recommend? Why?
+Does one type of treatment lessen the chance of the lymphoma coming back more than another?
+Should I get a second opinion before starting treatment? Can you suggest a doctor or cancer center?
+How soon do I need to start treatment?
+What should I do to be ready for treatment?
+How long will treatment last? What will it be like? Where will it be done?
+What are the short-term side effects from treatment? Can anything be done about them?
+What are the possible long-term side effects?
+Will I still be able to have children after my treatment? Can I do anything about this?
+How might treatment affect my daily activities?
+What are the chances the lymphoma will come back?  What would we do if this happens?
+
+During treatment
+Once treatment starts, you’ll need to know what to expect and what to look for. Not all of these questions may apply to you, but getting answers to the ones that do may be helpful.
+
+How will we know if the treatment is working?
+Is there anything I can do to help manage side effects?
+What symptoms or side effects should I tell you about right away?
+How can I reach you on nights, holidays, or weekends?
+Are there any limits on what I can do?
+Can you suggest a mental health professional I can see if I start to feel overwhelmed, depressed, or distressed?
+
+After treatment
+
+What type of follow-up will I need after treatment?
+What symptoms should I watch for?
+How will we know if the lymphoma has come back? What would my options be if that happens?
+
+Along with these examples, be sure to write down your own questions. For instance, you might need to know more about recovery times so that you can plan your work or school schedule. Or you might want to ask about clinical trials for which you may qualify.
+Keep in mind that doctors aren’t the only ones who can give you information. Other health care professionals, such as nurses and social workers, can answer some of your questions. To find out more about communicating with your health care team, see The Doctor-Patient Relationship.Chemotherapy (chemo) is the use of drugs to kill cancer cells. Chemo is usually injected into a vein under the skin or taken as a pill. Chemo drugs enter the bloodstream and travel throughout the body to reach and destroy cancer cells wherever they may be.
+Chemo is the main treatment for most people with Hodgkin lymphoma (other than some people with nodular lymphocyte-predominant Hodgkin lymphoma, or NLPHL). Sometimes chemo is followed by radiation therapy.
+Chemo is given in cycles that include a period of treatment followed by a rest period to give the body time to recover. In general, each cycle lasts for several weeks.
+Most chemo treatments are given in the doctor’s office, clinic, or hospital outpatient department, but some may require a hospital stay.
+Which chemo drugs are used to treat Hodgkin lymphoma?
+Chemo for classic Hodgkin lymphoma (cHL) combines several drugs because different drugs kill cancer cells in different ways. The combinations used to treat cHL are often referred to by abbreviations.
+ABVD is the most common regimen used in the United States:
+
+Adriamycin (doxorubicin)
+Bleomycin
+Vinblastine
+Dacarbazine (DTIC)
+
+Other common regimens include:
+BEACOPP
+
+Bleomycin
+Etoposide (VP-16)
+Adriamycin (doxorubicin)
+Cyclophosphamide
+Oncovin (vincristine)
+Procarbazine
+Prednisone
+
+Stanford V
+
+Doxorubicin (Adriamycin)
+Mechlorethamine (nitrogen mustard)
+Vincristine
+Vinblastine
+Bleomycin
+Etoposide
+Prednisone
+
+Radiation is given after chemo in the Stanford V regimen. It's sometimes given after the ABVD or BEACOPP regimens, too.
+Other chemo combinations can also be used for HL. Most use some of the same drugs listed above, but they might include different combinations and be given on different schedules.
+Another drug that can be considered as chemo is brentuximab vedotin (Adcetris). This is an antibody-drug conjugate (ADC), which is a monoclonal antibody attached to a chemo drug. For more on this drug, see Immunotherapy for Hodgkin Lymphoma.
+Possible side effects of chemotherapy
+Chemo drugs can cause side effects . These depend on the type and dose of drugs given and how long treatment lasts. Common short-term side effects include:
+
+Hair loss
+Mouth sores
+Loss of appetite
+Nausea and vomiting
+Diarrhea
+Increased chance of infection (from having too few white blood cells)
+Easy bruising or bleeding (from having too few blood platelets)
+Fatigue (from having too few red blood cells)
+
+These side effects are usually short-lived and go away over time after treatment ends. If serious side effects occur, chemo may have to be delayed or the doses reduced.
+Be sure to tell your doctor or nurse if you do have side effects. There are often ways to help with them. For instance, drugs are often used to help prevent nausea and vomiting.
+Late or long-term side effects: Some chemo drugs can have long-lasting side effects. Some of these might not occur until months or even years after treatment has ended. For example:
+
+Doxorubicin can damage the heart, so your doctor may order tests to check your heart function before and during treatment with this drug.
+Bleomycin can damage the lungs, so some doctors order tests of lung function (called pulmonary function tests) before starting patients on this drug.
+Some chemo drugs can increase the risk of getting a second type of cancer later in life (such as leukemia), especially in patients who also get radiation therapy.
+In children and young adults, some chemo drugs can also affect body growth and fertility (ability to have children) later on.
+
+Long-term effects are discussed in more detail in Living as a Hodgkin Lymphoma Survivor.
+Before starting chemo, ask your doctor to explain possible side effects and your chances of having them. Also ask what you can do to help prevent them.Radiation therapy uses high-energy rays (or particles) to destroy cancer cells. Radiation therapy is part of the treatment for most people with Hodgkin lymphoma (HL). It's especially useful when HL is only in one part of the body.
+For classic Hodgkin lymphoma, radiation is often given after chemotherapy, especially when there's a large or bulky tumor mass (usually in the chest). Chemotherapy or radiation alone would probably not cure the lymphoma, but both treatments together usually do.
+Radiation therapy can also be used by itself to treat some cases of nodular lymphocyte-predominant Hodgkin lymphoma (NHLPL).
+Radiation therapy is often very good at killing HL cells. But over the years as it has become clear that chemotherapy also works very well. Today, doctors tend to use less radiation and lower doses of radiation because of its possible long-lasting side effects. (See below.)
+How is radiation therapy given?
+To treat HL, carefully focused beams of radiation are delivered from a machine. This is called external beam radiation.
+Before treatments start, the radiation team takes careful measurements to determine the angles for aiming the radiation beams and the dose needed. This planning session, called simulation, usually includes getting imaging tests such as CT or PET scans. Casts, body molds, and head rests may be made to hold you in the same position for each treatment. Blocks or shields may be made to protect other parts of your body. You may be asked to hold your breath for a short time. The goal is to focus the radiation on the cancer to limit the affect on healthy tissues.
+Most often, radiation treatments are given 5 days a week for several weeks. The treatment is a lot like getting an x-ray, but the radiation is stronger. Each treatment lasts only a few minutes, though the setup time – getting you or your child into place – usually takes longer. The treatment is painless, but some younger children might still need to be sedated to make sure they don’t move during the treatment. Modern imaging tests can pinpoint the sites of HL very precisely, which helps doctors aim the radiation only at the lymphoma while sparing nearby normal tissues. This can help limit side effects.
+
+                     Remember: Lymph nodes are scattered all over your body and Hodgkin lymphoma can start in any of them. This means the cancer is often near key organs , like the lungs, heart, kidneys, and spinal cord, as well as muscles. blood vessels, and nerves. It's important to focus radiation on the lymph nodes to limit damage to nearby healthy tissues.
+                    
+ 
+Involved site radiation therapy (ISRT)
+Many doctors prefer this newer approach to radiation therapy when treating HL. In ISRT, the radiation is aimed only at the lymph nodes that originally contained lymphoma, as well as any nearby areas the cancer extended into. This shrinks the size of the treatment area (or field) and helps spare nearby normal tissues and organs from getting radiation.
+Involved field radiation therapy (IFRT)
+This was the preferred form of radiation therapy for HL in the past, but it's now largely being replaced by ISRT. In this technique, only the lymph node regions that have HL are treated, but this includes larger treatment areas than ISRT does. (This can increase the risk of radiation reaching nearby organs.) 
+Extended field radiation
+This is rarely done today, but radiation used to be given to the major lymph node areas that contained lymphoma, as well as the surrounding normal lymph node areas. This was done just in case the lymphoma had spread, even though the doctors could not actually detect it in these areas. This is called extended field radiation.
+
+If the lymphoma was in the upper body, radiation was given to the mantle field, which included lymph node areas in the neck, chest, and under the arms. Sometimes this was extended to also include lymph nodes in the upper abdomen (belly).
+Inverted Y field radiation therapy included the lymph nodes in the upper abdomen, the spleen, and the lymph nodes in the pelvis.
+When inverted Y field radiation was given together with mantle field radiation, the combination was called total nodal irradiation.
+
+Because nearly all patients with HL are now treated with chemotherapy, extended field radiation is seldom used any more.
+Total body irradiation
+People who are getting a stem cell transplant may get radiation to the whole body along with high-dose chemotherapy, to try to kill lymphoma cells throughout the body. For more information on this, see High-dose Chemotherapy and Stem Cell Transplant.
+Possible side effects of radiation therapy
+The side effects of radiation therapy depend on where the radiation is aimed.
+Some possible short-term effects include:
+
+Skin changes in areas getting radiation, ranging from redness to blistering and peeling 
+Feeling tired
+Dry mouth
+Nausea
+Diarrhea
+
+Radiation given to several areas, especially after chemotherapy, can lower blood cell counts and increase the risk of infections.
+Radiation therapy can also have long-lasting effects, including:
+
+An increased risk of another cancer  in the part of the body that was exposed to radiation.
+Damage to the thyroid gland (from radiation to the chest or neck), which can affect its ability to make thyroid hormone. This can lead to fatigue and weight gain.
+An increased risk of heart disease (such as heart attacks) and lung problems from radiation to the chest
+An increased risk of stroke years later after radiation to the neck
+Slowed bone growth in children. Depending on where the radiation is given, this could cause deformities or cause a child to not grow to their full height. Radiation to the lower part of the body in children and young adults could also affect fertility later in life.
+
+To reduce the risk of side effects, doctors carefully calculate the exact dose of radiation needed and aim the radiation beams as accurately as they can. Shields might also be placed over nearby parts of the body to protect them from the radiation. To help preserve fertility in girls and young women, the ovaries might be moved out of the way with minor surgery before radiation is given.
+For more information, see Late and Long-term Side Effects of Hodgkin Lymphoma Treatment. If you or your child is getting radiation therapy, be sure to talk to your doctor about the possible long-term side effects. Hodgkin lymphoma can be cured and long-term side effects are a very real concern.Immunotherapy is the use of medicines to help someone’s immune system better recognize and destroy cancer cells. Immunotherapy can be used to treat some people with Hodgkin lymphoma (HL).
+Monoclonal antibodies
+Antibodies are proteins made by your immune system to help fight infections. Man-made versions, called monoclonal antibodies (mAbs), can be designed to attack a specific target, such as a substance on the surface of lymphocytes (the cells in which HL starts).
+Brentuximab vedotin (Adcetris)
+Classic Hodgkin lymphoma (cHL) cells usually have the CD30 molecule on their surface. Brentuximab vedotin is an anti-CD30 antibody attached to a chemo drug. The antibody acts like a homing signal, bringing the chemo drug to the lymphoma cells with CD30 on them. The drug enters the cells and kills them when they try to divide into new cells.
+This drug can be used:
+
+As part of the first treatment in children 2 years of age or older with high risk cHL, along with chemotherapy.
+As part of the first treatment for adults with stage III or IV cHL, along with chemotherapy
+In adults with cHL that has come back after other treatments, including after a stem cell transplant (or in people who can't have a transplant for some reason). It can be given alone or along with chemo.
+After a stem cell transplant for adults at high risk of the lymphoma coming back after treatment. In this situation, it is usually given by itself for a year.
+
+Brentuximab vedotin is infused into a vein (IV), usually every 2 or 3 weeks.
+Common side effects can include:
+
+Nerve damage (neuropathy)
+Low blood cell counts
+Fatigue
+Fever
+Nausea and vomiting
+Infections
+Diarrhea
+
+Rarely, serious side effects occur during IV infusions, such as trouble breathing and low blood pressure
+Rituximab (Rituxan)
+Rituximab may be used to treat nodular lymphocyte-predominant Hodgkin lymphoma (NLPHL). This mAb attaches to a substance called CD20 on some types of lymphoma cells. It's often given along with chemotherapy and/or radiation therapy.
+Rituximab is given as an IV infusion in the doctor’s office or clinic. When it's used by itself, it's usually given once a week for 4 weeks, which may then be repeated several months later. When it's given along with chemotherapy, it's most often given on the first day of each chemo cycle.
+Common side effects are usually mild but can include:
+
+Chills
+Fever
+Nausea
+Rashes
+Fatigue
+Headaches
+
+Rarely, more severe side effects occur during infusions, such as trouble breathing and low blood pressure. You will be given medicines before each treatment to help keep this from happening. But even if these symptoms do occur during the first infusion, it's unusual for them to happen again with later doses.
+Rituximab can cause prior hepatitis B infections to become active again, which sometimes leads to severe liver problems or even death. Your doctor will probably check your blood for signs of hepatitis before starting this drug.
+Rituximab can also increase your risk of infection for several months after the drug is stopped.
+Immune checkpoint inhibitors
+An important part of the immune system is its ability to keep itself from attacking normal cells in the body. To do this, it uses “checkpoint” proteins, which act like switches on immune cells that need to be turned on (or off) to start an immune response. Cancer cells sometimes use these checkpoints to avoid being attacked by the immune system.
+Nivolumab (Opdivo) and pembrolizumab (Keytruda) are checkpoint inhibitors that can be used in people with classic Hodgkin lymphoma whose cancer has grown during treatment (called refractory cancer) or has returned after other treatments have been tried (called recurrent or relapsed cancer).
+These drugs target PD-1, a protein on certain immune system cells (called T cells) that normally helps keep these cells from attacking other cells in the body. By blocking PD-1, these drugs boost the immune response against cancer cells. This can shrink some tumors or slow their growth.
+These drugs are given as an intravenous (IV) infusion, typically every 2, 3, or 6 weeks.
+Possible side effects
+Side effects of these drugs can include:
+
+Fatigue
+Fever
+Cough
+Nausea
+Itching
+Skin rash
+Loss of appetite
+Joint pain
+Constipation
+Diarrhea
+
+Other, more serious side effects occur less often.
+Infusion reactions: Some people might have an infusion reaction while getting one of these drugs. This is like an allergic reaction, and can include fever, chills, flushing of the face, rash, itchy skin, feeling dizzy, wheezing, and trouble breathing. It’s important to tell your doctor or nurse right away if you have any of these symptoms while getting one of these drugs.
+Autoimmune reactions: These drugs work by basically removing one of the safeguards on the body’s immune system. Sometimes the immune system starts attacking other parts of the body, which can cause serious or even life-threatening problems in the lungs, intestines, liver, hormone-making glands, kidneys, or other organs.
+If you notice any problems, you should tell your health care team about it right away. If serious side effects do occur, treatment may need to be stopped and you may get high doses of steroids to suppress your immune system.Stem cell transplants (SCTs) are sometimes used for hard-to-treat Hodgkin lymphoma , such as disease that doesn’t go away completely after chemotherapy (chemo) and/or radiation or lymphoma that comes back after treatment.
+The doses of chemo drugs given to patients normally are limited by the side effects these drugs cause. Higher doses can’t be used, even if they might kill more cancer cells, because they would severely damage the bone marrow, where new blood cells are made.
+A stem cell transplant lets doctors give higher doses of chemo (sometimes along with radiation therapy). This is because after getting high-dose chemo, the patient receives a transplant of blood-forming stem cells to rebuild the bone marrow.
+The blood-forming stem cells used for a transplant can come either from the blood or from the bone marrow. Today, most transplants are done with cells that are taken out of the blood and are called peripheral stem cell transplants.
+Types of transplants
+There are 2 main types of stem cell transplants. They use different sources of blood-forming stem cells.
+
+In an autologous stem cell transplant, a patient’s own blood stem cells are collected several times in the weeks before treatment. The cells are frozen and stored while the person gets treatment (high-dose chemo and/or radiation) and then are given back into the patient’s blood by an IV. This is the most common type of transplant for Hodgkin lymphoma.
+In an allogeneic stem cell transplant, the blood stem cells come from someone else. Usually this is a brother or sister, but the source could be an unrelated donor or umbilical cord blood. The donor’s tissue type (also known as the HLA type) needs to match the patient’s tissue type as closely as possible to help prevent major problems with the transplant. Usually, in treating Hodgkin lymphoma, an allogeneic transplant is used only if an autologous transplant has already been tried without success.
+
+A stem cell transplant is a complex treatment that can cause life-threatening side effects. If the doctors think a person might benefit from a transplant, it should be done at a cancer center where the staff has experience with the procedure and with managing the recovery phase.This section sums up the treatment options for Hodgkin lymphoma (HL) in adults, based on the stage of cancer. Treatment of the disease in children is slightly different from the treatment for adults. Some of these differences are discussed in Treating Hodgkin Lymphoma in Children. For teens with HL who are fully grown, the treatment is usually the same as that for an adult.
+Treatment options depend on many factors, including:
+
+The type of HL
+The stage (extent) of the HL
+Whether or not the disease is bulky (large)
+Whether the disease is causing B symptoms
+Results of blood tests and other lab tests
+A person’s age
+A person’s overall health
+Personal preferences
+
+Based on these factors, a person’s treatment might be a little different from the general outline below.
+Most experts agree that treatment in a clinical trial should be considered for HL that is resistant to treatment or comes back (relapses) after treatment.
+Stages IA and IIA, favorable
+This group includes HL that is only on one side of the diaphragm (above or below) and that doesn’t have any unfavorable factors. For example:
+
+It's not bulky
+HL is in less than 3 different lymph node areas
+It doesn’t cause any of the B symptoms
+The ESR (erythrocyte sedimentation rate) is not elevated
+
+Treatment for many patients is chemotherapy (usually 2 to 4 cycles of the ABVD regimen), followed by radiation to the initial site of the disease (involved site radiation therapy, or ISRT). Another option is chemotherapy alone (usually for 3 to 6 cycles) in selected patients.
+Doctors often order a PET/CT scan after a few courses of chemo to see how well the treatment is working and to determine how much more treatment (if any) is needed.
+If a person can’t have chemotherapy because of other health issues, radiation therapy alone may be an option.
+For those who don’t respond to treatment, chemo using different drugs or high-dose chemo (and possibly radiation) followed by a stem cell transplant may be recommended. Treatment with an immunotherapy drug such as brentuximab vedotin (Adcetris), nivolumab (Opdivo), or pembrolizumab (Keytruda) might be another option.
+Stages I and II, unfavorable
+This group includes HL that is only on one side of the diaphragm (above or below), but has 1 or more of these risk factors:
+
+It's bulky (the tumor is large)
+HL is in 3 or more different areas of lymph nodes
+There's cancer outside the lymph nodes (called extranodal involvement)
+It's causing B symptoms
+The ESR (erythrocyte sedimentation rate) is high
+
+Treatment is generally more intense than that for favorable disease. It typically starts with chemotherapy (usually with the ABVD regimen for 4 to 6 cycles or other regimens such as 3 cycles of Stanford V).
+PET/CT scans are often done after several cycles of chemo to see if (and how much) more treatment is needed. This is often followed by more, and maybe different, chemo. Radiation therapy (involved field radiation therapy, or IFRT) is usually given to the sites of the tumor at this point, especially if it was bulky disease.
+For those who don’t respond to treatment, chemo using different drugs or high-dose chemo (and possibly radiation) followed by a stem cell transplant may be recommended. Treatment with an immunotherapy drug such as brentuximab vedotin (Adcetris), nivolumab (Opdivo), or pembrolizumab (Keytruda) might be another option.
+Stages III and IV
+This includes HL that is both above and below the diaphragm and/or has spread widely through one or more organs outside the lymph system.
+Doctors generally treat these stages with chemotherapy using more intense regimens than that used for earlier stages. The ABVD regimen (for at least 6 cycles) is often used, but some doctors favor more intense treatment with the Stanford V regimen for 3 cycles, or up to 8 cycles of the BEACOPP regimen if there are several unfavorable prognostic factors. Another option for some people might be chemo plus the drug brentuximab vedotin (Adcetris).
+PET/CT scans might be used during or after chemo to assess how much more treatment you need. Depending on the results of the scans, more chemo may be given. Radiation therapy may be given after chemo, especially if there were any large tumor areas.
+For those whose HL doesn’t respond to treatment, chemo using different drugs or high-dose chemo (and possibly radiation) followed by a stem cell transplant may be recommended. Treatment with an immunotherapy drug such as brentuximab vedotin (Adcetris), nivolumab (Opdivo), or pembrolizumab (Keytruda) might be another option.
+Resistant or refractory Hodgkin lymphoma
+Treatment for HL should remove all traces of the lymphoma. After treatment, the doctor will do tests such as PET/CT scans to look for any signs of HL. If HL is still there, most experts think that more of the same treatment is unlikely to cure it. 
+Sometimes, radiation therapy to an area of disease that remains after chemotherapy might be curative. Using a different combination of chemo drugs is another option. If radiation alone was the initial treatment, using chemo (with or without more radiation) might also be curative.
+If HL is still there after these treatments, most doctors would recommend high-dose chemo (and possibly radiation) followed by an autologous stem cell transplant, if it can be done. If cancer still remains after this, an allogeneic stem cell transplant may be an option.
+Another option, either instead of or after a stem cell transplant, may be treatment with an immunotherapy drug, such as brentuximab vedotin (Adcetris), nivolumab (Opdivo), or pembrolizumab (Keytruda).
+Recurrent or relapsed Hodgkin lymphoma
+If HL comes back (recurs) after treatment, further treatment depends on where the lymphoma comes back, on how long it has been since the initial treatment, and on what the initial treatment was. 
+If the initial treatment was radiation therapy alone, chemotherapy is usually given for recurrent disease.
+If chemotherapy without radiation therapy was used first, and the cancer comes back only in the lymph nodes, radiation to the lymph nodes can be done, with or without more chemo. Chemo with different drugs may be another option. 
+Radiation usually cannot be repeated in the same area. If, for example, HL in the chest was treated with radiation and it comes back in the chest, it usually can't be treated with more radiation to the chest. This holds true no matter how long ago the radiation was first given.
+If the lymphoma returns after many years, using the same or different chemo drugs (possibly along with radiation) might still cure it. On the other hand, HL that recurs soon after treatment may need more intensive treatment. For example, if the HL has returned within a few months of the original treatment, high-dose chemo (and possibly radiation) followed by an autologous stem cell transplant may be recommended.
+If the HL still remains after an autologous transplant, an allogeneic stem cell transplant may be an option. Another option, either instead of or after a stem cell transplant, may be treatment with an immunotherapy drug, such as brentuximab vedotin (Adcetris), nivolumab (Opdivo), or pembrolizumab (Keytruda).Nodular lymphocyte-predominant Hodgkin lymphoma (NLPHL) is a rare type of Hodgkin lymphoma (HL) that tends to grow more slowly than classic HL (cHL). It's often treated differently.
+For people with early-stage NLPHL without any B symptoms, involved site radiation therapy (ISRT) is often all that's needed. Another option for some people might be to have the lymphoma watched closely at first, and then start treatment when symptoms appear.
+If early-stage NLPHL is bulky (large)or is causing B symptoms, the main treatment is usually chemotherapy followed by radiation therapy (ISRT). Many doctors use the ABVD chemo regimen, but some doctors prefer others. The monoclonal antibody rituximab (Rituxan®) might be given along with the chemotherapy. See immunotherapy for Hodgkin lymphoma for more on rituximab.
+If the NLPHL is more advanced (stage III or IV), chemotherapy, with or without radiation therapy (ISRT) and/or rituximab, is likely to be recommended. Some patients without B symptoms might be given rituximab alone.
+Chemotherapy drugs used for NLPHL
+Chemo for NLPHL is not always the same as that used for cHL, though it also combines several drugs because different drugs kill cancer cells in different ways. The combinations used to treat NLPHL are often referred to by abbreviations. Here are the most common combos used in the US. Rituximab can be added to any of them.
+ABVD (also used for cHL)
+
+Adriamycin® (doxorubicin)
+Bleomycin
+Vinblastine
+Dacarbazine (DTIC)
+
+CHOP
+
+Cyclophosphamide (Cytoxan®)
+Doxorubicin
+Vincristine (Oncovin®)
+Prednisone
+
+CVP
+
+Cyclophosphamide
+Vinblastine
+Prednisone
+
+See Chemotherapy for Hodgkin Lymphoma to learn more. For more general information, see Chemotherapy .Treatment of Hodgkin lymphoma (HL) in children is slightly different from the treatment for adults. As for adults, the main goal in treating HL in children is to cure the lymphoma without causing long-term problems. Doctors adjust the treatment based on the child’s age, the extent of the lymphoma, how well the lymphoma is responding to treatment, and other factors.
+If the child is past puberty and muscles and bones are fully developed, treatment is usually the same as that given to adults. But if the child has not reached his or her full body size, chemotherapy (chemo) will likely be favored over radiation therapy. This is because radiation can affect bone and muscle growth and keep children from reaching their normal size.
+Children’s bodies tend to tolerate chemotherapy better in the short term than adults do. But some side effects are more likely to occur in children. Because some of these side effects could be long-term or might not occur until years later, children who survive cancer need careful attention for the rest of their lives.
+Since the 1960s, most children and teens with cancer have been treated at special centers designed for them. Being treated in these centers offers the advantage of having a team of specialists who are experienced with the differences between adult and childhood cancers, as well as the unique needs of children with cancer and their families. This team usually includes pediatric oncologists, surgeons, radiation oncologists, pathologists, pediatric oncology nurses, and nurse practitioners.
+Childhood cancer centers also have psychologists, social workers, child life specialists, nutritionists, rehabilitation and physical therapists, and educators who can support the entire family.
+Most children with cancer in the United States are treated at a center that's a member of the Children’s Oncology Group (COG). All of these centers are associated with a university or children’s hospital. As we have learned more about treating childhood cancer, it has become even more important that treatment be given by experts in this area.
+In these centers, doctors treating children with HL often use treatment plans that are part of clinical trials. The purpose of these studies is to find the best treatments that cause the fewest side effects.
+Any time a child or teen is diagnosed with cancer, it affects every family member and nearly every aspect of the family’s life. You can read more about coping with these changes in If Your Child Is Diagnosed with Cancer. 
+Treating classic Hodgkin lymphoma (cHL) in children
+When treating children with classic Hodgkin lymphoma (cHL), doctors often combine chemotherapy (chemo) with low doses of radiation. The chemo often includes combinations of many drugs rather than just the usual adult ABVD regimen, especially for lymphomas that have unfavorable features or are more advanced. In some situations, the antibody-drug conjugate brentuximab vedotin (Adcetris) might be included in the chemo regimen as well.
+This approach has had excellent success rates, even for children with more advanced disease.
+Stages IA and IIA, favorable
+Treatment generally starts with chemo alone, used at the lowest dose that's likely to result in a cure. PET scans may be used to see if the treatment is working and/or if there's any lymphoma left in the body. If the HL doesn’t go away completely, radiation therapy or more chemo might be needed.
+Studies have suggested that HL in children can be cured without using radiation. This avoids the long-term problems it can cause. But, if radiation therapy is used, the dose and area treated are kept as small as possible. If radiation is used on the lower part of the body in girls and young women, the ovaries should be protected to help preserve fertility.
+Stages I and II, unfavorable
+Treatment is likely to consist of a more intense chemo regimen, which might include brentuximab vedotin in some cases. Radiation therapy will likely be given as well, but the dose and field of radiation will be kept as small as possible.
+Stages III and IV
+Treatment for these more advanced lymphomas typically begins with more intense chemo, which might include brentuximab vedotin. Radiation therapy might be given to areas with bulky disease (areas that contain a lot of lymphoma).
+Relapsed or refractory cHL
+If the lymphoma comes back or is no longer responding to treatment, different types of chemo regimens might be tried. Other options might include a stem cell transplant or treatment with an immunotherapy drug (sometimes along with chemo).
+Treating nodular lymphocyte-predominant Hodgkin lymphoma in children
+Nodular lymphocyte-predominant Hodgkin lymphoma (NLPHL) is very rare in children. There's no single best treatment, and treatments used are often much like those used to treat cHL and/or those used to treat adult NLPHL.
+There is one exception: In the early stages of NLPHL in children, surgery to remove the affected lymph node may be the only treatment needed. After surgery, these children are watched closely for signs of lymphoma. Chemo can be used if it comes back.If a woman is pregnant and diagnosed with Hodgkin lymphoma (HL), treatment options depend on several factors. The woman and her doctors (including her obstetrician) must think about the extent or stage of the lymphoma, how quickly it's growing, how far along the pregnancy is, and the woman’s own personal preferences.
+If the HL needs to be treated during the pregnancy, it's delayed until after the first trimester, if possible. This is because the risks to the baby are lower after the first 3 months. Treatment is usually chemotherapy using either one or a few drugs (often the ABVD combo), based on each case.
+If HL is diagnosed during the second half of the pregnancy and isn't causing problems, a woman can often wait until the baby is born before starting treatment. This approach is safest for the baby. (Sometimes labor is induced a few weeks early and treatment is started right away.)
+Radiation therapy is not often given during pregnancy because of concerns about the possible long-term effects on the unborn baby. Not all experts agree, but some say that as long as very careful precautions are taken to aim the radiation precisely, limit the doses, and shield the baby, pregnant women with HL in lymph nodes in the neck, underarm area, or inside the chest can get radiation with little or no apparent risk to the baby. If radiation is given, it should be delayed until at least the second trimester, if possible. To date, studies haven't found that delaying radiation treatment is harmful for the mother.
+The need to avoid radiation also limits which imaging tests can be used to help determine the stage (extent) of the lymphoma and see if treatment is working. CT scans, PET scans, and x-rays all use radiation, so they're avoided if at all possible. MRI scans and ultrasound can be used instead.For many people with Hodgkin lymphoma (HL), treatment can cure the lymphoma. Completing treatment can be both stressful and exciting. You may be relieved to finish treatment, but find it hard not to worry about the lymphoma coming back. (When cancer comes back after treatment, it's called a recurrence .) This is a very common concern if you’ve had cancer. 
+For some people, HL may never go away completely. These people may get regular treatments with chemotherapy, radiation therapy, or other therapies to help control it for as long as possible and to help relieve symptoms. Learning to live with HL that doesn't go away can be difficult and very stressful.
+Ask your doctor for a survivorship care plan
+Talk with your doctor about developing a survivorship care plan for you. This plan might include:
+
+A suggested schedule for follow-up exams and tests
+A schedule for other tests you might need in the future, such as early detection (screening) tests for other types of cancer, or tests to look for long-term health effects from the HL or its treatment
+A list of possible late- or long-term side effects from your treatment, including what to watch for and when you should contact your doctor
+Diet and physical activity suggestions
+
+Follow-up after Hodgkin Lymphoma
+Even if you’ve completed treatment, your doctors will still want to watch you closely. It’s very important to go to all your follow-up appointments because HL can sometimes come back even many years after treatment.
+Some treatment side effects might last a long time or might not even show up until years after you have finished treatment (see Late and Long-term Side Effects of Hodgkin Lymphoma Treatment). These doctor visits are a good time to ask questions and talk about any changes or problems you notice or concerns you have.
+ 
+
+                     Many people with Hodgkin lymphoma are cured, but the treatments used can lead to health problems in the future. See your doctor regularly, get the recommended cancer screening tests , and tell your health care team about any changes you notice in how you feel.
+                    
+ 
+Exams and tests
+During follow-up visits, the doctor will ask about symptoms, do physical exams, and may do blood tests or imaging tests such as PET or CT scans . Doctor visits are usually recommended every 3 to 6 months for the first several years after treatment. Over time, the length of time between visits can be increased, but even after 5 years you should see your oncologist at least once a year.
+People whose HL doesn’t go away with treatment will have a follow-up schedule that's based on their specific situation.
+Keeping health insurance and copies of your medical records
+Even after treatment, it’s very important to keep health insurance. Tests and doctor visits cost a lot, and even though no one wants to think of their cancer coming back, this could happen.
+At some point after your treatment, you might find yourself seeing a new doctor who doesn’t know your medical history. It’s important to keep copies of your medical records to give your new doctor the details of your diagnosis and treatment. Learn more in Keeping Copies of Important Medical Records.
+Can I lower my risk of Hodgkin lymphoma progressing or coming back?
+If you have (or have had) Hodgkin lymphoma, you probably want to know if there are things you can do that might lower your risk of the lymphoma coming back, such as exercising, eating a certain type of diet, or taking nutritional supplements. Unfortunately, it’s not yet clear if there are things you can do that will help.
+Adopting healthy behaviors such as not smoking, eating well, getting regular physical activity, and staying at a healthy weight might help, but no one knows for sure. However, we do know that these types of changes can have positive effects on your health that can extend beyond your risk of HL or other cancers.
+About dietary supplements
+So far, no dietary supplements (including vitamins, minerals, and herbal products) have been shown to clearly help lower the risk of HL progressing or coming back. This doesn’t mean that no supplements will help, but it’s important to know that none have been proven to do so.
+Dietary supplements are not regulated like medicines in the United States – they don't have to be proven effective (or even safe) before being sold, although there are limits on what they’re allowed to claim they can do. If you’re thinking about taking any type of nutritional supplement, talk to your health care team. They can help you decide which ones you can use safely while avoiding those that might be harmful.
+If Hodgkin lymphoma comes back
+If Hodgkin lymphoma does come back (recurs) at some point, your treatment options will depend on where the lymphoma is, what treatments you’ve had before, how long it’s been since treatment, and your current health and preferences. For more on how recurrent HL is treated, see Treating Classic Hodgkin Lymphoma, by Stage.
+For more general information, see Understanding Recurrence.
+Could I get a second cancer after treatment?
+People who’ve had Hodgkin lymphoma can still get other cancers. In fact, HL survivors are at higher risk for getting some other types of cancer. Learn more in Second Cancers After Hodgkin Lymphoma.
+Getting emotional support
+Some amount of feeling depressed, anxious, or worried is normal when lymphoma is a part of your life. Some people are affected more than others. But everyone can benefit from help and support from other people, whether friends and family, religious groups, support groups, professional counselors, or others. Learn more in Life After Cancer.Each type of treatment for Hodgkin lymphoma (HL) has side effects that could last for months or longer. And there are some that might not show up until long after treatment has ended. Some side effects, like loss of fertility (ability to have children), heart damage, and low thyroid hormones, can be permanent.
+Because so many people are now living for a long time after their treatment, watching for these late and long-lasting side effects is very important. Be sure to talk to your treatment team about what these possible effects might be so you know what to watch for and report to the doctor.
+Second cancers
+One uncommon but very serious side effect of HL treatment is developing a second type of cancer later on. People who've had HL have a higher risk for many types of cancer. See Second Cancers After Hodgkin Lymphoma for more on this.
+Fertility issues
+A possible long-term effect of chemotherapy and radiation therapy , especially in younger patients, is reduced or lost fertility. For example, some chemo drugs can affect a male’s ability to make sperm, which might be short-term or permanent. If the patient is old enough and is going to get chemo drugs that can affect fertility, sperm banking should be considered before chemo starts.
+Likewise, women may stop having menstrual periods with chemotherapy. This may or may go back to normal; some women go into early menopause after treatment. Radiation to the lower abdomen (belly) can cause infertility unless the ovaries are surgically moved outside the radiation field beforehand. Moving the ovaries does not affect cure rates because HL almost never spreads to the ovaries.
+To learn more, see Fertility and Women With Cancer and Fertility and Men With Cancer.
+Infections
+For unknown reasons, the immune systems of people with HL often do not work the way they should. Treatments such as chemo, radiation, or removal of the spleen (splenectomy) can add to this problem. (Splenectomy was once commonly done, but is now rarely needed.) Patients who have their spleen removed should get vaccinated against certain bacteria.
+All people who have had HL should keep up with their flu shots . Getting vaccinations and treating infections right away are very important.
+Thyroid problems
+Radiation to the chest or neck to treat HL can affect the thyroid gland, causing it to make less thyroid hormone. People with this condition, known as hypothyroidism, may need to take thyroid medicine every day for the rest of their lives. Anyone who got radiation to the neck or upper chest should have their thyroid function checked with blood tests at least once a year.
+Heart disease and stroke
+People who have had radiation to the chest have a higher risk of heart disease and heart attacks. Though this has become less of a problem with more modern radiation techniques. Some chemo drugs such as doxorubicin (Adriamycin®) can also cause heart damage. And sometimes the damage isn't seen until more than 10 years after treatment. Your doctor might want to check your heart function for many years after treatment.
+Radiation to the neck increases the chance of stroke because it can damage the blood vessels in the neck that supply the brain. Ultrasound may be used to check the health of the blood vessels in your neck.
+Smoking, high cholesterol, and high blood pressure (hypertension) also increase the risk of heart disease and stroke. It’s important to do what you can to help lower your risk, such as not smoking, staying at a healthy weight, being active, and eating a healthy diet. It’s also important to have regular check-ups with your doctor and get treated if you have high blood pressure.
+Lung damage
+The chemo drug bleomycin can damage the lungs, as can radiation therapy to the chest. This can lead to problems like shortness of breath, which might not show up until years after treatment. Smoking can also seriously damage the lungs, so it’s important that people who have had these treatments do not smoke.
+Special concerns in childhood Hodgkin lymphoma survivors
+Just as the treatment of childhood HL requires a very specialized approach in children, so does follow-up and monitoring for relapse (HL coming back) and late effects of treatment. Careful follow-up after treatment is very important and it should be done for the rest of the child's life. The earlier problems are found, the more likely it is they can be treated effectively.
+Along with physical side effects (including those listed above), survivors of childhood lymphoma may have emotional or psychological issues. They also may have some problems with normal functioning and school work. These can often be addressed with support and encouragement. Doctors and other members of the health care team can also often recommend special support programs and services to help children after treatment.
+To help increase awareness of late effects and improve follow-up care for childhood cancer survivors throughout their lives, the Children’s Oncology Group (COG) has developed long-term follow-up guidelines for survivors of childhood cancers. These guidelines can help you know what to watch for, what types of health screening should be done, and how late effects may be treated.
+It’s very important to discuss possible long-term problems with your child’s health care team, and to make sure there's a plan in place to watch for these problems and treat them, if needed. To learn more, ask your child’s doctors about the COG survivor guidelines. You can also download them for free on the COG website: www.survivorshipguidelines.org. The guidelines are written for health care professionals. Patient versions of some of the guidelines are available (as Health Links) on the site as well, but we urge you to discuss them with a doctor.
+For more about some of the possible long-term effects of treatment, see Children Diagnosed With Cancer: Late Effects of Cancer Treatment.Cancer survivors can be affected by a number of health problems, but often a major concern is facing cancer again. If the same kind of cancer comes back after treatment it's called a recurrence . But some cancer survivors might develop another type of cancer later (usually more than 10 years after treatment). This is called a second cancer.
+People who have had Hodgkin lymphoma (HL) can get any type of second cancer, but research has found they have an increased risk of certain cancers. These tend to be linked to the treatments used for HL. Chemo is linked to blood cancers, and radiation therapy is linked to cancers in the organs in the area that was treated. The cancers include:
+
+Leukemia
+Myelodysplastic syndrome (MDS)
+Non-Hodgkin lymphoma
+Breast cancer (in women)
+Lung cancer
+Thyroid cancer
+Cancer of the lip and tongue
+Salivary gland cancer
+Stomach cancer
+Colon cancer
+Liver cancer
+Pancreas cancer
+Bone cancer
+Soft tissue cancer
+Anal cancer
+Cancer of the uterus
+Cancer of the ureter (the tube that connects the kidney and the bladder)
+Melanoma of the skin
+Kaposi sarcoma
+
+The increased risk of many of these cancers are linked to treatment with radiation. For example:
+
+Women who have had chest radiation (especially before age 30) have been found to have a higher risk of breast cancer.
+Radiation to the neck has been linked to a higher risk of thyroid cancer.
+Radiation to the chest has been linked to a higher risk of lung cancer.
+
+But over time, the use of radiation to treat HL has changed a lot. Radiation is now given in lower doses, and often only to the areas directly affected by the lymphoma. The risks with modern radiation treatment are likely to be lower, still long-term studies are needed to be sure.
+Chemotherapy (chemo), especially with drugs called alkylating agents (such as dacarbazine and cyclophosphamide) has been linked with a higher risk of several types of cancer, including leukemias. Today, alkylating agents are used less often and at much lower doses, so these risks are probably not as high as they were in the past, but, again, long-term follow-up studies are needed to be sure. 
+Follow-up care after Hodgkin lymphoma treatment
+After completing treatment for HL, you should still see your doctor regularly and may have tests to look for signs that the cancer has come back. Let them know about any new symptoms or problems, because they could be caused by the lymphoma coming back, by a new disease, or by second cancer.  
+Women who were treated with radiation therapy to the chest (such as mantle field radiation therapy ) before age 30 have an increased risk of breast cancer. The American Cancer Society recommends yearly breast cancer screening with breast MRIs along with mammograms and clinical breast exams beginning at age 30 for these women. Some experts recommend that screening start 8 to 10 years after treatment or at age 40 (whichever is earlier).
+The Children’s Oncology Group has guidelines for the follow-up of patients treated for cancer as a child, teen, or young adult, including screening for second cancers. These can be found at www.survivorshipguidelines.org.
+Survivors of HL should also follow the American Cancer Society guidelines for the early detection of cancer, such as those for colorectal and lung cancer. Most experts don’t recommend any other testing to look for second cancers unless you have symptoms.
+Can I lower my risk of getting a second cancer?
+There are steps you can take to help lower your risk and stay as healthy as possible. For example, it’s important to stay away from tobacco products. Smoking increases the risk of many cancers, including some of the second cancers seen in people who have had Hodgkin lymphoma.
+To help maintain good health, HL survivors should also:
+
+Get to and stay at a healthy weight
+Keep physically active and limit the time you spend sitting or lying down 
+Follow a healthy eating pattern that includes plenty of fruits, vegetables, and whole grains, and limits or avoids red and processed meats, sugary drinks, and highly processed foods
+Not drink alcohol. If you do drink, have no more than 1 drink per day for women or 2 per day for men
+
+These steps may also lower the risk of other health problems, including heart disease.
+See Second Cancers in Adults for more information.What is Hodgkin lymphoma?
+Hodgkin lymphoma , sometimes called Hodgkin disease, is a cancer that starts in the lymph system in white blood cells called lymphocytes. This cancer can start almost any place in the body.

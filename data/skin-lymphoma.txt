@@ -1,0 +1,705 @@
+Cancer starts when cells begin to grow out of control. Cells in nearly any part of the body can become cancer, and can spread to other areas. To learn more about how cancers start and spread, see What Is Cancer?
+Lymphoma is a cancer that starts in white blood cells called lymphocytes, which are part of the immune system. The main types of lymphomas are:
+
+Hodgkin lymphoma (also known as Hodgkin’s lymphoma, Hodgkin disease, or Hodgkin’s disease)
+Non-Hodgkin lymphoma (also known as non-Hodgkin’s lymphoma, NHL, or sometimes just lymphoma), which includes all skin lymphomas
+
+Lymphocytes are in the lymph nodes (small, bean-sized collections of immune cells throughout the body) and other lymphoid tissues (such as the spleen, bone marrow, and some other organs, including the skin). Lymphomas can start in any of these places.
+When a non-Hodgkin lymphoma starts only in the skin (not in other organs or tissues) it is called a skin lymphoma (or cutaneous lymphoma). A lymphoma that starts in lymph nodes or another part of the body and then spreads to the skin is not a skin lymphoma (because it didn’t start there).
+Hodgkin lymphoma and other types of non-Hodgkin lymphoma are discussed on separate pages.
+The lymph system and lymphoid tissue
+To understand what lymphoma is, it helps to know something about the lymph system (also known as the lymphatic system). The lymph system is part of the immune system, which helps fight infections and some other diseases. The lymph system also helps fluids move around the body.
+Lymphocytes
+The lymph system is made up mainly of lymphocytes, a type of white blood cell. The main types of lymphocytes are:
+
+B lymphocytes (B cells): B cells normally help protect the body against germs (bacteria or viruses) by making proteins called antibodies. The antibodies attach to the germs, marking them for destruction by other parts of the immune system.
+T lymphocytes (T cells): There are several types of T cells, each with a special job. Some T cells destroy germs or abnormal cells in the body. Other T cells help boost or slow the activity of other immune system cells.
+
+Both types of lymphocytes can develop into lymphoma cells. In the skin, T-cell lymphomas are more common than B-cell lymphomas.
+Doctors can tell B cells and T cells apart with lab tests that detect certain proteins on their surfaces and certain features of their DNA. These tests also can recognize several stages of B-cell and T-cell development. This can help doctors figure out which type of lymphoma a person has, which can help determine their treatment options.
+Lymph tissue
+Most lymphocytes are in lymph nodes, which are bean-sized collections of lymphocytes and other immune system cells throughout the body. Lymph nodes are connected to each other by narrow tubes like blood vessels called lymphatics (or lymph vessels), which carry a colorless, watery fluid (lymph) that contains lymphocytes.
+Along with the lymph nodes, lymphocytes can be found in the blood and in lymphoid tissues in many other places in the body, including the:
+
+Spleen
+Bone marrow (the soft, inner parts of certain bones)
+Thymus
+Adenoids and tonsils
+Digestive tract
+Skin
+Other organs
+
+Lymphomas can start in any part of the body that contains lymph tissue.
+Some other types of cancer, such as lung cancer or colon cancer, can spread to lymph tissue such as the lymph nodes. But cancers that start in these places and then spread to the lymph tissue are not lymphomas.There are many types of skin lymphomas. Classifying them can be confusing (even for many doctors) because many of them are not very common.
+The main system used to classify skin lymphoma is from the World Health Organization (WHO), which was last updated in 2016. It is based mainly on:
+
+Whether the lymphoma starts in T lymphocytes (T cells) or B lymphocytes (B cells)
+How the lymphoma looks under the microscope
+Whether certain proteins are on the lymphoma cells (based on lab tests)
+
+T-cell skin lymphomas
+Most skin lymphomas are T-cell lymphomas. These are sometimes called cutaneous T-cell lymphomas (CTCLs).
+Mycosis fungoides: Nearly half of all skin lymphomas are mycosis fungoides (MF). MF can occur in people of any age, but most who get it are in their 50s or 60s. Men are almost twice as likely as women to develop this lymphoma.
+The first sign of this disease is one or more patchy, scaly, red lesions (abnormal areas) on the skin. MF lesions can be very itchy. Often these lesions are the only symptom of MF. But in some people the disease can progress to more solid, raised tumors on the skin (called plaques). Because MF can be confused with other skin problems, it can be hard to diagnose at first. Several biopsies of the lesions might be needed before the diagnosis is confirmed.
+Over time, MF can spread across the skin or invade lymph nodes and organs like the liver. In many people this disease grows slowly, but it can sometimes grow more quickly, especially in older people. Some people with MF go on to develop Sezary syndrome.
+Rare variants of MF include folliculotropic MF, pagetoid reticulosis, and granulomatous slack skin.
+Sezary syndrome (SS): This is often thought of as an advanced form of mycosis fungoides, but these are actually different diseases. In SS, most or all of the skin is affected, instead of just patches of skin. People with SS typically have a very itchy, scaly red rash that can look like a severe sunburn. This is called generalized erythroderma. The skin is often thickened. Lymphoma cells, called Sezary cells, can be found in the blood (as well as in the lymph nodes).
+Whereas MF is usually slow growing, SS tends to grow and spread faster, and is harder to treat. People with SS also often have further weakened immune systems, which increases their risk of serious infections.
+Adult T cell leukemia-lymphoma (ATLL): This rare type of T-cell lymphoma is more likely to start in other parts of the body, but it can sometimes be confined to the skin. It is linked to infection with the HTLV-1 virus (although most people infected with this virus do not get lymphoma). It is much more common in Japan and the Caribbean islands than other parts of the world. This lymphoma often grows quickly, but in some cases it advances slowly, or even shrinks on its own for a time.
+Primary cutaneous anaplastic large cell lymphoma (C-ALCL): This lymphoma usually starts as one or a few tumors on the skin, which can vary in size. Some of these may break open (ulcerate).
+Most people with this disease are in their 50s or 60s, but it can also occur in children. It is found at least twice as often in men as in women. In most cases it does not spread beyond the skin, and the prognosis (outlook) is very good.
+Lymphomatoid papulosis: This is a benign, slow-growing disease that often comes and goes on its own, even without treatment. In fact, some doctors think of it not as a lymphoma, but rather as an inflammatory disease that might progress to a lymphoma. But under a microscope, it has features that look like primary cutaneous ALCL.
+Lymphomatoid papulosis often begins as several large pimple-like lesions that may break open in the middle.
+This disorder is seen in younger people more often than other T-cell skin lymphomas, with an average age of around 45. Men get this disease more often than women.
+This disease often goes away without treatment, but it can take anywhere from a few months to many years to go away completely. Lymphomatoid papulosis doesn’t spread to internal organs and is not fatal. Rarely, some people with this skin disorder develop another, more serious type of lymphoma.
+Subcutaneous panniculitis-like T-cell lymphoma: This rare lymphoma invades the deepest layers of the skin, where it causes nodules (lumps) to form. Most often these are on the legs, but they can occur anywhere on the body. This lymphoma affects all ages and both sexes equally. It usually grows slowly and tends to have a good outlook.
+Extranodal NK/T-cell lymphoma, nasal type: This rare type of lymphoma can start in T-cells or in other lymphocytes known as natural killer (NK) cells. It typically starts in the nose or sinuses, but sometimes it can start in the skin. This lymphoma has been linked to infection with the Epstein-Barr virus (EBV), and is more common in Asia and Central and South America. It tends to grow quickly.
+Primary cutaneous peripheral T-cell lymphoma, rare subtypes: This is a group of rare skin lymphomas that don’t fit into any of the above categories. There are several types.
+
+Primary cutaneous gamma/delta T-cell lymphoma develops as thickened plaques (raised lesions) or actual tumors, mainly on skin of the arms and legs, but sometimes in the intestines or lining of the nose. This type of lymphoma tends to grow and spread quickly.
+﻿Primary cutaneous CD8+ aggressive epidermotropic cytotoxic T-cell lymphoma develops as widespread patches, nodules and tumors that often break open in the middle. This type of lymphoma can sometimes look like mycosis fungoides, but a biopsy can tell them apart. This lymphoma tends to grow and spread quickly.
+Primary cutaneous acral CD8+ T-cell lymphoma is very rare, and typically starts as a nodule on the ear, although it can also start on other parts of the body, such as the nose, hand, or foot. It tends to grow slowly and can often be cured with treatment.
+Primary cutaneous CD4+ small/medium T-cell lymphoproliferative disorder often starts as a single area of thickening of the skin or a tumor on the head, neck, or upper body. This disease tends to grow slowly and can often be cured with treatment.
+
+B-cell skin lymphomas
+These lymphomas are sometimes referred to as cutaneous B-cell lymphomas (CBCLs).
+Primary cutaneous marginal zone B-cell lymphoma: This is a very slow-growing lymphoma that is usually curable. In Europe (but not in the United States), it is sometimes linked to an infection with Borrelia, the germ that causes Lyme disease.
+This lymphoma can occur at any age, although it tends to occur more often in older adults. It appears as skin lesions that are red to purplish large pimples, plaques (raised or lowered, flat lesions), or nodules (bumps) on the arms or upper body. There may be only a single lesion, but there can sometimes be a few.
+Primary cutaneous follicle center lymphoma: This is the most common B-cell lymphoma of the skin. It tends to grow slowly. The early lesions are groups of red pimples, nodules, or plaques that form on the scalp, forehead, or upper body. Less often they are found on the legs. Sometimes the pimples grow into nodules.
+This type of lymphoma is typically found in middle-aged adults. It tends to respond well to radiation therapy, and most patients have an excellent outlook.
+Primary cutaneous diffuse large B-cell lymphoma, leg type: This is a fast-growing lymphoma that begins as large nodules, mainly on the lower legs. It occurs most often in older people, and is more common in women than men. In some people, this lymphoma spreads to lymph nodes and internal organs, causing serious problems.
+These lymphomas often require more intensive treatment. The outlook is better if there is only one lesion at the time of diagnosis.The American Cancer Society’s most recent estimates for all types of non-Hodgkin lymphoma (NHL) in the United States for 2024 are:
+
+80,620 new cases of NHL (44,590 in men and 36,030 in women)
+20,140 deaths from NHL (11,780 in men and 8,360 in women)
+
+However, lymphomas of the skin are uncommon, accounting for only about 4% of all non-Hodgkin lymphomas. The rate of skin lymphomas has been rising over the past few decades, although it seems to have leveled off in recent years. The reasons for this are not known.
+Survival rates for skin lymphomas can vary a great deal, depending on the type of lymphoma, how advanced it is, and how well it responds to treatment.Research into the causes, prevention, and treatment of lymphoma of the skin is being done in many medical centers throughout the world.
+Genetics
+As noted in What Causes Lymphoma of the Skin? scientists are making progress in learning how changes in the DNA inside normal lymphocytes can cause them to develop into lymphoma cells. Understanding these changes can provide insight into why these cells grow too quickly, live too long, and don’t develop into normal mature cells. It might also lead to new drugs that specifically target these processes.
+Our understanding of these DNA changes has already led to the development of highly sensitive lab tests for detecting this disease. For example, polymerase chain reaction (PCR) is a very sensitive test that can help tell if a lymphoma has been destroyed by treatment or if a relapse is likely. These types of tests could help doctors pick out those patients who need more intensive treatment.
+Skin-directed treatments
+Several newer types of skin-directed treatments are now being studied for the treatment of early stage skin lymphomas.
+Photodynamic therapy (PDT)
+For this treatment, a light-activated drug called aminolevulinic acid (ALA) is applied to the skin lesions. A special type of laser light is then focused on the lesions. This light changes the drug that has collected inside the lymphoma cells, which kills them.
+The advantage of PDT is that it can kill cancer cells with very little harm to normal cells. But because the chemical must be activated by light, it can only kill cancer cells near the surface of the skin. This limits its use to early-stage skin lymphomas that have not grown deeply into the skin. Even then, PDT might only be used if other types of skin-directed therapies are not effective. You can find out more about PDT in Photodynamic Therapy.
+Topical imiquimod and resiquimod
+These drugs affect a protein called TLR7. When applied to a skin lesion as a cream or gel, they can cause a local immune reaction, which can kill skin lymphoma cells. More research is needed to help determine their safety and effectiveness, although imiquimod is already available to treat some other skin conditions, so doctors can use it off-label to treat skin lymphomas.
+Chemotherapy
+Many clinical trials are studying newer chemotherapy drugs. One that has shown some promise in early clinical trials is forodesine. Research on this and other new drugs continues.
+Other studies are looking at ways of combining drugs already known to be effective in new ways or using different doses or different sequences of these drugs.
+Targeted drugs
+Newer drugs known as targeted therapies have shown clear benefit in certain kinds of skin lymphoma. The drugs vorinostat (Zolinza) and romidepsin (Istodax) are forms of targeted therapy that can help treat some skin lymphomas. Doctors are now studying how to use these drugs most effectively.
+Other targeted drugs are also being studied for skin lymphomas, including everolimus (Afinitor), lenalidomide (Revlimid), and bortezomib (Velcade).
+Monoclonal antibodies
+Lymphoma cells have certain proteins on their surface. Special man-made antibodies that recognize these proteins can be targeted to destroy the lymphoma cells while causing little damage to normal body tissues.
+Several such drugs, including rituximab (Rituxan), brentuximab vedotin (Adcetris), and mogamulizumab (Poteligeo), are now being used to treat some skin lymphomas. These are discussed in Whole Body (Systemic) Treatments for Skin Lymphomas.
+Many new monoclonal antibodies are now being developed as well.
+Immune checkpoint inhibitors
+A promising newer area of cancer treatment is immunotherapy, which helps a person’s own immune system attack cancer cells in the body. Immunotherapy drugs called checkpoint inhibitors are monoclonal antibodies that help boost the immune response. These drugs have been found to be helpful in treating many types of cancer, and some of them are now being studied for use against skin lymphomas. Examples include pembrolizumab (Keytruda), durvalumab (Imfinzi), and atezolizumab (Tecentriq). Some studies are testing these drugs along with other treatments such as radiation therapy, which might help them work better.
+Stem cell transplant
+High-dose chemotherapy followed by a stem cell transplant is sometimes used to treat lymphomas that no longer respond to other treatments. Researchers continue to improve stem cell transplant methods, including new ways to harvest these cells before transplantation.
+A lot of research is focusing on reducing graft-versus-host disease in allogeneic transplants (using stem cells from a donor). This work involves altering the transplanted T-cells so that they won’t react with the patient’s normal cells but will still kill the lymphoma cells.A risk factor is anything that increases your chance of getting a disease like cancer. Different cancers have different risk factors. Some risk factors, like smoking, can be changed. Others, like a person’s age or family history, can’t be changed.
+But having a risk factor, or even several, does not mean that a person will get the disease. And many people who get the disease may have few or no known risk factors.
+While most people with lymphoma of the skin may have some factors (such as their age or sex) that make them more likely to get this disease, in most people there is no clear cause of the lymphoma.
+Age
+Age is an important risk factor for this disease, with most skin lymphomas occurring in people in their 50s and 60s. But some types of skin lymphoma can appear in younger people, even in children.
+Sex and race
+Most (but not all) types of skin lymphoma are more common in men than in women. Most also tend to be more common in African Americans than in White people. The reasons for this are not known.
+Having a weakened immune system
+Skin lymphomas may be more common in people who have a weakened immune system. This includes people with acquired immunodeficiency syndrome (AIDS), as well as people who have had an organ transplant such as a heart, kidney or liver transplant, who must take drugs that suppress their immune system.
+Certain infections
+Infection with certain viruses or other germs has been suggested as a possible cause of some skin lymphomas.
+Infection with the HTLV-1 virus has been linked with the rare adult T-cell leukemia/lymphoma, although most people infected with this virus do not develop lymphoma. This infection is most often seen in parts of Japan and the Caribbean.
+Infection with Epstein-Barr virus (EBV) has been linked with some types of lymphoma, including extranodal NK/T-cell lymphoma, nasal type. But EBV infection is common, and most people infected with EBV do not go on to develop lymphoma.
+In parts of Europe (but not in the United States), infection with Borrelia, the bacteria that causes Lyme disease, has also been linked with some skin lymphomas. This link has only been reported in a small number of cases—most people with skin lymphoma have not had Lyme disease, and most people with Lyme disease do not develop lymphoma of the skin.
+Infection with the human immunodeficiency virus (HIV), the virus that causes AIDS, may increase a person’s risk of skin lymphoma by weakening their immune system.
+Some studies have suggested that infections with other viruses might also be linked with skin lymphomas, but more research is needed on this.Some risk factors can make a person more likely to get lymphoma of the skin, but it’s not always clear exactly how these factors might increase risk.
+Scientists have learned how certain changes in the DNA inside normal lymphocytes (immune system cells) might cause them to become lymphoma cells. DNA is the chemical in each of our cells that makes up our genes, which control how our cells function. We usually look like our parents because they are the source of our DNA. But DNA affects more than just how we look.
+Some genes control when our cells grow, divide into new cells, and die at the right time:
+
+Certain genes that help cells grow, divide, or live longer are called oncogenes.
+Genes that help keep cell division under control or cause cells to die at the right time are called tumor suppressor genes.
+
+Cancers can be caused by DNA changes that turn on oncogenes or turn off tumor suppressor genes.
+Some people inherit DNA mutations (changes) from a parent that increase their risk of developing some types of cancer. But lymphoma of the skin is not one of the cancer types often caused by inherited mutations.
+DNA changes related to lymphoma of the skin are usually acquired after birth, rather than being inherited. Some of these acquired changes may have outside causes (such as infections), but often they occur for no apparent reason. They seem to happen more often as we age, which may help explain why most types of skin lymphomas usually occur in older people.
+Scientists are learning about the exact gene changes that cause skin lymphomas. But even though they have found some of these gene changes, they still do not know why these changes occur.
+The immune system seems to play an important role in some skin lymphomas. People with weakened immune systems (such as people with acquired immunodeficiency syndrome (AIDS) and people who have had an organ transplant) seem to have a greater chance of developing skin lymphoma, but it’s not clear why.
+Some types of infections might also raise the risk of skin lymphomas. This might be because the infections force the body’s immune system to constantly be active. As more lymphocytes are made to fight the infection, there is a greater chance that some of these cells will have DNA mutations in key genes, which might eventually lead to lymphoma. Researchers are still studying this.Most lymphomas of the skin have no known cause, so there is no sure way to prevent them from developing.
+Having a weakened immune system may raise your risk of skin lymphoma, so making sure your immune system stays healthy might be one way to limit your risk. An example of this would be to avoid known risk factors for infection with HIV (the virus that causes AIDS), such as intravenous drug use or unprotected sex with someone whose HIV status is unknown. You can read more about HIV infection in HIV, AIDS, and Cancer.This type of lymphoma first appears in the skin, so it is usually found earlier in the course of the disease than many other types of cancer. Unfortunately, it is sometimes hard even for experienced doctors to diagnose skin lymphomas right away because they often look like other, more common skin problems such as infections or eczema.
+The best approach is to see a doctor if you notice symptoms that might be from a skin lymphoma (or another type of skin cancer). This includes any new lesion (abnormal area) on the skin, especially if it is raised, if it breaks open or bleeds, if it doesn’t go away, or if it is growing.Lymphomas of the skin can be seen and felt. They can appear as:
+
+Papules (small, pimple-like lesions)
+Patches (flat lesions)
+Plaques (thick, raised or lowered lesions)
+Nodules or tumors (larger lumps or bumps under the skin)
+
+The lesions are often itchy, scaly, and red to purple. The lymphoma might show up as more than one type of lesion and on different parts of the skin (often in areas not exposed to the sun). Some skin lymphomas appear as a rash over some or most of the body (known as erythroderma). Sometimes larger lesions can break open (ulcerate).
+Along with skin problems, in rare cases lymphoma of the skin can cause general symptoms, such as:
+
+Unexplained weight loss
+Fever
+Profuse sweating (enough to soak clothing), particularly at night
+Severe itchiness
+
+Sometimes a skin lymphoma can reach the lymph nodes (small, bean-sized collections of immune cells), which can make them bigger. An enlarged lymph node might be felt as a lump under the skin in the neck, underarm, or groin area.
+Most of these symptoms are more likely to be caused by other, less serious conditions. Still, if you have any of them it's important to have them checked by a doctor so that the cause can be found and treated, if needed.Because this type of lymphoma affects the skin, it is often noticed fairly quickly. But the actual diagnosis of skin lymphoma might be delayed because the symptoms often resemble other, more common skin problems. The diagnosis of skin lymphoma can only be confirmed with a skin biopsy (described below). Other tests might be needed as well.
+Medical history and physical exam
+When a doctor takes your medical history, you will be asked about your symptoms, possible risk factors, family history, and other medical conditions. The doctor will ask when you first noticed the changes in your skin, if they have changed in size or appearance, and if they are itchy or painful. You may be asked if you have any other symptoms, like fever or weight loss. Because skin lymphomas can be hard to tell apart from allergies and other causes of rashes, you might also be asked if you have any allergies or have recently been exposed to something that could be causing your skin problems, such as a new medicine or a new laundry detergent or any new creams or lotions.
+During the physical exam, your doctor will note the size, shape, color, and texture of any area(s) of skin in question. The rest of your body will be checked for other areas of skin involvement.
+The doctor might also feel the lymph nodes (small, bean-sized collections of immune cells) under the skin in your neck, underarms, or groin, as lymphomas can sometimes cause lymph nodes to become enlarged.
+If you are being seen by your primary doctor, you may be referred to a dermatologist (a doctor who treats skin diseases), who will look at your skin more closely.
+Skin biopsies
+A biopsy is a procedure in which a doctor removes a sample of body tissue for viewing under a microscope or other lab tests. A biopsy is needed to diagnose lymphoma of the skin.
+There are several types of skin biopsies, and the doctor’s choice of which one to use is based on each person’s situation. Usually a skin biopsy is done by a dermatologist.
+Punch biopsy
+For a punch biopsy, the doctor uses a tool that looks like a tiny round cookie cutter (usually a little more than 1/8 inch across). Once the skin is numbed with a local anesthetic, the doctor rotates the punch biopsy tool on the surface of the skin until it cuts through all the layers of the skin. The piece of skin is then removed. Often the biopsy site is closed with a stitch.
+Incisional and excisional skin biopsies
+For these types of biopsies, a surgical knife is used to cut through the full thickness of skin. An incisional biopsy removes only part of the tumor, while an excisional biopsy removes the entire tumor. The piece of skin is removed for testing, and the edges of the cut are sewn together. These biopsies are usually done using a local anesthetic (numbing medicine).
+Regardless of the type of skin biopsy, once the samples are removed, they are sent to a doctor called a pathologist, who will look at them under a microscope and might do other tests on them (see below).
+Many of the more common forms of skin cancer (and other skin diseases) can be diagnosed just by looking at the biopsy samples under a microscope. But diagnosing and classifying lymphomas of the skin often requires one or more special lab tests (see below).
+Diagnosing some forms of skin lymphoma can be very challenging. Sometimes, especially if the diagnosis is unclear, the skin samples may need to be sent to a dermatopathologist, a dermatologist or a pathologist with additional training in diagnosing skin samples. Even with this expertise, in some cases several biopsies may be needed over a period of time before the diagnosis is confirmed.
+Lymph node biopsies
+Skin lymphomas often spread to lymph nodes, so your doctor may recommend a lymph node biopsy to help confirm the diagnosis or to help determine how widespread the lymphoma is. This is more likely to be done if the doctor detects enlarged lymph nodes, either during a physical exam or with imaging tests (see below).
+Excisional or incisional lymph node biopsies
+These are the most common types of lymph node biopsy. In these procedures, a surgeon cuts through the skin to remove either the entire lymph node (excisional biopsy) or a small part of a large tumor (incisional biopsy). If the node is just under the skin, this is often a simple operation that can be done with local anesthesia. But if the node is inside the chest or abdomen, the patient will need to be asleep or deeply sedated during the biopsy.
+Removing a lymph node almost always provides enough tissue to diagnose the exact type of lymphoma. Most doctors prefer this type of biopsy, if it can be done without too much discomfort to the patient.
+
+Needle biopsy
+ In a needle biopsy, the doctor uses a thin, hollow needle to remove a small amount of tissue from a tumor. This can be done as a fine needle aspiration (FNA), which uses a very thin needle, or a core needle biopsy, which uses a slightly larger needle.
+If an enlarged node is just under the skin, the doctor can aim the needle while feeling the node. If the enlarged node is deep inside the body, the doctor can guide the needle while viewing it with an imaging test such as an ultrasound or a CT scan (see below).
+A needle biopsy does not require surgery, but in some cases this type of biopsy (especially an FNA) might not remove enough tissue to make a definite diagnosis of lymphoma. But advances in lab tests (discussed later in this section) and the growing experience of many doctors have improved the accuracy of this procedure.
+Other types of biopsies
+These procedures may sometimes be done to confirm a diagnosis of lymphoma, but they are more often done to help determine the stage (extent) of a lymphoma that has already been diagnosed. Not everyone with lymphoma of the skin needs these tests.
+Bone marrow aspiration and biopsy
+These tests are sometimes done after lymphoma has been diagnosed to help figure out if it has spread to the bone marrow (the soft, inner part of certain bones). The two tests are often done at the same time. The samples are usually taken from the back of the pelvic (hip) bone, but in some cases they may be taken from other bones.
+In bone marrow aspiration, you lie on a table (either on your side or on your belly). The doctor cleans the skin over the hip and then numbs the area and the surface of the bone by injecting a local anesthetic. This may cause a brief stinging or burning sensation. A thin, hollow needle is then inserted into the bone and a syringe is used to suck out a small amount of liquid bone marrow. Even with the anesthetic, most patients still have some brief pain when the marrow is removed.
+A bone marrow biopsy is usually done just after the aspiration. A small piece of bone and marrow is removed with a slightly larger needle that is pushed down into the bone. This may also cause some brief pain. Once the biopsy is done, pressure will be applied to the site to help stop any bleeding.
+Lumbar puncture (spinal tap)
+This test looks for lymphoma cells in the cerebrospinal fluid (CSF), which is the liquid that bathes the brain and spinal cord. Most people with skin lymphoma will not need this test. But doctors may order it if a person has symptoms that suggest the lymphoma might have reached the brain.
+For this test, you may be asked to lie on your side or sit up. The doctor first numbs an area in the lower part of the back over the spine. A small, hollow needle is then inserted between the bones of the spine to withdraw some of the fluid.
+Lab tests of biopsy or blood samples
+Lab tests are done on the biopsy samples (and in some cases, blood samples) to help diagnose lymphoma and determine what type it is. Pathologists can sometimes tell which kind of lymphoma a patient has by just looking at the cells under a microscope, but usually these other types of tests are needed to confirm the diagnosis.
+Flow cytometry and immunohistochemistry
+For both flow cytometry and immunohistochemistry, samples of cells are treated with special antibodies that stick to certain proteins on cells. For immunohistochemistry, the cells are then looked at under a microscope to see if the antibodies stuck to them (meaning they have these proteins), while for flow cytometry a special machine is used.
+These tests can help determine whether a lymph node is swollen because of lymphoma, some other cancer, or a non-cancerous disease. The tests can also be used for immunophenotyping – determining which type of lymphoma a person has, based on certain proteins in or on the cells. Different types of lymphocytes have different proteins on their surface.
+Chromosome tests
+Normal human cells have 23 pairs of chromosomes (strands of DNA), each of which is a certain size and looks a certain way under the microscope. But in some types of lymphoma, the cells have changes in their chromosomes, such as having too many, too few, or abnormal chromosomes. These changes can often help identify the type of lymphoma.
+Cytogenetics: In this lab test, the cells are looked at under a microscope to see if the chromosomes have any abnormalities. A drawback of this test is that getting the results usually takes about 2 to 3 weeks because the cells must grow in lab dishes for a couple of weeks.
+Fluorescent in situ hybridization (FISH): This test looks more closely at lymphoma cell DNA using special fluorescent dyes that only attach to specific genes or parts of chromosomes. FISH can find most chromosome changes that can be seen in standard cytogenetic tests, as well as some gene changes too small to be seen with cytogenetic testing. FISH is very accurate and can usually provide results within a couple of days.
+Polymerase chain reaction (PCR): PCR is a very sensitive DNA test that can find gene changes and certain chromosome changes too small to be seen with a microscope, even if very few lymphoma cells are present in a sample.
+Blood tests
+Blood tests measure the amounts of certain types of cells and chemicals in the blood. They are not used to diagnose lymphoma, but they can sometimes help determine how advanced the lymphoma is. They may also be used during certain types of treatment (such as chemotherapy) to monitor how well the bone marrow and other organs are functioning.
+
+Complete blood count (CBC): This test measures the levels of different cells in the blood, such as the red blood cells, the white blood cells, and the platelets. The CBC is often done with a differential (or “diff”) which counts the numbers of different types of white blood cells. If a person’s blood counts are low, it might mean that the lymphoma is growing in the bone marrow and slowing normal blood cell production. People with Sezary syndrome will have Sezary cells in the blood, which can be found on the differential.
+Blood chemistry tests: These tests look at how well organs such as the kidneys and liver are working.
+If lymphoma has been diagnosed, another blood test called lactate dehydrogenase (LDH) may be done. LDH levels are often abnormally high in patients with widespread lymphoma.
+For some types of lymphoma or if certain treatments might be used, your doctor may also advise you to have tests to see if you’ve been infected with certain viruses, such as hepatitis B virus (HBV), human T-cell lymphotropic virus (HTLV-1), or human immunodeficiency virus (HIV). Infections with these viruses might affect your treatment.
+
+Imaging tests
+Imaging tests use x-rays, sound waves, magnetic fields, or radioactive particles to make pictures of the inside of the body. In someone with known or suspected lymphoma, these tests might be done for a number of reasons, including:
+
+To help find suspicious areas that might be cancer
+To learn how far the lymphoma has spread
+To find out if treatment is working
+To look for possible signs of the lymphoma coming back after treatment
+
+Imaging tests aren’t always needed for people with skin lymphomas who have only a few skin lesions, but they are often done if a lot of the skin is affected, or if lymphoma cells are found in the lymph nodes or blood.
+If you’d like to learn more about any of the imaging tests discussed here, see Imaging (Radiology) Tests.
+Chest x-ray
+An x-ray of the chest may be done to look for enlarged lymph nodes in this area.
+Computed tomography (CT) scan
+The CT scan uses x-rays to make detailed, cross-sectional images of your body. Unlike a regular x-ray, CT scans can show the detail in soft tissues (such as internal organs). This scan can help tell if any lymph nodes or organs in your body are enlarged.
+CT-guided needle biopsy: A CT scan can also be used to guide a biopsy needle into a suspicious area. For this procedure, you lie on the CT scanning table while the doctor advances a biopsy needle through the skin and toward the area. CT scans are repeated until the needle is in the right place. A biopsy sample is then removed and sent to the lab to be looked at under a microscope.
+Magnetic resonance imaging (MRI) scan
+Like CT scans, MRI scans show detailed images of soft tissues in the body. But MRI scans use radio waves and strong magnets instead of x-rays. MRI scans are very helpful in looking at the brain and spinal cord, but they are not often used to evaluate skin lymphomas unless a CT scan can’t be done for some reason.
+Ultrasound
+Ultrasound can be used to look at lymph nodes near the surface of the body or to look inside your abdomen for enlarged lymph nodes or organs such as the liver and spleen. (It can’t be used to look at organs or lymph nodes in the chest because the ribs block the sound waves.) It is sometimes used to help guide a biopsy needle into an enlarged lymph node.
+This is an easy test to have, and it uses no radiation. You simply lie on a table, and a technician moves the transducer over the part of your body being looked at.
+Positron emission tomography (PET) scan
+For a PET scan, you are injected with a slightly radioactive form of sugar, which collects mainly in cancer cells. A special camera is then used to create a picture of areas of radioactivity in the body. The picture is not detailed like a CT or MRI scan, but it can look for possible areas of lymphoma in all areas of the body at once.
+A PET scan can help tell if an enlarged lymph node contains lymphoma or is benign. It can also help spot small areas that might be lymphoma, even if the area looks normal on a CT scan.
+PET scans can also be used to tell if an advanced skin lymphoma is responding to treatment. Some doctors will repeat the PET scan after a few courses of chemotherapy. If the chemo is working, the abnormal areas will no longer take up the radioactive sugar.
+Doctors often use a machine that does both a PET and CT scan at the same time (PET/CT scan). This lets the doctor compare areas of higher radioactivity on the PET scan with the more detailed appearance of that area on the CT scan.After someone is diagnosed with skin lymphoma, doctors will try to figure out if it has spread, and if so, how far. This process is called staging. The stage of a cancer describes how much cancer is in the body. It helps determine how serious the cancer is and how best to treat it. Knowing the stage of a skin lymphoma may help in deciding the best treatment.
+The tests used to gather information for staging include:
+
+Physical exam
+Biopsies
+Imaging tests, such as CT scans
+Blood tests
+
+These tests are described in Tests for Lymphoma of the Skin.
+The staging systems for skin lymphomas were developed by the International Society for Cutaneous Lymphomas (ISCL) and the European Organization for Research and Treatment of Cancer (EORTC). There are 2 different staging systems:
+
+One for mycosis fungoides and Sezary syndrome
+One for other skin lymphomas
+
+These systems can be hard to understand. If you have questions about the stage of your lymphoma, ask your cancer care team to explain it to you in a way you understand. This can help you make choices about your treatment.
+Staging for mycosis fungoides and Sezary syndrome
+Mycosis fungoides (MF) and Sezary syndrome (SS) are staged based on 4 factors:
+
+T describes how much of the skin is affected by the lymphoma (tumor).
+N describes the extent of the lymphoma in the lymph nodes (bean-sized collections of immune cells).
+M is for the spread (metastasis) of the lymphoma to other organs.
+B is for lymphoma cells in the blood.
+
+T categories
+T1: Skin lesions can be small patches (flat lesions), papules (small bumps), and/or plaques (raised or lowered, flat lesions), but the lesions cover less than 10% of the skin surface.
+T2: The patches, papules, and/or plaques cover 10% or more of the skin surface.
+T3: At least one of the skin lesions is a tumor (a lesion growing deeper into the skin) that is at least 1 centimeter (cm) (a little less than 1/2 inch) across.
+T4: The skin lesions have grown together to cover at least 80% of the skin surface.
+N categories
+N0: Lymph nodes are not enlarged and a lymph node biopsy is not needed.
+N1: Lymph nodes are enlarged, but the patterns of cells look normal or close to normal under the microscope.
+N2: Lymph nodes are enlarged, and the patterns of cells look more abnormal under the microscope.
+N3: Lymph nodes are enlarged, and the patterns of cells look very abnormal under the microscope.
+NX: Lymph nodes are enlarged but haven’t been removed (biopsied) to be looked at under the microscope.
+M categories
+M0: The lymphoma cells have not spread to other organs.
+M1: Lymphoma cells have spread to other organs, such as the liver or spleen.
+B categories
+B0: No more than 5% of lymphocytes in the blood are Sezary (lymphoma) cells.
+B1: Low numbers of Sezary cells in the blood (more than in B0 but less than in B2).
+B2: High number of Sezary cells in the blood.
+Stage grouping
+Once the values for T, N, M, and B are known, they are combined to determine the overall stage of the lymphoma. This process is called stage grouping.
+Mycosis fungoides (MF) and Sezary syndrome (SS) stages range from I (1) through IV (4). As a rule, the lower the number, the less the cancer has spread. A higher number, such as stage IV, means cancer has spread more. And within a stage, an earlier letter means a lower stage. Although each person’s cancer experience is unique, cancers with similar stages tend to have a similar outlook and are often treated in much the same way.
+Stage IA: T1, N0, M0, B0 or B1
+There are skin lesions but no tumors. Skin lesions cover less than 10% of the skin surface (T1), the lymph nodes are not enlarged (N0), lymphoma cells have not spread to other organs (M0), and the number of Sezary cells in the blood is not high (B0 or B1).
+Stage IB: T2, N0, M0, B0 or B1
+There are skin lesions but no tumors. Skin lesions cover at least 10% of the skin surface (T2), the lymph nodes are not enlarged (N0), lymphoma cells have not spread to other organs (M0), and the number of Sezary cells in the blood is not high (B0 or B1).
+Stage IIA: T1 or T2, N1 or N2, M0, B0 or B1
+There are skin lesions but no tumors. Skin lesions can cover up to 80% of the skin surface (T1 or T2). Lymph nodes are enlarged but the patterns of cells do not look very abnormal under the microscope (N1 or N2). Lymphoma cells have not spread to other organs (M0), and the number of Sezary cells in the blood is not high (B0 or B1).
+Stage IIB: T3, N0 to N2, M0, B0 or B1
+At least one of the skin lesions is a tumor that is 1 cm across or larger (T3). The lymph nodes are either normal (N0) or are enlarged but the patterns of cells do not look very abnormal under the microscope (N1 or N2). Lymphoma cells have not spread to other organs (M0), and the number of Sezary cells in the blood is not high (B0 or B1).
+Stage IIIA: T4, N0 to N2, M0, B0
+Skin lesions cover at least 80% of the skin surface (T4). The lymph nodes are either normal (N0) or are enlarged but the patterns of cells do not look very abnormal under the microscope (N1 or N2). Lymphoma cells have not spread to other organs or tissues (M0), and no more than 5% of the lymphocytes in the blood are Sezary cells (B0).
+Stage IIIB: T4, N0 to N2, M0, B1
+Skin lesions cover at least 80% of the skin surface (T4). The lymph nodes are either normal (N0) or are enlarged but the patterns of cells do not look very abnormal under the microscope (N1 or N2). Lymphoma cells have not spread to other organs (M0), and the number of Sezary cells in the blood is low (B1).
+Stage IVA1: Any T, N0 to N2, M0, B2
+Skin lesions can cover any amount of the skin surface (any T). The lymph nodes are either normal (N0) or are enlarged but the patterns of cells do not look very abnormal under the microscope (N1 or N2). Lymphoma cells have not spread to other organs (M0), and the number of Sezary cells in the blood is high (B2).
+Stage IVA2: Any T, N3, M0, any B
+Skin lesions can cover any amount of the skin surface (any T). Some lymph nodes are enlarged and the patterns of cells look very abnormal under the microscope (N3). Lymphoma cells have not spread to other organs (M0). Sezary cells may or may not be in the blood (any B).
+Stage IVB: Any T, any N, M1, any B
+Skin lesions can cover any amount of the skin surface (any T). The lymph nodes may be normal or abnormal (any N), and Sezary cells may or may not be in the blood (any B). Lymphoma cells have spread to other organs, such as the liver or spleen (M1).
+Staging for other skin lymphomas
+The staging system for types of skin lymphoma other than mycosis fungoides and Sezary syndrome is still fairly new, and doctors are still trying to determine how useful it is. The system is based on 3 factors:
+
+T describes how much of the skin is affected by the lymphoma (tumor).
+N describes the extent of the lymphoma in the lymph nodes (bean-sized collections of immune cells).
+M is for the spread (metastasis) of the lymphoma to other organs.
+
+For these lymphomas, only the T category is used at the time of diagnosis. If parts of the body other than the skin (such as lymph nodes) are involved at the time of diagnosis, the lymphoma is not considered to be a skin lymphoma and is staged like regular non-Hodgkin lymphoma. The N and M categories are only used if the lymphoma progresses (continues to grow) during treatment or comes back after treatment.
+T categories
+T1: There is only a single skin lesion.
+
+T1a: The skin lesion is less than 5 cm (about 2 inches) across.
+T1b: The skin lesion is at least 5 cm across.
+
+T2: There are 2 or more lesions on the skin. These may be in a single body region or in 2 body regions that are next to each other.
+
+T2a: All of the skin lesions could be placed within a circle that is 15 cm (about 6 inches) across.
+T2b: The circle needed to surround all of the skin lesions is larger than 15 cm across, but smaller than 30 cm (about 1 foot) across.
+T2c: The circle needed to surround all of the skin lesions is larger than 30 cm across.
+
+T3: There are skin lesions in body regions that aren’t next to each other, or in at least 3 different body regions.
+
+T3a: There are skin lesions involving 2 body regions that aren’t next to each other.
+T3b: There are skin lesions involving 3 or more body regions.
+
+N categories
+N0: No lymph nodes are enlarged or contain lymphoma cells.
+N1: There are lymphoma cells in the lymph nodes that drain an area where skin contained lymphoma.
+N2: One of the following is true:
+
+At least 2 sets of lymph nodes from different areas contain lymphoma cells
+There are lymphoma cells in lymph nodes that do not drain areas where the skin contained lymphoma.
+
+N3: Lymph nodes deep inside the chest or abdomen contain lymphoma cells.
+M categories
+M0: No signs of lymphoma outside of the skin or lymph nodes.
+M1: Lymphoma has spread to other organs or tissues.
+This system does not assign an overall stage to the lymphoma, like the system for mycosis fungoides/Sezary syndrome does. Because this system is still fairly new, it’s not yet clear how well it can help predict a person’s prognosis (outlook).It’s important to have honest, open discussions with your cancer care team. They want to answer all of your questions, no matter how minor they might seem. For instance, consider asking these questions:
+When you're told you have lymphoma of the skin
+
+What kind of skin lymphoma do I have?
+Has my biopsy been reviewed by a pathologist who is an expert on skin lymphoma?
+How sure are you of my diagnosis?
+What is the stage (extent) of the lymphoma, and what does that mean in my case?
+Do I need any other tests before we can decide on treatment?
+Do I need to see any other types of doctors?
+If I’m concerned about the costs and insurance coverage for my diagnosis and treatment, who can help me?
+
+When deciding on a treatment plan
+
+How much experience do you have treating this type of lymphoma?
+Should I get a second opinion before starting treatment? Can you suggest a doctor or cancer center?
+What are my treatment choices?
+What do you recommend and why?
+Do we need to treat the lymphoma right away?
+What is the goal of the treatment?
+What should I do to be ready for treatment?
+How long will treatment last? What will it be like? Where will it be done?
+What are the risks or side effects of the treatments you suggest?
+How will treatment affect my daily activities?
+What is my outlook for survival?
+What are the chances of the lymphoma coming back with these treatment plans?
+What would we do if the treatment doesn’t work or if the lymphoma recurs?
+
+During treatment
+Once treatment begins, you’ll need to know what to expect and what to look for. Not all of these questions may apply to you, but getting answers to the ones that do may be helpful.
+
+How will we know if the treatment is working?
+Is there anything I can do to help manage side effects?
+What symptoms or side effects should I tell you about right away?
+How can I reach your office on nights, holidays, or weekends?
+Are there any limits on what I can do? 
+Can you suggest a mental health professional I can see if I start to feel overwhelmed, depressed, or distressed?
+
+After treatment
+
+What type of follow-up will I need after treatment?
+What symptoms should I watch for?
+How will we know if the lymphoma has come back? What would my options be if that happens?
+
+Along with these sample questions, be sure to write down some of your own. For instance, you might want more information about recovery times so that you can plan your work or activity schedule. Or you might ask about clinical trials.
+Keep in mind that doctors aren't the only ones who can give you information. Other health care professionals, such as nurses and social workers, might be able to answer some of your questions. See The Doctor-Patient Relationship.For many skin lymphomas (especially early-stage lymphomas), the first treatment is directed at the skin lesions themselves, while trying to avoid harmful side effects on the rest of the body. There are many ways to treat skin lesions.
+Surgery
+Surgery is not usually the only treatment for skin lymphoma, but it can be helpful in some situations. Surgery may be used to biopsy a skin lesion, lymph node, or other tissue to diagnose and classify a lymphoma. It might also be used to treat some types of skin lymphomas when there is only one or a few skin lesions that can be removed completely. Even then, other types of treatment may be used as well.
+Radiation therapy
+Radiation therapy uses high-energy rays to kill cancer cells. The treatment is much like getting an x-ray, but the radiation is stronger. The procedure itself is painless. Treatment might be given in just one dose or on several days, depending on how much of the skin is being treated.
+The type of radiation used most often for skin lymphomas is called electron beam radiation. The beam of electrons only penetrate as far as the skin, so there are few side effects to other organs and tissues. The main side effect of electron beam therapy is a skin reaction similar to sun burn. For mycosis fungoides and Sezary syndrome covering a large part of the skin, electron beam therapy is sometimes given to the entire body. This is called total skin electron beam therapy (TSEBT). Along with skin changes, this can sometimes cause loss of all hair on the body, and even the loss of fingernails and toenails.
+Some thicker lymphomas that are not widespread (especially single lesions) are treated with high energy radiation (like x-rays or gamma rays) instead of electrons. This kind of radiation can penetrate deeper into the body. Because it can damage internal organs, the treatment is planned carefully so that most of the radiation goes only to the skin.
+To learn more about radiation therapy, see Radiation Therapy.
+Phototherapy (UV light therapy)
+Ultraviolet (UV) light is the part of sunlight that causes sunburn and skin cancer. Phototherapy uses UV light to kill cancer cells in the skin. This is a useful treatment for some people with skin lymphomas that aren’t very thick.
+Two kinds of UV light – ultraviolet A (UVA) and ultraviolet B (UVB) – can be used to treat skin lymphoma. Both UVA and UVB treatments are given with special fluorescent lamps like those used in tanning salons. But the light used for treatment is carefully controlled so your doctor knows exactly which wavelength and dose of light you are getting to minimize the risk of burns. Treatments are given several times a week.
+When UVA is used, it is combined with drugs called psoralens. This combination is referred to as PUVA. Psoralens are given as a pill about 2 hours before the treatment. The drug travels through the blood to reach cells throughout the body (including cells of skin lymphoma). When these cells are then exposed to UVA light, the drug is activated, killing them. Psoralens can cause some nausea. They can also make the skin and eyes very sensitive to sunlight (increasing the risk of severe skin burns and cataracts), so it is important to protect yourself from sunlight as much as possible in the days after treatment.
+UVB is given without any extra medicines, and is generally used for thinner skin lesions.
+Just like the UV light in sunlight, these treatments can cause sunburn and may raise the risk of skin cancer later in life, so doctors try to avoid giving too much UV light.
+Topical medicines
+Treatment that applies drugs directly to the skin is called topical therapy. It can be very helpful in treating many early skin lymphomas. When a drug is placed on the skin, its effects are concentrated on that spot, with much smaller amounts reaching the rest of the body. This can help limit side effects, especially for strong medicines such as some chemotherapy drugs.
+Topical corticosteroids: These are drugs related to cortisol, a hormone made naturally in the body that can affect immune cells such as lymphocytes. Corticosteroid pills and injections into the blood have long been an important part of treating lymphomas.
+Topical forms of these drugs can also be applied directly to the skin as ointments, gels, foams, and creams (usually once or twice a day), or injected directly into skin lesions (on a less frequent basis). This can be very helpful in treating skin lesions. When applied on or injected into the skin, less of the drug is absorbed into the body, resulting in fewer side effects. Long-term use of topical corticosteroids may cause the skin in that area to become thinner.
+Topical chemotherapy drugs: Chemotherapy (chemo) drugs are strong medicines often given by mouth or injected into a vein to treat more advanced cancers, including advanced skin lymphomas. See Whole-body (Systemic) Treatments for Skin Lymphomas.
+Some chemo drugs can be used to treat earlier forms of skin lymphoma by putting them directly on the skin (usually in a cream, ointment, or gel). The drugs most often used to treat skin lymphoma include mechlorethamine (nitrogen mustard) and carmustine (BCNU). Possible side effects include redness, swelling, or irritation where the drug is applied, as well as an increased risk of other types of skin cancer in the area.
+Topical retinoids: Retinoids are drugs related to vitamin A. They can affect certain genes in lymphoma cells that cause them to grow or mature.
+Some retinoids, such as bexarotene (Targretin), come in a gel that can be applied directly to skin lesions. Possible side effects include redness, itching, irritation, and sensitivity to sunlight in the area where the drug is applied. These drugs can cause birth defects, so they should not be used by women who are or could become pregnant.
+Topical immune therapy: Imiquimod (Zyclara) is a cream that causes an immune system reaction when applied to skin lesions, which may help destroy them. This drug is used mainly to treat some other types of skin cancers, but some doctors may also use it to treat early forms of skin lymphoma. It can cause redness, itching, and irritation at the site where it is applied.Systemic treatments can affect the whole body. They are most useful for more advanced or quickly growing skin lymphomas. In some cases, a systemic treatment is combined with a skin-directed treatment or with another systemic treatment.
+Photopheresis (photoimmune therapy)
+This treatment is also called extracorporeal photopheresis (ECP). It is sometimes used for T-cell skin lymphomas, especially Sezary syndrome. It is thought to work by killing some lymphoma cells directly and by boosting the body’s immune response against other lymphoma cells.
+The procedure is similar to donating blood, but instead of going into a collecting bag, the blood goes into a special machine that separates out the lymphocytes (including lymphoma cells). They are then treated with a psoralen (a light-sensitizing drug) and UVA light before they are mixed back in with the rest of the blood and infused back into the patient. Each procedure usually takes a few hours. Treatments are typically given for 2 days in a row, and then repeated every few weeks or so.
+Side effects are usually minor. The most significant side effect is sensitivity to sunlight for about a day after each treatment, which might result in sunburn or other problems. It's very important to protect yourself from sunlight as much as possible during this time.
+Systemic chemotherapy
+Chemotherapy (chemo) uses strong drugs to treat cancer. When the drugs are injected into a vein or a muscle or taken by mouth, they enter the bloodstream and reach all areas of the body.
+Systemic chemo is not often used for early skin lymphoma, but it may be used if the disease in the skin is more advanced and no longer getting better with other treatments. It can also be helpful if the lymphoma has spread to the lymph nodes, blood, or to other parts of the body.
+Many chemo drugs can be useful in treating patients with skin lymphoma, including:
+
+Gemcitabine
+Liposomal doxorubicin (Doxil)
+Methotrexate
+Chlorambucil
+Cyclophosphamide
+Fludarabine
+Cladribine
+Pentostatin
+Etoposide
+Temozolomide
+Pralatrexate
+
+Often a single drug is tried first, but sometimes combinations of drugs are used, like those used for lymphoma not involving the skin. For example, a chemo regimen called CHOP (cyclophosphamide, doxorubicin, vincristine, and prednisone) may be used, often along with the monoclonal antibody rituximab (Rituxan), which is described below.
+Chemo treatments are given on different schedules, but usually they are repeated several times in cycles given 3 or 4 weeks apart. Most chemo treatments are given on an outpatient basis (in the doctor’s office, clinic, or hospital outpatient department), but some require a hospital stay.
+Patients often get chemo for 2 or 3 cycles and then have tests (such as PET or CT scans) to see if it is working. If the first chemo regimen doesn’t seem to be working, different drugs may be tried.
+For more information about chemo for non-Hodgkin lymphoma, see Non-Hodgkin Lymphoma.
+Possible side effects of chemotherapy
+Chemo drugs can cause side effects. These depend on the drugs used, their dose, and the length of treatment. Some common side effects include:
+
+Hair loss
+Mouth sores
+Loss of appetite
+Nausea and vomiting
+Diarrhea
+Increased chance of infection (from a shortage of white blood cells)
+Bleeding or bruising after minor cuts or injuries (from a shortage of platelets)
+Fatigue or shortness of breath (from a shortage of red blood cells)
+
+These side effects usually go away after treatment is finished. If serious side effects occur, the chemo may have to be delayed or the doses reduced. There are often ways to lessen side effects. For example, drugs can be given to help prevent and reduce nausea and vomiting.
+Although most side effects go away after chemo is stopped, some can be long-lasting or might not occur until months or years after treatment has ended. For example, drugs like doxorubicin can damage the heart. Other drugs can sometimes damage the kidneys, nerves, or other organs. In rare cases, people develop leukemia several years later. Before you start chemo, ask your doctor or nurse what drugs will be used and what the side effects might be.
+To learn more, see Chemotherapy.
+Targeted and biologic therapies
+In recent years, many newer drugs have been developed to treat skin lymphomas. Some of these drugs target specific parts of lymphoma cells. Others work by boosting the body’s immune system to attack lymphoma cells.
+These drugs work differently from standard chemo drugs, which generally affect all fast-growing cells. They sometimes work when chemo drugs don’t. They also tend to have different (and often milder) side effects than standard chemo drugs.
+Vorinostat (Zolinza) and romidepsin (Istodax): These drugs are known as a histone deacetylase (HDAC) inhibitors. They are used to treat T-cell skin lymphomas, usually after other treatments have been tried. Side effects tend to be mild, but can include nausea, diarrhea, lowered blood cell counts, and effects on the rhythm of the heart. Vorinostat is a pill, taken once a day, whereas romidepsin is given as an infusion into a vein (IV), usually once a week.
+Rituximab (Rituxan): This drug is a monoclonal antibody (a man-made version of an immune system protein that has a very specific target). This antibody attaches to CD20, a protein on the surface of most B lymphocytes, which causes the cells to die.
+Rituximab can be used alone or with other drugs to treat B-cell skin lymphomas. Treatments are usually given as IV infusions weekly or at longer intervals.
+Common side effects are often mild but can include chills, fever, nausea, rashes, fatigue, and headaches, especially during the first infusion. Side effects are less likely with later doses. Rituximab can also increase a person’s risk of infections. It can cause prior hepatitis B virus (HBV) infections to become active again, sometimes leading to severe liver problems or even death. Your doctor will probably test you for HBV before giving you this drug.
+Brentuximab vedotin (Adcetris): Some skin lymphoma cells have the CD30 protein. This drug is an anti-CD30 antibody attached to a chemotherapy drug. The antibody acts like a homing signal, bringing the chemo drug to lymphoma cells, where it enters the cells and kills them. 
+Brentuximab can be used to treat some types of skin lymphoma, especially after other treatments have been tried. This drug is infused into a vein (IV), typically every 3 weeks.
+Common side effects can include nerve damage (neuropathy), low blood counts, fatigue, fever, nausea and vomiting, infections, diarrhea, and cough.
+Mogamulizumab (Poteligeo): This is a monoclonal antibody that binds to CCR4, a protein often found in high amounts on T-cell lymphoma cells. Binding to these cells may slow their growth, as well as mark them for attack by the immune system.
+Mogamulizumab can be used to treat mycosis fungoides or Sezary syndrome that has come back or is no longer responding to at least one other systemic treatment. This drug is given by infusion into a vein (IV), typically once a week or once every other week.
+Common side effects can include rash, allergic-like reactions during infusions, fever, fatigue, diarrhea, muscle or bone pain, and upper respiratory infections. Less common but more serious problems can include severe skin reactions, infections, and autoimmune problems (in which the immune cells in the body attack other cells or organs).
+Alemtuzumab: This monoclonal antibody targets the CD52 protein found on some lymphoma cells. When the antibody binds to this protein, it triggers the immune system to destroy the cell. This drug is given by injection either under the skin (subcutaneous) or into a vein (IV), usually several times a week.
+Alemtuzumab works well against some types of skin lymphoma, but it can have serious side effects. Some people have allergic reactions to it, which can sometimes be serious. It can also severely weaken the immune system, which can lead to serious or even life-threatening infections with germs that aren’t usually a problem for healthy people.
+Because of these risks, alemtuzumab is not often used to treat skin lymphomas, although it may be an option if the lymphoma comes back after other treatments.
+Interferons: The interferons are hormone-like proteins normally made by white blood cells to help the immune system fight infections. Certain types of interferon can be made in the lab and given as medicine. Interferons can cause some types of skin lymphomas to shrink or stop growing. Usually they are injected under the skin several times a week.
+People getting this treatment often have flu-like side effects, such as fatigue (which can be severe), fever, chills, headaches, muscle and joint aches, and mood changes. The side effects tend to be worse when higher doses are used.
+Systemic retinoids
+Retinoids are drugs related to vitamin A. Retinoids such as all-trans retinoic acid (ATRA), acitretin, isotretinoin (Accutane), and bexarotene (Targretin) can be used to treat some skin lymphomas, especially mycosis fungoides and Sezary syndrome. Bexarotene can be used as a topical treatment when only a few small skin lesions are present, but retinoids are often taken in pill form for skin lymphomas that are more widespread.
+Side effects of systemic retinoids can include headache, nausea, fever, increased blood levels of triglycerides (fats), thyroid problems, and eye problems. Some retinoids can cause more serious side effects, like fluid buildup in the body. These drugs should never be given to a woman who is pregnant or who might become pregnant, as they can cause serious birth defects.
+High-dose chemotherapy with stem cell transplant (SCT)
+Stem cell transplants are sometimes used to treat lymphoma when standard treatments are no longer working. Doctors aren’t yet sure exactly how well this type of treatment works for patients with skin lymphoma, but studies are now being done to find out, and it may become more common in the future.
+The doses of chemotherapy drugs normally are limited by the side effects these drugs can cause. Higher doses can’t be used, even if they might kill more cancer cells, because they would severely damage the bone marrow, where new blood cells are made.
+A stem cell transplant (also known as a bone marrow transplant) lets doctors give higher doses of chemotherapy (sometimes along with radiation therapy). This is because after getting high-dose chemo treatment, the patient receives a transplant of blood-forming stem cells to restore the bone marrow. The blood-forming stem cells used for a transplant can come either from the blood or from the bone marrow.
+There are 2 main types of transplants, based on the source of the stem cells:
+
+Allogeneic stem cell transplant: For this type of transplant, the blood-forming stem cells come from another person (instead of using the patient’s own stem cells). The ideal donor is a relative (often a brother or sister) whose tissue type (HLA type) matches the patient’s. This lowers the chance of having serious problems with the transplant. This is often the preferred type of transplant if it can be done, but it is often hard to find a matched donor. Another drawback is that side effects of this treatment might be too severe for many older patients.
+
+Autologous stem cell transplant: In this type of transplant, a patient’s own stem cells are removed from their bone marrow or blood. They are collected over several days in the weeks before treatment. The cells are frozen and stored while the person gets treatment (high-dose chemo and/or radiation) and are then are reinfused into the patient’s blood. Autologous transplants are not used much for skin lymphomas.
+A stem cell transplant is a complex treatment that can cause life-threatening side effects. If the doctors think a person might benefit from a transplant, it should be done at a cancer center where the staff has experience with the procedure and with managing the recovery phase.
+
+
+
+To learn more about stem cell transplants, including how they are done and their potential side effects, see Stem Cell Transplant for Cancer.The treatment of skin lymphoma is based mainly on the type of lymphoma, as well as its location and its stage – how far it has spread. But other factors, such as your overall health, can also affect your treatment options. Talk to your doctor if you have any questions about the treatment plan he or she recommends.
+The treatments mentioned in this section fall into 2 main groups:
+
+Skin-directed treatments
+Whole-body (systemic) treatments
+
+T-cell lymphomas
+Mycosis fungoides (MF)
+Many forms of treatment can be used for MF.
+Skin-directed treatments: For early stages of MF, treatments are aimed at the skin. Options may include:
+
+Phototherapy with ultraviolet (UV) light (either UVB light or UVA combined with drugs called psoralens, known as PUVA)
+Topical chemotherapy with BCNU or nitrogen mustard
+Topical corticosteroid ointments or injections
+Topical retinoids (vitamin A-like drugs), such as bexarotene
+Topical imiquimod
+Local radiation treatments if there is only one or a few lesions
+Total skin electron beam therapy (TSEBT) if MF covers most of the skin
+
+Sometimes more than one type of skin-directed treatment is used.
+Systemic (whole-body) treatments: Mycosis fungoides might stay just in the skin for many years. But eventually it might spread, which might require systemic treatment. Several types of treatment can be used, such as:
+
+Retinoids (taken by mouth)
+Targeted drugs like vorinostat (Zolinza) or romidepsin (Istodax)
+Photopheresis
+Interferons
+Brentuximab vedotin (Adcetris)
+Mogamulizumab (Poteligeo)
+Low-dose methotrexate (a chemo drug)
+
+Chemotherapy (usually with a single drug) or other medicines might be other options, but they are often reserved for lymphomas that are no longer responding to the treatments above. If single chemo drugs are not effective, combinations of drugs (similar to those used for other types of non-Hodgkin lymphoma) might be recommended.
+More than one type of treatment might be used at the same time. This could include combinations of skin-directed and systemic treatments (such as TSEBT plus photopheresis) or combined systemic treatments (such as an oral retinoid plus interferon).
+Many people can be helped by these treatments, sometimes for many years, but they rarely cure the lymphoma. If other treatments are no longer working, a stem cell transplant may be an option. Newer treatments are also being studied, so it might be worth considering entering a clinical trial.
+Sezary syndrome
+The systemic treatments used for advanced MF are also used to treat Sezary syndrome. This disease usually has spread beyond the skin at the time it is diagnosed, so treatments directed only at the skin are less useful than in MF (although some might still be part of treatment).
+Photopheresis may be helpful in treating the disease, as may retinoids, such as bexarotene. The targeted drugs vorinostat (Zolinza) and romidepsin (Istodax) might also be used, as might interferon, brentuximab vedotin (Adcetris), or mogamulizumab (Poteligeo). Chemotherapy or alemtuzumab can also be useful, but these are usually reserved for lymphomas that are no longer responding to other treatments. A stem cell transplant might be another option if other treatments are no longer working.
+As with advanced MF, these treatments are often helpful for a time, but they rarely result in a cure. Newer treatments are now being studied, so it might be worth considering entering a clinical trial of one of these.
+Primary cutaneous anaplastic large cell lymphoma (C-ALCL)
+This lymphoma usually stays confined to the skin. It can come back after treatment, but it seldom spreads inside the body and is rarely fatal. If it’s not causing symptoms, it can often be monitored closely without needing to be treated right away. The skin lesions may even go away on their own, without any treatment.
+If treatment is needed, options depend on how extensive the lymphoma is:
+
+For single skin lesions (or small groups of lesions), surgery and/or radiation therapy are the most common options. 
+If there are skin lesions in several places, chemotherapy (often methotrexate, taken as a pill) or the targeted drug brentuximab vedotin (Adcetris) are typical first options. Other chemotherapy, targeted therapy, or retinoid drugs might also be options, as well as radiation therapy.
+
+If the lymphoma comes back in the same place after treatment, often the same treatment can be used again. If one treatment is no longer helpful, another can be tried.
+If the lymphoma spreads to the lymph nodes or (rarely) internal organs, then systemic chemotherapy or brentuximab vedotin (Adcetris) is often used. Radiation therapy might also be an option.
+Lymphomatoid papulosis
+This disease often comes and goes on its own and usually has such a good outlook that treatment isn't needed right away, especially if the lesions aren't causing any symptoms. If treatment is needed, options depend on how extensive the lymphoma is:
+
+If there are only a few skin lesions, phototherapy and topical corticosteroids are the most common treatments.
+If the lesions are more extensive, skin-directed treatments (such as phototherapy or topical chemotherapy or retinoids) or systemic treatments (such as oral retinoids or low-dose methotrexate) are other options.
+
+More intensive systemic therapies are rarely needed.
+Subcutaneous panniculitis-like T-cell lymphoma
+Patients with this rare type of lymphoma can live a long time and generally have an excellent outlook. Although chemotherapy and radiation have been used successfully in the past, the disease can often be controlled for long periods with just corticosteroids.
+Primary cutaneous peripheral T-cell lymphoma, rare subtypes
+Primary cutaneous gamma/delta T-cell lymphoma tends to grow and spread very quickly. It is treated with systemic chemotherapy using a combination of drugs, but even with treatment it can be hard to control.
+Primary cutaneous CD8+ aggressive epidermotropic cytotoxic T-cell lymphoma usually grows quickly and is treated with systemic chemotherapy using a combination of drugs. Even with treatment, it can be hard to control.
+Primary cutaneous acral CD8+ T-cell lymphoma tends to grow slowly, and can usually be treated effectively with surgery or radiation therapy. It can sometimes come back, but it can often be treated again in a similar manner.
+Primary cutaneous CD4+ small/medium T-cell lymphoproliferative disorder sometimes goes away on its own. If treatment is needed, it can usually be done with surgery or radiation therapy, or by injecting a corticosteroid into the tumor. People with this lymphoma generally have a good outlook, especially if they have only one tumor.
+Some of these lymphomas can be hard to treat effectively, so clinical trials studying newer forms of treatment might be good options.
+B-cell lymphomas
+Primary cutaneous marginal-zone B-cell lymphoma or Primary cutaneous follicle-center lymphoma
+These types of lymphoma can sometimes be watched without treatment until problems develop, but usually treatment is recommended.
+For lymphomas that are in one spot or only a few spots close together, initial treatment is usually radiation therapy or surgery. Other options might include topical medicines such as corticosteroids, chemotherapy, bexarotene (Targretin), or imiquimod (Zyclara); or injected corticosteroids. If the lymphoma does not go away completely, one of the other treatments can be tried.
+For lymphomas that have spread over larger parts of the skin, treatment options include rituximab (Rituxan), topical medicines (such as corticosteroids, chemotherapy, bexarotene, or imiquimod), injected corticosteroids, or radiation therapy. Systemic chemotherapy (sometimes with rituximab), like that used for other slow-growing B-cell lymphomas, can also be used if there are many lesions.
+If the lymphoma has spread to lymph nodes or internal organs, it is treated like follicular lymphomas found in other parts of the body, typically with a combination of chemotherapy and rituximab (see Non-Hodgkin Lymphoma for more details).
+Primary cutaneous diffuse large B-cell lymphoma, leg type
+These lymphomas might look like they involve only a small area of the skin at first, but the disease is often more widespread than it first appears. The treatment of choice is rituximab (Rituxan) along with systemic chemotherapy. Often the regimen called R-CHOP (rituximab plus cyclophosphamide, doxorubicin, vincristine, and prednisone) is given, but other chemo combinations can also be used. If the lymphoma is in only one or a few areas, radiation therapy directed at the tumors is often used as well. For people who can’t tolerate chemotherapy, radiation therapy alone may be given.
+If the lymphoma has spread to the lymph nodes or other organs, treatment is the same as that used for diffuse large B-cell lymphomas (DLBCLs) found in other parts of the body, which is usually R-CHOP, with or without radiation therapy (see Non-Hodgkin Lymphoma for more details).
+If the lymphoma keeps growing or comes back after treatment
+Some skin lymphomas respond well to treatment, but others might not. If this happens, other types of treatment can often be tried. But as more treatments are tried, they may be less likely to work or more likely to cause side effects.
+When a cancer comes back after treatment it is called recurrent or relapsed. In general, if a skin lymphoma comes back it tends to be in the skin. If this is the case, skin-directed therapies that haven’t been used yet may be effective.
+Some skin lymphomas eventually spread inside the body as well. Often, the lymph nodes are the first site of relapse. After that, the lymphoma might spread to organs such as the liver or spleen, and bone marrow. Different types of systemic treatments may be helpful in this situation. Chemotherapy is often used, especially if a person hasn’t had chemo before. Depending on the type of lymphoma and which treatments a person has had before, other drugs, such as vorinostat (Zolinza), romidepsin (Istodax), brentuximab vedotin (Adcetris), or mogamulizumab (Poteligeo), might also be options. A stem cell transplant may be another option at some point.
+Advanced skin lymphomas are very hard to cure. Different systemic treatments may be effective for some time. But in general, the more treatments a person has had, the less likely it is that the next treatment will be helpful.
+A good option for some people might be to consider clinical trials of treatments that work in new ways. Many newer treatments are now being studied. For more info, see What’s New in Skin Lymphoma Research? 
+If newer or more aggressive treatments are no longer working, at some point a person might want to think about treatments aimed more at relieving the symptoms of the lymphoma. This approach is called palliative care.For some people with skin lymphoma, treatment can remove or destroy the cancer. Completing treatment can be both stressful and exciting. You may be relieved to finish treatment, but find it hard not to worry about the lymphoma coming back. (When cancer comes back after treatment, it is called a recurrence.) This is a very common concern if you've had cancer.
+For many people, the lymphoma may never go away completely. These people may get regular treatments such as chemotherapy, radiation, or other therapies to help keep the lymphoma under control for as long as possible and to help relieve symptoms from it. Learning to live with lymphoma that doesn't go away can be difficult and very stressful. It has its own type of uncertainty. See Managing Cancer as a Chronic Illness for more about this.
+Follow-up care
+Whether you have completed treatment or are still being treated, your doctors will still want to watch you closely with regular physical exams, blood tests, and possibly imaging tests. It's very important to go to all of your follow-up appointments. Your doctor visits are a good time to ask questions and talk about any changes or problems you notice or concerns you have.
+Exams and tests
+During your follow-up visits, your doctor will ask about symptoms, examine you, and may order some tests. For example, you may need to have frequent blood tests to monitor your bone marrow function, to check that you have recovered from treatment, and to look for possible signs of disease recurrence.
+The choice of other tests depends on the type, location, and extent of your lymphoma. If lymph nodes or other organs are affected, CT scans may be used to measure the size of any remaining tumors. PET scans may be done if your doctors aren’t sure if an abnormal area on a CT scan is an active lymphoma or scar tissue.
+Ask your doctor for a survivorship care plan
+Talk with your doctor about developing a survivorship care plan for you. This plan might include: 
+
+A suggested schedule for follow-up exams and tests
+A schedule for other tests you might need in the future, such as early detection (screening) tests for other types of cancer, or tests to look for long-term health effects from your cancer or its treatment
+A list of possible late- or long-term side effects from your treatment, including what to watch for and when you should contact your doctor
+Diet and physical activity suggestions
+
+Keeping health insurance and copies of your medical records
+Even after treatment, it’s very important to keep health insurance. Tests and doctor visits cost a lot, and even though no one wants to think of their lymphoma coming back, this could happen.
+At some point after your treatment, you might find yourself seeing a new doctor who doesn’t know about your medical history. It’s important to keep copies of your medical records to give your new doctor the details of your diagnosis and treatment. Learn more in Keeping Copies of Important Medical Records.
+Can I lower my risk of the lymphoma progressing or coming back?
+If you have (or have had) a skin lymphoma, you probably want to know if there are things you can do that might lower your risk of it growing or coming back, such as exercising, eating a certain type of diet, or taking nutritional supplements. Unfortunately, it’s not yet clear if there are things you can do that will help.
+Adopting healthy behaviors such as not smoking, eating well, getting regular physical activity, and staying at a healthy weight might help, but no one knows for sure. However, we do know that these types of changes can have positive effects on your health that can extend beyond your risk of lymphoma or other cancers.
+About dietary supplements
+So far, no dietary supplements (including vitamins, minerals, and herbal products) have been shown to clearly help lower the risk of skin lymphoma progressing or coming back. This doesn’t mean that no supplements will help, but it’s important to know that none have been proven to do so.
+Dietary supplements are not regulated like medicines in the United States – they do not have to be proven effective (or even safe) before being sold, although there are limits on what they’re allowed to claim they can do. If you’re thinking about taking any type of nutritional supplement, talk to your health care team. They can help you decide which ones you can use safely while avoiding those that might be harmful.
+If the lymphoma comes back
+If the lymphoma does come back at some point, further treatment will depend on the type of lymphoma, where it recurs, what treatments you’ve had before, and your health and preferences. For more information, see Treatment for Specific Types of Skin Lymphoma. For more general information on dealing with a recurrence, see Coping with Cancer Recurrence.
+Can I still get another type of cancer?
+Unfortunately, being treated for skin lymphoma doesn’t mean you can’t get another cancer. People who have had lymphoma of the skin can still get the same types of cancers that other people get. In fact, they might even be at higher risk for certain types of cancer, such as other lymphomas.
+Because of this, it’s important to do what you can to lower your cancer risk, such as not smoking, staying at a healthy weight, staying active, and eating a healthy diet. And be sure to talk to your doctor about which cancer screening tests are right for you.
+Getting emotional support
+Some amount of feeling depressed, anxious, or worried is normal when cancer is a part of your life. Some people are affected more than others. But everyone can benefit from help and support from other people, whether friends and family, religious groups, support groups, professional counselors, or others. To learn more about this, see Coping With Cancer.What is lymphoma of the skin?
+Lymphoma is a cancer that starts in white blood cells called lymphocytes (LIM-fo-sites). Lymphomas can start almost any place in the body. When a lymphoma starts in the skin, it is called a skin lymphoma (or cutaneous lymphoma).
+Lymphocytes are part of the body’s immune system, and normally they help the body fight infections. There are 2 main types of lymphocytes:
+
+B lymphocytes (B cells)
+T lymphocytes (T cells)
+
+Most skin lymphomas start in T cells.
+Different kinds of lymphoma of the skin
+There are many types of skin lymphomas. Many of these are very rare. Your doctor can tell you more about the type you have.
+Here are the medical names for the most common types of skin lymphoma in the US.
+
+Mycosis fungoides
+Sezary syndrome
+
+Questions to ask the doctor
+
+Why do you think I have a skin lymphoma?
+Is there a chance I don’t have a skin lymphoma?
+Would you please write down the kind of skin lymphoma you think I might have?
+What will happen next?
+
+How does the doctor know I have lymphoma of the skin?
+Lymphomas of the skin can be seen and felt. They often start out as a very itchy, red or purple rash, which can look like any of these:
+
+Small pimples
+Flat areas, which might be raised or lowered
+Lumps or bumps under the skin 
+
+The lymphoma might affect only a small area of skin, or it might affect large areas of the body. Sometimes people with skin lymphoma have other symptoms, such as fever, weight loss, and sweating.
+The doctor will ask you questions about your symptoms and your health, and will do a physical exam. The doctor will look closely at the skin, and might feel the nearby lymph nodes (bean-sized groups of immune cells) under the skin to see if they are affected. Skin lymphomas can sometimes spread to the lymph nodes, making them swollen or hard.
+Tests that may be done
+It can be hard for doctors to tell a skin lymphoma apart from other causes of skin rashes, so sometimes it takes a while to be sure. If the doctor thinks you might have a skin lymphoma, tests will be done. Here are some of the tests you might need:
+Biopsy: In this test, the doctor takes out a piece of the skin to check it for cancer cells. This is often done with local anesthesia. This means you’re awake but the area where the biopsy is done is numb. 
+A biopsy is the only way to tell for sure if you have a skin lymphoma. There are many types of biopsies. Each type has pros and cons. The choice of which one to use depends on your own case. Ask your doctor what type you will need.
+Sometimes biopsies might be done on other parts of the body as well, such as nearby lymph nodes or the bone marrow (the soft, inner part of some bones). This is to check if the cancer has spread there.
+Blood tests: Certain blood tests can tell the doctor more about the types of cells and chemicals in your blood.
+Chest x-ray: X-rays may be done to look for enlarged lymph nodes in the chest.
+CT scan: This is a special kind of x-ray test that makes detailed pictures. It can be used to look for swollen lymph nodes or other organs.
+MRI scan: MRIs use radio waves and strong magnets instead of x-rays to make detailed pictures. This test isn’t often done for skin lymphomas, unless a CT scan can’t be done for some reason.
+Ultrasound: For this test, a small wand is moved around on your skin. It gives off sound waves and picks up the echoes as they bounce off tissues. The echoes are made into a picture on a computer screen. Ultrasound can be used to look for swollen lymph nodes in places like your belly.
+PET scan: In this test, you are injected with a special type of sugar that can be seen inside your body with a special camera. If there is cancer, this sugar shows up as “hot spots” where the cancer is found. This test can help show if the lymphoma has spread. Sometimes it is done at the same time as a CT scan (known as a PET/CT scan).
+Questions to ask the doctor
+
+What tests will I need?
+Who will do these tests?
+Where will they be done?
+How and when will I get the results?
+Who will explain the results to me?
+What do I need to do next?
+
+How serious is my cancer?
+If you have a skin lymphoma, the doctor will want to find out how far it has spread. This is called the stage of the cancer. Your doctor will want to find out the stage of your lymphoma to help decide what type of treatment is best for you.
+The stage is based on the spread of the lymphoma on the skin, as well as if it has reached other parts of your body. 
+Some types of skin lymphoma are given as stage such as 1, 2, 3, or 4. The lower the number, the less the cancer has spread. A higher number, like stage 4, means a more serious cancer that has spread farther. Be sure to ask the doctor about the cancer stage and what it means for you.
+Questions to ask the doctor
+
+Do you know the stage of the lymphoma?
+If not, how and when will you find out the stage?
+Would you explain to me what the stage means in my case?
+How does the stage affect my treatment options?
+What will happen next?
+
+What kind of treatment will I need?
+There are many ways to treat skin lymphomas. The main types of treatment are divided into 2 groups:
+
+Treatments aimed only at the skin
+Treatments that affect the whole body
+
+Doctors might use one or both types of treatment for a skin lymphoma. The treatment plan that’s best for you will depend on:
+
+The type of skin lymphoma you have
+The stage of the lymphoma
+The chance that a type of treatment will cure your lymphoma or help in some other way
+Your age
+Other health problems you have
+Your feelings about the treatment and the side effects that come with it
+
+Treatments aimed just at the skin
+For many skin lymphomas (especially if they are small and have not spread), the first treatment is aimed just at the skin lymphoma, to try to avoid side effects in the rest of the body. There are many ways to do this.
+Surgery: This is rarely the only treatment for skin lymphoma, but it might be used to treat some types of skin lymphomas that can be removed completely. Even then, other types of treatment may be used as well.
+Radiation: This treatment uses high-energy rays (like x-rays or parts of atoms) to kill cancer cells. It may be used as the main treatment for some skin lymphomas. The treatment is a lot like getting an x-ray. The radiation is stronger, but it is still painless. 
+The most common side effects are skin changes (most often like a sunburn) in the area being treated. If a large part of the body is treated, it might cause loss of all hair on the body, and even the loss of fingernails and toenails.
+Phototherapy, also known as UV light therapy: UV light can be used to treat some skin lymphomas. Treatment is given a few times a week with a special lamp, which is like those used in tanning salons. Sometimes a drug is taken as a pill before each treatment to help it work better. This type of treatment is called PUVA. 
+Just like when you are exposed to sunlight outside, treatment with UV light can cause sunburn. If pills are taken as part of PUVA, they can make the skin very sensitive to sunlight, so you will need to protect yourself from sunlight in the days after treatment.
+Topical medicines: These are drugs that are put right on (or into) the skin. They treat the lymphoma while limiting side effects in other parts of the body.
+
+Topical steroids: These drugs affect immune cells (like lymphoma cells), and they can be very helpful in treating some skin lymphomas. They can be put on the skin as ointments, gels, foams, and creams, or they can be injected into skin. 
+Topical chemotherapy: Chemotherapy (chemo) drugs are strong medicines used to treat cancer. Some chemo drugs can be put right on the skin (usually in a cream, ointment, or gel) to treat skin lymphomas that have not spread. Side effects can include redness and swelling in places where the drug is used.
+Topical retinoids: Retinoids are drugs related to vitamin A. They can affect certain genes in lymphoma cells that cause them to grow or mature. Some retinoids come in a gel that can be put right on the skin. Side effects can include redness, itching, swelling, and sensitivity to sunlight in places where the drug is used.
+Topical immune treatment: Imiquimod is a cream that causes an immune reaction when applied to skin lymphomas, which may help destroy them. This drug is used mainly to treat some other types of skin cancers, but some doctors might also use it to treat early forms of skin lymphoma. It can cause redness, swelling, and itching in the place where it is used.
+
+Treatments that affect the whole body
+These treatments are most useful for skin lymphomas that are widespread or are growing quickly. 
+Photopheresis, also known as ECP: This treatment can kill lymphoma cells, as well as help the body’s immune system attack them. 
+For each treatment, the person’s blood is collected from a vein. It goes into a special machine that separates out the lymphocytes (including lymphoma cells). The cells are mixed with a drug that makes them sensitive to light, and then they’re exposed to UV light. They are then mixed back in with the rest of the blood and put back into the patient through a vein. The treatment usually takes a few hours.
+This treatment can make the skin very sensitive to sunlight, so you will need to protect yourself from the sun in the days after treatment.
+Chemotherapy (chemo): Chemo drugs that are taken as a pill or injected in the blood can reach all parts of the body. Chemo may be used if the lymphoma in the skin is more advanced and no longer getting better with other treatments, or if it has spread to other parts of the body.
+Many different chemo drugs can be used. Often a single drug is tried first, but sometimes more than one drug is used. Chemo is given in cycles or rounds, which last a few weeks. Each round of treatment is followed by a break.
+Chemo can make you feel very tired, sick to your stomach, and cause your hair to fall out. These problems tend to go away after treatment ends. Some chemo drugs can have other side effects. There are ways to treat most chemo side effects. If you have side effects, talk to your cancer care team so they can help.
+Targeted drugs: Targeted drugs work by aiming at parts of cancer cells that make them different from normal cells. These drugs don’t work the same way as chemo drugs. They can sometimes help when chemo drugs don’t, and they often have different side effects. Some are given into a vein, while others are taken as pills. 
+The side effects depend on which drug you are taking. Talk to your cancer care team to learn more about which side effects you might have.
+Immune treatments: Some drugs work by helping the body’s immune system attack the cancer cells. These drugs are given into a vein.
+The side effects depend on which drug you are taking. Talk to your cancer care team to learn more about which side effects you might have.
+Retinoids: These are drugs related to vitamin A. They can be taken in pill form for skin lymphomas that are widespread.
+Side effects can include headaches, feeling sick to your stomach, fever, thyroid problems, and eye problems. Some retinoids can cause more serious side effects, like fluid buildup in the body.
+Stem cell transplant: This treatment (also known as a bone marrow transplant) might be an option if other treatments are no longer working. It lets doctors give higher doses of chemo than they normally could (because of the severe side effects it would cause).
+First, a person gets high doses of chemo. This can destroy the bone marrow, where new cells are made. To help with this, the person then gets an injection of stem cells (which most often come from another person). The stem cells go to the bone marrow, where they start to make new blood cells. 
+A stem cell transplant is a complex treatment that can cause major side effects, and you might need to stay in the hospital for a long time. It should only be done at a center that has a team of doctors who are experts in this treatment.
+Clinical trials
+Clinical trials are research studies that test new drugs or other treatments in people. They compare standard treatments with others that may be better.
+If you would like to learn more about clinical trials that might be right for you, start by asking your doctor if your clinic or hospital conducts clinical trials. See Clinical Trials to learn more.
+Clinical trials are one way to get the newest cancer treatment. They are one of the best ways for doctors to find better ways to treat cancer. But they might not be for everyone. If your doctor can find one that’s studying the kind of cancer you have, it’s up to you whether to take part. And if you do sign up for a clinical trial, you can always stop at any time.
+What about other treatments I hear about?
+When you have a skin lymphoma you might hear about other ways to treat the cancer or treat your symptoms. These may not always be standard medical treatments. These treatments may be vitamins, herbs, special diets, and other things. You may wonder about these treatments.
+Some of these might help, but many have not been tested. Some have been shown not to help. A few have even been found to be harmful. Talk to your doctor about anything you’re thinking about using, whether it’s a vitamin, a diet, or anything else.
+Questions to ask the doctor
+
+Will I need to see any other types of doctors?
+What treatment do you think is best for me?
+What’s the goal of this treatment? Do you think it could cure the lymphoma?
+Will I need other types of treatment, too?
+What’s the goal of these treatments?
+What side effects could I have from these treatments?
+What can I do about side effects that I might have?
+Is there a clinical trial that might be right for me?
+What about special vitamins or diets that friends tell me about? How will I know if they are safe?
+Do I need to start treatment right away?
+What should I do to be ready for treatment?
+Is there anything I can do to help the treatment work better?
+What’s the next step?
+
+What will happen after treatment?
+Some people might keep getting treatment, while others might be finished at some point. You’ll be glad when treatment is over. But it’s hard not to worry about cancer coming back. Even when cancer never comes back, people still worry about it. For years after treatment ends, you will see your cancer doctor. Be sure to go to all of these follow-up visits. You might have exams, blood tests, and scans to see if the cancer has come back. At first, your visits may be every few months. Then, the longer you’re cancer-free, the less often the visits are needed.
+Having cancer and dealing with treatment can be hard, but it can also be a time to look at your life in new ways. You might be thinking about how to improve your health. Call us at 1-800-227-2345 or talk to your cancer care team to find out what you can do to feel better.
+You can’t change the fact that you have cancer. What you can change is how you live the rest of your life – making healthy choices and feeling as good as you can.

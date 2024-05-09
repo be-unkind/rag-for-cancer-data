@@ -1,0 +1,906 @@
+Cancer starts when cells in the body start to grow out of control. Cells in nearly any part of the body can become cancer. To learn more about cancer and how it starts and spreads, see What Is Cancer? For information about the differences between childhood cancers and adult cancers, see Cancer in Children.
+Leukemias are cancers that start in cells that would normally develop into different types of blood cells. Most often, leukemia starts in early forms of white blood cells, but some leukemias start in other blood cell types..
+Types of leukemia in children
+There are different types of leukemia, which are based mainly on: 
+
+If the leukemia is acute (fast growing) or chronic (slower growing)
+If the leukemia starts in myeloid cells or lymphoid cells
+
+Knowing the specific type of leukemia a child has can help doctors better predict each child’s prognosis (outlook) and select the best treatment.
+Acute leukemias
+Most childhood leukemias are acute. These leukemias can progress quickly, and typically need to be treated right away. The main types of acute leukemia are:
+
+Acute lymphocytic (lymphoblastic) leukemia (ALL): About 3 out of 4 childhood leukemias are ALL. These leukemias start in early forms of white blood cells called lymphocytes.
+Acute myeloid leukemia (AML): This type of leukemia, also called acute myelogenous leukemia, acute myelocytic leukemia, or acute non-lymphocytic leukemia, accounts for most of the remaining cases of childhood leukemia. AML starts from the myeloid cells that normally form white blood cells (other than lymphocytes), red blood cells, or platelets.
+
+Rarely, acute leukemias can have features of both ALL and AML. These are called mixed lineage leukemias, acute undifferentiated leukemias, or mixed phenotype acute leukemias (MPALs). In children, they are generally treated like ALL and usually respond to treatment like ALL.
+Both ALL and AML have subtypes. These are described in Childhood Leukemia Subtypes.
+Chronic leukemias
+Chronic leukemias are rare in children. These leukemias tend to grow more slowly than acute leukemias, but they are also harder to cure. Chronic leukemias can be divided into 2 main types:
+
+Chronic myeloid leukemia (CML): Also called chronic myelogenous leukemia, CML is rare in children. Treatment is similar to that used for adults (see ﻿﻿Treatment of Children With Chronic Myeloid Leukemia [CML]). For more detailed information on CML, see Leukemia--Chronic Myeloid.
+Chronic lymphocytic leukemia (CLL): This leukemia is extremely rare in children. For more information on CLL, see Leukemia--Chronic Lymphocytic.
+
+Juvenile myelomonocytic leukemia (JMML)
+This rare type of leukemia is neither chronic nor acute. It starts in myeloid cells, but it usually doesn’t grow as fast as AML or as slowly as CML. It occurs most often in young children (average age of 2 years). Symptoms can include pale skin, fever, cough, easy bruising or bleeding, trouble breathing (from too many white blood cells in the lungs), rash, and an enlarged spleen, liver, and lymph nodes. For info on treating JMML, see Treatment of Children With Juvenile Myelomonocytic Leukemia (JMML).
+Normal bone marrow, blood, and lymph tissue
+To understand leukemia, it helps to know about the bone marrow, blood, and lymph systems.
+Bone marrow
+Bone marrow is the soft inner part of certain bones. It is made up of blood-forming cells, fat cells, and supporting tissues. A small number of the blood-forming cells are blood stem cells.
+Blood stem cells go through a series of changes to make new blood cells. During this process, the cells become either lymphocytes (a kind of white blood cell) or other blood-forming cells, which are types of myeloid cells. Myeloid cells can develop into red blood cells, white blood cells (other than lymphocytes), or platelets.
+Red blood cells
+Red blood cells (RBCs) carry oxygen from the lungs to all other tissues in the body, and take carbon dioxide back to the lungs to be removed.
+Platelets
+Platelets are actually cell fragments made by a type of bone marrow cell called the megakaryocyte. Platelets are important in stopping bleeding by plugging up holes in blood vessels.
+White blood cells
+White blood cells (WBCs) help the body fight infections. There are different types of white blood cells:
+
+Lymphocytes are mature WBCs that develop from lymphoblasts, a type of blood-forming cell in the bone marrow. Lymphocytes are the main cells that make up lymph tissue, a major part of the immune system. Lymph tissue is found in the lymph nodes, thymus (a small organ behind the breast bone), spleen, tonsils and adenoids, and bone marrow. It is also scattered through the digestive system and respiratory system. There are 2 main types of lymphocytes: B cells and T cells. (ALL, the most common type of childhood leukemia, can start in either B cells or T cells.) For more information, see Childhood Leukemia Subtypes.
+Granulocytes are mature WBCs that develop from myeloblasts, a type of blood-forming cell in the bone marrow. Granulocytes have granules that show up as spots under the microscope. These granules contain enzymes and other substances that can destroy germs, such as bacteria. The 3 types of granulocytes – neutrophils, basophils, and eosinophils – are distinguished under the microscope by the size and color of their granules.
+Monocytes develop from blood-forming monoblasts in the bone marrow and are related to granulocytes. After circulating in the bloodstream for about a day, monocytes enter body tissues to become macrophages, which can destroy some germs by surrounding and digesting them.
+
+Start and spread of leukemia
+Leukemia starts in the bone marrow. The leukemia cells can build up there, crowding out normal cells. Most often, the leukemia cells spill into the bloodstream fairly quickly. Some types of leukemia can also spread to other parts of the body such as the lymph nodes, spleen, liver, central nervous system (the brain and spinal cord), testicles, or other organs.
+Some other childhood cancers, such as neuroblastoma or rhabdomyosarcoma, start in other organs and can spread to bone marrow, but these cancers are not leukemia.Leukemia is the most common cancer in children and teens, accounting for almost 1 out of 3 cancers. Overall, however, childhood leukemia is a rare disease.
+About 3 out of 4 leukemias among children and teens are acute lymphocytic leukemia (ALL). Most of the remaining cases are acute myeloid leukemia (AML).
+
+ALL is most common in early childhood, peaking between 2 and 5 years of age.
+AML tends to be more spread out across the childhood years, but it's slightly more common during the first 2 years of life and during the teenage years.
+ALL is slightly more common among Hispanic and White children than among African American and Asian American children, and it is more common in boys than in girls.
+AML occurs about equally among boys and girls of all races.
+
+Chronic leukemias are rare in children. Most of these are chronic myeloid leukemia (CML), which tends to occur more in teens than in younger children.
+Juvenile myelomonocytic leukemia (JMML) is also rare. It usually occurs in young children, with an average age of about 2. It is slightly more common in boys than in girls.
+Visit the American Cancer Society’s Cancer Statistics Center for more key statistics.
+For statistics related to survival, see Survival Rates for Childhood Leukemias.Researchers are now studying the causes, diagnosis, and treatment of childhood leukemia at many medical centers, university hospitals, and other institutions.
+Genetics
+Scientists are making progress in understanding the changes in the DNA inside bone marrow stem cells that can cause them to develop into leukemia cells. Understanding these gene and chromosome changes can help explain why these cells may grow out of control, and why they don’t develop into normal, mature blood cells. Doctors are now looking to use these changes to help them determine a child’s outlook and to determine what treatment is likely to be best.
+This progress has already led to vastly improved and very sensitive tests for detecting leukemia cells in blood or bone marrow samples. The polymerase chain reaction (PCR) test, for example, can identify very small numbers of leukemia cells based on their chromosome changes. This test is useful in determining how completely the leukemia has been destroyed by treatment, and whether a relapse is likely if further treatment isn't given. Newer tests known as next generation sequencing (NGS) tests, which are just now coming into use, might be able to help with this even more.
+Causes, and possibly prevention
+Researchers continue to look for possible causes of leukemia in children, which might include a combination of both genetics and environmental exposures. 
+For example, one theory that has gained some ground in recent years is that some childhood leukemias might be caused by a combination of certain gene changes that happen very early in life (even before birth), along with being exposed to certain germs (particularly viruses) later than normal. This “delayed infection” (after the first year or so of life) might affect the immune system in a way that leads to a second gene change, which in turn might lead to leukemia.
+This might help explain why some studies have found that the risk of childhood leukemia seems to be lower in children who were in daycare during their first year of life (which would have exposed them to common infections earlier).
+More research is needed to confirm this theory. But if it is confirmed, it might be possible to lower childhood leukemia risk by ensuring children are exposed to certain germs very early in life.  
+Clinical trials
+Most children with leukemia are treated at major medical centers, where treatment is often given in clinical trials to help ensure children get the most up-to-date care. Several important questions are now being studied in clinical trials. Among them are:
+
+Why do some children with acute lymphocytic leukemia (ALL) relapse after treatment, and how can this be prevented?
+Are there other prognostic factors that will help identify which children need more or less intensive treatment?
+Can chemotherapy drug resistance in acute myelogenous leukemia (AML) be reversed?
+Are there better drugs or combinations of drugs for treating the different types of childhood leukemia?
+When should a stem cell transplant be used to treat leukemia?
+How effective are stem cell transplants in children who don’t have a brother or sister who is a good tissue type match?
+Can a second stem cell transplant help children who relapse after a first stem cell transplant?
+What are the best treatment approaches for children with less common forms of leukemia, such as juvenile myelomonocytic leukemia (JMML) and chronic myeloid leukemia (CML)?
+
+Immunotherapy to treat childhood leukemia
+Immunotherapies are treatments that boost a child’s own immune system to help fight leukemia. Some types of immunotherapy have shown a lot of promise in treating childhood leukemia, even when other treatments are no longer working.
+Chimeric antigen receptor (CAR) T-cell therapy
+In this treatment, immune cells called T cells are removed from the child’s blood and genetically altered in the lab to help them attack leukemia cells. The T cells are then given back into the child’s blood, where they can seek out the leukemia cells throughout the body.
+This technique has shown very encouraging results in clinical trials against some advanced, hard-to-treat cases of ALL. In many children the leukemia could no longer be detected after treatment, although it’s not yet clear if these children have been cured.
+Doctors are still improving how they make the T cells and are learning the best ways to use them. CAR T-cell therapy is only available at certain major medical centers at this time.
+Monoclonal antibody therapy
+Antibodies are proteins made by the body’s immune system to help fight infections. Man-made versions, called monoclonal antibodies, can be designed to attack a specific target, such as a protein on the surface of leukemia cells.
+An example is blinatumomab (Blincyto), a special kind of monoclonal antibody that can attach to 2 different proteins at the same time. This drug brings the leukemia cells and immune cells together, which is thought to cause the immune system to attack the leukemia cells. This drug can be used to treat some types of B-cell ALL.
+For more on these treatments, see Immunotherapy for Childhood Leukemia.
+Other types of immunotherapy are now being studied as well.
+New targeted drugs to treat AML
+As researchers have learned more about the gene changes that drive the growth of leukemia cells, they’ve begun to develop drugs that can target these gene changes. For example, several newer types of targeted drugs are now being used to treat adults with AML, and many of these are now being tested for use in children as well.
+FLT3 inhibitors: These drugs attack cells with a mutated FLT3 gene. Examples include midostaurin (Rydapt) and gilteritinib (Xospata).
+IDH inhibitors: These drugs target leukemia cells that have mutations in the IDH1 or IDH2 gene. Examples include ivosidenib (Tibsovo) and enasidenib (Idhifa).
+BCL-2 inhibitors: These drugs attack BCL-2, a protein that can help leukemia cells live longer. An example is venetoclax (Venclexta).A risk factor is anything that affects a person’s chance of getting a disease such as cancer. Different cancers have different risk factors.
+In general, l﻿eukemia is more common in boys than girls. The reason for this is not clear.  Lifestyle-related risk factors such as tobacco use, diet, body weight, and physical activity play a major role in many adult cancers. But these factors usually take many years to influence cancer risk, and they are not thought to play much of a role in childhood cancers, including leukemias.
+Genetic risk factors
+Genetic risk factors are those that are part of our DNA (the substance that makes up our genes). They are often inherited from our parents. While some genetic factors increase the risk of childhood leukemia, most leukemias are not linked to any known genetic causes.
+Genetic syndromes
+Some genetic disorders increase a child’s risk of developing leukemia:
+
+Down syndrome (trisomy 21): Children with Down syndrome have an extra (third) copy of chromosome 21. They are many times more likely to develop either acute lymphocytic leukemia (ALL) or acute myeloid leukemia (AML) than are other children, with an overall risk of about 2% to 3%. Down syndrome has also been linked with transient leukemia (also known as transient myeloproliferative disorder) – a leukemia-like condition within the first month of life, which often resolves on its own without treatment.
+Li-Fraumeni syndrome: This is a rare inherited condition caused by a change in the TP53 gene. People with this change have a higher risk of developing several kinds of cancer, including leukemia, bone or soft tissue sarcomas, breast cancer, adrenal gland cancer, and brain tumors.
+
+Other genetic disorders (such as neurofibromatosis and Fanconi anemia) also carry an increased risk of leukemia, as well as some other types of cancers.
+Inherited immune system problems
+Certain inherited conditions cause children to be born with immune system problems. These include:
+
+Ataxia-telangiectasia
+Wiskott-Aldrich syndrome
+Bloom syndrome
+Shwachman-Diamond syndrome
+
+Along with an increased risk of getting serious infections from reduced immune defenses, these children might also have an increased risk of leukemia.
+Having a brother or sister with leukemia
+Siblings (brothers and sisters) of children with leukemia have a slightly increased chance of developing leukemia, but the overall risk is still low. The risk is much higher among identical twins. If one twin develops childhood leukemia, the other twin has about a 1 in 5 chance of getting leukemia as well. This risk is much higher if the leukemia develops in the first year of life.
+Having a parent who develops leukemia as an adult does not seem to raise a child’s risk of leukemia.
+Lifestyle-related risk factors
+Lifestyle-related risk factors for some adult cancers include smoking, being overweight, drinking too much alcohol, and getting too much sun exposure. These types of factors are important in many adult cancers, but they are unlikely to play a role in most childhood cancers.
+Some studies have suggested that a woman drinking a lot of alcohol during pregnancy might increase the risk of leukemia in her child, but not all studies have found such a link.
+Environmental risk factors
+Environmental risk factors are influences in our surroundings, such as radiation and certain chemicals, that increase the risk of getting diseases such as leukemias.
+Radiation exposure
+Exposure to high levels of radiation is a risk factor for childhood leukemia. Japanese atomic bomb survivors had a greatly increased risk of developing AML. If a fetus is exposed to radiation within the first months of development, there may also be an increased risk of childhood leukemia, but the extent of the risk is not clear.
+The possible risks from fetal or childhood exposure to lower levels of radiation, such as from x-ray tests or CT scans, are not known for sure. Some studies have found a slight increase in risk, while others have found no increased risk. Any risk increase is likely to be small, but to be safe, most doctors recommend that pregnant women and children not get these tests unless they are absolutely needed.
+Exposure to chemotherapy and certain other chemicals
+Children and adults treated for other cancers with certain chemotherapy drugs have a higher risk of getting a second cancers, usually AML, later in life. Drugs such as cyclophosphamide, doxorubicin, etoposide, and teniposide have been linked to a higher risk of leukemia. These leukemias usually develop within 5 to 10 years of treatment, and they tend to be hard to treat.
+Exposure to chemicals such as benzene (a solvent used in the cleaning industry and to manufacture some drugs, plastics, and dyes) may cause acute leukemia in adults and, rarely, in children. Chemical exposure is more strongly linked to an increased risk of AML than to ALL.
+Several studies have found a possible link between childhood leukemia and household exposure to pesticides, either during pregnancy or early childhood. Some studies have also found a possible increased risk among mothers with workplace exposure to pesticides before their child is born. However, most of these studies had serious limitations in the way they were done. More research is needed to try to confirm these findings and to provide more specific information about the possible risks.
+Immune system suppression
+Children who are getting intensive treatment to suppress their immune system (mainly children who have had organ transplants) have an increased risk of certain cancers, such as lymphoma and ALL.
+Uncertain, unproven, or controversial risk factors
+Other factors that have been studied for a possible link to childhood leukemia include:
+
+Exposure to electromagnetic fields (such as living near power lines)
+Living near a nuclear power plant
+Infections (especially from viruses) early in life
+Mother’s age when child is born
+Parent’s smoking history
+Fetal exposure to hormones such as diethylstilbestrol (DES) or birth control pills
+Father’s workplace exposure to chemicals and solvents
+Chemical contamination of ground water
+
+So far, most studies have not found strong links between any of these factors and childhood leukemia, but researchers continue to study these exposures.The exact cause of most childhood leukemias is not known. Most children with leukemia do not have any known risk factors.
+Still, scientists have learned that certain changes in the DNA inside normal bone marrow cells can cause them to grow out of control and become leukemia cells. DNA is the chemical in our cells that makes up our genes, which control how our cells function. We usually look like our parents because they are the source of our DNA. But our genes affect more than how we look.
+Some genes control when our cells grow, divide into new cells, and die at the right time:
+
+Genes that help cells grow, divide, or stay alive are called oncogenes.
+Genes that help keep cell division under control or cause cells to die at the right time are called tumor suppressor genes.
+
+Cancers can be caused by DNA mutations (or other types of changes) that keep oncogenes turned on, or that turn off tumor suppressor genes. These gene changes can be inherited from a parent (as is sometimes the case with childhood leukemias), or they may happen randomly during a person’s lifetime if cells in the body make mistakes as they divide to make new cells.
+A common type of DNA change that can lead to leukemia is known as a chromosome translocation. Human DNA is packed into 23 pairs of chromosomes. In a translocation, DNA from one chromosome breaks off and becomes attached to a different chromosome. The point on the chromosome where the break occurs can affect oncogenes or tumor suppressor genes. For example, a translocation seen in nearly all cases of childhood chronic myeloid leukemia (CML) and in some cases of childhood acute lymphocytic leukemia (ALL) is a swap of DNA between chromosomes 9 and 22, which leads to what is known as the Philadelphia chromosome. This creates an oncogene known as BCR-ABL, which helps the leukemia cells grow. Many other changes in chromosomes or in specific genes have been found in childhood leukemias as well.
+Inherited versus acquired gene mutations
+Some children inherit DNA mutations from a parent that increase their risk for cancer (see Risk Factors for Childhood Leukemia). For instance, a condition called Li-Fraumeni syndrome, which results from an inherited mutation of the TP53 tumor suppressor gene, increases a person’s risk of developing leukemia, as well as some other cancers.
+Certain inherited conditions can increase the risk of developing leukemia, but most childhood leukemias do not seem to be caused by inherited mutations. Usually, DNA mutations related to leukemia develop after conception rather than having been inherited. Some of these acquired mutations might occur early, even before birth. In rare cases, acquired mutations can result from exposure to radiation or cancer-causing chemicals, but most often they occur for no apparent reason.
+Combinations of genetic and environmental factors
+Some studies have suggested that many childhood leukemias may be caused by a combination of genetic and environmental factors. For example:
+Certain genes normally control how our bodies break down and get rid of harmful chemicals. Some people have different versions of these genes that make them less effective. Children who inherit one of these gene changes may not be as able to break down harmful chemicals if they are exposed to them. The combination of genetics and exposure might increase their risk for leukemia.
+Some research suggests that some childhood leukemias might be caused by a combination of certain gene changes that happen very early in life, along with being exposed to certain viruses later than normal. This “delayed infection” (after the first year or so of life) might affect the immune system in a way that leads to leukemia. For more on this, see What’s New in Childhood Leukemia Research?
+Research on these and other possible causes of childhood leukemias is ongoing. But at this time the cause of most childhood leukemias is not known for sure. What's more, the different types of childhood leukemia might each have different causes.At this time there are no widely recommended blood tests or other screening tests for most children to look for leukemia before it starts to cause symptoms. Childhood leukemia is often found because a child has signs or symptoms that prompt a visit to the doctor. The doctor then orders blood tests, which might point to leukemia as the cause. The best way to find these leukemias early is to pay attention to the possible signs and symptoms of this disease.
+For children at increased risk
+For children known to be at increased risk of leukemia (because of a genetic condition such as Li-Fraumeni syndrome or Down syndrome, for example), most doctors recommend careful, regular medical checkups and possibly other tests. The same is true for children who have been treated with chemotherapy and/or radiation therapy for other cancers, and for children who have had organ transplants and are taking immune system-suppressing drugs. The risk of leukemia in these children, although higher than in the general population, is still small.Many of the symptoms of childhood leukemia can have other causes as well, and most often these symptoms are not caused by leukemia. Overall, the signs and symptoms of leukemia can affect boys and girls and do not differ by sex or gender.
+If your child has any of the symptoms below, it’s important to have your child seen by a doctor so the cause can be found and treated, if needed.
+Leukemia begins in the bone marrow, which is where new blood cells are made. The symptoms of leukemia are often caused by problems in the bone marrow. As leukemia cells build up in the marrow, they can crowd out the normal blood cells. As a result, a child may not have enough normal red blood cells, white blood cells, and blood platelets. These shortages show up on blood tests, but they can also cause symptoms. The leukemia cells might also invade other areas of the body, which can also cause symptoms.
+Symptoms from low red blood cell counts (anemia): Red blood cells carry oxygen to all of the cells in the body. A shortage of red blood cells can cause symptoms such as:
+
+Feeling tired (fatigue)
+Feeling weak
+Feeling cold
+Feeling dizzy or lightheaded
+Shortness of breath
+Paler skin
+
+Symptoms from a lack of normal white blood cells: White blood cells help the body fight off germs. Children with leukemia often have high white blood cell counts, but most of these are leukemia cells that don’t protect against infection, and there aren’t enough normal white blood cells. This can lead to:
+
+Infections, which can occur because of a shortage of normal white blood cells. Children with leukemia can get infections that don’t seem to go away, or they may get one infection after another.
+Fever, which is often the main sign of infection. But some children might have a fever without having an infection.
+
+Symptoms from low blood platelet counts: Platelets in the blood normally help stop bleeding. A shortage of platelets can lead to:
+
+Easy bruising and bleeding
+Frequent or severe nosebleeds
+Bleeding gums
+
+Bone or joint pain: This pain is caused by the buildup of leukemia cells near the surface of the bone or inside the joint.
+Swelling of the abdomen (belly): Leukemia cells can collect in the liver and spleen, making these organs bigger. This might be noticed as a fullness or swelling of the belly. The lower ribs usually cover these organs, but when they are enlarged the doctor can often feel them.
+Loss of appetite and weight loss: If the spleen and/or liver get big enough, they can press against other organs like the stomach. This can make the child feel full after eating only a small amount of food, leading to a loss of appetite and weight loss over time.
+Swollen lymph nodes: Some leukemias spread to lymph nodes, which are normally small (bean-sized) collections of immune cells in the body. Swollen nodes may be seen or felt as lumps under the skin in certain parts of the body (such as on the sides of the neck, in underarm areas, above the collarbone, or in the groin). Lymph nodes inside the chest or abdomen can also swell, but these can only be seen on imaging tests, such as CT or MRI scans.
+In infants and children, lymph nodes often get bigger when they are fighting an infection. An enlarged lymph node in a child is much more often a sign of infection than leukemia, but it should be checked by a doctor and followed closely.
+Coughing or trouble breathing: Some types of leukemia can affect structures in the middle of the chest, such as lymph nodes or the thymus (a small organ in front of the trachea, the breathing tube that leads to the lungs). An enlarged thymus or lymph nodes in the chest can press on the trachea, causing coughing or trouble breathing.
+In some cases where the white blood cell count is very high, the leukemia cells can build up in the small blood vessels of the lungs, which can also cause trouble breathing.
+Swelling of the face and arms: An enlarged thymus might press on the superior vena cava (SVC), which is a large vein that carries blood from the head and arms back to the heart. This can cause the blood to “back up” in the veins. This is known as SVC syndrome. It can result in swelling in the face, neck, arms, and upper chest (sometimes with a bluish-red skin color). Symptoms can also include headaches, dizziness, and a change in consciousness if it affects the brain. The SVC syndrome can be life-threatening, so it needs to be treated right away.
+Headaches, seizures, vomiting: A small number of children have leukemia that has already spread to the brain and spinal cord when it is first found. This can lead to symptoms such as headaches, trouble concentrating, weakness, seizures, vomiting, problems with balance, and blurred vision.
+Rashes or gum problems: In children with acute myeloid leukemia (AML), leukemia cells may spread to the gums, causing swelling, pain, and bleeding.
+If AML spreads to the skin, it can cause small, dark spots that look like common rashes. A collection of AML cells under the skin or in other parts of the body is called a chloroma or granulocytic sarcoma.
+Extreme fatigue and weakness: A rare but very serious consequence of AML is extreme tiredness, weakness, and slurring of speech. This can occur when very high numbers of leukemia cells thicken the blood and slow the circulation through small blood vessels of the brain.
+Again, most of the symptoms above are more likely to be caused by something other than leukemia. Still, it’s important to have these symptoms checked by a doctor so the cause can be found and treated, if needed.Most of the signs and symptoms of childhood leukemia are more likely to have other causes, such as infections. Still, it’s important to let your child’s doctor know about such symptoms right away so that the cause can be found and treated, if needed.
+Exams and tests will be done to determine the cause of the symptoms. If leukemia is found, further tests will be needed to find out the type and subtype of leukemia and decide how it should be treated.
+It’s important to diagnose childhood leukemia as early as possible and to determine what type of leukemia it is so that treatment can be tailored to provide the best chance of success.
+Medical history and physical exam
+If your child has signs and symptoms that suggest they might have leukemia, the doctor will want to get a thorough medical history to learn about the symptoms and how long your child has had them. The doctor may also ask about exposure to possible risk factors. A family history of cancer, especially leukemia, may also be important.
+During the physical exam, the doctor will look for any enlarged lymph nodes, areas of bleeding or bruising, or possible signs of infection. The eyes, mouth, and skin will be looked at carefully, and a nervous system exam may be done. The child's abdomen (belly) will be felt for signs of an enlarged spleen or liver.
+Tests to look for leukemia in children
+If the doctor thinks your child might have leukemia, blood and bone marrow samples will need to be checked to be sure. Your child’s doctor may refer you to a pediatric oncologist, a doctor who specializes in childhood cancers (including leukemias), to have some of these tests done. If leukemia is found, other types of tests may also be done to help guide treatment.
+Blood tests
+The first tests done to look for leukemia are blood tests. The blood samples are usually taken from a vein in the arm, but in infants and younger children they may be taken from other veins (such as in the feet or scalp) or from a “finger stick.”
+Blood counts and blood smears are the usual tests done on these samples. A complete blood count (CBC) is done to determine how many blood cells of each type are in the blood. For a blood smear, a small sample of blood is spread on a glass slide and looked at under a microscope. Abnormal numbers of blood cells and changes in the way these cells look may make the doctor suspect leukemia.
+Most children with leukemia will have too many white blood cells and not enough red blood cells and/or platelets. Many of the white blood cells in the blood will be blasts, an early type of blood cell normally found only in the bone marrow. Even though these findings may make a doctor suspect that a child has leukemia, usually the disease can’t be diagnosed for sure without looking at a sample of bone marrow cells.
+Bone marrow aspiration and biopsy
+A bone marrow aspiration and bone marrow biopsy are tests that are usually done at the same time. The samples are usually taken from the back of the pelvic (hip) bones, but sometimes they may be taken from the front of the pelvic bones or from other bones.
+Before the tests, the skin over the hip bone is cleaned and numbed by injecting a local anesthetic or applying a numbing cream. In most cases, the child is also given other medicines to make them drowsy or even go to sleep during the tests.
+
+For a bone marrow aspiration, a thin, hollow needle is then inserted into the bone, and a syringe is used to suck out (aspirate) a small amount of liquid bone marrow.
+A bone marrow biopsy is usually done just after the aspiration. A small piece of bone and marrow is removed with a slightly larger needle that is pushed down into the bone. Once the biopsy is done, pressure will be applied to the site to help stop any bleeding.
+
+The bone marrow samples are then sent to a lab for testing.
+Bone marrow tests are used to diagnose leukemia, but they may also be repeated later to find out if the leukemia is responding to treatment.
+Lumbar puncture (spinal tap)
+This test is used to look for leukemia cells in the cerebrospinal fluid (CSF), which is the liquid that bathes the brain and spinal cord.
+For this test, the doctor first applies a numbing cream in an area in the lower part of the back over the spine. The doctor usually also gives the child medicine to make them sleep during the procedure. A small, hollow needle is then put in between the bones of the spine to withdraw some of the fluid, which is then sent to a lab for testing.
+In children already diagnosed with leukemia, lumbar punctures might also be used to give chemotherapy drugs into the CSF to try to prevent or treat the spread of leukemia to the spinal cord and brain. (This is known as intrathecal chemotherapy.)
+Lymph node biopsy
+This type of biopsy is important in diagnosing lymphomas, but it is rarely needed for children with leukemias.
+During this procedure, a surgeon cuts through the skin to remove an entire lymph node (known as an excisional biopsy). If the node is near the skin surface, this is a simple operation. But it is more complex if the node is inside the chest or abdomen. Most often the child will need general anesthesia (where the child is asleep).
+Lab tests to diagnose and classify leukemia
+All blood, bone marrow, and other samples are sent to a lab for further testing.
+Microscopic exams
+All of the samples taken (blood, bone marrow, lymph node tissue, or CSF) are looked at with a microscope. The samples might be exposed to chemical stains (dyes) that can cause color changes in some types of leukemia cells.
+Doctors will look at the size, shape, and staining patterns of the blood cells in the samples to classify them into specific types. 
+A key element is whether the cells look mature (like normal blood cells) or immature (lacking features of normal blood cells). The most immature cells are called blasts. Having too many blasts in the sample, especially in the blood, is a typical sign of leukemia.
+An important feature of a bone marrow sample is its cellularity. Normal bone marrow contains a certain number of blood-forming cells and fat cells. Marrow with too many blood-forming cells is said to be hypercellular. If too few blood-forming cells are found, the marrow is called hypocellular.
+Flow cytometry and immunohistochemistry
+These tests are used to classify leukemia cells based on certain proteins in or on the cells (known as immunophenotyping). This kind of testing is very helpful in determining the exact type and subtype of leukemia. It is most often done on cells from bone marrow, but it can also be done on cells from the blood, lymph nodes, and other body fluids.
+For both flow cytometry and immunohistochemistry, samples of cells are treated with antibodies, which are proteins that stick to certain other proteins on cells. For immunohistochemistry, the cells are then examined under a microscope to see if the antibodies stuck to them (meaning they have these proteins), while for flow cytometry a special machine is used.
+Flow cytometry can also be used to estimate the amount of DNA in the leukemia cells. This is important to know, especially in ALL, because cells with more DNA than normal (a DNA index of 1.16 or higher) are often more sensitive to chemotherapy, and these leukemias have a better prognosis (outlook).
+Flow cytometry can also be used to measure the response to treatment and the existence of minimal residual disease (MRD) in some types of leukemias. (See Prognostic Factors in Childhood Leukemia.)
+Chromosome tests
+These tests look at the chromosomes (long strands of DNA) inside the cells. Normal human cells have 23 pairs of chromosomes, each of which is a certain size and looks a certain way under the microscope. But in some types of leukemia, the cells have changes in their chromosomes.
+For instance, sometimes 2 chromosomes swap some of their DNA, so that part of one chromosome becomes attached to part of a different chromosome. This change, called a translocation, can usually be seen under a microscope. Other types of chromosome changes are also possible. Recognizing these changes can help identify certain subtypes of acute leukemias and can help determine prognosis (outlook).
+Sometimes the leukemia cells have an abnormal number of chromosomes (instead of the usual 46) – they may be missing some chromosomes or have extra copies of some. This can also affect a child’s outlook. For example, in ALL, chemotherapy is more likely to work if the cells have more than 50 chromosomes and is less likely to work if the cells have fewer than 46 chromosomes.
+Finding these types of chromosome changes with lab tests can be very helpful in predicting a child’s outlook and response to treatment.
+Cytogenetics: For this test, leukemia cells are grown in a lab dish and the chromosomes are looked at under a microscope to detect any changes, including missing or extra chromosomes. (Counting the number of chromosomes by cytogenetics provides similar information to measuring the DNA index by flow cytometry, as described above.)
+Cytogenetic testing usually takes about 2 to 3 weeks because the leukemia cells must grow in lab dishes for a couple of weeks before their chromosomes are ready to be looked at.
+Not all chromosome changes can be seen under a microscope. Other lab tests can often help detect these changes.
+Fluorescent in situ hybridization (FISH): This is another way to look at chromosomes and genes. It uses special fluorescent dyes that only attach to specific parts of particular chromosomes. FISH can find most chromosome changes (such as translocations) that are visible under a microscope in standard cytogenetic tests, as well as some changes too small to be seen with usual cytogenetic testing.
+FISH can be used to look for specific changes in chromosomes. It can be used on blood or bone marrow samples. It is very accurate and can usually provide results within a couple of days.
+Polymerase chain reaction (PCR): This is a very sensitive test that can also find some chromosome and gene changes too small to be seen under a microscope, even if there are very few leukemia cells in a sample. This test can be very useful in looking for small numbers of leukemia cells (minimal residual disease, or MRD) that might not be detected with other tests during and after treatment.
+Other molecular and genetic tests: Newer types of lab tests, sometimes called next generation sequencing (NGS) tests, can also be done on the samples to look for specific gene changes in the leukemia cells.
+Other blood tests
+Children with leukemia will have tests to measure certain chemicals in the blood to check how well their body systems are working.
+These tests aren’t used to diagnose leukemia, but in children already known to have it, they can help find damage to the liver, kidneys, or other organs caused by the spread of leukemia cells or by certain chemotherapy drugs. Tests are also often done to measure blood levels of important minerals, as well as to make sure the blood is clotting properly.
+Children might also be tested for blood infections. It’s important to diagnose and treat infections quickly in children with leukemia because their weakened immune systems can allow infections to spread.
+Imaging tests
+Imaging tests use x-rays, sound waves, magnetic fields, or radioactive particles to make pictures of the inside of the body. Leukemia doesn’t usually form tumors, so imaging tests aren’t as useful as they are for other types of cancer. But if leukemia is suspected or has been diagnosed, your child’s doctor may order some of these tests to get a better idea of the extent of the disease or to look for other problems, such as infections. For more details, see Imaging Tests.
+Chest x-rays
+A chest x-ray can help detect an enlarged thymus or lymph nodes in the chest. If the test result is abnormal, a computed tomography (CT) scan of the chest may be done to get a more detailed view.
+Chest x-rays can also help look for pneumonia if your child might have a lung infection.
+Computed tomography (CT) scan
+The CT scan isn’t usually needed for children with leukemia, but it might be done if the doctor suspects the leukemia is growing in lymph nodes in the chest or in organs like the spleen or liver. It is also sometimes used to look at the brain and spinal cord, but an MRI scan may also be used for this.
+PET/CT scan: Some machines combine the CT scan with a positron emission tomography (PET) scan, which can provide more information about any abnormal areas that appear on the CT.
+Magnetic resonance imaging (MRI) scan
+An MRI scan, like a CT scan, makes detailed images of soft tissues in the body. It’s most helpful in looking at the brain and spinal cord, so it’s most likely to be done if the doctor has reason to think the leukemia might have spread there (such as if the child has symptoms like headaches, seizures, or vomiting). This test doesn’t expose the child to radiation.
+Ultrasound
+Ultrasound can be used to look at lymph nodes near the surface of the body or to look for enlarged organs inside the abdomen such as the kidneys, liver, and spleen. (It can’t be used to look at organs or lymph nodes in the chest because the ribs block the sound waves.)
+This is a fairly easy test to have, and it uses no radiation.The type and subtype of leukemia a child has plays a major role in both treatment options and the child’s outlook (prognosis). Determining the type (acute lymphocytic leukemia (ALL), acute myeloid leukemia (AML), etc.) and subtype of the leukemia is done by testing samples of the blood, bone marrow, and sometimes lymph nodes or cerebrospinal fluid (CSF), as described in Tests for Childhood Leukemia.
+Be sure to ask your health care team or your child's doctor if you have any questions about the subtype of your child’s leukemia.
+Acute lymphocytic (lymphoblastic) leukemia (ALL)
+Acute lymphocytic leukemia (ALL) is a fast-growing cancer of lymphocyte-forming cells called lymphoblasts. There are several subtypes of ALL, which are based mainly on:
+
+The type of lymphocyte (most often B cell or T cell) the leukemia cells come from (and how mature the cells are). This is known as the immunophenotype of the leukemia.
+If the leukemia cells have certain gene or chromosome changes
+
+B-cell ALL
+Most often in children with ALL, the leukemia starts in early forms of B cells. There are several subtypes of B-cell ALL. Mature B-cell ALL (also called Burkitt leukemia), a rare subtype, is essentially the same as Burkitt lymphoma (a type of non-Hodgkin lymphoma) and is treated the same way. (See Treatment of Non-Hodgkin Lymphoma in Children, by Type and Stage.)
+
+
+
+T-cell ALL
+This type of leukemia affects older children more than B-cell ALL does. It often causes an enlarged thymus (a small organ in front of the windpipe), which can sometimes lead to breathing problems. It may also spread to the cerebrospinal fluid (CSF, the fluid that surrounds the brain and spinal cord) early in the course of the disease.
+For more detailed information on the subtypes of ALL, see Acute Lymphocytic Leukemia (ALL) Subtypes and Prognostic Factors.
+Aside from the subtype of ALL, other factors are important in determining a child's outlook (prognosis). These are described in Prognostic Factors in Childhood Leukemia.
+Acute myeloid leukemia (AML)
+Acute myeloid leukemia (AML) is typically a fast-growing cancer that starts in one of the following types of early (immature) bone marrow cells:
+
+Myeloblasts: These cells normally form white blood cells called granulocytes (neutrophils, eosinophils, and basophils).
+Monoblasts: These cells normally become white blood cells called monocytes and macrophages.
+Erythroblasts: These cells mature into red blood cells.
+Megakaryoblasts: These cells normally become megakaryocytes, the cells that make platelets.
+
+AML has many subtypes, which are based mainly on:
+
+The type of bone marrow cell the leukemia cells come from, and how mature the cells are (the immunophenotype of the leukemia)
+If the leukemia cells have certain gene or chromosome changes
+If the leukemia is related to the treatment of an earlier cancer (with chemotherapy or radiation)
+If the child with leukemia has Down syndrome
+
+Acute promyelocytic leukemia (APL) is a special subtype of AML. It is treated differently from other subtypes of AML, and it tends to have a better outlook.
+For more detailed information on the subtypes of AML, see Acute Myeloid Leukemia (AML) Subtypes and Prognostic Factors.
+Aside from the AML subtype, other factors are important in determining a child’s outlook (prognosis). These are described in Prognostic Factors in Childhood Leukemia.
+
+
+
+
+
+Chronic myeloid leukemia (CML)
+Chronic myeloid leukemia (CML) is typically a slower-growing cancer of early (immature) myeloid bone marrow cells. CML is not common in children, but it can occur.
+CML does not have subtypes. Instead, the course of CML has 3 phases, based mainly on the number of immature white blood cells – myeloblasts (or blasts) – that are seen in the blood or bone marrow. CML can sometimes progress to more advanced phases over time.
+Chronic phase of CML
+In this earliest phase, children usually have fairly mild symptoms (if any), and the leukemia usually responds well to standard treatments. Most children are in the chronic phase when they are diagnosed.
+Accelerated phase of CML
+Children whose CML is in accelerated phase may have symptoms such as fever, night sweats, poor appetite, and weight loss. CML in the accelerated phase might not respond as well to treatment as CML in the chronic phase.
+Blast phase (also called acute phase or blast crisis) of CML
+In this phase, the leukemia cells often spread to tissues and organs outside the bone marrow. Children with CML in this phase often have fever, poor appetite, and weight loss. At this point the CML acts much like an aggressive acute leukemia (AML or, less often, ALL).
+For more detailed information on the phases of CML, see Phases of Chronic Myeloid Leukemia.In children with acute lymphocytic leukemia (ALL) or acute myeloid leukemia (AML), certain factors that can affect a child’s outlook (prognosis) are called prognostic factors. They help doctors decide how intense treatment needs to be. Prognostic factors seem to be more important in ALL than in AML.
+Prognostic factors for children with ALL
+Children with ALL are often put into risk groups (such as low risk, standard risk, high risk, or very high risk), with more intensive treatment given to higher risk patients. Generally, children at low risk have a better outlook than those at very high risk. But it's important to know that even children in higher risk groups can often still be cured.
+While all of the following are prognostic factors, only certain ones are used to determine which risk group a child is in. (The first 2 factors – age at diagnosis and initial white blood cell count – are thought to be the most important.)
+Age at diagnosis
+Children between the ages of 1 and 9 with B-cell ALL tend to have better cure rates. Children younger than 1 year and children 10 years or older are considered high-risk patients. The outlook in T-cell ALL isn’t affected much by age.
+Initial white blood cell (WBC) count
+Children with ALL who have very high WBC counts (greater than 50,000 cells per cubic millimeter) when they are diagnosed are at higher risk and need more intensive treatment.
+ALL subtype
+Children with early B-cell ALL subtypes generally do better than those with mature B-cell (Burkitt) leukemia. The outlook for T-cell ALL seems to be about the same as that for B-cell ALL as long as treatment is intense enough.
+Sex
+Girls with ALL may have a slightly higher chance of being cured than boys, but as treatments have improved in recent years, this difference has shrunk.
+Number of chromosomes in the leukemia cells (ploidy)
+Normal human cells have 46 chromosomes. Children are more likely to be cured if their leukemia cells have more than 50 chromosomes (called hyperdiploidy), especially if there is an extra chromosome 4, 10, or 17. Hyperdiploidy can also be expressed as a DNA index of more than 1.16. Children whose leukemia cells have fewer than 44 chromosomes (known as hypodiploidy) have a less favorable outlook.
+Chromosome changes (such as translocations)
+Translocations occur when chromosomes swap some of their genetic material (DNA). Children whose leukemia cells have a translocation between chromosomes 12 and 21 are more likely to be cured. Those with a translocation between chromosomes 9 and 22 (the Philadelphia chromosome) or 4 and 11 tend to have a less favorable prognosis. Some of these “poor” prognostic factors have become less important in recent years as treatment has improved.
+Response to initial treatment
+Children whose leukemia goes into remission (major reduction of cancer cells in the bone marrow) within 1 to 2 weeks of chemotherapy have a better outlook than those whose leukemia does not. Having minimal residual disease (MRD), which is a very small amount of leukemia cells still detectable by sensitive lab tests, can also affect outlook. (See "Status of acute leukemia after treatment" below for more on this.) Children whose cancer does not respond as well may be given more intensive chemotherapy.
+Prognostic factors for children with AML
+Prognostic factors are not quite as important in predicting outcome or in guiding treatment for AML as they are for ALL.
+Initial white blood cell (WBC) count
+Children with AML whose WBC count is less than 100,000 cells per cubic millimeter at diagnosis tend to do better than those with higher counts.
+Down syndrome
+Children with Down syndrome who develop AML tend to have a good outlook, especially if the child is 4 years old or younger at the time of diagnosis.
+AML subtype
+Some subtypes of AML tend to have a better outlook than others. For example, the acute promyelocytic leukemia (APL) subtype tends to have a better outlook than most other subtypes.
+Chromosome or gene changes
+Children with leukemia cells that have translocations between chromosomes 15 and 17 (seen in most cases of APL) or between 8 and 21, or with an inversion (rearrangement) of chromosome 16 have a better chance of being cured. Children whose leukemia cells are missing a copy of chromosome 5 or 7 (known as monosomy) or just part of chromosome 5 (known as a deletion) tend to have a poorer prognosis.
+Children whose leukemia cells have a mutation in the FLT3 gene tend to have a poorer outlook, although new drugs that target cells with this abnormal gene might lead to better outcomes. On the other hand, children whose leukemia cells have changes in the NPM1 gene (and not in the FLT3 gene) seem to have a better prognosis than children without this change. Changes in the CEBPA gene are also linked to a better outcome.
+Myelodysplastic syndrome or secondary AML
+Children who first have a myelodysplastic syndrome (“smoldering leukemia”) or whose leukemia is the result of treatment for another cancer tend to have a less favorable outlook.
+Response to initial treatment
+Children whose leukemia responds quickly to treatment (only one chemotherapy cycle needed to achieve remission) are more likely to be cured than those whose leukemia takes longer to respond or does not respond at all.
+Status of acute leukemia after treatment
+How well (and how quickly) ALL or AML responds to the initial (induction) treatment can affect long-term prognosis.
+Remission
+A remission (or complete remission) is usually defined as having no evidence of leukemia after the initial treatment. This means:
+
+The bone marrow contains fewer than 5% blast cells
+The blood cell counts are within normal limits
+There are no signs or symptoms of the disease
+
+A complete molecular remission means there is no evidence of leukemia cells in the bone marrow, even when using very sensitive lab tests, such as polymerase chain reaction (PCR).
+Even when leukemia is in remission, this does not always mean that it has been cured.
+Minimal residual disease
+Minimal residual disease (MRD) is a term used after treatment when leukemia cells can’t be found in the bone marrow using standard lab tests (such as looking at cells under a microscope), but they can still be detected with more sensitive tests (such as flow cytometry or PCR).
+In general, children with MRD during or after induction chemotherapy are more likely to have the leukemia relapse (come back) and therefore may need more intense treatment. Children with more MRD have a greater risk of relapse than those with less MRD.
+Active disease
+Active disease means that either there is evidence that the leukemia is still present during treatment or that the disease has relapsed (come back) after treatment. For a patient to have relapsed, more than 5% of the bone marrow must be made up of blast cells.Survival rates are often used by doctors as a standard way of discussing a child’s prognosis (outlook). These numbers tell you what portion of children in a similar situation (such as with the same type and subtype of leukemia) are still alive a certain amount of time after they were diagnosed. They can’t tell you exactly what will happen in an individual child’s case, but they may help give you a better understanding about how likely it is that treatment will be successful. Some people find survival rates helpful, but some people might not.
+The 5-year survival rate refers to the percentage of children who live at least 5 years after their leukemia is diagnosed. With acute leukemias (ALL or AML), children who are free of the disease after 5 years are very likely to have been cured, because it’s very rare for these cancers to return after this long.
+Knowing the type and subtype of leukemia is important in estimating a child’s outlook. But a number of other factors, including the child’s age and leukemia characteristics, can also affect outlook. Many of these factors are discussed in Prognostic Factors In Childhood Leukemia (ALL or AML). Even when taking these other factors into account, survival rates are at best rough estimates. Your child’s doctor can probably tell you how these numbers apply to your child.
+Current 5-year survival rates are based on children first diagnosed and treated more than 5 years ago. Improvements in treatment since then might result in a better outlook for children now being diagnosed.
+Acute lymphocytic leukemia (ALL)
+The 5-year survival rate for children with ALL has greatly increased over time and is now about 90% overall. In general, children in lower risk groups have a better outlook than those in higher risk groups. But it’s important to know that even children in higher risk groups can often still be cured.
+Acute myelogenous leukemia (AML)
+The overall 5-year survival rate for children with AML has also increased over time, and is now in the range of 65% to 70%. However, survival rates vary depending on the subtype of AML and other factors. For example, most studies suggest that the cure rate for acute promyelocytic leukemia (APL), a subtype of AML, is now higher than 80%, but rates are lower for some other subtypes of AML.
+Other childhood leukemias
+Accurate survival rates for less common forms of childhood leukemia are harder to find.
+Juvenile myelomonocytic leukemia (JMML)
+For JMML, 5-year survival rates of about 50% have been reported.
+Chronic myeloid leukemia (CML)
+For CML, which is rare in children, 5-year survival rates are less helpful, because some children may live for a long time with the leukemia without actually being cured. In the past, 5-year survival rates for CML were reported to be in the range of 60% to 80%. But with the newer, more effective medicines used to treat CML in recent years, survival rates are likely to be higher now.It’s important to have open, honest discussions with your child’s cancer care team. They want to answer all of your questions, no matter how small they might seem. For instance, consider these examples:
+If leukemia has just been diagnosed
+
+What type of leukemia does my child have?
+How will the subtype of the leukemia or any other factors affect my child’s prognosis?
+Do we need other tests before we can decide on treatment?
+Will we need to see other doctors?
+How much experience do you have treating this type of leukemia?
+Who else will be on the treatment team, and what do they do?
+
+When deciding on a treatment plan
+
+What are our treatment choices?
+What do you recommend and why?
+Should we get a second opinion? How would we do that? Can you recommend a doctor or cancer center?
+Should we consider a stem cell transplant? When?
+Are there any clinical trials we should consider?
+How soon do we need to start treatment?
+What should we do to be ready for treatment?
+How long will treatment last? What will it be like?
+How much of the treatment will need to be done in the hospital?
+How will treatment affect our daily lives (school, work, etc.)?
+What are the risks and side effects of the treatments you recommend?
+Which side effects start shortly after treatment, and which ones might develop later on?
+Will treatment affect my child’s ability to learn, grow, and develop?
+Will treatment affect my child’s future ability to have children?
+What are the chances of curing the leukemia?
+
+During and after treatment
+Once treatment begins, you’ll need to know what to expect and what to look for. Not all of these questions may apply, but getting answers to the ones that do may be helpful.
+
+What type of follow-up will we need after treatment?
+How will we know if the treatment is working?
+Is there anything we can do to help manage side effects?
+What symptoms or side effects should we tell you about right away?
+How can we reach you or someone on your team on nights, weekends, or holidays?
+Who can we talk to if we have questions about costs, insurance coverage, or social support?
+What will our options be if the treatment doesn’t work or if the leukemia comes back?
+Do you know of any support groups where we can talk to other families who have been through this?
+
+Along with these sample questions, be sure to write down your own. For instance, you might want to ask about possible long-term risks of cancer or other health problems.
+Also keep in mind that doctors are not the only ones who can give you information. Other health care professionals, such as nurses and social workers, may have the answers to some of your questions. You can find out more about speaking with your health care team in The Doctor-Patient Relationship.Surgery has a very limited role in treating childhood leukemia. Because leukemia cells spread widely throughout the bone marrow and blood, it’s not possible to cure this type of cancer with surgery. Aside from a possible lymph node biopsy, surgery rarely has any role even in diagnosing leukemia, since this is usually done with a bone marrow aspirate and biopsy can usually diagnose leukemia.
+Placing a central venous catheter
+Often before chemotherapy is about to start, surgery is needed to insert a small plastic tube, called a central venous catheter (CVC) or venous access device (VAD), into a large blood vessel. The end of the tube stays just under the skin or sticks out in the chest area or upper arm.
+The CVC is left in place during treatment (often for many months) to give intravenous (IV) drugs such as chemotherapy and to take blood samples. This lowers the number of needle sticks needed during treatment. It’s very important for parents to learn how to care for the catheter to keep it from getting infected.Radiation therapy uses high-energy radiation to kill cancer cells.
+Radiation is not always needed to treat leukemia, but it can be used in certain situations:
+
+It is sometimes used to try to prevent or treat the spread of leukemia to the brain or treat the testicles in boys if the leukemia has reached them. But chemotherapy is often used in these situations instead.
+It can be used (rarely) to treat a tumor that is pressing on the trachea (windpipe). But chemotherapy is often used instead, as it may work more quickly.
+Radiation to the whole body is often an important part of treatment before a stem cell transplant (see High-Dose Chemotherapy and Stem Cell Transplant).
+
+How is radiation therapy given?
+Before treatment starts, the radiation team will take careful body measurements to determine the correct angles for aiming the radiation beams and the proper dose of radiation. This planning session, called simulation, usually includes getting imaging tests such as CT or MRI scans.
+The treatment itself is much like getting an x-ray, but the radiation is much stronger. It is painless, but some younger children may need to be sedated to make sure they don’t move during the treatment. Each treatment lasts only a few minutes, although the setup time – getting your child into place for treatment – usually takes longer.
+Possible side effects of radiation
+The possible short-term side effects depend on where the radiation is aimed, and can include:
+
+Sunburn-like skin changes
+Hair loss in the treated area
+Nausea, vomiting, or diarrhea (from radiation to the abdomen) 
+Fatigue
+Increased risk of infection
+
+Longer-term side effects are also possible and are described in Living as a Childhood Leukemia Survivor.Chemotherapy (chemo) is the main treatment for most childhood leukemias. This is treatment with anti-cancer drugs that are given in a vein (IV), in a muscle, in the cerebrospinal fluid (CSF) around the brain and spinal cord, or are taken by mouth. Except when given in the CSF, chemo drugs enter the bloodstream and reach all areas of the body, making this treatment very useful for cancers such as leukemia.
+Leukemia is treated with combinations of several chemo drugs. Doctors give chemo in cycles, with each period of treatment followed by a rest period to give the body time to recover.
+In general, treatment for acute myeloid leukemia (AML) uses higher doses of chemo over a shorter period of time (usually less than a year), and treatment for acute lymphocytic leukemia (ALL) uses lower doses of chemo over a longer period of time (usually 2 to 3 years).
+Some of the chemo drugs used to treat childhood leukemia include:
+
+Vincristine
+Daunorubicin, (daunomycin)
+Doxorubicin (Adriamycin)
+Idarubicin
+Cytarabine (cytosine arabinoside or ara-C)
+L-asparaginase, PEG-L-asparaginase (pegaspargase)
+Etoposide
+6-mercaptopurine (6-MP)
+6-thioguanine (6-TG)
+Methotrexate
+Mitoxantrone
+Cyclophosphamide
+Corticosteroid drugs such as prednisone, prednisolone, dexamethasone, or hydrocortisone
+
+Children will probably get several of these drugs at different times during the course of treatment, but they do not get all of them.
+Possible side effects of chemo
+Chemo drugs can affect some normal cells in the body, which can lead to side effects.
+The side effects of chemo depend on the type and dose of drugs given and the length of treatment. These side effects can include:
+
+Hair loss
+Mouth sores
+Loss of appetite
+Diarrhea
+Nausea and vomiting
+
+Chemo drugs also affect the normal cells in bone marrow, which can lower blood cell counts. This can lead to:
+
+Increased risk of infections (from having too few normal white blood cells)
+Bruising and bleeding easily (from having too few blood platelets)
+Fatigue (from having too few red blood cells)
+
+The problems with blood cell counts are often caused by the leukemia itself at first. They might get worse during the first part of treatment because of the chemo, but they will probably improve as the leukemia cells are killed off and the normal cells in the bone marrow recover.
+Most side effects usually go away when treatment is finished. There are often ways to reduce these side effects. For instance, drugs can be given to help prevent or reduce nausea and vomiting. Other drugs known as growth factors can be given to help keep the blood cell counts higher.
+Tumor lysis syndrome: This side effect of chemo can happen in children who had large numbers of leukemia cells in the body before treatment. When chemo kills these cells, they break open and release their contents into the bloodstream. This can overwhelm the kidneys, which aren’t able to get rid of all of these substances at once. Too much of certain minerals can also affect the heart and nervous system. This problem can be prevented by making sure the child gets lots of fluids during treatment and certain drugs, such as bicarbonate, allopurinol, and rasburicase, which help the body get rid of these substances.
+Some chemo drugs can also have other specific side effects. For example:
+
+Vincristine can damage nerves, which can lead to numbness, tingling, or weakness in hands or feet (known as peripheral neuropathy).
+L-asparaginase and PEG-L-asparaginase can increase the risk of blood clots.
+
+Some chemo drugs can also cause late or long-term side effects, such as effects on growth and development, effects on fertility later in life, or an increased risk of getting a second cancer (often AML). For more on this, see Living as a Childhood Leukemia Survivor.
+Be sure to ask your child’s doctor or nurse about any specific side effects you should watch for and about what you can do to help reduce these side effects.
+Chemo given directly into the cerebrospinal fluid (CSF) around the brain and spinal cord (known as intrathecal chemotherapy) can have its own side effects, although these are not common. Intrathecal chemo may cause trouble thinking or even seizures in some children.In recent years, new drugs that target specific parts of cancer cells have been developed. These targeted drugs work differently from standard chemotherapy drugs. They can be used instead of or along with chemo in some situations, and they have side effects that are different from those of chemo. Some targeted drugs can be useful in certain childhood leukemias.
+BCR-ABL inhibitors for CML (and some cases of ALL)
+Nearly all children with chronic myeloid leukemia (CML) have an abnormal chromosome in their leukemia cells known as the Philadelphia chromosome. These chromosomes have a specific gene mutation known as BCR-ABL, which helps the leukemia cells grow.
+Targeted drugs known as tyrosine kinase inhibitors (TKIs), such as imatinib (Gleevec), dasatinib (Sprycel), nilotinib (Tasigna), and bosutinib (Bosulif), attack cells that have the BCR-ABL gene mutation. These drugs are very effective at controlling the leukemia for long periods of time in most children, although it’s not yet clear if the drugs can help cure CML.
+A small number of children with acute lymphocytic leukemia (ALL) also have the Philadelphia chromosome in their leukemia cells. Studies have shown that their outcome is improved when one of these targeted drugs is given along with chemotherapy.
+These drugs are taken daily as pills or capsules.
+Possible side effects of these drugs include diarrhea, nausea, muscle pain, fatigue, and skin rashes. These are generally mild. A common side effect is swelling around the eyes or in the hands or feet, which may be caused by the drugs’ effects on the heart. Other possible side effects include lower red blood cell and platelet counts when treatment starts. These drugs might also slow a child’s growth, especially if used before puberty.
+Gemtuzumab ozogamicin (Mylotarg) for AML
+This targeted therapy is an antibody-drug conjugate (ADC), which is a monoclonal antibody (a man-made immune protein) linked to a chemotherapy drug. The antibody acts like a homing signal, bringing the chemo drug to the leukemia cells, where it enters the cells and kills them when they try to divide into new cells.
+This drug can be used to treat some children with acute myeloid leukemia (AML) in different situations:
+
+It can be used as part of the initial treatment of AML, along with chemo.
+It can be given (typically by itself) if the leukemia comes back or is no longer responding to treatment.
+
+This drug is given as an infusion into a vein (IV). When used as part of the first treatment, it is usually given once during the induction phase and once during consolidation (intensification). When used to treat AML that has come back or is still growing, it is typically given for 3 doses, with 3 days in between each dose.
+The most common side effects are fever, nausea and vomiting, low levels of blood cells (with increased risks of infection, bleeding, and fatigue), swelling and sores in the mouth, constipation, rash, and headaches.
+Less common but more serious side effects can include:
+
+Severe liver damage, including veno-occlusive disease (blockage of veins in the liver)
+Reactions during the infusion (similar to an allergic reaction). Your child likely will be given medicines before each infusion to help prevent this.
+Serious or life-threatening infections, especially in people who have already had a stem cell transplant
+Changes in heart rhythm
+
+Many other targeted drugs are now being used to treat AML in adults, and some of these are now being tested in clinical trials for use in children as well. (See What's New in Childhood Leukemia Research?)
+Inotuzumab ozogamicin (Besponsa) for ALL
+This drug is also an antibody-drug conjugate (ADC), made up of an anti-CD22 antibody linked to a chemotherapy drug. B cells (including some leukemia cells) usually have the CD22 protein on their surface. The antibody acts like a homing device, bringing the chemo drug to the leukemia cells, where it enters the cells and kills them when they try to divide into new cells.
+This drug can be used to treat children with some types of B-cell ALL that have come back or are still growing after other treatments have been tried. It is given as an infusion into a vein (IV), typically once a week. 
+The most common side effects are low levels of blood cells (with increased risks of infection, bleeding, and fatigue), fever, nausea, headache, abdominal (belly) pain, and high blood levels of bilirubin (a substance in bile).
+Less common but more serious side effects can include:
+
+Severe liver damage, including veno-occlusive disease (blockage of veins in the liver)
+Reactions during the infusion (similar to an allergic reaction). Children getting this drug are given medicines before each infusion to help prevent this.
+Serious or life-threatening infections, especially in people who have already had a stem cell transplant
+Changes in the rhythm of the heart
+
+Differentiation agents for APL
+Acute promyelocytic leukemia (APL) is different from other subtypes of AML in some important ways. The leukemia cells in APL (called blasts), have certain gene changes that stop them from maturing into normal white blood cells. Drugs called differentiation agents can help the blasts mature (differentiate) into normal white blood cells. Two of these drugs can be used to treat APL:
+
+All-trans-retinoic acid (ATRA, tretinoin)
+Arsenic trioxide (ATO)
+
+ATRA is a form of vitamin A that is typically part of the initial treatment of APL. It is given either along with chemo or along with ATO. It can also be used during later phases of treatment.
+Side effects of ATRA can include:
+
+Headache
+Fever
+Dry skin and mouth
+Skin rash
+Swollen feet
+Sores in the mouth or throat
+Itching
+Irritated eyes
+
+It can also raise blood lipid levels (like cholesterol and triglycerides). Often blood liver test results become abnormal. These side effects often go away when the drug is stopped.
+Arsenic trioxide (ATO) can act in a way similar to ATRA in patients with APL. It can be given with ATRA in the initial treatment of APL, but it is also helpful in treating APL that comes back after treatment with ATRA plus chemo.
+Most side effects of ATO are mild and can include:
+
+Feeling tired
+Nausea
+Vomiting
+Diarrhea
+Belly pain
+Nerve damage (neuropathy), leading to numbness and tingling in the hands and feet
+
+ATO can also cause problems with heart rhythm, which can sometimes be serious.
+Both of these drugs can cause a serious side effect known as differentiation syndrome (previously called retinoic acid syndrome). This occurs when the leukemia cells release certain chemicals into the blood. It is most often seen during the first couple of weeks of treatment, and in patients with a high white blood cell count.
+Symptoms can include fever, breathing problems due to fluid buildup in the lungs and around the heart, low blood pressure, kidney damage, and severe fluid buildup elsewhere in the body. While differentiation syndrome can be serious, it can often be treated by stopping the drugs for a while and giving a steroid such as dexamethasone.Immunotherapy is the use of medicines to help a patient’s own immune system recognize and destroy cancer cells. Several types of immunotherapy are being studied for use against childhood leukemia, and some are now coming into use.
+Chimeric antigen receptor (CAR) T-cell therapy
+For this treatment, immune cells called T cells are removed from the child’s blood and genetically altered in the lab to have specific receptors (called chimeric antigen receptors, or CARs) on their surface. These receptors can attach to proteins on leukemia cells. The T cells are then multiplied in the lab and given back into the child’s blood, where they can seek out the leukemia cells and attack them.
+Tisagenlecleucel (Kymriah)
+This is a type of CAR T-cell therapy that targets the CD19 protein on certain leukemia cells. It can be used to treat childhood acute lymphoblastic leukemia (ALL) that has come back after treatment or that is no longer responding to treatment.
+To make this treatment, T cells are removed from the child’s blood during a process called leukapheresis. Blood is removed through an IV line and goes into a machine that removes the T cells. The remaining blood then goes back into the body. This typically takes a few hours, and it might need to be repeated. The cells are then frozen and sent to a lab, where they are turned into CAR T cells and are multiplied. This process can take a few weeks.
+For the treatment itself, the child typically gets chemotherapy for a few days to help prepare the body. Then the CAR T cells are infused into a vein.
+In most children who have had this treatment, the leukemia could no longer be detected within a few months of treatment, although it’s not yet clear if this means that they have been cured.
+Possible side effects
+This treatment can have serious or even life-threatening side effects, which is why it needs to be given in a medical center that is specially trained in its use.
+Cytokine release syndrome (CRS): CRS happens when T cells release chemicals (cytokines) that ramp up the immune system. This can happen within a few days to weeks after treatment, and can be life-threatening. Symptoms can include:
+
+High fever and chills
+Trouble breathing
+Severe nausea, vomiting, and/or diarrhea
+Severe muscle or joint pain
+Feeling dizzy or lightheaded
+
+Nervous system problems: This drug can have serious effects on the nervous system, which can result in symptoms such as:
+
+Headaches
+Changes in consciousness
+Confusion or agitation
+Seizures
+Trouble speaking and understanding
+Loss of balance
+
+Other serious side effects: Other possible side effects can include:
+
+Serious infections
+Low blood cell counts, which can increase the risk of infections, fatigue, and bruising or bleeding
+
+It’s very important to report any side effects to the health care team right away, as there are often medicines that can help treat them.
+Monoclonal antibodies
+Antibodies are proteins made by the body’s immune system to help fight infections. Man-made versions of these proteins, called monoclonal antibodies, can be designed to attack a specific target, such as a protein on the surface of leukemia cells.
+Blinatumomab (Blincyto)
+Blinatumomab is a special kind of monoclonal antibody because it can attach to 2 different proteins at the same time. One part of blinatumomab attaches to the CD19 protein, which is found on B cells. Another part attaches to CD3, a protein found on immune cells called T cells. By binding to both of these proteins, this drug brings the cancer cells and immune cells together, which helps the immune system attack the cancer cells.
+This drug is used to treat some types of B-cell ALL, typically after chemotherapy has been used. It is given into a vein (IV) as a continuous infusion over 28 days. This may be repeated after 2 weeks off. Because of certain serious side effects that occur more often during the first few times it is given, the child usually needs stay in the hospital for the first few days of at least the first 2 cycles.
+The most common side effects are fever, headache, swelling of the feet and hands, nausea, tremor, rash, constipation, and low blood potassium levels. It can also cause low white blood cell counts, which increase the risk of serious infection.
+This drug can also cause nervous system problems, such as seizures, trouble speaking or slurred speech, passing out, confusion, and loss of balance.
+Some children might have serious reactions during the infusion (similar to an allergic reaction). Symptoms can include feeling lightheaded or dizzy (due to low blood pressure), headache, nausea, fever or chills, shortness of breath, and/or wheezing. Your child will be given medicines before each infusion to help prevent this. 
+Antibody-drug conjugates (ADCs)
+These are monoclonal antibodies attached to chemo drugs. The antibody part acts like a homing device, bringing the chemo drug directly to the leukemia cells.
+
+Gemtuzumab ozogamicin (Mylotarg) can be used to treat some children with acute myeloid leukemia (AML).
+Inotuzumab ozogamicin (Besponsa) can be used to treat children with some types of B-cell ALL.
+
+These medicines are described in more detail in Targeted Therapy Drugs for Childhood Leukemia.
+Other types of immunotherapy are also being studied for use against leukemia.A stem cell transplant (SCT) (also known as a bone marrow transplant) can sometimes be used to help improve the chances of curing childhood leukemia. SCT lets doctors use even higher doses of chemotherapy than a child could normally tolerate.
+High-dose chemotherapy destroys the bone marrow, which is where leukemia starts, but it's also where new blood cells are formed. This could lead to life-threatening infections, bleeding, and other problems caused by low blood cell counts. A stem cell transplant is given after the chemo to restore the blood-forming stem cells in the bone marrow.
+The blood-forming stem cells used for a transplant can come either from the blood or from the bone marrow. Sometimes stem cells from a baby’s umbilical cord blood are used.
+Allogeneic stem cell transplant
+For childhood leukemias, the type of transplant used is known as an allogeneic stem cell transplant. In this type of transplant, the blood-forming stem cells are donated from another person.
+The donor’s tissue type (also known as the HLA type) should match the patient’s tissue type as closely as possible to help prevent the risk of major problems with the transplant. Tissue type is based on certain substances on the surface of cells in the body. The closer the tissue match between the donor and the recipient, the better the chance the transplanted cells will “take” and begin making new blood cells.
+The donor is usually a brother or sister with the same tissue type as the patient. Rarely, it can be an HLA-matched, unrelated donor – a stranger who has volunteered to donate blood-forming stem cells. Sometimes umbilical cord stem cells are used. These stem cells come from blood drained from the umbilical cord and placenta after a baby is born and the umbilical cord is cut. (This blood is rich in stem cells.) Whatever their source, the stem cells are then frozen and stored until they are needed for the transplant.
+To learn about how a stem cell transplant is done, see Stem Cell Transplant for Cancer.
+When a stem cell transplant might be used
+Acute lymphocytic leukemia (ALL): In ALL, SCT might be used in children in some high-risk groups, whose leukemia is more likely to come back after the initial (induction) chemo. In this case, the transplant is done after the induction chemo puts the leukemia into remission.
+SCT might also be an option if the leukemia doesn’t respond well to initial treatment, or if it relapses (comes back) soon after going into remission. It’s less clear if SCT should be used for children whose ALL relapses later (such as more than 6 months or a year) after finishing the initial chemo. These children will often do well with another round of standard dose chemo.
+SCT may also be recommended for children with some less common forms of ALL, such as those whose leukemias have the Philadelphia chromosome or those with T-cell ALL that don’t respond well to initial treatment.
+Acute myelogenous leukemia (AML): Because AML relapses more often than ALL, SCT might be recommended right after the AML has gone into remission (after the initial chemo treatment), if the child has a brother or sister with the same tissue type who can donate stem cells for the transplant. This is especially true if there is a very high risk of relapse (as with some subtypes of AML or when there are certain gene or chromosome changes in the leukemia cells). There is still some debate about which children with AML need this type of intensive treatment.
+If a child with AML relapses after their first round of standard chemo, most doctors will recommend SCT as soon as the child goes into remission again.
+In either case, it is important that the leukemia is in remission before getting a stem cell transplant. Otherwise, the leukemia is more likely to return.
+Other leukemias: SCT might also offer the best chance to cure some less common types of childhood leukemia, such as juvenile myelomonocytic leukemia (JMML) and chronic myelogenous leukemia (CML). For CML, newer targeted therapy drugs are likely to be used first for most children, but a transplant might still be needed at some point.
+Practical points
+A stem cell transplant is a complex treatment that can cause life-threatening side effects. If the doctors think your child can benefit from a transplant, the best place to have this done is at a cancer center where the staff has experience with the procedure and with managing the recovery period.
+A stem cell transplant often requires a long hospital stay and can be very expensive. Even if the transplant is covered by your insurance, your co-pays or other costs could easily amount to many thousands of dollars. It’s important to find out what your insurer will cover before the transplant to get an idea of what you might have to pay.
+
+
+Be sure to talk to your child’s doctor before the transplant to learn about possible long-term side effects your child might have. More information on long-term effects can be found in Living as a Childhood Leukemia Survivor.Some children are critically ill when they are first diagnosed with leukemia. For example:
+
+They might have a shortage of normal white blood cells, which might lead to very serious infections.
+They might have low levels of platelets or clotting factors in the blood, which can cause severe bleeding.
+They might not have enough red blood cells, which can lower the amount of oxygen getting to body tissues and put a tremendous strain on the heart.
+If they have too many (leukemic) white blood cells in the blood, it can slow down the circulation (known as leukostasis). This can lead to serious problems in the brain, heart, or lungs. It might also cause bleeding or blood clotting inside the body. This is not common, but when it happens it needs to be treated right away.
+
+These problems must often be addressed before treatment of the leukemia can begin. Antibiotics, blood growth factors, and transfusions of platelets and red blood cells, or procedures to lower white blood cell counts (for leukostasis) might be needed to treat or help prevent some of these conditions.The main treatment for children with acute lymphocytic (lymphoblastic) leukemia (ALL) is chemotherapy, which is usually given in 3 main phases:
+
+Induction
+Consolidation (also called intensification)
+Maintenance
+
+The entire length of treatment is typically about 2 to 3 years, with the most intense treatment in the first few months.
+Children with ALL are typically classified by risk group to make sure that the correct types and doses of drugs are given. Treatment may be more or less intense, depending on the risk group.
+Induction
+The goal of induction chemotherapy is to achieve a remission. This means that leukemia cells are no longer found in bone marrow samples, the normal marrow cells return, and the blood counts become normal. (A remission is not necessarily a cure.) More than 95% of children with ALL enter remission after 1 month of induction treatment.
+This first month is intense and requires prolonged hospital stays for treatment and frequent visits to the doctor. Your child may spend some or much of this time in the hospital, because serious infections or other complications can occur. It is very important to take all medicines as prescribed. Sometimes complications can be serious enough to be life-threatening, but in recent years, advances in supportive care (nursing care, nutrition, antibiotics, red blood cell and platelet transfusions as needed, etc.) have made these much less common than in the past.
+Children with standard-risk ALL often receive 3 drugs for the first month of treatment. These include the chemotherapy drugs L-asparaginase and vincristine, and a steroid drug (such as dexamethasone). For children in high-risk groups, a fourth chemo drug in the anthracycline class (most often daunorubicin) is typically added. Other drugs that may be given early are methotrexate and/or 6-mercaptopurine.
+Children with Philadelphia chromosome-positive ALL may benefit from the addition of a targeted drug such as imatinib (Gleevec).
+Intrathecal chemotherapy: All children also get chemo into the cerebrospinal fluid (CSF) to kill any leukemia cells that might have spread to the brain and spinal cord. This treatment, known as intrathecal chemotherapy, is given through a lumbar puncture (spinal tap). It is usually given twice (or more if the leukemia is high risk or leukemia cells have been found in the CSF) during the first month and several times during the next 1 or 2 months. It is then repeated less often during the rest of treatment.
+Usually, methotrexate is the drug used for intrathecal chemo. Hydrocortisone (a steroid) and cytarabine (ara-C) may be added, particularly in high-risk children.
+Along with intrathecal chemo, some high-risk patients (for example, those with T-cell ALL) and those with many leukemia cells in their CSF when the leukemia is diagnosed may be given radiation therapy to the brain. This was more common in the past, but recent studies have found that many children even with high-risk ALL may not need radiation therapy if they are given more intensive chemo. Doctors try to avoid giving radiation to the brain if possible, especially in younger children, because no matter how low the dose is kept, it can cause problems with thinking, growth, and development.
+A possible side effect of intrathecal chemo is seizures during treatment, which happen in a small percentage of children. Children who develop seizures are treated with drugs to prevent them.
+Consolidation (intensification)
+The next, and usually more intense, consolidation phase of chemo starts once the leukemia is in remission and typically lasts for several months. This phase further reduces the number of leukemia cells still in the body. Several chemo drugs are combined to help prevent the remaining leukemia cells from developing resistance. Intrathecal chemo (as described above) is continued at this time.
+Children with standard-risk ALL are usually treated with drugs such as methotrexate, 6-mercaptopurine (6-MP), vincristine, L-asparaginase, and/or prednisone, but regimens differ among cancer centers.
+Children with high-risk leukemia (because of gene or chromosome changes in the leukemia cells, for example, or because there is still minimal residual disease after induction) generally get more intense chemo. Extra drugs such as L-asparaginase, doxorubicin (Adriamycin), etoposide, cyclophosphamide, and cytarabine (ara-C) are often used, and dexamethasone is substituted for prednisone.
+There may be a second round of intense chemotherapy as part of consolidation. (This is known as delayed intensification.)
+Children with Philadelphia chromosome-positive ALL may benefit from the addition of a targeted drug such as imatinib (Gleevec).
+For some children in high-risk groups, a stem cell transplant might be an option at this time once the leukemia is in remission.
+Maintenance
+If the leukemia remains in remission after induction and consolidation, maintenance therapy can begin. Most treatment plans use daily 6-mercaptopurine (6-MP) and weekly methotrexate, given as pills, often along with vincristine, which is given into a vein (IV), and a steroid (prednisone or dexamethasone). These latter 2 drugs are given for brief periods every 4 to 8 weeks. Other drugs may be added depending on the type of ALL and the risk of recurrence.
+Some children at higher risk may get more intense maintenance chemo and intrathecal therapy.
+Treatment of residual disease
+The treatment plans may change if the leukemia doesn’t go into remission during induction or consolidation. The doctor will probably check the child’s bone marrow soon after treatment starts to see if the leukemia is going away. If not, treatment might need to be more intense or prolonged.
+If standard lab tests show the leukemia seems to have gone away, the doctor may use more sensitive tests to look for even small numbers of remaining leukemia cells (known as minimal residual disease, or MRD). If any are found, chemotherapy again might need to be intensified or prolonged.
+If the leukemia remains despite chemotherapy, newer types of immunotherapy such as CAR T-cell therapy or blinatumomab (Blincyto), or the antibody-drug conjugate inotuzumab ozogamicin (Besponsa) might be options.
+Treatment of recurrent ALL
+If the ALL recurs (comes back) during or after treatment, the child will most likely be treated again with chemotherapy. Much of the treatment strategy depends on how soon the leukemia returns after the first treatment. If the relapse occurs after a long time, the same drugs might still be effective, so the same or similar treatment may be used to try to get the leukemia into a second remission.
+If it comes back after a shorter time interval, more aggressive chemo with other drugs may be needed. The most commonly used chemo drugs are vincristine, L-asparaginase, anthracyclines (doxorubicin, daunorubicin, or mitoxantrone), cyclophosphamide, cytarabine (ara-C), and either etoposide or teniposide. The child will also receive a steroid (prednisone or dexamethasone). Intrathecal chemo will also be given.
+For children whose leukemia comes back sooner after starting treatment, or for children with T-cell ALL who relapse, a stem cell transplant may be considered, especially if the child has a brother or sister who is a good tissue type match. Stem cell transplants may also be used for children who relapse after a second course of chemotherapy.
+Some children have an extramedullary relapse, meaning that leukemia cells are found in one part of the body (such as the cerebrospinal fluid [CSF] or the testicles) but are not detectable in the bone marrow. In addition to intensive chemotherapy as described above, children with spread to the CSF may get more intense intrathecal chemotherapy, sometimes with radiation to the brain and spinal cord (if that area had not been already treated with radiation). Boys with relapse in a testicle may get radiation to the area.
+If ALL doesn’t go away completely or if it comes back after a stem cell transplant, newer types of immunotherapy, such as CAR T-cell therapy or blinatumomab (Blincyto), or the antibody-drug conjugate inotuzumab ozogamicin (Besponsa) might be options. 
+Philadelphia chromosome-type ALL
+For children with certain types of ALL, such as those with the Philadelphia chromosome, standard chemotherapy for ALL (as outlined above) might not be as effective. A stem cell transplant may be advised if induction treatment puts the leukemia in remission and a suitable stem cell donor is available.
+Newer, targeted drugs such as imatinib (Gleevec) and dasatinib (Sprycel) are designed to kill leukemia cells that have the Philadelphia chromosome. These drugs are taken as pills. Adding these drugs to chemotherapy throughout treatment seems to help improve outcomes, according to studies done so far.Treatment of most children with acute myeloid leukemia (AML) is divided into 2 main phases of chemotherapy:
+
+Induction
+Consolidation (intensification)
+
+Because of the intensity of treatment and the risk of serious complications, children with AML need to be treated in cancer centers or hospitals that have experience with this disease.
+Induction
+The chemo drugs most often used to treat AML are daunorubicin (daunomycin) and cytarabine (ara-C), which are each given for several days in a row. The treatment schedule may be repeated in 10 days or 2 weeks, depending on how intense doctors want the treatment to be. A shorter time between treatments can be more effective in killing leukemia cells, but it can also cause more severe side effects.
+Some children with AML may get a dose of the targeted drug gemtuzumab ozogamicin (Mylotarg) along with chemo as part of their induction treatment.
+If the doctors think that the leukemia might not respond to just 2 chemo drugs alone, they may add another chemo drug such as etoposide or 6-thioguanine. Children with very high numbers of white blood cells or whose leukemia cells have certain chromosome abnormalities may fall into this group.
+Treatment with these chemo drugs is repeated until the bone marrow shows no more leukemia cells. This usually occurs after 2 or 3 cycles of treatment.
+Preventing relapse in the central nervous system: Most children with AML will also get intrathecal chemotherapy (given directly into the cerebrospinal fluid, or CSF) to help prevent leukemia from relapsing in the brain or spinal cord. Radiation therapy to the brain is used less often.
+Consolidation (intensification)
+About 85% to 90% of children with AML go into remission after induction therapy. This means no signs of leukemia are detected using standard lab tests, but it does not necessarily mean that the leukemia has been cured.
+Consolidation (intensification) begins after the induction phase. The purpose is to kill any remaining leukemia cells by using more intensive treatment.
+Some children have a brother or sister who would be a good stem cell donor. For these children, a stem cell transplant might be recommended once the leukemia is in remission, especially if the AML has some poorer prognostic factors. Most studies have found this improves the chance for long-term survival over chemo alone, but it is also more likely to cause serious complications. For children with good prognostic factors, some doctors may recommend just giving intensive chemotherapy, and reserving the stem cell transplant in case the AML relapses.
+For most children without a good stem cell donor, consolidation consists of the chemo drug cytarabine (ara-C) in high doses. Daunorubicin may also be added. It is usually given for at least several months.
+If the targeted drug gemtuzumab ozogamicin (Mylotarg) was given during induction, a dose of this drug will likely be given during this phase of treatment as well.
+Intrathecal chemo (into the CSF) is usually given every 1 to 2 months for as long as intensification continues.
+Maintenance chemo is not needed for children with AML (other than those with APL).
+An important part of treatment for AML is supportive care (proper nursing care, nutritional support, antibiotics, and blood transfusions). The intense treatment needed for AML usually destroys much of the bone marrow (causing severe shortages of blood cells) and can cause other serious complications. Without antibiotic treatment of infections or transfusion support, the current high remission rates would not be possible.
+Refractory or recurrent AML
+Less than 15% of children have refractory AML (leukemia that does not respond to initial treatment). These leukemias are often very hard to cure, and doctors may recommend a stem cell transplant if it can be done.
+Generally, the outlook for a child whose AML relapses (comes back) after treatment is slightly better than if the AML never went into remission, but this depends on how long the initial remission was. In more than half of cases of relapse, the leukemia can be put into a second remission with more chemo. The chance of getting a second remission is better if the first remission lasted for at least a year, but long-term second remissions are rare without a stem cell transplant. Many different combinations of standard chemo drugs have been used in these situations, but the results have been mixed.
+Another option for some children with refractory or recurrent AML is treatment with the targeted drug gemtuzumab ozogamicin (Mylotarg). 
+Most children whose leukemia has relapsed are good candidates for clinical trials testing new treatment regimens. The hope is that some sort of a remission can be attained so that a stem cell transplant can be considered. Some doctors may advise a stem cell transplant even if there is no remission. This can sometimes be successful.Treatment of acute promyelocytic leukemia (APL), a subtype of acute myeloid leukemia (AML), differs from the usual AML treatment. This leukemia usually responds well to treatment, which is given in 3 phases:
+
+Induction
+Consolidation (also called intensification)
+Maintenance
+
+Induction
+Many children with APL have bleeding and blood-clotting issues when APL is diagnosed, which can cause serious problems during early treatment. Because of this, children with APL must be treated carefully and are often given an anticoagulant (“blood thinner”) to help prevent or treat these problems.
+Children with APL get a non-chemotherapy drug similar to vitamin A called all-trans retinoic acid (ATRA). ATRA alone can often put APL into remission, but combining it with chemotherapy (usually daunorubicin and cytarabine) gives better long-term results. APL rarely spreads to the brain or spinal cord, so intrathecal chemotherapy is usually not needed.
+In adults, ATRA is often combined with arsenic trioxide (ATO), another non-chemo drug, instead of chemo, as the initial treatment of APL. The results seem to be at least as good, and without some of the side effects of chemo. The combination of ATRA and ATO is now being studied in children as well.
+Consolidation (intensification)
+This is usually similar to induction, using both ATRA and chemotherapy (daunorubicin, sometimes along with cytarabine). Because of the success of this treatment, a stem cell transplant is not usually advised as long as the leukemia stays in remission.
+ATRA plus ATO is also being studied as an option for consolidation therapy.
+Maintenance
+Children with APL may get maintenance therapy with ATRA (often with the chemo drugs methotrexate and 6-mercaptopurine) for about a year.
+Relapsed APL
+If the leukemia comes back after treatment, most often it can be put into a second remission. Arsenic trioxide is a drug that is very effective in this setting. ATRA plus chemo may be another option. A stem cell transplant may be considered once a second remission is achieved.Juvenile myelomonocytic leukemia (JMML) is fairly rare, so it has been hard to study which treatment might be best. There is no clear single best chemotherapy treatment for this leukemia. A stem cell transplant is the treatment of choice when possible, as it offers the best chance to cure JMML. About half of the children with JMML who get a stem cell transplant are still free of leukemia after several years. Sometimes, even if the leukemia recurs, a second stem cell transplant can be helpful.
+Because JMML is hard to treat with current chemo drugs, taking part in a clinical trial looking at newer drugs may be a good option for children who can’t get a stem cell transplant.Chronic myeloid (myelogenous) leukemia (CML) is rare in children, but it does occur. Treatment in children is similar to what is used for adults.
+Targeted drugs called tyrosine kinase inhibitors (TKIs), such as imatinib (Gleevec), dasatinib (Sprycel), nilotinib (Tasigna), and bosutinib (Bosulif), ﻿attack cells with the Philadelphia chromosome, which is the key gene abnormality in CML cells. These drugs are usually very good at controlling CML, often for long periods of time and with less severe side effects than chemotherapy drugs. However, it's not yet clear if these drugs can cure CML when used alone, and they must be taken every day.
+Imatinib is usually the drug tried first. If it doesn’t work or if it becomes less effective over time, another drug may be tried.
+If targeted drugs are no longer helpful, high-dose chemotherapy with a stem cell transplant offers the best chance for a cure. Doctors are now studying whether adding targeted drugs to stem cell transplant regimens can help increase cure rates.
+For more information on CML and its treatment, see Chronic Myeloid Leukemia.During treatment for childhood leukemia, the main concerns for most families are the daily aspects of getting through treatment and beating the leukemia. After treatment, the concerns tend to shift toward the long-term effects of the leukemia and its treatment, and concerns about the leukemia coming back.
+It’s certainly normal to want to put the leukemia and its treatment behind you and to get back to a life that doesn’t revolve around cancer. But it’s important to realize that follow-up care is a central part of this process that offers your child the best chance for recovery and long-term survival.
+Follow-up exams and tests
+For several years after treatment, regular follow-up exams will be very important. The doctors will watch for possible signs of leukemia, as well as for short-term and long-term side effects of treatment.
+Checkups typically include careful physical exams and lab tests, and sometimes might include imaging tests. The schedule for these checkups will depend on the type and subtype of leukemia, the treatment given, and other factors. Checkups will usually be monthly during the first year, and then less often for at least 5 years after therapy. After that time, most children see their doctor at least yearly for a checkup.
+For the most common types of leukemia in children (ALL and AML), if the leukemia does come back, it is most often while the child is still being treated or within a year or so after finishing treatment. It is unusual for ALL or AML to return if there are no signs of the disease within the next 2 years.
+A benefit of follow-up care is that it gives you a chance to discuss questions and concerns that come up during and after your child’s recovery. For example, almost any cancer treatment can have side effects. Some go away soon after treatment, but others can last a long time, or might not even show up until years later. It’s important to report any new symptoms to the doctor right away, so that the cause can be found and treated, if needed.
+Ask the treatment team for a survivorship care plan
+Talk with the treatment team about developing a survivorship care plan. This plan might include:
+
+A summary of the diagnosis, tests done, and treatment given
+A suggested schedule for follow-up exams and tests
+A schedule for other tests that might be needed in the future, such as early detection (screening) tests for other types of cancer, or tests to look for long-term health effects from the leukemia or its treatment
+A list of possible late- or long-term side effects from treatment, including what to watch for and when to contact the doctor
+
+Keeping health insurance and copies of medical records
+As much as you might want to put the experience behind you once treatment is completed, it’s also very important to keep good records of your (child’s) medical care during this time. Gathering these details soon after treatment may be easier than trying to get them at some point in the future. This can be very helpful later on if you (or your child) change doctors. Learn more about this in Keeping Copies of Important Medical Records.
+It’s also very important to keep health insurance coverage. Tests and doctor visits can cost a lot, and even though no one wants to think of the tumor coming back, this could happen.
+Late and long-term effects of treatment
+Because of major advances in treatment, most children treated for leukemia now live into adulthood, so their health as they get older has become more of a concern in recent years.
+Just as the treatment of childhood leukemia requires a very specialized approach, so does the care and follow-up after treatment. The earlier problems are recognized, the more likely it is they can be treated effectively.
+Childhood leukemia survivors are at risk, to some degree, for several possible late effects of their treatment. This risk depends on a number of factors, such as the type and subtype of leukemia, the type and doses of treatments they received, and the age of the child at the time of treatment. It’s important to discuss what these possible effects might be with your child’s medical team so you know what to watch for and report to the doctor.
+Second cancers
+Children who have been treated for leukemia are often at higher risk of developing other cancers later in life. One of the most serious possible side effects of acute lymphocytic leukemia (ALL) therapy is a small risk of getting acute myeloid leukemia (AML) later on.
+This occurs in a small percentage of patients after getting certain chemotherapy drugs, such as epipodophyllotoxins (etoposide, teniposide), alkylating agents (cyclophosphamide, chlorambucil), or anthracyclines (daunomycin, doxorubicin). Of course, the risk of getting these second cancers must be balanced against the obvious benefit of treating a life-threatening disease such as leukemia.
+Heart and lung problems
+Certain chemotherapy drugs or radiation therapy to the chest can sometimes cause heart or lung problems later in life. The risks of heart disease and stroke are much higher among those treated for ALL as children, so careful follow-up is very important.
+Learning problems
+Treatment that includes radiation therapy to the brain or some types of chemotherapy may affect learning ability in some children. Because of this, doctors try to limit treatments that could affect the brain (including radiation) as much as possible.
+Growth and development
+Some cancer treatments may affect a child’s growth, so they might end up a bit shorter as adults. This is especially true after stem cell transplants. This can be helped by treating survivors with growth hormone, if needed. Treatment might also affect the levels of other hormones in the body, which can increase the risk of health issues such as thyroid problems, obesity, and diabetes.
+Fertility issues
+Cancer treatment may also affect sexual development and ability to have children later in life. Talk to your child’s cancer care team about the risks of infertility with treatment, and ask if there are options for preserving fertility, such as sperm banking. For more information, see Preserving Fertility in Children and Teens With Cancer.
+Bone problems
+Bone damage or osteoporosis (thinning of the bones) may result from the use of prednisone, dexamethasone, or other steroid drugs.
+There may be other possible complications from chemotherapy or other treatments as well. Your child’s doctor should carefully review any possible problems with you before your child starts treatment.
+Long-term follow-up guidelines
+To help increase awareness of late effects and improve follow-up care for childhood cancer survivors throughout their lives, the Children’s Oncology Group (COG) has developed long-term follow-up guidelines for survivors of childhood cancers. These guidelines can help you know what to watch for, what types of screening tests should be done, and how late effects can be treated.
+It’s very important to discuss possible long-term complications with your child’s health care team, and to make sure there is a plan in place to watch for these problems and treat them, if needed. To learn more, ask your child’s doctors about the COG survivor guidelines. You can also read them on the COG website: www.survivorshipguidelines.org. The guidelines are written for health care professionals. Patient versions of some of the guidelines are available (as Health Links) on the site as well, but we urge you to discuss them with your doctor.
+For more on the possible long-term effects of treatment, see Late Effects of Childhood Cancer Treatment.
+Social and emotional issues during and after treatment
+Social and emotional issues may come up during and after treatment. Factors such as the child’s age when diagnosed and the extent of treatment can play a role here.
+Some children may have emotional or psychological issues that need to be addressed during and after treatment. Depending on their age, they may also have some problems with normal functioning and school work. These types of issues can often be helped with support and encouragement. Doctors and other members of the health care team can also often recommend special support programs and services to help children after treatment. For more information, see When Your Child's Treatment Ends.
+Many experts recommend that school-aged patients attend school as much as possible. This can help them maintain a sense of daily routine and keep their friends informed about what is happening. 
+Friends can be a great source of support, but patients and parents should know that some people have misunderstandings and fears about cancer. Some cancer centers have school re-entry programs that can help in these situations. In these programs, health educators visit the school and tell students about the diagnosis, treatment, and changes that the cancer patient may go through. They also answer any questions from teachers and classmates. (For more information, see Returning to School After Cancer Treatment.)
+Parents and other family members can also be affected, both emotionally and in other ways. Some common family concerns during treatment include financial stresses, traveling to and staying near the cancer center, the need to take time off from work, and the need for home schooling. Social workers and other professionals at cancer centers can help families sort through these issues.
+Centers that treat many patients with leukemia may have programs to introduce new patients and their families to others who have finished their treatment. This can give them an idea of what to expect during and after treatment, which can be very important.
+Once treatment is finished, a number of emotional concerns can come up. Some of these might last a long time and can include:
+
+Dealing with physical changes that can result from the treatment
+Worries about the leukemia returning or new health problems developing
+Feelings of resentment for having had leukemia or having to go through treatment when others do not
+Concerns about being treated differently or discriminated against (by friends, classmates, coworkers, employers, etc.)
+Concerns about dating, marrying, and having a family later in life
+
+No one chooses to have leukemia, but for many childhood leukemia survivors, the experience can eventually be positive, helping to establish strong self-values. Other survivors may have a harder time recovering, adjusting to life after cancer, and moving on. It’s normal to have some anxiety or other emotional reactions after treatment, but feeling overly worried, depressed, or angry can affect many aspects of a young person’s growth. It can get in the way of relationships, school, work, and other aspects of life. With support from family, friends, other survivors, mental health professionals, and others, many people who have survived leukemia can thrive in spite of the challenges they’ve had to face.What is childhood leukemia?
+Cancer can start any place in the body. Leukemia is a type of cancer that starts in the bone marrow, the soft inner part of certain bones where new blood cells are made. Most leukemias start in white blood cells. When the white blood cells grow out of control and crowd out normal blood cells, it makes it hard for the body to work the way it should. The leukemia cells quickly spread to the blood and from there to other parts of the body.
+Normal blood cells made in bone marrow
+To understand the different types of leukemia, it helps to know about the types of blood cells.
+Red blood cells (RBCs) carry oxygen from the lungs to all other tissues of the body and take carbon dioxide back to the lungs to be removed.
+White blood cells (WBCs) help the body fight infections. There are many types of white blood cells, but the main types are:
+
+Lymphocytes
+Granulocytes
+Monocytes
+
+Most leukemias start in early forms of white blood cells.
+Platelets are actually pieces that break off from certain bone marrow cells. Platelets help stop bleeding by plugging holes in blood vessels caused by cuts or bruises.
+Types of leukemia in children
+There are many types of leukemia, which can be either fast growing (acute), or slower growing (chronic). Almost all leukemia in children is acute. Acute leukemias can progress quickly, so they need to be treated right away. Your doctor can tell you more about the type your child has. Below are the medical names for the 2 most common types of leukemia in children.
+Acute lymphocytic leukemia (ALL)
+Another name for ALL is acute lymphoblastic leukemia. This is the most common kind of childhood leukemia. It starts from the early forms of lymphocytes in the bone marrow.
+Acute myeloid leukemia (AML)
+Another name for AML is acute myelogenous leukemia. This is the second most common kind. There are many types of AML, which starts from cells that form the other white blood cells (not lymphocytes), red blood cells, or platelets.
+Questions to ask the doctor
+
+Why do you think my child has leukemia?
+Is there a chance my child doesn’t have leukemia?
+Would you please write down the kind of leukemia you think my child might have?
+What will happen next?
+
+How does the doctor know my child has leukemia?
+Sometimes childhood leukemia can be mistaken for common illness like a cold or the flu, especially when symptoms don’t go away. Check with your child's doctor if your child has any of the following:
+
+Fever
+Feeling tired or weak
+Feeling cold or dizzy
+Pain in the bones
+Frequent infections
+Bruising or bleeding easily
+Headaches
+Stomach aches and poor appetite
+
+The doctor will want to know how long your child has had these symptoms.
+If signs are pointing to leukemia, more tests will be done. Here are some of the tests your child may need:
+Blood cell counts: This blood test is often the first test done. Most children with leukemia have too many WBCs and not enough RBCs or platelets. The WBCs found are young blood cells called blasts that normally stay in the bone marrow until they are mature. Finding these blast cells in the blood, or finding very few WBCs at all, can also make the doctor think it is leukemia.
+Bone marrow aspiration and biopsy: This test is usually needed to tell for sure if your child has leukemia. A doctor uses thin, hollow needles to remove small amounts of bone marrow, usually from the hip bone. The area around the bone is numbed, and the child may be given a drug to make them sleep during the test. The samples are sent to a lab to see if there are leukemia cells in the bone marrow.
+This test can also be used later to see if the leukemia is getting better with treatment.
+Spinal tap (lumbar puncture): This test is used to check for leukemia cells in the fluid around the brain and spinal cord (called CSF). The doctor first numbs an area in the lower part of the back over the spine. The doctor may give the child a drug to make them sleep during the test. A small hollow needle is placed between the bones of the spine to draw out some of the fluid, which is then sent to a lab.
+Lab tests for leukemia: Many types of lab tests can be used to look at samples from blood, bone marrow, spinal fluid and lymph nodes. They can help the doctor tell if the child has leukemia, as well as find out what kind of leukemia it is.
+Other blood tests: If the child does have leukemia, other blood tests will be done to see how well the liver, kidneys, and other organs are working.
+Chest x-ray: A chest x-ray can help tell if organs or lymph nodes in the chest are swollen. It can also see if the child seems to have a lung infection.
+CT (computed tomography) scan: CT scans (sometimes called CAT scans) use x-rays to make detailed pictures of the inside of the body. This test can help tell if the leukemia has spread into lymph nodes in the chest or to organs like the spleen or liver.
+MRI: This test also makes detailed pictures, but it's most helpful in looking at the brain and spinal cord.
+Childhood leukemia subtypes
+Leukemia does not have stages like most other cancers. The cancer starts in the bone marrow and quickly spreads to the blood, so leukemia cells are already throughout the body.
+The most important concern for leukemia is figuring out the type (such as ALL or AML) and subtype of the leukemia. The subtype is based on things like:
+
+Which type of cell the leukemia started in
+If the leukemia cells have certain gene changes
+If the leukemia is the result of treatment for another cancer
+
+Ask the doctor to explain what type and subtype of leukemia your child has. These help the doctor decide which treatment options are best.
+Questions to ask the doctor
+
+Would you write down exactly what kind of leukemia my child has?
+Are there any factors that might affect my child’s outlook?
+Are there other doctors we need to see?
+How much experience do you have treating this type of leukemia?
+What tests will my child need?
+Who will do these tests?
+Where will they be done?
+Who can explain them to me?
+How and when will we get the results?
+Who will explain the results?
+How soon do we need to start treatment?
+What will happen next?
+
+What kind of treatment will my child need?
+The treatment plan that’s best for your child will depend on:
+
+The type and subtype of the leukemia
+The chance that a type of treatment will cure the leukemia or help in some way
+Other factors, such as your child's age and certain lab test results
+Your feelings about the treatment and the side effects that could come with it
+
+Chemo
+Chemotherapy, or chemo for short, is the use of drugs to kill cancer cells. This is the main treatment for most types of leukemia.
+Usually the drugs are given into a vein, into the spine, or as pills. Once the drugs enter the blood, they spread throughout the body. Children might get more than one chemo drug at different times.
+Doctors give chemo in cycles, with each cycle followed by a rest period. As a rule, AML treatment uses higher doses of chemo over a shorter time (usually less than a year), while ALL treatment uses lower doses over a longer time (about 2 to 3 years).
+Side effects of chemo
+Chemo can have many side effects, such as:
+
+Hair loss
+Mouth sores
+Loss of appetite
+Diarrhea
+Nausea and vomiting
+Increased risk of infections (because of low white blood cell counts)
+Bruising and bleeding easily (from low platelet counts)
+Tiredness (caused by low red blood cell counts)
+
+But these problems tend to go away after treatment ends. There are ways to treat most chemo side effects. Be sure to talk to your child’s cancer care team so they can help.
+Targeted drugs
+Targeted drugs are newer treatments that may be used for certain types of leukemia. These drugs affect mainly cancer cells and not normal cells in the body. They may work even if other treatment doesn’t. They might be injected into a vein, or they might come as pills that your child takes at home. These drugs have different side effects than chemo.
+Immunotherapy
+Immunotherapy helps the body's own immune system attack the leukemia. Some newer types of immune treatments, such as CAR T-cell therapy, are now being used for some hard-to-treat leukemias.
+High-dose chemo and stem cell transplant
+A stem cell transplant (SCT) can sometimes be used for children whose chances of cure are not as good with standard doses of chemo. SCT lets doctors use very high doses of chemo. These high doses destroy the bone marrow, which keeps new blood cells from being made. This poses a threat to the child’s life. But after treatment is finished, the child gets a transplant of blood-forming stem cells to replace the bone marrow. There are different kinds of SCT, each of which can have serious side effects. Ask your doctor which type your child will have and what to expect.
+Surgery
+Surgery has only a small role in treating leukemia. This is because leukemia is a disease of blood and bone marrow and can’t be cured with surgery. Surgery may be used before chemo to put a small plastic tube called a central venous catheter (CVC) or venous access device (VAD) into a large vein. This allows drugs such as chemo to be given and blood samples to be taken without sticking a needle in each time.
+Radiation treatments
+Radiation uses high-energy rays (like x-rays) to kill cancer cells. This treatment may be used to kill any leukemia cells that may be hiding in the brain or in the testicles. It also can be used before a stem cell transplant. Ask your child’s doctor if radiation will be part of the treatment and what to expect.
+Side effects of radiation treatments
+If your child’s doctor suggests radiation treatment, talk about what side effects might happen. Side effects depend on where the radiation is aimed. The most common side effects of radiation are:
+
+Skin changes where the radiation is given
+Feeling very tired
+
+These side effects tend to get better after treatment ends. Radiation can also cause long-term effects if it is aimed at the brain, heart, lungs, or other organs. Talk to your child’s cancer care team about what to expect.
+Clinical trials
+Clinical trials are research studies that test new drugs or other treatments in people. They compare standard treatments with others that may be better.
+If you would like to learn more about clinical trials that might be right for your child, start by asking your doctor if your clinic or hospital conducts clinical trials. See Clinical Trials to learn more.
+Clinical trials are one way to get the newest cancer treatment. They are the best way for doctors to find better ways to treat cancer. If your doctor can find one that’s studying the kind of cancer your child has, it’s up to you whether to take part. And you can always stop at any time.
+What about other treatments I hear about?
+When your child has cancer you might hear about other ways to treat the cancer or its symptoms. These may not always be standard medical treatments. These treatments may be vitamins, herbs, special diets, and other things. You may wonder about these treatments.
+Some of these are known to help, but many have not been tested. Some have been shown not to help. A few have even been found to be harmful. Talk to your child’s doctor about anything you’re thinking about using, whether it’s a vitamin, a diet, or anything else.
+Questions to ask the doctor
+
+What treatment do you think is best for my child?
+What’s the goal of this treatment? Do you think it could cure the leukemia?
+Will my child need other types of treatment, too?
+What’s the goal of these treatments?
+What side effects could my child have from these treatments?
+What can we do about side effects?
+Is there a clinical trial that might be right for my child?
+What about special vitamins or diets that friends tell me about? How will we know if they are safe?
+How soon do we need to start treatment?
+What should we do to be ready for treatment?
+Is there anything we can do to help the treatment work better?
+What are our treatment choices?
+What do you recommend and why?
+Should we think about a stem cell transplant?
+What are the chances of curing the leukemia?
+What’s the next step?
+
+What will happen after treatment?
+You’ll be glad when treatment is over. But it’s hard not to worry about the leukemia coming back. Even when cancer never comes back, people still worry about it. For years after treatment ends, your child will see your cancer doctor. Be sure they go to all of these follow-up visits. Your child will have exams, blood tests, and maybe other tests to see if the leukemia has come back.
+At first, the doctor visits may be about once a month. Then, the longer your child is cancer-free, the less often the visits are needed. 
+With support from family, friends, other survivors, mental health professionals, and others, many children who survive leukemia can thrive in spite of the challenges they’ve had to face.

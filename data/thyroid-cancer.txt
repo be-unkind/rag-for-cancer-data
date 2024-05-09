@@ -1,0 +1,825 @@
+Thyroid cancer is a type of cancer that starts in the thyroid gland. Cancer starts when cells begin to grow out of control. (To learn more about how cancers start and spread, see What Is Cancer?)
+The thyroid gland makes hormones that help regulate your metabolism, heart rate, blood pressure, and body temperature.
+Where thyroid cancer starts
+The thyroid gland is in the front part of the neck, below the thyroid cartilage (Adam’s apple). In most people, the thyroid cannot be seen or felt. It is shaped like a butterfly, with 2 lobes — the right lobe and the left lobe — joined by a narrow piece of gland called the isthmus (see picture below).How common is thyroid cancer?
+The American Cancer Society’s most recent estimates for thyroid cancer in the United States are for 2024:
+
+About 44,020 new cases of thyroid cancer (12,500 in men and 31,520 in women)
+About 2,170 deaths from thyroid cancer (990 in men and 1,180 in women)
+
+Thyroid cancer is often diagnosed at a younger age than most other adult cancers. The average age when a person is diagnosed with thyroid cancer is 51.
+This cancer is about 3 times more common in women than in men. It is about 40% to 50% less common in Black people than in any other racial or ethnic group.
+Trends in thyroid cancer statistics
+Until recently, rate of new thyroid cancers was growing faster than for any other cancer in the US. This was largely due to increased detection during imaging tests such as CT or MRI scans that were done for other medical problems. These sensitive tests can sometimes detect small thyroid nodules that might not otherwise have been found (and many of which might never have caused any problems). However, due in part to adoption of more stringent criteria for diagnosing thyroid cancer, the incidence rate has declined by about 2% each year since 2014.
+The death rate for thyroid cancer has stayed about the same since 2009.
+Statistics on survival rates for thyroid cancer are discussed in Survival Rates for Thyroid Cancer.
+Visit the American Cancer Society’s Cancer Statistics Center for more key statistics.Important research into thyroid cancer is being done right now in many university hospitals, medical centers, and other institutions around the country. Each year, scientists find out more about what causes the disease, how to prevent it, and how to improve treatment. In past years, for example, evidence has grown showing the benefits of combining surgery with radioactive iodine therapy and thyroid hormone therapy. The results include higher cure rates, lower recurrence rates, and longer survival.
+Genetics
+The discovery of the genetic causes of familial (inherited) medullary thyroid cancer now makes it possible to identify family members carrying the abnormal RET gene and to remove the thyroid to prevent cancer from developing there.
+Understanding the abnormal genes that cause sporadic (not inherited) thyroid cancer has led to better treatments as well. In fact, treatments that target some of these gene changes are already being used, and more are being developed (see below).
+Treatment
+Most thyroid cancers can be treated successfully. But advanced cancers can be hard to treat, especially if they do not respond to radioactive iodine (RAI) therapy. Doctors and researchers are looking for new ways to treat thyroid cancer that are more effective and lead to fewer side effects.
+Radioactive iodine (RAI) therapy
+Doctors are looking for better ways to see which cancers are likely to come back after surgery. Patients with these cancers may be helped by getting RAI therapy after surgery. Recent studies have shown that patients with very low thyroglobulin levels 3 months after surgery have a very low risk of recurrence even without RAI. More research in this area is still needed.
+Researchers are also looking for ways to make RAI effective against more thyroid cancers. For example, in some thyroid cancers, the cells have changes in the BRAF gene, which may make them less likely to respond to RAI therapy. Researchers are studying whether new drugs that target the BRAF pathway can be used to make thyroid cancer cells more likely to take up radioactive iodine. These types of drugs might be useful for people who have advanced cancer that is no longer responding to RAI therapy.
+Targeted therapies
+In general, thyroid cancers do not respond well to chemotherapy. But exciting data are emerging about some newer targeted drugs. Unlike standard chemotherapy drugs, which work by attacking rapidly growing cells (including cancer cells), these drugs attack specific targets on cancer cells. Targeted drugs may work in some cases when standard chemotherapy drugs do not, and they often have different side effects.
+Kinase inhibitors: A class of targeted drugs known as kinase inhibitors may help treat thyroid cancer cells with mutations in certain genes, such as BRAF and RET/PTC. Many of these drugs also affect tumor blood vessel growth.
+In many papillary thyroid cancers, the cells have changes in the BRAF gene, which helps them grow. Drugs that target cells with BRAF gene changes, such as vemurafenib (Zelboraf), dabrafenib (Tafinlar), and selumetinib, are now being studied in thyroid cancers with this gene change.
+In one study, giving selumetinib to patients with thyroid cancers that had stopped responding to radioactive iodine (RAI) treatment helped make some patients’ tumors respond to treatment with RAI again. It helped patients not only with BRAF mutations, but also with mutations in a different gene called NRAS.
+Other kinase inhibitors that have shown early promise against thyroid cancer in clinical trials include sunitinib (Sutent), pazopanib (Votrient), and axitinib (Inlyta).
+Some of these other drugs, such as sunitinib, sorafenib, and pazopanib, are already approved to treat other types of cancer, and might be useful against MTC and differentiated thyroid cancers if other treatments are no longer working.
+Anti-angiogenesis drugs: As tumors grow, they need a larger blood supply to get enough nutrients. They get it by forming new blood vessels (a process called angiogenesis). Anti-angiogenesis drugs work by disrupting these new blood vessels. Some of the drugs listed above, such as axitinib, sunitinib, and sorafenib, have anti-angiogenic properties.
+Another anti-angiogenesis drug being studied for use against thyroid cancer is bevacizumab (Avastin).
+Other targeted drugs: The combination of the chemotherapy drug paclitaxel (Taxol) with the targeted drug efatutazone could be helpful in patients with anaplastic thyroid cancer. Efatutazone targets a receptor called PPAR-gamma.
+Observation
+The chance of being diagnosed with thyroid cancer has risen rapidly in the US in recent years. Much of this rise appears to be the result of the increased use of thyroid ultrasound, which can detect small thyroid nodules that might not otherwise have been found in the past.
+Recent international studies have suggested that some of these newly found, very small thyroid cancers (known as micro-papillary thyroid cancers) may not need to be treated right away but instead can be safely watched. Ongoing clinical trials in the US are now looking at this same approach.A risk factor is anything that increases a person’s chance of getting a disease such as cancer. Different cancers have different risk factors. Some risk factors, like smoking, can be changed. Others, like a person’s age or family history, can’t be changed.
+But risk factors don’t tell us everything. Having a risk factor, or even several risk factors, does not mean that you will get the disease. And many people who get the disease may have few or no known risk factors. Even if a person with thyroid cancer has a risk factor, it is very hard to know how much that risk factor may have contributed to the cancer.
+Scientists have found a few risk factors that make a person more likely to develop thyroid cancer.
+Risk factors that can’t be changed
+Sex and age
+For unclear reasons thyroid cancers (like almost all diseases of the thyroid) occur about 3 times more often in women than in men.
+Thyroid cancer can occur at any age, but the risk peaks earlier for women (who are most often in their 40s or 50s when diagnosed) than for men (who are usually in their 60s or 70s).
+Hereditary conditions
+Several inherited conditions have been linked to different types of thyroid cancer, as has family history. Still, most people who develop thyroid cancer do not have an inherited condition or a family history of the disease.
+Medullary thyroid cancer: About 2 out of 10 medullary thyroid carcinomas (MTCs) result from inheriting an abnormal gene. These cases are known as familial medullary thyroid carcinoma (FMTC). FMTC can occur alone, or it can be seen along with other tumors.
+The combination of FMTC and tumors of other endocrine glands is called multiple endocrine neoplasia type 2 (MEN 2). There are 2 subtypes, MEN 2a and MEN 2b, both of which are caused by mutations (defects) in a gene called RET.
+
+In MEN 2a, MTC occurs along with pheochromocytomas (tumors that make adrenaline) and with parathyroid gland tumors.
+In MEN 2b, MTC is associated with pheochromocytomas and with benign growths of nerve tissue on the tongue and elsewhere called neuromas. This subtype is much less common than MEN 2a.
+
+In these inherited forms of MTC, the cancers often develop during childhood or early adulthood and can spread early. MTC is most aggressive in the MEN 2b syndrome. If MEN 2a, MEN 2b, or isolated FMTC runs in your family, you may be at very high risk of developing MTC. Ask your doctor about having regular blood tests or ultrasound exams to look for problems and the possibility of genetic testing.
+Other thyroid cancers: People with certain inherited medical conditions have a higher risk of more common forms of thyroid cancer. Higher rates of thyroid cancer occur among people with uncommon genetic conditions such as:
+Familial adenomatous polyposis (FAP): People with this syndrome develop many colon polyps and have a very high risk of colon cancer. They also have an increased risk of some other cancers, including papillary thyroid cancer. Gardner syndrome is a subtype of FAP in which patients also get certain benign tumors. Both Gardner syndrome and FAP are caused by defects in the gene APC.
+Cowden disease: People with this syndrome have an increased risk of thyroid problems and certain benign growths (including some called hamartomas). They also have an increased risk of cancers of the thyroid, uterus, breast, as well as some others. The thyroid cancers tend to be either the papillary or follicular type. This syndrome is most often caused by defects in the gene PTEN. It is also known as Multiple Hamartoma Syndrome and PTEN Hamartoma Tumor Syndrome
+Carney complex, type I: People with this syndrome may develop a number of benign tumors and hormone problems. They also have an increased risk of papillary and follicular thyroid cancers. This syndrome is caused by defects in the gene PRKAR1A.
+Familial nonmedullary thyroid carcinoma: Thyroid cancer occurs more often in some families, and is often seen at an earlier age. The papillary type of thyroid cancer most often runs in families. Genes on chromosome 19 and chromosome 1 are suspected of causing these familial cancers.
+If you suspect you might have a familial condition, talk with your doctor, who might recommend genetic counseling if your medical history warrants it.
+Family history
+Having a first-degree relative (parent, brother, sister, or child) with thyroid cancer, even without a known inherited syndrome in the family, increases your risk of thyroid cancer. The genetic basis for these cancers is not totally clear.
+Risk factors that may be changed
+Radiation
+Radiation exposure is a proven risk factor for thyroid cancer. Sources of such radiation include certain medical treatments and radiation fallout from power plant accidents or nuclear weapons.
+Having had head or neck radiation treatments in childhood is a risk factor for thyroid cancer. Risk depends on how much radiation is given and the age of the child. In general, the risk increases with larger doses and with younger age at treatment.
+Before the 1960s, children were sometimes treated with low doses of radiation for things we wouldn’t use radiation for now, like acne, fungus infections of the scalp (ringworm), or enlarged tonsils or adenoids. Years later, the people who had these treatments were found to have a higher risk of thyroid cancer. Radiation therapy in childhood for some cancers such as lymphoma, Wilms tumor, and neuroblastoma also increases risk. Thyroid cancers that develop after radiation therapy are not more serious than other thyroid cancers.
+Imaging tests such as x-rays and CT scans also expose children to radiation, but at much lower doses, so it’s not clear how much those tests might raise the risk of thyroid cancer (or other cancers). If there is an increased risk it is likely to be small, but to be safe, children should not have these tests unless they are absolutely needed. When they are needed, they should be done using the lowest dose of radiation that still provides a clear picture.
+Several studies have pointed to an increased risk of thyroid cancer in children because of radioactive fallout from nuclear weapons or power plant accidents. For instance, thyroid cancer was many times more common than normal in children who lived near Chernobyl, the site of a 1986 nuclear plant accident that exposed millions of people to radioactivity. Adults involved with the cleanup after the accident and those who lived near the plant have also had higher rates of thyroid cancer. Children who had more iodine in their diet appeared to have a lower risk.
+Some radioactive fallout occurred over certain regions of the United States after nuclear weapons were tested in western states during the 1950s. This exposure was much, much lower than that around Chernobyl. A higher risk of thyroid cancer has not been proven at these low exposure levels. If you are concerned about possible exposure to radioactive fallout, discuss this with your doctor.
+Being exposed to radiation when you are an adult carries much less risk of thyroid cancer.
+Being overweight or obese
+According to the International Agency for Research on Cancer (IARC), people who are overweight or obese have a higher risk of developing thyroid cancer than those who are not. The risk appears to go up as the body mass index (BMI) increases.
+Iodine in the diet
+Follicular thyroid cancers are more common in areas of the world where people’s diets are low in iodine. On the other hand, a diet high in iodine may increase the risk of papillary thyroid cancer. In the United States, most people get enough iodine in their diet because it is added to table salt and other foods.Thyroid cancer is linked with a number of inherited conditions (described in Thyroid cancer risk factors), but the exact cause of most thyroid cancers is not yet known.
+Certain changes in a person’s DNA can cause thyroid cells to become cancerous. DNA is the chemical in each of our cells that makes up our genes – the instructions for how our cells function. We usually look like our parents because they are the source of our DNA. But DNA affects more than just how we look. It also can influence our risk for developing certain diseases, including some kinds of cancer.
+Some genes contain instructions for controlling when our cells grow and divide into new cells or when they die.
+
+Certain genes that help cells grow and divide or make them live longer than they should are called oncogenes.
+Genes that slow down cell division or make cells die at the right time are called tumor suppressor genes.
+
+Cancers can be caused by DNA changes that turn on oncogenes or turn off tumor suppressor genes.
+People get 2 copies of each gene – one from each parent. We can inherit damaged DNA from one or both parents. Most cancers, though, are not caused by inherited gene changes. In these cases, the genes change during a person’s life. They may occur when a cell’s DNA is damaged by something in the environment, like radiation, or they may just be random events that sometime happen inside a cell, without an outside cause.
+Papillary thyroid cancer
+Several DNA mutations (changes) have been found in papillary thyroid cancer. Many of these cancers have changes in specific parts of the RET gene. The altered form of this gene, known as the PTC oncogene, is found in about 10% to 30% of papillary thyroid cancers overall, and in a larger percentage of these cancers in children and/or linked with radiation exposure. These RET mutations usually are acquired during a person’s lifetime rather than being inherited. They are found only in cancer cells and are not passed on to the person’s children.
+Many papillary thyroid cancers have a mutated BRAF gene. The BRAF mutation is less common in thyroid cancers in children and in cancers thought to develop because of exposure to radiation. Cancers with BRAF changes tend to grow and spread to other parts of the body more quickly.
+Both BRAF and RET/PTC changes are thought to make cells grow and divide. It is extremely rare for papillary cancers to have changes in both the BRAF and RET/PTC genes. Some doctors now advise testing thyroid biopsy samples for these gene mutations, as they can help diagnose cancer and may also affect the patient’s outlook (see Tests for thyroid cancer).
+Changes in other genes have also been linked to papillary thyroid cancer, including those in the NTRK1 gene.
+Follicular thyroid cancer
+Acquired changes in the RAS oncogene as well as changes in the PAX8–PPAR-γ rearrangement have a role in causing some follicular thyroid cancers.
+Anaplastic thyroid cancer
+These cancers tend to have some of the mutations described above and often have changes in the TP53 tumor suppressor gene.
+Medullary thyroid cancer
+People who have medullary thyroid cancer (MTC) have mutations in different parts of the RET gene than people with papillary carcinoma. Nearly all patients with the inherited form of MTC and about 1 of every 10 with the sporadic (non-inherited) form of MTC have a mutation in the RET gene. Most patients with sporadic MTC have gene mutations only in their cancer cells. People with familial MTC and MEN 2 inherit the RET mutation from a parent. These mutations are in every cell in the body and can be detected by DNA tests.Most people with thyroid cancer have no known risk factors, so it is not possible to prevent most cases of this disease.
+Radiation exposure, especially in childhood, is a known thyroid cancer risk factor. Because of this, doctors no longer use radiation to treat less serious diseases. Imaging tests such as x-rays and CT scans also expose children to radiation, but at much lower doses, so it’s not clear how much they might raise the risk of thyroid cancer (or other cancers). If there is an increased risk it is likely to be small, but to be safe, children should not have these tests unless they are absolutely needed. When they are needed, they should be done using the lowest dose of radiation that still provides a clear picture.
+Genetic tests can be done to look for the gene mutations found in familial medullary thyroid cancer (MTC). Because of this, most of the familial cases of MTC can be prevented or treated early by removing the thyroid gland. Once the disease is discovered in a family, the rest of the family members can be tested for the mutated gene.
+If you have a family history of MTC, it is important that you see a doctor who is familiar with the latest advances in genetic counseling and genetic testing for this disease. Removing the thyroid gland in children who carry the abnormal gene will probably prevent a cancer that might otherwise be fatal.Many cases of thyroid cancer can be found early. In fact, most thyroid cancers are now found much earlier than in the past and can be treated successfully.
+
+Most early thyroid cancers are found when patients see their doctors because of neck lumps or nodules they noticed. If you have symptoms such as a lump or swelling in your neck, you should see your doctor right away.
+Other thyroid cancers are found by health care professionals during a routine checkup.
+Early thyroid cancers are also sometimes found when people have imaging tests, such as ultrasounds or CT scans for other health problems.
+
+Blood tests or thyroid ultrasound can often find changes in the thyroid, but these tests are not recommended as screening tests for thyroid cancer unless a person is at increased risk, such as having a family history of thyroid cancer. There is no recommended screening test to find thyroid cancer early for people at average risk.
+People with a family history of medullary thyroid cancer (MTC), with or without multiple endocrine neoplasia type 2 (MEN 2), might have a very high risk for developing this cancer. Most doctors recommend genetic testing for these people when they are young to see if they carry the gene changes linked to MTC. For those who may be at risk but don’t get genetic testing, blood tests and thyroid ultrasounds can help find MTC at an early stage, when it may still be curable.Thyroid cancer can cause any of the following signs or symptoms:
+
+A lump in the neck, sometimes growing quickly
+Swelling in the neck
+Pain in the front of the neck, sometimes going up to the ears
+Hoarseness or other voice changes that do not go away
+Trouble swallowing
+Trouble breathing
+A constant cough that is not due to a cold
+
+If you have any of these signs or symptoms, talk to your doctor right away. Many of these symptoms can also be caused by non-cancerous conditions or even other cancers of the neck area. Lumps in the thyroid are common and are usually benign. Still, if you have any of these symptoms, it’s important to see your doctor so the cause can be found and treated, if needed.Thyroid cancer may be diagnosed after a person goes to a doctor because of symptoms, or it might be found during a routine physical exam or other tests. If there is a reason to suspect you might have thyroid cancer, your doctor will use one or more tests to confirm the diagnosis. If cancer is found, other tests might be done to find out more about the cancer.
+Medical history and physical exam
+If you have any signs or symptoms that suggest you might have thyroid cancer, your health care professional will want to know your complete medical history. You will be asked questions about your possible risk factors, symptoms, and any other health problems or concerns. If someone in your family has had thyroid cancer (especially medullary thyroid cancer) or tumors called pheochromocytomas, it is important to tell your doctor, as you might be at high risk for this disease.
+Your doctor will examine you to get more information about possible signs of thyroid cancer and other health problems. During the exam, the doctor will pay special attention to the size and firmness of your thyroid and any enlarged lymph nodes in your neck.
+Imaging tests
+Imaging tests may be done for a number of reasons:
+
+To help find suspicious areas that might be cancer
+To learn how far cancer may have spread
+To help determine if treatment is working
+
+People who have or may have thyroid cancer will get one or more of these tests.
+Ultrasound
+Ultrasound uses sound waves to create images of parts of your body. You are not exposed to radiation during this test.
+This test can help determine if a thyroid nodule is solid or filled with fluid. (Solid nodules are more likely to be cancerous.) It can also be used to check the number and size of thyroid nodules as well as help determine if any nearby lymph nodes are enlarged because the thyroid cancer has spread.
+For thyroid nodules that are too small to feel, this test can be used to guide a biopsy needle into the nodule to get a sample. Even when a nodule is large enough to feel, most doctors prefer to use ultrasound to guide the needle.
+Radioiodine scan
+Radioiodine scans can be used to help determine if someone with a lump in the neck might have thyroid cancer. They are also often used in people who have already been diagnosed with differentiated (papillary, follicular, or Hürthle cell) thyroid cancer to help show if it has spread. Because medullary thyroid cancer cells do not absorb iodine, radioiodine scans are not used for this cancer.
+For this test, a small amount of radioactive iodine (called I-131) is swallowed (usually as a pill) or injected into a vein. Over time, the iodine is absorbed by the thyroid gland (or thyroid cells anywhere in the body). A special camera is used several hours later to see where the radioactivity is.
+For a thyroid scan, the camera is placed in front of your neck to measure the amount of radiation in the gland. Abnormal areas of the thyroid that have less radioactivity than the surrounding tissue are called cold nodules, and areas that take up more radiation are called hot nodules. Hot nodules usually are not cancerous, but cold nodules can be benign or cancerous. Because both benign and cancerous nodules can appear cold, this test by itself can’t diagnose thyroid cancer.
+After surgery for thyroid cancer, whole-body radioiodine scans are useful to look for possible spread throughout the body. These scans become even more sensitive if the entire thyroid gland has been removed by surgery because more of the radioactive iodine is picked up by any remaining thyroid cancer cells.
+Radioiodine scans work best if patients have high blood levels of thyroid-stimulating hormone (TSH, or thyrotropin). For people whose thyroid has been removed, TSH levels can be increased by stopping thyroid hormone pills for a few weeks before the test. This leads to low thyroid hormone levels (hypothyroidism) and causes the pituitary gland to release more TSH, which in turn stimulates any thyroid cancer cells to take up the radioactive iodine. A downside of this is that it can cause the symptoms of hypothyroidism, including tiredness, depression, weight gain, sleepiness, constipation, muscle aches, and reduced concentration. One way to raise TSH levels without withholding thyroid hormone is to give an injectable form of thyrotropin (Thyrogen) before the scan.
+Because any iodine already in the body can affect this test, people are usually told to avoid foods or medicines that contain iodine for a few days before the scan.
+Radioactive iodine can also be used to treat differentiated thyroid cancer, but it is given in much higher doses. This type of treatment is described in Radioactive iodine (radioiodine) therapy.
+Chest x-ray
+If you have been diagnosed with thyroid cancer (especially follicular thyroid cancer), a plain x-ray of your chest may be done to see if cancer has spread to your lungs.
+Computed tomography (CT) scan
+The CT scan is an x-ray test that makes detailed cross-sectional images of your body. It can help determine the location and size of thyroid cancers and whether they have spread to nearby areas, although ultrasound is usually the test of choice. A CT scan can also be used to look for spread into distant organs such as the lungs.
+One problem using CT scans is that the CT contrast dye contains iodine, which interferes with radioiodine scans. For this reason, many doctors prefer MRI scans for differentiated thyroid cancer.
+Magnetic resonance imaging (MRI) scan
+MRI scans use magnets instead of radiation to create detailed cross-sectional images of your body. MRI can be used to look for cancer in the thyroid, or cancer that has spread to nearby or distant parts of the body. But ultrasound is usually the first choice for looking at the thyroid. MRI can provide very detailed images of soft tissues such as the thyroid gland. MRI scans are also very helpful in looking at the brain and spinal cord.
+Positron emission tomography (PET) scan
+A PET scan can be very useful if your thyroid cancer is one that doesn’t take up radioactive iodine. In this situation, the PET scan may be able to tell whether the cancer has spread.
+Biopsy
+The actual diagnosis of thyroid cancer is made with a biopsy, in which cells from the suspicious area are removed and looked at in the lab.
+If your doctor thinks a biopsy is needed, the simplest way to find out if a thyroid lump or nodule is cancerous is with a fine needle aspiration (FNA) of the thyroid nodule. This type of biopsy can sometimes be done in your doctor’s office or clinic.
+Before the biopsy, local anesthesia (numbing medicine) may be injected into the skin over the nodule, but in most cases an anesthetic is not needed. Your doctor will place a thin, hollow needle directly into the nodule to aspirate (take out) some cells and a few drops of fluid into a syringe. The doctor usually repeats this 2 or 3 more times, taking samples from several areas of the nodule. The biopsy samples are then sent to a lab, where they are looked at to see if the cells look cancerous or benign.
+Bleeding at the biopsy site is very rare except in people with bleeding disorders. Be sure to tell your doctor if you have problems with bleeding or are taking medicines that could affect bleeding, such as aspirin or blood thinners.
+This test is generally done on all thyroid nodules that are big enough to be felt. This means that they are larger than about 1 centimeter (about 1/2 inch) across. Doctors often use ultrasound to see the thyroid during the biopsy, which helps make sure they are getting samples from the right areas. This is especially helpful for smaller nodules. FNA biopsies can also be used to get samples of swollen lymph nodes in the neck to see if they contain cancer.
+Sometimes an FNA biopsy will need to be repeated because the samples didn’t contain enough cells. Most FNA biopsies will show that the thyroid nodule is benign. Rarely, the biopsy may come back as benign even though cancer is present. Cancer is clearly diagnosed in only about 1 of every 20 FNA biopsies.
+Sometimes the test results first come back as “suspicious” or “of undetermined significance” if FNA findings don’t show for sure if the nodule is either benign or malignant. If this happens, the doctor may order lab tests on the sample (see below).
+If the diagnosis is not clear after an FNA biopsy, you might need a more involved biopsy to get a better sample, particularly if the doctor has reason to think the nodule may be cancer. This might include a core biopsy using a larger needle, a surgical “open” biopsy to remove the nodule, or a lobectomy (removal of half of the thyroid gland). Surgical biopsies and lobectomies are done in an operating room while you are under general anesthesia (in a deep sleep). A lobectomy can also be the main treatment for some early cancers, although for many cancers the rest of the thyroid will need to be removed as well (during an operation called a completion thyroidectomy).
+Lab tests of biopsy (or other) samples
+In some cases, doctors might use molecular tests to look for specific gene changes in the cancer cells. This might be done for different reasons:
+
+If FNA biopsy results aren’t clear, the doctor might order lab tests on the samples to see if there are changes in the BRAF or RET/PTC genes. Finding one of these changes makes thyroid cancer much more likely.
+For some types of thyroid cancer, molecular tests might be done to see if the cancer cells have changes in certain genes (such as the BRAF, RET/PTC, or NTRK genes), which could mean that certain targeted drugs might be helpful in treating the cancer.
+
+These tests can be done on tissue taken during a biopsy or surgery for thyroid cancer. If the biopsy sample is too small and all the molecular tests can’t be done, the testing may also be done on blood that is taken from a vein, just like a regular blood draw.
+Blood tests
+Blood tests are not used to find thyroid cancer. But they can help show if your thyroid is working normally, which may help the doctor decide what other tests may be needed. They can also be used to monitor certain cancers.
+Thyroid-stimulating hormone (TSH)
+Tests of blood levels of thyroid-stimulating hormone (TSH or thyrotropin) may be used to check the overall activity of your thyroid gland. Levels of TSH, which is made by the pituitary gland, may be high if the thyroid is not making enough hormones. This information can be used to help choose which imaging tests (such as ultrasound or radioiodine scans) to use to look at a thyroid nodule. The TSH level is usually normal in thyroid cancer.
+T3 and T4 (thyroid hormones)
+These are the main hormones made by the thyroid gland. Levels of these hormones may also be measured to get a sense of thyroid gland function. The T3 and T4 levels are usually normal in thyroid cancer.
+Thyroglobulin
+Thyroglobulin is a protein made by the thyroid gland. Measuring the thyroglobulin level in the blood can’t be used to diagnose thyroid cancer, but it can be helpful after treatment. A common way to treat thyroid cancer is to remove most of the thyroid by surgery and then use radioactive iodine to destroy any remaining thyroid cells. These treatments should lead to a very low level of thyroglobulin in the blood within several weeks. If it is not low, this might mean that there are still thyroid cancer cells in the body. If the level rises again after being low, it is a sign that the cancer could be coming back.
+Calcitonin
+Calcitonin is a hormone that helps control how the body uses calcium. It is made by C cells in the thyroid, the cells that can develop into medullary thyroid cancer (MTC). If MTC is suspected or if you have a family history of the disease, blood tests of calcitonin levels can help look for MTC. This test is also used to look for the possible recurrence of MTC after treatment. Because calcitonin can affect blood calcium levels, these may be checked as well.
+Carcinoembryonic antigen (CEA)
+People with MTC often have high blood levels of a protein called carcinoembryonic antigen (CEA). Tests for CEA can help monitor this cancer.
+Other blood tests
+You might have other blood tests as well. For example, if you are scheduled for surgery, tests will be done to check your blood cell counts, to look for bleeding disorders, and to check your liver and kidney function.
+Medullary thyroid carcinoma (MTC) can be caused by a genetic syndrome that also causes a tumor called pheochromocytoma. Pheochromocytomas can cause problems during surgery if the patient is under anesthesia (in a deep sleep). This is why patients with MTC who will have surgery are often tested to see if they have a pheochromocytoma as well. This can mean blood tests for epinephrine (adrenaline) and a related hormone called norepinephrine, and/or urine tests for their breakdown products (called metanephrines).
+Vocal cord exam (laryngoscopy)
+Thyroid tumors can sometimes affect the vocal cords. If you are going to have surgery to treat thyroid cancer, a procedure called a laryngoscopy will probably be done first to see if the vocal cords are moving normally. For this exam, the doctor looks down the throat at the larynx (voice box) with special mirrors or with a laryngoscope, a thin tube with a light and a lens on the end for viewing.After someone is diagnosed with thyroid cancer, doctors will try to figure out if it has spread, and if so, how far. This process is called staging. The stage of a cancer describes how much cancer is in the body. It helps determine how serious the cancer is and how best to treat it. Doctors also use a cancer's stage when talking about survival statistics.
+Thyroid cancers range from stages I (1) through IV (4). As a rule, the lower the number, the less the cancer has spread. A higher number, such as stage IV, means cancer has spread more. And within a stage, an earlier letter means a lower stage. Although each person’s cancer experience is unique, cancers with similar stages tend to have a similar outlook and are often treated in much the same way.
+How is the stage determined?
+The staging system most often used for thyroid cancer is the AJCC (American Joint Committee on Cancer) TNM system, which is based on 3 key pieces of information:
+
+The extent (size) of the tumor (T): How large is the cancer? Has it grown into nearby structures?
+The spread to nearby lymph nodes (N): Has the cancer spread to nearby lymph nodes?
+The spread (metastasis) to distant sites (M): Has the cancer spread to the distant organs such as the lungs or liver?
+
+The systems described below are the most recent AJCC systems effective January 2018 and applies to differentiated, anaplastic and medullary thyroid cancers.
+Numbers or letters after T, N, and M provide more details about each of these factors. Higher numbers mean the cancer is more advanced. Once a person’s T, N, and M categories have been determined, this information is combined in a process called stage grouping to assign an overall stage. For more information see Cancer Staging.
+The staging system in the table below uses the pathologic stage (also called the surgical stage). It is determined by examining tissue removed during an operation. Sometimes, if surgery is not possible right away or at all, the cancer will be given a clinical stage instead. This is based on the results of a physical exam, biopsy, and imaging tests. The clinical stage will be used to help plan treatment. Sometimes, though, the cancer has spread further than the clinical stage estimates, and might not predict the patient’s outlook as accurately as a pathologic stage.
+Cancer staging can be complex, so ask your doctor to explain it to you in a way you understand.
+Differentiated (papillary or follicular) thyroid cancer in patients younger than 55
+Younger people have a low likelihood of dying from differentiated (papillary or follicular) thyroid cancer. The TNM stage groupings for these cancers take this fact into account. So, all people younger than 55 years with these cancers are stage I if they have no distant spread and stage II if they have distant spread. This table includes patients 55 or older as well as younger than 55. 
+
+
+
+AJCC Stage
+Age at diagnosis
+Stage grouping
+Differentiated Thyroid Cancer Stage description*
+
+
+  I  
+Younger than 55 years
+  Any T Any N M0  
+The cancer is any size (Any T) and might or might not have spread to nearby lymph nodes (Any N). It has not spread to distant sites (M0).
+
+
+OR
+
+
+55 years or older
+T1 N0 or NX M0
+The cancer is no larger than 2 cm [0.8 inches] across and confined to the thyroid (T1). It has not spread to nearby lymph nodes (N0) or to distant sites (M0).
+
+
+OR
+
+
+55 years or older
+T2 N0 or NX M0
+The cancer is larger than 2 cm [0.8 inches] across but no larger than 4 cm and confined to the thyroid (T2). It has not spread to nearby lymph nodes (N0) or to distant sites (M0).
+
+
+  II
+Younger than 55 years
+Any T Any N M1
+The cancer can be any size (Any T). It might or might not have spread to nearby lymph nodes (Any N). It has spread to other parts of the body, such as distant lymph nodes, internal organs, bones, etc. (M1).
+
+
+OR
+
+
+55 years or older
+T1 N1 M0
+The cancer is no larger than 2 cm [0.8 inches] across and confined to the thyroid (T1). It has spread to nearby lymph nodes (N1). It has not spread to distant sites (M0).
+
+
+OR
+
+
+55 years or older
+T2 N1 M0
+The cancer is larger than 2 cm [0.8 inches] across but no larger than 4 cm and confined to the thyroid (T2). It has spread to nearby lymph nodes (N1). It has not spread to distant sites (M0).
+
+
+OR
+
+
+55 years or older
+T3a or T3b Any N M0
+The cancer is larger than 4 cm but confined to the thyroid (T3a) or it has grown into the strap muscles around the thyroid (T3b). It might or might not have spread to nearby lymph nodes (Any N). It has not spread to distant sites (M0).
+
+
+III
+55 years or older
+T4a Any N M0
+The cancer is any size and has grown extensively beyond the thyroid gland into nearby tissues of the neck, such as the larynx (voice box), trachea (windpipe), esophagus (tube connecting the throat to the stomach), or the nerve to the larynx (T4a). It might or might not have spread to nearby lymph nodes (Any N). It has not spread to distant sites (M0).
+
+
+IVA
+55 years or older
+T4b Any N M0
+The cancer is any size and has grown extensively beyond the thyroid gland back toward the spine or into nearby large blood vessels (T4b). It might or might not have spread to nearby lymph nodes (Any N). It has not spread to distant sites (M0).
+
+
+IVB
+55 years or older
+Any T Any N M1
+The cancer is any size (Any T) and might or might not have spread to nearby lymph nodes (Any N). It has spread to other parts of the body, such as distant lymph nodes, internal organs, bones, etc. (M1).
+
+
+
+ 
+* The following additional categories are not listed on the table above: 
+
+TX: Main tumor cannot be assessed due to lack of information.
+T0: No evidence of a primary tumor. The N categories are described in the table above, except for:
+NX: Regional lymph nodes cannot be assessed due to lack of information.
+
+Anaplastic (undifferentiated) thyroid cancer
+All anaplastic thyroid cancers are considered stage IV, reflecting the poor prognosis for people with this type of cancer.
+
+
+
+AJCC Stage
+Stage grouping
+Anaplastic Thyroid Cancer Stage description*
+
+
+  IVA  
+T1, T2 or T3a N0 or NX M0
+The cancer is any size but confined to the thyroid (T1, T2, or T3a). It has not spread to nearby lymph nodes (N0) or to distant sites (M0).
+
+
+IVB
+T1, T2 or T3a N1 M0
+The cancer is any size but confined to the thyroid (T1, T2, or T3a). It has spread to nearby lymph nodes (N1). It has not spread to distant sites (M0).
+
+
+OR
+
+
+T3b Any N M0
+The cancer is any size and has grown into the strap muscles around the thyroid (T3b). It might or might not have spread to nearby lymph nodes (Any N). It has not spread to distant sites (M0).
+
+
+OR
+
+
+T4 Any N M0
+The cancer is any size and has grown extensively beyond the thyroid gland into nearby tissues of the neck, such as the larynx (voice box), trachea (windpipe), esophagus (tube connecting the throat to the stomach), or the nerve to the larynx or back toward the spine or into nearby large blood vessels (T4).  It might or might not have spread to nearby lymph nodes (Any N). It has not spread to distant sites (M0).
+
+
+IVC
+Any T Any N M1
+The cancer is any size (Any T) and might or might not have spread to nearby lymph nodes (Any N). It has spread to other parts of the body, such as distant lymph nodes, internal organs, bones, etc. (M1).
+
+
+
+* The following additional categories are not listed on the table above: 
+
+TX: Main tumor cannot be assessed due to lack of information.
+T0: No evidence of a primary tumor. The N categories are described in the table above, except for:
+NX: Regional lymph nodes cannot be assessed due to lack of information.
+
+Medullary thyroid cancer
+Age is not a factor in the stage of medullary thyroid cancer.
+
+
+
+AJCC Stage
+Stage grouping
+Medullary Thyroid Cancer Stage description*
+
+
+  I  
+T1 N0 M0
+The cancer is 2cm (0.8 inches) or smaller and confined to the thyroid (T1). It has not spread to nearby lymph nodes (N0) or to distant sites (M0).
+
+
+II
+T2 N0 M0
+The cancer is larger than 2cm but no more than 4cm across and confined to the thyroid (T2). It has not spread to nearby lymph nodes (N0) or to distant sites (M0).
+
+
+OR
+
+
+T3 N0 M0
+The cancer is larger than 4cm and confined the thyroid or any size and growing outside of the thyroid but not involving nearby structures (T3). It has not spread to nearby lymph nodes (N0) or to distant sites (M0).
+
+
+III
+T1, T2, or T3 N1a M0
+The cancer is any size and might be growing outside of the thyroid but not involving nearby structures (T1, T2, T3). It has spread to lymph nodes in the neck (pretracheal, paratracheal, prelaryngeal, or upper mediastinal) (N1a) but not to other lymph nodes or to distant sites (M0).
+
+
+IVA
+T4a Any N M0
+The cancer is any size and has grown beyond the thyroid gland into nearby tissues of the neck, such as the larynx (voice box), trachea (windpipe), esophagus (tube connecting the throat to the stomach), or the nerve to the larynx (T4a). It might or might not have spread to nearby lymph nodes (Any N). It has not spread to distant sites (M0).
+
+
+OR
+
+
+T1, T2, or T3 N1b M0
+The cancer is any size and might be growing outside of the thyroid but not involving nearby structures (T1, T2, T3). It has spread to certain lymph nodes in the neck such as cervical or jugular nodes (N1b). It has not spread to distant sites (M0).
+
+
+IVB
+T4b Any N M0
+The cancer is any size and has grown either back toward the spine or into nearby large blood vessels (T4b). It might or might not have spread to nearby lymph nodes (Any N). It has not spread to distant sites (M0).
+
+
+IVC
+Any T Any N M1
+The cancer is any size and might have grown into nearby structures (Any T).  It might or might not have spread to nearby lymph nodes (Any N). It has spread to distant sites such as the liver, lung, bone or brain (M1).
+
+
+
+* The following additional categories are not listed on the table above: 
+
+TX: Main tumor cannot be assessed due to lack of information.
+T0: No evidence of a primary tumor. The N categories are described in the table above, except for:
+NX: Regional lymph nodes cannot be assessed due to lack of information.Survival rates can give you an idea of what percentage of people with the same type and stage of cancer are still alive a certain amount of time (usually 5 years) after they were diagnosed. They can't tell you how long you will live, but they may help give you a better understanding of how likely it is that your treatment will be successful.
+Keep in mind that survival rates are estimates and are often based on previous outcomes of large numbers of people who had a specific cancer, but they can’t predict what will happen in any particular person’s case. These statistics can be confusing and may lead you to have more questions. Ask your doctor how these numbers might apply to you.  
+What is a 5-year relative survival rate?
+A relative survival rate compares people with the same type and stage of thyroid cancer to people in the overall population. For example, if the 5-year relative survival rate for a specific stage of thyroid cancer is 90%, it means that people who have that cancer are, on average, about 90% as likely as people who don’t have that cancer to live for at least 5 years after being diagnosed.
+Where do these numbers come from?
+The American Cancer Society relies on information from the Surveillance, Epidemiology, and End Results (SEER) database, maintained by the National Cancer Institute (NCI), to provide survival statistics for different types of cancer.
+The SEER database tracks 5-year relative survival rates for thyroid cancer in the United States, based on how far the cancer has spread. The SEER database, however, does not group cancers by AJCC TNM stages (stage 1, stage 2, stage 3, etc.). Instead, it groups cancers into localized, regional, and distant stages:
+
+Localized: There is no sign the cancer has spread outside of the thyroid.
+Regional: The cancer has spread outside of the thyroid to nearby structures.
+Distant: The cancer has spread to distant parts of the body, such as the bones.
+
+5-year relative survival rates for thyroid cancer
+These numbers are based on people diagnosed with thyroid cancer between 2012 and 2018.
+Papillary thyroid cancer
+
+
+
+SEER* Stage
+5-Year Relative Survival Rate
+
+
+Localized
+>99.5%
+
+
+Regional
+99%
+
+
+Distant
+74%
+
+
+All SEER stages combined
+>99.5%
+
+
+
+Follicular thyroid cancer
+
+
+
+SEER Stage
+5-Year Relative Survival Rate
+
+
+Localized
+>99.5%
+
+
+Regional
+98%
+
+
+Distant
+67%
+
+
+All SEER stages combined
+98%
+
+
+
+Medullary thyroid cancer
+
+
+
+SEER Stage
+5-Year Relative Survival Rate
+
+
+Localized
+>99.5%
+
+
+Regional
+92%
+
+
+Distant
+43%
+
+
+All SEER stages combined
+91%
+
+
+
+Anaplastic thyroid cancer
+
+
+
+SEER Stage
+5-Year Relative Survival Rate
+
+
+Localized
+39%
+
+
+Regional
+11%
+
+
+Distant
+4%
+
+
+All SEER stages combined
+8%
+
+
+
+*SEER= Surveillance, Epidemiology, and End Results
+Understanding the numbers
+
+These numbers apply only to the stage of the cancer when it is first diagnosed. They do not apply later on if the cancer grows, spreads, or comes back after treatment.
+These numbers don’t take everything into account. Survival rates are grouped based on how far the cancer has spread, but your age and overall health, the type of thyroid cancer and how well it responds to treatment, and other factors can also affect your outlook.
+People now being diagnosed with thyroid cancer may have a better outlook than these numbers show. Treatments improve over time, and these numbers are based on people who were diagnosed and treated at least five years earlier.It is important to have honest, open discussions with your cancer care team. They want to answer all of your questions, so that you can make informed treatment and life decisions. For instance, consider these questions:
+When you’re told you have thyroid cancer
+
+What kind of thyroid cancer do I have?
+Has my cancer spread beyond the thyroid gland?
+What is the stage of my thyroid cancerand what does that mean?
+Is my cancer resectable (removable by surgery)?
+Are there other tests that need to be done before we decide on treatment?
+Is this form of thyroid cancer hereditary? Should I be tested? Should my family be tested?
+Will I need to see other doctors?
+If I’m concerned about the costs and insurance coverage for my diagnosis and treatment, who can help me?
+
+When deciding on a treatment plan
+
+How much experience do you have treating this type of cancer?
+How much surgery do I need? Should I get other treatments as well?
+What are my treatment choices?
+What do you recommend and why?
+What is the goal of treatment?
+Should I get a second opinion? How do I do that? Can you recommend a doctor or cancer center?
+Should I think about taking part in a clinical trial?
+What should I do to be ready for treatment?
+What are the risks and possible side effects of treatment?
+How quickly do I need to decide on treatment?
+Will I need to take thyroid hormone for the rest of my life?
+How long will treatment last? What will it be like? Where will it be done?
+Will treatment affect my daily activities? Can I still work fulltime?
+Will this treatment affect my ability to have children? Do I need to avoid pregnancy for a while?
+What are the chances that my cancer will come back after treatment?
+What will we do if the treatment doesn’t work or if the cancer recurs?
+What if I have transportation problems getting to and from treatment?
+
+During treatment
+Once treatment begins, you’ll need to know what to expect and what to look for. Not all of these questions may apply to you, but getting answers to the ones that do may be helpful.
+
+How will we know if the treatment is working?
+Is there anything I can do to help manage side effects?
+What symptoms or side effects should I tell you about right away?
+How can I reach you on nights, holidays, or weekends?
+Do I need to change what I eat during treatment?
+Are there any limits on what I can do?
+Can I exercise during treatment? If so, what kind should I do, and how often?
+Can you suggest a mental health professional I can see if I start to feel overwhelmed, depressed, or distressed?
+
+After treatment
+
+Are there any limits on what I can do?
+What symptoms should I watch for?
+What kind of exercise should I do now?
+How often will I need to have follow-up exams and tests? Will I need any blood tests?
+How will we know if the cancer has come back? What should I watch for?
+What will my options be if the cancer comes back?
+What type of follow-up will I need after treatment?
+
+Along with these sample questions, be sure to write down some of your own. Keep in mind that doctors aren’t the only ones who can give you information. Other health care professionals, such as nurses and social workers, can answer some of your questions. To find out more about speaking with your health care team, see The Doctor-Patient Relationship.Surgery is the main treatment in nearly every case of thyroid cancer, except for some anaplastic thyroid cancers. If thyroid cancer is diagnosed by a fine needle aspiration (FNA) biopsy, surgery to remove the tumor and all or part of the remaining thyroid gland is usually recommended.
+Lobectomy
+A lobectomy is an operation that removes the lobe containing the cancer, usually along with the isthmus (the small piece of the gland that acts as a bridge between the left and right lobes). It is sometimes used to treat differentiated (papillary or follicular) thyroid cancers that are small and show no signs of spread beyond the thyroid gland. It is also sometimes used to diagnose thyroid cancer if an FNA biopsy result doesn’t provide a clear diagnosis (see Tests for Thyroid Cancer).
+An advantage of this surgery is that some patients might not need to take thyroid hormone pills afterward because it leaves part of the gland behind. But having some thyroid left can interfere with some tests that look for cancer recurrence after treatment, such as radioiodine scans and thyroglobulin blood tests.
+Thyroidectomy
+Thyroidectomy is surgery to remove the thyroid gland. It is the most common surgery for thyroid cancer. As with lobectomy, this is typically done through an incision a few inches long across the front of the neck. You will have a small scar across the front of your neck after surgery, but this should become less noticeable over time.
+If the entire thyroid gland is removed, it is called a total thyroidectomy. Sometimes the surgeon may not be able to remove the entire thyroid. If nearly all of the gland is removed, it is called a near-total thyroidectomy.
+After a near-total or total thyroidectomy﻿, you will need to take daily thyroid hormone (levothyroxine) pills. But one advantage of this surgery over lobectomy is that your doctor will be able to check for recurrence (cancer coming back) afterward using radioiodine scans and thyroglobulin blood tests.
+Lymph node removal
+If cancer has spread to nearby lymph nodes in the neck, these will be removed at the same time surgery is done on the thyroid. This is especially important for treatment of medullary thyroid cancer and for anaplastic cancer (when surgery is an option).
+For papillary or follicular cancer where only 1 or 2 enlarged lymph nodes are thought to contain cancer, the enlarged nodes may be removed and any small deposits of cancer cells that may be left are then treated with radioactive iodine. (See Radioactive Iodine [Radioiodine] Therapy.) More often, several lymph nodes near the thyroid are removed in an operation called a central compartment neck dissection. Removal of even more lymph nodes, including those on the side of the neck, is called a modified radical neck dissection.
+Risks and side effects of thyroid surgery
+Complications are less likely to happen when your operation is done by an experienced thyroid surgeon. Patients who have thyroid surgery are often ready to leave the hospital within a day after the operation. Potential complications of thyroid surgery include:
+
+Temporary or permanent hoarseness or loss of voice. This can happen if the larynx (voice box) or windpipe is irritated by the breathing tube that was used during surgery. It may also occur if the nerves to the larynx (or vocal cords) are damaged during surgery. The doctor should examine your vocal cords before surgery to see if they move normally. (See Tests for Thyroid Cancer.)
+Damage to the parathyroid glands (small glands behind the thyroid that help regulate calcium levels). This can lead to low blood calcium levels, causing muscle spasms and feelings of numbness and tingling.
+Excessive bleeding or formation of a major blood clot in the neck (called a hematoma)
+InfectionYour thyroid gland absorbs nearly all of the iodine in your body. Because of this, radioactive iodine (RAI, also called I-131) can be used to treat thyroid cancer. The RAI collects mainly in thyroid cells, where the radiation can destroy the thyroid gland and any other thyroid cells (including cancer cells) that take up iodine, with little effect on the rest of your body. The radiation dose used here is much stronger than the one used in radioiodine scans, which are described in Tests for Thyroid Cancer.
+This treatment can be used to ablate (destroy) any thyroid tissue not removed by surgery or to treat some types of thyroid cancer that have spread to lymph nodes and other parts of the body.
+Radioactive iodine therapy helps people live longer if they have papillary or follicular thyroid cancer (differentiated thyroid cancer) that has spread to the neck or other body parts, and it is now standard practice in such cases. But the benefits of RAI therapy are less clear for people with small cancers of the thyroid gland that do not seem to have spread, which can often be removed completely with surgery. Discuss your risks and benefits of RAI therapy with your doctor. Radioactive iodine therapy cannot be used to treat anaplastic (undifferentiated) and medullary thyroid carcinomas because these types of cancer do not take up iodine.
+Preparing for RAI therapy
+For RAI therapy to be most effective, you must have a high level of thyroid-stimulating hormone (TSH or thyrotropin) in the blood. This hormone is what makes thyroid tissue (and cancer cells) take up radioactive iodine. If your thyroid has been removed, there are a couple of ways to raise TSH levels before being treated with RAI:
+
+One way is to stop taking thyroid hormone pills for several weeks. This causes very low thyroid hormone levels (hypothyroidism), which makes the pituitary gland to release more TSH. This intentional hypothyroidism is temporary, but it often causes symptoms like tiredness, depression, weight gain, constipation, muscle aches, and reduced concentration. 
+Another way is to get an injection (shot) of thyrotropin (Thyrogen), which can make withholding thyroid hormone for a long period of time unnecessary. This drug is given daily for 2 days, followed by RAI on the 3rd day.
+
+Most doctors also recommend that you follow a low iodine diet for 1 or 2 weeks before treatment. This means avoiding foods that contain iodized salt and red dye #3, as well as dairy products, eggs, seafood, and soy.
+RAI procedure﻿
+RAI is usually given in a special radiology department called nuclear medicine, either at an outpatient clinic or in the hospital. It can be taken by mouth as a pill or liquid or injected into a vein. You may also be given medicine to prevent nausea. Usually, only one treatment is needed. A small number of people may need a second treatment.
+Your body will give off radiation for some time after you get RAI therapy. Depending on the dose and where you are being treated, you might need to be in the hospital for a few days after treatment, staying in a special isolation room to prevent others from being exposed to radiation.
+If you are allowed to go home after treatment, you will be told how to protect others from radiation exposure and how long you need to take these precautions. Be sure you understand the instructions before you leave the hospital.
+If you are going home the same day as your treatment, you should not use public transportation (taxis, rideshares, buses, or trains) . If possible, drive yourself. If this is not possible, try to sit as far away from the driver as possible. Do not have anyone who is pregnant or trying to get pregnant drive you home.
+Some questions you may want to ask your care team before going home:
+
+What symptoms should I call about and who should I call?
+Who should I call if I have a medical emergency or have to go to the hospital?
+When is it safe for me to share a bed with someone?
+When is it safe for me to be around pets, children, and people who are pregnant or trying to get pregnant?
+When is it safe for me to prepare food for others?
+When is it safe for me to have sex? How long should I use birth control?
+When is it safe for me to get pregnant?
+When can I return to work?
+When can I go out in public or use public transportation?
+When is my follow-up? How will we know if the treatment is working?
+
+To learn more, see Radiation Therapy Safety.
+Risks and side effects
+Short-term side effects of RAI treatment may include:
+
+Neck tenderness and swelling
+Nausea and vomiting
+Swelling and tenderness of the salivary glands
+Dry mouth
+Taste changes
+
+Chewing gum or sucking on hard candy may help with salivary gland problems.
+Radioiodine treatment also reduces tear formation in some people, leading to dry eyes. If you wear contact lenses, ask your doctor how long you should keep them out.
+Men who receive large total doses of radiation because of many treatments with RAI may have lower sperm counts or, rarely, become infertile. Radioactive iodine may also affect a woman’s ovaries, and some women may have irregular periods for up to a year after treatment. Many doctors recommend that women avoid becoming pregnant for 6 months to a year after treatment. No ill effects have been noted in the children born to parents who received radioactive iodine in the past.
+People who have had RAI therapy may have a slightly increased risk of developing leukemia, stomach cancer, and salivary gland cancer in the future. Doctors disagree on exactly how much this risk is increased, but most of the largest studies have found that this is an extremely rare complication.
+Talk to your health care team if you have any questions about the possible risks and benefits of your treatment.If your thyroid has been removed (thyroidectomy), your body can no longer make the thyroid hormone it needs. You will need to take thyroid hormone (levothyroxine) pills to replace the natural hormone and help maintain normal metabolism and possibly lower your risk of the cancer coming back.
+Normal thyroid function is regulated by the pituitary gland. The pituitary makes a hormone called TSH that causes the thyroid gland to make thyroid hormone for the body. TSH also promotes growth of the thyroid gland and probably of thyroid cancer cells. The level of TSH, in turn, is regulated by how much thyroid hormone is in the blood. If the level of thyroid hormone is low, the pituitary makes more TSH. If the level of thyroid hormone is high, not as much TSH is needed, so the pituitary makes less of it.
+Doctors have learned that by giving higher than normal doses of thyroid hormone, TSH levels can be kept very low. This may slow the growth of any remaining cancer cells and lower the chance of some thyroid cancers (especially high-risk cancers) coming back.
+Possible side effects
+Taking higher than normal levels of thyroid hormone seems to have few short-term side effects, but some doctors have expressed concerns about taking them for long periods of time. High levels of thyroid hormone can lead to problems with a rapid or irregular heartbeat. Over the long run, high doses of thyroid hormone can also lead to weak bones (osteoporosis). Because of this, doctors might avoid giving high doses of thyroid hormone unless you have a differentiated thyroid cancer and are at high risk of recurrence.External beam radiation therapy uses high-energy rays (or particles) to destroy cancer cells or slow their growth. A carefully focused beam of radiation is delivered from a machine outside the body.
+This type of radiation therapy is most often used to treat medullary thyroid cancer and anaplastic thyroid cancer. For cancers that take up iodine (most differentiated thyroid cancers) radioiodine therapy is usually a better treatment.
+External beam radiation therapy is often used for cancers that don't take up iodine and have spread beyond the thyroid. This might be done to help treat the cancer or to lower the chance of cancer coming back in the neck after surgery.
+If a cancer does not respond to radioiodine therapy, external radiation therapy may be used to treat cancer that has come back in the neck or distant metastases that are causing pain or other symptoms.
+External beam radiation therapy is usually given 5 days a week for several weeks. Before your treatments start, the medical team will take careful measurements to find the correct angles for aiming the radiation beams and the proper dose of radiation. The treatment itself is painless and much like getting a regular x-ray. Each treatment lasts only a few minutes, although the setup time — getting you into place for treatment — usually takes longer.
+Possible side effects
+The main drawback of this treatment is that the radiation can destroy nearby healthy tissue along with the cancer cells. Some patients get skin changes similar to a sunburn, but this slowly fades away. Trouble swallowing, dry mouth, hoarseness, and fatigue are also potential side effects of external beam radiation therapy aimed at or near the thyroid.
+To reduce the risk of side effects, doctors carefully figure out the exact dose needed and aim the beam as accurately as they can to hit the target.Chemotherapy (chemo) uses anti-cancer drugs that are injected into a vein or are taken by mouth. Chemotherapy is systemic therapy, which means that the drug enters the bloodstream and travels throughout the body to reach and destroy cancer cells.
+Chemotherapy is seldom helpful for most types of thyroid cancer, but fortunately it is not needed in most cases. It is often combined with external beam radiation therapy for anaplastic thyroid cancer and is sometimes used for other advanced cancers that no longer respond to other treatments.
+The chemotherapy drugs most commonly used to treat mainly medullary thyroid cancer and anaplastic thyroid cancer include:
+
+Dacarbazine
+Vincristine
+Cyclophosphamide
+Doxorubicin
+Streptozocin
+Fluorouracil
+Paclitaxel
+Docetaxel
+Carboplatin
+
+Possible side effects
+Chemo drugs attack cells that are dividing quickly, which is why they work against cancer cells. But other cells in the body, such as those in the bone marrow, the lining of the mouth and intestines, and the hair follicles, also divide quickly. These cells are also likely to be affected by chemotherapy, which can lead to side effects.
+The side effects of chemotherapy depend on the type and dose of drugs given and the length of time they are taken. Common side effects of chemo include:
+
+Hair loss
+Mouth sores
+Loss of appetite
+Nausea and vomiting
+Diarrhea
+Increased chance of infections (from too few white blood cells)
+Easy bruising or bleeding (from too few blood platelets)
+Fatigue (from too few red blood cells)
+
+These side effects are usually short-term and go away after treatment is finished. There are often ways to lessen these side effects. For example, drugs can be given to help prevent or reduce nausea and vomiting.
+Some chemotherapy drugs may have other specific side effects that require monitoring. For example, doxorubicin (one of the most common chemo drugs used in thyroid cancer) can affect heart function. If you are taking doxorubicin, your doctor will check your heart regularly using tests such as echocardiograms.Newer drugs that specifically target the changes inside cells that cause them to become cancer are now being used to treat some thyroid cancers. These drugs are different from standard chemo drugs, and they often have different types of side effects.
+The types of targeted drugs used to treat thyroid cancer are known as kinase inhibitors. Kinases are proteins inside cells that normally relay signals (such as telling the cell to grow). Blocking certain kinases can help treat some cancers.
+Targeted drugs for papillary or follicular thyroid cancer
+Fortunately, most of these cancers can be treated effectively with surgery and radioactive iodine therapy, so there is less need for other drugs to treat them. But when those treatments aren’t effective, targeted drugs can be helpful.
+Multikinase inhibitors
+Lenvatinib (Lenvima), sorafenib (Nexavar), and cabozantinib (Cabometyx) are targeted drugs known as multikinase inhibitors, because they can block several different kinase proteins. These drugs work in 2 main ways:
+
+They help block tumors from forming new blood vessels, which the tumors need to grow.
+They target some of the proteins made by cancer cells that normally help them grow.
+
+Lenvatinib and sorafenib can often﻿ help stop cancer growth for a time in people with differentiated thyroid cancer (papillary or follicular thyroid cancer) whose treatment with radioactive iodine is no longer working. If these drugs are no longer helpful, cabozantinib may be an option.
+All of these drugs are taken by mouth.
+Common side effects can include fatigue, rash, loss of appetite, diarrhea, nausea, high blood pressure, and hand foot syndrome (redness, pain, swelling, or blisters on the palms of the hands or soles of the feet). Other more serious side effects, such as severe bleeding and holes in the intestine, can also occur. Ask your doctor what you can expect.
+RET inhibitors
+In some papillary and follicular thyroid cancers, the cells have certain changes in the RET gene that cause them to make an abnormal from of the RET kinase protein. This abnormal protein helps the cells grow. 
+Selpercatinib (Retevmo) is a type of drug known as a RET inhibitor. It works by attacking the RET protein. This drug can be used to treat advanced papillary or follicular thyroid cancer if the cancer cells have certain types of RET gene changes, and radioactive iodine therapy is not a good option. 
+This drug is taken by mouth as capsules, typically twice a day.
+Common side effects of selpercatinib can include dry mouth, diarrhea, constipation, high blood pressure, feeling tired, swelling in the hands or feet, skin rash, high blood sugar levels, low white blood cell or blood platelet counts, and changes in certain other blood tests.
+Less common but more serious side effects can include liver damage, allergic reactions, changes in heart rhythm, bleeding easily, and problems with wound healing.
+TRK inhibitors
+A small number of thyroid cancers have changes in one of the NTRK genes. These gene changes can help cancer cells grow.
+Larotrectinib (Vitrakvi) and entrectinib (Rozlytrek) target and disable the abnormal TRK proteins made by the NTRK genes. These drugs can each be used in people with advanced thyroid cancer that has an NTRK gene change and is still growing despite other treatments.
+These drugs are taken as pills, once or twice a day.
+Common side effects of these drugs can include dizziness, fatigue, nausea, vomiting, constipation, weight gain, and diarrhea. Less common but more serious side effects can include liver damage, heart problems, and confusion and other nervous system problems.
+Targeted drugs for medullary thyroid cancer
+Doctors have been especially interested in finding targeted drugs to treat medullary thyroid cancer (MTC) because thyroid hormone-based treatments (including radioactive iodine therapy) are not effective against these cancers.
+Multikinase inhibitors
+Vandetanib (Caprelsa) and cabozantinib (Cometriq) are multikinase inhibitors (drugs that target several different kinase proteins). They can affect both cancer cells themselves and the growth of new blood vessels (which tumors need to grow).
+These drugs can be used to treat advanced MTC. They each can stop cancers from growing for a time, although it is not yet clear if they can help people live longer.
+These drugs are taken in pill form once a day.
+Some common side effects of vandetanib include diarrhea, rash, nausea, high blood pressure, headache, fatigue, decreased appetite, and belly (abdominal) pain. Rarely, it can also cause serious or even life-threatening heart rhythm problems or infections. Because of its potential side effects, doctors must get special training before they are allowed to prescribe this drug.
+Common side effects of cabozantinib include diarrhea, constipation, belly pain, mouth sores, decreased appetite, nausea, weight loss, fatigue, high blood pressure, loss of hair color, and hand-foot syndrome (redness, pain, and swelling of the hands and feet). Rarely, this drug can also cause serious side effects, such as severe bleeding and holes in the intestine.
+RET inhibitors
+In some medullary thyroid cancers, the cells have certain changes in the RET gene that cause them to make an abnormal from of the RET kinase protein. This abnormal protein helps the cells grow. 
+Selpercatinib (Retevmo) is a type of drug known as a RET inhibitor. It works by attacking the RET protein. This drug can be used to treat advanced MTC if the cancer cells have certain types of RET gene changes. 
+This drug is taken by mouth as capsules, typically twice a day.
+Common side effects of selpercatinib can include dry mouth, diarrhea, constipation, high blood pressure, feeling tired, swelling in the hands or feet, skin rash, high blood sugar levels, low white blood cell or blood platelet counts, and changes in certain other blood tests.
+Less common but more serious side effects can include liver damage, allergic reactions, changes in heart rhythm, bleeding easily, and problems with wound healing.
+Targeted drugs for anaplastic thyroid cancer
+Doctors have been very interested in finding targeted drugs to treat anaplastic thyroid cancer because most other treatments are not very effective against these cancers.
+BRAF and MEK inhibitors
+Some anaplastic thyroid cancers have changes in the BRAF gene, which causes them to make certain proteins that can help them grow.
+Dabrafenib (Tafinlar) and trametinib (Mekinist) are drugs that target some of these proteins. (Dabrafenib affects the BRAF protein, while trametinib targets the related MEK protein.) These drugs can be used together to treat anaplastic thyroid cancers that have a certain type of BRAF gene change and that can’t be removed completely with surgery. 
+These drugs are taken as pills or capsules each day.
+Common side effects can include skin changes, rash, itching, sensitivity to the sun, headache, fever, chills, joint or muscle pain, fatigue, cough, hair loss, nausea, diarrhea, and high blood pressure.
+Less common but serious side effects can include bleeding, heart rhythm problems, liver or kidney problems, lung problems, severe allergic reactions, severe skin or eye problems, and increased blood sugar levels.
+Some people treated with these drugs develop skin cancers, especially squamous cell skin cancers. Your doctor will want to check your skin often during treatment. You should also let your doctor know right away if you notice any new growths or abnormal areas on your skin.
+RET inhibitors
+In some anaplastic thyroid cancers, the cells have certain changes in the RET gene that cause them to make an abnormal from of the RET kinase protein. This abnormal protein helps the cells grow. 
+Selpercatinib (Retevmo) is a type of drug known as a RET inhibitor. It works by attacking the RET protein. This drug can be used to treat advanced anaplastic thyroid cancer if the cancer cells have certain types of RET gene changes. 
+This drug is taken by mouth as capsules, typically twice a day.
+Common side effects of selpercatinib can include dry mouth, diarrhea, constipation, high blood pressure, feeling tired, swelling in the hands or feet, skin rash, high blood sugar levels, low white blood cell or blood platelet counts, and changes in certain other blood tests.
+Less common but more serious side effects can include liver damage, allergic reactions, changes in heart rhythm, bleeding easily, and problems with wound healing.
+TRK inhibitors
+A small number of anaplastic thyroid cancers have changes in one of the NTRK genes. These gene changes can help cancer cells grow.
+Larotrectinib (Vitrakvi) and entrectinib (Rozlytrek) target and disable the abnormal TRK proteins made by the NTRK genes. These drugs can each be used in people with anaplastic thyroid cancer that has an NTRK gene change and is still growing despite other treatments.
+These drugs are taken as pills, once or twice a day.
+Common side effects of these drugs can include dizziness, fatigue, nausea, vomiting, constipation, weight gain, and diarrhea. Less common but more serious side effects can include liver damage, heart problems, and confusion and other nervous system problems.The type of treatment your doctor will recommend depends on the type and stage of the cancer and on your overall health. Talk to your doctor if you have any questions about the treatment plan they recommend.
+Papillary cancer and its variants
+Most cancers are treated with removal of the thyroid gland (thyroidectomy), although small tumors that have not spread outside the thyroid gland may be treated by just removing the side of the thyroid containing the tumor (lobectomy). If lymph nodes are enlarged or show signs of cancer spread, they will be removed as well.
+In addition, recent studies have suggested that people with micro-papillary cancers (very small thyroid cancers) may safely choose to be watched closely with routine ultrasounds rather than have immediate surgery.
+Even if the lymph nodes aren’t enlarged, some doctors recommend central compartment neck dissection (surgical removal of lymph nodes next to the thyroid) along with removal of the thyroid. Although this operation has not been shown to improve cancer survival, it might lower the risk of cancer coming back in the neck area. Because removing the lymph nodes allows them to be checked for cancer, this surgery also makes it easier to accurately stage the cancer. If cancer has spread to other neck lymph nodes, a modified radical neck dissection (a more extensive removal of lymph nodes from the neck) is often done.
+Treatment after surgery depends on the stage of the cancer:
+
+Radioactive iodine (RAI) treatment is sometimes used after thyroidectomy for early stage cancers (T1 or T2), but the cure rate with surgery alone is excellent. If the cancer does come back, radioiodine treatment can still be given.
+RAI therapy is often given for more advanced cancers such as T3 or T4 tumors, or cancers that have spread to lymph nodes or distant areas. The goal is to destroy any remaining thyroid tissue and to try to treat any cancer remaining in the body. Areas of distant spread that do not respond to RAI might need to be treated with external beam radiation therapy, targeted therapy, or chemotherapy.
+
+People who have had a thyroidectomy will need to take daily thyroid hormone (levothyroxine) pills. If RAI treatment is planned, the start of thyroid hormone therapy may be delayed until the treatment is finished (usually about 6 to 12 weeks after surgery).
+Recurrent cancer: Treatment of cancer that comes back after initial treatment depends mainly on where the cancer is growing, although other factors may be important as well. The recurrence might be found by either blood tests or imaging tests such as ultrasound or radioiodine scans.
+If cancer comes back in the neck, an ultrasound-guided biopsy is done to confirm that it is cancer. If the tumor appears to be resectable (removable), surgery is often used. If the cancer shows up on a radioiodine scan (meaning the cells are taking up iodine), radioactive iodine (RAI) therapy may be used, either alone or with surgery. If the cancer does not show up on the radioiodine scan but is found by other imaging tests (such as an MRI or PET scan), external radiation may be used.
+Targeted therapy drugs such as lenvatinib (Lenvima) or sorafenib (Nexavar) may be tried if the cancer has spread to several places and RAI and other treatments are not helpful. If these drugs are no longer working, cabozantinib (Cabometyx) might be an option. Other targeted drugs might be helpful as well, especially if the cancer cells have changes in certain genes (such as the RET or NTRK genes). Because these cancers can be hard to treat, taking part in a clinical trial of newer treatments is another choice.
+Follicular and Hürthle cell cancers
+Often, it isn’t clear that a tumor is a follicular cancer based on FNA biopsy. If the biopsy results are unclear, they might list “follicular neoplasm” as a diagnosis. Only about 2 of every 10 follicular neoplasms will actually turn out to be cancer, so the next step is usually surgery to remove the half of the thyroid gland that has the tumor (a lobectomy).
+If the tumor turns out to be a follicular cancer, a second operation to remove the rest of the thyroid is usually needed (this is called a completion thyroidectomy). If the patient is only willing to have one operation, the doctor may just remove the whole thyroid gland in the first surgery. Still, for most patients, this isn’t really needed.
+If there are signs the cancer has spread before surgery, the tumor must be a cancer and so a thyroidectomy will be done.
+Hürthle (Hurthle) cell cancer can also be hard to diagnose based on FNA biopsy. Tumors suspected of being Hürthle cell cancer are often treated like follicular neoplasms. A lobectomy is usually done first. If cancer is confirmed, a completion thyroidectomy is done. A thyroidectomy may be done as the first surgery if there are signs the cancer has spread or if the patient wants to avoid having more surgery later.
+As with papillary cancer, some lymph nodes usually are removed and tested for cancer. If cancer has spread to lymph nodes, a central compartment or modified neck dissection (surgical removal of lymph nodes from the neck) may be done. Because the thyroid is removed, patients will need to take thyroid hormone therapy as well, although it is often not started right away.
+Radioiodine scanning is usually done after surgery to look for areas still taking up iodine. Spread to nearby lymph nodes and to distant sites that shows up on the scan can be treated by radioactive iodine (RAI). For cancers that don’t take up iodine, external beam radiation therapy may help treat the tumor or prevent it from growing back in the neck.
+Cancer that has spread to distant areas such as the lungs or liver may need to be treated with external beam radiation therapy, or with targeted therapy drugs such as lenvatinib (Lenvima) or sorafenib (Nexavar) if they do not respond to RAI. Other targeted drugs might be helpful as well, especially if the cancer cells have changes in certain genes (such as the RET or NTRK genes). Another option is taking part in a clinical trial of newer treatments or chemotherapy
+Recurrent cancer: Treatment of cancer that comes back after initial therapy depends mainly on where the cancer is growing, although other factors may be important as well. The recurrence might be found by either blood tests or imaging tests such as ultrasound or radioiodine scans.
+If cancer comes back in the neck, an ultrasound-guided biopsy is first done to confirm that it is cancer. If the tumor appears to be resectable (removable), surgery is often used. If the cancer shows up on a radioiodine scan (meaning the cells are taking up iodine), radioactive iodine (RAI) therapy may be used, either alone or with surgery. If the cancer does not show up on the radioiodine scan but is found by other imaging tests (such as an MRI or PET scan), external radiation may be used.
+Targeted therapy with drugs such as lenvatinib (Lenvima) or sorafenib (Nexavar) is often tried first if the cancer has spread to several places and RAI was not helpful. If these drugs are no longer working, cabozantinib (Cabometyx) might be an option. Other targeted drugs might be helpful as well, especially if the cancer cells have changes in certain genes (such as the RET or NTRK genes). Chemotherapy and taking part in a clinical trial of newer treatments are also options.
+Medullary thyroid cancer
+Most doctors advise that patients diagnosed with medullary thyroid cancer (MTC) be tested for other tumors that are typically seen in patients with the MEN 2 syndromes (see Thyroid Cancer Risk Factors), such as pheochromocytoma and parathyroid tumors. Screening for pheochromocytoma is particularly important, because anesthesia and surgery can be extremely dangerous when these tumors are present. If surgeons and anesthesiologists know about such tumors ahead of time, they can treat the patient with medicines before and during surgery to make surgery safe.
+Stages I and II: Total thyroidectomy is the main treatment for MTC and often cures patients with stage I or stage II MTC. Nearby lymph nodes are usually removed as well. Because the thyroid gland is removed, thyroid hormone therapy is needed after surgery. For MTC, thyroid hormone therapy is meant to provide enough hormone to keep the patient healthy, but it does not reduce the risk that the cancer will come back. Because MTC cells do not take up radioactive iodine, there is no role for radioactive iodine therapy in treating MTC.
+Stages III and IV: Surgery is the same as for stages I and II (usually after screening for MEN 2 syndrome and pheochromocytoma). Thyroid hormone therapy is given afterward. When the tumor is extensive and invades many nearby tissues or cannot be completely removed, external beam radiation therapy may be given after surgery to try to reduce the chance of recurrence in the neck.
+For cancers that have spread to distant parts of the body, surgery, radiation therapy, or similar treatments may be used if possible. If these treatments can’t be used, targeted drugs such as vandetanib (Caprelsa) or cabozantinib (Cometriq) may be tried. Other targeted drugs might be helpful as well, especially if the cancer cells have changes in certain genes (such as the RET gene). Chemotherapy may be another option. Because these cancers can be hard to treat, another option is taking part in a clinical trial of newer treatments.
+Recurrent cancer: If the cancer recurs in the neck or elsewhere, surgery, external radiation therapy, targeted therapy drugs (such as vandetanib or cabozantinib), or chemotherapy may be needed. Clinical trials of new treatments may also be an option.
+Genetic testing in medullary thyroid cancer: If you are told that you have MTC, even if you are the first one in the family to be diagnosed with this disease, ask your doctor about genetic counseling and testing. Genetic testing can check your cells for mutations in the RET gene, which is seen in people with familial MTC and the MEN 2 syndromes.
+If you have one of these mutations, it’s important that close family members (children, brothers, sisters, and parents) be tested as well. Because almost all children and adults with mutations in this gene will develop MTC at some time, most doctors agree that anyone who has a RET gene mutation should have their thyroid removed to prevent MTC soon after getting the test results. This includes children, since some hereditary forms of MTC affect children and pre-teens. Total thyroidectomy can prevent this cancer in people with RET mutations who have not yet developed it. In this case, lifelong thyroid hormone replacement will be needed.
+Anaplastic cancer
+Because this cancer is already widespread when it is diagnosed, surgery is often not helpful as treatment. If the cancer is confined to the area around the thyroid, which is rare, the entire thyroid and nearby lymph nodes may be removed. The goal of surgery is to remove as much cancer in the neck area as possible, ideally leaving no cancer behind. Because of the way anaplastic cancer spreads, this is often difficult or impossible.
+Radioactive iodine treatment is not used because it does not work in this cancer.
+External beam radiation therapy may be used alone or combined with chemotherapy:
+
+To try to shrink the cancer before surgery to increase the chance of removing it completely
+After surgery to try to control any cancer that remains in the neck
+When the tumor is too large or widespread to be treated by surgery
+
+If the cancer is causing (or may eventually cause) trouble breathing, a hole may be placed surgically in the front of the neck and into the windpipe to bypass the tumor and allow the patient to breathe more comfortably. This hole is called a tracheostomy.
+For cancers that have spread, chemotherapy alone can be used. If the cancer cells have changes in certain genes, treatment with targeted drugs might be helpful:
+
+Dabrafenib (Tafinlar) and trametinib (Mekinist) can be used to treat cancers with certain BRAF gene changes.
+Selpercatinib (Retevmo) can be used to treat cancers with certain RET gene changes.
+Larotrectinib (Vitrakvi) or entrectinib (Rozlytrek) can be used to treat cancers with NTRK gene changes.
+
+Because these cancers can be hard to treat, clinical trials of newer treatments are an option as well.For many people with thyroid cancer, treatment may remove or destroy the cancer. Completing treatment can be both stressful and exciting. You may be relieved to finish treatment, but find it hard not to worry about cancer growing or coming back. This is very common concern if you have had cancer.
+For other people, thyroid cancer may never go away completely, or it might come back in another part of the body. These people may get regular treatments with chemotherapy, radiation therapy, or other therapies to help keep the cancer under control for as long as possible. Learning to live with cancer that does not go away can be difficult and very stressful.
+Follow-up care
+If you have completed treatment, your doctors will still want to watch you closely. It is very important to go to all follow-up appointments. During these visits, your doctors will ask about symptoms, examine you, and might order blood tests or imaging tests such as radioiodine scans or ultrasounds. Follow-up is needed to check for cancer recurrence or spread, as well as possible side effects of certain treatments. This is the time for you to ask your health care team any questions and to discuss any concerns you might have.
+Almost any cancer treatment can have side effects. Some may last for a few weeks to months, but others might last a long time. Some side effects might not even show up until years after you have finished treatment. It’s important for all thyroid cancer survivors to let their health care team know about any new symptoms or problems, because they could be caused by the cancer coming back or by a new disease or second cancer.
+Most people do very well after treatment, but follow-up care is very important since most thyroid cancers grow slowly and can recur even 10 to 20 years after initial treatment.
+Doctor visits and follow-up tests
+Your health care team will explain what tests you need and how often they should be done. Your schedule of doctor visits, exams, and tests will depend on the original extent of your cancer, the specific type of thyroid cancer you had, how it was treated, and other factors.
+Papillary or follicular cancer: If you have had papillary or follicular cancer, and your thyroid gland has been completely removed or ablated, your doctors may consider at least one radioactive iodine scan after treatment, especially if you are at higher risk for recurrence. This is usually done about 6 to 12 months later. If the result is negative, you will generally not need further scans unless you have symptoms or other abnormal test results.
+Your blood will also be tested regularly for TSH and thyroglobulin levels. Thyroglobulin is made by thyroid tissue, so after total thyroid removal and ablation it should be at very low levels or not be found in your blood at all. If the thyroglobulin level begins to rise, it might be a sign the cancer is coming back, and further testing will be done. This usually includes a radioactive iodine scan, and may include PET scans and other imaging tests.
+For those with a low-risk, small papillary cancer that was treated by removing only one lobe of the thyroid, routine physical exams by your doctor, thyroid ultrasounds and thyroid blood tests are typical.
+If the cancer does come back, treatment would be as described for recurrent cancer in Treatment of Thyroid Cancer, by Type and Stage.
+Medullary thyroid cancer: If you had medullary thyroid cancer (MTC), your doctors will check the levels of calcitonin and carcinoembryonic antigen (CEA) in your blood. If these begin to rise, imaging tests such as an ultrasound of the neck or a CT or MRI scan will be done to look for any cancer coming back. If the tests show recurrent cancer, treatment is as described in Treatment of Thyroid Cancer, by Type and Stage.
+Each type of treatment for thyroid cancer has side effects that may last for a few months. Some, like the need for thyroid hormone pills, may be lifelong. You may be able to speed your recovery by being aware of the side effects before you start treatment. You might be able to take steps to reduce them and shorten the length of time they last. Don’t hesitate to tell your cancer care team about any symptoms or side effects that bother you so they can help you manage them.
+Ask your doctor for a survivorship care plan
+Talk with your doctor about developing a survivorship care plan for you. This plan might include:
+
+A suggested schedule for follow-up exams and tests
+A list of possible late- or long-term side effects from your treatment, including what to watch for and when you should contact your doctor
+A schedule for other tests you might need, such as early detection (screening) tests for other types of cancer, or test to look for long-term health effects from your cancer or its treatment
+Diet and physical activity suggestions that might improve your health, including possibly lowering your chances of the cancer coming back
+Reminders to keep your appointments with your primary care provider (PCP), who will monitor your general health care
+
+Keeping health insurance and copies of your medical records
+Even after treatment, it’s very important to keep health insurance. Tests and doctor visits cost a lot, and even though no one wants to think of their cancer coming back, this could happen.
+At some point after your cancer treatment, you might find yourself seeing a new doctor who doesn’t know about your medical history. It’s important to keep copies of your medical records to give your new doctor the details of your diagnosis and treatment. Learn more in Keeping Copies of Important Medical Records.
+Can I lower the risk of my cancer progressing or coming back?
+If you have (or have had) thyroid cancer, you probably want to know if there are things you can do that might lower your risk of the cancer growing or coming back, such as exercising, eating a certain type of diet, or taking nutritional supplements. Unfortunately, it’s not yet clear if there are things you can do that will help.
+Adopting healthy behaviors such as not smoking, eating well, getting regular physical activity, and staying at a healthy weight is important. We know that these types of changes can have positive effects on your health that can extend beyond your risk of cancer.
+About dietary supplements
+So far, no dietary supplements (including vitamins, minerals, and herbal products) have been shown to clearly help lower the risk of thyroid cancer progressing or coming back. This doesn’t mean that no supplements will help, but it’s important to know that none have been proven to do so.
+Dietary supplements are not regulated like medicines in the United States – they do not have to be proven effective (or even safe) before being sold, although there are limits on what they’re allowed to claim they can do. If you’re thinking about taking any type of nutritional supplement, talk to your health care team. They can help you decide which ones you can use safely while avoiding those that might be harmful.
+If the cancer comes back
+If your cancer does come back at some point, your treatment options will depend on the where the cancer is, what treatments you’ve had before, and your current health and preferences. Treatment options might include surgery, radiation therapy, chemotherapy, targeted therapy or some combination of these. For more on how recurrent cancer is treated, see Treatment of Thyroid Cancer, by Type and Stage.
+For more general information on recurrence, see Understanding Recurrence.
+Second cancers after treatment
+People who’ve had a thyroid cancer might still be at risk of getting some other types of cancers. Learn more in Second Cancers After Thyroid Cancer.
+Getting emotional support
+Some amount of feeling depressed, anxious, or worried is normal when thyroid cancer is a part of your life. Some people are affected more than others. But everyone can benefit from help and support from other people, whether friends and family, religious groups, support groups, professional counselors, or others. Learn more in Life After Cancer.Survivors of thyroid cancer can be affected by a number of health problems, but often their greatest concern is facing another cancer. Cancer that comes back after treatment it is called a recurrence. But some cancer survivors may develop a new, unrelated cancer later. This is called a second cancer.
+Unfortunately, being treated for cancer doesn’t mean you can’t get another. People who have had thyroid cancer can still get the same types of cancers that other people get. In fact, they might be as risk for certain types of cancer.
+People who have or had thyroid cancer can get any type of second cancer, but they have an increased risk of developing:
+
+Breast cancer (in women)
+Prostate cancer
+Kidney cancer
+Adrenal cancer
+
+Adrenal cancer risk is especially high in people who had the medullary type of thyroid cancer.
+Patients treated with radioactive iodine also have an increased risk of acute lymphocytic leukemia (ALL), stomach cancer, and salivary gland cancer.
+What can you do?
+After completing treatment for thyroid cancer, you should see your doctor regularly. You may also have tests to look for signs that the cancer has come back or spread. Experts do not recommend any additional testing to look for second cancers in patients without symptoms. Let your doctor know about any new symptoms or problems, because they could be caused by the thyroid cancer coming back or by a new disease or second cancer.
+Patients who have completed treatment should keep up with early detection (screening) tests for other types of cancer.
+All patients should be encouraged to avoid tobacco smoke, as smoking increases the risk of many cancers.
+To help maintain good health, survivors should also:
+
+Get to and stay at a healthy weight
+Keep physically active and limit the time you spend sitting or lying down
+Follow a healthy eating pattern that includes plenty of fruits, vegetables, and whole grains, and limits or avoids red and processed meats, sugary drinks, and highly processed foods
+Not drink alcohol. If you do drink, have no more than 1 drink per day for women or 2 per day for men
+
+These steps may also lower the risk of some other health problems.
+See Second Cancers in Adults for more information about causes of second cancers.What is thyroid cancer?
+Thyroid cancer is a type of cancer that starts in the thyroid gland. It happens when cells in the thyroid grow out of control and crowd out normal cells.
+Thyroid cancer cells can spread to other parts of the body such as the lungs and the bone and grow there. When cancer cells do this, it’s called metastasis. But the type of cancer is based on the type of cells it started from.
+So even if thyroid cancer spreads to the lung (or any other place), it’s still called thyroid cancer, not called lung cancer.

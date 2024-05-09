@@ -1,0 +1,522 @@
+Cancer starts when cells in the body start to grow out of control. Cells in nearly any part of the body can become cancer, and can spread to other parts of the body. To learn more about how cancers start and spread, see What Is Cancer?
+Chronic myeloid leukemia (CML) is also known as chronic myelogenous leukemia. It's a type of cancer that starts in certain blood-forming cells of the bone marrow.
+In CML, a genetic change takes place in an early (immature) version of myeloid cells -- the cells that make red blood cells, platelets, and most types of white blood cells (except lymphocytes). This change forms an abnormal gene called BCR-ABL, which turns the cell into a CML cell. The leukemia cells grow and divide, building up in the bone marrow and spilling over into the blood. In time, the cells can also settle in other parts of the body, including the spleen. CML is a fairly slow growing leukemia, but it can change into a fast-growing acute leukemia that's hard to treat.
+CML occurs mostly in adults, but very rarely it occurs in children, too. In general, their treatment is the same as for adults.
+What is leukemia?
+Leukemia is a cancer that starts in the blood-forming cells of the bone marrow. When one of these cells changes and becomes a leukemia cell, it no longer matures the way it should. Often, it divides to make new cells faster than normal. Leukemia cells also don't die when they should. They build up in the bone marrow and crowd out normal cells. At some point, leukemia cells leave the bone marrow and spill into the bloodstream, often causing the number of white blood cells (WBCs) in the blood to increase. Once in the blood, leukemia cells can spread to other organs, where they can keep other cells in the body from working properly.
+Leukemia is different from other types of cancer that start in organs like the lungs, colon, or breast and then spread to the bone marrow. Cancers that start in another part of the body and then spread to the bone marrow are not leukemia.
+Not all leukemias are the same. Knowing the specific type of leukemia helps doctors better predict each patient's prognosis (outlook) and plan the best treatment.
+What is a chronic leukemia?
+A leukemia is acute or chronic depending on whether most of the abnormal cells are immature (and are more like stem cells) or mature (and are more like normal white blood cells).
+In chronic leukemia, the cells mature partly but not completely. These cells may look fairly normal, but they're not. They generally do not fight infection as well as normal white blood cells do. The leukemia cells also live longer than normal cells, build up, and crowd out normal cells in the bone marrow. Chronic leukemias can take a long time before they cause problems, and most people can live for many years. But chronic leukemias are generally harder to cure than acute leukemias.
+What is a myeloid leukemia?
+Whether leukemia is myeloid or lymphocytic depends on which bone marrow cells the cancer starts in.
+
+Myeloid leukemias (also known as myelocytic, myelogenous, or non-lymphocytic leukemias) start in early myeloid cells -- the cells that become white blood cells (other than lymphocytes), red blood cells, or platelet-making cells (megakaryocytes).
+Lymphocytic (also known as lymphoid or lymphoblastic leukemias) start in cells that become lymphocytes.
+
+What are the other types of leukemia?
+There are 4 main types of leukemia, based on whether they are acute or chronic, and myeloid or lymphocytic:
+
+Acute myeloid (or myelogenous) leukemia (AML)
+Chronic myeloid (or myelogenous) leukemia (CML)
+Acute lymphocytic (or lymphoblastic) leukemia (ALL)
+Chronic lymphocytic leukemia (CLL)
+
+In acute leukemias, the bone marrow cells cannot mature the way they should. These immature cells continue to reproduce and build up. Without treatment, most people with acute leukemia would only live a few months. Some types of acute leukemia respond well to treatment, and many patients can be cured. Other types of acute leukemia have a less favorable outlook.
+Lymphocytic leukemias start in the cells that become lymphocytes. Lymphomas are also cancers that start in those cells. The main difference between lymphocytic leukemias and lymphomas is that in leukemia, the cancer cell is mainly in the bone marrow and blood, while in lymphoma it tends to be in lymph nodes and other tissues.
+Chronic myelomonocytic leukemia (CMML) is another chronic leukemia that starts in myeloid cells. For more information, see Chronic Myelomonocytic Leukemia.The American Cancer Society's estimates for chronic myeloid leukemia (CML) in the United States for 2024 are:
+
+About 9,280 new cases will be diagnosed with CML (5,330 in men and 3,950 in women).
+About 1,280 people will die of CML (750 men and 530 women).
+
+About 15% of all new cases of leukemia are chronic myeloid leukemia. About 1 person in 526 will get CML in their lifetime in the United States.
+The average age at diagnosis of CML is around 64 years. Almost half of cases are diagnosed in people 65 and older. This type of leukemia mainly affects adults, and is rarely seen in children.
+Visit the American Cancer Society’s Cancer Statistics Center for more key statistics.Chronic myeloid leukemia (CML) is being studied in labs and in clinical trials around the world.
+Genetics of chronic myeloid leukemia
+Scientists are making great progress in understanding how changes in a person's DNA can cause normal bone marrow cells to develop into CML cells. Learning about changes in the genes (regions of the DNA) involved in CML is providing insight into why these cells grow too quickly, live too long, and fail to develop into normal blood cells. The explosion of knowledge in recent years is being used to develop many new drugs.
+Researchers are looking closely at how specific gene changes could be used to determine treatment, predict disease progression, and develop other drugs to treat CML.
+Treatment
+Choosing the best targeted drug
+Imatinib, dasatinib, nilotinib, and other tyrosine kinase inhibitor (TKI) drugs that target the BCR-ABL protein have proven to work very well, but by themselves these drugs don't help everyone. Studies are now looking at the effects of using higher doses of TKIs, and to see if combining these drugs with other treatments, such as chemotherapy or interferon might be better than either one alone.
+Because TKIs have drastically changed the treatment and outcomes of CML, an exciting area of research is looking at whether TKI treatment can be stopped. Clinical trials are being done to see if this is possible and what should be done if the CML comes back. This has also led scientists to look for better ways to define molecular remission in an effort to help make decisions about stopping treatment.
+New drugs for CML
+Because researchers know a main cause of CML is the BCR-ABL gene and its protein, they've been able to develop many new drugs that might work against it. Still, these drugs don't always work, and CML can become resistant to TKIs over time. Scientists continue to look for new drugs to treat CML, especially CML that no longer responds to TKIs.
+In some people, CML cells develop a change in the BCR-ABL oncogene known as a T315I mutation, which makes them resistant to many of the TKI drugs used today. Ponatinib is the only TKI that can work against T315I mutant cells. More drugs aimed at this mutation are now being tested.
+Many other kinds of drugs are also being tested in clinical trials, such as immunotherapy drugs. These are given along with TKIs in hopes of getting a better response than is seen with TKIs alone.
+Cancer vaccines
+Cancer cells are different from normal cells, so it's sometimes possible to get the body's immune system to react against them. One way to do this is to use a cancer vaccine -- a substance injected into the body that boosts the immune system and causes it to attack certain cells. Several vaccines are now being studied for use against CML, but more research is needed.A risk factor is something that affects a person's chance of getting a disease such as cancer. For example, exposing skin to strong sunlight is a risk factor for skin cancer. Smoking is a risk factor for a number of cancers. But having a risk factor, or even many risk factors, does not mean that you will get the disease. And many people who get the disease may not have had any known risk factors.
+The only risk factors for chronic myeloid leukemia (CML) are:
+
+Radiation exposure: Being exposed to high-dose radiation (such as being a survivor of an atomic bomb blast or nuclear reactor accident) increases the risk of getting CML
+Age: The risk of getting CML goes up with age
+Sex: In general, l﻿eukemia is more common in men than women. This includes CML that is slightly more common in males than in females. The reason for this is not clear.
+
+There are no other proven risk factors for CML. The risk of getting CML does not seem to be affected by smoking, diet, exposure to chemicals, or infections. And CML does not run in families.Normal human cells grow and function based mainly on the information contained in each cell's chromosomes. Chromosomes are long molecules of DNA in each cell. DNA is the chemical that carries our genes, the instructions for how our cells function. We look like our parents because they are the source of our DNA. But our genes affect more than the way we look.
+Each time a cell prepares to divide into 2 new cells, it must make a new copy of the DNA in its chromosomes. This process is not perfect, and errors can occur that may affect genes within the DNA.
+Some genes control when our cells grow and divide.
+
+Certain genes that promote cell growth and division are called oncogenes.
+Others that slow down cell division or cause cells to die at the right time are called tumor suppressor genes.
+
+Cancers can be caused by changes in DNA (mutations) that turn on oncogenes or turn off tumor suppressor genes.
+Over the past few years, scientists have made great progress in understanding how certain changes in DNA can cause normal bone marrow cells to become leukemia cells. In no cancer is this better understood than in chronic myeloid leukemia (CML).
+Each human cell contains 23 pairs of chromosomes. Most cases of CML start during cell division, when DNA is "swapped" between chromosomes 9 and 22. Part of chromosome 9 goes to 22 and part of 22 goes to 9.
+This is known as a translocation and it makes a chromosome 22 that's shorter than normal. This new abnormal chromosome is called the Philadelphia chromosome. The Philadelphia chromosome is found in the leukemia cells of almost all patients with CML
+The swapping of DNA between the chromosomes leads to the formation of a new gene (an oncogene) called BCR-ABL. This gene then produces the BCR-ABL protein, which is the type of protein called a tyrosine kinase. This protein causes CML cells to grow and divide out of control.
+In a very small number of CML patients, the leukemia cells have the BCR-ABL oncogene but not the Philadelphia chromosome. It's thought that the BCR-ABL gene must form in a different way in these people. In an even smaller number of people who seem to have CML, neither the Philadelphia chromosome nor the BCR-ABL oncogene can be found. They might have other, unknown oncogenes causing their disease and are not considered to truly have CML.
+Sometimes people inherit DNA mutations from a parent that greatly increase their risk of getting certain types of cancer. But mutations passed on by parents do not cause CML. DNA changes related to CML occur during the person's lifetime, rather than having been inherited before birth.The American Cancer Society recommends screening tests for certain cancers in people who have no symptoms because these cancers are easier to treat if found early. But at this time, no screening tests are routinely recommended to find chronic myeloid leukemia (CML) early.
+CML can sometimes be found when routine blood tests are done for other reasons, like a routine physical. Test results might show that a person's white blood cell count is very high, even though they don't have any symptoms.
+It's important to report any symptoms that could be caused by CML to a doctor right away.The symptoms of chronic myeloid leukemia (CML) are often vague and are more often caused by other things. Overall, the signs and symptoms of leukemia can affect men or women and do not differ by sex or gender. They include:
+
+Weakness
+Fatigue
+Night sweats
+Weight loss
+Fever
+Bone pain (caused by leukemia cells spreading from the marrow cavity to the surface of the bone or into the joint)
+An enlarged spleen (felt as a mass under the left side of the ribcage)
+Pain or a sense of "fullness" in the belly
+Feeling full after eating even a small amount of food
+
+But these aren't just symptoms of CML. They can happen with other cancers, as well as with many conditions that aren't cancer.
+Problems caused by a shortage of blood cells
+Many of the signs and symptoms of CML occur because the leukemia cells replace the bone marrow's normal blood-making cells. As a result, people with CML don't make enough red blood cells, properly functioning white blood cells, and platelets.
+
+Anemia is a shortage of red blood cells. It can cause weakness, tiredness, and shortness of breath.
+Leukopenia is a shortage of normal white blood cells. This shortage increases the risk of infections. Although patients with leukemia may have very high white blood cell counts, the leukemia cells don't protect against infection the way normal white blood cells do.
+Neutropenia means that the level of normal neutrophils is low. Neutrophils, a type of white blood cell, are very important in fighting infection from bacteria. People who are neutropenic have a high risk of getting very serious bacterial infections.
+Thrombocytopenia is a shortage of blood platelets. It can lead to easy bruising or bleeding, with frequent or severe nosebleeds and bleeding gums. Some patients with CML actually have too many platelets (thrombocytosis). But those platelets often don't work the way they should, so these people often have problems with bleeding and bruising as well.
+
+The most common sign of CML is an abnormal white blood cell count. (Blood counts are discussed further in Tests for Chronic Myeloid Leukemia. )Many people with chronic myeloid leukemia (CML) don't have symptoms when it's diagnosed. The leukemia is often found when their doctor orders blood tests for an unrelated health problem or during a routine check-up. Even when symptoms are present, they're often vague and non-specific.
+Lab tests
+If signs and symptoms suggest you may have leukemia, the doctor will need to check your blood and bone marrow to be certain of this diagnosis. Blood is usually taken from a vein in your arm. A small amount of bone marrow is removed with a bone marrow aspiration and biopsy. These samples are sent to a lab, where they're checked under a microscope for leukemia cells.
+Blood cell counts
+The complete blood count (CBC) is a test that measures the levels of different cells, like red blood cells, white blood cells, and platelets, in your blood. The CBC often includes a differential (diff), which is a count of the different types of white blood cells in your blood sample. In a blood smear, some of your blood is put on a slide to see how the cells look under the microscope.
+Most people with CML have too many white blood cells with a lot of early (immature) cells called myeloblasts or blasts. Doctors will look at the size and shape of the cells and whether they contain granules (small spots seen in some types of white blood cells). An important factor is whether the cells look mature (like normal circulating blood cells) or immature (lacking features of normal circulating blood cells). Sometimes CML patients have low numbers of red blood cells or blood platelets. Even though these findings may suggest leukemia, this diagnosis usually needs to be confirmed by another blood test or a test of the bone marrow.
+Bone marrow samples
+Leukemia starts in the bone marrow, so checking the bone marrow for leukemia cells is a key part of testing for it. Bone marrow samples are obtained from 2 tests that are usually done at the same time:
+
+Bone marrow aspiration
+Bone marrow biopsy
+
+The samples are usually taken from the back of the pelvic (hip) bone, but sometimes other bones are used instead. If only an aspiration is to be done, it may be taken from the sternum (breast bone).
+For a bone marrow aspiration, you lie on a table (either on your side or on your belly). The doctor will clean the skin over the hip and then numb the area and the surface of the bone by injecting a local anesthetic. This may cause a brief stinging or burning sensation. A thin, hollow needle is then inserted into the bone, and a syringe is used to suck out a small amount of liquid bone marrow. Even with the anesthetic, most patients still have some brief pain when the marrow is removed.
+A bone marrow biopsy is usually done just after the aspiration. A small piece of bone and marrow is removed with a slightly larger needle that is pushed down into the bone. This may also cause some brief pain. Once the biopsy is done, pressure will be applied to the site to help prevent bleeding.
+These bone marrow tests are used to help diagnose leukemia, but they might also be repeated later to tell if the leukemia is responding to treatment.
+An important feature of a bone marrow sample is how much of it is blood-forming cells. This is known as cellularity. Normal bone marrow contains both blood-forming cells and fat cells.
+If your bone marrow has more blood-forming cells than expected, it's said to be hypercellular. If too few of these cells are found, the marrow is called hypocellular.
+In people with CML, the bone marrow is often hypercellular because it's full of leukemia cells. These tests may also be done after treatment to see if the leukemia is responding to treatment.
+Blood chemistry tests
+These tests measure the amount of certain chemicals in your blood, but they're not used to diagnose leukemia. They can help find liver or kidney problems caused by the spread of leukemia cells or by the side effects of certain drugs. These tests also help determine if you need to be treated to correct low or high blood levels of certain minerals.
+Genetic tests
+Some sort of gene testing will be done to look for the Philadelphia chromosome and/or the BCR-ABL gene. This type of test is used to confirm a CML diagnosis and learn more about your CML cells.
+Conventional cytogenetics
+This test looks at chromosomes (pieces of DNA) under a microscope to find any changes. It's also called a karyotype. Because chromosomes can best be seen when the cell is dividing, a sample of your blood or bone marrow has to be grown (in the lab) so that the cells start to divide. This takes time, and doesn't always work.
+Normal human cells have 23 pairs of chromosomes, each of which is a certain size. The leukemia cells in many CML patients contain an abnormal chromosome called the Philadelphia (Ph) chromosome, which looks like a shortened version of chromosome 22. It's caused by swapping pieces (translocation) between chromosomes 9 and 22. (See  What Causes Chronic Myeloid Leukemia? for more on this.) Finding a Ph chromosome is helpful in diagnosing CML. But even when the Ph chromosome can't be seen, other tests can often find the BCR-ABL gene. Other chromosome changes can be found with cytogenetic testing, too.
+Fluorescent in situ hybridization (FISH)
+FISH is another way to look at chromosomes. This test uses special fluorescent dyes that only attach to specific genes or parts of chromosomes. In CML, FISH can be used to look for specific pieces of the BCR-ABL gene on chromosomes. It can be used on regular blood or bone marrow samples without growing the cells first, so you get the results more quickly than with conventional cytogenetics.
+Polymerase chain reaction (PCR)
+This is a super-sensitive test that can be used to look for the BCR-ABL gene in leukemia cells and measure how much is there. It can be done on blood or bone marrow samples and can detect very small amounts of BCR-ABL, even when doctors can't find the Philadelphia chromosome in bone marrow cells with cytogenetic testing.
+PCR can be used to help diagnose CML. It's also useful after treatment to see if copies of the BCR-ABL gene are still there. If copies of this gene are found it means that the leukemia is still present, even when the cells can't be seen with a microscope.
+Imaging tests
+Imaging tests are used to get pictures of the inside of your body. They aren't needed to diagnose CML, but are sometimes used to look for the cause of symptoms or to see if the spleen or liver are enlarged.
+Computed tomography (CT) scan
+A CT scan can show if any lymph nodes or organs in your body are enlarged. It isn’t needed to diagnose CML, but it may be done if your doctor suspects the leukemia is growing in an organ, like your spleen.
+In some cases, a CT can be used to guide a biopsy needle precisely into a suspected abnormality, such as an abscess. For this procedure, called a CT-guided needle biopsy, you remain on the CT scanning table while a radiologist moves a biopsy needle through your skin and toward the mass. CT scans are repeated until the needle is in the mass. A sample is then removed and looked at with a microscope. This is rarely needed in CML.
+Magnetic resonance imaging (MRI)
+MRIs are very helpful in looking at the brain and spinal cord. 
+Ultrasound
+Ultrasound can be used to look at lymph nodes near the surface of your body or to look for enlarged organs inside your abdomen (belly) such as the kidneys, liver, and spleen.Most types of cancer are assigned a stage based on the size of the tumor and the extent of cancer spread. Stages can be helpful in making treatment decisions and predicting prognosis (outlook).
+But because chronic myeloid leukemia (CML) is a disease of the bone marrow, it isn't staged like most cancers. The outlook for someone with CML depends on the phase of the disease and the amount of blasts in the bone marrow, as well as other factors like the age of the patient, blood counts, and if the spleen is enlarged.
+Phases of chronic myeloid leukemia
+CML is classified into 3 groups that help predict outlook. Doctors call these groups phases instead of stages. The phases are based mainly on the number of immature white blood cells (blasts) in the blood or bone marrow. Different groups of experts have suggested slightly different cutoffs to define the phases, but a common system (proposed by the World Health Organization) is described below. Not all doctors may agree with or follow these cutoff points for the different phases. If you have questions about what phase your CML is in, be sure to have your doctor explain it to you in a way that you understand.
+Chronic phase
+Patients in the chronic phase typically have less than 10% blasts in their blood or bone marrow samples. These patients usually have fairly mild symptoms (if any) and usually respond to standard treatments. Most patients are diagnosed in the chronic phase.
+Accelerated phase
+Patients are considered to be in accelerated phase if any of the following are true:
+
+The blood samples have 15% or more, but fewer than 30% blasts
+Basophils make up 20% or more of the blood
+Blasts and promyelocytes combined make up 30% or more of the blood
+Very low platelet counts (100 x 1,000/mm3 or less) that are not caused by treatment
+New chromosome changes in the leukemia cells with the Philadelphia chromosome
+
+Patients whose CML is in an accelerated phase may have symptoms such as fever, poor appetite, and weight loss. CML in the accelerated phase doesn't respond as well to treatment as CML in the chronic phase.
+Blast phase (also called acute phase or blast crisis)
+Bone marrow and/or blood samples from a patient in this phase have 20% or more blasts. Large clusters of blasts are seen in the bone marrow. The blast cells have spread to tissues and organs beyond the bone marrow. These patients often have fever, poor appetite, and weight loss. In this phase, the CML acts a lot like an  acute leukemia.
+Prognostic factors for chronic myeloid leukemia
+Along with the phase of CML, there are other factors that may help predict the outlook for survival. These factors are sometimes helpful when choosing treatment. Factors that tend to be linked with shorter survival time are called adverse prognostic factors.
+Adverse prognostic factors:
+
+Accelerated phase or blast phase
+Enlarged spleen
+Areas of bone damage from growth of leukemia
+Increased number of basophils and eosinophils (certain types of granulocytes) in blood samples
+Very high or very low platelet counts
+Age 60 years or older
+Multiple chromosome changes in the CML cells
+
+Many of these factors are taken into account in the Sokal system, which develops a score used to help predict prognosis. This system considers the person's age, the percentage of blasts in the blood, the size of the spleen, and the number of platelets. These factors are used to divide patients into low-, intermediate-, or high-risk groups. Another system, called the Euro score, includes the above factors, as well as the percentage of blood basophils and eosinophils. Having more of these cells indicates a poorer outlook.
+The Sokal and Euro models were helpful in the past, before the newer, more effective drugs for CML were developed. It's not clear how helpful they are at this time in predicting a person's outlook. Targeted therapy drugs like imatinib (Gleevec®) have changed the treatment of CML dramatically. These models haven't been tested in people who are being treated with these drugs.As you cope with cancer and cancer treatment, you need to have honest, open talks with your cancer care team. You should be able to ask any question, no matter how small it might seem. Here are some you might want to ask. Nurses, social workers, and other members of the treatment team may also be able to answer many of your questions.
+
+What phase is my chronic myeloid leukemia (CML) in?
+What are my treatment choices?
+Which treatment do you recommend, and why?
+How long will treatment last and what will it be like?
+Will my insurance cover treatment? How much will I have to pay?
+How often will you test my blood or bone marrow to see how treatment is working?
+What side effects are there to the treatments that you recommend?
+What can I do to be ready for treatment?
+Should I consider a stem cell transplant at this time?
+What are the chances that my leukemia will come back once I am in remission?
+What type of follow-up will I need after treatment?
+
+Be sure to write down any questions that occur to you that are not on this list. For instance, you might want information about how you'll feel during treatment so you can plan your work schedule. Or you may want to ask about second opinions or taking part in a clinical trial.
+Taking another person with you and/or recording your talks with the doctor can be helpful. Getting copies of your medical records, including pathology and radiology reports, may be useful in case you decide to seek a second opinion later.Chronic myeloid leukemia (CML) cells contain an abnormal gene, BCR-ABL, that isn't found in normal cells. This gene makes a protein, BCR-ABL, which causes CML cells to grow and reproduce out of control. BCR-ABL is a type of protein known as a tyrosine kinase. Drugs known as tyrosine kinase inhibitors (TKIs) that target BCR-ABL are the standard treatment for CML. These include:
+
+Imatinib (Gleevec)
+Dasatinib (Sprycel)
+Nilotinib (Tasigna)
+Bosutinib (Bosulif)
+Ponatinib (Iclusig)
+Asciminib (Scemblix)
+
+These drugs seem to work best when CML is in the chronic phase, but some can also help patients with more advanced disease (accelerated or blast phases). In most people, the TKIs don't seem to make the leukemia go away forever, so these drugs need to be taken indefinitely. But for some people who have very good, long-lasting responses to treatment, it might be possible to stop taking these drugs, or at least lower the dose. (See Treating Chronic Myeloid Leukemia by Phase to learn more.)
+These drugs are pills you take at home. To get the best outcomes, it's important to take them exactly the way your doctor tells you to take them. Skipping pills or adjusting doses can effect the way TKI treatment works. See Oral Chemotherapy: What You Need to Know for more on how to best manage cancer treatments you take at home.
+All of these drugs can have serious interactions with some other drugs, over-the-counter supplements, and even certain foods (such as grapefruit and pomegranates). Be sure that your doctor always has an up-to-date list of everything you're taking, including over-the-counter drugs, vitamins, and herbal supplements. You also need to check with your doctor before starting any new medicine, to be sure it's safe.
+It's also important to understand that all of the TKIs can harm a fetus if taken during pregnancy.
+TKIs often used first to treat chronic phase CML
+Any of these TKIs might be used as the first (or frontline) treatment of chronic phase CML.
+Imatinib
+Imatinib (Gleevec) was the first drug to specifically target the BCR-ABL tyrosine kinase protein.
+Almost all CML patients respond to treatment with imatinib, and most of these responses seem to last for many years.
+Imatinib is taken by mouth as a pill with food, usually once a day.
+Generic imatinib is also available. Studies have shown that it works as well as and causes the same kinds of side effects as the brand name, Gleevec.
+Side effects of imatinib
+Common side effects can include diarrhea, nausea, muscle pain, and fatigue. These are generally mild. Some people have itchy skin rashes. Most of these symptoms can be treated, if needed.
+Another common side effect is fluid build-up around the eyes, feet, or abdomen (belly). In rare cases the fluid may collect in the lungs or around the heart, which can cause trouble breathing. Some studies have suggested that some of this fluid build-up may be caused by effects of the drug on the heart, though this is rare. It's not yet clear how serious this is or if it might go away if treatment is stopped. If you are taking this drug, tell your doctor right away if you notice sudden weight gain or fluid build-up anywhere in the body or have trouble breathing.
+A person's white blood cell and platelet counts could possibly drop. When this happens at the beginning of treatment, it might be because the blood-forming cells that are making these are part of the leukemia process. If this is the case, normal blood-forming cells take over and the blood counts will begin to rise over time.
+Your doctor might tell you to stop taking the drug for a short period if your blood counts get too low. This can also happen later on in treatment. Your doctor may lower the dose of imatinib to see if your blood counts improve.
+In some patients, imatinib seems to stop working over time. This is known as imatinib resistance. Resistance to imatinib seems to be caused by changes in the genes of the CML cells. Sometimes this resistance can be overcome by increasing the dose of imatinib, but some patients need to change to a different drug, such as one of the other TKIs.
+Dasatinib
+Dasatinib (Sprycel) is another TKI that targets the BCR-ABL protein.
+This drug is a pill taken once a day with or without food.
+Dasatinib can be used as the first treatment for CML, but it can also be helpful for patients who can’t take imatinib because of side effects or because imatinib isn’t working.
+Side effects of dasatinib
+The possible side effects of dasatinib seem to be similar to those of imatinib, including fluid build-up, lowered blood cell counts, nausea, diarrhea, and skin rashes.
+A serious side effect that can occur with this drug is fluid build-up around the lung (called a pleural effusion). This side effect is more common in patients taking dasatinib twice a day. The fluid can be drained off with a needle, but it can build up again, and the dose of dasatinib may need to be decreased.
+Nilotinib
+Nilotinib (Tasigna) is another TKI that targets the BCR-ABL protein. This drug can be used as a first treatment for CML, and is also used for people who can’t take imatinib or whose CML no longer responds to it.
+It's taken as a pill. The patient cannot eat 2 hours before taking nilotinib and for 1 hour after taking it.
+Side effects of nilotinib
+Side effects of nilotinib seem to be mild, but can include fluid build-up, lowered blood cell counts, nausea, diarrhea, rash, and some blood chemical changes that may need to be treated (for instance, low potassium and magnesium levels). It can cause high blood sugar and pancreatitis, but this is rare.
+This drug can also affect the rhythm of the heart, causing a condition called prolonged QT syndrome. This usually doesn't cause any symptoms, but can be serious or even fatal. Because of this, patients should have an electrocardiogram (EKG) before starting nilotinib and then again while being treated. This heart rhythm problem can sometimes be caused by nilotinib interacting with other drugs or supplements, so it's especially important to be sure that your cancer doctor knows about any medicines you take, including over-the-counter medicines, vitamins, herbs, and supplements. You also need to check with your doctor before starting any new medicine, to be sure it's safe.
+TKIs used when other TKIs stop working
+Bosutinib
+Bosutinib (Bosulif) is another TKI that targets the BCR-ABL protein. It can be used as the first treatment for CML, but most often it’s used if another TKI is no longer working.
+This drug is taken as a pill with food once a day.
+Side effects of bosutinib
+Common side effects are usually mild and include diarrhea, nausea, vomiting, abdominal (belly) pain, rash, fever, fatigue, and low blood cell counts (including low platelet counts, low red blood cell counts, and low white blood cell counts). Less often, this drug can also cause problems with fluid retention, liver damage, and severe allergic reaction. Your doctor will check your blood test results regularly to watch for problems with your liver and low blood counts.
+Ponatinib
+Ponatinib (Iclusig) is a TKI targeting the BCR-ABL protein. Because this drug can cause some serious side effects, it's only used to treat patients with CML if all of the other TKIs don’t work or if their leukemia cells have a gene change called the T315I mutation. Ponatinib is one TKI to work against CML cells that have this mutation.
+This drug is a pill taken once a day with or without food.
+Side effects of ponatinib
+Most side effects are mild and can include abdominal (belly) pain, headache, rash or other skin problems, and fatigue. High blood pressure is also fairly common, and it may need to be treated with a blood pressure drug.
+There's also a risk of serious blood clots that can lead to heart attacks and strokes, or block arteries and veins in the arms and legs. Rarely, blood clots in patients taking this drug have cut off circulation, and lead to an arm or leg needing to amputated (cut off). Surgery or another procedure may be needed to treat these blood clots. The risk of serious blood clots is higher in older patients; those with certain risk factors, such as high blood pressure, high cholesterol, or diabetes; and those who have already had a heart attack, stroke, or poor circulation.
+Less often, this drug can also weaken the heart muscle, leading to a condition known as congestive heart failure (CHF). It can also cause liver problems, including liver failure, as well as pancreatitis (inflammation of the pancreas, which can lead to severe belly pain, nausea, and vomiting).
+Asciminib
+Asciminib (Scemblix) is a TKI targeting a very specific area of the BCR-ABL protein. This drug is used to treat patients with chronic phase CML if two or more other TKIs have already been tried or if their leukemia cells have a gene change called the T315I mutation. Asciminib is another TKI to work against CML cells that have the T315I mutation.
+This drug is a pill taken once a day or twice a day depending on the dose.
+Side effects of asciminib
+The most common side effects of asciminib include feeling tired, nausea, diarrhea, joint and muscle pain, skin rash, and infection of the upper airways. It might also cause some changes to your bloodwork such as a low platelet count, increased triglycerides, low white and red blood cell counts, and abnormal kidney function.Interferons are a family of substances naturally made by our immune system (CML).Interferon-alpha is a man-made drug that acts like the substance our immune system naturally produces. It reduces the growth and division of leukemia cells. Interferon-alpha is the type most often used in treating chronic myeloid leukemia (CML).
+Interferon was once the best treatment for CML, but now, the tyrosine kinase inhibitors are the mainstay of treatment and interferon is rarely used.
+To treat CML, this drug is most often given as a daily injection (shot) under the skin. It may also be injected into a muscle or vein. It's given for many years.
+Side effects of interferon
+Interferon can cause significant side effects. These include "flu-like" symptoms like muscle aches, bone pain, fever, headaches, fatigue, nausea, and vomiting. Patients taking this drug may have problems thinking and concentrating. Interferon can also lower blood cell counts.
+Side effects continue as long as the drug is used, but can become easier to tolerate over time. They get better after the drug is stopped. Still, some patients find it hard to deal with these side effects every day and may need to stop treatment because of them.Chemotherapy (chemo) is the use of anti-cancer drugs that are injected into a vein or taken by mouth. These drugs enter the bloodstream and reach all areas of the body, making this type of treatment useful for cancers that spread throughout the body, like chronic myeloid leukemia (CML). Any drug used to treat cancer (including tyrosine kinase inhibitors or TKIs) can be considered chemo, but here chemo is used to mean treatment with conventional cytotoxic (cell-killing) drugs that mainly kill cells that are growing and dividing rapidly.
+Chemo was once one of the main treatments for CML. It's seldom used now because TKIs like imatinib (Gleevec®) work much better. Today, chemo may be used to treat CML when the TKIs have stopped working. It's also used as part of a stem cell transplant.
+Chemo drugs used to treat CML
+The chemo drug hydroxyurea (Hydrea®) is taken as a pill, and can help quickly lower very high white blood cell counts and shrink an enlarged spleen. Other drugs sometimes used include cytarabine (Ara-C), busulfan, cyclophosphamide (Cytoxan®), and vincristine (Oncovin®).
+Omacetaxine (Synribo®) is a chemo drug that was approved to treat CML that's resistant to TKIs and progresses to the accelerated phase. It can also help some patients whose CML has developed the T315I mutation that keeps most TKIs from working (discussed in the section about targeted therapy).
+Side effects of chemotherapy
+Chemo drugs work by attacking cells that divide quickly, which is why they work against cancer cells. But other cells in the body, such as those in the bone marrow, the lining of the mouth and intestines, and the hair follicles, also divide quickly. These cells are also likely to be affected by chemo, which can lead to side effects.
+Possible side effects depend on the type and dose of drugs given and how long they are taken. Some common side effects of chemo include:
+
+Hair loss
+Mouth sores
+Loss of appetite
+Nausea and vomiting
+Low white blood cell counts (leukopenia), which increases the risk of serious infection
+Low blood platelet counts (thrombocytopenia), which can lead to easy bruising or bleeding
+Low red blood cell counts (anemia), which can lead to feeling tired and weak
+
+Still, different drugs can have different side effects. For example, vincristine can cause nerve damage (neuropathy) leading to numbness, tingling, or even pain or weakness in the hands or feet. Lung damage from busulfan is rare, but can be severe. Before starting treatment, speak with your health care team about the drugs you'll get and their possible side effects. Most side effects last a short time and go away once treatment is over, but some can be permanent.
+While getting treatment, be sure to tell your cancer care team about any side effects you have. There may be ways to treat them or keep them from getting worse. For instance, there are drugs that work well to prevent or reduce nausea and vomiting.
+For information on infections and how to avoid them, see Infections in People With Cancer.
+If your platelet counts are very low, you may be given platelet transfusions to help protect against bleeding. Likewise, if low red blood cell counts are causing problems (like shortness of breath and/or weakness), you may be treated with red blood cell transfusions.Radiation therapy is treatment with high-energy rays or particles to destroy cancer cells.
+Radiation is seldom part of the treatment for patients with chronic myeloid leukemia (CML), but it might be used in certain situations.
+Some people have symptoms if swollen internal organs (such as an enlarged spleen) press on other organs. For instance, pressure against the stomach may affect appetite. If these symptoms are not helped by other treatments, radiation to shrink the spleen may be an option.
+Radiation can also be useful in treating pain from bone damage caused by the growth of leukemia cells within the bone marrow.
+Radiation therapy may be given in low doses to the whole body, as part of a stem cell transplant.
+Side effects of radiation therapy
+The main short-term side effects of radiation therapy depend on what part of the body is treated.
+
+Fatigue (tiredness) is a common side effect (no matter what part of the body is treated).
+Skin changes can occur in the treated area which range from mild redness to blistering and peeling.
+If radiation is aimed at the head or neck, the inside lining of your mouth and throat may become red and irritated.
+Radiation to the belly or pelvis can cause nausea and vomiting and/or diarrhea.Leukemia cells spread widely throughout the bone marrow and other organs, so surgery cannot be used to cure this type of cancer. Surgery rarely has any role even in diagnosing chronic myeloid leukemia (CML), since a blood test or bone marrow aspirate and biopsy are usually all that's needed.
+Splenectomy
+If leukemia spreads to the spleen, it can become large enough to compress nearby organs and cause symptoms. If chemotherapy or radiation doesn't help shrink the spleen, it may be removed with surgery. This operation, called a splenectomy, is meant to improve the symptoms of an enlarged spleen — it has no role in curing CML.
+Splenectomy may also improve blood cell counts and lower the need for blood product transfusions. One of the spleen's normal functions is to remove worn-out blood cells from the bloodstream. If leukemia or other diseases cause the spleen to become too large, it may become too active in removing blood cells, leading to a shortage of red blood cells or platelets. Taking out the spleen may improve red blood cell and platelet counts in some patients.
+Most people have no problem living without a spleen, but the risk for certain bacterial infections is increased. This is why doctors often recommend certain vaccines be given before the spleen is removed.Stem cell transplant is not a common treatment for chronic myeloid leukemia (CML) today. In the past, before tyrosine kinase inhibitors (TKIs) were available, SCT was often used to treat CML. Now, TKIs are the standard treatment, and transplants are being used far less often.
+Because allogeneic SCT offers the only proven chance to cure CML, doctors may still recommend a transplant for younger patients, particularly children. Transplant is more likely to be considered for those with an available matched donor, like a well-matched brother or sister.
+Transplant may also be recommended if CML is not responding well to TKIs. It's also an important option for people with CML that's advancing to or diagnosed in the accelerated or blast phases.
+What is a stem cell transplant?
+The usual doses of chemotherapy drugs can cause serious side effects by damaging quickly dividing cells such as the bone marrow. Even though higher doses of these drugs might be better at killing leukemia cells, they're not given because the severe damage to bone marrow cells would cause lethal shortages of blood cells.
+For a stem cell transplant (SCT), high doses of chemo are given to kill the leukemia cells. Sometimes the whole body also is given a low dose of radiation. This treatment kills the leukemia cells, but also damages the normal bone marrow cells. Then after these treatments, the patient receives a transplant of blood-forming stem cells to restore the bone marrow.
+Blood-forming stem cells used for a transplant can come from either from blood (called a peripheral blood stem cell transplant, or PBSCT) or from the bone marrow (called a bone marrow transplant, or BMT). Bone marrow transplant was done more commonly in the past, but it has largely been replaced by PBSCT.
+The 2 main types of stem cell transplants are allogeneic and autologous.
+For an autologous transplant, the patient’s own stem cells are collected from the blood or bone marrow and then given back after treatment. The problem is that leukemia cells may be collected with the stem cells.
+In an allogeneic transplant, the stem cells come from someone else (a donor). To lower the chance of complications, the donor needs to “match” the patient's tissue type. Often, a close relative, like a brother or sister is a good match. Less often, a matched unrelated donor may be found.
+Because collecting the patient’s stem cells can also collect leukemia cells, allogeneic transplants are the main type of transplant used to treat CML. Allogeneic stem cell transplant is the only known cure for CML. Still, this type of transplant can cause severe or even life-threatening complications and side effects, and it's often not be a good option in people who are older or have other health problems.Treatment options for people with chronic myeloid leukemia (CML) depend on the phase of their disease (chronic, accelerated, or blast phase), their age, other prognostic factors, and the availability of a stem cell donor with matching tissue type.
+Chronic phase
+The standard treatment for chronic phase CML is a tyrosine kinase inhibitor (TKI) like imatinib (Gleevec), nilotinib (Tasigna), dasatinib (Sprycel), or bosutinib (Bosulif). If the first drug stops working or it never really worked well at all, the dose may be increased or another TKI might be tried. Ponatinib (Iclusig) is an option after all of the other TKIs have been tried or if the leukemia cells later develop the T315I mutation (see more on this below)﻿.
+Switching to another TKI is also an option if a person can't take the first drug because of side effects.
+Rarely, people in chronic phase may be treated with an allogeneic stem cell transplant (SCT). This treatment is discussed in detail in Stem Cell Transplant for Chronic Myeloid Leukemia.
+Monitoring treatment results
+Monitoring the patient to see how they respond to treatment is very important. Blood counts are checked often. The blood is also checked with a polymerase chain reaction (PCR) test to measure the amount of the BCR-ABL gene. The bone marrow is checked, too, to see if the Philadelphia chromosome is there. Testing for the BCR-ABL gene or the Philadelphia chromosome is usually done about 3 months after a TKI is started, and then every 3 to 6 months after that. If the results show that treatment is working well, the patient stays on their current drug. If the results show that treatment isn’t working well, and the patient is taking the drug the way they should, a new drug or treatment may be needed.
+If the CML is responding well to treatment, 3 months after starting treatment, the patient should have:
+
+A complete hematologic response (CHR), and
+Some type of cytogenetic response, and/or
+A reduction of the number of copies of BCR-ABL on the PCR test by 90% or more
+
+If treatment is working well, 18 months after starting treatment, the patient should have:
+
+A complete hematologic response (CHR), and
+A complete cytogenetic response (CCyR), and/or
+A major molecular response (MMR)
+
+For more on these different types of response, see How Do You Know If Treatment for Chronic Myeloid Leukemia Is Working?
+How often is treatment successful?
+Up to about 70% of people have a complete cytogenetic response (CCyR) within 1 year of starting imatinib, and the rate of CCyR is even higher with other TKIs. After a year, even more patients will have had a CCyR. Many of these patients also have a complete molecular response (CMR).
+But even in patients in whom the BCR-ABL gene can no longer be found while on treatment, it’s often not clear if they are cured, so most people need to stay on a TKI indefinitely. In patients who have a deep, long-lasting response to treatment (usually for at least 2 or 3 years), some doctors might suggest stopping the drug for a time and closely monitoring with blood tests to see if the CML returns. In clinical trials so far, typically about half of these patients can stop treatment without the CML returning. Another option might be lowering the dose of the TKI, which can reduce side effects.
+If the CML does return after stopping or lowering the dose of the TKI, it's been found to respond well when the original treatment is restarted.
+If the first treatment doesn’t work
+If the leukemia doesn’t respond well to the first treatment, there are several options.
+
+Increasing the dose of the drug. This helps some people, although the higher dose often has worse side effects.
+Switching to another TKI, for example from imatinib to dasatinib, nilotinib, or bosutinib. The doctor may check the CML cells for genetic changes (mutations) to help decide which drug would be best.
+Interferon or chemotherapy (chemo) may be tried for those who can't take the TKIs or those for whom they are not working,
+Stem cell transplant may be an option, especially for younger people who have a donor with a matching tissue type.
+
+Treating CML after a stem cell transplant
+Some people who have a stem cell transplant may not get a complete response. If they do not have graft-versus-host disease (GVHD) , doctors may try to get their new immune system to fight the leukemia. One way to do this is by slowly lowering the doses or stopping the immune suppressing drugs they are taking. This is done very carefully in order to have an anti-leukemia effect without getting too much GVHD. Patients are watched closely during this time. Another approach that helps some patients is an infusion of lymphocytes taken from the person who donated the stem cells for the transplant (called donor lymphocyte infusion). This can induce an immune reaction against the leukemia. Other drugs may also be helpful. Most experts agree that these patients should take part in a clinical trial.
+In patients who do have GVHD after a stem cell transplant, boosting the immune system further is not likely to help. These patients are often treated with a TKI like imatinib.
+Accelerated phase
+When CML is in accelerated phase, leukemia cells begin to build up in the body quickly, causing symptoms. The leukemia cells often acquire new gene mutations, which help them grow and might make treatments less effective.
+The treatment options for accelerated phase CML depend on what treatments the patient has already had. In general, the options are a lot like those for patients with chronic phase CML. But patients with accelerated phase CML are less likely to have a long-term response to any treatment.
+If the patient hasn’t had any treatment, a TKI will be used. Imatinib (often at higher doses than used for chronic phase CML) is an option for most people. Most patients in this phase respond to treatment with imatinib, but the responses do not seem to last as long as they do in patients in the chronic phase. The newer drugs like dasatinib and nilotinib are often used in this phase, and other drugs are under study.
+If the patient is already getting imatinib, the dose may be increased. Another option is to switch to one of the other TKIs. Sometimes the CML cells are tested to see if they have genetic changes (mutations) that may mean that a certain TKI is more or less likely to work (see the section below called CML with the T315I mutation). In CML without that mutation, ponatinib is an option after all of the other TKIs have been tried.
+Interferon is another option, but it's also much less effective in this phase than in the chronic phase. Some patients have some response when chemo is added to the TKI, but these responses are usually shorter than 6 months.
+An allogeneic stem cell transplant may be the best option for most patients who are young and healthy enough to have this treatment. Most doctors prefer that the leukemia be controlled, preferably in remission, before starting the transplant procedure. To achieve this, chemo will often be used.
+In some cases, an autologous SCT may be an option to try to get the CML back into the chronic phase, but it's very unlikely to result in a cure.
+Blast phase
+In the blast phase of CML, the leukemia cells become more abnormal. The disease acts like an acute leukemia, with blood counts getting higher and symptoms appearing or getting worse.
+For people with blast phase CML who haven't been treated before, high-dose imatinib may be helpful. But it works in a smaller number of people and for shorter lengths of time than when used earlier in the course of the disease. Newer TKIs, such as dasatinib, nilotinib, and bosutinib, seem to be better in this phase, particularly if they hadn't been used earlier. Ponatinib may also be used, but only after all of the other TKIs have been tried. Patients who respond to these drugs may want to consider a stem cell transplant, if possible.
+Most often, the leukemia cells in this phase act like cells of acute myeloid leukemia (AML), but they're often resistant to the chemo drugs normally used to treat AML. Standard chemo for AML will bring about a remission in about 1 out of 5 patients, but this is usually short-lived. If remission does occur, it may be a chance to consider some type of stem cell transplant.
+A smaller number of patients have blast cells that act like cells of acute lymphoblastic leukemia (ALL). These cells are more sensitive to chemo drugs. Remissions can be induced in about half of these patients with drugs like vincristine, prednisone, and doxorubicin, along with imatinib, if that hasn't been given yet. Like patients with ALL, these patients are at risk for having leukemia cells in the fluid that surrounds the brain and spinal cord, so they often get chemo (cytarabine or methotrexate) put directly into that fluid (like during a spinal tap). Radiation therapy to the brain is another option, but is used less often. For more information, see Acute Lymphocytic Leukemia.
+Allogeneic SCT is less successful for blast phase CML than for earlier phases, and the long-term survival rate is less than 20%. Still, it's the only known option that may cure the disease. It's more likely to work if the CML can be brought back to the chronic phase before the transplant.
+Because most patients with blast phase CML can't be cured, palliative treatment (intended to relieve symptoms rather than cure the disease) is important. For instance, radiation therapy can help shrink an enlarged spleen or reduce pain from areas of bone damaged by leukemia. Chemo (usually with drugs such as hydroxyurea) may relieve some symptoms for a time.
+Clinical trials of new combinations of chemo, targeted agents, and biologic therapies are important options.
+CML with the T315I mutation
+As was mentioned in the section about targeted therapy, in some patients on TKI treatment, the cancer cells develop a gene change called the T315I mutation that keeps most of the TKIs from working. If your CML stops responding to treatment with a TKI, another one may be tried. Your doctor may also check to see if the cancer cells have developed the T315I mutation. If they have, you may be switched to ponatinib or asciminib, which are the only two TKIs that work for CML with this mutation. If these drugs don’t work or you can’t take them because of side effects, you may be started on chemotherapy (chemo). Omacetaxine (Synribo®) is a newer chemo drug that has been shown to help sometimes in this situation, but other chemo drugs may help, too.If you are being treated for chronic myeloid leukemia (CML), your doctor will check your blood counts, examine you, and do other tests like bone marrow biopsies and lab tests of blood and/or bone marrow samples. (These tests are discussed in Tests for Chronic Myeloid Leukemia.)
+These check-ups will be at least every 3 months for at least the first year of treatment. They're done to see how well the CML is responding to treatment. If the CML is not responding, you may need to switch to another drug.
+Studies have suggested that a fast response (within 3 to 6 months) is linked to better outcomes.
+Doctors look for different kinds of responses to treatment.
+Hematologic response
+Hematologic response is based mainly on if the numbers of cells in your blood have returned to normal. The main test used to measure this is a complete blood count (CBC). It's done on a sample of blood taken from your arm.
+
+Complete hematologic response (CHR): This means your white blood cell and platelet counts have returned to normal, there are no immature cells seen in your blood, and your spleen is back to a normal size.
+
+Cytogenetic response
+Cytogenetic response is based on the percentage of cells in a sample of your bone marrow that have the Philadelphia chromosome (and therefore are CML cells). This can be determined with either cytogenetics or FISH testing, both of which can find altered (mutated) chromosomes.
+
+A major cytogenetic response means no more than 35% of the cells in the bone marrow have the Philadelphia chromosome. A major response can be either complete or partial: 
+                       
+A complete cytogenetic response means no (or less than 1% of) cells in the bone marrow have the Philadelphia chromosome.
+A partial cytogenetic response means between 1% and 35% of the cells in the bone marrow still have the Philadelphia chromosome.
+
+
+
+A minor cytogenetic response means that 36% to 65% of the cells in the bone marrow still have the Philadelphia chromosome.
+A minimal cytogenetic response means that 66% to 95% of the cells in the bone marrow still have the Philadelphia chromosome.
+No response means that more than 95% of the bone marrow cells still have the Philadelphia chromosome.
+
+Molecular response
+Molecular response is based on how much of the BCR-ABL gene (which is found in CML cells) can be detected by the PCR test. This test can be done on either your blood or bone marrow.
+
+A complete molecular response (CMR) means that the PCR test does not find the BCR-ABL gene.
+A major molecular response (MMR) means that the amount of BCR-ABL gene in your blood or bone marrow is 1/1000th (or less) of what's expected in someone with untreated CML.
+
+You may hear the terms long-term deep molecular response or durable complete molecular response. This is a long-lasting complete molecular response. It's the goal of CML treatment.For a few people with chronic myeloid leukemia (CML) , treatment can destroy the cancer. For many people, treatment with a targeted therapy drug can control the cancer for many years. Still, it’s hard not to worry about cancer coming back if treatment stops working.
+Life after cancer means returning to some familiar things and also making some new choices.
+Follow-up care
+For most people with CML, treatment doesn't end. They stay on a tyrosine kinase inhibitor (TKI) like imatinib indefinitely. Often, the TKIs keep the CML in check, but they don't seem to cure this disease. Your doctor will continue to monitor how the CML is responding to treatment. Being on long-term treatment and managing cancer as a chronic disease can be difficult and very stressful. It has its own type of uncertainty.
+Even if there are no signs of the disease, your doctors will still want to watch you closely. It's very important to go to all of your follow-up appointments. During these visits, your doctors will ask questions about any problems you're having and do exams and lab tests to look for signs of CML and treatment side effects. Almost any cancer treatment can have side effects. This is the time for you to talk to your cancer care team about any changes or problems you notice and any questions or concerns you have.
+Ask your doctor for a survivorship care plan
+Talk with your doctor about developing a survivorship care plan for you. This plan might include: 
+
+A suggested schedule for follow-up exams and tests
+A schedule for other tests you might need in the future, such as early detection (screening) tests for other types of cancer, or tests to look for long-term health effects from your cancer or its treatment
+A list of possible side effects from your treatment, including what to watch for and when you should contact your doctor
+Diet and physical activity suggestions
+Reminders to keep your appointments with your primary care provider (PCP), who will monitor your general health care 
+
+Keeping health insurance and copies of your medical records
+It’s very important to keep health insurance. Tests and doctor visits cost a lot, and the drugs cost a lot, too.
+At some point, you might find yourself seeing a new doctor who doesn’t know about your medical history. It’s important to keep copies of your medical records to give your new doctor the details of your diagnosis and treatment. Learn more in Keeping Copies of Important Medical Records.
+Can I lower my risk of chronic myeloid leukemia progressing or coming back?
+If you have CML, you probably want to know if there are things you can do that might lower your risk of the cancer growing or progressing, such as exercising, eating a certain type of diet, or taking nutritional supplements. Unfortunately, it’s not yet clear if there are things you can do that will help.
+Adopting healthy behaviors such as not smoking, eating well, getting regular physical activity, and staying at a healthy weight might help, but no one knows for sure. However, we do know that these types of changes can have positive effects on your health.
+We also know that not taking the TKI drugs as prescribed can have negative effects. Studies have shown that missing doses or not taking the right dose leads to worse overall outcomes. Still, be honest with your health care team. Let them know if you're having any problems with your medicine, including problems paying for it.
+About dietary supplements
+So far, no dietary supplements (including vitamins, minerals, and herbal products) have been shown to clearly help lower the risk of CML progressing. This doesn’t mean that no supplements will help, but it’s important to know that none have been proven to do so.
+Dietary supplements are not regulated like medicines in the United States – they do not have to be proven effective (or even safe) before being sold, although there are limits on what they’re allowed to claim they can do. If you’re thinking about taking any type of nutritional supplement, talk to your health care team. They can help you decide which ones you can use safely while avoiding those that might be harmful. They can also tell you if there could be any interactions with your TKI treatment.
+If the cancer comes back
+If the cancer does progress or relapse at some point, your treatment options will depend on what treatments you’ve had before and your overall health.
+Could I get a second cancer after treatment?
+People who have CML can still get other cancers. In fact, people with CML are at higher risk for getting some other types of cancer. Learn more in ﻿﻿Second Cancers After Chronic Myeloid Leukemia.
+Getting emotional support
+Some amount of feeling depressed, anxious, or worried is normal when cancer is a part of your life. Some people are affected more than others. But everyone can benefit from help and support from other people, whether friends and family, religious groups, support groups, professional counselors, or others. Learn more in Life After Cancer.Cancer survivors can be affected by a number of health problems, but often their greatest concern is facing another cancer. Chronic myeloid leukemia (CML) can become resistant to treatment and progress to more advanced phases. But sometimes people with CML or develop a new, unrelated cancer later. This is called a second cancer. No matter what type of cancer you have or had, it's still possible to get another (new) cancer.
+Types of cancer
+Unfortunately, being treated for cancer doesn’t mean you can’t get another cancer. People who have had cancer can still get the same types of cancers that other people get. In fact, certain types of cancer and cancer treatments can be linked to a higher risk of certain second cancers.
+People with CML can get any type of second cancer, but they have a higher risk than the general population of developing:
+
+Oral cavity cancer
+Lung cancer
+CLL (chronic lymphocytic leukemia)
+Small intestine cancer
+Thyroid cancer
+Melanoma
+Prostate cancer
+
+The risk appears to be higher in the first 5 years after being diagnosed with CML, but more research is needed to confirm this.
+What you can do
+Most people with CML are treated with medicines that keep the disease in check without curing the disease, so they need to see their doctors regularly. Let your doctor know if you have any new symptoms or problems. They could be from the CML getting worse or from a new disease or cancer.
+All people with CML should not use any type of tobacco and should avoid tobacco smoke. Tobacco is linked to an increased risk of many cancers and might further increase the risk of some of the second cancers seen in patients with CML.
+To help maintain good health, survivors should also:
+
+Get to and stay at a healthy weight
+Keep physically active and limit the time you spend sitting or lying down
+Follow a healthy eating pattern that includes plenty of fruits, vegetables, and whole grains, and limits or avoids red and processed meats, sugary drinks, and highly processed foods
+It's best not to drink alcohol. If you do drink, have no more than 1 drink per day for women or 2 per day for men
+
+These steps may also lower the risk of some cancers.
+See Second Cancers in Adults for more information about causes of second cancers.What is leukemia?
+Cancer can start any place in the body. Leukemia starts in the bone marrow, the soft inner part of certain bones where new blood cells are made. It starts when certain blood cells grow out of control and crowd out normal blood cells. This makes it hard for the body to work the way it should.
+There are many types of leukemia. Some are rare. Most are named based on if they are fast growing (acute) or slower growing (chronic). They are also named by the type of bone marrow cell (myeloid or lymphocytic) the leukemia starts in.
+What is chronic myeloid leukemia (CML)?
+Chronic myeloid leukemia or CML is a type of cancer that starts from cells in the bone marrow that are supposed to grow into different types of blood cells. Most of the time CML grows slowly, but over time the leukemia cells can spill out into the blood and spread to other parts of the body, like the spleen.
+Questions to ask the doctor
+
+Why do you think I have leukemia?
+Is there a chance I don’t have leukemia?
+Would you please write down the kind of leukemia you think I might have?
+What will happen next?
+How do we know if I have CML?
+
+How does the doctor know I have CML?
+Many people with CML don’t have any symptoms. The leukemia is found when blood tests are done for some other health problem or during a routine check-up. Even when there are symptoms, they may be very general and unclear.
+Some signs of CML include feeling tired or weak, losing weight, having a fever, or sweating a lot at night. The doctor will ask you questions about your health and do a physical exam.
+If signs are pointing to CML, more tests will be done. Here are some of the tests you may have:
+Tests for CML
+Blood cell counts: This blood test is often the first test done. Most people with CML have too many white blood cells with many early (not mature) cells, called blasts. Sometimes people with CML have low numbers of other types of blood cells. Even though these results may point to leukemia, most of the time you'll need other blood tests or a test of the bone marrow to make sure.
+Bone marrow aspiration and biopsy : For these tests, a doctor uses thin, hollow needles to take out small amounts of bone marrow, usually from the back of your hip bone. The area around the bone is numbed, and you may be given a drug to make you sleepy during the test. The samples are sent to a lab to see if there are leukemia cells in the bone marrow. These tests may also be done after treatment to see if the treatment is working.
+Gene tests: If you might have CML, tests will be done on samples of your blood and/or bone marrow to look for certain gene changes in the cells. CML cells nearly always have certain changes.
+Other blood tests: If you have leukemia, other blood tests will be done to see how well your liver, kidneys, and other body parts are working.
+Imaging tests: These tests take pictures of the inside of your body. There are many kinds of imaging tests, like CT and MRI scans. They're sometimes done to see if the leukemia has spread to other parts of your body, like the spleen or liver. Ask your doctor what imaging tests you may need.
+Questions to ask the doctor
+
+What tests will I need to have?
+Who will do these tests?
+Where will they be done?
+Who can explain them to me?
+How and when will I get the results?
+Who will explain the results to me?
+What do I need to do next?
+
+How serious is my CML?
+Most types of cancer are assigned a stage based on how much the cancer has spread. This helps the doctor know how to treat the cancer and how likely it is that you'll get better. But CML isn't staged like most cancers. Instead, CML is said to be in one of 3 phases . The phase of CML is based mainly on the number of early white blood cells, called blasts, in your blood or bone marrow. From less serious to more serious, the phases are:
+
+Chronic phase
+Accelerated phase
+Blast phase (also called acute phase or blast crisis)
+
+Most of the time, CML is in the chronic phase when it's first found.
+Questions to ask the doctor
+
+Does anything about my leukemia cells change the treatment? Or make my case better or worse?
+Are there other doctors I need to see?
+How many people with CML have you treated?
+What phase is my CML in?
+Would you explain to me what my CML phase means for me?
+Based on the phase of my CML, how long do you think I’ll live?
+What will happen next?
+
+What kind of treatment will I need?
+The kind of treatment you will need depends on the phase of your CML, your age and how healthy you are, and whether a stem cell donor can be found.
+The most common kinds of treatment for CML are:
+
+Targeted drugs
+Interferon
+Chemotherapy
+Stem cell transplant
+
+Targeted drugs
+The main treatment for CML is drugs that go after proteins in the leukemia cells that aren’t normal. These drugs mainly affect cancer cells and not normal cells. They're pills you take every day. Most of the time, targeted drugs are very good at treating CML. If one targeted drug doesn't work, others may be tried. These drugs can have side effects, but they're often not the same as those of chemo drugs. Ask your doctor which drug you will have and what to expect.
+Interferon
+Interferons are made by immune system cells in the body. Man-made types of interferon drugs attack the leukemia and slow its growth. They're given as a shot under the skin. Interferon might be tried if targeted drugs don’t work or you can’t take them. Side effects can include flu-like symptoms, feeling very tired, fever, and weight loss. Ask your doctor what to expect.
+Chemo
+Chemo (the short word for chemotherapy) is the use of drugs to fight cancer. Most of the time chemo drugs are given into a vein or taken as pills. These drugs go into the blood and spread through the body. In CML, chemo is not usually used unless other treatments are no longer working. Chemo is given in cycles or rounds. Each round of treatment is followed by a rest break. Treatment often lasts for many months.
+Chemo can have many side effects like:
+
+Hair loss
+Mouth sores
+Not feeling like eating
+Diarrhea
+Being sick to your stomach and throwing up
+More risk of infections
+Black and blue marks and bleeding easily
+Tiredness
+
+But these problems tend to go away after treatment ends. There are ways to treat most chemo side effects. Be sure to talk to your cancer care team so they can help.
+Stem cell transplant
+A stem cell transplant (SCT) lets doctors use very high doses of chemo to kill the leukemia cells. The high doses destroy the bone marrow, which means new blood cells can't be made. Although the drugs destroy the bone marrow, the stem cells given after chemo bring back the blood-making bone marrow stem cells. You may get an SCT if you haven’t been helped by other treatments. There are different kinds of SCT, each of which can have bad side effects. Ask your doctor which type you will have and what to expect.
+Clinical trials
+Clinical trials are research studies that test new drugs or other treatments in people. They compare standard treatments with others that may be better.
+If you'd like to learn more about clinical trials that might be right for you, start by asking your doctor if your clinic or hospital takes part in clinical trials. See Clinical Trials to learn more.
+Clinical trials are one way to get the newest cancer treatment. They're the best way for doctors to find better ways to treat cancer. If your doctor can find one that’s studying the kind of cancer you have, it’s up to you whether to take part. And if you do sign up for a clinical trial, you can always stop at any time.
+What about other treatments I hear about?
+When you have cancer you might hear about other ways to treat the cancer or treat your symptoms. These may not always be standard medical treatments. These treatments might be vitamins, herbs, special diets, and other things. You may be curious about these treatments.
+Some of these are known to help, but many have not been tested. Some have been shown not to help. A few have even been found to be harmful. Talk to your doctor about anything you’re thinking about using, whether it’s a vitamin, a diet, or anything else.
+Questions to ask the doctor
+
+What treatment do you think is best for me?
+What’s the goal of this treatment? Do you think it could cure the leukemia?
+What side effects could I have from treatment?
+What can I do about these side effects?
+Is there a clinical trial that might be right for me?
+What about special vitamins or diets that friends tell me about? How will I know if they're safe?
+How soon do I need to start treatment?
+What should I do to be ready for treatment?
+Is there anything I can do to help the treatment work better?
+How long do you think I’ll live?
+What will we do if the treatment doesn’t work or if the leukemia comes back?
+What’s next?
+
+What will happen after treatment?
+If you have CML, you'll be treated with medicines that keep your disease in check. It's important that you take the medicine the way the doctor tells you to. But medicines aren’t likely to cure CML, so you'll still need to see your doctor a lot. Be sure to go to all of these visits. Your doctors will ask about symptoms, do physical exams, blood tests, and maybe other tests to see how well your treatment is working.
+Having CML and dealing with treatment can be hard, but it can also be a time to look at your life in new ways. You may be thinking about how to be more healthy. Call us at 1-800-227-2345 or talk to your doctor to find out what you can do to feel better.
+You can’t change the fact that you have CML. What you can change is how you live the rest of your life – making healthy choices and feeling as good as you can.

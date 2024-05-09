@@ -1,0 +1,627 @@
+Cancer starts when cells begin to grow out of control. Cells in nearly any part of the body can become cancer, and can spread to other areas. Cancers often spread from their primary site (the part of the body where the cancer started) to one or more metastatic sites (other parts of the body). Cancers are named based on their primary site, regardless of where in the body they spread. For example, a lung cancer that spreads to the liver is still classified as lung cancer and not as liver cancer.
+Sometimes it’s not clear where a cancer may have started. When cancer is found in one or more metastatic sites but the primary site cannot be determined, it is called a cancer of unknown primary (CUP) or an occult primary cancer. This happens in a small portion of cancers.
+Further tests may eventually find the primary site of some of these cancers. When this happens, they are no longer considered a cancer of unknown primary and are renamed and treated according to where they started.
+As an example, a person has an enlarged lymph node on the side of their neck. When it is removed, cancer is found. But under the microscope it does not look like a cancer that normally starts in lymph nodes. At this point it might be considered a cancer of unknown primary. The way it looks under the microscope might suggest that the cancer started in the mouth, throat, or voice box (larynx). When this area is examined, a small cancer of the larynx might be found. From then on, the patient is said to have laryngeal cancer rather than a cancer of unknown primary and will get treated for that type of cancer.
+In many cases, the source of the cancer is never determined. The most thorough search still might not find the primary site. Even when doctors do autopsies on people who have died of cancer of unknown primary, they are often still unable to find the site where the cancer started.
+The main reason to look for the primary site of a CUP is to guide treatment. Since a cancer that starts in one place needs the same treatments when it spreads, knowing where a cancer started tells the doctor what types of treatments to use. This is especially important for certain cancers that respond well to specific chemotherapy or hormone drugs. When the types of cancer that respond best to treatment have been ruled out by tests, it usually becomes less important to find the exact origin or cancer type.
+But even if the primary site is not known, treatment can still be successful. How the cancer cells look under the microscope, the results of lab tests, and information about which organs it has already affected can help doctors predict what kinds of treatment might be helpful.
+To learn more about how cancers start and spread, see What Is Cancer?
+General cancer types
+Cancers are classified by their primary site. They can also be grouped by the types of cells in them, how the cancer cells look under the microscope, and on results of certain lab tests on the cells. Knowing the type of cell might give doctors a clue as to where the cancer started. When the cancer cells closely resemble normal cells of the organ where they start, the cancer is called well differentiated. When the cells do not look much like normal cells, the cancers are called poorly differentiated. Cancers of unknown primary are often poorly differentiated.
+Carcinomas
+A carcinoma is a cancer that begins in the cells that line the inside or outside of a body organ. These cells are called epithelial cells. There are different types of carcinomas, depending on how the cancer cells look when seen with a microscope. The most common types are squamous cell carcinoma and adenocarcinoma.
+Squamous cell cancers
+Cancers formed by flat cells that look like cells normally found on the surface of the skin or the linings of certain organs are called squamous cell cancers or squamous cell carcinomas. Squamous cell cancers can start in the mouth, throat, esophagus, lungs, anus, cervix, vagina, and some other organs.
+Adenocarcinomas
+Cancers that develop from gland cells (cells that secrete a substance) are called adenocarcinomas. Gland cells are found in many organs of the body, including some that are not usually thought of as glands. For example, most cancers in the stomach, intestines, and colon are adenocarcinomas. About 4 of 10 lung cancers are adenocarcinomas. Adenocarcinomas can also develop in many other organs.
+Other cancer types
+Less common types of cancer can develop from other cell types.
+
+Lymphomas develop from cells of the immune system found in lymph nodes and several other organs.
+Melanomas develop from cells that produce the skin’s tan or brown color.
+Sarcomas develop from connective tissue cells that usually are present in tendons, ligaments, muscle, fat, bones, cartilage, and related tissues.
+Germ cell tumors can develop in the testes (testicles) in men or the ovaries in women, or in the parts of the body where these organs developed in the fetus.
+
+This list is not intended to include all types of cancers but merely to name the most common ones.
+Broad categories of cancers of unknown primary
+When first looking at the cancer cells under a microscope, doctors usually classify a cancer of unknown primary (CUP) into 1 of 5 broad categories. Many of these cancers can be better classified later on, after more extensive testing.
+Adenocarcinoma
+As noted before, these cancers develop from gland cells. They make up about 6 of 10 cases of CUP.
+Poorly differentiated carcinoma
+When looking at these cancers under a microscope, there is enough detail to tell that they are carcinomas, but the cells are too irregular to classify them further. These cancers make up about 3 of 10 cases of CUP. On further testing, about 10% of these turn out to be lymphoma, melanoma, or sarcoma.
+Squamous cell cancer
+These cancers look like the flat cells on the surface of the skin or the linings of certain organs.
+Poorly differentiated malignant neoplasm
+These are clearly cancers, but the cells are so abnormal that the doctor can’t tell what type of cell they may have started from. Most of them turn out to be lymphomas, sarcomas, or melanomas. Some turn out to be carcinomas upon further testing.
+Neuroendocrine carcinoma
+These rare cancers start from cells of the diffuse neuroendocrine system. This system has cells that are like nerve cells in certain ways and like hormone-making endocrine cells in other ways. These cells do not form an actual organ like the adrenal or thyroid glands. Instead, they are scattered throughout other organs like the esophagus, stomach, pancreas, intestines, and lungs. These cancers account for a small number of CUP cases. (Some poorly differentiated cancers are found to be neuroendocrine carcinomas upon further testing.)
+Even when doctors don’t know where the cancer started, they do their best to classify the type of cancer. This can help them select the best treatment. Some cancers respond very well to specific treatments, so it is very important to classify the cancer as much as possible. This is best done by looking at the cancer under a microscope and doing special tests in the lab (see Tests for a Cancer of Unknown Primary).
+Other types
+Lymphoma often does not have a clear primary site, but it’s not considered a CUP.
+Although the primary site of a melanoma may not be clear, once a cancer is classified as a melanoma, it’s no longer called a CUP.How common are cancers of unknown primary?
+The exact number of cancers of unknown primary (CUP) diagnosed each year is unknown, because some cancers start out being diagnosed as unknown primary, but the primary site is found later. Still, the American Cancer Society estimates that about 34,950 cases of cancer of unknown primary will be diagnosed in 2024 in the United States. This number represents about 2% of all cancers. As more sophisticated lab tests become available to determine where a cancer started, the number of cancers of unknown primary may go down.
+Visit the American Cancer Society’s Cancer Statistics Center for more key statistics.Research into the causes, diagnosis, and treatment of cancer is being done at many cancer research centers. Scientists are making progress in understanding how changes in a person’s DNA can cause normal cells to develop into cancer. A greater understanding of the gene changes that can occur in cancer is providing insight into why these cells become abnormal. Some of these advances may lead to better diagnosis and treatment of cancer of unknown primary (CUP).
+Diagnosis
+It’s important that doctors are able to identify the origin of cancers of unknown primary so that the most effective treatments can be used. Immunohistochemistry and other lab tests can be very helpful in this regard, but they are not yet able to tell where all CUPs have started. Newer lab tests now becoming available, and others being studied, will help classify CUP more precisely and predict a patient’s prognosis and response to treatment.
+Hopefully at some point in the future, the number of cancers of unknown primary will drop dramatically, as doctors will be able to test tumor samples and determine what types of cancer they are.
+Treatment
+Because CUP represents a number of different types of cancer, it’s unlikely that a single treatment breakthrough will benefit all people with CUP. Still, progress in treating some of the more common types of cancer is likely to benefit people with CUP as well, especially if the cancers can be classified more accurately.
+As researchers have come to understand the genetic changes that cause these tumors, they’ve been able to use newer treatments to target these changes. Some of these newer drugs are called targeted therapies. These drugs have more selective effects than chemotherapy (chemo). Some of them, such as bevacizumab (Avastin®) and erlotinib (Tarceva®), are available to treat other cancers and have shown some activity in CUP.
+Recent studies have found that cancers starting in each organ are not all the same. They can have different changes in their most important molecules and respond differently to treatments.
+As targeted treatments are found for more of the specific molecular changes in cancer cells, knowing the origin of a cancer may become less important. Instead, detailed information about changes in the cancer cells’ DNA and RNA may become more important in choosing the treatments most likely to help individual patients.
+Cancer cells from CUP are sometimes tested in a lab to try to see which chemo drugs will be likely to work. Unfortunately, these tests don’t always do a good job of predicting the right chemo drugs to use and don't always tell which are most effective. Many doctors don’t find them very helpful.
+Many patients with cancer of unknown primary face a serious prognosis, so the need for advances in treatment is obvious. Clinical trials of new treatments are essential if progress is to occur. Some of these trials are testing new chemo drugs, new drug combinations, and new ways to give these drugs. Other clinical trials are studying new approaches to treatment, such as biological therapy, immunotherapy, and gene therapy. Because CUP is many types of cancers, progress against CUP is likely to depend on continued progress toward understanding the molecular basis of all cancers.A risk factor is anything that affects a person’s chance of getting a disease such as cancer. Different cancers have different risk factors. Some risk factors, like smoking, can be changed. Others, like a person's age or family history, can't be changed.
+But having a risk factor, or even several, does not mean that a person will get the disease, and many people get cancer without having any known risk factors.
+Since the exact type of cancer is not known, it’s hard to identify factors that might affect risk for cancer of unknown primary (CUP). These cancers are also a very diverse group, making this issue even more complicated. But there is research that provides some information about CUP risk factors.
+Smoking is probably an important risk factor for CUP. More than half of patients with CUP have a history of smoking. When autopsy studies are done, many cancers of unknown primary are found to have started in the pancreas, lungs, kidneys, throat, larynx, or esophagus. Smoking increases the risk for all of these cancers.
+Some other cancers of unknown primary are eventually found to have started in the stomach, colon, rectum, or ovaries. Diet, nutrition, and weight are factors that have been linked to these cancers. For more information, see the specific type of cancer.
+Melanoma (an aggressive type of skin cancer) is another source of cancer of unknown primary. An important melanoma risk factor is exposure to ultraviolet radiation in sunlight.
+Overall, however, there are no factors that specifically increase the risk of cancer of unknown primary. Even in people who may have one or more of the risk factors above, it’s not possible to know for sure if these factors contributed to the cancer.Cancers of unknown primary (CUP) include a variety of cancers, which may each have a number of different causes. This is why it’s hard to assign a particular cause to CUP.
+Cancer is the result of changes in a cell’s DNA. In recent years, scientists have made great progress in learning how certain changes in DNA can cause normal cells to become cancerous. DNA is the chemical in each of our cells that makes up our genes, which control how our cells function. We usually look like our parents because they are the source of our DNA. But DNA affects more than how we look.
+Some genes control when our cells grow and divide into new cells:
+
+Certain genes that help cells grow and divide are called oncogenes.
+Genes that help keep cell division under control or cause cells to die at the right time are called tumor suppressor genes.
+
+Cancers can be caused by DNA changes that turn on oncogenes or turn off tumor suppressor genes.
+Most of the DNA changes related to CUP probably occur during a person’s lifetime rather than having been inherited before birth. These are called ﻿acquired or sporadic mutations. These kinds of mutations may sometimes result from known exposures such as tobacco smoke, ultraviolet light, radiation, or certain cancer-causing chemicals, but often they occur for no apparent reason.
+As scientists learn more about how cancers develop, they are also beginning to understand why some cancers tend to grow and spread so quickly that they are diagnosed as cancers of unknown primary.Cancer of unknown primary (CUP) represents a number of different cancers, so there is no known way to prevent it. Still, certain lifestyle changes may reduce the risk of many types of cancer. This might in turn reduce a person’s risk of CUP.
+Smoking is one of the most significant risk factors that a person can control, and is thought to be directly related to deaths from cancer. Quitting or never starting reduces the risk of cancers of many types, including those of unknown primary. Please call us if you need help quitting tobacco. This, and a lot more information about tobacco, can be read online or mailed to you.
+Factors linked with body weight, physical activity, and eating patterns are also known to affect the risk for different types of cancers and deaths related to cancer. Staying at a healthy weight throughout life, being physically active, following a healthy eating pattern, and limiting alcohol intake can all help reduce your risk of cancer.
+Because the exact type and the origin of a CUP are unknown, it’s not possible to say how any particular case might have been prevented. It is important to realize that many people with cancer have no apparent risk factors, and there’s nothing they could have done to avoid the disease.Cancers of unknown primary (CUP) have always spread outside the organ they started in by the time they are diagnosed. If they had been found early, we would know where they started and they would not be classified as a cancer of unknown primary.
+Screening tests
+The American Cancer Society has specific recommendations about tests that may help detect breast, prostate, cervical, and colorectal cancers early, before they cause any symptoms.
+But these cancers account for a fairly small portion of cancers of unknown primary. No screening tests have been proven to be effective in the early detection of many of the cancers that are likely to be diagnosed as cancer of unknown primary, such as pancreatic, stomach, and kidney cancers.The signs and symptoms of a cancer of unknown primary vary depending on which organs it has spread to. It’s important to note that none of the symptoms listed below is caused only by CUP. In fact, they are more likely to be caused by something other than cancer. Still, if you have symptoms that suggest that something abnormal may be going on, see a doctor so that the cause can be evaluated and treated, if needed.
+Some possible symptoms of CUP include:
+Swollen, firm, non-tender lymph nodes
+Normal lymph nodes are bean-sized collections of immune system cells located throughout the body that are important in fighting infections. Cancers often spread to the lymph nodes, which become swollen and firmer. A person might notice a lump (enlarged lymph node) under the skin on the side of the neck, above the collarbone, under the arms, or in the groin area. Sometimes, a doctor notices them first during a routine checkup.
+A mass in the abdomen that can be felt or a feeling of “fullness”
+A mass is an abnormal area such as a swelling or firm area that can be caused by a tumor. This can be caused by cancer growing in the liver or less often, the spleen.
+Sometimes the cancer cells grow on the surface of many organs in the abdomen. This may cause ascites, the buildup of fluid inside the abdomen. The fluid buildup can swell the abdomen. It can sometimes lead to a feeling of fullness or bloating.
+Shortness of breath
+This symptom may be caused by cancer that has spread to the lungs or by the build-up of fluid and cancer cells in the space around the lungs (a pleural effusion).
+Pain in the chest or abdomen
+This may be caused by cancer growing around nerves or by tumors pressing against internal organs.
+Bone pain
+Cancer that has spread to the bones can sometimes cause severe pain. Common areas of pain include the back and the legs and hips, but any bone can be affected. The bones may be weakened by the cancer’s spread, and can break from minor injuries or even the normal stress of supporting the body’s weight. This can lead to a sudden severe pain or worsening of pain that was already there.
+Skin tumors
+Some cancers that start in internal organs can spread through the bloodstream to the skin. Because bumps in the skin are easily seen, skin metastases are sometimes the first sign of spread from a CUP.
+Low red blood cell counts (anemia)
+Cancer that started in the gastrointestinal system (such as esophagus, stomach, small intestines, or colon) can bleed. Often this occurs at a slow rate, so that the blood isn’t visible in the stool. Eventually, this can lead to low red blood cell counts.
+Red blood cell counts can also become low if the cancer spreads to the bone marrow and crowds out the normal blood forming cells.
+Weakness, fatigue, poor appetite, and weight loss
+These symptoms are often seen with more advanced cancers. They may occur because the cancer has spread to specific organs or systems such as the bone marrow or digestive system. Some cancers also release substances into the bloodstream that can affect metabolism and cause these problems.
+This is by no means a complete list of symptoms that might be caused by CUPs. Again, most of the symptoms above are more likely to be caused by conditions other than cancer, Still, if you have any of these problems, it’s important to see your doctor right away so the cause can be found and treated, if needed.Cancers of unknown primary (CUP) are usually found as the result of signs or symptoms a person is having.
+Medical history and physical exam
+If you have any signs or symptoms that suggest you might have cancer, your doctor will want to take a complete medical history to check for symptoms and risk factors, including your family history. This will be followed by a physical exam that will pay special attention to any parts of the body where there are symptoms.
+Approach to diagnosing a cancer of unknown primary
+If your symptoms and the results of your physical exam suggest cancer, the doctor may use the following different types of tests to look for cancer, see what kind it is, and find out where it is located (and where it might have started):
+
+Imaging tests such as x-rays, ultrasound, or CT (computed tomography) or MRI (magnetic resonance imaging) scans
+Endoscopy exams to look at organs through a lighted tube placed into a body opening such as the mouth, nose, or anus
+Blood tests
+Biopsies to remove samples of tissues or cells and look at them with a microscope or test them in the lab
+
+Imaging tests
+Imaging tests use sound waves, x-rays, magnetic fields, or radioactive substances to create pictures of the inside of your body. Imaging tests may be done for a number of reasons, including:
+
+To look more closely at an abnormal area that might be a cancer
+To learn how far cancer may have spread
+To try to see where a cancer has started
+To help determine if treatment has been effective
+
+Somatostatin receptor scintigraphy
+Somatostatin receptor scintigraphy (SRS) an imaging test also known as OctreoScan, can be very helpful in diagnosing neuroendocrine tumors (NETs), including neuroendocrine carcinomas that may be suspected if you have a CUP. SRS uses a hormone-like substance called octreotide that has been bound to radioactive indium-111. A small amount of octreotide is injected into a vein and attaches to proteins on the tumor cells of many NETs. A special camera is then used to show where the radioactivity has collected in the body. Additional scans may be done on the following few days as well. This test is useful not only in finding some NETs, but also with determining treatment. If a tumor is seen on SRS, it is likely to respond to treatment with certain drugs.
+Endoscopy
+For endoscopy, the doctor puts a flexible lighted tube (endoscope) with a tiny video camera on the end into the body. 
+Endoscopes are named for the part of the body they examine. For example, an endoscope that looks at the main airways in the lungs is called a bronchoscope and the procedure is called a bronchoscopy. The endoscope used to look at the inside of the colon is called a colonoscope.
+Common types of endoscopy include:
+
+Laryngoscopy to look at the larynx (voice box)
+Esophagogastroduodenoscopy (EGD, also called upper endoscopy) to look at the esophagus (the tube that connects the throat to the stomach), the stomach, and the duodenum (the first part of the small intestine)
+Bronchoscopy to look at the lungs
+Colonoscopy to look at the large intestine (colon)
+Cystoscopy to look at the bladder
+
+Endoscopy is commonly used to look at the esophagus and stomach, the large intestine, the lungs, and the throat and larynx (voice box). If something suspicious is seen during the exam, biopsy samples may be removed with special tools used through the endoscope. The samples will then be looked at under a microscope to see if cancer cells are present.
+Endoscopic ultrasound: This test is done with an ultrasound probe attached to an endoscope. It’s most often used to get pictures of the pancreas and tumors of the esophagus. In the esophagus it can be used to look closer at any tumors present. When there are no esophagus tumors, the endoscope travels through the esophagus and the stomach, and into the first part of the small intestine. The probe can then be pointed toward the pancreas, which sits next to the small intestine. The probe is on the tip of the endoscope, so it’s a very good way to look at the pancreas. It’s better than CT scans for spotting small tumors in the pancreas. If a tumor is seen, it can be biopsied during this procedure.
+A form of endoscopic ultrasound also can be used to look more closely at tumors of the rectum. For this procedure, the endoscope is passed through the anus and into the rectum.
+Endoscopic retrograde pancreatography (ERCP): For this procedure, the endoscope is passed down the patient’s throat, through the esophagus and stomach, and into the first part of the small intestine. The doctor can see through the endoscope to find the ampulla of Vater (the place where the common bile duct is connected to the small intestine). A small amount of dye (contrast material) is then injected through the tube into the common bile duct and x-rays are taken. This dye helps outline the bile duct and pancreatic duct. The x-ray images can show narrowing or blockage of these ducts that might be due to pancreatic cancer. The doctor doing this test can also put a small brush through the tube to remove cells to view under a microscope to see if they look like cancer.
+More information about these tests can be found in Endoscopy.
+Blood tests
+If signs and symptoms suggest you might have cancer, blood tests will probably be done to examine the number and type of blood cells and to measure levels of certain blood chemicals.
+Complete blood count
+The complete blood count (CBC) can tell if you have a low blood count  (red blood cells, white blood cells, or platelets). Lower than normal numbers of different blood cell types may suggest that a CUP has spread to bones and replaced much of the normal bone marrow, where new blood cells are made.
+Anemia (lower than normal numbers of red blood cells) might also mean there’s stomach or intestinal bleeding caused by the cancer. This could point to somewhere in the stomach or intestine as the site of its origin.
+Blood chemistry tests
+Tests of chemical levels in the blood can show how well certain organs are functioning, and in some cases they might give a clue as to where cancer may be found in the body.
+For example, abnormal liver function tests in a person with CUP may suggest cancer is in the liver. The cancer may have started in the liver or may have spread from another part of the body. Other blood tests can tell how well the kidneys are working and whether or not cancer has have invaded the bones.
+Serum tumor markers
+Some types of cancer release certain substances into the bloodstream that are known as tumor markers. There are many different tumor markers, but only a few of them are helpful in figuring out the origin of a cancer, such as:
+
+Prostate-specific antigen (PSA): A high PSA level in a man suggests that a CUP may have started in the prostate.
+
+
+Human chorionic gonadotropin (HCG): High levels of HCG suggest a germ cell tumor, a type of cancer that can begin in the testicles, ovaries, the mediastinum (area between the lungs), or the retroperitoneum (area behind the intestines).
+Alpha-fetoprotein (AFP): This substance is produced by some germ cell tumors as well as by some cancers that start in the liver.
+Chromogranin A (CgA): CgA levels can go up with neuroendocrine cancers.
+
+Other tumor markers that may be helpful include:
+
+CA-125: A high CA-125 level in a woman suggests ovarian, fallopian tube, or primary peritoneal cancer may be the cause.
+CA 19-9: High levels of this tumor marker suggest that the cancer started in the pancreas or bile ducts.
+
+There are many other tumor markers, but they are less useful in patients with CUP because their levels go up with many different cancers. For example, carcinoembryonic antigen (CEA) can go up in the presence of an adenocarcinoma of any source. Cancers of the colon, lung, ovaries, pancreas, stomach and many others can be adenocarcinomas and cause the CEA level to rise.
+Biopsies
+Physical exams, imaging tests, and blood tests can sometimes strongly suggest a cancer is present, but in most cases a biopsy (removing some of the tumor for viewing under a microscope and other lab testing) is needed to know for certain that cancer is present. A biopsy is also usually needed to tell what kind of cancer it is (like adenocarcinoma or squamous cell carcinoma) and can give clues about where the cancer started. A biopsy is needed to diagnose CUP.
+Different types of biopsies may be done depending on where a suspected tumor is located.
+
+Needle biopsy
+Core needle biopsy
+Surgical biopsy
+Endoscopic biopsy
+
+For more detailed information about biopsies see Types of Biopsies Used to Look for Cancer.
+Thoracentesis or paracentesis
+If you have large amounts of fluid inside your chest in the area around your lungs (known as a pleural effusion) or in your abdomen (ascites), samples of the fluid can be removed with a long, hollow needle. Ultrasound often is used to guide the needle. The fluid is then looked at under a microscope to see if it contains cancer cells and, if so, to determine the type of cancer that is present. Thoracentesis is the medical term for removing fluid from the chest cavity. Paracentesis refers to removing fluid from the abdomen. These procedures are usually done under local anesthesia (numbing medicine), with you awake.
+Bone marrow aspiration and biopsy
+These tests may be done to see if cancer has spread to the bone marrow, the soft inner part of certain bones where new blood cells are made.
+A bone marrow aspiration and biopsy are usually done at the same time. In most cases the samples are taken from the back of the pelvic (hip) bone. For a bone marrow aspiration, a thin, hollow needle is inserted into the bone and a syringe is used to suck out a small amount of liquid bone marrow. A bone marrow biopsy is usually done just after the aspiration. A small piece of bone and marrow (about 1/16 inch in diameter and 1/2 inch long) is removed with a slightly larger needle that is twisted as it is pushed down into the bone. Samples from the bone marrow are sent to a pathology lab, where they are looked at and tested for cancer cells.
+Lab tests of biopsy samples
+All biopsy samples are first looked at with a microscope by a pathologist, a doctor who has special training in laboratory diagnosis of cancers. How the cancer cells look will often provide clues to where it started. If the diagnosis isn’t clear, then further testing might help.
+Immunohistochemistry
+For this lab test, a part of the biopsy sample is treated with man-made proteins (antibodies) designed to attach only to a specific substance found in certain cancer cells. If the patient’s cancer contains that substance, the antibody will attach to the cells. Chemicals are then added so that cells with antibodies attached to them change color. The doctor who looks at the sample under a microscope can see this color change. Doctors often need to use many different antibodies to try to determine what type of cancer is on the slides.
+Flow cytometry
+In flow cytometry, cells from a biopsy sample are treated with special antibodies, each of which sticks only to certain types of cells. The cells are then passed in front of a laser beam. If the antibodies have stuck to the cells, the laser causes them to give off a colored light that is measured and analyzed by a computer. This test is probably most useful in helping to determine whether cancer in a lymph node is a lymphoma or some other cancer. It also can help determine the exact type of lymphoma so doctors can select the best treatment.
+Cytogenetic testing
+Cytogenetic tests look at a cell’s chromosomes (pieces of DNA) under a microscope to find any changes. Normal human cells contain 46 chromosomes. Some types of cancer have characteristic abnormalities in their chromosomes. Finding these changes may help identify some types of cancer. Several types of chromosome changes can be found in cancer cells. With this type of testing, the doctor needs to know what abnormalities to look for. Cytogenetic tests are not being used much in people with CUP since immunohistochemistry tests are becoming more advanced in identifying cell changes that may be related to certain cancers.
+Molecular genetic testing
+Sometimes, testing cancer cells’ DNA using methods like polymerase chain reaction (PCR) can find some genes and chromosome changes that can’t be seen under a microscope if a cytogenetic test is used. PCR testing also requires that the doctors know what they are looking for. It can also be used to look for certain viruses. For example, it can be used to find the Epstein-Barr virus. Finding this virus in cancer cells from an enlarged neck lymph node can mean that it’s a nasopharyngeal cancer.
+This type of testing is not needed in most cases, but it’s sometimes helpful in classifying some cancers when other tests have not provided clues regarding their origin.
+Gene expression profiling
+With advances in technology, some newer lab tests are able to look at the activity of many genes in the cancer cells at the same time. By comparing the pattern of gene activity in the CUP sample to the patterns of activity seen with known types of cancer, doctors can sometimes get a better idea of where a cancer started. These tests can sometimes help your doctor discover where the cancer may have started, but so far, they haven’t been linked to better outcomes in patients.
+Electron microscopy
+An electron microscope uses beams of electrons that may help find very tiny details of cancer cell structure that can provide clues to the tumor type or origin.
+This technique is not used often for CUP due to the more sophisticated tests already discussed, but it might help find the source of the cancer or classify the cancer in a way that can help guide treatment.
+Classifying cancers of unknown primary
+After initial lab tests, the pathologist classifies a cancer of unknown primary into 1 of the 5 main types:
+
+Squamous cell carcinoma
+Adenocarcinoma
+Poorly differentiated carcinoma
+Neuroendocrine carcinoma
+Poorly differentiated malignant neoplasmBased on the classification and the location of the metastatic cancer of unknown primary, doctors decide which additional tests should be done. For example, a poorly differentiated malignant neoplasm may be tested further to try to classify it more precisely as a melanoma, lymphoma, sarcoma, small cell carcinoma, germ cell tumor, etc. The classification and location also help the doctor decide what other imaging tests may be helpful in looking for the primary site.
+Some of the more common ways in which cancer of unknown primary may appear are listed with a brief description of what testing may be done.
+Cancer in lymph nodes in the neck
+Cancer that has spread to neck nodes usually comes from cancers of the mouth, throat, sinuses, salivary glands, larynx (voice box), thyroid, or lung. Tests will be done to look at these areas thoroughly for signs of where the cancer may have started.
+The type of cancer is also a clue about where the cancer might have started. Most cancers of the mouth, throat, and larynx are squamous cell carcinomas. Lung cancer and cancer of the sinuses can be squamous cell carcinomas or adenocarcinomas. Salivary gland cancers are often a type of adenocarcinoma. Thyroid cancer can spread to neck lymph nodes. When it looks similar to normal thyroid tissue, it’s easy to know where it came from. It can also look like adenocarcinoma. Cancers from all of these sites can also be poorly differentiated carcinomas or even poorly differentiated malignant neoplasms.
+The base of the tongue, the throat, and the larynx are deep inside the neck and not seen easily. Indirect pharyngoscopy and laryngoscopy use small mirrors to look at these areas. A fiberoptic laryngoscope (a flexible, lighted, tube inserted through the mouth or nose) can be also be used to look in those areas, as well as deeper in the throat, if needed.
+If the cancer is likely to have started in the head and neck area, the mouth, throat, larynx, esophagus (tube that connects the mouth to the stomach), trachea (wind pipe), and bronchi (tubes leading from the trachea to the lungs) will be examined very thoroughly. This exam, called panendoscopy, is done in the operating room while you are under general anesthesia (asleep).
+Imaging tests like CT or MRI scans of the sinuses and neck area may be used to look for small cancers that may have already spread to lymph nodes in the neck. A PET scan (or combined PET/CT scan) may be done as well.
+A chest CT scan and bronchoscopy (viewing the air passages through a flexible lighted tube) are often recommended to find suspected lung cancers that may have been missed by a routine chest x-ray.
+Ultrasound or CT of the neck may be used to look for thyroid cancer.
+Women with adenocarcinoma in lymph nodes under the arm
+In women, cancer that has spread to underarm (axillary) nodes is most likely to have started in the breast, so a thorough breast physical exam is always done. Then diagnostic mammography (breast x-ray) and breast ultrasound are often the first tests ordered. If no tumor is found on these tests, an MRI of the breasts may be very useful.
+Lab tests on the tumor cells can determine if they have estrogen receptors (ER) and/or progesterone receptors (PR). These receptors are often found in breast cancers, and finding them may help confirm the diagnosis of breast cancer. The presence of these receptors is also important in planning treatment, as cancers containing these receptors are likely to respond to hormone therapy.
+If a breast cancer diagnosis cannot be confirmed, tests to look for lung cancer may be done. Lung cancer is the most common cause of cancer spread to underarm lymph nodes in men, and can also be the cause in women.
+Cancer in lymph nodes in the groin
+The most likely starting places of these cancers are the vulva, vagina, cervix, penis, skin of the legs, anus, rectum, or bladder, but other places are also possible.
+
+In women, a Pap test and pelvic exam (to look at the vulva, vagina, and cervix, and check for enlarged ovaries) are recommended. A CA-125 blood test may be done to see if ovarian cancer might be the source.
+In men, the penis and scrotum should be carefully examined. A blood test for prostate-specific antigen (PSA) can help tell if the cancer may have started in the prostate.
+A proctoscopy (exam of the anus and the rectum through a lighted tube), skin exam, microscopic exam of urine, and abdominal and pelvic CT scans may be useful. If they are having urinary symptoms or have even a trace of blood in the urine, an exam of the bladder (cystoscopy) may be done as well.
+
+Women with cancer throughout the pelvic cavity
+The ovaries and fallopian tubes are the most likely source of a cancer that has spread in this way, but cancers from the breast, lung, or digestive tract can also spread here. Tests for CA-125 in the blood and tumor samples are positive in most ovarian and fallopian tube cancers, and can be used to help determine whether the primary tumor is likely to be from there or some other organ. CT scans of the abdomen and pelvis are also usually done.
+Most cancers that start in the peritoneum (lining of the pelvis) look and behave like a cancer that started in the ovary and spread. They also cause CA-125 levels to go up. These cancers are called primary peritoneal carcinoma and are treated like ovarian cancer.
+More information about ovarian, fallopian tube, and primary peritoneal cancers can be found in Ovarian Cancer.
+Cancer in the retroperitoneum (back of the abdomen) or mediastinum (middle of the chest)
+Germ cell tumors are one of the types of cancer that can start in these locations, especially in younger people. Most germ cell tumors develop from germ cells in the gonads (testicles or ovaries), but these cancers can sometimes start in other parts of the body, including the mediastinum (which is in the chest).
+Results of blood tests and stains of the cancer cells for alpha-fetoprotein (AFP) and human chorionic gonadotropin (HCG) are often positive in germ cell tumors. Cytogenetic or molecular studies may also find chromosomal changes that support a diagnosis of germ cell tumor.
+In men, especially those who are younger or who have abnormal levels of AFP and/or HCG, ultrasound of the scrotum may be done to see if the cancer may have started in the testicles.
+CT scans of the chest, abdomen, and pelvis are typically used to try to exclude other types of cancers (such as lung cancer). In women, tests may be done to see if the cancer started in the breast or ovaries.
+It’s important to identify germ cell tumors because they often respond well to certain combinations of chemotherapy drugs with good outcomes and sometimes, cures.
+Melanoma in lymph nodes only
+A thorough exam of the skin, nails, and other body surfaces such as the eye and the inside of the mouth is needed to look for the primary melanoma. Some primary melanomas that have already spread might be quite small or look like ordinary moles to the untrained examiner. Rarely, primary melanomas go away on their own without treatment after spreading, leaving behind only an area of slightly lighter colored skin.
+Treatment of Melanoma depends on whether it has spread only to lymph nodes or whether internal organs are also involved. Chest x-rays, CT scans of the head and abdomen, and blood tests are usually done to see if cancer can be found anywhere else in the body.
+Cancer in other locations
+The main goal in trying to determine the source of a CUP is to see if you have a cancer that may respond well to specific treatments. Some of the most important cancers to identify include thyroid, breast, and prostate cancers:
+
+Tests of the cancer cells for thyroglobulin can identify many thyroid cancers, which are often effectively treated with radioactive iodine injections.
+Tests of the cancer cells can help identify breast cancers containing estrogen receptors (ER) and progesterone receptors (PR), and these cancers can be treated with hormonal therapy.
+Blood tests and tests of cancer cells for prostate-specific antigen (PSA) can identify prostate cancer, which can be treated with hormone therapy.
+
+Well differentiated neuroendocrine cancers can sometimes show up as liver metastases first (with no clear primary site). The source for these may be the pancreas (pancreatic neuroendocrine tumors), the gastrointestinal (GI) tract, or rarely, the lungs. These cancers tend to be slow growing and may respond to drug treatment.
+
+Information about neuroendocrine cancers that start in the pancreas may be found in Pancreatic Cancer.
+Information about neuroendocrine cancers that start in the GI tract can be found in Gastrointestinal Carcinoid Tumors.
+Information about neuroendocrine tumors that start in the lungs can be found in Lung Carcinoid Tumors.
+
+A type of poorly differentiated malignant neoplasm called small cell carcinoma or poorly differentiated neuroendocrine carcinoma can develop in the lungs and, less often, in other organs. Some of these cancers usually respond to certain chemotherapy combinations, although they are likely to come back (recur) at a later time.After someone is diagnosed with a cancer, doctors will try to figure out if it has spread, and if so, how far. This process is called staging. A cancer's stage is determined by examining tissue removed during an operation and sometimes imaging tests and physical exam. The stage describes how much cancer is in the body. It helps determine how serious the cancer is and how best to treat it. Doctors also use a cancer's stage when talking about survival statistics.
+How is the stage determined?
+The staging system used for most cancers is the American Joint Committee on Cancer (AJCC) TNM system, which is based on 3 key pieces of information:
+
+The extent (size) of the tumor (T): How large is the cancer? Has it grown into nearby structures or tissues?
+The spread to nearby lymph nodes (N): Has the cancer spread to nearby lymph nodes?
+The spread (metastasis) to distant sites (M): Has the cancer spread to other parts of the body?
+
+Numbers or letters after T, N, and M provide more details about each of these factors. Higher numbers mean the cancer is more advanced.
+Once a person’s T, N, and M categories have been determined, this information is combined in a process called stage grouping to assign an overall stage. Most cancers have stages that range from I (1) through IV (4). As a rule, the lower the number, the less the cancer has spread. A higher number, such as stage IV, means cancer has spread more. Stage I is the least spread, and patients with this stage tend to have the best outlook. Stage IV cancers have the most spread and tend to have the poorest outlook.
+For different types of cancer, each staging system is somewhat different. To determine a cancer’s stage, you first have to know where it started. Since the type of cancer is not known, it is difficult to accurately stage cancers of unknown primary (CUPs). Nonetheless, to be considered a CUP, the cancer must have spread beyond the primary site. So, all CUPs are at least a stage II, and most of them are stage III or IV.
+The most recent American Joint Committee on Cancer (AJCC) staging system, effective January 2018, applies to cancer that is found in the lymph nodes of the neck but the primary cancer has not been found. This is considered a cancer of unknown primary, but since most of these cancers are thought to start in the head and neck area they are treated as such. If your cancer fits this description, it is best to talk to your doctor about your specific stage. 
+Even though a patient’s exact stage may not be known, it’s still possible to make some predictions about prognosis (outlook) based on which organs are affected by the cancer. For example, if the cancer is only found in lymph nodes in one area or in a single organ, the outlook tends to be better than if the cancer is found in many different organs. Of course, other factors, such as how well the cancer responds to treatment and a person’s overall health also play a role.
+Cancer staging can be complex, so ask your doctor to explain it to you in a way you understand.Survival rates tell you what portion of people with the same type and stage of cancer are still alive a certain amount of time (usually 5 years) after they were diagnosed. They can't tell you how long you will live, but they may help give you a better understanding about how likely it is that your treatment will be successful.
+Cancer of unknown primary (CUP) includes many different cancer types, so it’s hard to provide meaningful survival statistics for these cancers as a group. In general, these are difficult cancers for several reasons:
+
+When they are first diagnosed, these cancers have already spread beyond the site where they started. This means that the types of treatments that are most likely to be successful, such as surgery or radiation therapy, are not likely to result in a cure in most cases.
+Because the exact type of cancer is not known, it’s harder for doctors to know what treatment is most likely to help the patient.
+Many CUPs are fast-growing and/or fast-spreading cancers.
+
+When all types of CUP are included, the average survival time is about 9 to 12 months after diagnosis. But this can vary widely depending on many factors, including the cancer cell type, where the cancer is found, how far the cancer has spread, a person’s general health, the treatments received, and how well the cancer responds to treatment.
+Survival statistics can sometimes be useful as a general guide, but they may not accurately represent any one person’s prognosis (outlook). This is because survival rates are often based on previous outcomes of large numbers of people who had the disease, but they can’t predict what will happen in any particular person’s case. Your doctor is familiar with your situation; ask how these numbers may apply to you.It’s important to have open, honest communication with your doctor about your condition. Don’t be afraid to ask questions, no matter how small it might seem. Some questions to consider:
+When you're told you have a cancer of unknown primary (CUP)
+
+Should I have extensive testing to find out what kind of cancer of unknown primary (CUP) I have?
+What kind of CUP do I have? How extensive is it?
+Have you done all the appropriate tests on my biopsy specimen?
+
+When deciding on a treatment plan
+
+How much experience do you have treating these tumors?
+What are my treatment choices?
+Which treatment do you recommend, and why?
+What's the goal of treatment?
+Should I get a second opinion? How do I do that? Can you recommend someone?
+How quickly do we need to decide on treatment?
+What should I do to get ready for treatment?
+Are there any clinical trials I should think about taking part in?
+How long will treatment last? What will it be like? Where will it be done?
+What risks or side effects should I expect? How long are they likely to last?
+Will treatment affect my daily activities?
+What are the chances that my CUP will come back if initial treatment seems to be successful? What would we do if that happens?
+
+During treatment
+
+How will we know if the treatment is working?
+Is there anything I can do to help manage side effects?
+What symptoms or side effects should I tell you about right away?
+How can I reach you on nights, holidays, or weekends?
+Do I need to change what I eat during treatment?
+Are there any limits on what I can do?
+Should I exercise? What should I do, and how often?
+Can you suggest a mental health professional I can see if I start to feel overwhelmed, depressed, or distressed?
+
+After treatment
+
+Are there any limits on what I can do?
+What symptoms should I watch for?
+What kind of exercise should I do now?
+What type of follow-up will I need after treatment?
+How often will I need to have follow-up exams and tests?
+How will we know if the cancer has come back? What should I watch for?
+What will my options be if the cancer comes back?
+
+Along with these examples , be sure to write down some of your own questions. For instance, you might want more information about clinical trials or working during treatment.
+Keep in mind that doctors aren’t the only ones who can give you information. Other health care professionals, such as nurses and social workers, can answer some of your questions. To find more about speaking with your health care team, see The Doctor-Patient Relationship.Surgery is a common treatment for many types of cancer if they are found at an early stage. But because cancer of unknown primary (CUP) has already spread beyond the site where it started, surgery is less likely to be helpful.
+Surgery may be an option if the cancer is found only in the lymph nodes or in one organ, where the surgeon may be able to remove it all. However, there’s still a chance that the cancer may be elsewhere in the body. If you are considering surgery as a treatment option, it’s important to understand how likely it is to help you.
+The type and extent of surgery will depend on where the cancer is and how extensive it is. If surgery is used, it may be followed by radiation therapy and possibly chemotherapy to try to kill any remaining cancer cells in the body.Radiation therapy uses high-energy rays (or particles) to kill cancer cells or slow their rate of growth. The goal of radiation therapy may change based on the situation.
+For some cancers that have not spread too far from where they started, it can be used alone or with other treatments such as surgery with the goal of trying to cure the cancer.
+When cancer has spread extensively, radiation can be used to relieve symptoms such as pain, bleeding, trouble swallowing, intestinal blockage, compression of blood vessels or nerves by tumors, and problems caused by metastases to bones.
+
+External beam radiation therapy focuses a beam of radiation on the cancer from a machine
+Internal radiation therapy (brachytherapy) places a radioactive material directly into or as close as possible to the cancer.
+
+Internal radiation therapy lets your doctor give a dose of radiation to a smaller area and in a shorter time than is possible with external radiation treatment.
+Sometimes, both internal and external beam radiation therapies are used together.
+Possible side effects of radiation therapy
+Depending on where the radiation is aimed or placed and what dose is given, side effects may include the following:
+Possible general side effects from radiation
+
+Fatigue (feeling tired)
+Loss of appetite
+Low blood counts
+Skin changes in areas getting radiation, ranging from redness to blistering and peeling
+Hair loss at the site where the radiation is aimed
+
+Possible side effects from radiation to the head and neck
+Radiation therapy to the head and neck area often causes damage to the throat and salivary glands, which can result in:
+
+Throat pain
+Mouth sores
+Trouble swallowing
+Loss of taste
+Hoarseness
+Dry mouth
+
+Over the long term it can also lead to cavities in the teeth and thyroid problems (from damage to the thyroid gland). This might mean that you need pills to replace thyroid hormone.
+Possible side effects from radiation to the chest
+
+Trouble and pain swallowing from irritation of the esophagus (the tube that connects the throat to the esophagus
+Lung irritation that can lead to cough and shortness of breath
+
+Possible side effects from radiation to the abdomen
+
+Nausea
+Vomiting
+Diarrhea
+Poor appetite
+
+Possible side effects from radiation to the pelvis
+
+Bladder irritation, leading to symptoms like pain or burning with urination and feeling like you have to go often
+Irritation of the rectum and anus, which can lead to diarrhea, bleeding, and pain
+In women, vaginal irritation and discharge.
+
+Most of these side effects go away after treatment ends, but some are long-term and may never go away completely.
+If chemotherapy is given along with radiation, the side effects are often worse.
+There are ways to relieve many of these side effects, so it’s important to discuss any changes you notice with your cancer care team.Chemotherapy (chemo) is the use of drugs to treat cancer. Often, these drugs are injected into a vein (IV) or taken by mouth. They enter the bloodstream and reach throughout the body, making this treatment potentially useful for cancers that have spread beyond the organ they started in. Because chemo reaches all parts of the body, it can sometimes be useful for cancers of unknown primary, as it may help kill cancer cells in areas where they haven’t been detected.
+Chemo can be used in a number of situations for cancer of unknown primary (CUP). If your doctor recommends chemo, it’s important that you understand what the goals of your treatment are.
+Chemo may be the main treatment for cancers that are clearly advanced and are unlikely to be helped by local treatments such as surgery or radiation therapy. In some cases, it may be very effective in making tumors shrink or even go away altogether. In other cases, chemo may be used to try to relieve symptoms caused by the cancer and may be able to help people live longer.
+For cancers that appear to have been removed completely with surgery or radiation, chemo may be added to try to kill any remaining cancer cells in the body.
+Chemo drugs are often given in combinations, which are more likely to be effective than giving a single drug alone. Which chemo drugs are used depends on the type of cancer.
+Adenocarcinoma and poorly differentiated carcinoma
+For a CUP that is an adenocarcinoma or a poorly differentiated carcinoma, a number of chemo combinations may be used, including:
+
+Carboplatin plus paclitaxel (Taxol®), with or without etoposide (VP-16)
+Carboplatin plus docetaxel (Taxotere®)
+Cisplatin plus gemcitabine (Gemzar®)
+Cisplatin plus docetaxel
+Gemcitabine plus docetaxel
+Irinotecan (Camptosar®) plus carboplatin
+Irinotecan plus gemcitabine
+Oxaliplatin (Eloxatin®) plus 5-fluorouracil and leucovorin (folinic acid)
+Oxaliplatin plus capecitabine (Xeloda®)
+
+Squamous cell cancer (carcinoma)
+If chemotherapy is to be used for a CUP that is a squamous cell cancer, the options include:
+
+Cisplatin or carboplatin plus a taxane (paclitaxel or docetaxel)
+Cisplatin, docetaxel, and 5-fluorouracil (5-FU)
+Cisplatin plus 5-fluorouracil
+Cisplatin plus gemcitabine
+Oxaliplatin (Eloxatin®) plus 5-fluorouracil and leucovorin (folinic acid)
+
+Neuroendocrine cancers (carcinomas)
+Neuroendocrine carcinomas that are poorly differentiated are often treated with the same chemo as is used for small cell cancer of the lung: a platinum drug (cisplatin or carboplatin) and etoposide.
+Well-differentiated neuroendocrine cancers are not often the cause of CUP, but may present with liver metastasis and an occult primary. These patients are treated like patients with well-differentiated carcinoid tumor, with drugs combinations such as:
+
+Doxorubicin (Adriamycin®) and streptozocin
+Temozolomide plus capecitabine
+Cisplatin or carboplatin plus etoposide
+Carboplatin plus paclitaxel and etoposide
+
+More information about the treatment of well-differentiated neuroendocrine cancers can be found in Gastrointestinal Carcinoid Tumors, Lung Carcinoid Tumor, and Pancreatic Cancer.
+Possible side effects of chemotherapy
+Chemo drugs can cause side effects, depending on the specific drugs used, their doses, and how long treatment lasts.
+Common side effects of chemo include:
+
+Hair loss
+Mouth sores
+Loss of appetite
+Diarrhea
+Nausea and vomiting
+Increased chance of infections (from a shortage of white blood cells)
+Problems with bruising or bleeding (from a shortage of blood platelets)
+Fatigue or shortness of breath (from low red blood cell counts)
+
+Along with the risks above, some chemo drugs can cause other side effects.
+Ask your health care team about what side effects you can expect based on the specific drugs you will get. Be sure to tell your doctor or nurse if you do have side effects, as there are often ways to help with them. For example, drugs can be given to help prevent or reduce nausea and vomiting.Some types of cancer grow in response to sex hormones in the body. For example, most breast cancers have proteins called estrogen receptors and/or progesterone receptors on the surface of their cells. These cancers grow faster when exposed to the hormone estrogen. Likewise, most prostate cancers grow in response to male hormones called androgens, such as testosterone.
+In cases where a cancer of unknown primary (CUP) is likely to be a breast or prostate cancer, hormone therapy may be an effective way to slow the growth of the cancer, or perhaps even shrink it, and may help you live longer.
+For breast cancer, types of hormone therapy include drugs like tamoxifen, toremifene (Fareston), fulvestrant (Faslodex); LHRH agonists like leuprolide (Lupron) and goserelin (Zoladex); and the aromatase inhibitors anastrozole (Arimidex), letrozole (Femara), and exemestane (Aromasin). These drugs either lower estrogen levels or prevent cancer cells from being able to use it. For more information on how these drugs are used and their potential side effects, see Hormone Therapy for Breast Cancer.
+Hormone therapy can also be used to treat prostate cancer. Some commonly used drugs include LHRH agonists such as leuprolide (Lupron, Eligard), goserelin (Zoladex), and triptorelin (Trelstar), and anti-androgens such as flutamide (Eulexin), bicalutamide (Casodex), enzalutamide (Xtandi), and apalutamide (Erleada). These drugs either lower the testosterone level or prevent cancer cells from being able to use it. Surgery to remove the testicles (orchiectomy) is another option. For more information, see Hormone Therapy for Prostate Cancer.Targeted therapy uses drugs or other substances to identify and attack cancer cells while doing little damage to normal cells. These therapies attack the cancer cells’ inner workings – the programming that makes them different from normal, healthy cells. Each type of targeted therapy works differently, but all alter the way a cancer cell grows, divides, repairs itself, or interacts with other cells.
+One target on squamous cell cancers of the head and neck is called epidermal growth factor receptor (EGFR). Cells from many of these cancers have too many copies of EGFR, which helps them grow faster and become more resistant to radiation or chemotherapy (chemo). A drug called cetuximab (Erbitux®) blocks EGFR, and can help patients with squamous cell cancers of the head and neck area. It’s often used along with radiation or chemotherapy (chemo), but it can also be used by itself to treat people whose cancers no longer respond to chemo and who can’t take radiation.
+A number of targeted therapy drugs are used to treat breast cancer, including trastuzumab (Herceptin®), pertuzumab (Perjeta®), lapatinib (Tykerb®), everolimus (Afinitor®), ado-trastuzumab emtansine (Kadcyla®, also known as TDM-1), and neratinib (Nerlynx®). For more information, see Targeted Therapy for Breast Cancer.
+Other targeted therapy drugs are used for cancers that start in other areas, and may be helpful in some cases of cancer of unknown primary. For example, sunitinib (Sutent®) and everolimus (Afinitor®) are helpful in treating pancreatic neuroendocrine cancer, and may be used to treat well-differentiated neuroendocrine cancers of unknown primary.Bisphosphonates
+Bisphosphonates are drugs that are used to help strengthen and reduce the risk of fractures in bones that have been weakened by metastatic cancer. Examples include pamidronate (Aredia®), zoledronic acid (Zometa®), and clodronate (Bonefo®). They are given in a vein (intravenously; IV) once a month.
+Bisphosphonates can have side effects, including flu-like symptoms and bone pain. They can also cause kidney problems, so people with kidney problems can’t use them. A rare but very distressing side effect of intravenous bisphosphonates is damage (osteonecrosis) in the jaw bones (ONJ). It can be triggered by having a tooth removed while getting treated with the bisphosphonate. ONJ often appears as an open sore in the jaw that won’t heal. It can lead to loss of teeth or infections of the jaw bone. Doctors don’t know why this happens or how to treat it, other than to stop the bisphosphonate drug. Good oral hygiene by flossing, brushing, making sure that dentures fit properly, and having regular dental check-ups may help prevent this. Most doctors recommend that patients have a dental check-up and have any tooth or jaw problems treated before they start taking a bisphosphonate.
+Denosumab
+Like bisphosphonates, denosumab (Prolia®, Xgeva®) is a drug that can be used to strengthen bones and lower the risk of fractures in bones weakened by cancer spread. This drug is injected under the skin, once a month to treat cancer that has spread to bone.
+Side effects include low levels of calcium and phosphate and ONJ. This drug does not cause kidney damage, so it is safe to give to people with kidney problems.
+Octreotide
+Octreotide (Sandostatin®) is an agent chemically related to a natural hormone, somatostatin. It’s very helpful for some patients with neuroendocrine tumors. If the tumor releases hormones into the bloodstream (which is rare in the poorly differentiated tumors that cause cancer of unknown primary), this drug can stop the hormone release. It can also cause tumors to stop growing or (rarely) to shrink. This drug is available as a short-acting version injected 2 to 4 times a day, or as a long-acting injection that needs to be given only once a month. A similar drug, lanreotide (Somatuline®), is also injected once a month. These drugs are most likely to help treat cancers that show up on somatostatin receptor scintigraphy (OctreoScan).The types of treatment used for a cancer of unknown primary depend on several factors, including the size and location of the cancer, the results of lab tests, and how likely it is to be a certain type of cancer. Your overall health and ability to tolerate treatment matter also. Of course, if the origin of the cancer can be determined during testing, the cancer would no longer be an unknown primary and would be treated according to where it started.
+Squamous cell carcinoma in lymph nodes in the neck
+These cancers usually began somewhere in the mouth, throat, or larynx. They are often treated with surgery and/or radiation therapy.
+Surgical treatment removes lymph nodes and other tissue from the neck. This operation is called a neck dissection.
+
+A partial or selective neck dissection removes only a few lymph nodes.
+A modified radical neck dissection removes most lymph nodes on one side of the neck between the jawbone and collarbone, as well as some muscle and nerve tissue.
+A radical neck dissection removes nearly all the nodes on one side, as well as even more muscles, nerves, and veins.
+
+The most common side effects of any neck dissection are numbness of the ear, weakness in raising the arm above the head, and weakness of the lower lip. These side effects are caused by injury during the operation to the nerves that supply these areas. After a selective neck dissection, the weakness of the arm and lower lip usually go away after a few months. But if a nerve is removed as part of surgery, the weakness will be permanent. After any neck dissection, physical therapists can show the patient exercises to improve neck and shoulder movement.
+Radiation therapy might be used instead of surgery. One potential advantage is that the area treated would include both the nodes with metastatic cancer and several of the areas of the neck likely to contain a primary tumor.
+When large and/or many tumors are present, some patients will be treated with both surgery and radiation therapy. The radiation may be given before or after surgery.
+When tumors are very large or present on both sides of the neck, chemotherapy (chemo) and radiation therapy are often used together. A targeted therapy drug may also be used with radiation (instead of chemo).
+The outlook for these patients depends on the size, number, and location of the lymph nodes containing metastatic cancer. For more information about the usual treatments for these cancers see Nasal Cavity and Paranasal Sinus Cancers, Oral Cavity and Oropharyngeal Cancer and Laryngeal and Hypopharyngeal Cancer.
+Adenocarcinoma in lymph nodes under the arm
+Because most cancers that have spread to the axillary nodes (lymph nodes under the arm) in women are breast cancers, the recommended treatment is similar to that for women diagnosed with breast cancer that has spread to these nodes.
+Surgery to remove axillary nodes (called an axillary lymph node dissection) is done, and the breast on the same side may be treated with mastectomy (surgery to remove the breast) or radiation therapy.
+Depending on the woman’s age and whether the cancer cells contain estrogen and/or progesterone receptors, additional (adjuvant) treatment may include hormonal therapy, chemo, or both. The cancer can also be tested for a protein called HER2. If positive, a drug that targets the HER2 protein may be used. For more information about prognosis and treatment of breast cancer that has spread to the lymph nodes, see Breast Cancer.
+Although cancer in axillary lymph nodes in men may represent spread from a breast cancer, spread from a lung cancer is much more likely. An axillary lymph node dissection and/or radiation therapy to the underarm area may be considered in some cases, but many doctors would recommend chemo first and waiting to see how the enlarged lymph nodes respond. The combination of drugs would probably be the same as that given for adenocarcinomas or poorly differentiated carcinomas found in other parts of the body.
+Cancer in groin lymph nodes
+It’s important to search carefully for the origin of these cancers, as many of them can be treated effectively if it is found. If the primary tumor can’t be found, surgery is usually the main treatment.
+If the cancer appears to be confined to a single lymph node, removing it may be the only treatment. In other cases, more extensive surgery (a lymph node dissection) may be needed. If more than one lymph node is found to contain cancer, radiation therapy and/or chemotherapy may be recommended as well.
+Women with cancer throughout the pelvic cavity
+Unless tests have found a primary cancer outside the ovaries (in which case the diagnosis of cancer of unknown primary would no longer apply), these cancers are most likely to be spread from either ovarian cancer, fallopian tube cancer, or primary peritoneal carcinoma (PPC). Fallopian tube cancer and PPC are diseases similar to ovarian cancer and they are all treated the same way.
+Treatment is typically surgery to remove the uterus, both ovaries, both fallopian tubes, and as much of the cancer as possible. After surgery, 6 to 8 months of chemo may be recommended. For more information, see Ovarian Cancer.
+Cancer in the retroperitoneum (back of the abdomen) or mediastinum (middle of the chest)
+If lab tests of the tumor sample have ruled out lymphoma, the most likely diagnosis (particularly in younger men) is a germ cell tumor. Even cancers in these areas that do not have lab results typical of germ cell tumors often respond to chemotherapy combinations for treating testicular germ cell tumors. More information about the treatment of germ cell tumors can be found in Testicular Cancer and Ovarian Cancer.
+If a carcinoma is in the mediastinum in an older patient it may be treated as a non-small cell lung cancer.
+Melanoma in lymph nodes only
+Once a cancer of unknown primary (CUP) has been diagnosed as a melanoma, it’s no longer a true CUP. This situation is mentioned, nonetheless, because some tests to identify melanomas may take several days. Until they are complete, these patients are considered to have CUP.
+The recommended initial treatment of melanoma of unknown primary with only lymph node spread is surgery to remove the lymph nodes in the affected area. If spread to other nodes becomes apparent at a later time and all of the cancer can be removed, these nodes are also removed. For more information see Melanoma Skin Cancer.
+Cancer in other locations such as bone or liver
+This group represents the majority of people with CUP. Usually the cancer is in the bones, lung, or liver. Once lab testing of the biopsy specimen has excluded cancers of the breast, prostate, thyroid, and lymphoma (all of which often respond well to specific treatments), many of the remaining patients are treated with chemo to try to shrink the tumor and reduce symptoms.
+Most doctors use a standard chemotherapy regimen. It’s important to stop chemo if it’s not working to relieve symptoms or shrink the cancer, as the side effects of these drugs can be severe and impair quality of life.
+Sometimes chemo can be quite helpful. About 15% of patients treated with aggressive chemo will have a complete response (with no visible cancer left after treatment), and in some of these the cancer stays away for years.
+Patients in poor health who would not be able to tolerate the side effects of aggressive chemo are sometimes treated with lower doses or with drugs that cause fewer side effects. But the benefit of this approach is not clearly proven. Another option is to focus on relieving symptoms as they occur. Many patients with cancer spread to bones benefit from treatment with bisphosphonates (discussed in Other Drugs for a Cancer of Unknown Primary). These drugs can help strengthen bones weakened by cancer, preventing fractures (breaks), and reducing pain.
+Some poorly differentiated small cell cancers of unknown origin can shrink dramatically when chemo combinations originally developed to treat small cell lung cancer are used. The benefit usually lasts for several months, but these cancers almost always return.
+Some neuroendocrine cancers may respond to treatment with octreotide (Sandostatin) or lanreotide (Somatuline). These drugs may be able to slow or stop growth for some time. The tumors most likely to respond are the ones able to be seen on somatostatin receptor scintigraphy (imaging). Some other drugs known as targeted therapy that are helpful in treating pancreatic neuroendocrine cancers may be used as well. More information can be found in Chemotherapy for Pancreatic Cancer.
+More information about treatments for cancers that have spread can be found in Advanced Cancer.Some cancers of unknown primary can be treated effectively or even cured, but most are advanced cancers for which treatments are unlikely to provide long-term benefits. It’s very important that people with advanced cancer of unknown primary (CUP) are aware that even if the cancer can’t be cured, there are treatments available to help prevent or relieve pain and other symptoms. Many patients with CUP may benefit from palliative care as part of their treatment plan. Palliative care includes supportive care managed by your care team, such as relief from symptoms, pain, and stress. It’s meant to improve quality of life for patients and their families. Treatment to control the cancer may also be included in a supportive care plan. More information can be found in Advanced Cancer.
+Pain is a significant concern for patients with cancer of unknown primary. There are proven ways to relieve pain due to cancer of unknown primary using a combination of medicines and, in some cases, surgical procedures. Patients should not hesitate to take advantage of these treatments, which means they must tell their doctors if they have pain. Otherwise the doctor can’t help. For most patients, treatment with morphine or drugs related to it (called opioids because they are related to opium) can reduce pain considerably while still allowing them to function well. For the treatment to be effective, the pain medicines must be given regularly on a schedule, not just when the pain becomes severe. Several long-acting forms of morphine and other long-acting opioid drugs have been developed that need only to be given once or twice a day.
+For more information on pain, what can be done about it, and how to keep track of it, see the Cancer-related Pain section of our website.For some people with cancer of unknown primary (CUP), treatment can remove or destroy the cancer. The end of treatment can be both stressful and exciting. You may be relieved to finish treatment, but it’s hard not to worry about cancer coming back. This is very common if you’ve had cancer.
+For other people, the cancer might never go away completely. Some people may get regular treatment with chemotherapy or targeted therapy or other treatments to try and help keep the cancer in check. Learning to live with cancer that does not go away can be difficult and very stressful.
+Life after CUP means returning to some familiar things and making some new choices.
+Follow-up care
+If you have completed treatment, your doctors will still want to watch you closely. It is very important to go to all of your follow-up appointments. During these visits, your doctors will ask questions about any problems you are having and may examine you and order lab or imaging tests to look for signs of cancer or treatment side effects. Almost any cancer treatment can have side effects. Some last for a few weeks to months, but others can last the rest of your life. This is the time for you to talk to your cancer care team about any changes or problems you notice and any questions or concerns you have.
+Most doctors recommend careful follow-up, with a physical exam and review of symptoms every 3 to 6 months for the first few years, then at least yearly after that. Lab tests might also be done. Scans are not usually needed at each visit, but should be done if there are any suspicious symptoms or physical findings.
+If you have had surgery, your health care team may suggest that you meet with a nutritionist, who can help you adjust to changes in your eating habits.
+Ask your doctor for a survivorship care plan
+Talk with your doctor about developing a survivorship care plan for you. This plan might include:
+
+A suggested schedule for follow-up exams and tests
+A schedule for other tests you might need in the future, such as early detection (screening) tests for other types of cancer, or tests to look for long-term health effects from your cancer or its treatment
+A list of possible late- or long-term side effects from your treatment, including what to watch for and when you should contact your doctor
+Diet and physical activity suggestions
+Reminders to keep your appointments with your primary care provider (PCP), who will monitor your general health care
+
+Nutrition
+Eating right can be hard for anyone, and may have gotten tougher during cancer treatment. If you have lost or are losing weight, or if you are having trouble eating, do the best you can. Eat what appeals to you. Eat what you can, when you can. You might find it helps to eat small portions every 2 to 3 hours until you feel better. Now is not the time to restrict your diet. Try to keep in mind that these problems usually improve over time. Your cancer team may refer you to a dietitian, an expert in nutrition who can give you ideas on how to fight some of the side effects of your treatment.
+
+Keeping health insurance and copies of your medical records
+Even after treatment, it’s very important to keep health insurance. Tests and doctor visits cost a lot, and even though no one wants to think of their cancer coming back, this could happen.
+At some point after your cancer treatment, you might find yourself seeing a new doctor who doesn’t know about your medical history. It’s important to keep copies of your medical records to give your new doctor the details of your diagnosis and treatment. Learn more in Keeping Copies of Important Medical Records.
+Can I lower my risk of my cancer progressing or coming back?
+If you have (or have had) cancer of unknown primary, you probably want to know if there are things you can do that might lower your risk of the cancer growing or coming back, such as exercising, eating a certain type of diet, or taking nutritional supplements. Unfortunately, it’s not yet clear if there are things you can do that will help. However, we do know that there are certain changes that can have positive effects on your health that can extend beyond your risk of cancer.
+Tobacco use has clearly been linked to some cancers, so not smoking might help reduce your risk. We don’t know for certain if this will help, but we do know that it can help improve your appetite and overall health. It can also reduce the chance of developing other types of cancer. If you want to quit smoking and need help, call the American Cancer Society at 1-800-227-2345. You can also learn more in How to Quit Smoking.
+About dietary supplements
+So far, no dietary supplements (including vitamins, minerals, and herbal products) have been shown to clearly help lower the risk of cancer progressing or coming back. This doesn’t mean that no supplements will help, but it’s important to know that none have been proven to do so.
+Dietary supplements are not regulated like medicines in the United States – they do not have to be proven effective (or even safe) before being sold, although there are limits on what they’re allowed to claim they can do. If you’re thinking about taking any type of nutritional supplement, talk to your health care team. They can help you decide which ones you can use safely while avoiding those that might be harmful.
+If the cancer comes back
+If the cancer does recur at some point, your treatment options will depend on where the cancer is located, what treatments you’ve had before, and your health.
+For more general information on recurrence, you may also want to see Understanding Recurrence.
+Could I get a second cancer after treatment? 
+People who’ve had a CUP can still get other cancers. In fact, CUP survivors are at higher risk for getting some other types of cancer. Learn more in Second Cancers After Cancer of Unknown Primary . 
+Getting emotional support
+Some amount of feeling depressed, anxious, or worried is normal when cancer is a part of your life. Some people are affected more than others. But everyone can benefit from help and support from other people, whether friends and family, religious groups, support groups, professional counselors, or others. Learn more in Life After Cancer.Cancer survivors can be affected by a number of health problems, but often their greatest concern is facing cancer again. If a cancer comes back after treatment it is called a recurrence. But some cancer survivors may develop a new, unrelated cancer later. This is called a second cancer. No matter what type of cancer you have had, it is still possible to get another (new) cancer, even after being treated for and surviving the first.
+In fact, certain types of cancer and cancer treatments can be linked to a higher risk of certain second cancers. Since the location where a cancer of unknown primary started is not known, survivors of cancer of unknown primary can get any type of second cancer.
+Follow-up after treatment
+After completing treatment for cancer, you should still see your doctor regularly and may have tests to look for signs the cancer has come back or spread. Experts do not recommend any additional testing to look for second cancers in patients without symptoms. Let your doctor know about any new symptoms or problems, because they could be caused by the cancer coming back or by a new disease or second cancer.
+Survivors of cancer of unknown primary should follow the  and stay away from tobacco products. Smoking increases the risk of many cancers.American Cancer Society guidelines for the early detection of cancer
+To help maintain good health, survivors should also:
+
+Get to and stay at a healthy weight
+Keep physically active and limit the time you spend sitting or lying down
+Follow a healthy eating pattern that includes plenty of fruits, vegetables, and whole grains, and limits or avoids red and processed meats, sugary drinks, and highly processed foods
+It's best not to drink alcohol. If you do drink, have no more than 1 drink per day for women or 2 per day for men
+
+These steps may also lower the risk of some cancers.
+See Second Cancers in Adults for more information about causes of second cancers.What is cancer of unknown primary (CUP)?
+Cancer can start any place in the body. It starts when cells in a certain area grow out of control and crowd out normal cells. This makes it hard for the body to work the way it should.
+Cancer is always named for the place where it started, called the primary site. Sometimes doctors can’t tell where a cancer may have started. When cancer is found in one or more places where it seems to have spread, but the site where it started is not known, it is called a cancer of unknown primary (CUP) or an occult primary cancer. This is a rare kind of cancer.
+Sometimes test results may lead to finding where some of these cancers started. Many times, the place the cancer started is never found. But, the main reason to look for the place where CUP started is to help decide on treatment. Knowing where a cancer started tells the doctor what types of treatments are best to use. 
+Are there different kinds of CUP?
+Even when doctors don’t know where the cancer started, they do their best to classify the type of cancer. They do this by looking at the cancer cells under a microscope in the lab.  This can help them know the best treatment to offer.
+ The kind of cancer cells in a CUP can vary.
+
+One type is called adenocarcinoma (AD-no-KAR-suh-NO-muh).
+Another kind is squamous cell carcinoma (skway-mus sell car-sin-O-mah).
+
+Your doctor can tell you more about the type you have.
+Questions to ask the doctor
+
+Why do you think I have cancer?
+Is there a chance I don’t have cancer?
+Would you please write down the kind of cancer you think I might have?
+What will happen next?
+
+How does the doctor know I have CUP?
+Tests that may be done
+The symptoms of CUP can be different and depend on what organs it has spread to. Some abnormal things you might want to have checked out are:
+
+a lump on your skin
+a lump in your neck, under your arms, or in your groin area
+a feeling of fullness in your belly
+shortness of breath
+pain in the chest or belly
+pain in your bones.
+
+Your doctor can help find the reason for these symptoms by asking you questions about your health and physically examining you. The doctor might order blood tests and possibly imaging tests. Here are some of the tests you may need:
+Lab tests: Lab tests offer details about your health. They can be used to find problems and guide treatment.
+CT or CAT scan: Uses x-rays to take detailed pictures of your insides. This can show the size of the cancer and its spread.
+MRI scan: Uses radio waves and strong magnets instead of x-rays to make detailed pictures. This test can show more about the size of the cancer and its spread.
+PET scan: Uses a special kind of sugar that can be seen inside your body with a special camera. If there is cancer, this sugar shows up as “hot spots” where the cancer is found. This test can help show if the cancer has spread.
+Biopsy: In a biopsy, the doctor takes out a small piece of tissue where the cancer seems to be. The tissue is checked for cancer cells. A biopsy is the only way to tell for sure if you have cancer.
+Questions to ask the doctor
+
+What tests will I need to have?
+Who will do these tests?
+Where will they be done?
+Who can explain them to me?
+How and when will I get the results?
+Who will explain the results to me?
+What do I need to do next?
+
+How serious is my cancer?
+The doctor will want to try to find out where the cancer started and how far it has spread. This is called staging. The stage describes the growth or spread of the cancer through the body. You might have heard other people say that their cancer was stage 1 or stage 2. Your doctor will want to find out the stage of your CUP to help decide what type of treatment is best for you.
+ Since it is not known where the cancer started, it is difficult to stage CUP. Because of this, all CUPs are at least a stage 2, and most of them are stage 3 or 4.
+Questions to ask the doctor
+
+Do you know the stage of the cancer?
+If not, how and when will you find out the stage of the cancer?
+Would you explain to me what my cancer's stage means?
+Based on the stage of the cancer, how long do you think I’ll live?
+What will happen next?
+
+What kind of treatment will I need?
+There are many ways to treat cancer. Treatment for CUP may include:
+
+Surgery
+Radiation
+Chemo
+Hormone therapy
+Targeted therapy
+Other drugs
+
+Surgery
+Surgery may be part of the treatment for CUP if it can be done. There are different kinds of surgery. The type that’s best for you depends on the kind of cancer, how big it is, and where it is. Ask your doctor what kind of surgery you will have and what to expect.
+Side effects of surgery
+Any type of surgery can have risks and side effects. Be sure to ask the doctor what you can expect. If you have problems, let your doctors know. Doctors who treat people with CUP should be able to help you with any problems that come up.
+Radiation
+Radiation uses high-energy rays (like x-rays) to kill cancer cells. It can be aimed at the cancer from a machine outside the body. This is called external beam radiation.
+Side effects of radiation treatments
+If your doctor suggests radiation treatment, talk about what side effects might happen. Side effects depend on the type of radiation that’s used. The most common side effects of radiation are:
+
+Skin changes where the radiation is given
+Feeling very tired
+Nausea and vomiting
+Diarrhea
+
+Most side effects get better after treatment ends. Some might last longer. Talk to your cancer care team about what you can expect.
+Chemo
+Chemo is the short word for chemotherapy – the use of drugs to fight cancer. The drugs may be given into a vein or taken as pills. These drugs go into the blood and spread through the body. Chemo is given in cycles or rounds. Each round of treatment is followed by a break. Most of the time, 2 or more chemo drugs are given. Treatment often lasts for many months. Chemo can be given before or after surgery. It can also be given together with radiation. Ask your doctor what to expect.
+Side effects of chemo
+Chemo can make you feel very tired, sick to your stomach, have diarrhea, mouth sores, and cause your hair to fall out. But these problems go away after treatment ends. There are ways to treat most chemo side effects. If you have side effects, be sure to talk to your cancer care team so they can help.
+Targeted therapy
+Targeted therapy drugs are newer treatments that may be used for some types of CUP. These drugs affect mainly cancer cells and not normal cells in the body. They may work even if other treatment doesn’t. These drugs have side effects different from chemo and they are often not as bad.
+Other drugs
+Immunotherapy is treatment that boosts the immune system or uses man-made parts of the immune system to help fight off or kill cancer cells. (The immune system is how the body resists and fights germs and some kinds of cancer.) These drugs may be given into a vein or as a shot under the skin.
+Side effects of immunotherapy
+Immunotherapy effects depend on which drug is used. These drugs can often make you feel tired, sick to your stomach, and can cause fever, chills, and rashes. Most of these problems go away after treatment ends. There are ways to treat most of the side effects caused by immunotherapy. If you have side effects, talk to your cancer care team so they can help.
+Clinical trials
+Clinical trials are research studies that test new drugs or other treatments in people. They compare standard treatments with others that may be better. Clinical trials are one way to get the newest cancer treatment. They are the best way for doctors to find better ways to treat cancer. If your doctor can find one that’s studying the kind of cancer you have, it’s up to you whether to take part. And if you do sign up for a clinical trial, you can always stop at any time. Clinical trials are one way to get the newest cancer treatment.
+If you would like to be in a clinical trial, start by asking your doctor if your clinic or hospital takes part in clinical trials.
+What about other treatments that I hear about?
+When you have cancer you might hear about other ways to treat the cancer or treat your symptoms. These may not always be standard medical treatments. These treatments may be vitamins, herbs, special diets, and other things. You may wonder about these treatments.
+Some of these are known to help, but many have not been tested. Some have been shown not to help. A few have even been found to be harmful. Talk to your doctor about anything you’re thinking about using, whether it’s a vitamin, a diet, or anything else.
+Questions to ask the doctor
+
+What treatment do you think is best for me?
+What’s the goal of this treatment? Do you think it could cure the cancer?
+Will treatment include surgery? If so, who will do the surgery?
+What will the surgery be like?
+Will I need other types of treatment, too?
+What’s the goal of these treatments?
+What side effects could I have from these treatments?
+What can I do about side effects that I might have?
+Is there a clinical trial that might be right for me?
+What about special vitamins or diets that friends tell me about? How will I know if they are safe?
+How soon do I need to start treatment?
+What should I do to be ready for treatment?
+Is there anything I can do to help the treatment work better?
+What’s the next step?
+
+What will happen after treatment?
+You’ll be glad when treatment is over. For years after treatment ends, you will see your cancer doctor. Be sure to go to all of the follow-up visits. During these visits, they will ask about symptoms and examine you. Lab tests, imaging tests, and endoscopy may be done depending on your symptoms. Follow-up is needed to watch for treatment side effects and to check for cancer that has come back or spread.
+At first, your visits may be every 3 to 6 months. Then, the longer you’re cancer-free, the less often the visits are needed. After 5 years, they may happen once a year.
+Having cancer and dealing with treatment can be hard, but it can also be a time to look at your life in new ways. You might be thinking about how to improve your health. Call us at 1-800-227-2345 or talk to your cancer care team to find out what you can do to feel better.
+You can’t change the fact that you have cancer. What you can change is how you live the rest of your life – making healthy choices and feeling as good as you can.

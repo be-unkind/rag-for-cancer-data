@@ -1,0 +1,590 @@
+Waldenstrom macroglobulinemia (WM) is a type of non-Hodgkin lymphoma (NHL). The cancer cells make large amounts of an abnormal protein (called a macroglobulin). Another name for WM is lymphoplasmacytic lymphoma. This condition used to be called Waldenstrom’s macroglobulinemia, so some people refer to it as Waldenstrom’s.
+To understand WM, it helps to know about the functions of lymphoid tissue in the body.
+Lymphoid tissue and the immune system
+Lymphoid tissue is made up several types of immune system cells that work together to help the body resist infections. Lymphoid tissue is found in many places in the body:
+
+Lymph nodes, which are pea-sized collections of immune system cells throughout the body, including in the underarm area, in the groin, on the sides of the neck, and inside the chest and abdomen
+Bone marrow, the soft inner part of certain bones where new blood cells are made
+The thymus, a small organ behind the chest bone and in front of the heart
+The spleen, an organ on the left side of the abdomen next to the stomach
+The tonsils and adenoids in the throat
+Throughout body systems like the digestive system and respiratory system
+
+Lymphocytes (lymph cells) are the main cells of lymphoid tissue. The 2 main types of lymphocytes are:
+
+B lymphocytes (B cells) respond to an infection by changing into a different type of cell called a plasma cell. Plasma cells make proteins called antibodies (also called immunoglobulins) that help the body attack and kill disease-causing germs like bacteria.
+T lymphocytes (T cells) help direct immune responses, but they also can kill invading germs directly.
+
+Waldenstrom macroglobulinemia
+WM is a cancer that starts in B cells. The cancer cells in people with WM are similar to those of 2 other types of cancer: multiple myeloma and non-Hodgkin lymphoma. Multiple myeloma is considered a cancer of plasma cells, and non-Hodgkin lymphoma is a cancer of lymphocytes. WM cells have features of both plasma cells and lymphocytes and are called lymphoplasmacytoid.
+WM cells make large amounts of a certain type of antibody (immunoglobulin M, or IgM), which is known as a macroglobulin. Each antibody (protein) made by the WM cells is the same, so it is called a monoclonal protein, or just an M protein. The buildup of this M protein in the body can lead to many of the symptoms of WM, including excess bleeding, problems with vision, and nervous system problems.
+The WM cells grow mainly in the bone marrow, where they can crowd out the normal cells that make the different types of blood cells. This can lead to low levels of red blood cells (called anemia), which can make people feel tired and weak. It can also cause low numbers of white blood cells, which makes it hard for the body to fight infection. The numbers of platelets in the blood can also drop, leading to increased bleeding and bruising.
+Lymphoma cells can also grow in organs like the liver and spleen, causing these organs to swell and leading to abdominal pain. (For more on the symptoms of WM, see Signs and Symptoms of Waldenstrom Macroglobulinemia.)Waldenstrom macroglobulinemia (WM) is rare, with an incidence rate of about 3 cases per million people per year in the United States. About 1,000 to 1,500 people are diagnosed with WM each year in the United States.
+WM is more common in men than it is in women , and it is much more common among White people than Black people.
+There are few cases of WM in younger people, but the chance of developing this disease goes up as people get older. The average age of people when they are diagnosed with WM is 70 .
+Statistics on survival are discussed in Survival Rates for Waldenstrom Macroglobulinemia.Research into the causes, prevention, and treatment of Waldenstrom macroglobulinemia (WM) is being done in many medical centers throughout the world.
+Genetics
+Scientists are making great progress in understanding how changes in the DNA inside normal lymphocytes can cause them to develop into WM cells. For example, in most people with WM, the cancer cells have been found to have changes in the MYD88 gene. In a smaller percentage of people, the WM cells have changes in the CXCR4 gene. Changes in these genes have been linked with a greater chance of WM causing symptoms and requiring treatment, and they seem to affect survival as well.
+Researchers are now looking to develop drugs that can target cells with these gene changes. Some of these drugs are now in early clinical trials.
+Chemotherapy and targeted therapy drugs
+Many new drugs to treat WM are being studied in clinical trials, as well as ways to use drugs already known to be effective by combining them in new ways, using different doses, or different sequences of drugs, one after another.
+Some of the newer types of drugs that have shown promise or are being tested in WM include:
+
+mTOR inhibitors, such as temsirolimus (Torisel)
+Proteasome inhibitors, such as ixazomib (Ninlaro), carfilzomib (Kyprolis), and oprozomib
+Histone deacetylase (HDAC) inhibitors, such as panobinostat (Farydak), romidepsin (Istodax), and belinostat (Beleodaq)
+Bruton tyrosine kinase (BTK) inhibitors, such as acalabrutinib (Calquence) and spebrutinib
+PI3K inhibitors, such as idelalisib (Zydelig) and buparlisib (BKM120)
+Aurora kinase inhibitors, such as alisertib
+BCL-2 inhibitors, such as venetoclax (Venclexta)
+CXCR4 antibodies, such as ulocuplumab
+
+Bone marrow and peripheral blood stem cell transplant
+Researchers are continually improving bone marrow and peripheral blood stem cell transplant methods, as well as trying to determine how helpful this type of treatment can be for people with WM.
+Vaccines
+Doctors know it is possible for people with cancer to develop immune responses to their cancer. In rare instances, people’s immune systems have rejected their cancers, and they have been cured. Scientists are now studying ways to boost this immune reaction by using vaccines.
+Unlike vaccines used to prevent infections, these vaccines create an immune reaction against the lymphoma cells in patients who have very early disease or whose disease is in remission but could come back or relapse. This is a major area of research in treating lymphomas (including WM), but it is still being tested in clinical trials. You might want to consider enrolling in one of these studies.A risk factor is anything that affects your chance of getting a disease such as cancer. Different cancers have different risk factors. Some cancer risk factors, like smoking, can be changed. Others, like a person’s age or family history, can’t be changed.
+Researchers have found a few risk factors that make a person more likely to develop Waldenstrom macroglobulinemia (WM). But most people with these risk factors never develop WM.
+Monoclonal gammopathy of undetermined significance (MGUS)
+Monoclonal gammopathy of undetermined significance (MGUS) is an abnormality of antibody-making cells that is related to multiple myeloma and WM. In MGUS, like WM and multiple myeloma, abnormal cells in the bone marrow make large amounts of one particular antibody. This antibody is called a monoclonal (or M) protein, and the condition is called a monoclonal gammopathy.
+
+As long as the patient has no symptoms from the abnormal cells or the M protein they make, the abnormal cells make up less than 10% of the bone marrow, and the amount of abnormal M protein in the blood is not very high (less than 3 g/dl), this condition is called MGUS.
+MGUS itself does not cause health problems, but each year about 1% to 2% of people with MGUS go on to develop a related cancer (like multiple myeloma, WM, or lymphoma) or another serious health problem (like amyloidosis).
+
+Age
+The risk of WM goes up with age. It is rare among people younger than 50 years old.
+Race
+WM is more common among White people than among African Americans. In contrast, multiple myeloma is about twice as common among African Americans as White Americans. The reasons for these differences are not known.
+Sex
+Men are more likely than women to develop this disease. The reason for this is not known.
+Heredity
+Inherited genes seem to play a role in at least some people who get WM. About 1 in 5 people with WM has a close relative with WM or with a related B-cell disease, such as MGUS or certain types of lymphoma or leukemia.
+Hepatitis C
+Hepatitis C is caused by infection with a virus (known as the hepatitis C virus, or HCV). Some studies have found that people with chronic hepatitis C infection might be more likely to develop WM than people without the virus. But not all studies have found such a link.
+Certain autoimmune diseases
+Some research has suggested that people with certain types of autoimmune disease, such as Sjögren (Sjogren) syndrome, might be at higher risk for WM.Some risk factors can make a person more likely to get Waldenstrom macroglobulinemia (WM), but often it’s not clear exactly how these factors might increase risk.
+Scientists have learned how certain changes in the DNA inside normal lymphocytes can make them become lymphoma or multiple myeloma cells. Changes in the DNA of some lymphoma cells can also cause them to make high levels of IgM, which leads to most of the symptoms of WM.
+The DNA inside our cells makes up our genes – the instructions for how our cells function. We tend to look like our parents because they are the source of our DNA. But DNA affects more than how we look.
+
+Some genes control when cells grow, divide to make new cells, and die at the right time. They are called oncogenes.
+Other genes slow down cell division or make cells die at the right time. They are called tumor suppressor genes.
+
+Cancers can be caused by DNA changes that turn on oncogenes or turn off tumor suppressor genes.
+Some people inherit DNA changes from a parent that increase their risk for certain types of cancer. Researchers are studying families that have many cases of WM to try to find the genes that might cause this disorder in some people.
+The DNA changes found in WM cells are usually acquired after birth (not passed on from a parent). Some of these acquired changes may have outside causes, but often they occur for no apparent reason. They seem to happen more often as we age, which might help explain why WM usually occurs in older people.
+Recent research has found that about 9 times out of 10, WM cells have a mutation (change) in a gene known as MYD88, which normally helps immune system cells signal each other and helps keep them alive. The DNA change in this gene might make it stay turned on all the time, which might help the WM cells survive longer than they should.
+Sometimes, WM cells have other kinds of DNA changes. In each human cell, the DNA is packaged in 23 pairs of chromosomes. In some WM cells, a piece of a chromosome is missing. This is called a deletion. The most common chromosome defect seen in WM is a deletion of part of chromosome 6. It’s not clear exactly which genes this might affect.
+Another type of chromosome defect in WM is called a translocation. In a translocation, a piece of one chromosome becomes attached to a different chromosome. Chromosome changes like these can cause oncogenes to be turned on or tumor suppressor genes turned off.
+Researchers have found that some patients with WM have important changes or defects in other bone marrow cells. These changes might also help cancer cells grow. Certain cells in the bone marrow called dendritic cells release a hormone called interleukin-6 (IL-6) that helps normal plasma cells and plasmacytoid lymphocytes grow. Excess IL-6 production by these cells appears to be an important factor in the development of WM.
+Scientists are learning about the exact gene changes that cause WM. But even though they have found some of these gene changes, they still do not know why these changes occur.Most of the risk factors for Waldenstrom macroglobulinemia (WM), such as older age or monoclonal gammopathy of undetermined significance (MGUS), can’t be changed or controlled, so there is no way to prevent cancers that might be related to these risk factors.
+Some research suggests that people with hepatitis C might be more likely to develop WM. There is currently no vaccine to prevent hepatitis C, but there are ways to lower your risk of getting it, such as avoiding known risk factors like injection drug use or unprotected sex with many partners. Hepatitis C can also be treated effectively in many cases, although it’s not known how this might affect a person’s risk of WM.Waldenstrom macroglobulinemia (WM) is not common, and at this time there are no widely recommended screening tests to look for this disease in people without symptoms.
+Still, many cases of WM are found early, either when people go to the doctor because of symptoms they are having, or when they have blood tests done for other reasons. The best way to find this cancer early is to see your doctor if you have signs or symptoms that might be caused by this disease.Sometimes, Waldenstrom macroglobulinemia (WM) isn’t causing any symptoms when it’s first found. Instead, it’s found when the person has blood tests done for some other reason. WM found this way is sometimes called asymptomatic or smoldering WM.
+When WM does cause symptoms, some of them can be like those seen with other types of non-Hodgkin lymphoma (NHL). For example, weight loss, fever, night sweats, and swollen lymph nodes can be seen in many types of NHL.
+Other WM symptoms are caused by the large amounts of abnormal IgM antibody (M protein) made by the cancer cells:
+
+In hyperviscosity syndrome, too much of the M protein in the blood can cause it to become too “thick.” (This is not the kind of thickness that can be treated with drugs known as blood thinners.) When the blood gets too thick, it has trouble moving through blood vessels. This can cause problems such as poor circulation to the brain, which can lead to symptoms like those from a stroke.
+If the M protein only thickens the blood in cooler parts of the body (like in the tip of the nose, ears, fingers, and toes), it is called a cryoglobulin. Cryoglobulins can cause pain or other problems in these areas if a person is exposed to cooler temperatures.
+A condition called amyloidosis can occur when a part of the IgM antibody (called the light chain) builds up in organs like the heart and kidneys. This buildup can lead to heart and kidney problems.
+
+Not all people with WM develop hyperviscosity, cryoglobulins, or amyloidosis.
+Common symptoms of WM
+Weakness: This is one of the most common symptoms of WM. It can be caused by anemia (too few red blood cells), which can happen when the WM cells crowd out normal cells in the bone marrow. Some people also feel weak when the blood thickens from the buildup of the abnormal protein.
+Loss of appetite: Some people with WM lose their appetite.
+Fever, sweats, weight loss: WM, like other lymphomas, can cause fevers (without an infection), drenching night sweats, and weight loss (without trying). These are called B symptoms.
+Neuropathy: In some people with WM, the abnormal antibody can attack and damage nerves outside the brain. This can lead to numbness or a painful “pins and needles” sensation in the feet and legs, which is called neuropathy.
+Less common signs and symptoms of WM
+Enlarged lymph nodes: These usually appear as lumps under the skin around the neck, in the groin, or in the armpits. Enlarged lymph nodes are usually about 1 or 2 inches (2.5-5 cm) across. They are seen less often in WM than in most other lymphomas.
+Swollen abdomen (belly): WM can sometimes make the spleen or liver bigger, making the belly look swollen. In the upper part of the abdomen, the liver is on the right and the spleen on the left. When the spleen gets larger, it can press on the stomach, which makes people feel full when they eat even a small amount.
+Circulation system symptoms: In hyperviscosity syndrome, the thickened blood causes poor brain circulation, leading to problems like headache, confusion, and dizziness. It can also cause symptoms like those seen with a stroke, including slurred speech and weakness on one side of the body. Patients with these symptoms should contact their doctor right away.
+Abnormal bleeding: High levels of abnormal antibody can damage blood vessels, which can lead to problems like nosebleeds and bleeding gums.
+Vision problems: Bleeding around the small blood vessels inside the eyes or poor circulation in these vessels caused by thickened blood might lead to blurred vision or blind spots.
+Kidney problems: High levels of the M protein can damage the kidneys directly or through the development of amyloidosis. When the kidneys don’t work well, excess salt, fluid, and body waste products stay in the blood. This can cause symptoms like weakness, trouble breathing, and fluid buildup in body tissues.
+Heart problems: High levels of the M protein can damage heart tissue directly or through the development of amyloidosis, in which the protein builds up in the heart muscle. This weakens the heart, affecting its ability to pump blood. In addition, because the blood of people with WM is thicker than normal, their hearts have to work harder to pump blood throughout the body. This strain can wear down the heart muscle, leading to a condition called congestive heart failure. Symptoms can include heart palpitations, feeling tired and weak, cough, shortness of breath, rapid weight gain, and swelling in the feet and legs.
+Infections: The high levels of abnormal antibody in WM can slow the body’s normal antibody production. This makes it harder for the body to fight infections.
+Digestive symptoms: In some people with WM, the buildup of the M protein in the intestines can lead to problems such as diarrhea, poor absorption of vitamins, or gastrointestinal bleeding (seen as blood in the stools or dark stools).
+Sensitivity to cold: In people with cryoglobulins, exposure to cold temperatures can lead to pain, itching, a bluish color, or even sores on the tip of the nose, ears, fingers, or toes due to reduced blood flow to these areas.Waldenstrom macroglobulinemia (WM) is often found when a person goes to see their doctor because of symptoms they are having, or because they just don’t feel well and go in for a checkup. Sometimes it’s found in people without symptoms when they have blood tests done for some other reason.
+If signs or symptoms suggest that a person might have WM, exams and tests will be done to be sure. The most important tests will look for abnormal proteins in the blood and abnormal cells in the bone marrow. Because WM is a type of lymphoma, like other lymphomas it can invade the bone marrow, lymph nodes, and other organs.
+Medical history and physical exam
+Your doctor will want to get a thorough medical history, including information about your symptoms, possible risk factors, family history, and other medical conditions.
+Next, the doctor will examine you, paying special attention to your lymph nodes and other areas of your body that might be involved, including the eyes, nerves, spleen, and liver. The doctor might also look for signs of infection, which can cause many of the same symptoms.
+If the doctor suspects that WM (or another type of lymphoma) might be causing your symptoms, the next step probably will be to order blood tests. You might also be referred to a hematologist, a doctor who specializes in diseases of the blood, or an oncologist, a doctor who specializes in cancer.
+Lab tests
+WM might be suspected if your doctor finds you have low blood cell counts or unusual protein levels on blood tests. If so, your doctor may order a blood test called serum protein electrophoresis to find out what the abnormal proteins are. It is usually only after these tests are done that a biopsy of either the bone marrow or a lymph node is considered.
+Blood cell counts
+The complete blood count (CBC) is a test that measures the levels of red blood cells, white blood cells, and platelets. If lymphoma cells occupy too much of the bone marrow, these blood levels may be low.
+Immunoglobulin levels
+This test measures the levels of the different antibodies (immunoglobulins) in the blood – IgA, IgE, IgG, and IgM – to see if any are abnormally high or low. In WM the level of IgM is high but the IgG level is often low.
+Electrophoresis
+The abnormal immunoglobulin made in WM is an IgM antibody. This antibody is monoclonal, meaning that it is many copies of the exact same antibody. Serum protein electrophoresis (or SPEP) is a test that measures the total amount of immunoglobulins in the blood and finds any monoclonal immunoglobulin. Another test, such as immunofixation electrophoresis, is then used to determine the type of antibody that is abnormal (IgM or some other type).
+Finding a monoclonal IgM antibody in the blood is needed to diagnose WM. This abnormal protein in WM is known by many different names, including monoclonal immunoglobulin M, IgM protein, IgM spike, IgM paraprotein, M protein, and M-spike. High levels of other types of monoclonal immunoglobulins, like IgA or IgG, are seen in different disorders (like multiple myeloma and some other lymphomas).
+Sometimes pieces of the IgM protein are excreted by the kidneys into the urine. These proteins can be detected with a test called urine protein electrophoresis (or UPEP).
+Viscosity
+Viscosity is a measure of how thick the blood is. If the IgM level is too high, the blood will become thick (viscous) and can’t flow freely (think about pouring honey compared to pouring water).
+Cryocrit
+This test measures the blood levels of cryoglobulins (proteins that clump together in cool temperatures and can block blood vessels).
+Cold agglutinins
+Cold agglutinins are antibodies that attack and kill red blood cells, especially at cooler temperatures. These dead cells can then build up and block blood vessels. A blood test can be used to detect these antibodies.
+Beta-2 microglobulin (β2M)
+This test measures another protein made by the cancer cells in WM. This protein itself doesn’t cause any problems, but it’s a useful indicator of a patient’s prognosis (outlook). High levels of β2M are linked with a worse outlook.
+Biopsies
+The symptoms of WM and non-Hodgkin lymphoma (NHL) are not distinctive enough for a doctor to know for certain if a person has one of them, based on symptoms alone. Most symptoms can also be caused by non-cancerous problems like infections or by other kinds of cancers. Blood tests can help point to the correct diagnosis, but a biopsy (removing samples of affected tissue to look at under a microscope) is the only way to be sure. Several types of biopsies might be used.
+Bone marrow aspiration and biopsy
+This is the most important type of biopsy for WM, and is needed to confirm the diagnosis. It can be done at the doctor’s office or at the hospital.
+The bone marrow aspiration and biopsy are usually done at the same time. The samples are taken from the back of the pelvic (hip) bone, although in some cases they may be taken from the sternum (breast bone) or other bones.
+
+In bone marrow aspiration, you lie on a table (either on your side or on your belly). The doctor cleans the skin over the hip and then numbs the area and the surface of the bone by injecting a local anesthetic. This may briefly sting or burn. A thin, hollow needle is then inserted into the bone, and a syringe is used to suck out a small amount of liquid bone marrow. Even with the anesthetic, most patients still have some brief pain when the marrow is removed.
+A bone marrow biopsy is usually done just after the aspiration. A small piece of bone and marrow is removed with a slightly larger needle that is pushed down into the bone. This may also cause some brief pain.
+
+Once the biopsy is done, pressure is applied to the site to help stop any bleeding. There will be some soreness in the biopsy area when the numbing medicine wears off. Most patients can go home right after the procedure.
+The bone marrow samples are then sent to a lab, where they are tested to see if they have lymphoma cells (see below). For a diagnosis of WM, at least 10% of the cells in the bone marrow must be lymphoplasmacytoid lymphoma cells.
+Fine needle aspiration (FNA) biopsy
+In an FNA biopsy, the doctor uses a very thin, hollow needle with a syringe to withdraw a small amount of tissue from a tumor or lymph node. This type of biopsy is useful for sampling lymph nodes to see if they are enlarged because of cancer or an infection. FNA can help diagnose some lymphomas, but WM is usually diagnosed with a bone marrow biopsy.
+For an FNA on an enlarged node near the surface of the body, the doctor can aim the needle while feeling the node. If the enlarged node (or tumor) is deep inside the body, the needle can be guided while it is seen on a computed tomography (CT) scan or ultrasound (see the descriptions of imaging tests later in this section).
+The main advantage of FNA is that it does not require surgery and can often be done in a doctor’s office. The main drawback is that in some cases it might not get enough tissue to make a definite diagnosis of lymphoma. However, advances in lab tests (discussed later in this section) and the growing experience of many doctors with FNA have improved the accuracy of this procedure.
+Excisional or incisional biopsy
+For these types of biopsies, a surgeon cuts through the skin to remove an entire lymph node or tumor (excisional biopsy) or just a small part of a large tumor or lymph node (incisional biopsy). These biopsies are rarely needed in people with WM because the diagnosis is usually made with a bone marrow biopsy. They are used more often for other types of lymphoma.
+If the area to be biopsied is near the skin surface, this can be done using local anesthesia (numbing medicine). If the area is inside the chest or abdomen, general anesthesia or deep sedation is used (where the patient is asleep). These types of biopsies almost always provide enough tissue to diagnose the exact type of lymphoma.
+Fat pad fine needle aspiration
+This type of biopsy may be used in some people with WM to check for amyloid. In this procedure, a thin, hollow needle with a syringe attached is inserted into an area of fat (usually under the skin of the abdomen/belly). A small amount of fat is removed and sent to the lab for testing.
+Lab tests on biopsy specimens
+All biopsy specimens are looked at in the lab by a pathologist – a doctor with special training in using lab tests to diagnose diseases. In some cases, a hematopathologist, a doctor with further training in diagnosing blood and lymph node diseases, might also look at the biopsy. The doctors look at the size and shape of the cells and how they are arranged. Sometimes just looking at the cells doesn’t provide a clear answer, so other lab tests are needed.
+Immunohistochemistry
+In this test, a part of the biopsy sample is treated with special man-made antibodies that attach to cells only if they contain specific proteins. These antibodies cause color changes in the cells, which can be seen with a microscope. This test may help tell different types of lymphoma from one another and from other diseases.
+Flow cytometry
+In this test, cells are treated with special man-made antibodies. Each antibody sticks only to certain types of cells. The cells are then passed in front of a laser beam. If the cells now have antibodies attached to them, the laser will make them give off light, which is measured and analyzed by a computer.
+This is the most common test for immunophenotyping – classifying lymphoma cells according to the proteins (antigens) on their surfaces. Different types of lymphocytes have different antigens on their surface. These antigens also change as each cell matures.
+This test can help show if a lymph node is swollen because of lymphoma, some other cancer, or a non-cancerous disease. It has become very important in helping doctors determine the exact type of lymphoma so they can select the best treatment.
+Cytogenetics
+Doctors use this technique to look at the chromosomes (long strands of DNA) inside lymphoma cells. Cells (usually from the bone marrow) are first grown in the lab. Then the chromosomes are stained and looked at closely. Because it takes time for the cells to start dividing, this test can take a few weeks.
+In some lymphomas, the cells may have too many chromosomes, too few chromosomes, missing parts of chromosomes (called deletions), or other abnormalities. These changes can help identify the type of lymphoma.
+Molecular genetic tests
+Molecular tests such as fluorescent in situ hybridization (FISH) and polymerase chain reaction (PCR) are not usually needed to diagnose WM, but they are sometimes used to diagnose other types of NHL. These tests look at the cells’ DNA without having to grow the cells in the lab first. The tests can give results in less time than cytogenetics and can be done on cells from different sources (like lymph nodes, blood, and bone marrow). They are generally used to look for specific chromosome or gene changes, not just any change.
+More testing information
+See Testing Biopsy and Cytology Specimens for Cancer to learn more about tests used to diagnose cancer and what the results can tell you.
+Imaging tests
+Imaging tests use x-rays, magnetic fields, sound waves, or radioactive particles to produce pictures of the inside of the body. These tests are not needed to diagnose WM, but one or more of them might be done to help show how much disease and where it is in the body.
+Chest x-ray
+An x-ray might be done to look at the chest for enlarged lymph nodes.
+Computed tomography (CT) scan
+The CT scan is an x-ray that makes detailed cross-sectional images of your body. Unlike a regular x-ray, CT scans can show the detail in soft tissues (such as internal organs). This scan can help show if any lymph nodes or organs in your body are enlarged. CT scans are useful for looking for signs of lymphoma in the chest, abdomen, and pelvis.
+CT-guided needle biopsy: CT scans can also be used to guide a biopsy needle into a suspicious area. For this procedure, the patient lies on the CT scanning table while the doctor moves a biopsy needle through the skin and toward the area. CT scans are repeated until the needle is in the right place. A biopsy sample is then removed and sent to the lab.
+Magnetic resonance imaging (MRI) scan
+This test is rarely used in WM, but if your doctor is concerned about the brain or spinal cord, MRI is very useful for looking at these areas.
+Ultrasound
+Ultrasound can be used to look at lymph nodes near the surface of the body or to look inside your abdomen for enlarged lymph nodes or organs such as the liver, spleen, and kidneys. (It can’t be used to look at organs or lymph nodes in the chest because the ribs block the sound waves.) It is sometimes used to help guide a biopsy needle into an enlarged lymph node.
+Positron emission tomography (PET) scan
+A PET scan can be helpful in spotting small collections of cancer cells. It is even more valuable when combined with a CT scan (PET/CT scan).
+PET scans also can help tell if an enlarged lymph node contains lymphoma or not. It can help spot small areas that might be lymphoma, even if the area looks normal on a CT scan. These tests can be used to tell if a lymphoma is responding to treatment. They can also be used after treatment to help decide whether an enlarged lymph node still contains lymphoma or is merely scar tissue.For most types of cancer, determining the stage is very important. The stage of a cancer describes how much cancer is in the body. It helps determine how serious the cancer is and how best to treat it. Doctors also use a cancer's stage when talking about survival statistics.
+There is no standard staging system for Waldenstrom macroglobulinemia (WM) based on the extent of the disease in the body because this hasn’t been shown to be important when looking at outcomes or deciding on treatment.
+Instead, doctors look at other factors, such as age, blood cell counts, the amount of immunoglobulin (IgM) in the blood, and the level of another protein in the blood called beta-2 microglobulin (β2M). People with lower levels of IgM and β2M tend to do better than those with higher levels. People with WM who are older, are anemic (based on a low blood hemoglobin level), or have a low blood platelet count tend to have a poorer outlook.
+Experts have used these factors to develop a system that helps predict prognosis (outlook) for patients with WM. It is called the International Prognostic Scoring System for Waldenstrom Macroglobulinemia (ISSWM). This system takes into account the factors that seem to predict a poorer outcome, such as:
+
+Older than 65
+Blood hemoglobin level 11.5 g/dL or less
+Platelet count 100,000/mcL or less
+Beta-2 microglobulin more than 3 mg/L
+Monoclonal IgM level more than 7 g/dL
+
+Except for age, each of these factors is worth a single point. The points are added to make a score, which is used to divide patients into 3 risk groups:
+
+The low-risk group includes patients 65 or younger who have no more than 1 point.
+The intermediate-risk group includes those who are older than 65 with 2 or fewer points, and those younger than 65 who have 2 points.
+The high-risk group includes those of any age who have at least 3 points.
+
+These groups can be used to help predict survival (discussed in more detail in Survival Rates for Waldenstrom Macroglobulinemia).Survival rates are often used by doctors as a way of discussing a person’s outlook. 
+Survival rates tell you what percentage of people with the same type and stage of cancer are still alive a certain length of time (usually 5 years) after they were diagnosed. These numbers can’t tell you how long you will live, but they may help give you a better understanding about how likely it is that your treatment will be successful.
+What is a 5-year survival rate?
+Statistics on the outlook for a certain type and stage of cancer are often given as 5-year survival rates, but many people live longer – often much longer – than 5 years. The 5-year survival rate is the percentage of people who live at least 5 years after being diagnosed with cancer. For example, a 5-year survival rate of 90% means that an estimated 90 out of 100 people who have that cancer are still alive 5 years after being diagnosed.
+Relative survival rates are a more accurate way to estimate the effect of cancer on survival. These rates compare people with cancer to people in the overall population. For example, if the 5-year relative survival rate for a specific type and stage of cancer is 90%, it means that people who have that cancer are, on average, about 90% as likely as people who don’t have that cancer to live for at least 5 years after being diagnosed.
+But remember, survival rates are estimates – your outlook can vary based on a number of factors specific to you.
+Cancer survival rates don’t tell the whole story
+Survival rates are often based on previous outcomes of large numbers of people who had the disease, but they can’t predict what will happen in any particular person’s case. There are a number of limitations to remember:
+
+The numbers below are among the most current available. But to get 5-year survival rates, doctors look at people who were treated at least 5 years ago. As treatments are improving over time, people who are now being diagnosed with Waldenstrom Macroglobulinemia may have a better outlook than these statistics show.
+The statistics below are based on the stage of the cancer when it was first diagnosed. In the case of Waldenstrom Macroglobulinemia, the "stage" is called a prognostic score. The statistics do not apply to cancers that come back later or spread, for example.
+Besides the cancer stage or prognostic score, many other factors can affect a person's outlook, such as age and overall health, and how well the cancer responds to treatment.
+
+Your doctor can tell you how these numbers might apply to you.
+According to the National Cancer Institute’s SEER database (based on people diagnosed between 2001 and 2010), the overall relative 5-year survival of people with WM is about 78%.
+The group that created the International Prognostic Scoring System for Waldenstrom Macroglobulinemia (ISSWM) used data from about 600 patients with WM who were diagnosed and treated before January 2002 to develop their risk groups:
+
+
+
+ISSWM risk group
+5-year survival rate
+
+
+Low
+87%
+
+
+Intermediate
+68%
+
+
+High
+36%
+
+
+
+Median survival
+Median survival is another way to look at survival. It is the length of time at which half of the patients in a group are still alive, and half have died. By definition, half of the patients live longer than the median survival. The group that developed the ISSWM used data from WM patients diagnosed and treated before January 2002 and found the following:
+
+
+
+ISSWM risk group
+Median survival*
+
+
+Low
+12 years
+
+
+Intermediate
+8 years
+
+
+High
+3.5 years
+
+
+
+*Median survival is measured from the point that treatment is started.
+In the last decade (2001-2010), the median overall survival for all WM groups has improved to just over 8 years compared to 6 years in the previous decade (1991-2000).It is important for you to have honest, open discussions with your cancer care team. They want to answer all of your questions, no matter how trivial you might think they are. Here are some questions to consider:
+When you’re told you have Waldenstrom macroglobulinemia
+
+Where is the cancer located?
+Will I need other tests before we can decide on treatment?
+Do I need to see any other doctors or health professionals?
+If I’m concerned about the costs and insurance coverage for my diagnosis and treatment, who can help me?
+Do you recommend starting treatment now or waiting until later on?
+
+When deciding on a treatment plan
+
+What are my treatment options?
+What do you recommend and why?
+Is a stem cell transplant an option for me? What are the pros and cons of this treatment?
+How much experience do you have treating this type of cancer?
+Should I get a second opinion? How do I do that? Can you recommend someone?
+What would the goal of the treatment be (to reduce symptoms, lower IgM levels, etc.)?
+How quickly do we need to decide on treatment?
+What should I do to be ready for treatment?
+How long will treatment last? What will it be like? Where will it be done?
+What risks or side effects are there to the treatments you suggest? Are there things I can do to reduce these side effects?
+How might treatment affect my daily activities? Can I still work full time?
+What are the chances the cancer will recur (come back) with these treatment plans?
+What will we do if the treatment doesn’t work or if the cancer recurs?
+What if I have transportation problems getting to and from treatment? 
+
+During treatment
+Once treatment begins, you’ll need to know what to expect and what to look for. Not all of these questions may apply to you, but asking the ones that do may be helpful.
+
+How will we know if the treatment is working?
+Is there anything I can do to help manage side effects?
+What symptoms or side effects should I tell you about right away?
+How can I reach you on nights, holidays, or weekends?
+Do I need to change what I eat during treatment?
+Are there any limits on what I can do?
+Can I exercise during treatment? If so, what kind should I do, and how often?
+Can you suggest a mental health professional I can see if I start to feel overwhelmed, depressed, or distressed?
+What if I need social support during treatment because my family lives far away?
+
+After treatment
+
+Do I need a special diet after treatment?
+Are there any limits on what I can do?
+What other symptoms should I watch for?
+What kind of exercise should I do now?
+What type of follow-up will I need after treatment?
+How often will I need to have follow-up exams and imaging tests?
+Will I need any blood tests?
+How will we know if the cancer has come back? What should I watch for?
+What will my options be if the cancer comes back?
+
+Along with these sample questions, be sure to write down some of your own. For instance, you might want more information about recovery times. Or you may want to ask about available clinical trials.
+Keep in mind that doctors aren’t the only ones who can give you information. Other health care professionals, such as nurses and social workers, can answer some of your questions. To find out more about speaking with your health care team, see The Doctor-Patient Relationship.Chemotherapy (chemo) uses anti-cancer drugs that are taken by mouth, or injected into a vein, a muscle, or under the skin. These drugs enter the bloodstream and reach almost all areas of the body, making this treatment very useful for Waldenstrom macroglobulinemia (WM).
+Chemo is given in cycles. A period of treatment is followed by a rest period to allow the body time to recover. Each chemo cycle generally lasts for several weeks. Most chemo treatments are given on an outpatient basis (in the doctor’s office, clinic, or hospital outpatient department).
+Many types of chemo drugs can be used to treat patients with WM:
+Alkylating agents
+
+Cyclophosphamide (Cytoxan®)
+Bendamustine (Treanda®)
+
+Purine analogs
+
+Fludarabine (Fludara®)
+Cladribine (2-CdA, Leustatin®)
+
+Corticosteroids
+
+Prednisone
+Dexamethasone (Decadron®)
+
+Other chemo drugs
+
+Vincristine (Oncovin®)
+Doxorubicin (Adriamycin®)
+
+Chemo drugs may be used alone or combined with other drugs, such as targeted drugs or immunotherapy drugs. (For a list of some common combinations used in WM, see When to Treat People With Waldenstrom Macroglobulinemia.)
+Chemo side effects
+Chemo drugs attack cells that are dividing quickly, which is why they work against WM cells. But other cells in the body, such as those in the bone marrow (where new blood cells are made), the lining of the mouth and intestines, and the hair follicles, also divide quickly. These cells are also likely to be affected by chemotherapy, which can lead to certain side effects.
+The side effects of chemo depend on which drugs are used, the doses, and the length of time they are taken. Common side effects include:
+
+Nausea and vomiting
+Loss of appetite
+Hair loss
+Mouth sores
+Diarrhea or constipation
+Increased risk of infections (from having too few white blood cells)
+Problems with bleeding or bruising (from having too few blood platelets)
+Fatigue (tiredness) and shortness of breath (from having too few red blood cells)
+
+Other side effects can be seen with certain drugs. For example, doxorubicin can damage the heart. Corticosteroid drugs can cause problems sleeping and an increased appetite.
+If you have side effects, your cancer care team can suggest steps to ease them. For example, medicines can be taken to help prevent and control nausea and vomiting. Most side effects are temporary and go away after treatment is finished. If you have serious side effects, the chemo may have to be reduced or stopped, at least temporarily.
+Long-term side effects of chemotherapy
+Some chemo drugs cause long-term side effects that can affect almost any part of the body. One of the most serious complications with certain chemo drugs is the possibility of developing leukemia later on. It affects a very small percentage of patients, but it is more common in patients who take fludarabine or alkylating agents.As researchers have learned more about the changes inside cells that cause cancer, they have developed newer drugs that target these changes. These are often referred to as targeted therapy drugs. These drugs work differently from standard chemotherapy (chemo) drugs. They sometimes work when chemo drugs don’t, and they often have different side effects.
+Bruton tyrosine kinase (BTK) inhibitors
+Ibrutinib (Imbruvica) and zanubrutinib (Brukinsa) block a protein called Bruton tyrosine kinase (BTK) inside lymphoma cells, which normally helps the cells grow and survive. Ibrutinib can be used alone or in combination with rituximab to treat WM, while zanubrutinib is typically used by itself. These drugs are taken by mouth as pills, typically once or twice a day.
+Common side effects of BTK inhibitors include diarrhea, rash, muscle and bone pain, fatigue, cough, bruising, and low blood cell counts. More serious side effects can include bleeding, serious infections, and heart rhythm problems. Some people taking these drugs develop skin or other cancers, so it’s important to use sun protection when outside while taking one of these drugs.
+Proteasome inhibitors
+These drugs stop enzyme complexes (proteasomes) inside cells from breaking down proteins that normally help keep cell division under control.
+Bortezomib (Velcade) and carfilzomib (Kyprolis) are sometimes helpful in treating WM. These drugs are given as an infusion into a vein (IV); bortezomib can also be given as an injection under the skin (sub-q).
+Although these drugs work slightly differently from most chemo drugs, they can still cause many of the same types of side effects, including low blood counts, nausea, and loss of appetite. They can also damage nerves, causing pain in the feet and legs (peripheral neuropathy). The nerve damage usually gets better after the drug is stopped, but it might not go away completely.
+mTOR inhibitors
+These drugs block a cell protein known as mTOR, which normally helps cells grow and divide into new cells.
+Everolimus (Afinitor) is used more often to treat some other types of cancer, but it has also been shown to be useful in treating WM after other treatments have been tried. This drug is taken daily as a pill. Common side effects include fatigue (tiredness), mouth pain, rash, diarrhea, and infections.
+Other mTOR inhibitors, such as temsirolimus (Torisel), are now being studied to see if they can help treat WM as well.
+Other drugs that target different parts of lymphoma cells are also being studied for use against WM (see What’s New in Waldenstrom Macroglobulinemia Research?).Biological therapies help the body’s immune system fight the cancer or use man-made versions of substances normally made by the immune system. These substances can kill Waldenstrom macroglobulinemia (WM) cells or slow their growth.
+Monoclonal antibodies
+Antibodies are proteins made by the immune system to help fight infections. Man-made versions, called monoclonal antibodies, can be designed to attack a specific target, such as a substance on the surface of lymphocytes (the cells in which WM starts).
+Rituximab (Rituxan) is the most widely used monoclonal antibody for WM. It attaches to a protein called CD20 on the surface of lymphoma cells . This attachment tells the lymphoma cell to die. Patients get rituximab by infusion into a vein (IV) at the doctor’s office or clinic. Rituximab can be given alone or with chemotherapy or targeted therapy (or other drugs) as a part of treatment.
+This drug has to be given carefully to WM patients because sometimes it can actually raise the level of IgM in the blood at first, which can lead to problems with hyperviscosity (thickened blood). Side effects during the infusion are common, and can include chills, fever, nausea, rashes, fatigue, and headaches. Unlike regular chemotherapy, rituximab does not cause low blood counts or hair loss.
+Ofatumumab (Arzerra) is another antibody that targets the CD20 antigen. It can be used for people who have trouble taking rituximab. Side effects are similar to those seen with rituximab, including an increased risk of IgM levels going up when the drug is first given.
+Alemtuzumab (Campath) is directed at a different protein on lymphoma cells called CD52. This drug is more commonly used to treat patients with chronic lymphocytic leukemia, but it also helps some patients with WM. It is given by infusion into a vein (IV) or under the skin, usually 3 times a week. A serious side effect of alemtuzumab is a large drop in blood cell counts that can last weeks or even months. People on this drug can develop life-threatening infections that are hard to treat while their white blood cells are low. Rare but serious side effects can include strokes, as well as tears in the blood vessels in the head and neck.
+Immunomodulating drugs
+Immunomodulating drugs (IMiDs) are thought to work against certain cancers by boosting parts of your immune system, although exactly how they work is not clear. These drugs are most often used to treat multiple myeloma, but they might also be helpful in treating WM.
+Thalidomide (Thalomid) is the IMiD with the most evidence showing it can help some patients with WM. But many patients have trouble tolerating some of the side effects of this drug. These include drowsiness, fatigue (tiredness), severe constipation, and neuropathy (painful nerve damage). The neuropathy might not go away after the drug is stopped. There is also an increased risk of serious blood clots that start in the leg and can travel to the lungs. The best results with thalidomide in WM have been seen when it is given along with other drugs, such as rituximab or dexamethasone.
+Pomalidomide (Pomalyst) is a newer IMiD that generally cause less severe side effects than thalidomide. It is used mainly to treat multiple myeloma, but studies are now looking at whether it can help treat WM as well.
+Because of concerns these drugs can cause severe birth defects if taken during pregnancy, they can only be obtained through special programs run by the drug company that makes them.
+Cytokines
+Cytokines are hormone-like proteins normally made by white blood cells to help your immune system fight infections.
+Interferon is a cytokine that can be made in the lab and given to patients. Some studies have suggested that interferon can make some lymphoma tumors shrink. Side effects of this treatment include moderate to severe fatigue, fever, chills, headaches, muscle and joint aches, and mood changes.
+It is still not certain whether interferon is a good option for patients with WM. It is most often used only in patients who continue to get sicker after treatment with other drugs.If the level of abnormal IgM protein in the blood gets very high in a patient with Waldenstrom macroglobulinemia (WM), the blood becomes very thick (viscous). This is called hyperviscosity syndrome and can lead to brain damage (like a stroke) and bleeding problems. When this happens, the level of IgM needs to be lowered right away.
+Plasmapheresis (also known as plasma exchange) uses a machine to separate the plasma (the liquid part of blood) that contains the abnormal IgM protein from the blood cells. The plasma containing the abnormal protein is discarded, while the blood cells are mixed with salt solution and plasma from a donor and given back to the patient.
+Plasmapheresis is done over a few hours while the person lies in a bed or sits in a reclining chair. The blood is removed through an IV line (usually in a vein in the arm), goes through the machine where the plasma is replaced, and then is returned to the body through another IV line. Sometimes, minor surgery is done before the procedure to put a single large catheter in a large vein just below the neck or under the collar bone instead of using IV lines in the arms. This type of catheter, called a central line or central venous catheter (CVC), has both IVs built in.
+Plasmapheresis is not painful (aside from the IV lines being put in), but it can be hard to stay sitting or lying down in the same place for 2 or 3 hours. Calcium levels can drop in some people during treatment, causing numbness and tingling (especially in the hands and feet and around the mouth) and muscle spasms, which can sometimes be painful. This can be treated by giving the patient calcium.
+Plasmapheresis works quickly to bring down the IgM level. However, it does not treat the cause of the high IgM level (the cancer cells themselves), so it will go back up again without further treatment (like chemotherapy). Plasmapheresis is usually given to help the patient until chemotherapy or other drugs have a chance to work. It can also be used in people whose WM is not controlled by other treatments.The doses of chemotherapy (chemo) drugs (and radiation) doctors can give are limited by the side effects they can cause. Higher doses can’t be used, even if they might kill more cancer cells, because they would severely damage the bone marrow, where new blood cells are made. This could lead to life-threatening infections, bleeding, and other problems due to low blood cell counts. Doctors can try to get around this problem by giving an infusion of blood-forming stem cells after treatment. These stem cells settle in the bone marrow, where they can create new blood cells.
+A stem cell transplant (SCT) is not a common treatment for Waldenstrom macroglobulinemia (WM), but it might be an option in younger patients for whom other treatments are no longer working.
+Blood-forming stem cells used for a transplant come either from the blood or from the bone marrow. Bone marrow transplants were more common in the past, but they have largely been replaced by stem cells taken from the blood.
+The blood-forming stem cells can come either from the patient (called an autologous SCT) or from a donor (called an allogeneic SCT).
+Autologous stem cell transplant
+Most transplants in people with WM are autologous. The patient’s own blood-forming stem cells are removed from their bloodstream and stored to use later. Then the patient is given high doses of chemo (and sometimes radiation) to kill the WM cells. The high doses of chemo kill the normal bone marrow cells as well as the cancer cells. After chemo, the frozen stem cells are thawed and returned to the body (like a blood transfusion).
+Autologous transplants can help some people with WM, but doctors are still trying to figure out which patients will benefit the most.
+Allogeneic stem cell transplant
+This is a treatment that is still being studied for WM, and experts recommend it be done only as part of a clinical trial.
+In an allogeneic SCT, the stem cells for the transplant come from someone else (a donor). The donor’s tissue type (also known as the HLA type) needs to match the patient’s tissue type as closely as possible to help prevent the risk of major problems with the transplant. Usually this donor is a brother or sister if they have the same tissue type as the patient. If there are no siblings with a good match, the cells may come from an HLA-matched, unrelated donor – a stranger who has volunteered to donate cells.
+The stem cells for an allogeneic SCT are usually collected from a donor’s bone marrow or blood on several occasions. Regardless of the source, the stem cells are then frozen and stored until they are needed for the transplant.
+Allogeneic transplants have more risks and side effects than autologous transplants, so patients typically need to be younger and relatively healthy to be good candidates. Another challenge is that it can sometimes be difficult to find a matched donor.
+One of the most serious complications of allogeneic SCTs is known as graft-versus-host disease (GVHD). It happens when the patient’s immune system is taken over by that of the donor. When this happens, the donor immune system may consider the patient’s own body tissues to be foreign and attacks them.
+Symptoms of GVHD can include severe skin rashes, itching, mouth sores (which can affect eating), nausea, and severe diarrhea. Liver damage can cause yellowing of the skin and eyes (jaundice). The lungs can also be damaged. The patient may also become easily tired and develop muscle aches. Sometimes GVHD can become disabling, and if it is severe enough, it can be life-threatening.
+Non-myeloablative transplant: In this newer approach to allogeneic SCT (also called a mini-transplant), lower doses of chemo or radiation therapy are used than in a traditional allogeneic SCT. Patients are given drugs to suppress their immune system. This allows the donor cells to grow and partly take over the patient’s immune system. The donor cells then begin attacking the WM cells (known as a graft-versus-lymphoma effect).
+This type of transplant may be an option for some patients who couldn’t tolerate a regular allogeneic transplant because it would be too toxic. Most of the side effects with this type of transplant are less severe than with a standard allogeneic transplant. But this type of transplant can still cause GVHD, which can make patients very sick.
+Doctors are trying to refine this treatment to work against the WM cells without affecting the normal cells.
+Possible side effects of stem cell transplant
+Side effects from a stem cell transplant are generally divided into early and long-term effects.
+Early or short-term effects: The early complications and side effects are basically the same as those caused by any other type chemotherapy, but they tend to be more severe.
+One of the most common and serious short-term effects is the increased risk of infection. Antibiotics are often given to try to keep this from happening. Other side effects, like low red blood cell and platelet counts, may require blood product transfusions or other treatments.
+A possible side effect of allogeneic transplants is graft-versus-host disease, which is described above.
+Long-term side effects: Some complications and side effects can remain for a long time or might not occur until months or years after the transplant. These include:
+
+Loss of fertility
+Damage to the thyroid gland
+Cataracts (damage to the lens of the eye)
+Damage to the lungs, causing shortness of breath
+Bone damage called aseptic necrosis (If damage is severe, the patient might need to have part of the affected bone and the joint replaced.)
+Development of another cancer (such as leukemia) years later
+
+
+Things to consider before having a stem cell transplant
+A stem cell transplant is a complex treatment that can cause life-threatening side effects because of the high doses of chemotherapy used. Be sure you understand the possible benefits and risks. If the doctors think you might benefit from a transplant, it should be done at a hospital where the staff has experience with the procedure and with managing the recovery. Some stem cell transplant programs might not have experience in certain types of transplants, especially transplants from unrelated donors.
+SCTs often require a long hospital stay and can be very expensive (costing well over $100,000). Because some insurance companies might view it as an experimental treatment, they might not pay for it. Even if the transplant is covered by your insurance, your co-pays or other costs could easily amount to tens of thousands of dollars. Find out what your insurer will cover before deciding on a transplant so you will have an idea of what you might have to pay.Radiation therapy uses high-energy rays to kill cancer cells. This type of treatment is not used often to treat Waldenstrom macroglobulinemia (WM). Rarely, it is used to shrink an enlarged spleen or lymph nodes if they are causing symptoms.
+The type of radiation therapy used to treat WM is called external beam radiation. The treatment is much like getting an x-ray, but the radiation is much stronger. The procedure itself is painless. Before the treatments start, the radiation team takes careful measurements to determine the correct angles for aiming the radiation beams and the proper dose of radiation. Each treatment lasts only a few minutes, although the setup time — getting you into place for treatment — usually takes longer. Most often, radiation treatments are given 5 days a week for a few weeks.
+Possible side effects
+Immediate side effects of radiation therapy can include sunburn-like skin problems, fatigue, and low blood cell counts. Other side effects depend on the area being treated. Radiation of the abdomen may cause nausea, vomiting, or diarrhea. Radiation to the head and neck area can lead to mouth sores and trouble swallowing. Often these effects go away a short while after treatment is finished.
+A rare long-term side effect of radiation is a new cancer developing in the treated area.Waldenstrom macroglobulinemia (WM) is generally not considered to be curable, but it is treatable. Many different medicines can help keep WM under control, often for long periods of time.
+Not everyone with WM needs treatment right away. In fact, some people are diagnosed with WM before they even have symptoms from it. Most experts recommend that people with WM should not usually be treated until the disease is causing problems. This lets people avoid the side effects of chemotherapy (chemo), targeted therapy, or immunotherapy drugs until they really need these medicines. In fact, studies suggest that patients who delay treatment until their WM is causing problems do not live any less time than those who start treatment as soon as they are diagnosed.
+Doctors agree that hyperviscosity syndrome is a reason to treat with plasmapheresis right away, because it can be life threatening. Other reasons to start treatment include problems from amyloidosis or cryoglobulins, as well as anemia (too few red blood cells), kidney or heart problems, nerve damage, or any severe symptom from the WM.
+Once a decision has been made to start treatment, there are several options, depending on the patient’s age, general health, and symptoms. Treatment is also based on whether or not the patient might have a stem cell transplant in the future.
+The drugs used to treat WM can be given in a variety of combinations and schedules depending on the situation. Some doctors like to combine drugs (often some type of chemotherapy plus rituximab), while others prefer to start with a single drug. The patient’s age, overall health, and symptoms can also affect which treatments are recommended.
+In general, rituximab is not usually given when the IgM level is very high because it can make the IgM level temporarily go up even higher. Plasmapheresis may be used first to lower the IgM level before starting rituximab. Another option is to give rituximab along with ibrutinib because the combination can rapidly reduce the level of IgM.  
+If a stem cell transplant might be used later on, many experts recommend not giving certain chemo drugs (chlorambucil, bendamustine, cladribine, or fludarabine) because they might affect the blood stem cells in the bone marrow.
+Here are some of the drugs and combinations that might be used as the first treatment for WM. (This list is in alphabetical order, not by preference of which should be used first.)
+
+Bendamustine, with or without rituximab
+Bortezomib, with or without dexamethasone and/or rituximab
+Carfilzomib, rituximab, and dexamethasone
+Cladribine, with or without rituximab
+Cyclophosphamide, prednisone, and rituximab (CPR)
+Fludarabine, with or without rituximab
+Fludarabine, cyclophosphamide, and rituximab (FCR)
+Ibrutinib, with or without rituximab
+Ixazomib, rituximab, and dexamethasone
+Rituximab
+Rituximab, cyclophosphamide, and dexamethasone (RCD)
+Zanubrutinib
+
+Other drugs and drug combinations can also be used. Talk to your doctor about which regimen might be best for you based on your situation.
+During treatment, you’ll have regular visits with your doctor, who will ask you about your symptoms, do physical exams, and test your blood to see how well the treatment is working. In most people with WM, the disease will respond to treatment (IgM levels will go down and symptoms will get better) within a few months, although this may take longer in people getting only rituximab . If the WM responds, options include close monitoring for signs of disease progression or giving rituximab on a regular schedule to help keep the disease in check.
+If treatment doesn’t work or if the disease comes back after treatment
+No single treatment for WM works for all patients. If the first drug or set of drugs doesn’t work, other drugs may be helpful.
+Most people with WM will require treatment with different drugs at some point. Often, a certain drug or combination of drugs will work at first, but over time it might stop working. Or a person might stop treatment if the WM is under control, only to have it come back some time later. If the WM remained under control for at least a year after the first treatment, then giving the same drug(s) again can often help bring the cancer back under control.
+If the cancer comes back sooner, or if the initial treatment was not effective, then switching to another drug or drug combination is likely to be a better option. Many of the same drugs and combinations listed above as first-line treatments might be helpful here. Other drugs that might also be tried include alemtuzumab (Campath), ofatumumab (Arzerra), or everolimus (Afinitor). High-dose chemotherapy with stem cell transplant might also be an option for some patients.
+If chemotherapy or other drugs are no longer slowing the growth of the WM, some patients can still get relief from symptoms by getting plasmapheresis at regular intervals to lower the levels of the abnormal IgM protein in their blood.
+Sometimes WM can turn into an aggressive lymphoma. When this happens, the cancer grows much more quickly and causes symptoms that can soon become life threatening. These lymphomas are usually treated with a combination of several chemo drugs like those used for patients who are first diagnosed with an aggressive non-Hodgkin lymphoma (see Treating Non-Hodgkin Lymphoma). If combination chemo is not successful, high-dose chemo with a stem cell transplant may be an option.Current treatments for Waldenstrom macroglobulinemia (WM) are not likely to result in a cure. Most people with WM are treated for some time, followed by a break, and then treated again when the disease comes back. Learning to live with cancer that does not go away can be difficult and very stressful.
+Follow-up care
+During and after treatment, it’s very important to go to all follow-up appointments. During these visits, your doctors will ask about symptoms, examine you, and order blood tests or imaging studies such as CT scans or x-rays. Follow-up is needed to see if the cancer has come back, if more treatment is needed, and to check for any side effects. This is the time for you to talk to your cancer care team about any changes or problems you notice and any questions or concerns you have.
+Almost any cancer treatment can have side effects. Some last for a few weeks to several months, but others can be permanent. Don’t hesitate to tell your cancer care team about any symptoms or side effects that bother you so they can help you manage them.
+Ask your doctor for a survivorship care plan
+Talk with your doctor about developing a survivorship care plan for you. This plan might include:
+
+A suggested schedule for follow-up exams and tests
+A schedule for other tests you might need in the future, such as early detection (screening) tests for other types of cancer, or tests to look for long-term health effects from your cancer or its treatment
+A list of possible late- or long-term side effects from your treatment, including what to watch for and when you should contact your doctor
+Diet and physical activity suggestions
+Reminders to keep your appointments with your primary care provider (PCP), who will monitor your general health care
+
+Keeping health insurance and copies of your medical records
+Even after treatment, it’s very important to keep health insurance. Tests and doctor visits cost a lot, and even though no one wants to think about their cancer coming back, this could happen.
+At some point after your cancer treatment, you might find yourself seeing a new doctor who doesn’t know about your medical history. It’s important to keep copies of your medical records to give your new doctor the details of your diagnosis and treatment. Learn more in Keeping Copies of Important Medical Records.
+Can I lower my risk of Waldenstrom Macroglobulinemia progressing or coming back?
+If you have (or have had) WM, you probably want to know if there are things you can do that might lower your risk of the cancer growing or coming back, such as exercising, eating a certain type of diet, or taking nutritional supplements.
+Adopting healthy behaviors such as not smoking, eating well, getting regular physical activity, and staying at a healthy weight might help, but no one knows for sure. However, we do know that these types of changes can have positive effects on your health that can extend beyond your risk of myeloma or other cancers.
+About dietary supplements
+So far, no dietary supplements (including vitamins, minerals, and herbal products) have been shown to clearly help lower the risk of cancer progressing or coming back. This doesn’t mean that no supplements will help, but it’s important to know that none have been proven to do so.
+Dietary supplements are not regulated like medicines in the United States – they do not have to be proven effective (or even safe) before being sold, although there are limits on what they’re allowed to claim they can do. If you’re thinking about taking any type of nutritional supplement, talk to your health care team. They can help you decide which ones you can use safely while avoiding those that might be harmful.
+If the cancer comes back
+If the cancer does recur at some point, your treatment options will depend on where the cancer is located, what treatments you’ve had before, and your health. For more information on how recurrent cancer is treated, see Treating Waldenstrom Macroglobulinemia.
+For more general information on recurrence, you may also want to see Understanding Recurrence.
+Second cancers after treatment
+People who’ve had WM can still get other cancers. In fact, WM survivors are at higher risk for getting some other types of cancer. Learn more in Second Cancers After Waldenstrom Macroglobulinemia.
+Getting emotional support
+Some amount of feeling depressed, anxious, or worried is normal when WM is a part of your life. Some people are affected more than others. But everyone can benefit from help and support from other people, whether friends and family, religious groups, support groups, professional counselors, or others. Learn more in Life After Cancer.Cancer survivors can have a number of health problems, but often their greatest concern is facing cancer again. If a cancer comes back after treatment it is called a recurrence. Unfortunately, being treated for one cancer doesn’t mean you can’t get another cancer. Some cancer survivors might develop a new, unrelated cancer later. This is called a second cancer. No matter what type of cancer you have had, it is still possible to get another (new) cancer, even after surviving the first. People who have had cancer can still get the same types of cancers that other people get. In fact, some types of cancer and cancer treatments can be linked to a higher risk of certain second cancers.
+Survivors of WM can get any type of second cancer, but they have an increased risk of:
+
+Acute myeloid leukemia (AML)
+Diffuse large B-cell lymphoma 
+Thyroid cancer
+Melanoma
+
+Can I lower my risk of getting a second cancer?
+There are steps you can take to lower your risk and stay as healthy as possible. For example, Waldenstrom macroglobulinemia survivors should do their best to stay away from all tobacco products and tobacco smoke, as smoking increases the risk of many cancers.
+To help maintain good health, Waldenstrom macroglobulinemia survivors should also:
+
+Get to and stay at a healthy weight
+Keep physically active and limit the time you spend sitting or lying down
+Follow a healthy eating pattern that includes plenty of fruits, vegetables, and whole grains, and limits or avoids red and processed meats, sugary drinks, and highly processed foods
+Not drink alcohol. If you do drink, have no more than 1 drink per day for women or 2 per day for men
+
+These steps may also lower the risk of some other health problems.
+See Second Cancers in Adults for more information about causes of second cancers.What is Waldenstrom macroglobulinemia?
+Waldenstrom macroglobulinemia (WM) is a type of non-Hodgkin lymphoma (NHL). The cancer cells make large amounts of an abnormal protein called a macroglobulin. Each protein made by the WM cells is the same, so it is called a monoclonal protein, or just an M protein. The buildup of this M protein in the body can lead to many of the symptoms of WM, including too much bleeding, problems with vision, and nervous system problems.
+The WM cells grow mainly in the bone marrow, where they can crowd out the normal cells that make the different types of blood cells. This can lead to low levels of red blood cells (anemia), which can make people feel tired and weak. It can also cause low numbers of white blood cells, which makes it hard for the body to fight infection. The numbers of platelets in the blood can also drop, leading to increased bleeding and bruising.
+These cancer cells can also grow in organs like the liver and spleen, causing these organs to swell, leading to abdominal pain.
+Questions to ask the doctor:
+
+Why do you think I have cancer?
+Is there a chance I don’t have cancer?
+Would you please write down the kind of cancer I have?
+What will happen next?
+
+How does the doctor know I have Waldenstrom Macroglobulinemia?
+Waldenstrom macroglobulinemia (WM) is often found when a person goes to see their doctor because of symptoms they are having, or because they just don’t feel well and go in for a checkup. Sometimes it’s found in people without symptoms when they have blood tests done for some other reason.
+Some common symptoms of WM are weakness, loss of appetite, fever, sweats, weight loss, and neuropathy (painful pins-and-needles feeling in the feet/legs). If signs or symptoms suggest that a person might have WM, exams and tests will be done to be sure. The most important tests will look for abnormal proteins in the blood and abnormal cells in the bone marrow.
+The doctor will ask you questions about your health and do a physical exam.
+If signs are pointing to WM, more tests will be done. Here are some of the tests you may need:
+Blood cell counts: This blood test is often the first test done. People with WM may have a low red blood cell count.
+Blood tests for immunoglobulins: Samples of your blood might be tested for immunoglobulins (another name for antibodies). Levels of one of these proteins (IgM) are typically higher than normal in people with WM.
+Viscosity: Viscosity is a measure of how thick the blood is. If the IgM protein level is too high, the blood will become thick (viscous) and can’t flow freely (think about pouring honey compared to pouring water).
+Bone marrow aspiration and biopsy: For these tests, a doctor uses thin, hollow needles to remove small amounts of bone marrow, usually from the hip bone. The area around the bone is numbed, and you may be given a drug to make you sleep during the test. The samples are sent to a lab to see if there are WM cells in the bone marrow.
+Other biopsy tests: If you have a tumor or an enlarged lymph node, a thin, hollow needle attached to a syringe might be used to remove a small piece of it. The sample is then tested for cancer cells.
+CT scan: This is also called a CAT scan. It’s a special kind of x-ray that takes detailed pictures of the body. CT scans can help show if there are any enlarged organs from the cancer.
+MRI scan: MRIs use radio waves and strong magnets instead of x-rays to take detailed pictures. MRI scans can be very helpful in looking at the bones and bone marrow.
+PET scan: This test uses a special kind of sugar that can be seen inside your body with a special camera. This sugar shows up as hot spots where the cancer is.
+Questions to ask the doctor:
+
+What tests will I need to have?
+Who will do these tests?
+Where will they be done?
+How and when will I get the results?
+Who will explain the results to me?
+What do I need to do next?
+
+How serious is my Waldenstrom Macroglobulinemia?
+If you have cancer, the doctor will want to find out how advanced it is. This is called staging.
+For WM, there is no standard staging system because this hasn’t been shown to be important when looking at outcomes or deciding on treatment.
+Instead, doctors look at other factors, such as age, blood cell counts, the amount of immunoglobulin (IgM) in the blood, and the level of another protein in the blood called beta-2 microglobulin (β2M). People with lower levels of IgM and β2M tend to do better than those with higher levels. People with WM who are older, are anemic (based on a low blood hemoglobin level), or have a low blood platelet count tend to have a poorer outlook. Experts have used these factors to help predict the outlook for patients with WM.
+Be sure to ask the doctor about the specific factors of your cancer and what it means for you.
+Questions to ask the doctor:
+
+Do you know how advanced my cancer is?
+Based on the specifics of the cancer, how long do you think I’ll live?
+What will happen next?
+
+What kind of treatment will I need?
+The treatment plan that is best for you depends on your age, overall health, and other factors, such as symptoms you are having. If the WM is found early and is not causing symptoms, you might not need to be treated right away. You might just be watched closely instead. If you do need treatment, it could include:
+
+Chemotherapy
+Targeted therapy
+Immunotherapy
+Stem cell transplant
+Radiation
+Plasmapheresis
+
+Chemo
+Chemo is the short word for chemotherapy – the use of drugs to fight cancer. The drugs are often given into a vein. These drugs go into the blood and reach almost all areas of the body. Chemo is given in cycles or rounds. Each round of treatment is followed by a break. Most of the time, 2 or more chemo drugs are given. Treatment often lasts for many months.
+Side effects of chemo
+Chemo can have many side effects, like:
+
+Hair loss
+Mouth sores
+Not feeling like eating
+Diarrhea
+Feeling sick to your stomach and throwing up
+More risk of infections
+Bruising and bleeding easily
+Tiredness
+
+But these problems tend to go away after treatment ends. There are ways to treat most chemo side effects. Be sure to talk to your cancer care team so they can help.
+Other drug treatments
+Many other types of drugs can be used to treat WM or its symptoms. These drugs work differently from chemo. Some of them target parts of WM cells that make them different from normal cells. Others help your immune system attack the WM cells. Often, different types of drugs are combined (sometimes along with chemo). Plasma exchange may be done to remove the abnormal protein to make the blood less thick to lower the risk of bleeding problems or stroke.
+Some of these drugs are taken as pills, while others are injected into a vein. Each of these drugs can have its own side effects, so ask your doctor about which drugs you will get and what to expect.
+Stem cell transplant
+A stem cell transplant (SCT) lets doctors use very high doses of chemo to kill the WM. The high doses of these drugs destroy the bone marrow, which keeps new blood cells from being made. Although the drugs destroy the bone marrow, stem cells given after the chemo can bring back the normal blood-making bone marrow stem cells. There are different kinds of SCT, each of which can have side effects. Ask your doctor which type you will have and what to expect.
+Clinical trials
+Clinical trials are research studies that test new drugs or other treatments in people. They compare standard treatments with others that may be better.
+If you would like to learn more about clinical trials that might be right for you, start by asking your doctor if your clinic or hospital conducts clinical trials. See Clinical Trials to learn more.
+Clinical trials are one way to get the newest cancer treatment. They are the best way for doctors to find better ways to treat cancer. If your doctor can find one that’s studying the kind of cancer you have, it’s up to you whether to take part. And if you do sign up for a clinical trial, you can always stop at any time.
+What about other treatments I hear about?
+When you have cancer, you might hear about other ways to treat the cancer or treat your symptoms. These may not always be standard medical treatments. These treatments may be vitamins, herbs, special diets, and other things. You may wonder about these treatments.
+Some of these are known to help, but many have not been tested. Some have been shown not to help. A few have even been found to be harmful. Talk to your doctor about anything you’re thinking about using, whether it’s a vitamin, a diet, or anything else.
+Questions to ask the doctor:
+
+What treatment do you think is best for me?
+What’s the goal of this treatment? How is it likely to help?
+Will I need other types of treatment, too?
+What’s the goal of these treatments?
+What side effects could I have from these treatments?
+What can I do about side effects that I might have?
+Should we think about a stem cell transplant? If so, when?
+Is there a clinical trial that might be right for me?
+What about special vitamins or diets that friends tell me about? How will I know if they are safe?
+How soon do I need to start treatment?
+What should I do to be ready for treatment?
+Is there anything I can do to help the treatment work better?
+What’s the next step?
+
+What will happen after treatment?
+Treatment often will not cure WM, but it might make it go away for a time. If you have WM, there might be times when you are not being treated. Or you might continue to get regular treatments with chemotherapy and other drugs, or other treatments to try to help keep the cancer in check.
+Whether or not you are being treated, ongoing follow-up is very important. Your doctors will ask about symptoms, do an exam, and might order blood tests or tests like CT scans or x-rays. This is the time for you to talk to your cancer care team about any changes or problems you notice and any questions or concerns you have.
+Having cancer and dealing with treatment can be hard, but it can also be a time to look at your life in new ways. You might be thinking about how to improve your health. Call us at 1-800-227-2345 or talk to your doctor to find out what you can do to feel better.
+You can’t change the fact that you have cancer. What you can change is how you live the rest of your life – making healthy choices and feeling as good as you can.

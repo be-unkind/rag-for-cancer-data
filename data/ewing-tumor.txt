@@ -1,0 +1,634 @@
+Cancer starts when cells in the body begin to grow out of control. Cells in nearly any part of the body can become cancer, and can then spread to other areas of the body. To learn more about cancer and how it starts and spreads, see What Is Cancer?
+Ewing tumors (also known as Ewing sarcomas) are a group of cancers that start in the bones or nearby soft tissues and share some common features. These tumors can develop in people of any age, but they are most common in older children and teens. For information about the differences between childhood cancers and adult cancers, see Cancer in Children.
+The main types of Ewing tumors are:
+
+Ewing sarcoma of bone: Ewing sarcoma that starts in a bone is the most common tumor in this family. This type of tumor was first described by Dr. James Ewing in 1921, who found it was different from the more common bone tumor, osteosarcoma. Seen with a microscope, its cells looked different from osteosarcoma cells. It was also more likely to respond to radiation therapy.
+Extraosseous Ewing tumor (EOE): Extraosseous Ewing tumors start in soft tissues around bones, but they look and act very much like Ewing sarcomas in bones. They are also known as extraskeletal Ewing sarcomas.
+Peripheral primitive neuroectodermal tumor (PPNET): This rare childhood cancer also starts in bone or soft tissue and shares many features with Ewing sarcoma of bone and EOE. Peripheral PNETs that start in the chest wall are known as Askin tumors.
+
+Researchers have found that the cells that make up Ewing sarcoma, EOE, and PPNET are very similar. They tend to have the same DNA (gene) abnormalities and share similar proteins, which are rarely found in other types of cancers. That’s why these cancers are thought to develop from the same type of cells in the body. There are slight differences among these tumors, but they're all treated the same way.
+Most Ewing tumors occur in the bones. The most common sites are:
+
+The pelvis (hip bones)
+The chest wall (such as the ribs or shoulder blades)
+The legs, mainly in the middle of the long bones
+
+In contrast, osteosarcoma usually occurs at the ends of the bones of the legs or arms, especially around the knees. Extraosseous Ewing tumors can occur almost anywhere.
+Most Ewing tumors occur in children and teens, but they can also occur in adults. This information focuses on the Ewing family of tumors in children and teens, but most of the content here (including much of the treatment information) applies to Ewing tumors in adults as well.
+Other types of bone cancers
+Several other types of cancers can start in the bones.
+Osteosarcomas are the most common bone cancer in children and teens. They are described in Osteosarcoma.
+Most other types of bone cancers are usually found in adults and are uncommon in children. These include:
+
+Chondrosarcoma (cancer that develops from cartilage)
+Undifferentiated pleomorphic sarcoma (UPS) of bone, previously known as malignant fibrous histiocytoma (MFH) of bone
+Fibrosarcoma of bone
+Chordoma
+Malignant giant cell tumor of bone
+
+For more information on these cancers, see Bone Cancer in Adults.
+Many types of cancer that start in other organs of the body can spread to the bones. These are sometimes referred to as metastatic bone cancers, but they are not true bone cancers. For example, if a rhabdomyosarcoma (a cancer that starts in muscle cells) spreads to the bones, it is still rhabdomyosarcoma and is treated like rhabdomyosarcoma. For more information, see Bone Metastases.Ewing tumors (Ewing sarcomas) are not common. About 1% of all childhood cancers are Ewing tumors. About 200 children and teens are diagnosed with Ewing tumors (sarcomas) in the United States each year.
+Most Ewing tumors occur in teens, but they can also affect younger children, as well as adults (mainly in their 20s and 30s).
+Slightly more males than females develop these cancers. These tumors are much more common among White people, either non-Hispanic or Hispanic. This disease is very rare among African Americans, and it also seldom occurs in other racial groups.
+Survival statistics for these tumors are discussed in Survival Rates for Ewing Tumors, by Stage.
+Visit the American Cancer Society’s Cancer Statistics Center for more key cancer statistics.Research on Ewing tumors (Ewing sarcomas) is being done at many medical centers, university hospitals, and other institutions across the world.
+Understanding and diagnosing Ewing tumors
+Scientists are developing new techniques to more accurately diagnose Ewing tumors. New lab tests of tumor samples are being studied to see if they can help better identify Ewing tumors and give more information on how well treatments might work against that particular tumor.
+As an example, advances in technology are now allowing doctors to do genomic testing, which looks at all of the genes inside the cancer cells, to better understand what makes these cells different from normal cells. Some of these differences might prove to be useful targets for developing new treatments for Ewing tumors (see below).
+Treatment
+Researchers are looking to develop better treatments for Ewing tumors, as well as to find less toxic treatments for those that can be cured.
+Radiation therapy
+Ewing tumors are very sensitive to radiation therapy, but because of its possible side effects, it's most often used only if surgery can't be done (or can't remove the entire tumor). Newer, more focused types of radiation therapy can help doctors treat tumors while lowering the dose of radiation to nearby healthy body tissues.
+Chemotherapy
+Doctors are studying new chemotherapy combinations, especially for Ewing tumors that come back (recur) after treatment. These combinations often include chemo drugs such as topotecan, irinotecan, temozolomide, gemcitabine, docetaxel, and mithramycin (plicamycin).
+Doctors are also trying to make the currently used drugs more effective by changing the way they are given. For example, they have found that giving the standard VAC/IE (VDC/IE) chemo regimen more often – that is, every 2 weeks instead of every 3 weeks – seems to lower the chance of localized Ewing tumors coming back, without increasing the risk of serious side effects. This is often called compressed chemotherapy.
+Researchers are also studying high-dose chemotherapy with stem cell transplants in those with Ewing tumors that are unlikely to be cured with current treatments.
+Targeted drug therapy
+As noted in What Causes Ewing Tumors?, great progress is being made in understanding the changes in genes and chromosomes that cause Ewing tumors to form.
+This knowledge has already been used to develop very sensitive lab tests to detect this cancer, and doctors are now studying how to best use these tests to guide the choice of treatment. It might also lead to new drugs that target these changes in Ewing tumor cells.
+Some new drugs that target specific changes in Ewing tumor cells are already being tested. For example, TK216 is a drug that targets the main fusion protein in Ewing tumor cells that is thought to help these cells grow. Early studies of this drug in people with Ewing tumors are now under way.
+Also being studied in clinical trials are drugs that target the insulin-like growth factor receptor-1 (IGF-1R), a protein on some cancer cells that causes them to grow. Early studies have found that drugs like this, such as ganitumab, can shrink some Ewing tumors and slow down the growth of others. So far, this benefit has been temporary in most cases. These drugs may work best when combined with other drugs, which is now being tested.
+Other drugs being studied for use against Ewing tumors include:
+
+Drugs that target certain proteins that help tumors grow and make new blood vessels, such as cabozantinib (Cabometyx) and regorafenib (Stivarga)
+Drugs that target the PARP protein, such as olaparib (Lynparza) and talazoparib (Talzenna)
+Drugs that affect which genes in a cell are active, such as vorinostat (Zolinza) and seclidemstat
+
+Immune therapy
+Another promising approach to treatment, known as immunotherapy, helps the body’s own immune system recognize and attack the tumor cells. Some newer types of immune therapies, such as immune checkpoint inhibitors and CAR T-cell therapies, have shown a great deal of promise in treating other types of cancer, and some of these approaches are now being looked at for Ewing tumors. These treatments are still in the early stages of testing at this time.A risk factor is anything that increases a person’s chances of getting a disease such as cancer. Different cancers have different risk factors.
+Lifestyle-related risk factors such as body weight, physical activity, diet, and tobacco and alcohol use play a major role in many adult cancers. But these factors usually take many years to influence cancer risk, and they are not thought to play much of a role in cancers that tend to affect children and teens, including Ewing tumors (Ewing sarcomas).
+Studies of children with Ewing tumors haven't found clear links to radiation, chemicals, or any other environmental exposures.
+Some types of cancer tend to run in some families. But genetic changes passed down within families do not seem to be an important risk factor for Ewing tumors. Although most of the gene changes that cause Ewing tumors are known (see What Causes Ewing Tumors?), these changes are not inherited from a parent.
+Race/ethnicity
+Ewing tumors are rare overall, but they are even less common among African Americans and Asian Americans than they are among White individuals (either non-Hispanic or Hispanic). The reason for this is not known, although it might be related to differences in certain genes among different ethnic groups.
+Sex
+Ewing tumors are slightly more common in males than in females.
+Age
+People of any age can develop Ewing tumors , but they are most common in older children and teens and are less common among young adults and young children. They are rare in older adults.The causes of Ewing tumors (Ewing sarcomas) are not fully understood, but researchers are learning how certain changes in a cell’s DNA can cause the cell to become cancerous. DNA is the chemical in each of our cells that makes up our genes.
+Genes tell our cells how to function. They are packaged in chromosomes, which are long strands of DNA in each cell. We normally have 23 pairs of chromosomes in each cell (one set of chromosomes comes from each parent). We usually look like our parents because they are the source of our DNA. But DNA affects more than how we look.
+Some genes control when our cells grow, divide into new cells, and die:
+
+Genes that normally help cells grow, divide, or stay alive can sometimes change to become oncogenes. 
+Genes that help keep cell division under control, repair mistakes in DNA, or make cells die at the right time are called tumor suppressor genes.
+
+Cancers can be caused by changes in the cell’s DNA that turn keep oncogenes turned on, or that turn off tumor suppressor genes.
+Researchers have found chromosome changes that lead to Ewing tumors, but these changes are not inherited. Instead, they develop in a single cell after a child is born, for unknown reasons.
+Nearly all Ewing tumor cells have changes that involve the EWSR1 gene, which is found on chromosome 22. Most often, the change is a swapping of pieces of DNA (called a translocation) between chromosomes 22 and 11. Less often, the swap is between chromosomes 22 and 21, or rarely, between 22 and another chromosome. The translocation moves a certain piece of chromosome 11 (or another chromosome) just next to the EWSR1 gene on chromosome 22, causing the EWSR1 gene to be turned on all the time. Activation of the EWSR1 gene leads to overgrowth of the cells and to the development of Ewing tumors, but the exact way in which this happens is not yet clear.
+In a very small portion of Ewing tumors, the cells have translocations that involve the FUS gene (on chromosome 16) instead of the EWSR1 gene.
+Lab tests can be used to find chromosome translocations in Ewing tumor cells (see Tests for Ewing Tumors). If doctors aren't sure if a tumor belongs to the Ewing family, they can use these tests on tumor samples to look for translocations and confirm the diagnosis.
+The gene changes that lead to Ewing tumors are now fairly well known, but it’s still not clear what causes these changes. They might just be random events that sometimes happen inside a cell, without having an outside cause. There are no known lifestyle-related or environmental causes of Ewing tumors, so it's important to remember that at this time, nothing could have been done to prevent these cancers.The risk of many adult cancers can be reduced with certain lifestyle changes (such as staying at a healthy weight or quitting smoking), but at this time there are no known ways to prevent most cancers in children and teens.
+The only known risk factors for Ewing tumors (age, sex, and race/ethnicity) can’t be changed. There are no known lifestyle-related or environmental causes of Ewing tumors, so at this time there is no known way to protect against these cancers.Ewing tumors (Ewing sarcomas) are uncommon, and there are no widely recommended screening tests for these cancers. (Screening is testing for cancer in people without any symptoms.) Still, Ewing tumors sometimes cause symptoms that allow them to be found early (before they have clearly spread to other parts of the body).
+The most common symptom of a Ewing tumor is pain in the area of the tumor. Sometimes the tumor shows up as a lump or swelling on an arm or leg, or on the chest. Sometimes the lump feels warmer than the rest of the body, and sometimes the child or teen has other symptoms like a fever or not feeling well.
+Of course, children and teens might get sore areas or lumps and bumps from normal activities. But pains or lumps that don’t go away (or that get worse) should be checked by a doctor. The same is true if a lump feels warm and/or the child has a fever. These symptoms are more likely to have other causes, such as an infection, but they need to be checked by a doctor so that the cause can be found and treated, if needed.Ewing tumors (Ewing sarcomas) are most common in older children and teens, although they can develop in other age groups as well. These tumors are often found because of the symptoms they cause.
+Pain
+Most people with Ewing tumors will have pain in the area of the tumor. Ewing tumors develop most often in the pelvis (hip bones), the chest wall (such as the ribs or shoulder blades), or the legs (mainly in the middle of the leg bones), but they can also start in other parts of the body. At first, the area might not hurt all the time, and the pain might be worse at night or with activity. Over time, the pain might become more intense and more constant.
+Less often, a person might feel sudden, intense pain from a break (fracture) in a bone that has been weakened by a tumor.
+Lump or swelling
+Over time, most Ewing bone tumors and almost all non-bone (soft tissue) Ewing tumors cause a lump or swelling, which is more likely to be noticed in tumors in the arms or legs. The lump is often soft and feels warm. Tumors in the chest wall or pelvis might not be noticed until they have grown quite large.
+Other symptoms
+Ewing tumors can also cause other symptoms, some of which are more common in tumors that have spread:
+
+Fever
+Feeling tired
+Weight loss
+
+Rarely, tumors near the spine can affect nearby nerves, which can lead to back pain, as well as weakness, numbness, or paralysis in the arms or legs.
+Tumors that have spread to the lungs can cause shortness of breath.
+Many of the signs and symptoms of Ewing tumors are more likely to be caused by something else. Still, a person with any of these symptoms, especially if they don’t go away or get worse, should see a doctor so the cause can be found and treated, if needed.
+Because many of these signs and symptoms can be confused with normal bumps and bruises, or with infections, Ewing tumors might not be recognized right away. For example, the doctor might try giving antibiotics first if an infection is suspected. The correct diagnosis might not be made until the signs and symptoms don’t go away (or get worse) and the painful area is then x-rayed.Ewing tumors (Ewing sarcomas) are usually found because of signs or symptoms a person is having. If the doctor suspects a tumor, exams and tests will be needed to find out for sure.
+If a Ewing tumor is found, other tests will then be needed to learn more about it.
+Medical history and physical exam
+If a person has signs or symptoms that could be from a bone or soft tissue tumor, the doctor will want to get a complete medical history to find out more about the symptoms and how long they have been present.
+The doctor will also do a physical exam, paying special attention to any areas causing pain or swelling.
+If the doctor suspects a bone tumor (or another type of tumor), more tests will be done. These might include imaging tests, biopsies, and/or lab tests.
+Imaging tests
+Imaging tests (such as x-rays, MRI scans, CT scans, bone scans, and PET scans) create pictures of the inside of the body. Imaging tests might be done for many reasons, including:
+
+To help find out if a suspicious area might be cancer
+To determine the extent of a tumor or learn how far a cancer may have spread
+To help determine if treatment is working
+
+People who have or might have a Ewing tumor will get one or more of these tests.
+X-rays
+If a lump in or near a bone doesn’t go away or if the doctor suspects a bone tumor for some other reason, an x-ray of the area will probably be the first test done. Doctors can usually spot a bone tumor on an x-ray and can often tell if it is likely to be a Ewing tumor. But other imaging tests might be needed as well.
+Even if an x-ray image strongly suggests a Ewing tumor, a biopsy (described below) will still be needed to confirm that it is cancer rather than some other problem, such as an infection.
+Magnetic resonance imaging (MRI) scan
+MRIs create detailed images using radio waves and strong magnets instead of x-rays, so there is no radiation involved. A contrast material called gadolinium is often injected into a vein before the scan to help see details better.
+An MRI is often done to get a better look at an abnormal area seen on an x-ray. An MRI usually can show if it is likely to be a tumor, an infection, or some type of bone damage from another cause.
+MRIs can also help determine the extent of a tumor, as they show the marrow inside bones as well as the muscle, fat, and connective tissue around the tumor. Knowing the extent of the tumor is very important when planning surgery or radiation therapy.
+MRI scans might also be done to see if the cancer has spread to other areas, such as the spine or pelvis (hip area).
+Computed tomography (CT) scan
+A CT scan combines many x-ray pictures to make detailed cross-sectional images of parts of the body, including soft tissues such as muscles. A contrast material may be injected into a vein before the scan to help see details better.
+CT scans of the chest are often used to see if a Ewing tumor has spread to the lungs. MRI scans are usually a bit better at showing the extent of the main tumor itself, but a CT scan of the tumor may be done as well.
+Bone scan
+For a bone scan, a small amount of low-level radioactive material is injected into the blood and travels to the bones. A special camera that can detect the radioactivity then creates a picture of the skeleton. 
+Areas of active bone changes attract the radioactivity and appear as “hot spots” on the skeleton. These areas may suggest the presence of cancer, but other bone diseases can also cause the same pattern. To be sure, other tests such as plain x-rays or MRI scans, or even a bone biopsy, might be needed.
+A bone scan can help show if a cancer has spread to bones in other parts of the body, so it might be part of the workup for a Ewing tumor. This test is useful because it can show the entire skeleton at once. (A positron emission tomography [PET] scan can often provide similar information, so a bone scan might not be needed if a PET scan is done.)
+Positron emission tomography (PET) scan
+For a PET scan, a form of radioactive sugar (known as FDG) is injected into the blood. Because cancer cells are growing quickly, they absorb large amounts of the sugar. A special camera can then create a picture of areas of radioactivity in the body. The picture is not detailed like a CT or MRI scan, but it provides helpful information about the whole body.
+PET scans can be very helpful in showing the spread of Ewing tumors and in finding out whether abnormal areas seen on other imaging tests (such as a CT scan) are tumors. PET scans can also be repeated during treatment to see how well it is working.
+Many machines can do a PET and CT scan at the same time (PET/CT scan). This lets the doctor compare areas of higher radioactivity on the PET scan with the more detailed appearance of that area on the CT scan.
+Biopsy of the tumor
+The results of imaging tests might strongly suggest a person has a Ewing tumor (or some other type of cancer), but a biopsy (removing some of the tumor for viewing with a microscope and other lab testing) is the only way to be certain.
+If the tumor is in a bone, it is very important that the biopsy is done by an orthopedic surgeon experienced in treating bone tumors. Whenever possible, the biopsy and the surgery to treat the cancer should be planned together, and the same surgeon should do both. Careful planning of the biopsy can help prevent later complications and might reduce the amount of surgery needed later on.
+There are a few ways to get a sample of the tumor to diagnose Ewing tumors.
+Incisional biopsy
+For most suspected Ewing tumors, an incisional biopsy (taking out only a piece of the tumor) is done. This can be done in a couple of ways:
+
+Surgical (open) biopsy: The surgeon cuts away a piece of the tumor through an opening on the skin.
+Needle (closed) biopsy: The surgeon puts a large, hollow needle through the skin and into the tumor to remove a piece of it.
+
+Incisional biopsies are often done while the patient is under general anesthesia (in a deep sleep), but in older teens and adults they are sometimes done with just sedation and a local anesthetic (numbing medicine).
+Excisional biopsy
+In very rare cases, if the tumor is small enough and in a good location, the surgeon can completely remove it while the patient is under general anesthesia (asleep). This is called an excisional biopsy.
+Other procedures that might be done during the biopsy
+If general anesthesia is going to be used for the biopsy, the surgeon may also plan other procedures while the patient is asleep to avoid having to do them as separate operations later on. For example, if the tumor is thought to have spread to the chest or elsewhere, the surgeon may take biopsy samples of these suspected tumors during the surgery. The doctor might also do a bone marrow biopsy (see below) at this time to see if the cancer has spread to the bone marrow.
+During the biopsy (while the patient is still asleep), the biopsy samples can be checked quickly under a microscope for cancer. If it looks like a Ewing tumor, the patient will very likely need chemotherapy as part of treatment, so the surgeon may place a small flexible tube, known as a central venous catheter, into a large vein in the chest area during the same operation. The catheter end lies just under or outside on the skin. It can stay in place for several months during treatment. The catheter gives doctors and nurses easier access to the vein, so not as many needle sticks are needed to give chemo or do blood draws later.
+Bone marrow aspiration and biopsy
+These tests are used to see if the cancer cells have spread into the bone marrow, the soft inner parts of certain bones. The tests might be done once a Ewing tumor has been diagnosed because it is important to know if the tumor has spread to the bone marrow.
+Bone marrow aspiration and biopsy are usually done at the same time. In most cases the marrow samples are taken from the back of the pelvic (hip) bones. These tests may be done during surgery to biopsy or treat the main tumor (while the patient is still under anesthesia), or they may be done as a separate procedure.
+If the bone marrow aspiration is being done as a separate procedure, the patient lies on a table (on their side or belly). The area over the hip is cleaned, and the skin and the surface of the bone are numbed with a local anesthetic, which may cause a brief stinging or burning sensation. Children may also be given other medicines to make them sleepy, or they might even be asleep during the procedure. A thin, hollow needle is then inserted into the bone, and a syringe is used to suck out a small amount of liquid bone marrow.
+A bone marrow biopsy is usually done just after the aspiration. A small piece of bone and marrow is removed with a slightly larger needle that is pushed down into the bone. Once the biopsy is done, pressure is applied to the site to help stop any bleeding.
+Samples from the bone marrow are sent to a pathology lab, where they are looked at and tested for cancer cells.
+Testing biopsy samples
+A doctor called a pathologist looks at all biopsy specimens under a microscope to see if they contain cancer cells. If cancer is found, the specific type of cancer can often be determined as well. But because cells from Ewing tumors share many of the same features as cells from other types of cancer, more lab tests are often needed.
+Immunohistochemistry
+For this test, a portion of the biopsy sample is treated with special proteins (antibodies) that attach to substances found on Ewing tumor cells but not on other cancers. Chemicals (stains) are then added so that cells containing these substances change color and can be seen under a microscope. This lets the pathologist know that the cells are from a Ewing tumor.
+Chromosome tests
+Normal human cells have 23 pairs of chromosomes (strands of DNA), each of which is a certain size and looks a certain way under the microscope. Ewing tumor cells almost always have chromosome translocations, where 2 chromosomes swap pieces of their DNA. In most cases, the cells have translocations between chromosomes 22 and 11. Less often, the translocation is between other chromosomes. Finding these changes can help doctors tell Ewing tumors from other types of cancer. Other types of chromosome changes can also be found in some Ewing tumors.
+Cytogenetics: In this lab test, the cells are looked at with a microscope to see if the chromosomes have any abnormalities. A drawback of this test is that it usually takes about 2 to 3 weeks because the cells must grow in lab dishes for a couple of weeks before their chromosomes are ready to be looked at with a microscope. 
+Fluorescent in situ hybridization (FISH): This test looks more closely at tumor cell DNA using special fluorescent dyes that only attach to specific genes or parts of chromosomes. FISH can find most chromosome changes (such as translocations) that can be seen in standard cytogenetic tests, as well as some gene changes too small to be seen with cytogenetic testing. FISH is very accurate and can usually provide results within a couple of days.
+Polymerase chain reaction (PCR): PCR is a very sensitive test that is often able to detect very small numbers of cells with translocations, which wouldn’t be detected by cytogenetics.
+PCR is also useful in looking for cancer that remains or comes back after treatment. For example, if PCR testing of a bone marrow sample after treatment finds cells with a typical Ewing tumor translocation, it’s likely that at least some cancer remains, and that more treatment is needed.
+Genomics testing: Some newer lab tests can look at all of the genes inside cancer cells at the same time. These tests, also known as next generation sequencing, can sometimes help guide treatment of the cancer.
+Blood tests
+No blood test can be used to diagnose Ewing tumors. But certain blood tests may be helpful once a diagnosis has been made.
+A complete blood count (CBC) measures the levels of white blood cells, red blood cells, and platelets in the blood. An abnormal CBC result (that is, low blood cell counts) might suggest the cancer has spread to the bone marrow, where these blood cells are made.
+A blood test for levels of an enzyme called lactate dehydrogenase (LDH) is typically done at diagnosis. A high LDH level is often a sign that there is more cancer in the body.
+Standard blood tests are done often to check a patient’s general health both before treatment (especially before surgery) and during treatment (such as chemotherapy) to look for possible problems or side effects. These tests often include a CBC to check blood cell levels and blood chemistry tests to measure how well the liver and kidneys are working.Once a Ewing tumor (Ewing sarcoma) has been diagnosed, tests are done to determine the stage (extent) of the cancer. The stage of a Ewing tumor describes how much cancer is in the body. It helps determine how serious the cancer is and how best to treat it. Doctors also use a cancer's stage when talking about survival statistics.
+The stage is based on results of imaging tests and biopsies of the main tumor and any other body tissues, which are described in Tests for Ewing Tumors. 
+A staging system is a standard way for the cancer care team to sum up the extent of the cancer. Different types of cancers have different staging systems.
+The formal (and more detailed) staging systems for Ewing tumors are the American Joint Committee on Cancer (AJCC) systems for bone cancers and for soft tissue sarcomas. They are described briefly below to help you understand them, in case your doctor refers to one of them.
+But for treatment purposes, doctors often use a simpler system, describing Ewing tumors as either localized or metastatic.
+Localized vs. metastatic Ewing tumors
+When determining how best to treat Ewing tumors, doctors typically classify them as either localized or metastatic.
+Localized Ewing tumors
+Doctors call a Ewing tumor localized if it can only be detected in the area where it started or in nearby tissues such as muscle or tendons. A Ewing tumor is considered localized only after all tests have been done (including imaging tests such as x-rays, CT or MRI scans, and PET or bone scans, and possibly a bone marrow biopsy), and they don't show the cancer has spread to distant parts of the body.
+Even when imaging tests don't show that the cancer has spread to distant areas, most patients are likely to have micrometastases (very small areas of cancer spread that can’t be detected with tests). This is why chemotherapy, which can reach all parts of the body, is an important part of treatment for all Ewing tumors.
+Metastatic Ewing tumors
+A metastatic Ewing tumor has clearly spread from where it started to distant parts of the body. Most of the time, it spreads to the lungs or to other bones or the bone marrow. Less commonly, it spreads to the liver or lymph nodes.
+About 1 in 5 patients will have obvious spread that is found by imaging tests. But as mentioned above, many other patients are likely to have small amounts of cancer spread to other parts of the body that can’t be seen on imaging tests.
+AJCC staging system for bone cancers
+The AJCC uses one system to describe all bone cancers, including Ewing tumors that start in bone.
+
+The AJCC staging system for bone cancers is based on 4 key pieces of information:
+
+T describes the size of the main (primary) tumor and whether it appears in different areas of the bone.
+N describes the extent of spread to nearby (regional) lymph nodes (small bean-sized collections of immune system cells). Bone tumors rarely spread to the lymph nodes.
+M indicates whether the cancer has metastasized (spread) to other organs of the body. (The most common sites of spread are to the lungs or other bones.)
+G stands for the grade of the tumor, which describes how the cells from biopsy samples look. Low-grade tumor cells look more like normal cells and are less likely to grow and spread quickly, while high-grade tumor cells look more abnormal. (All Ewing tumors are considered high-grade [G3] tumors.)
+
+Once the T, N, M, and G categories have been determined, the information is combined and expressed as an overall stage. The process of assigning a stage number is called stage grouping. The stages are described in Roman numerals from I to IV (1 to 4), and are sometimes divided further. For more detailed information on the AJCC TNM staging system for bone cancers, see Bone Cancer Stages.
+
+
+
+
+
+
+
+AJCC staging system for soft tissue sarcomas
+Extraosseous Ewing (EOE) tumors (Ewing tumors that don’t start in bones) are staged like soft tissue sarcomas. The AJCC staging system for soft tissue sarcomas is based on 4 key pieces of information:
+
+T describes the size of the main (primary) tumor.
+N describes the extent of spread to nearby (regional) lymph nodes (small bean-sized collections of immune system cells).
+M indicates whether the cancer has metastasized (spread) to other organs of the body.
+G stands for the grade of the tumor, which describes how the cells from biopsy samples look. Low-grade tumor cells look more like normal cells and are less likely to grow and spread quickly, while high-grade tumor cells look more abnormal. (All Ewing tumors are considered high-grade [G3] tumors.)
+
+Numbers or letters after T, N, M, and G provide more details about each of these factors.
+Once the T, N, M, and G categories have been determined, the information is combined and expressed as an overall stage. The process of assigning a stage number is called stage grouping. The stages are described in Roman numerals from I to IV (1 to 4), and are sometimes divided further. For more information about soft tissue sarcoma staging, see Soft Tissue Sarcoma Stages.
+Ewing tumor stages can be confusing, so be sure to ask someone on the health care team if you have any questions about the stage of the cancer.Survival rates can give you an idea of what percentage of people with the same type and stage of cancer are still alive a certain amount of time (usually 5 years) after they were diagnosed. They can’t tell you how long a person will live, but they may help give you a better understanding of how likely it is that treatment will be successful.
+Keep in mind that survival rates are estimates and are often based on previous outcomes of large numbers of people who had a specific cancer, but they can’t predict what will happen in any particular person’s case. These statistics can be confusing and may lead you to have more questions. Ask your doctor how these numbers might apply to your (child's) situation. 
+What is a 5-year relative survival rate?
+A relative survival rate compares people with the same type and stage of cancer to people in the overall population. For example, if the 5-year relative survival rate for a specific stage of Ewing tumor is 80%, it means that people who have that cancer are, on average, about 80% as likely as people who don’t have that cancer to live for at least 5 years after being diagnosed.
+Where do these numbers come from?
+The American Cancer Society relies on information from the Surveillance, Epidemiology, and End Results (SEER) database, maintained by the National Cancer Institute (NCI), to provide survival statistics for different types of cancer.
+The SEER database tracks 5-year relative survival rates for Ewing tumors (Ewing sarcomas) in the United States, based on how far the cancer has spread. The SEER database, however, does not group cancers by AJCC TNM stages. Instead, it groups cancers into localized, regional, and distant stages:
+
+Localized: There is no sign that the cancer has spread outside the bone (or other area) where it started.
+Regional: The cancer has spread outside the bone (or other area) and into nearby structures, or it has reached nearby lymph nodes.
+Distant: The cancer has spread to distant parts of the body, such as to the lungs or to bones in other parts of the body.
+
+5-year relative survival rates for Ewing tumors
+These numbers are based on people diagnosed with Ewing tumors between 2012 and 2018.
+
+
+
+SEER* stage
+5-year relative survival rate
+
+
+Localized
+82%
+
+
+Regional
+71%
+
+
+Distant
+39%
+
+
+All SEER stages combined
+63%
+
+
+
+*SEER = Surveillance, Epidemiology, and End Results
+Understanding the numbers
+
+These numbers apply only to the stage of the cancer when it is first diagnosed. They do not apply later on if the cancer grows, spreads, or comes back after treatment.
+These numbers don’t take everything into account. Survival rates are grouped based on how far the cancer has spread. But other factors, such as those listed below, can also affect a person’s outlook.
+People now being diagnosed with Ewing tumors may have a better outlook than these numbers show. Treatments improve over time, and these numbers are based on people who were diagnosed and treated at least 5 years earlier.
+
+Other factors that can affect prognosis (outlook)
+Factors other than the stage of the cancer can also affect survival rates. Factors that have been linked with a better prognosis include:
+
+Smaller tumor size
+Main tumor is on an arm or leg (as opposed to chest wall or pelvis)
+Normal blood LDH level
+Good tumor response to chemotherapy
+Age younger than 10 years
+
+Even when taking these other factors into account, survival rates are at best rough estimates. Your cancer care team is your best source of information on this topic.It’s important to have honest, open discussions with your health care team. Ask any question, no matter how minor it might seem. For instance, consider these questions:
+Before getting a bone biopsy
+
+How much experience do you have doing this type of biopsy? 
+Are you part of a team that treats bone cancers?
+What will happen during the biopsy?
+How long will it take to get the results from the biopsy?
+
+If a Ewing tumor (Ewing sarcoma) has been diagnosed
+
+What kind of Ewing tumor is it?
+Where exactly is the tumor?
+Has the cancer spread beyond the place where it started?
+What is the stage of the cancer, and what does that mean?
+Do we need any other tests before we can decide on treatment?
+Will we need to see any other types of doctors?
+How much experience do you have treating this type of cancer?
+Who else will be on the treatment team, and what do they do?
+
+When deciding on a treatment plan
+
+What are our treatment options?
+What do you recommend and why?
+Are there any clinical trials we should consider? How can we find out more about them?
+What’s the goal of treatment?
+Should we get a second opinion? How do we do that? Can you recommend a doctor or cancer center?
+How soon do we need to start treatment?
+What should I (we) do to be ready for treatment?
+How long will treatment last? What will it be like? Where will it be done?
+How will treatment affect our daily lives?
+What are the risks and side effects of the suggested treatments?
+Which side effects start shortly after treatment and which ones might develop later on?
+Will treatment affect my child’s ability to grow and develop?
+Are there fertility issues we need to consider?
+
+During and after treatment
+Once treatment begins, you’ll need to know what to expect and what to look for. Not all of these questions may apply, but getting answers to the ones that do may be helpful.
+
+How will we know if the treatment is working?
+Is there anything we can do to help manage side effects?
+What symptoms or side effects should we tell you about right away?
+How can we reach you or someone on your team on nights, weekends, or holidays?
+Who can we talk to if we have questions about costs, insurance coverage, or social support? 
+What are the chances of the cancer coming back after treatment? What might our options be if this happens?
+What type of follow up and rehab will be needed after treatment?
+Do you know of any local or online support groups where we can talk to other families who have been through this?
+
+Along with these sample questions, be sure to write down some of your own. For instance, you might want more information about recovery times so that you can plan your work or school schedules.
+Other health care professionals, such as nurses and social workers, also can answer some of your questions. To find more about speaking with your health care team, see The Doctor-Patient Relationship.Chemotherapy (chemo) is the use of drugs to treat cancer. The drugs are usually given into a vein (IV) and can affect cancer cells in all parts of the body, which makes this treatment useful for cancers that are likely to have spread.
+When is chemo used for Ewing tumors?
+Chemo is an important part of treatment for almost all patients with Ewing tumors (Ewing sarcomas). It is typically the first treatment given, followed by surgery and/or radiation therapy. More chemo is often given after surgery and/or radiation.
+As noted in Ewing Tumor Stages, even patients with localized Ewing tumors, who have no obvious cancer spread shown on imaging tests or in bone marrow biopsy samples, are likely to have very small areas of cancer spread (micrometastases). If chemotherapy isn't given, these small metastases eventually would develop into larger tumors.
+How is chemo given?
+Doctors give chemo in cycles, with a period of treatment (often a few days in a row) followed by a rest period to give the body time to recover. A combination of several chemo drugs is used to treat Ewing tumors.
+In the United States, the most common chemo regimen is known as VDC/IE (or VAC/IE). It alternates between 2 combinations of drugs, given every 2 to 3 weeks:
+
+The first drug combination includes vincristine, doxorubicin (Adriamycin), and cyclophosphamide.
+The second set of drugs includes a combination of ifosfamide and etoposide.
+
+Some doctors may use slightly different drug combinations. These often include many of the same chemo drugs listed above, although other drugs might be used as well (especially if the cancer comes back after treatment).
+Most patients will get chemo for at least 9 weeks before surgery or radiation, and then will get more chemo afterward as well. Usually a total of about 14 to 15 cycles of chemo are given, which can take from about 6 months to close to a year to complete, depending on the schedule. If the tumor has spread to other parts of the body, these same drugs may be given at higher doses.
+Soon after the Ewing tumor is diagnosed (but before starting chemo), the doctor may suggest surgery to put a catheter (a thin, soft tube) into a large vein in the patient’s chest. This is sometimes called a venous access device (VAD) or central venous catheter (CVC). One end of the catheter stays in the vein, while the other end lies just under or outside the skin. The catheter usually stays in place for several months, letting the health care team give drugs and draw blood samples without having to stick needles into the veins each time. If you or your child gets such a device, the health care team will teach you how to care for it to reduce the risk of problems such as infections.
+Side effects of chemo
+When chemo drugs affect cells in the body other than cancer cells, it can lead to side effects. The side effects depend on the type and doses of drugs, and the length of time they are given.
+Children tend to have less severe side effects from chemo than adults and often recover from side effects more quickly. This is why doctors can often give them higher doses of chemo to kill the tumor.
+General side effects of chemo
+Common side effects of many chemo drugs include:
+
+Hair loss
+Mouth sores
+Loss of appetite
+Nausea and vomiting
+Diarrhea
+
+Chemo can damage the bone marrow, where new blood cells are made. This can lead to low blood cell counts, which can result in:
+
+Increased chance of infections (from having too few white blood cells)
+Easy bruising or bleeding (from having too few blood platelets)
+Fatigue (from having too few red blood cells)
+
+Most of these side effects tend to go away after treatment is finished. There are often ways to lessen them. For example, drugs can be given to help prevent or reduce nausea and vomiting, or to help get blood cell counts back to normal levels. Be sure to discuss any questions you have about side effects with the cancer care team.
+Side effects of certain chemo drugs
+Along with the effects listed above, certain chemo drugs can have specific side effects:
+
+Cyclophosphamide and ifosfamide can damage the bladder, which can cause blood in the urine. The risk of this happening can be lowered by giving the drugs with plenty of fluids and with a drug called mesna, which helps protect the bladder.
+Doxorubicin (Adriamycin) can damage the heart. This risk goes up with the total dose of the drug, so doctors are careful to limit the total dose. The doctor might order a heart function test (such as an echocardiogram) before and during treatment to see if this drug is affecting the heart. A drug called dexrazoxane may be given along with the chemo to help lessen the possible damage.
+Vincristine can cause nerve damage (neuropathy). Some patients may notice tingling and numbness, particularly in the hands and feet. This often goes away or gets better once treatment is stopped, but it may last a long time in some people.
+Etoposide can increase the risk of developing leukemia later on, although this is not common.
+
+Some chemo drugs can affect your (child’s) ability to have children (fertility) later in life. Talk to the cancer care team about the possible effects of treatment on fertility, and ask if there are options for preserving fertility, such as sperm banking or ovarian tissue banking.
+For more on the possible late or long-term side effects of chemo, including infertility and second cancers, see Living as a Ewing Tumor Survivor. 
+Tests to check for chemo side effects: Before each treatment, lab tests will be done to be sure the liver, kidney, and bone marrow are working well. If not, chemo may need to be delayed or the doses reduced.
+
+The complete blood count (CBC) checks levels of white blood cells, red blood cells, and blood platelets. These will be watched closely during and after chemo. The white blood cells and platelets usually reach their lowest point about 2 weeks after chemo is given, though this can occur sooner with high-dose regimens.
+Blood chemistry tests measure certain chemicals in the blood that tell doctors how well the liver and the kidneys are working. Some chemo drugs can damage these organs.
+If doxorubicin (Adriamycin) is to be given, tests such as an echocardiogram (an ultrasound of the heart) may be done to check heart function before and during treatment.Surgery is an important part of treatment for most Ewing tumors (Ewing sarcomas). Surgery is usually done for two reasons:
+
+To diagnose the cancer (with a biopsy)
+To remove the tumor(s)
+
+Whenever possible, it’s very important that the biopsy and the surgery to remove the tumor be planned together, and that an experienced orthopedic surgeon at a cancer center does both operations. The biopsy needs to be done in a certain way so that there is a better chance less extensive surgery will be needed later on. 
+The main goal of surgery is to remove all of the cancer. If even a small amount of cancer is left behind, it might continue to grow to make a new tumor, and might even spread to other parts of the body. To lower the risk of this happening, surgeons remove the tumor plus some of the normal tissue that surrounds it. This is known as a wide excision.
+A doctor called a pathologist will look at the removed tissue with a microscope to see if the margins (outer edges) have cancer cells.
+
+If cancer cells are seen at the edges of the tissue, the margins are called positive. Positive margins can mean that some cancer was left behind.
+When no cancer cells are seen at the edges of the tissue, the margins are said to be negative, clean, or clear. A wide excision with clean margins helps limit the risk that the cancer will come back in the place where it started.
+
+Types of surgery for Ewing tumors
+Many types of surgery can be used for Ewing tumors. The choice depends on several factors, including:
+
+The tumor’s size and location
+The patient's age and overall health
+How likely it is that surgery can remove the tumor with clean margins
+How surgery would change the function of the affected part of the body
+
+Tumors in some soft tissues and certain bones can be removed without causing major disability or deformity. Other tumors might not be able to be removed completely without affecting the function or appearance of that part of the body.
+Although all operations to remove Ewing sarcomas are complex, tumors in the arms or legs are generally not as hard to remove as those in other parts of the body, such as the base of the skull, the chest wall, the spine, or the pelvis (hip bones).
+Tumors in the arms or legs
+For most tumors in an arm or leg, surgery can remove part or all of the affected bone while leaving the arm or leg basically intact. This is known as limb-sparing surgery (or limb-salvage surgery). The bone that is removed is replaced either with a bone graft (a piece of bone from another part of the body or from another person) or with an internal prosthesis (a rod-shaped device made of metal and other materials that replaces part or all of a bone). Some newer devices combine a graft and a prosthesis.
+If the tumor is in the upper part of the leg, part of the femur (upper leg bone), including the knee, can be removed and replaced with a prosthesis for the bone and knee, which is connected to the lower leg. Tumors in the lower part of the leg are harder to treat this way, because it is harder to remove and reconstruct parts of the lower leg. The humerus (upper arm bone) is also suitable for limb-sparing surgery.
+Limb-sparing surgery is a very complex operation. The surgeons who do this type of operation must have special skills and experience. The challenge for the surgeon is to be sure to remove the entire tumor while still saving the nearby tendons, nerves, and blood vessels to keep as much of the limb’s function and appearance as possible. If the tumor has grown into these structures, they will need to be removed as well.
+Using an internal prosthesis in a growing child is especially challenging. In the past, it often required several operations over time to replace the prosthesis with a longer one as the child grew. Newer prostheses have become very sophisticated and can often be made longer without any extra surgery. They have tiny devices in them that can lengthen the prosthesis when needed to make room for a child’s growth. But even these prostheses may need to be replaced with a stronger adult prosthesis once the child’s body stops growing.
+Some patients may not be able to have limb-sparing surgery because their tumors are in parts of bones that are hard to replace or because the tumors also extend into vital nerves or blood vessels that can’t be removed without severely damaging the limb. These patients usually get radiation therapy instead of surgery.
+In rare cases, amputation (removal of part or all of the limb) may be the best option, especially if the cancer comes back in the place where it started, and radiation therapy has already been used.
+For an amputation, surgery is usually planned so that muscles and the skin will form a cuff around the remaining bone. This cuff will fit into the end of a prosthetic (artificial) limb. Another option might be to implant a prosthesis into the remaining bone, with the end of the prosthesis remaining outside the skin. This can then be attached to an external prosthesis.
+Tumors in the chest wall
+For a Ewing tumor in the chest wall, the surgeon often must remove the diseased area and also remove nearby ribs, which might then be replaced with a man-made material. If the tumor has spread to the lungs, the chest can be opened and the lung tumors removed during an operation called a thoracotomy. Radiation therapy is often given to the chest as well.
+Tumors in the pelvis (hip bones)
+Pelvic tumors can be hard to treat with surgery, and in many cases radiation therapy may be the preferred treatment. But if the tumor responds well to initial chemotherapy, surgery (sometimes followed by radiation therapy) may be an option. Pelvic bones can sometimes be reconstructed after surgery, but in some cases pelvic bones and the leg they are attached to might need to be removed.
+Tumors in the spine
+Tumors in or right next to the spine can often be hard to remove completely, so radiation therapy is sometimes a better option. If surgery is done, radiation is often given afterward to try to kill any remaining tumor cells.
+Possible side effects of surgery for Ewing tumors
+Short-term risks and side effects: Surgery to remove a Ewing tumor is often a long and complex operation. Serious short-term side effects are not common, but they can include reactions to anesthesia, excess bleeding, blood clots, and infections. Pain is common after the operation, and strong pain medicines might be needed for a while after surgery as the site heals.
+Long-term side effects: The long-term side effects of surgery depend mainly on where the tumor is and what type of operation is done.
+Complications of limb-sparing surgery can include possible breaking or loosening of bone grafts or prostheses. This is more likely than with bone surgery done for other reasons because the chemo used before and after surgery can increase the risk of infection and affect wound healing. Infections in the area can be very serious because they can be hard to treat, and might require further surgery. Infections are also a concern in people who have had amputations, especially of part of a leg, because the pressure placed on the skin at the site of the amputation can cause the skin to break down over time.
+Rehabilitation after surgery
+This might be the hardest part of treatment, and it can’t be described here completely because it will be different for each patient. Whenever possible, patients and parents should meet with a rehabilitation specialist before surgery to learn about their options and what might be required after surgery.
+Physical therapy and rehabilitation are very important for patients who have had surgery for Ewing tumors. Following the recommended rehab program offers the best chance for good long-term limb function. Even with proper rehab, people might still have to adjust to long-term issues such as changes in how they walk or do other tasks, and changes in appearance. Physical, occupational, and other therapies can often help people adjust and cope with these challenges.
+Rehab after limb-sparing surgery
+Even when only the tumor and part of the bone is removed in a limb-sparing operation, the situation can still be complicated, especially in growing children. Children who have had limb-sparing surgery may need more surgery in the coming years to replace the internal prosthesis with one more suited to their growing body size, and some may eventually need an amputation.
+It takes about a year, on average, for patients to learn to walk after limb-sparing surgery on a leg. Physical rehabilitation after limb-sparing surgery is extremely important. If the patient doesn’t actively take part in the rehabilitation program, the salvaged arm or leg might become useless.
+Rehab after amputation
+If a limb is amputated, the patient must learn to adjust to new ways of doing some things, often with the use of a prosthetic limb. This can be particularly hard for growing children if the prosthetic limb needs changing to keep up with their growth. With proper physical therapy, patients are often able to walk on their own about 3 to 6 months after a leg amputation.
+Considering your options
+Both limb-sparing surgery and amputation can have pros and cons. For example, limb-sparing surgery, although often preferred by patients over amputation, tends to lead to more complications because of its complexity. Growing children who have limb-sparing surgery are also more likely to need further surgery later on.
+When researchers have looked at the results of the different surgeries in terms of quality of life, there has been little difference between them. Perhaps the biggest problem has been for teens, who may worry about the social effects of their operation. Emotional issues can be very important, and all patients will need support and encouragement. (See Living as a Ewing Tumor Survivor.)Radiation therapy focuses high-energy beams at the tumor from a machine outside the body to kill the cancer cells.
+Ewing tumors (Ewing sarcomas) are very sensitive to radiation, so radiation therapy can sometimes be helpful in treating them. It may be used with surgery, or it may be used instead of surgery, especially if it would be hard to remove the entire tumor. In either case, chemotherapy is usually given before, during, and afterward.
+How radiation therapy is done
+This type of treatment is given by a doctor called a radiation oncologist. Before treatments start, the radiation team takes careful measurements with imaging tests such as MRI scans to determine the correct angles for aiming the beams and the right dose of radiation. This planning session is called simulation. Patients may also be fitted with a plastic mold resembling a body cast to keep them in the same position each time so that the radiation can be aimed more accurately.
+Most often, radiation treatments are given 5 days a week for several weeks. Each treatment is much like getting an x-ray, but the dose of radiation is much higher. The treatment is not painful. For each session, the patient lies on a special table while a machine delivers the radiation from precise angles.
+Each treatment lasts only a few minutes, but the setup time – getting the patient into place for treatment – usually takes longer. Some younger children may be given medicine before each treatment to make them sleep so they won’t move during treatment.
+Types of radiation therapy
+Modern radiation therapy techniques let doctors focus the radiation more precisely than in the past. These techniques include:
+Three-dimensional conformal radiation therapy (3D-CRT): 3D-CRT uses the results of imaging tests (such as MRI) and special computers to precisely map the location of the tumor. Several radiation beams are then shaped and aimed at the tumor from different directions. Each beam alone is fairly weak, which makes it less likely to damage normal body tissues, but the beams converge at the tumor to give a higher dose of radiation there.
+Intensity modulated radiation therapy (IMRT): IMRT is an advanced form of 3D therapy that can be especially useful for tumors with complex shapes or tumors near important structures, such as the spine. Along with shaping the beams and aiming them at the tumor from several angles, the intensity (strength) of the beams is adjusted to limit the dose reaching the most sensitive normal tissues. This lets the doctor deliver a higher dose to the tumor. Many major hospitals and cancer centers now use IMRT, especially for tumors in hard-to-treat areas such as the spine or pelvis (hip bones).
+Conformal proton beam radiation therapy: Proton beam therapy is another type of 3D therapy. But instead of using x-rays, it focuses proton beams on the tumor. Unlike x-rays, which release energy both before and after they hit their target, protons cause little damage to tissues they pass through and then release their energy after traveling a certain distance. Doctors can use this property to deliver more radiation to the tumor and do less damage to nearby normal tissues.
+This approach may be helpful for hard-to-treat tumors, such as those on the spine, skull, or pelvic bones. However, the machines needed to make protons are expensive, and there are not many of them in the United States at this time.
+Possible side effects of radiation therapy
+Because of the possible side effects of radiation therapy (especially in growing children), surgery is often preferred if it is possible. But improvements in the way radiation therapy is given now allow children with Ewing tumors to be treated with lower doses than were used in the past, helping to reduce some of the side effects.
+The side effects of radiation therapy depend mainly on the dose of radiation and where it is aimed. Some effects may last only a short time, while others might last longer.
+Short-term side effects
+Radiation might cause some short-term side effects, which usually go away within a week or two after treatment. For example:
+
+Radiation can affect the skin in areas that are in the path of the radiation. Effects can range from mild sunburn-like changes and hair loss to more severe skin reactions.
+Radiation might lower blood cell counts. This can be worse if radiation is being given at the same time as chemo, which can also lower blood cell counts.
+Radiation to the head and mouth area might cause mouth sores or dry mouth.
+Radiation to the abdomen or pelvis might cause nausea, diarrhea, or urinary problems.
+
+Late and long-term side effects
+Some side effects might last longer, or they might not show up until some time after treatment is finished. These types of side effects can often be more serious, especially in growing children, so doctors try to limit them as much as possible.
+A serious effect of radiation therapy in children is slowed bone growth, especially in younger children. For example, radiation to the bones in one leg may result in it being much shorter than the other. Radiation of facial bones may cause uneven growth, which might affect how a child looks. But if a child is fully or almost fully grown, this is less likely to be an issue.
+Depending on where the radiation is aimed, it can also damage other organs:
+
+Radiation to the chest wall or lungs can affect lung and heart function.
+Radiation to the pelvis can damage the bladder or intestines, which can lead to problems with urination, digestion, or bowel movements. It can also damage reproductive organs, which could affect fertility later in life, so doctors do their best to protect these organs by shielding them from the radiation or moving them out of the path of radiation whenever possible.
+Side effects of radiation therapy to the spinal cord or skull may include nerve damage, headaches, and trouble thinking, which usually become most serious a year or two after treatment. Fortunately, Ewing tumors rarely spread to the brain, but they can sometimes extend into the brain from nearby bones of the skull.
+
+Another major concern with radiation therapy is that it might cause a new cancer to form in the part of the body that was treated with the radiation. This is most often a different type of bone cancer called an osteosarcoma. This small risk should not keep children who need radiation from getting it. Still, it’s important to continue follow-up visits with your child’s doctor so that if problems come up they can be found and treated as early as possible.This type of treatment is being studied for Ewing tumors (Ewing sarcomas) that are hard to cure with other treatments, such as tumors that have spread (metastasized) to other parts of the body or that have come back after standard treatment. So far, it's not clear if a stem cell transplant is better than other treatments (such as standard chemotherapy), so most doctors recommend it be done only as part of a clinical trial.
+What is a stem cell transplant?
+The doses of chemotherapy (chemo) drugs that can be given safely are normally limited by the side effects these drugs can cause. One of the most serious is damage to the stem cells in bone marrow, which make new blood cells. Even though higher doses of chemo might be more effective in treating Ewing tumors, they can’t be given because they would severely damage these bone marrow cells, leading to life-threatening shortages of blood cells.
+To try to get around this problem, high-dose chemo (sometimes along with radiation therapy) can be followed by a stem cell transplant to “rescue” the bone marrow, giving the person new blood stem cells to replace those that were destroyed.
+In the past, this type of treatment was often called a bone marrow transplant.
+If a stem cell transplant is considered as part of the initial treatment plan for a Ewing tumor, the person first gets standard doses of chemo, then local treatment of the tumor (surgery and/or radiation therapy), followed by high-dose chemo and a stem cell transplant.
+How a stem cell transplant is done
+The first step in a stem cell transplant is done before the treatment with high-dose chemo. The patient's own blood-producing stem cells are collected (harvested) to use later. This type of transplant, where the stem cells are taken from the patient, is known as an autologous transplant. (In another type of stem cell transplant, called an allogeneic transplant, the stem cells come from a donor. This type is not used often for treating Ewing tumors.)
+The stem cells are usually collected from the blood using a procedure similar to a blood donation. But instead of going into a collecting bag, the blood goes into a special machine that filters out the stem cells and returns the other parts of the blood to the person’s body. The stem cells are then frozen until the transplant. Stem cells might need to be collected more than once.
+Once the stem cells have been frozen and stored, the person gets high-dose chemo, sometimes along with radiation therapy. When the treatment is finished, the patient’s stem cells are thawed and returned to the body in a blood transfusion. The stem cells travel through the bloodstream and settle in the bone marrow. Over the next few weeks, they start to make new, healthy blood cells.
+Side effects of stem cell transplants
+A stem cell transplant is a complex treatment that can cause serious or even life-threatening side effects. If the doctors think a person might benefit from a transplant, it should be done at a cancer center where the staff has experience in doing the procedure and managing the recovery period.
+The main side effects from a stem cell transplant are from the chemotherapy. Because high doses of chemo are used, some of these side effects might be more severe than with standard doses of chemo.
+Some side effects of a stem cell transplant might last a long time, or they might not show up until years after the transplant, which is a special concern in children and teens. If a stem cell transplant is recommended for your child, be sure to talk to the cancer care team before the transplant to learn about possible long-term effects your child might have.Treatment of a Ewing tumor (Ewing sarcoma) is based mainly on where it is in the body and how far it has spread when it's first found.
+Localized Ewing tumors
+A localized Ewing tumor is one that still appears to be confined to the area where it started (and maybe also to nearby tissues such as muscle or tendons), based on imaging test and biopsy results. But even people with localized Ewing tumors often still have small areas of cancer in other parts of the body that can't be seen with imaging tests. If these people don't get chemotherapy (chemo) as part of their treatment, these small areas of cancer cells would eventually become larger tumors. This is why chemo, which can reach all parts of the body, is an important part of treatment for localized Ewing tumors.
+Once the Ewing tumor has been diagnosed and staged, the first treatment is chemotherapy. It's called neoadjuvant chemotherapy because it's given before any surgery or radiation therapy. In the United States, patients are given a chemo regimen known as VDC/IE (or VAC/IE), which is a combination of vincristine, doxorubicin (Adriamycin), and cyclophosphamide, alternated with ifosfamide and etoposide, although other combinations of the same drugs are also effective.
+After at least 9 weeks of chemo, imaging tests such as CT, MRI, PET, or bone scans are done to see if the tumor is shrinking (or at least isn't growing) and if it can be surgically removed. If so, surgery is done at this point. The surgery specimen is then sent to a lab to be looked at by a doctor called a pathologist.
+
+If cancer cells are found at or near the edges of the surgery specimen (meaning cancer cells may have been left behind), radiation therapy and chemotherapy (for several months) are used.
+If there are no cancer cells at or near the edges of the surgery specimen, chemotherapy can be used without radiation therapy.
+
+If surgery is not an option after the initial chemotherapy (because of the tumor location or some other reason), but the tumor is not growing, radiation therapy (along with chemotherapy) is usually the next treatment given. In some cases this might shrink the tumor enough so that surgery can then be done. This would then be followed by more chemotherapy, possibly with more radiation as well. In other cases where surgery is still not an option, radiation therapy and chemotherapy are the main treatments.
+If the Ewing tumor continues to grow despite the initial chemotherapy, a second type of chemotherapy (using different drugs) may be tried. Surgery or radiation therapy may also be tried to help keep the tumor under control. This may be followed by more chemotherapy.
+Metastatic Ewing tumors
+Patients who clearly have metastatic disease when they are first diagnosed are harder to treat than patients with localized disease. The outlook tends to be better when the cancer has only spread to the lungs, as opposed to when the cancer has spread to other bones or to the bone marrow.
+Treating metastatic disease is similar in many ways to treating localized disease. Chemotherapy is the first treatment, but it often requires a more intense regimen than would be used if the cancer was localized. After a few months, tests such as CT or MRI scans, bone or PET scans, and/or bone marrow biopsies are done to see how the cancer has responded to treatment.
+If the cancer remains in only a few small areas after chemo, the main (primary) tumor and all known areas of metastases may be removed with surgery at this point. Other approaches, such as surgery plus radiation therapy (before and/or after surgery) or just radiation therapy to all known metastatic sites, might also be options. During and after these treatments, chemotherapy is given for several months as well.
+Doctors at several cancer centers are now studying giving very intensive chemotherapy followed by a stem cell transplant to try to improve the outcome for these patients.
+Because these tumors can be hard to treat, clinical trials of newer treatments may be a good option in many cases.
+Ewing tumors that recur (come back) after treatment
+Recurrence of Ewing tumors after treatment is less likely now than in the past, but it can happen. If the tumor does come back, treatment depends on a number of factors, including:
+
+The size and location of the tumor
+If it has spread to different parts of the body
+What types of treatment were used before
+How long it has been since treatment
+
+Chemotherapy, surgery, radiation therapy, or some combination of these may be used to treat recurrent tumors, depending on the situation. Doctors are also studying the usefulness of high-dose chemotherapy followed by a stem cell transplant, as well as targeted drugs and immune therapies. These tumors can be hard to treat, so clinical trials of newer treatments may be a good option.During treatment for a Ewing tumor (Ewing sarcoma), the main concerns for most people and their families are the daily aspects of getting through treatment and beating the cancer. After treatment, the concerns tend to shift toward the long-term effects of the cancer and its treatment, as well as worries about the cancer coming back.
+It’s certainly normal to want to put the tumor and its treatment behind you and to get back to a life that doesn’t revolve around cancer. But it’s important to realize that follow-up care is a central part of this process that offers the best chance for recovery and long-term survival.
+Follow-up visits and tests
+Once treatment is finished, the health care team will discuss a follow-up schedule with you, including which tests should be done and how often. It’s very important to go to all follow-up appointments. Follow-up visits are needed to check for cancer recurrence, as well as possible side effects of treatment.
+Physical exams, along with imaging tests (such as x-rays and CT, MRI, PET, and/or bone scans) are often done every 2 to 3 months for the first couple of years following treatment, and then less often over time if there are no issues. If Ewing tumors come back, it is usually within the first couple of years after treatment. But they can sometimes come back even many years later, so continued follow-up visits are important.
+Physical therapy and rehabilitation are typically a very important part of recovery after treatment, and your doctors and other health providers will continue to monitor your (child’s) progress as time goes on.
+Blood tests and other tests might be done as well. For example, the chemotherapy drug doxorubicin (Adriamycin) can affect the heart, so tests to measure heart function (such as echocardiograms) will probably be done as well.
+During this time, it is very important to report any new symptoms to the doctor right away so that any problems can be found early, when they can be treated most effectively.
+Ask the cancer care team for a survivorship care plan
+Talk with the treatment team about developing a survivorship care plan. This plan might include: 
+
+A summary of the diagnosis, tests done, and treatment given
+A suggested schedule for follow-up exams and tests
+A schedule for other tests that might be needed in the future, such as early detection (screening) tests for other types of cancer, or tests to look for long-term health effects from the cancer or its treatment
+A list of possible late- or long-term side effects from treatment, including what to watch for and when to contact the doctor
+
+Keeping health insurance and copies of medical records
+As much as you might want to put the experience behind you once treatment is completed, it’s also very important to keep good records of your (child’s) medical care during this time. Gathering these details soon after treatment may be easier than trying to get them at some point in the future. This can be very helpful later on if you (or your child) change doctors. Learn more about this in Keeping Copies of Important Medical Records.
+It’s also very important to keep health insurance coverage. Tests and doctor visits can cost a lot, and even though no one wants to think of the tumor coming back, this could happen.
+Possible late and long-term effects of cancer treatment
+Treatment for a Ewing tumor might affect a person’s health later in life. Young people in particular are at risk for possible late effects of their treatment. This risk depends on many factors, such as the size and location of the cancer, the treatments received, doses of cancer treatment, and the person’s age when treated.
+For example, the after-effects of surgery for Ewing tumors can range from small scars to the loss of a limb, which would require both physical rehabilitation and emotional adjustment.
+Other late effects of treatment can include:
+
+Heart or lung problems (caused by certain chemo drugs or radiation therapy to the chest)
+Slowed growth and development (in the bones or overall)
+Changes in sexual development and ability to have children
+Learning problems in younger children
+Development of a second cancer
+
+Other possible complications might come up as well. Your child’s doctor should carefully review any possible problems with you before starting treatment. For more information, see Late Effects of Childhood Cancer Treatment.
+Long-term follow-up care for children and teens
+To help increase awareness of late effects and improve follow-up care for childhood cancer survivors throughout their lives, the Children’s Oncology Group (COG) has developed long-term follow-up guidelines for survivors of childhood cancers. These guidelines can help you know what to watch for, what types of screening tests should be done to look for problems, and how late effects can be treated.
+It’s very important to discuss possible long-term complications with your child’s health care team, and to make sure there is a plan in place to watch for these problems and treat them, if needed. To learn more, ask your child’s doctors about the COG survivor guidelines. You can also read them on the COG website: www.survivorshipguidelines.org. The guidelines are written for health care professionals. Patient versions of some of the guidelines are available (as “Health Links”) on the site as well, but we urge you to discuss them with your doctor.
+Social and emotional issues
+Most Ewing tumors develop during the teenage or young adult years, a very sensitive time in a person’s life. Ewing tumors and their treatment can have a profound effect on how a person looks and how they view themselves and their body. It can also affect how they do some everyday tasks, including certain school, work, or recreational activities. These effects are often greatest during the first year of treatment, but they can be long-lasting in some people. It’s important that the treating center assess the family situation as soon as possible, so that any areas of concern can be addressed.
+These types of issues can often be addressed with support and encouragement. Doctors and other members of the health care team can also often recommend special support programs and services to help children, teens, and young adults after cancer treatment. For more information, see When Your Child's Treatment Ends.
+No one chooses to have a Ewing tumor, but for many people, the experience can eventually produce some positive effects, helping to establish strong self-values. Other people may have a harder time recovering, adjusting to life after cancer, and moving on. It is normal to have some anxiety or other emotional reactions after treatment, but feeling overly worried, depressed, or angry can affect many parts of a young person’s growth. It can get in the way of relationships, school, work, and other aspects of life.
+With support from family, friends, other survivors, mental health professionals, and others, many people who have survived cancer can thrive in spite of the challenges they’ve had to face.
+Although Ewing tumors and their treatment can have social and emotional effects on children and teens (and their families), adults with this disease face many of the same challenges, and are also encouraged to take advantage of the cancer center’s physical therapy, occupational therapy, and counseling services.What are Ewing tumors?
+Cancer can start any place in the body. Ewing tumors (also known as Ewing sarcomas) are a group of cancers that start in the bones or nearby soft tissues (like muscles and tendons). These cancers start when cells in these areas change and begin to grow out of control.
+Most Ewing tumors happen in older children and teens, but younger children and adults can get them, too. 
+There are different types of Ewing tumors. Your doctor can tell you more about the type you or your child has.
+This cancer most often starts in the hip bones, the ribs or shoulder blades, or in the middle of the leg bones, but it can also start in other bones, or even in the soft tissues next to bones.
+Sometimes cancer cells from a Ewing tumor can spread to other parts of the body, such as the lungs. When cancer cells do this, it’s called metastasis.
+When a Ewing tumor spreads to the lung (or any other place), it’s still called a Ewing tumor. It’s not lung cancer unless it starts from cells in the lung.
+Questions to ask the doctor
+
+Why do you think this is a Ewing tumor?
+Is there a chance it’s not a Ewing tumor?
+What will happen next?
+
+How does the doctor know I have (or my child has) a Ewing tumor?
+Pain in a bone is the most common symptom of a Ewing tumor. A lump or swelling in the same area can be another symptom. If symptoms of pain or swelling don’t go away or get worse over time, you should go to a doctor to get it checked out. The doctor will ask questions about the symptoms and do a physical exam.
+If signs are pointing to a bone tumor, tests will be needed to find out for sure.
+Tests that may be done
+Bone x-ray: This is often the first test done if a doctor suspects a bone tumor.
+MRI scan: MRIs use radio waves and strong magnets instead of x-rays to make detailed pictures of your insides. MRIs make it easier to see how much tumor is in the bone and in other areas of the body. This can help the doctor plan for a biopsy (see below) and surgery.
+CT scan: This test uses x-rays to make detailed pictures of your insides. This may be done to see if cancer has spread to the chest.
+Bone scan: A bone scan can help show if a cancer has spread to other bones. This test is useful because it can show all of the bones at once.
+PET scan: PET scans use a special kind of sugar that can be seen inside the body with a special camera. If there is cancer, this sugar shows up as “hot spots” where the cancer is found. This test can help show if the cancer has spread.
+Biopsy of the tumor
+In a biopsy, the doctor takes out a small piece of the suspected tumor to check it for cancer cells. This can be done during surgery or with a thin, hollow needle. A biopsy is the only way to tell for sure if it is a Ewing tumor.
+If the tumor is in a bone, it’s very important that a surgeon who treats a lot of bone tumors does the biopsy. This might affect treatment later on.
+Bone marrow biopsy
+If a Ewing tumor is found, this test might be done to see if the cancer has spread to the bone marrow (the inner part of some bones). For this test, a hollow needle is put into the back of the hip bones to remove some of the bone marrow, which is then checked in the lab for cancer cells.
+Questions to ask the doctor
+
+What tests will need to be done?
+Who will do these tests?
+Where will they be done?
+Who can explain them to me?
+How and when will we get the results?
+Who will explain the results to me?
+What do we need to do next?
+
+How serious is the cancer?
+If you or your child has a Ewing tumor, the doctor will want to find out how far it has spread. This is called the stage of the cancer. The stage describes the growth of the cancer in the place where it started (such as the bone). It also tells if the cancer has spread to other parts of the body. Your doctor will want to know the stage of the cancer to help decide which treatment might be best.
+For Ewing tumors, what is most important is if tests show the cancer has spread to other parts of the body. 
+Be sure to ask the doctor about the cancer stage and what it means.
+Questions to ask the doctor
+
+Do you know the stage of the cancer?
+If not, how and when will you find out the stage?
+Would you explain to me what the stage means?
+How might the stage of the cancer affect treatment?
+What will happen next?
+
+What kind of treatment will I (or my child) need?
+The main treatments for Ewing tumors are:
+
+Chemotherapy (chemo)
+Surgery
+Radiation treatment
+
+Chemo is almost always the first treatment. This is followed by surgery or radiation (or both), and then usually more chemo
+The treatment plan will depend on:
+
+The stage (extent) of the cancer
+The chance that a type of treatment will cure the cancer or help in some way
+A person’s age and overall health
+Concerns about treatment side effects
+
+Chemotherapy (chemo)
+Chemo is the use of drugs to fight cancer. These drugs go into the bloodstream and are carried all over the body. Chemo is an important part of treatment for Ewing tumors. It is given both before surgery or radiation, and then again afterward, usually for a total of about 6 to 12 months. 
+Chemo is given in cycles or rounds, each of which last 2 to 3 weeks. Each round of treatment is followed by a rest break. Most of the time, 2 or more chemo drugs are given.
+Side effects of chemo
+Chemo can make you feel very tired or sick to your stomach, and it might cause your hair to fall out. You might also have diarrhea or mouth sores. Chemo can also raise your risk of infection, bleeding, and bruising. Some chemo drugs can also harm the nerves, bladder, or heart.
+There are ways to lessen and treat most chemo side effects. Be sure to tell the cancer care team about any side effects so they can help.
+Surgery
+Surgery is an important part of treating most Ewing tumors. Surgery includes both the biopsy to tell for sure that it’s cancer and the surgery to take out the tumor(s). The type of surgery done depends on where the tumor is and other factors. Ask the doctor what kind of surgery will be needed and what to expect.
+A special doctor called an orthopedic surgeon, who treats problems of the muscles, joints, and bone, does the surgery.
+Side effects of surgery
+Any type of surgery can have risks and side effects. These can vary based on what type of surgery is done. Be sure to ask the doctor what to expect. If you have problems, let your doctors know.
+Radiation treatments
+Radiation uses high-energy rays (like x-rays) to kill cancer cells. It can be used after surgery to try to kill any cancer cells that might have been left behind. Or it might be used instead of surgery if all of the cancer can’t be removed. Radiation can also help treat symptoms like pain and swelling if the cancer has come back and more surgery can’t be done.
+Getting radiation is a lot like getting an x-ray. Although the radiation is stronger, it is still painless. Treatments are usually given 5 days a week for several weeks.
+Side effects of radiation treatments
+If the doctor suggests radiation treatment, talk about what side effects might happen. Side effects depend on the type of radiation that’s used and the area being treated. Common side effects of radiation include:
+
+Skin changes and hair loss where the radiation is given
+Feeling very tired
+Feeling sick to your stomach or having loose stools if the radiation is aimed at the belly area
+
+Radiation also can cause some long-term side effects in growing children, such as slowed bone growth. Talk to the cancer care team about what to expect.
+Stem cell transplant
+A stem cell transplant (SCT) lets doctors use very high doses of chemo to kill the Ewing tumor cells. The high doses of these drugs destroy the bone marrow, which keeps new blood cells from being made. But stem cells given after the chemo can bring back the blood-making bone marrow stem cells. 
+This type of treatment is being studied for Ewing tumors that are hard to cure with other treatments, such as tumors that have spread to other parts of the body or that have come back after standard treatment. But so far, it's not clear if a stem cell transplant is better than other treatments, so many doctors advise that it only be done as part of a clinical trial.
+Clinical trials
+Clinical trials are research studies that test new drugs or other treatments in people. They compare standard treatments with others that may be better. Clinical trials are one way to get the newest cancer treatment. They are often the best way for doctors to find better ways to treat cancer. But they might not be right for everyone. If you do sign up for a clinical trial, you can always stop at any time.
+If you would like to learn more about clinical trials, start by asking your doctor if your clinic or hospital conducts clinical trials. See Clinical Trials to learn more.
+What about other treatments that I hear about?
+You might hear about other ways to treat the cancer or its symptoms. These may not always be standard medical treatments. These treatments may be vitamins, herbs, special diets, and other things. 
+Some of these might help, but many have not been tested. Some have been shown not to help. A few have even been found to be harmful. Talk to your doctor about anything you’re thinking about using, whether it’s a vitamin, a diet, or anything else.
+Questions to ask the doctor
+
+Will we need other tests before deciding on treatment?
+Who else will be on the treatment team? What do they do?
+What treatment do you think is best?
+What’s the goal of this treatment? Do you think it could cure the cancer?
+Will treatment include surgery? If so, who will do the surgery?
+What will the surgery be like?
+Is the surgery likely to have any long-term effects?
+Will other types of treatment be needed, too?
+What’s the goal of these treatments?
+What might the side effects be from these treatments?
+Can anything be done about these side effects?
+Are there any clinical trials we should look into?
+What about special vitamins or diets that we've heard about? Are they safe?
+How soon do we need to start treatment?
+What should we do to get ready for treatment?
+Is there anything we can do to help the treatment work better?
+What’s the next step?
+
+What will happen after treatment?
+You’ll be glad once treatment is over. But it can be hard not to worry about cancer coming back. Even when cancer never comes back, people still worry about it. For many years after treatment ends, it’s still important to see the cancer doctor. Be sure to go to all of these follow-up visits. Exams and maybe other tests will be done to see if the cancer has come back and to check for late effects from treatment.
+At first, these visits may be every 2 to 3 months. Then, as long as no cancer is found, the visits will be needed less often.

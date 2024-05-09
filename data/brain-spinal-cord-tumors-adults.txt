@@ -1,0 +1,714 @@
+Brain and spinal cord tumors are masses of abnormal cells in the brain or spinal cord that have grown out of control.
+In most other parts of the body, it is very important to distinguish between benign (non-cancerous) tumors and malignant tumors (cancers). Benign tumors do not grow into nearby tissues or spread to distant areas, so benign tumors in other parts of the body are almost never life-threatening. One of the main reasons malignant tumors are so dangerous is because they can spread throughout the body.
+Brain tumors rarely spread to other parts of the body, but most of them can spread through the brain tissue. Even so-called benign brain tumors can, as they grow, press on and destroy normal brain tissue, which can lead to serious or sometimes even life-threatening damage . For this reason, doctors usually speak of brain tumors rather than brain cancers. The main concerns with brain and spinal cord tumors are:
+
+How fast they grow
+How readily they spread through the rest of the brain or spinal cord
+Where they are located
+If they can be removed (or destroyed) and not come back
+
+But both benign and malignant brain and spinal cord tumors can be life threatening.
+Brain and spinal cord tumors tend to be different in adults and children. They often form in different areas, develop from different cell types, and may have a different outlooks and treatments.
+Information on these types of tumors in children is covered in Brain and Spinal Cord Tumors in Children.
+The central nervous system
+To understand brain and spinal cord tumors, it helps to know about the normal structure and function of the central nervous system (CNS), which is the medical name for the brain and spinal cord.
+The brain is the center of thought, feeling, memory, speech, vision, hearing, movement, breathing, and much more. The spinal cord and special nerves in the head called cranial nerves help carry messages between the brain and the rest of the body. These messages tell our muscles how to move, transmit information gathered by our senses, and help coordinate the functions of our internal organs.
+The brain is protected by the skull. Likewise, the spinal cord is protected by the bones (vertebrae) of the spinal column.
+The brain and spinal cord are surrounded and cushioned by a special liquid, called cerebrospinal fluid (CSF). Cerebrospinal fluid is made by the choroid plexus, which is found in spaces within the brain called ventricles. The ventricles and the spaces around the brain and spinal cord are filled with CSF.
+Parts of the brain and spinal cordThere are two main types of brain and spinal cord tumors:
+
+Tumors that start in the brain or spinal cord are called primary brain (or spinal cord) tumors.
+Tumors that start in another part of the body and then spread to the brain or spinal cord are called metastatic or secondary brain (or spinal cord) tumors.
+
+In adults, metastatic tumors to the brain are actually more common than primary brain tumors, and they are treated differently. This information is about primary brain tumors.
+Unlike cancers that start in other parts of the body, tumors that start in the brain or spinal cord rarely spread to distant organs. Even so, brain or spinal cord tumors are rarely considered benign (non-cancerous). They can still cause damage by growing and spreading into nearby areas, where they can destroy normal brain tissue. And unless they are completely removed or destroyed, most brain or spinal cord tumors will continue to grow and eventually be life-threatening.
+
+How brain and spinal cord tumors are classified
+Several factors are important when doctors are trying to figure out how best to treat a brain or spinal cord tumor and what the prognosis (outlook) is likely to be: 
+The type of tumor (based on the type of cell it starts in): Tumors can form in almost any type of tissue or cell in the brain or spinal cord. Some tumors have a mix of cell types. Different types of tumors tend to start in certain parts of the brain or spinal cord, and tend to grow in certain ways. (The most common types of brain and spinal cord tumors in adults are described below.)
+The grade of the tumor: Some types of brain and spinal cord tumors are more likely to grow into nearby brain or spinal cord tissue (and to grow quickly) than are others. Brain and spinal cord tumors are typically divided into 4 grades (using Roman numerals I to IV), based largely on how the tumor cells look under a microscope: 
+
+Lower grade (grade I or II) tumors tend to grow more slowly and are less likely to grow into (invade or infiltrate) nearby tissues.
+Higher grade (grade III or IV) tumors tend to grow quickly and are more likely to grow into nearby tissues. These tumors often require more intense treatment.
+
+Gene changes in the tumor cells: Even for a specific type of brain tumor, the changes in the genes (DNA) of the tumor cells can be different. For example, many types of tumors are now divided based on whether the cells have mutations in one of the IDH genes (IDH1 or IDH2). For a specific type of tumor, those with IDH mutations tend to have a better outlook than those without a mutation. Other gene mutations can also be important for certain types of tumors.
+The location of the tumor: Where the tumor is in the brain or spinal cord can affect what symptoms it causes, as well as which treatments might be best. 
+Gliomas
+Gliomas are not a specific type of brain tumor. Glioma is a general term for tumors that start in glial cells. A number of tumors can be considered gliomas, including:
+
+Astrocytomas (which include glioblastomas)
+Oligodendrogliomas
+Ependymomas
+
+About 3 out of 10 of all brain tumors are gliomas. Most fast-growing brain tumors are gliomas.
+Astrocytomas
+Astrocytomas are tumors that start in glial cells called astrocytes. About 2 out of 10 brain tumors are astrocytomas.
+Most astrocytomas can spread widely throughout the brain and blend with the normal brain tissue, which can make them very hard to remove with surgery. Sometimes they spread along the cerebrospinal fluid (CSF) pathways. It is very rare for them to spread outside of the brain or spinal cord.
+As with other types of brain tumors, astrocytomas are often grouped by grade.
+Low-grade (grade I or II) astrocytomas tend to grow slowly. These include:
+
+Non-infiltrating (grade I) astrocytomas, which do not usually grow into nearby tissues and tend to have a good prognosis. Examples include pilocytic astrocytomas and subependymal giant cell astrocytomas (SEGAs). These are more common in children than in adults.
+Grade II astrocytomas, such as diffuse astrocytomas and pleomorphic xanthoastrocytomas (PXAs). These tumors tend to be slow growing, but they can grow into nearby areas, which can make them harder to remove with surgery. These tumors can become more aggressive and faster growing over time.
+
+High-grade (grade III or IV) astrocytomas tend to grow quickly and spread into the surrounding normal brain tissue. These include:
+
+Anaplastic (grade III) astrocytomas
+Glioblastomas (grade IV), which are the fastest growing. These tumors make up more than half of all gliomas and are the most common malignant brain tumors in adults.
+
+Oligodendrogliomas
+These tumors start in brain glial cells called oligodendrocytes. These are grade II tumors that tend to grow slowly, but most of them can grow into (infiltrate) nearby brain tissue and can't be removed completely by surgery. Oligodendrogliomas sometimes spread along the CSF pathways but rarely spread outside the brain or spinal cord. As with astrocytomas, they can become more aggressive over time. Very aggressive (grade III) forms of these tumors are known as anaplastic oligodendrogliomas. Only about 1% to 2% of brain tumors are oligodendrogliomas.
+Ependymomas
+These tumors start in ependymal cells, and typically grow in the ventricles or spinal cord in adults. They can range from fairly low-grade (grade II) tumors to higher grade (grade III) tumors, which are called anaplastic ependymomas. Only about 2% of brain tumors are ependymomas.
+Ependymomas are more likely to spread along the cerebrospinal fluid (CSF) pathways than other gliomas but do not spread outside the brain or spinal cord. These tumors may block the flow of CSF from the ventricles, causing the ventricles to become very large – a condition called hydrocephalus.
+Some (but not all) ependymomas can be removed completely and cured by surgery. But because they can spread along ependymal surfaces and CSF pathways, treating them can sometimes be difficult. Spinal cord ependymomas have the greatest chance of being cured with surgery, but treatment can cause side effects related to nerve damage.
+Meningiomas
+Meningiomas begin in the meninges, the layers of tissue that surround the outer part of the brain and spinal cord. Meningiomas account for about 1 out of 3 primary brain and spinal cord tumors. They are the most common primary brain tumors in adults (although strictly speaking, they are not actually brain tumors).
+The risk of these tumors increases with age. They occur about twice as often in women. Sometimes these tumors run in families, especially in those with neurofibromatosis, a syndrome in which people develop many benign tumors of nerve tissue.
+Meningiomas are often assigned a grade, based on how the cells look under the microscope.
+
+Grade I (benign) meningiomas have cells that look the most like normal cells. These are the most common type of meningioma. Most of these tumors can be cured by surgery, but some grow very close to vital structures in the brain or cranial nerves and cannot be cured by surgery alone.
+Grade II (atypical or invasive) meningiomas usually have cells that look slightly more abnormal. They can grow directly into nearby brain tissue and bone and are more likely to come back (recur) after surgery.
+Grade III (anaplastic or malignant) meningiomas have cells that look the most abnormal. These are the least common type of meningiomas. They tend to grow quickly, can grow into nearby brain tissue and bone, and are the most likely to come back after treatment. Some may even spread to other parts of the body.
+
+Medulloblastomas
+Medulloblastomas develop from neuroectodermal cells (early forms of nerve cells) in the cerebellum. They are fast-growing (grade IV) tumors and often spread throughout the CSF pathways, but they can be treated by surgery, radiation therapy, and chemotherapy.
+Medulloblastomas occur much more often in children than in adults. They are part of a class of tumors called embryonal tumors that can also start in other parts of the central nervous system. For more information on these tumors, see Brain and Spinal Cord Tumors in Children.
+Gangliogliomas
+Gangliogliomas contain both neurons and glial cells. These tumors are very uncommon in adults. They are typically slow growing (grade I) tumors and can usually be cured by surgery alone or surgery combined with radiation therapy.
+Schwannomas (neurilemmomas)
+Schwannomas develop from Schwann cells, which surround and insulate cranial nerves and other nerves. They make up about 8% of all CNS tumors.
+Schwannomas are almost always benign (grade I) tumors. They can arise from any cranial nerve. When they form on the cranial nerve responsible for hearing and balance near the cerebellum, they are called vestibular schwannomas or acoustic neuromas. They can also start on spinal nerves after the point where they have left the spinal cord. When this happens, they can press on the spinal cord, causing weakness, sensory loss, and bowel and bladder problems.
+Craniopharyngiomas
+These slow-growing (grade I) tumors start above the pituitary gland but below the brain itself. They may press on the pituitary gland and the hypothalamus, causing hormone problems. Because they start very close to the optic nerves, they can also cause vision problems. Their tendency to stick to these important structures can make them hard to remove completely without damaging vision or hormone balance. Craniopharyngiomas are more common in children, but they are sometimes seen in adults.
+Other tumors that can start in or near the brain
+Chordomas
+These rare tumors start in the bone at the base of the skull or at the lower end of the spine. Chordomas don’t start in the central nervous system, but they can injure the nearby brain or spinal cord by pressing on it.
+These tumors are treated with surgery if possible, often followed by radiation therapy, but they tend to come back in the same area after treatment, causing more damage. They usually do not spread to other organs. For more information on chordomas, see Bone Cancer.
+Non-Hodgkin lymphomas
+Lymphomas are cancers that start in white blood cells called lymphocytes (one of the main cell types of the immune system). Most lymphomas start in other parts of the body, but some start in the CNS, and are called primary CNS lymphomas.
+These lymphomas are more common in people with immune system problems, such as those infected with HIV, the virus that causes AIDS. Because of new treatments for AIDS, primary CNS lymphomas have become less common in recent years. They account for about 2% of primary brain tumors.
+These lymphomas often grow quickly and can be hard to treat. Recent advances in chemotherapy, however, have improved the outlook for people with these cancers. For more information on primary CNS lymphomas (including treatment), see Non-Hodgkin Lymphoma.
+Pituitary tumors
+Tumors that start in the pituitary gland are almost always benign (non-cancerous). But they can still cause problems if they grow large enough to press on nearby structures or if they make too much of any kind of hormone. For more information, see Pituitary Tumors.How common are brain and spinal cord tumors?
+The American Cancer Society’s estimates for brain and spinal cord tumors in the United States for 2023 include both adults and children.
+
+About 25,400 malignant tumors of the brain or spinal cord (14,420 in males and 10,980 in females) will be diagnosed. These numbers would be much higher if benign (non-cancer) tumors were also included.
+About 18,760 people (10,690 males and 8,070 females) will die from brain and spinal cord tumors.
+
+Risk of developing a brain or spinal cord tumor
+Overall, the chance that a person will develop a malignant tumor of the brain or spinal cord in their lifetime is less than 1%. The risk of developing any type of brain or spinal cord tumor is slightly higher among women than among men, although the risk of developing a malignant tumor is slightly higher for men than for women. This is largely because certain types of tumors are more common in one sex or the other (for example, meningiomas are more common in women).
+Survival rates for brain and spinal cord tumors
+Survival rates for brain and spinal cord tumors vary widely, depending on the type of tumor (and other factors). Rates for some of the more common types of brain and spinal cord tumors are discussed in Survival Rates for Selected Adult Brain and Spinal Cord Tumors.
+Visit the American Cancer Society’s Cancer Statistics Center for more key statistics.Research is always being done in the area of brain and spinal cord tumors. Scientists and doctors are looking for causes and ways to prevent these tumors, better tests to help characterize these tumors, and better ways to treat them.
+Lab tests of brain tumors
+In recent years, researchers have found some changes in genes, chromosomes, and proteins inside brain tumor cells that can be used to help predict a person's outlook (prognosis) or help guide treatment. Some examples of changes that can now be tested for include: 
+
+IDH1 or IDH2 gene mutations
+Chromosomal 1p19q co-deletions
+MGMT promoter methylation
+
+For more on how these tests are used, see Tests for Brain and Spinal Cord Tumors in Adults.
+Testing  might also be done in certain situations to look for changes in other genes, such as ATRX, TERT, H3F3A, BRAF, and HELA.
+Researchers are also looking for other changes in tumor cells that might help guide treatment.
+Imaging and surgery techniques
+Recent advances have made surgery for brain tumors much safer and more successful. Some of these newer techniques include:
+Magnetic resonance spectroscopic imaging (MRSI)
+In this approach, specially processed information from magnetic resonance spectroscopy (MRS, described in Tests for Brain and Spinal Cord Tumors in Adults) is used to make a map of important chemicals involved in tumor metabolism. MRSI can help surgeons direct their biopsies to the most abnormal areas in the tumor. It can also help doctors direct radiation to the right areas and evaluate the effects of chemotherapy or targeted therapy.
+Diffusion tensor imaging (DTI) or tractography
+This is a type of MRI test that can show where the major pathways (tracts) of white matter are in the brain. Surgeons can look at this information before operating to help avoid these important parts of the brain when removing tumors.
+Fluorescence-guided surgery
+For this approach, the patient is given a special fluorescent dye a few hours before surgery. The dye is taken up by some tumors, which then glow when the surgeon looks at them under special lighting from the operating microscope. This lets the surgeon better separate the tumor from normal brain tissue. Researchers are now looking to improve on the dyes currently in use.
+Newer surgical approaches for some types of tumors
+To treat some tumors near the pituitary gland, a 3-D endoscope, a thin tube with a tiny video camera lens at the tip, is used to allow the surgeon to see the small area around the tumor in 3 dimensions. The surgeon passes the endoscope through a small hole made in the back of the nose to operate through the nasal passages, limiting the potential damage to the brain. A similar technique can be used for some tumors in the ventricles, where an endoscope is inserted through a small opening in the skull near the hairline. The tumor’s size, shape, and position determine if this technique can be used.
+Laser interstitial thermal therapy (LITT)
+For some tumors that are hard to treat surgically, another option might be to insert a thin probe with a tiny laser on the end through a small hole in the skull and into the tumor. The laser is then used to heat and destroy (ablate) the tumor. This technique is still fairly new, so doctors are still learning about the best ways to use it.
+Radiation therapy
+Some newer types of external radiation therapy planning can help doctors deliver radiation more precisely to the tumor, which helps spare normal brain tissue.
+Modern radiation techniques such as intensity modulated radiation therapy (IMRT), volumetric modulated arc therapy (VMAT), proton beam therapy, and image-guided radiation therapy (IGRT) are described in Radiation Therapy for Adult Brain and Spinal Cord Tumors.
+Other new methods of planning and delivering radiation therapy are also being studied.
+Chemotherapy
+Along with developing and testing new chemotherapy drugs, many researchers are testing new ways to get chemotherapy to the brain tumor.
+Many chemotherapy drugs are limited in their effectiveness because the tightly controlled openings in the brain capillaries, sometimes referred to as the blood-brain barrier, prevents the drugs from getting from the bloodstream to the brain. Researchers are now trying to modify some of these drugs by putting them in tiny droplets of fat (liposomes) or attaching them to molecules that normally cross the blood-brain barrier, to help them work better. This is an area of active research and clinical trials.
+Other new treatment strategies
+Researchers are also testing some newer approaches to treatment that may help doctors target tumors more precisely. This could lead to treatments that work better and cause fewer side effects. Several of these treatments are still being studied.
+Tumor vaccines and other types of immunotherapy
+Several vaccines are being tested against brain tumors. Unlike vaccines against infections, these vaccines are meant to help treat the disease instead of prevent it. The goal of the vaccines is to stimulate the body’s immune system to attack the brain tumor. Early study results of vaccines to help treat glioblastoma have shown promise, but more research is needed to determine how well they work.
+Researchers are also looking at other types of treatments that could boost the immune response against brain tumors.
+At this time, brain tumor vaccines and other types of immunotherapy are available only through clinical trials.
+Targeted drugs (such as growth factor inhibitors)
+Tumor cells are often very sensitive to proteins called growth factors, which help them grow and divide. Newer drugs target some of these growth factors, which may slow the growth of tumor cells or even cause them to die. Many targeted drugs are already used for other types of cancer, and some are being studied to see if they will work for brain tumors as well.A risk factor is anything that increases your chances of getting a disease such as a brain or spinal cord tumor. Different types of cancer have different risk factors. Some risk factors, like smoking, you can change. Others, like your age or family history, can’t be changed.
+But having a risk factor, or even several, does not always mean that a person will get the disease, and many people get brain or spinal cord tumors without having any known risk factors.
+Many different types of tumors can start in the brain or spinal cord, and while they might have some things in common, these different tumors might not all have the same risk factors.
+Most brain tumors are not linked with any known risk factors and have no obvious cause. But there are a few factors that can raise the risk of brain tumors.
+Radiation exposure
+The best known environmental risk factor for brain tumors is radiation exposure, most often from radiation therapy to treat some other condition. For example, before the risks of radiation were known, children with ringworm of the scalp (a fungal infection) were sometimes treated with low-dose radiation therapy, which was later found to increase their risk of some types of brain tumors as they got older.
+Today, most radiation-induced brain tumors are caused by radiation to the head given to treat other cancers. They occur most often in people who received radiation to the brain as children as part of their treatment for leukemia. These brain tumors most often develop around 10 to 15 years after the radiation, but sometimes they might not appear until decades later.
+Radiation-induced tumors are still fairly rare, but because of the increased risk (as well as the other side effects), radiation therapy is only given to the head after carefully weighing the possible benefits and risks. For most patients with other cancers in the brain or head, the benefits of radiation therapy far outweigh the risk of developing a brain tumor years later.
+The possible risk from exposure to imaging tests that use radiation, such as x-rays or CT scans, is not known for sure. These tests use much lower levels of radiation than those used in radiation treatments, so if there is any increase in risk, it is likely to be very small. But to be safe, most doctors recommend that people (especially children and pregnant women) not get these tests unless they are clearly needed.
+Family history
+Most people with brain tumors do not have a family history of them, but in rare cases brain and spinal cord tumors do run in families. In general, patients with familial cancer syndromes tend to have many tumors that first occur when they are young. Some of these families have well-defined disorders, such as:
+Neurofibromatosis type 1 (NF1)
+This genetic disorder, also known as von Recklinghausen disease, is the most common syndrome linked to brain or spinal cord tumors. People with this condition have higher risks of schwannomas, meningiomas, and certain types of gliomas, as well as neurofibromas (benign tumors of peripheral nerves). Changes in the NF1 gene cause this disorder. These changes are inherited from a parent in about half of all cases. In the other half, the NF1 gene changes occur before birth in people whose parents did not have this condition.
+Neurofibromatosis type 2 (NF2)
+This condition, which is much less common than NF1, is associated with vestibular schwannomas (acoustic neuromas), which almost always occur on both sides of the head. It is also linked with an increased risk of meningiomas or spinal cord ependymomas. Changes in the NF2 gene are usually responsible for neurofibromatosis type 2. Like NF1, the gene changes are inherited in about half of cases. In the other half, they occur before birth in children without a family history.
+Tuberous sclerosis
+People with this condition may have subependymal giant cell astrocytomas (SEGAs), which are low-grade astrocytomas that develop beneath the ependymal cells of the ventricles. They may also have other benign tumors of the brain, skin, heart, kidneys, and other organs. This condition is caused by changes in either the TSC1 or the TSC2 gene. These gene changes can be inherited from a parent, but most often they develop in people without a family history.
+Von Hippel-Lindau syndrome
+People with this condition tend to develop benign or cancerous tumors in different parts of the body, including hemangioblastomas (benign blood vessel tumors) in the brain, spinal cord, or retina, as well as tumors of the inner ear, kidney, adrenal gland, and pancreas. It is caused by changes in the VHL gene. Most often the gene changes are inherited, but in some cases the changes happen before birth in people whose parents don’t have them.
+Li-Fraumeni syndrome
+People with this condition are at higher risk for developing gliomas, along with breast cancer, soft tissue sarcomas, leukemia, adrenal gland cancer, and certain other types of cancer. It is caused by changes in the TP53 gene.
+Turcot syndrome
+Turcot syndrome (also known as brain tumor-polyposis syndrome) describes people who have many colon polyps and an increased risk of colorectal cancer, as well as an increased risk for certain types of brain tumors. But this syndrome is actually made up of two different hereditary conditions:
+
+When linked with familial adenomatous polyposis (FAP), there is a mutation in the APC gene. In people with this gene mutation, brain tumors are typically medulloblastomas.
+When linked with Lynch syndrome (also known as hereditary non-polyposis colorectal cancer or HNPCC), the mutation is in one of the mismatch repair genes, such as MLH1 or PMS2. In people with one of these gene mutations, brain tumors are usually gliomas.
+
+Other syndromes
+Other inherited conditions are also linked with increased risks of certain types of brain and spinal cord tumors, including:
+
+Gorlin syndrome (basal cell nevus syndrome)
+Cowden syndrome
+
+Some families may have genetic disorders that are not well recognized or that may even be unique to a particular family.
+Having a weakened immune system
+People with weakened immune systems have an increased risk of developing lymphomas of the brain or spinal cord (known as primary CNS lymphomas). Lymphomas are cancers of lymphocytes, a type of white blood cell that fights disease. Primary CNS lymphoma is less common than lymphoma that develops outside the brain.
+A weakened immune system can be congenital (present at birth), or it can be caused by treatments for other cancers, treatment to prevent rejection of transplanted organs, or diseases such as acquired immunodeficiency syndrome (AIDS).
+Factors with uncertain, controversial, or unproven effects on brain tumor risk
+Cell phone use
+Cell phones give off radiofrequency (RF) rays, a form of energy on the electromagnetic spectrum between FM radio waves and those used in microwave ovens, radar, and satellite stations. Cell phones do not give off ionizing radiation, the type that can cause cancer by damaging the DNA inside cells. Still, there have been concerns that the phones, whose antennae are built-in and therefore are placed close to the head when being used, might somehow raise the risk of brain tumors.
+Some studies have suggested a possible increased risk of brain tumors or of vestibular schwannomas (acoustic neuromas) with cell phone use, but most of the larger studies done so far have not found an increased risk, either overall or among specific types of tumors. Still, there are very few studies of long-term use (10 years or more), and cell phones haven’t been around long enough to determine the possible risks of lifetime use. The same is true of any possible higher risks in children, who are increasingly using cell phones. Cell phone technology also continues to change, and it’s not clear how this might affect any risk.
+These risks are being studied, but it will probably be many years before firm conclusions can be made. In the meantime, for people concerned about the possible risks, there are ways to lower your exposure, such as using the phone's speaker or an earpiece to move the phone itself away from the head.
+For more on this topic, see Cellular Phones. 
+Other factors
+Other environmental factors such as exposure to vinyl chloride (a chemical used to manufacture plastics), petroleum products, and certain other chemicals have been linked with an increased risk of brain tumors in some studies but not in others.
+Exposure to aspartame (a sugar substitute), exposure to electromagnetic fields from power lines and transformers, and infection with certain viruses have been suggested as possible risk factors, but most researchers agree that there is no convincing evidence to link these factors to brain tumors. Research on these and other possible risk factors continues.Many different types of tumors can start in the brain or spinal cord. These different tumors are unlikely to all have the same causes, but they might share some things in common.
+The cause of most brain and spinal cord tumors is not fully understood, and there are very few well-established risk factors. But researchers have found some of the changes that occur in normal brain cells that may lead them to form brain tumors.
+Normal human cells grow and function based mainly on the information in each cell’s DNA. Brain and spinal cord tumors, like other tumors, are caused by changes in the DNA inside cells. DNA is the chemical that makes up our genes, which control how our cells function. We usually look like our parents because they are the source of our DNA. But DNA affects more than how we look.
+Some genes control when our cells grow, divide into new cells, and die:
+
+Certain genes that help cells grow, divide, and stay alive are called oncogenes.
+Genes that help keep cell division under control, repair mistakes in DNA, or make cells die at the right time are called tumor suppressor genes.
+
+Cancers can be caused by DNA changes that turn on oncogenes or turn off tumor suppressor genes. These gene changes can be inherited from a parent, but more often they happen during a person’s lifetime.
+Inherited gene changes
+Researchers have found gene changes that cause some rare inherited syndromes (like neurofibromatosis, tuberous sclerosis, Li-Fraumeni syndrome, and von Hippel-Lindau syndrome) that increase the risk of developing some brain and spinal cord tumors. For example, the Li-Fraumeni syndrome is caused by changes in the TP53 tumor suppressor gene. Normally, this gene prevents cells with damaged DNA from growing. Changes in this gene increase the risk of developing brain tumors (particularly gliomas), as well as some other cancers.
+Gene changes acquired during a person's lifetime
+It's usually not known why people without inherited syndromes develop brain or spinal cord tumors. Most exposures that cause cancer, such as chemicals in tobacco smoke, somehow damage DNA. But the brain is relatively protected from most cancer-causing chemicals that we might breathe in or eat, so these factors are not likely to play a major role in these cancers.
+Several different gene changes usually occur in normal cells before they become cancerous. There are many kinds of brain tumors, each of which may have different sets of gene changes. A number of gene changes have been found in different brain tumor types, but there are probably many others that have not yet been found.
+Researchers now understand some of the gene changes that occur in different types of brain tumors, but it’s still not clear what causes most of these changes. Some gene changes might be inherited, but most brain and spinal cord tumors are not the result of known inherited syndromes. Other than radiation, no known lifestyle-related or environmental factors are clearly linked to brain tumors. Most gene changes are probably just random events that sometimes happen inside a cell, without having an outside cause.At this time there are no widely recommended tests to screen for brain and spinal cord tumors. (Screening is testing for a disease in people who have no symptoms.) Most brain tumors are found when a person goes to a doctor because of signs or symptoms they are having.
+Most often, the outlook for people with a brain or spinal cord tumor depends on their age, the type of tumor, and its location, not by how early it is detected. But as with any disease, earlier detection and treatment is likely to be helpful.
+People with inherited syndromes
+For people with certain inherited syndromes (such as neurofibromatosis or tuberous sclerosis) that put them at higher risk for brain tumors, doctors often recommend frequent physical exams and other tests starting when they are young. In some cases these tests can find tumors when they are still small. Not all tumors related to these syndromes may need to be treated right away, but finding them early might help doctors monitor them so that they can be treated quickly if they begin to grow or cause problems.Many different types of tumors can start in the brain or spinal cord. These tumors might cause different signs and symptoms, depending on where they are and how fast they are growing.
+Signs and symptoms of brain or spinal cord tumors may develop gradually and become worse over time, or they can happen suddenly, such as with a seizure.
+General symptoms
+Tumors in any part of the brain might increase the pressure inside the skull (known as intracranial pressure). This can be caused by growth of the tumor itself, swelling in the brain, or blockage of the flow of cerebrospinal fluid (CSF). Increased pressure can lead to general symptoms such as:
+
+Headache
+Nausea
+Vomiting
+Blurred vision
+Balance problems
+Personality or behavior changes
+Seizures
+Drowsiness or even coma
+
+Headaches that tend to get worse over time are a common symptom of brain tumors, occurring in about half of patients. (Of course, most headaches are not caused by tumors.)
+As many as half of people with brain tumors will have seizures at some point. The type of seizure may depend on where the tumor is. Sometimes this is the first sign of a brain tumor, but fewer than 1 in 10 first seizures are caused by brain tumors.
+Symptoms of tumors in different parts of the brain or spinal cord
+Tumors in different parts of the brain or spinal cord can cause different symptoms. But these symptoms can be caused by any abnormality in that particular location — they do not always mean a person has a brain or spinal cord tumor.
+
+Tumors in the parts of the cerebrum (the large, outer part of the brain) that control movement or sensation can cause weakness or numbness of part of the body, often on just one side.
+Tumors in or near the parts of the cerebrum responsible for language can cause problems with speech or even understanding words.
+Tumors in the front part of the cerebrum can sometimes affect thinking, personality, and language.
+If the tumor is in the cerebellum (the lower, back part of the brain that controls coordination), a person might have trouble walking; trouble with precise movements of hands, arms, feet, and legs; problems swallowing or synchronizing eye movements; and changes in speech rhythm.
+Tumors in the back part of the cerebrum, or around the pituitary gland, the optic nerve, or certain other cranial nerves can cause vision problems.
+Tumors in or near other cranial nerves might lead to hearing loss (in one or both ears), balance problems, weakness of some facial muscles, facial numbness or pain, or trouble swallowing.
+Spinal cord tumors can cause numbness, weakness, or lack of coordination in the arms and/or legs (usually on both sides of the body), as well as bladder or bowel problems.
+
+The brain also controls functions of some other organs, including hormone production, so brain tumors can also cause many other symptoms not listed here.
+Having one or more of the symptoms above does not necessarily mean that you have a brain or spinal cord tumor. All of these symptoms can have other causes. Still, if you have any of these symptoms, especially if they don’t go away or get worse over time, see your doctor so the cause can be found and treated, if needed.Brain and spinal cord tumors are usually found because of signs or symptoms a person is having. If a tumor is suspected, tests will be needed to confirm the diagnosis.
+Medical history and physical exam
+If signs or symptoms suggest you might have a brain or spinal cord tumor, your doctor will ask about your medical history, focusing on your symptoms and when they began. The doctor will also check your brain and spinal cord function by testing things like your reflexes, muscle strength, vision, eye and mouth movement, coordination, balance, and alertness.
+If the results of the exam are abnormal, you may be referred to a neurologist (a doctor who specializes in medical treatment of nervous system diseases) or a neurosurgeon (a doctor who specializes in surgical treatment of nervous system diseases), who will do a more detailed neurologic exam and may order other tests.
+Imaging tests
+Your doctor may order one or more imaging tests. These tests use x-rays, strong magnets, or radioactive substances to create pictures of the brain and spinal cord.
+Magnetic resonance imaging (MRI) and computed tomography (CT) scans are used most often to look for brain diseases. These scans will almost always show a brain tumor, if one is present. Doctors can often also get an idea about what type of tumor it might be, based on how it looks on the scan and where it is in the brain.
+Magnetic resonance imaging (MRI) scan
+MRI scans are very good for looking at the brain and spinal cord and are considered the best way to look for tumors in these areas. The images they provide are usually more detailed than those from CT scans (described below). But they do not pick up the bones of the skull as well as CT scans and therefore may not show the effects of tumors on the skull.
+MRI scans use radio waves and strong magnets (instead of x-rays) to make pictures. A contrast material called gadolinium may be injected into a vein before the scan to help see details better.
+Special types of MRI can be useful in some situations:
+Magnetic resonance angiography (MRA) and magnetic resonance venography (MRV): These special types of MRI may be used to look at the blood vessels in the brain. This can be very useful before surgery to help the surgeon plan an operation.
+Magnetic resonance spectroscopy (MRS): This test can be done as part of an MRI. It measures biochemical changes in an area of the brain (displayed in graph-like results called spectra, although basic images can also be created). By comparing the results for a tumor to that of normal brain tissue, it can sometimes help determine the type of tumor (or how quickly it is likely to grow), although a biopsy of the tumor is often still needed to get an accurate diagnosis. MRS can also be used after treatment to help determine if an area that still looks abnormal on another test is remaining tumor or if it is more likely to be scar tissue.
+Magnetic resonance perfusion: For this test, also known as perfusion MRI, a contrast dye is injected quickly into a vein. A special type of MR image is then obtained to look at the amount of blood going through different parts of the brain and tumor. Tumors often have a bigger blood supply than normal areas of the brain. A faster growing tumor may need more blood.
+Perfusion MRI can give doctors an idea of the best place to take a biopsy. It can also be used after treatment to help determine if an area that still looks abnormal is remaining tumor or if it is more likely to be scar tissue.
+Functional MRI (fMRI): This test looks for tiny blood flow changes in an active part of the brain. It can be used to determine what part of the brain handles a function such as speech, thought, sensation, or movement. Doctors can use this to help determine which parts of the brain to avoid when planning surgery or radiation therapy.
+This test is similar to a standard MRI, except that you will be asked to do specific tasks (such as answering simple questions or moving your fingers) while the scans are being done.
+Computed tomography (CT) scan
+A CT scan uses x-rays to make detailed cross-sectional images of your brain and spinal cord (or other parts of the body). Unlike a regular x-ray, a CT scan creates detailed images of the soft tissues in the body.
+CT scans are not used as often as MRI scans when looking at brain or spinal cord tumors, but they can be useful in some cases. They may be used if MRI is not an option (such as in people who are very overweight or people who have a fear of enclosed spaces). CT scans also show greater detail of the bone structures near the tumor.
+As with MRI, you may get an injection of a contrast dye through an IV (intravenous) line before the scan (although a different dye is used for CT scans). This helps better outline any tumors that are present.
+CT angiography (CTA): For this test, you are injected with a contrast material through an IV line while you are in the CT scanner. The scan creates detailed images of the blood vessels in the brain, which can help doctors plan surgery. CT angiography can provide better details of the blood vessels in and around a tumor than MR angiography in some cases.
+Positron emission tomography (PET) scan
+For a PET scan, you are injected with a slightly radioactive substance (usually a type of sugar known as FDG) which collects mainly in tumor cells. A special camera is then used to create a picture of areas of radioactivity in the body. The picture is not as detailed as a CT or MRI scan, but it can provide helpful information about whether abnormal areas seen on other tests (such as MRIs) are likely to be tumors or not. This test is more likely to be helpful for fast-growing (high-grade tumors) than for slower-growing tumors.
+This test is also useful after treatment to help determine if an area that still looks abnormal on an MRI scan is remaining tumor or if it is more likely to be scar tissue. Remaining tumor might show up on the PET scan, while scar tissue will not.
+Chest x-ray
+A chest x-ray might be done to look for tumors in the lungs if a tumor is found in the brain. This is because in adults, most tumors in the brain actually have started in another organ (most often the lung) and then spread to the brain. This test can be done in a doctor’s office, in an outpatient radiology center, or in a hospital.
+Brain or spinal cord tumor biopsy
+Imaging tests such as MRI and CT scans may show an abnormal area that is likely to be a brain or spinal cord tumor. But these scans can’t always tell exactly what type of tumor it is. Often this can only be done by removing some of the tumor tissue in a procedure called a biopsy. A biopsy may be done as a procedure on its own, or it may be part of surgery to remove the tumor.
+Sometimes, a tumor may look so characteristically obvious on an MRI scan (for example, clearly looking like an astrocytoma) that a biopsy is not needed, especially if the tumor is in a part of the brain that would make it hard to biopsy (such as the brain stem). In rare cases a PET scan or MR spectroscopy may give enough information so that a biopsy is not needed.
+The 2 main types of biopsies for brain tumors are:
+Stereotactic (needle) biopsy
+This type of biopsy may be used if, based on imaging tests, surgery to remove the tumor might be too risky (such as with some tumors in vital areas, those deep within the brain, or other tumors that probably can’t be removed safely with surgery) but a sample is still needed to make a diagnosis.
+The patient may be asleep (under general anesthesia) or awake during the biopsy. If the patient is awake, the neurosurgeon injects a local anesthetic into areas of skin above the skull to numb them. (The skull and brain do not feel pain.)
+The biopsy itself can be done in two main ways:
+
+One approach is to get an MRI or CT, and then use either markers (each about the size of a nickel) placed on different parts of the scalp, or facial and scalp contours, to create a map of the inside of the head. An incision (cut) is then made in the scalp, and a small hole is drilled in the skull. An image-guidance system is then used to direct a hollow needle into the tumor to remove small pieces of tissue.
+In an approach that’s being used less often, a rigid frame is attached to the head. An MRI or CT scan is often used along with the frame to help the neurosurgeon guide a hollow needle into the tumor. This also requires an incision in the scalp and a small hole in the skull.
+
+The removed tissue is sent to a pathologist (a doctor specializing in diagnosis of diseases by lab tests). Sometimes it might need to be looked at by a neuropathologist, a pathologist who specializes in nervous system diseases. The pathologist looks at it under a microscope (and might do other lab tests) to determine if the tumor is benign or malignant (cancerous) and exactly what type of tumor it is. This is very important in determining a person's prognosis (outlook) and the best course of treatment. A preliminary diagnosis might be available the same day, although it often takes at least a few days to get a final diagnosis.
+Surgical or open biopsy (craniotomy)
+If imaging tests show the tumor can likely be treated with surgery, the neurosurgeon may not do a needle biopsy. Instead, an operation called a craniotomy (described in Surgery for Adult Brain and Spinal Cord Tumors) might be done to remove all or most of the tumor. (If removing all of the tumor would likely damage nearby important structures, removing most of the tumor, known as debulking, might be done.)
+For a preliminary diagnosis, small samples of the tumor are looked at right away by the pathologist while the patient is still in the operating room. This can help guide treatment, including whether further surgery should be done at that time. A final diagnosis is made within a few days in most cases.
+You can read more about the kinds of tests done on biopsy or tissue samples in Testing Biopsy and Cytology Specimens for Cancer.
+Lab tests of biopsy specimens
+Finding out which type of tumor someone has is very important in helping to determine their outlook (prognosis) and treatment options. But in recent years, doctors have found that changes in certain genes, chromosomes, or proteins within the cancer cells can also be important. Some tumors are now tested for these types of changes. For example:
+
+Gliomas that are found to have IDH1 or IDH2 gene mutations tend to have a better outlook than gliomas without these gene mutations.
+In high-grade gliomas, the presence of MGMT promoter methylation is linked with better outcomes and a higher likelihood of responding to chemotherapy. 
+
+Lab tests looking for other gene or chromosome changes might also be done.
+Lumbar puncture (spinal tap)
+This test is used mainly to look for cancer cells in the cerebrospinal fluid (CSF), the liquid that surrounds the brain and spinal cord. For this test, you lie on your side on a bed or exam table with your knees up near your chest. The doctor first numbs an area in the lower part of the back near the spine. A small, hollow needle is then placed between the bones of the spine to withdraw some of the fluid.
+This fluid is sent to a lab to be looked at for cancer cells. Other tests may be done on the fluid as well.
+Lumbar punctures are usually very safe, but doctors have to make sure the test does not result in a large drop in fluid pressure inside the skull, which could possibly cause serious problems. For this reason, imaging tests such as CT or MRI scans are done first.
+Lumbar punctures usually aren’t done to diagnose brain tumors, but they may be done to help determine the extent of a tumor by looking for cancer cells in the CSF. They are often used if a tumor has already been diagnosed as a type that can commonly spread through the CSF, such as an ependymoma. Lumbar punctures are particularly important in people with suspected brain lymphomas because lymphoma cells often spread into the CSF.
+Blood and urine tests
+These lab tests rarely are part of the actual diagnosis of brain and spinal cord tumors, but they may be done to check how well the liver, kidneys, and some other organs are working. This is especially important before any planned surgery. If you are getting chemotherapy, blood tests will be done routinely to check blood counts and to see if the treatment is affecting other parts of your body.For most types of cancer, the stage of the cancer – a measure of how far it has spread – is one of the most important factors in selecting treatment options and in determining a person's outlook (prognosis).
+But tumors of the brain and spinal cord differ in some important ways from cancers in other parts of the body. One of the main reasons other cancers are dangerous is that they can spread throughout the body. Tumors starting in the brain or spinal cord can spread to other parts of the central nervous system, but they almost never spread to other organs. These tumors are dangerous because they can interfere with essential brain functions.
+Because tumors in the brain or spinal cord almost never spread to other parts of the body, they do not have a formal staging system like most other cancers. Some of the important factors that help determine a person’s outlook include:
+
+The person's age
+Their functional level (whether the tumor is affecting normal brain functions and everyday activity)
+The type of tumor (such as astrocytoma, ependymoma, etc.)
+The grade of the tumor (how quickly the tumor is likely to grow, based on how the cells look under a microscope)
+If the tumor cells have certain gene mutations or other changes (For example, tumors with a mutation in the IDH1 or IDH2 gene, known as “IDH-mutant” tumors, tend to grow more slowly and have a better outlook than tumors without these mutations.)
+The location and size of the tumor
+How much of the tumor can be removed by surgery (if it can be done)
+Whether or not the tumor has spread through the cerebrospinal fluid to other parts of the brain or spinal cord
+Whether or not tumor cells have spread beyond the central nervous system
+
+If you have a brain or spinal cord tumor, talk to your doctor to learn more about how these and other factors might affect your outlook and treatment options.Survival rates can give you an idea of what percentage of people with the same type of brain or spinal cord tumor are still alive a certain amount of time (such as 5 years) after they were diagnosed. They can’t tell you how long you will live, but they may help give you a better understanding of how likely it is that your treatment will be successful.
+Keep in mind that survival rates are estimates and are often based on previous outcomes of large numbers of people who had a specific type of tumor, but they can’t predict what will happen in any particular person’s case. These statistics can be confusing and may lead you to have more questions. Your doctor is familiar with your situation; ask how these numbers may apply to you.
+What is a 5-year relative survival rate?
+A relative survival rate compares people with the same type of tumor to people in the overall population. For example, if the 5-year relative survival rate for a specific type of brain tumor is 70%, it means that people who have that tumor are, on average, about 70% as likely as people who don’t have that tumor to live for at least 5 years after being diagnosed.
+Survival rates for more common adult brain and spinal cord tumors
+The numbers in the table come from the Central Brain Tumor Registry of the United States (CBTRUS) and are based on people who were treated between 2001 and 2015. As can be seen below, survival rates for some types of brain and spinal cord tumors can vary widely by age, with younger people tending to have better outlooks than older people. The survival rates for those 65 or older are generally lower than the rates for the ages listed below.
+These numbers are for some of the more common types of brain and spinal cord tumors. Accurate numbers are not readily available for all types of tumors, often because they are rare or are hard to classify.
+
+
+
+Type of Tumor
+5-Year Relative Survival Rate
+
+
+Age
+
+
+20-44
+45-54
+55-64
+
+
+Low-grade (diffuse) astrocytoma
+73%
+46%
+26%
+
+
+Anaplastic astrocytoma
+58%
+29%
+15%
+
+
+Glioblastoma
+22%
+9%
+6%
+
+
+Oligodendroglioma
+90%
+82%
+69%
+
+
+Anaplastic oligodendroglioma
+76%
+67%
+45%
+
+
+Ependymoma/anaplastic ependymoma
+92%
+90%
+87%
+
+
+Meningioma
+84%
+79%
+74%
+
+
+
+Understanding the numbers
+
+These numbers don’t take everything into account. Survival rates are grouped here based on tumor type and a person’s age. But other factors, such as the location of the tumor, whether it can be removed (or destroyed) completely, and if the tumor cells have certain gene or chromosome changes, can also affect your outlook.
+People now being diagnosed with brain or spinal cord tumors may have a better outlook than these numbers show. Treatments improve over time, and these numbers are based on people who were diagnosed and treated at least five years earlier.
+Remember, these survival rates can’t predict what will happen to any individual person. If you find these statistics are confusing and you have more questions, talk to your doctor to better understand your specific situation.It’s important for you to be able to have honest, open discussions with your cancer care team. Ask any question, no matter how small it might seem. Here are some you might want to ask, but be sure to add your own questions as you think of them.
+When you're told you have a brain or spinal cord tumor
+
+What kind of tumor do I have?
+Is the tumor benign or malignant? What does this mean?
+Where in the brain or spinal cord is the tumor? Has it grown into nearby areas?
+Will I need any other tests before we can decide on treatment?
+Will I need to see any other types of doctors?
+
+When deciding on a treatment plan
+
+How much experience do you have treating this type of tumor?
+What are my treatment choices? What do you recommend? Why?
+Should I get a second opinion? Can you recommend a doctor or treatment center?
+How soon do we need to start treatment?
+What’s the goal of treatment (cure, prolonging life, relieving symptoms, etc.)?
+How likely is it that the tumor can be removed (or destroyed) completely?
+Will treatment relieve any of the symptoms I now have?
+What are the possible risks or side effects of treatment? What disabilities might I develop?
+What should I do to be ready for treatment?
+How long will treatment take? What will it be like? Where will it be given?
+What is my expected prognosis (outlook)?
+If I'm concerned about costs and insurance coverage for my diagnosis and treatment, who can help me?
+
+During treatment
+Once treatment begins, you’ll need to know what to expect and what to look for. Not all of these questions might apply to you, but getting answers to the ones that do may be helpful.
+
+How will we know if the treatment is working (or has worked)?
+Is there anything I can do to help manage side effects?
+What symptoms or side effects should I tell you about right away?
+How can I reach you or someone from your office on nights, holidays, or weekends?
+Are there any limits on what I can do? 
+Can you suggest a mental health professional I can see if I start to feel overwhelmed, depressed, or distressed?
+
+After treatment
+
+Are there any limits on what I can do?
+What symptoms should I watch for?
+What type of follow-up will I need after treatment?
+How often will I need to have follow-up exams and tests?
+How will we know if the tumor has come back? What should I watch for?
+Where can I find more information and support?
+
+Along with these sample questions, be sure to write down any others you want to ask. For instance, you might want information about recovery times so that you can plan your work or activity schedule. Or you might want to ask about clinical trials that might be right for you.
+Keep in mind that doctors aren’t the only ones who can give you information. Other health care professionals, such as nurses and social workers, can answer some of your questions. To learn more about speaking with your health care team, see Talking With Your Doctor.Surgery on brain and spinal cord tumors may be done to:
+
+Get a biopsy sample to determine the type of tumor
+Remove the tumor (or as much of it as possible)
+Help prevent or treat symptoms or possible complications from the tumor
+
+Before surgery, be sure you understand the goal of the surgery, as well as its possible benefits and risks.
+Surgery to remove the tumor
+Most often, the first step in brain or spinal cord tumor treatment is for the neurosurgeon to remove as much of the tumor as is safe without affecting normal brain function.
+Surgery alone or combined with radiation therapy may control or cure many types of tumors, including some low-grade astrocytomas, ependymomas, craniopharyngiomas, gangliogliomas, and meningiomas.
+Tumors that tend to spread widely into nearby brain or spinal cord tissue, such as anaplastic astrocytomas or glioblastomas, typically cannot be cured by surgery. But surgery is often done first to reduce the amount of tumor that needs to be treated by radiation or chemotherapy, which might help these treatments work better. This could help prolong the person’s life, even if all of the tumor can’t be removed.
+Surgery can also be done to help relieve some of the symptoms caused by brain tumors, particularly those caused by a buildup of pressure within the skull. These can include headaches, nausea, vomiting, and blurred vision. Surgery may also make seizures easier to control with medicines.
+Surgery to remove the tumor may not be a good option in some situations, such as if the tumor is deep within the brain, if it's in a part of the brain that can’t be removed, such as the brain stem, or if a person can’t have a major operation for other health reasons.
+Surgery is not very effective against some types of brain tumors, such as lymphomas, although it may be used to get a biopsy sample for diagnosis.
+Craniotomy
+A craniotomy is a surgical opening made in the skull. This is the most common approach for surgery to treat brain tumors. The person may either be under general anesthesia (in a deep sleep) or may be awake for at least part of the procedure (with the surgical area numbed) if brain function needs to be assessed during the operation.
+Part of the head might be shaved before surgery. The neurosurgeon first makes a cut in the scalp over the skull near the tumor, and folds back the skin. A special type of drill is used to remove the piece of the skull over the tumor.
+The opening is typically large enough for the surgeon to insert several instruments and see the parts of the brain needed to operate safely. The surgeon may need to cut into the brain itself to reach the tumor. The surgeon might use MRI or CT scans taken before the surgery (or may use ultrasound once the skull has been opened) to help locate the tumor and its edges.
+The surgeon can remove the tumor in different ways depending on how hard or soft it is, and whether it has many or just a few blood vessels:
+
+Many tumors can be cut out with a scalpel or special scissors.
+Some tumors are soft and can be removed with suction devices.
+In other cases, a handheld ultrasonic aspirator can be placed into the tumor to break it up and suck it out.
+
+Many devices can help the surgeon see the tumor and surrounding brain tissue. The surgeon often operates while looking at the brain through a special microscope. MRI or CT scans can be done before surgery (or ultrasound can be used once the skull has been opened) to map the area of tumors deep in the brain. In some cases, the surgeon uses intraoperative imaging, in which MRI (or other) images are taken at different times during the operation to show the location of any remaining tumor. This may allow some brain tumors to be resected more safely and extensively.
+As much of the tumor is removed as possible while trying not to affect brain functions. The surgeon can use different techniques to lower the risk of removing vital parts of the brain, such as:
+
+Intraoperative cortical stimulation (cortical mapping): In this approach, the surgeon electrically stimulates parts of the brain in and around the tumor during the operation and monitors the response. This can show if these areas control an important function (and therefore should be avoided).
+Functional MRI: This type of imaging test (described in Tests for Brain and Spinal Cord Tumors in Adults) can be done before surgery to locate a particular function of the brain. This information can be used to identify and preserve that region during the operation.
+Fluorescence-guided surgery: For some types of tumors, such as glioblastomas, the patient can be given a special fluorescent dye before surgery. The dye is taken up by the tumor, which then glows when the surgeon looks at it under fluorescent lighting from the operating microscope. This lets the surgeon better separate tumor from normal brain tissue.
+Newer techniques: Newer types of MRI, as well as newer surgical approaches, might be helpful in some situations. Some of these are described in What’s New in Adult Brain and Spinal Cord Tumor Research?
+
+Once the surgery is complete, the piece of the skull bone is put back in place and fastened with metal screws and plates, wires, or special stitches. (Usually any metal pieces are made from titanium, which allows a person to get follow-up MRIs [and will not set off metal detectors].)
+You might have small tube (called a drain) coming out of the incision that allows excess cerebrospinal fluid (CSF) to leave the skull. Other drains may be in place to allow blood that builds up after surgery to drain from under the scalp. These drains are usually removed after a few days. An imaging test such as an MRI or CT scan is typically done 1 to 3 days after the operation to confirm how much of the tumor has been removed. Recovery time in the hospital is usually 4 to 6 days, although this depends on the size and location of the tumor, the patient’s general health, and whether other treatments are given. Healing around the surgery site usually takes several weeks.
+Surgery to help with CSF flow blockage
+If a tumor blocks the flow of cerebrospinal fluid (CSF), it can increase pressure inside the skull (known as increased intracranial pressure, or ICP). This can cause symptoms like headaches, nausea, and drowsiness, and may even be life-threatening. Surgery to remove the tumor can often help with this, but there are also other ways to drain away excess CSF and lower the pressure if needed.
+For example, the neurosurgeon may put in a silicone tube called a shunt (sometimes referred to as a ventriculoperitoneal or VP shunt). One end of the shunt is placed in a ventricle of the brain (an area filled with CSF) and the other end is placed in the abdomen or, less often, the heart (and would then be referred to as a ventriculoatrial shunt). The tube runs under the skin of the neck and chest. The flow of CSF is controlled by a valve placed along the tubing.
+Shunts can be temporary or permanent. They can be placed before or after the surgery to remove the tumor. Placing a shunt normally takes about an hour. As with any operation, complications might develop, such as bleeding or infection. Strokes are possible as well. Sometimes shunts get clogged and need to be replaced. The hospital stay after shunt procedures is typically 1 to 3 days, depending on the reason it is placed and the patient’s general health.
+Another option to treat increased pressure in the skull in some cases is an endoscopic third ventriculostomy (ETV). In this operation, an opening is made in the floor of the third ventricle at the base of the brain to allow the CSF to flow again. This operation is done through a small hole in the front of the skull. An advantage of this approach is that it does not require a shunt. But there is also a chance that the opening made in the ventricle might close up again, which is more likely in people with brain tumors.
+If the pressure inside the head needs to be relieved for a short time, an external ventricular drain (EVD) might be put in place to allow the excess CSF to drain out. The drain is a small tube. One end is put into a ventricle, and the other end is attached to a collection bag outside the body. Along with collecting the excess CSF, the drain can also be used to measure the pressure inside the skull, as well as to look for tumor cells, blood, or signs of infection in the CSF.
+The drain can be placed either during surgery or during a procedure at the patient's bedside. It can be put in place to relieve the pressure in the days before surgery, or to help drain the fluid that collects after an operation. If the pressure inside the skull needs to be lowered for more than a few days, the doctor might need to change this to a VP shunt.
+Surgery to put in a ventricular access catheter
+Surgery may also be used to insert a ventricular access catheter, such as an Ommaya reservoir, to help deliver chemotherapy directly into the CSF. A small incision is made in the scalp, and a small hole is drilled in the skull. A flexible tube is then threaded through the hole until the open end of the tube is in a ventricle, where it reaches the CSF. The other end, which has a dome-shaped reservoir, stays just under the scalp. After the operation, doctors and nurses can use a thin needle to give chemotherapy drugs through the reservoir or to remove CSF from the ventricle for testing.
+Possible risks and side effects of surgery
+Surgery on the brain or spinal cord is a serious operation, and surgeons are very careful to try to limit any problems either during or after surgery. Complications during or after any type of surgery can include bleeding, infections, or reactions to anesthesia, although these are not common.
+A major concern after surgery is swelling in the brain. Drugs called corticosteroids are typically given before and for several days after surgery to help lessen this risk.
+Seizures are also possible after brain surgery. Anti-seizure medicines can help lower this risk, although they might not prevent them completely.
+One of the biggest concerns when removing brain tumors is the possible loss of brain function afterward, which is why doctors are very careful to remove only as much tissue as is safely possible. If problems do arise, it could be right after surgery, or it could be days or even weeks later, so close monitoring for any changes is very important (see Living as a Brain or Spinal Cord Tumor Survivor).Radiation therapy uses high-energy rays or small particles to kill cancer cells. This type of treatment is given by a doctor called a radiation oncologist. Radiation therapy may be used in different situations:
+
+After surgery to try to kill any remaining tumor cells
+As the main treatment if surgery is not a good option and medicines are not effective
+To help prevent or relieve symptoms from the tumor
+
+External radiation therapy
+Most often, the radiation is focused on the tumor from a source outside the body. This is called external beam radiation therapy (EBRT). This type of radiation therapy is much like getting an x-ray, but the dose of radiation is much higher.
+Before your treatments start, the radiation team will determine the correct angles for aiming the radiation beams and the proper dose of radiation. This planning session, called simulation, usually includes getting imaging tests such as CT or MRI scans.
+In most cases, the total dose of radiation is divided into daily amounts (usually given Monday through Friday) over several weeks. At each treatment session, you lie on a special table while a machine delivers the radiation from precise angles. The treatment is not painful. Each session lasts about 15 to 30 minutes, and much of that time is spent making sure the radiation is aimed correctly. The actual treatment time each day is much shorter.
+High doses of radiation therapy can damage normal brain tissue, so doctors try to deliver the radiation to the tumor while giving the lowest possible dose to normal surrounding brain areas. Several techniques can help doctors focus the radiation more precisely:
+Three-dimensional conformal radiation therapy (3D-CRT): 3D-CRT uses the results of imaging tests such as MRI and special computers to map the location of the tumor precisely. Several radiation beams are then shaped and aimed at the tumor from different directions. Each beam alone is fairly weak, which makes it less likely to damage normal tissues, but the beams converge at the tumor to give a higher dose of radiation there.
+Intensity modulated radiation therapy (IMRT): IMRT is an advanced form of 3D therapy. It uses a computer-driven machine that moves around the patient as it delivers radiation. Along with shaping the beams and aiming them at the tumor from several angles, the intensity (strength) of the beams can be adjusted to limit the dose reaching the most sensitive normal tissues. This may let the doctor deliver a higher dose to the tumor. Many major hospitals and cancer centers now use IMRT.
+Volumetric modulated arc therapy (VMAT): This newer technique is similar to IMRT. For this treatment, the patient lies on a table, which passes through the machine delivering the radiation. The source of the radiation (the linear accelerator) rotates around the table in an arc, delivering the beams from different angles. A computer controls the intensity of the beams to help keep the radiation focused on the tumor. It’s not yet clear if this approach results in better outcomes than IMRT, although it does allow the radiation to be given over less time in each treatment session.
+Conformal proton beam radiation therapy: Proton beam therapy uses an approach similar to 3D-CRT. But instead of using x-rays, it focuses proton beams on the tumor. Protons are positive parts of atoms. Unlike x-rays, which release energy both before and after they hit their target, protons cause little damage to tissues they pass through and then release their energy after traveling a certain distance. This lets doctors deliver more radiation to the tumor and do less damage to nearby normal tissues.
+This approach may be more helpful for brain tumors that have distinct edges (such as chordomas), but it is not clear if it will be useful for tumors that typically grow into or mix with normal brain tissue (such as astrocytomas or glioblastomas). There are a limited number of proton beam centers in the United States at this time.
+Stereotactic radiosurgery (SRS)/stereotactic radiotherapy (SRT): This type of treatment delivers a large, precise radiation dose to the tumor area in a single session (SRS) or in a few sessions (SRT). (There is no actual surgery in this treatment.) It may be used for some tumors in parts of the brain or spinal cord that can’t be treated with surgery or when a patient isn’t healthy enough for surgery.
+A head frame might be attached to the skull to help aim the radiation beams. (Sometimes a face mask is used to hold the head in place instead.) Once the exact location of the tumor is known from CT or MRI scans, radiation is focused at the tumor from many different angles. This can be done in 2 ways:
+
+In one approach, thin radiation beams are focused at the tumor from hundreds of different angles for a short period of time. Each beam alone is weak, but they all converge at the tumor to give a higher dose of radiation. An example of a machine that uses this technique is the Gamma Knife.
+Another approach uses a movable linear accelerator (a machine that creates radiation) that is controlled by a computer. Instead of delivering many beams at once, this machine moves around the head to deliver radiation to the tumor from many different angles. Several machines with names such as X-Knife, CyberKnife, and Clinac deliver stereotactic radiosurgery in this way.
+
+SRS typically delivers the whole radiation dose in a single session, though it may be repeated if needed. For SRT (sometimes called fractionated radiosurgery), doctors give the radiation in several treatments to deliver the same or a slightly higher dose. Frameless techniques are now available to make this more comfortable.
+Image-guided radiation therapy (IGRT): For IGRT, an imaging test such as a CT scan is done just before each treatment to help better guide the radiation to its target. IGRT is typically used along with some of the more precise techniques for delivering radiation described above. It is most useful when the radiation needs to be delivered very precisely, such as when a tumor is very close to vital structures.
+Whole brain and spinal cord radiation therapy (craniospinal radiation): If tests like an MRI scan or lumbar puncture find the tumor has spread along the covering of the spinal cord (meninges) or into the surrounding cerebrospinal fluid, radiation may be given to the whole brain and spinal cord. Some tumors such as ependymomas and medulloblastomas are more likely to spread this way and often require craniospinal radiation.
+Brachytherapy (internal radiation therapy)
+In brachytherapy, radioactive material is inserted directly into or near the tumor. This can be done during surgery to remove the brain tumor, or it might be an option if the tumor comes back after treatment.
+An example of this treatment approach is known as GammaTile. These are small tiles made mainly of collagen, which have small radioactive ‘seeds’ in them. They are placed in the lining of the open space that is created when a brain tumor is removed. The radiation they give off travels only a short distance, so it’s not likely to affect other parts of the brain. Over time, the tiles themselves are absorbed by the body, while the seeds lose their radioactivity and can be left in place.
+A possible advantage of this approach is that it allows radiation to be given to the area right after surgery, as opposed to having to wait several weeks, which is often the case with external radiation. However, this approach also has some limits, such as not being able to reach tumor cells that are farther away from the original tumor.
+Possible side effects of radiation therapy
+Radiation is more harmful to tumor cells than it is to normal cells. Still, radiation can also damage normal brain tissue, which can lead to side effects.
+Side effects during or soon after treatment: Some people become irritable and tired during the course of radiation therapy. Nausea, vomiting, and headaches are also possible side effects but are uncommon. Sometimes dexamethasone (a corticosteroid) or other drugs can help relieve these symptoms. Some people might have hair loss in areas of the scalp that get radiation. Other side effects are also possible, depending on where the radiation is aimed.
+Problems with thinking and memory: A person may lose some brain function if large areas of the brain get radiation. Problems can include memory loss, personality changes, and trouble concentrating. There may also be other symptoms depending on the area of brain treated and how much radiation was given. These risks must be balanced against the risks of not using radiation and having less control of the tumor.
+Radiation necrosis: Rarely after radiation therapy, a mass of dead (necrotic) tissue forms at the site of the tumor in the months or years after radiation treatment. This can often be controlled with corticosteroid drugs, but surgery may be needed to remove the necrotic tissue in some instances.
+Increased risk of another tumor: Radiation can damage genes in normal cells. As a result, there is a small risk of developing a second cancer in an area that got radiation — for example, a meningioma of the coverings of the brain, another brain tumor, or less likely a bone cancer in the skull. If this develops, it's usually many years after the radiation is given. This small risk should not prevent those who need radiation from getting treatment.Chemotherapy (chemo) uses anti-cancer drugs that are usually given into a vein (IV) or taken by mouth. These drugs enter the bloodstream and reach almost all areas of the body. However, many chemo drugs aren't able to enter the brain and reach tumor cells.
+For some brain tumors, drugs can be given directly into the cerebrospinal fluid (CSF, the fluid that bathes the brain and spinal cord), either in the brain or into the spinal canal below the spinal cord. To help with this, a thin tube known as a ventricular access catheter may be inserted through a small hole in the skull and into a ventricle of the brain during a minor operation (see Surgery for Adult Brain and Spinal Cord Tumors).
+When might chemotherapy be used?
+In general, chemo is used for faster-growing brain tumors. Some types of brain tumors, such as medulloblastoma and lymphoma, tend to respond better to chemo than others. Chemo is not as helpful for treating some other types of tumors, such as spinal cord tumors, so it is used less often for these tumors.
+Chemo is most often used along with other treatments such as surgery and/or radiation therapy. Chemo can also be used by itself, especially for more advanced tumors or for tumors that have come back after other types of treatment.
+Chemo drugs used to treat brain and spinal cord tumors
+Some of the chemo drugs used to treat brain and spinal cord tumors include:
+
+Carboplatin
+Carmustine (BCNU)
+Cisplatin
+Cyclophosphamide
+Etoposide
+Irinotecan
+Lomustine (CCNU)
+Methotrexate
+Procarbazine
+Temozolomide
+Vincristine
+
+These drugs can be used alone or in combinations, depending on the type of brain tumor. Chemo is given in cycles, with each period of treatment followed by a rest period to give the body time to recover. Each cycle typically lasts for a few weeks.
+Carmustine (Gliadel) wafers: These dissolvable wafers contain the chemo drug carmustine (BCNU). After the surgeon removes as much of the brain tumor as is safe during a craniotomy, the wafers can be placed directly on or next to the parts of the tumor that can’t be removed. Unlike IV or oral chemo that reaches all areas of the body, this type of therapy concentrates the drug at the tumor site, producing few side effects in other parts of the body.
+Possible side effects of chemotherapy
+Chemo drugs can cause side effects. These depend on the type and dose of drugs, and how long treatment lasts. Common side effects can include:
+
+Hair loss
+Mouth sores
+Loss of appetite
+Nausea and vomiting
+Diarrhea
+Increased chance of infections (from having too few white blood cells)
+Easy bruising or bleeding (from having too few blood platelets)
+Fatigue (from having too few red blood cells, changes in metabolism, or other factors)
+
+Some of the most effective drugs against brain tumors tend to have fewer of these side effects than other common chemo drugs. Most side effects usually go away after treatment is finished. There are often ways to lessen these side effects. For example, drugs can often help prevent or reduce nausea and vomiting.
+Some chemo drugs can also cause other, less common side effects. For example, cisplatin and carboplatin can also cause kidney damage and hearing loss. Your doctor will check your kidney function and hearing if you are getting these drugs. Some of these side effects might last after treatment is stopped.
+Be sure to report any side effects to your medical team while getting chemo, so you can be treated promptly. Sometimes, the doses of the drugs may need to be reduced or treatment may need to be delayed or stopped to prevent the effects from getting worse.As researchers have learned more about the inner workings of cells that cause tumors or help tumor cells grow, they have developed newer drugs that specifically target these changes. These targeted drugs work differently from standard chemotherapy drugs. They sometimes work when chemo drugs don’t, and they often have different side effects. Targeted drugs don't yet play a large role in treating brain or spinal cord tumors, but some of them might be helpful for certain types of tumors.
+Bevacizumab (Avastin, Mvasi, Zirabev)
+Bevacizumab is a man-made version of an immune system protein called a monoclonal antibody. This antibody targets vascular endothelial growth factor (VEGF), a protein that helps tumors form new blood vessels (a process known as angiogenesis), which they need in order to grow.
+This drug is used mainly to treat some types of gliomas (especially fast-growing ones such as glioblastomas) that come back after initial treatment. It might also be useful in treating recurrent meningiomas.
+When used alone or added to chemotherapy, this drug can help shrink some tumors or extend the time until they start growing again, although it does not seem to help people live longer. It can also help lower the dose of the steroid drug dexamethasone needed to help reduce swelling in the brain, which is especially important for patients sensitive to steroid side effects.
+Bevacizumab is given by intravenous (IV) infusion, usually once every 2 weeks.
+Common side effects include high blood pressure, tiredness, bleeding, low white blood cell counts, headaches, mouth sores, loss of appetite, and diarrhea. Less common but possibly serious side effects include blood clots, internal bleeding, heart problems, and holes (perforations) in the intestines. This drug can also slow wound healing, so usually it can't be given within a few weeks of surgery.
+Everolimus (Afinitor)
+Everolimus works by blocking a cell protein known as mTOR, which normally helps cells grow and divide into new cells. For subependymal giant cell astrocytomas (SEGAs) that can’t be removed completely by surgery, This drug may shrink the tumor or slow its growth for some time, although it’s not clear if it can help people with these tumors live longer.
+Everolimus is a pill taken once a day. Common side effects include mouth sores, increased risk of infections, nausea, loss of appetite, diarrhea, skin rash, feeling tired or weak, fluid buildup (usually in the legs), and increases in blood sugar and cholesterol levels. A less common but serious side effect is damage to the lungs, which can cause shortness of breath or other problems.
+Other targeted therapies are now being developed and studied in clinical trials.Some drugs commonly used in people with brain or spinal cord tumors do not treat the tumors directly, but they may help lessen symptoms caused by the tumor or its treatment.
+Corticosteroids
+Corticosteroid drugs such as dexamethasone (Decadron) are often given to reduce swelling around brain tumors. This may help relieve headaches and other symptoms.
+Anti-seizure drugs (anticonvulsants)
+Drugs may also be given to lower the chance of seizures in people with brain tumors. Different anti-seizure drugs can be used. Because many of these drugs can affect how other drugs such as chemotherapy work in the body, they are not usually given unless the tumor has caused seizures.
+Hormones
+The pituitary gland helps control the levels of many different hormones in the body. If the pituitary gland is damaged by the tumor itself or by tumor treatments (such as surgery or radiation therapy), you may need to take pituitary hormones or other hormones to replace those missing.Researchers have found that exposing some types of tumor cells to alternating electric fields. This treatment is also known as tumor treating fields, or TTF. This therapy can interfere with the cells’ ability to grow and spread. A wearable device known as Optune, is a TTF treatment that generates such electric fields. It is now an option to help treat some people with glioblastomas.  
+For TTF therapy, the head is shaved, and 4 sets of electrodes are placed on the scalp. The electrodes are attached to a battery pack (kept in a backpack) and are worn for most of the day. They generate mild electric currents that are thought to affect tumor cells in the brain more than normal cells.
+Optune can be used:
+
+Along with chemotherapy in people with newly diagnosed glioblastoma after treatment with surgery and radiation therapy. It may help people live longer than if they just get chemotherapy alone.
+Instead of chemotherapy in people whose glioblastoma has come back after initial treatment. It hasn’t been shown to help people live longer than chemotherapy in this situation, but it tends to have much milder side effects.
+
+Possible side effects
+Side effects of the device used for TTF tend to be minor, and can include skin irritation at the electrode sites, trouble sleeping, mood changes, and a slightly increased risk of headaches and seizures.The treatment options for brain and spinal cord tumors depend on several factors, including the type and location of the tumor, how far it has grown or spread, whether the tumor cells have certain gene or chromosome changes, and a person's age and overall health.
+Non-infiltrating (grade I) astrocytomas
+These tumors include pilocytic astrocytomas, which most often develop in the cerebellum in young people, and subependymal giant cell astrocytomas (SEGAs), which are almost always seen in people with tuberous sclerosis. Many doctors consider these tumors benign because they tend to grow very slowly and rarely grow into (infiltrate) nearby tissues. (Pleomorphic xanthoastrocytomas (PXAs), which are rare grade II tumors, are often treated the same way as these tumors as well.)
+Many times, surgeons can’t be sure a tumor is one of these types until surgery is done to remove it. But if these tumors can be removed completely by surgery, they can often be cured (although this is less likely in older patients). Radiation therapy may be given after surgery, particularly if the tumor is not removed completely, although many doctors will wait until there are signs the tumor has grown back before considering it. Even then, repeating surgery may be the first option.
+The outlook is not as good if the tumor occurs in a place where it can’t be removed by surgery, such as in the hypothalamus or brain stem. In these cases, radiation therapy is usually the best option.
+If surgery and radiation therapy are no longer good treatment options, chemotherapy (most often with temozolomide or the PCV regimen – procarbazine, CCNU, and vincristine) might be used at some point.
+For SEGAs that can’t be removed completely with surgery, treatment with the targeted drug everolimus (Afinitor) may shrink the tumor or slow its growth for some time, although it’s not clear if it can help people live longer.
+Low-grade (grade II) infiltrating astrocytomas (Diffuse astrocytomas)
+The initial treatment for diffuse astrocytomas is typically surgery to remove the tumor if it can be done. If surgery is not feasible, a biopsy may be done to confirm the diagnosis. These tumors are hard to cure by surgery because they often grow into (infiltrate) nearby normal brain tissue. Usually the surgeon will try to remove as much of the tumor as safely possible. If all of it can be removed, the patient may be cured.
+Radiation therapy may be given after surgery, especially if a lot of tumor remains. Younger adults whose tumors were small and not causing many symptoms may not need radiation unless the tumor shows signs of growing again. (In some cases, surgery may be tried again before giving radiation) In people who are older or whose tumors are at higher risk of coming back for other reasons, radiation is more likely to be given after surgery. Chemotherapy (most often with temozolomide or the PCV combination regimen – procarbazine, CCNU, and vincristine) may also be given after surgery. Sometimes lab tests of the tumor are used to help determine if radiation and/or chemotherapy should be given.
+Radiation and/or chemotherapy may be used as the main treatment if surgery is not a good option.
+Intermediate-grade (grade III) gliomas (Anaplastic astrocytomas, anaplastic oligodendrogliomas)
+Surgery is often the first treatment if an imaging test shows what is likely one of these types of tumors, although the specific type of tumor might not be known until after the operation. As much of the tumor is removed as is safely possible, but because of the way they grow into nearby areas, these tumors are almost never removed completely. Radiation therapy is given after surgery in most cases. Chemotherapy may also be given before, during, or after radiation therapy if a person is healthy enough. For some people who are in poor health or whose tumor cells have certain gene changes found on lab tests, chemo may be used instead of radiation therapy.
+For tumors that can’t be treated with surgery, radiation therapy along with chemo is usually the best option.
+Temozolomide, carmustine (BCNU), and lomustine (CCNU) are commonly used chemo drugs. Combinations of drugs, such as the PCV regimen (procarbazine, CCNU, and vincristine), may also be used. All of these treatments may shrink or slow tumor growth for some time, but they are very unlikely to produce a cure.
+If standard chemo drugs are no longer effective, the targeted drug bevacizumab (Avastin, Mvasi, Zirabev) may be helpful for some people, either alone or with chemo.
+In general, these gliomas can be very hard to control for long periods of time. Because these tumors are so hard to cure with current treatments, clinical trials of promising new treatments may be a good option.
+Glioblastomas (grade IV astrocytomas)
+Surgery is often the first treatment if an imaging test shows what is likely a glioblastoma, although the specific type of tumor might not be known until after the operation. As much of the tumor is removed as is safely possible, although these tumors are almost never removed completely because of the way they grow into nearby areas. Radiation therapy is then given in most cases. This may be given with or followed by chemotherapy if a person is healthy enough. For some people who are older or in poor health, or whose tumor cells have certain gene changes found on lab tests, just one of these treatments (chemo or radiation therapy) might be used.
+For tumors that can’t be treated with surgery, radiation therapy along with chemo is usually the best option.
+Temozolomide is the chemo drug used first by most doctors because it crosses the blood-brain barrier and it’s convenient because it can be taken as a pill. It is sometimes given along with radiation therapy and then continued after the radiation is completed.
+Carmustine (BCNU) and lomustine (CCNU) are other commonly used chemo drugs. Combinations of drugs, such as the PCV regimen (procarbazine, CCNU, and vincristine), may also be used. All of these treatments may shrink or slow tumor growth for some time, but they are very unlikely to cure the tumor.
+If standard chemo drugs are no longer effective, the targeted drug bevacizumab (Avastin, Mvasi, Zirabev) may be helpful for some people, either alone or with chemo.
+Another option might be tumor treating fields therapy (TTF), also known as alternating electrical field therapy with the Optune device. This can be used along with chemo (after surgery and radiation) as part of the initial treatment, or it can be used by itself (instead of chemo) for tumors that come back after treatment. 
+In general, these tumors can be very hard to control for long periods of time. Because glioblastomas are so hard to cure with current treatments, clinical trials of promising new treatments may be a good option.
+Oligodendrogliomas
+Oligodendrogliomas are grade II tumors. (Treatment of anaplastic oligodendrogliomas, which are grade III tumors, is discussed above.)
+If possible, surgery is typically the first treatment for oligodendrogliomas. Surgery usually doesn’t cure these tumors, but it can relieve symptoms and prolong survival. Many oligodendrogliomas grow slowly, especially in younger people, and may not need further treatment right away. Surgery may be repeated if the tumor grows back in the same spot. Radiation therapy and/or chemo (most often with temozolomide or the PCV combination regimen - procarbazine CCNU, and vincristine,) may also be options after surgery.
+Oligodendrogliomas tend to respond better to chemotherapy than some other brain tumors.
+Radiation therapy and/or chemotherapy may be helpful for tumors that can’t be treated with surgery.
+Ependymomas and anaplastic ependymomas
+These tumors usually do not grow into nearby normal brain tissue, and surgery to remove the tumor is typically the first treatment. Sometimes, patients may be cured by surgery alone if the entire tumor can be removed, but often this is not possible. Spinal cord ependymomas have the greatest chance of being cured with surgery, but treatment can cause side effects related to nerve damage.
+Radiation therapy is given after surgery, especially if only part of the tumor was removed (or if it is an anaplastic ependymoma). If surgery cannot be done, radiation therapy is typically the main treatment.
+Sometimes the tumor cells can spread into the cerebrospinal fluid (CSF). Patients typically get an MRI of the brain and spinal cord (and possibly a lumbar puncture) a few weeks after surgery if it is done. If either of these tests shows that the cancer has spread through the CSF, radiation therapy is given to the entire brain and spinal cord.
+Chemotherapy isn't usually helpful for these tumors, so it often isn't given unless the tumor can no longer be treated with surgery or radiation.
+Meningiomas
+Most meningiomas tend to grow slowly, so small tumors that aren’t causing symptoms can often be watched rather than treated, particularly in the elderly.
+If treatment is needed, these tumors can usually be cured if they can be removed completely with surgery. Radiation therapy may be used along with, or instead of, surgery for tumors that can’t be removed completely.
+For meningiomas that are atypical/invasive (grade II) or anaplastic (grade III), which tend to come back after treatment, radiation therapy is typically given after surgery even if all of the visible tumor has been removed.
+For meningiomas that recur after initial treatment, further surgery (if possible) or radiation therapy may be used. If surgery and radiation aren’t options, drug treatments (such as chemotherapy, targeted drug therapy, immunotherapy, or hormone-like drugs) may be tried, but it’s not clear how much benefit they offer.
+Schwannomas (including acoustic neuromas)
+These slow-growing tumors are usually benign and are cured by surgery. In some centers, small acoustic neuromas are treated with precise radiation therapy techniques such as stereotactic radiosurgery (SRS) or proton beam therapy (see Radiation Therapy for Adult Brain and Spinal Cord Tumors). For large schwannomas where complete removal is likely to cause problems, tumors may be operated on first to remove as much as is safe, and then the remainder is treated with radiation.
+Spinal cord tumors
+Different types of tumors can start in the spinal cord. If a spinal cord tumor is small and not causing symptoms, it might not need to be treated right away. When spinal cord tumors do need treatment, it’s often similar to what’s done for the same type of tumor in the brain.
+Astrocytomas of the spinal cord usually cannot be removed completely. They may be treated with surgery to obtain a diagnosis and remove as much tumor as possible, and then by radiation therapy, or with radiation therapy alone. Chemotherapy might also be an option at some point, if needed.
+Meningiomas of the spinal canal are often cured by surgery, as are some ependymomas. If surgery doesn’t remove the tumor completely, radiation therapy is often given.
+Primary CNS lymphomas
+Treatment of central nervous system (CNS) lymphomas generally consists of chemotherapy (given into a vein or through a ventricular access catheter, or both) and/or radiation therapy. Treatment is discussed in more detail in Non-Hodgkin Lymphoma.
+Brain tumors that occur more often in children
+Some types of brain tumors that are seen more often in children can also occur occasionally in adults. Some examples include:
+
+Brain stem gliomas
+Germ cell tumors
+Craniopharyngiomas
+Choroid plexus tumors
+Medulloblastomas and other embryonal tumors
+
+Treatment of these tumors is described in Brain and Spinal Cord Tumors in Children.The treatment options for brain and spinal cord tumors depend on several factors, including the type and location of the tumor, how far it has grown or spread, whether the tumor cells have certain gene or chromosome changes, and a person's age and overall health.
+Non-infiltrating (grade I) astrocytomas
+These tumors include pilocytic astrocytomas, which most often develop in the cerebellum in young people, and subependymal giant cell astrocytomas (SEGAs), which are almost always seen in people with tuberous sclerosis. Many doctors consider these tumors benign because they tend to grow very slowly and rarely grow into (infiltrate) nearby tissues. (Pleomorphic xanthoastrocytomas (PXAs), which are rare grade II tumors, are often treated the same way as these tumors as well.)
+Many times, surgeons can’t be sure a tumor is one of these types until surgery is done to remove it. But if these tumors can be removed completely by surgery, they can often be cured (although this is less likely in older patients). Radiation therapy may be given after surgery, particularly if the tumor is not removed completely, although many doctors will wait until there are signs the tumor has grown back before considering it. Even then, repeating surgery may be the first option.
+The outlook is not as good if the tumor occurs in a place where it can’t be removed by surgery, such as in the hypothalamus or brain stem. In these cases, radiation therapy is usually the best option.
+If surgery and radiation therapy are no longer good treatment options, chemotherapy (most often with temozolomide or the PCV regimen – procarbazine, CCNU, and vincristine) might be used at some point.
+For SEGAs that can’t be removed completely with surgery, treatment with the targeted drug everolimus (Afinitor) may shrink the tumor or slow its growth for some time, although it’s not clear if it can help people live longer.
+Low-grade (grade II) infiltrating astrocytomas (Diffuse astrocytomas)
+The initial treatment for diffuse astrocytomas is typically surgery to remove the tumor if it can be done. If surgery is not feasible, a biopsy may be done to confirm the diagnosis. These tumors are hard to cure by surgery because they often grow into (infiltrate) nearby normal brain tissue. Usually the surgeon will try to remove as much of the tumor as safely possible. If all of it can be removed, the patient may be cured.
+Radiation therapy may be given after surgery, especially if a lot of tumor remains. Younger adults whose tumors were small and not causing many symptoms may not need radiation unless the tumor shows signs of growing again. (In some cases, surgery may be tried again before giving radiation) In people who are older or whose tumors are at higher risk of coming back for other reasons, radiation is more likely to be given after surgery. Chemotherapy (most often with temozolomide or the PCV combination regimen – procarbazine, CCNU, and vincristine) may also be given after surgery. Sometimes lab tests of the tumor are used to help determine if radiation and/or chemotherapy should be given.
+Radiation and/or chemotherapy may be used as the main treatment if surgery is not a good option.
+Intermediate-grade (grade III) gliomas (Anaplastic astrocytomas, anaplastic oligodendrogliomas)
+Surgery is often the first treatment if an imaging test shows what is likely one of these types of tumors, although the specific type of tumor might not be known until after the operation. As much of the tumor is removed as is safely possible, but because of the way they grow into nearby areas, these tumors are almost never removed completely. Radiation therapy is given after surgery in most cases. Chemotherapy may also be given before, during, or after radiation therapy if a person is healthy enough. For some people who are in poor health or whose tumor cells have certain gene changes found on lab tests, chemo may be used instead of radiation therapy.
+For tumors that can’t be treated with surgery, radiation therapy along with chemo is usually the best option.
+Temozolomide, carmustine (BCNU), and lomustine (CCNU) are commonly used chemo drugs. Combinations of drugs, such as the PCV regimen (procarbazine, CCNU, and vincristine), may also be used. All of these treatments may shrink or slow tumor growth for some time, but they are very unlikely to produce a cure.
+If standard chemo drugs are no longer effective, the targeted drug bevacizumab (Avastin, Mvasi, Zirabev) may be helpful for some people, either alone or with chemo.
+In general, these gliomas can be very hard to control for long periods of time. Because these tumors are so hard to cure with current treatments, clinical trials of promising new treatments may be a good option.
+Glioblastomas (grade IV astrocytomas)
+Surgery is often the first treatment if an imaging test shows what is likely a glioblastoma, although the specific type of tumor might not be known until after the operation. As much of the tumor is removed as is safely possible, although these tumors are almost never removed completely because of the way they grow into nearby areas. Radiation therapy is then given in most cases. This may be given with or followed by chemotherapy if a person is healthy enough. For some people who are older or in poor health, or whose tumor cells have certain gene changes found on lab tests, just one of these treatments (chemo or radiation therapy) might be used.
+For tumors that can’t be treated with surgery, radiation therapy along with chemo is usually the best option.
+Temozolomide is the chemo drug used first by most doctors because it crosses the blood-brain barrier and it’s convenient because it can be taken as a pill. It is sometimes given along with radiation therapy and then continued after the radiation is completed.
+Carmustine (BCNU) and lomustine (CCNU) are other commonly used chemo drugs. Combinations of drugs, such as the PCV regimen (procarbazine, CCNU, and vincristine), may also be used. All of these treatments may shrink or slow tumor growth for some time, but they are very unlikely to cure the tumor.
+If standard chemo drugs are no longer effective, the targeted drug bevacizumab (Avastin, Mvasi, Zirabev) may be helpful for some people, either alone or with chemo.
+Another option might be tumor treating fields therapy (TTF), also known as alternating electrical field therapy with the Optune device. This can be used along with chemo (after surgery and radiation) as part of the initial treatment, or it can be used by itself (instead of chemo) for tumors that come back after treatment. 
+In general, these tumors can be very hard to control for long periods of time. Because glioblastomas are so hard to cure with current treatments, clinical trials of promising new treatments may be a good option.
+Oligodendrogliomas
+Oligodendrogliomas are grade II tumors. (Treatment of anaplastic oligodendrogliomas, which are grade III tumors, is discussed above.)
+If possible, surgery is typically the first treatment for oligodendrogliomas. Surgery usually doesn’t cure these tumors, but it can relieve symptoms and prolong survival. Many oligodendrogliomas grow slowly, especially in younger people, and may not need further treatment right away. Surgery may be repeated if the tumor grows back in the same spot. Radiation therapy and/or chemo (most often with temozolomide or the PCV combination regimen - procarbazine CCNU, and vincristine,) may also be options after surgery.
+Oligodendrogliomas tend to respond better to chemotherapy than some other brain tumors.
+Radiation therapy and/or chemotherapy may be helpful for tumors that can’t be treated with surgery.
+Ependymomas and anaplastic ependymomas
+These tumors usually do not grow into nearby normal brain tissue, and surgery to remove the tumor is typically the first treatment. Sometimes, patients may be cured by surgery alone if the entire tumor can be removed, but often this is not possible. Spinal cord ependymomas have the greatest chance of being cured with surgery, but treatment can cause side effects related to nerve damage.
+Radiation therapy is given after surgery, especially if only part of the tumor was removed (or if it is an anaplastic ependymoma). If surgery cannot be done, radiation therapy is typically the main treatment.
+Sometimes the tumor cells can spread into the cerebrospinal fluid (CSF). Patients typically get an MRI of the brain and spinal cord (and possibly a lumbar puncture) a few weeks after surgery if it is done. If either of these tests shows that the cancer has spread through the CSF, radiation therapy is given to the entire brain and spinal cord.
+Chemotherapy isn't usually helpful for these tumors, so it often isn't given unless the tumor can no longer be treated with surgery or radiation.
+Meningiomas
+Most meningiomas tend to grow slowly, so small tumors that aren’t causing symptoms can often be watched rather than treated, particularly in the elderly.
+If treatment is needed, these tumors can usually be cured if they can be removed completely with surgery. Radiation therapy may be used along with, or instead of, surgery for tumors that can’t be removed completely.
+For meningiomas that are atypical/invasive (grade II) or anaplastic (grade III), which tend to come back after treatment, radiation therapy is typically given after surgery even if all of the visible tumor has been removed.
+For meningiomas that recur after initial treatment, further surgery (if possible) or radiation therapy may be used. If surgery and radiation aren’t options, drug treatments (such as chemotherapy, targeted drug therapy, immunotherapy, or hormone-like drugs) may be tried, but it’s not clear how much benefit they offer.
+Schwannomas (including acoustic neuromas)
+These slow-growing tumors are usually benign and are cured by surgery. In some centers, small acoustic neuromas are treated with precise radiation therapy techniques such as stereotactic radiosurgery (SRS) or proton beam therapy (see Radiation Therapy for Adult Brain and Spinal Cord Tumors). For large schwannomas where complete removal is likely to cause problems, tumors may be operated on first to remove as much as is safe, and then the remainder is treated with radiation.
+Spinal cord tumors
+Different types of tumors can start in the spinal cord. If a spinal cord tumor is small and not causing symptoms, it might not need to be treated right away. When spinal cord tumors do need treatment, it’s often similar to what’s done for the same type of tumor in the brain.
+Astrocytomas of the spinal cord usually cannot be removed completely. They may be treated with surgery to obtain a diagnosis and remove as much tumor as possible, and then by radiation therapy, or with radiation therapy alone. Chemotherapy might also be an option at some point, if needed.
+Meningiomas of the spinal canal are often cured by surgery, as are some ependymomas. If surgery doesn’t remove the tumor completely, radiation therapy is often given.
+Primary CNS lymphomas
+Treatment of central nervous system (CNS) lymphomas generally consists of chemotherapy (given into a vein or through a ventricular access catheter, or both) and/or radiation therapy. Treatment is discussed in more detail in Non-Hodgkin Lymphoma.
+Brain tumors that occur more often in children
+Some types of brain tumors that are seen more often in children can also occur occasionally in adults. Some examples include:
+
+Brain stem gliomas
+Germ cell tumors
+Craniopharyngiomas
+Choroid plexus tumors
+Medulloblastomas and other embryonal tumors
+
+Treatment of these tumors is described in Brain and Spinal Cord Tumors in Children.For some people with brain or spinal cord tumors, treatment can remove or destroy the tumor. Completing treatment can be both stressful and exciting. You may be relieved to finish treatment, but find it hard not to worry about the tumor growing or coming back (recurring). This is a very common concern if you've had a brain or spinal cord tumor.
+For other people with brain or spinal cord tumors, the tumor may never go away completely. Some people may get treated with radiation therapy, chemotherapy, or other treatments to try to keep the tumor in check and limit symptoms from it. Learning to live with a tumor that does not go away can be difficult and very stressful. It has its own type of uncertainty. Managing Cancer as a Chronic Illness talks more about this.
+Follow-up care
+Whether you have completed treatment or are still being treated, your doctors will still want to watch you closely. It’s very important to go to all of your follow-up appointments.
+Exams and tests
+During follow-up visits, your doctors will ask about symptoms, examine you, and might order lab tests or imaging tests such as MRI scans to look for progression (growing) or a recurrence of the tumor. Even tumors that have been treated successfully can sometimes come back.
+Whether the tumor was removed completely or not, your health care team will want to follow up closely with you, especially in the first few months and years after treatment to make sure there is no progression or recurrence. Depending on the type and location of the tumor and the extent of the treatment, the team will decide which tests should be done and how often.
+During this time, it's important to report any new symptoms to your doctor right away, so the cause can be found and treated, if needed. Your doctor can give you an idea of what to look for. If you need further treatment at some point, the doctor will go over your options with you.
+Ask your doctor for a survivorship care plan
+Talk with your doctor about developing your survivorship care plan. This plan might include:
+
+A suggested schedule for follow-up exams and tests
+A schedule for other tests you might need in the future, such as tests to look for long-term health effects from your tumor or its treatment, or early detection (screening) tests for other types of cancer
+A list of possible late- or long-term side effects from your treatment, including what to watch for and when you should contact your doctor
+Diet and physical activity suggestions
+
+Recovering from the effects of the brain or spinal cord tumor and its treatment
+You might have side effects from the tumor itself or from its treatment, which can range from very mild to fairly severe. Some side effects might last a long time or might not even show up until years after you have finished treatment. Your doctor visits are a good time to ask questions and talk about any changes or problems you notice or concerns you have.
+Once you have recovered from treatment, your doctors will try to determine if damage was done to the brain or other areas. Careful physical exams and imaging tests (CT or MRI scans) might be done to determine the extent and location of any long-term changes in the brain.
+Many types of doctors and other health professionals might help look for these changes and help you recover. For example:
+
+A neurologist (a doctor who specializes in medical treatment of the nervous system) may assess your physical coordination, muscle strength, and other aspects of nervous system function.
+If you have muscle weakness, paralysis, or numbness, you will likely be seen by physical and/or occupational therapists and perhaps a physiatrist (a doctor who specializes in rehabilitation) while in the hospital and/or as an outpatient for physical therapy.
+If your speech is affected, a speech therapist (speech-language pathologist) will help improve your communication skills.
+If needed, an ophthalmologist (a doctor who specializes in eye problems) will check your vision, and an audiologist may check your hearing.
+After surgery, you may also see a psychiatrist or psychologist to determine the extent of any changes caused by the tumor or surgery. If you get radiation therapy and/or chemotherapy, this process may be repeated again after treatment is finished.
+If you were treated with surgery or radiation therapy for a tumor near the base of the brain, pituitary hormone production may be affected. You might need to see an endocrinologist (a doctor who specializes in hormone disorders). If hormone levels are affected, you might need hormone treatments to restore normal levels for the rest of your life.
+
+Keeping health insurance and copies of your medical records
+Even after treatment, it’s very important to keep health insurance. Tests and doctor visits cost a lot, and even though no one wants to think of their tumor coming back, this could happen.
+At some point after your treatment, you might find yourself seeing a new doctor who doesn’t know your medical history. It’s important to keep copies of your medical records to give your new doctor the details of your diagnosis and treatment. Learn more in Keeping Copies of Important Medical Records.
+Can I lower my risk of the tumor progressing or coming back?
+If you have (or had) a brain or spinal cord tumor, you probably want to know if there are things you can do to reduce your risk of the tumor progressing or coming back, such as exercising, eating a certain type of diet, or taking nutritional supplements. At this time, not enough is known about brain and spinal cord tumors to say for sure if there are things you can do that will help.
+Adopting healthy behaviors such as not smoking, eating well, getting regular physical activity, and staying at a healthy weight might help, but no one knows for sure. However, we do know that these types of changes can have positive effects on your health that can extend beyond your risk of brain tumors or other cancers.
+About dietary supplements
+So far, no dietary supplements (including vitamins, minerals, and herbal products) have been shown to clearly help lower the risk of brain or spinal cord tumors progressing or coming back. This doesn’t mean that no supplements will help, but it’s important to know that none have been proven to do so.
+Dietary supplements are not regulated like medicines in the United States – they do not have to be proven effective (or even safe) before being sold, although there are limits on what the companies who make them are allowed to claim they can do. If you’re thinking about taking any type of nutritional supplement, talk with your health care team. They can help you decide which ones you can use safely while avoiding those that might be harmful.
+If the tumor comes back
+If the tumor does recur, your treatment options will depend on the type and location of the tumor, what treatments you’ve had before, and your current health and preferences. For more information on how brain and spinal cord tumors are treated, see Treatment of Adult Brain and Spinal Cord Tumors, by Type.
+For more general information, see Understanding Recurrence.
+Getting emotional support
+Some amount of feeling depressed, anxious, or worried is normal when a brain or spinal cord tumor is a part of your life. Some people are affected more than others. But everyone can benefit from help and support from other people, whether friends and family, religious groups, support groups, professional counselors, or others. Learn more in Coping With Cancer.What are adult brain and spinal cord tumors?
+Brain and spinal cord tumors are masses of cells in the brain or spinal cord that have changed and grown out of control.
+Tumors in the brain or spinal cord can press on or spread into nearby normal tissue as they grow. This can make it hard for the brain and spinal cord to work the way they should to control functions in the rest of the body.
+The main concerns with brain and spinal cord tumors are how fast they will grow and whether they can be taken out (or destroyed) and not come back.
+Some types of brain and spinal cord tumors grow faster and are more likely to spread into nearby parts of the brain or spinal cord than are others. Slow-growing tumors are sometimes called benign. But even benign brain or spinal cord tumors can sometimes cause serious problems.
+Many other types of cancer, such as lung cancer or breast cancer, can spread (metastasize) to the brain from another part of the body. These are not the kind of tumors we talk about here. We are talking about tumors that start in cells in the brain or spinal cord. These tumors rarely spread to other parts of the body.

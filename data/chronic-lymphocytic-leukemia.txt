@@ -1,0 +1,557 @@
+Cancer starts when cells start to grow out of control. Cells in nearly any part of the body can become cancer and can spread to other parts of the body. To learn more about how cancers start and spread, see What Is Cancer?
+Chronic lymphocytic leukemia (CLL) is the most common leukemia in adults. It's a type of cancer that starts in cells that become certain white blood cells (called lymphocytes) in the bone marrow. The cancer (leukemia) cells start in the bone marrow but then go into the blood.
+In CLL, the leukemia cells often build up slowly. Many people don't have any symptoms for at least a few years. But over time, the cells grow and spread to other parts of the body, including the lymph nodes, liver, and spleen.
+What is leukemia?
+Leukemia is cancer that starts in the blood-forming cells of the bone marrow. When one of these cells changes and becomes a leukemia cell, it no longer matures the way it should and grows out of control. Often, it divides to make new cells faster than normal. Leukemia cells also don't die when they should. This allows them to build up in the bone marrow, crowding out normal cells. At some point, leukemia cells leave the bone marrow and spill into the bloodstream. This increases the number of white blood cells in the blood. Once in the blood, leukemia cells can spread to other organs, where they can prevent other cells in the body from functioning normally.
+Leukemia is different from other types of cancer that start in organs like the lungs, colon, or breast and then spread to the bone marrow. Cancers that start elsewhere and then spread to the bone marrow are not leukemia.
+Knowing the exact type of leukemia helps doctors better predict each patient's outlook and select the best treatment.
+What is a chronic leukemia?
+In chronic leukemia, the cells can mature partly (and more are like normal white blood cells). but not completely. These cells may look fairly normal, but they're not. They generally don't fight infection as well as normal white blood cells do. The leukemia cells survive longer than normal cells, and build up, crowding out normal cells in the bone marrow. It can take a long time before chronic leukemias cause problems, and most people can live with them for many years. But chronic leukemias tend to be harder to cure than acute leukemias.
+What is a lymphocytic leukemia?
+Leukemia is myeloid or lymphocytic depending on which bone marrow cells the cancer starts in.
+Lymphocytic leukemias (also known as lymphoid or lymphoblastic leukemia) start in the cells that become lymphocytes. Lymphomas are also cancers that start in those cells. The main difference between lymphocytic leukemias and lymphomas is that in leukemia, the cancer cells are mainly in the bone marrow and blood, while in lymphoma they tend to be in lymph nodes and other tissues.
+Different types of CLL
+Doctors agree that there seem to be 2 different kinds of CLL:
+
+One kind of CLL grows very slowly. So it may take a long time before the patient needs treatment.
+The other kind of CLL grows faster and is a more serious disease.
+
+The leukemia cells from these 2 types look alike, but lab tests can tell the difference between them. The tests look for proteins called ZAP-70 and CD38. If the CLL cells have low amounts of these proteins, the leukemia tends to grow more slowly and have better long-term outcomes.
+Rare forms of lymphocytic leukemia
+The common form of CLL starts in B lymphocytes. But there are some rare types of leukemia that share some features with CLL.
+Prolymphocytic leukemia (PLL): In this type of leukemia the cancer cells are a lot like normal cells called prolymphocytes. These are immature forms of B lymphocytes (B-PLL) or T lymphocytes (T-PLL). Both B-PLL and T-PLL tend to grow and spread faster than the usual type of CLL. Most people with it will respond to some form of treatment, but over time they tend to relapse (the cancer comes back). PLL may develop in someone who already has CLL (in which case it tends to be more aggressive), but it can also occur in people who have never had CLL.
+Large granular lymphocyte (LGL) leukemia: This is another rare form of chronic leukemia. The cancer cells are large and have features of either T lymphocytes or another type of lymphocyte called natural killer (NK) cells. Most LGL leukemias are slow-growing, but a small number are more aggressive (they grow and spread quickly). Drugs that suppress the immune system may help, but the aggressive types are very hard to treat.
+Hairy cell leukemia (HCL): This is rare cancer of the lymphocytes that tends to progress slowly. The cancer cells are a type of B lymphocyte but they're different from those seen in CLL. There are also important differences in symptoms and treatment. This type of leukemia gets its name from the way the cells look under the microscope -- they have fine projections on their surface that make them look "hairy." Treatment for HCL can work very well.The American Cancer Society's estimates for leukemia in the United States for 2024 are:
+
+About 62,770 new cases of leukemia and about 23,670 deaths from leukemia (all kinds)
+About 20,700 new cases of chronic lymphocytic leukemia (CLL)
+About 4,440 deaths from CLL
+
+CLL accounts for about one-quarter of the new cases of leukemia. The average person's lifetime risk of getting CLL is about 1 in 175 (0.57%). The risk is slightly higher in men than in women.
+CLL mainly affects older adults. The average age of people when they are diagnosed is around 70 years. It's rarely seen in people under age 40, and is extremely rare in children.
+Visit the American Cancer Society’s Cancer Statistics Center for more key statistics.Research on chronic lymphocytic leukemia (CLL) is taking place in many university hospitals, medical centers, and other institutions around the world. Each year, scientists find out more about what causes the disease, how to prevent it, and how to better treat it.
+Most experts agree that treatment in a clinical trial should be considered for any type or stage of CLL. This way people can get the best treatment available now and may also get the new treatments that are thought to be even better. The new and promising treatments discussed here are only available in clinical trials.
+Genetics of chronic lymphocytic leukemia
+Scientists are learning a lot about the biology of CLL cells, such as details about the gene changes in the cells. This information is being used to help know whether treatment needs to be started, what type of treatment to use, which treatments are likely to work, and what long-term outlook can be expected. It's also changing the way CLL is treated. New treatments that focus on these gene changes are proving to have a great impact on the treatment options available and how well treatment is tolerated, as well as how well it works.
+Learning about these gene changes is also helping researchers understand why these cells grow too quickly, live too long, and fail to develop into normal blood cells.
+As doctors learn more about the many gene changes that can take place in CLL cells, they're looking at the need to break CLL into groups of sub-types. This could lead to better understanding of the many treatment outcomes seen in people with CLL today. It could also help researchers learn more about how CLL develops.
+New drugs for chronic lymphocytic leukemia
+Dozens of new drugs are being tested for use against CLL. Most of these drugs are targeted at specific parts of cancer cells (like gene changes in CLL cells).
+Doctors are looking at the best ways to use these drugs, as well as how they can be used in combinations or along with chemo to get even better results. They're also looking at how these drugs might be used in elderly patients who may have health problems that keep them from getting standard chemo.
+Vaccine therapy
+The use of vaccines as cancer treatment is a research interest in many different kinds of cancer. These vaccines do not prevent cancer. Instead, they try to get the immune system to mount an attack against cancer cells in the body. Early studies are using vaccines made from the patient's CLL cells and a protein that stimulates the immune system to boost immune system's ability to kill the CLL cells. These studies are in very early phases, and it will take time before we know whether vaccine therapy works.
+CAR T-cell therapy
+CAR (chimeric antigen receptor) T-cell therapy is another way of getting your immune system to find and kill CLL cells. The patient's T cells, a type of white blood cell, are removed, reprogrammed, and grown (multiplied) in the lab. They're then given back to the patient so they can destroy CLL cells in the patient's body. These treatments are now used to treat some types of leukemias and lymphomas, and they may be an option for some people with CLL, after other treatments have been tried. To learn more about CAR T-cell therapy for CLL, see Immunotherapy for Chronic Lymphocytic Leukemia.A risk factor is something that affects a person's chance of getting a disease like cancer. Different cancers have different risk factors. Some risk factors, like smoking, can be changed. Others, like a person’s age or family history, can’t be changed.
+But risk factors don't tell us everything. Having a risk factor, or even many risk factors, doesn’t mean that you will get the disease. And some people who get the disease may not have had any known risk factors. Even if a person has a risk factor and develops cancer, it's often very hard to know how much that risk factor may have contributed to the cancer.
+There are very few known risk factors for chronic lymphocytic leukemia (CLL). These include:
+
+Age
+Exposure to certain chemicals
+Family history
+Sex
+Race/ethnicity
+
+The risk of CLL does not seem to be linked to smoking, diet, or infections.
+Getting older
+The risk of CLL goes up as you get older. About 9 out of 10 people with CLL are over age 50.
+Having certain chemical exposures
+Some studies have linked exposure to Agent Orange, an herbicide used during the Vietnam War, to an increased risk of CLL. Some other studies have suggested that farming and long-term exposure to certain pesticides may be linked to an increased risk of CLL, but more research is needed to be sure.
+Radon exposure at home has been linked to an increased risk.
+Family history
+First-degree relatives (parents, siblings, or children) of people with CLL have more than twice the risk for this cancer.
+Being male
+In general, l﻿eukemia is more common in men than women. This includes CLL that is slightly more common in males than in females. The reason for this is not clear.
+Race/ethnicity
+CLL is more common in North America and Europe than in Asia. Asian people who live in the United States do not have a higher risk than those living in Asia. This is why experts think the differences in risk are related to genetics rather than environmental factors.The exact cause of most cases of chronic lymphocytic leukemia (CLL) is not known. But scientists have learned a great deal about the differences between normal lymphocytes and CLL cells.
+Normal human cells grow and function based on information in each cell's chromosomes. Chromosomes are long molecules of DNA. DNA is the chemical that carries our genes − the instructions for how our cells work. We look like our parents because they are the source of our DNA. But our genes affect more than the way we look.
+Each time a cell prepares to divide into 2 new cells, it must make a new copy of the DNA in its chromosomes. This process is not perfect, and errors can occur that may affect genes within the DNA.
+Some genes contain instructions for controlling when our cells grow and divide.
+
+Certain genes that promote cell growth and division are called oncogenes.
+Genes that slow down cell division or cause cells to die at the right time are called tumor suppressor genes.
+
+Cancers can be caused by DNA mutations (changes) that turn on oncogenes or turn off tumor suppressor genes.
+Each human cell contains 23 pairs of chromosomes. In most cases of CLL, a change can be found in at least one of these chromosomes. Most often this change is a deletion − that is, loss of part of a chromosome. The loss of part of chromosome 13 is the most common deletion, but other chromosomes such as 11 and 17 can also be affected. You might see this written as del(13q), del(11q), or del(17p). Sometimes there is an extra chromosome 12 (trisomy 12). Other, less common abnormalities may also be found. Scientists know these chromosome changes are important in CLL, but it's not yet clear which genes they involve or exactly how they lead to leukemia.
+We do know that normal B lymphocytes are part of the immune system. They're programmed to grow and divide when they come into contact with a foreign substance called an antigen. (Scientists call substances foreign if they don't normally occur in a person's body and can be recognized by their immune system. Germs contain foreign antigens. So do blood cells from someone else with a different blood type.) Scientists think that CLL begins when B lymphocytes continue to divide without restraint after they have reacted to an antigen. But why this happens is not yet known.
+Sometimes people inherit DNA mutations from a parent that greatly increase their risk of getting certain types of cancer. But inherited mutations rarely cause CLL. DNA changes related to CLL usually occur during the person's lifetime, rather than having been passed on from a parent.For certain cancers, the American Cancer Society recommends screening tests in people without any symptoms, because they are easier to treat if found early. But for chronic lymphocytic leukemia (CLL) , no screening tests are routinely recommended at this time.
+Many times, CLL is found when routine blood tests are done for other reasons. For instance, a person's white blood cell count may be very high, even though they don't have any symptoms.
+If you notice any symptoms that could be caused by CLL, report them to your doctor right away so the cause can be found and treated, if needed.Many people with chronic lymphocytic leukemia (CLL) do not have any symptoms when it is diagnosed. The leukemia is often found when their doctor orders blood tests for some unrelated health problem or during a routine check-up and they are found to have a high number of lymphocytes.
+Even when people with CLL have symptoms, they're often vague and can be symptoms of other things. Overall, the signs and symptoms of leukemia can affect men or women and do not differ by sex or gender. Symptoms can include the following:
+
+Weakness
+Feeling tired
+Weight loss
+Chills
+Fever
+Night sweats
+Swollen lymph nodes (often felt as lumps under the skin)
+Pain or a sense of "fullness" in the belly (this can make someone feel full after only a small meal), which is caused by an enlarged spleen and/or liver
+
+Many of the signs and symptoms of advanced CLL occur because the leukemia cells replace the bone marrow's normal blood-making cells. As a result, people don't have enough red blood cells, properly functioning white blood cells, and blood platelets.
+
+Anemia is a shortage of red blood cells. It can cause tiredness, weakness, and shortness of breath.
+A shortage of normal white blood cells (leukopenia) increases the risk of infections. You might hear the term neutropenia, which refers to low levels of neutrophils (a type of granulocyte needed to fight bacterial infections). People with CLL may have very high white blood cell counts because of excess numbers of lymphocytes (lymphocytosis), but the leukemia cells don't fight infection the way normal white blood cells do.
+A shortage of blood platelets (thrombocytopenia) can lead to excess bruising, bleeding, frequent or severe nosebleeds, and bleeding gums.
+
+People with CLL have a higher risk of infections. This is mainly because their immune systems aren't working as well as they should. CLL is a cancer of B lymphocytes, which normally make antibodies that help fight infection. Because of the CLL, these antibody-making cells don't work as they should, so they can't fight infections. Infections may range from simple things like frequent colds or cold sores to pneumonia and other serious infections.
+CLL can also affect the immune system in other ways. In some people with CLL, the immune system cells make abnormal antibodies that attack normal blood cells. This is known as autoimmunity. It can lead to low blood counts. If the antibodies attack red blood cells, it's called autoimmune hemolytic anemia. Less often, the antibodies attack platelets and the cells that make them, leading to low platelet counts. Rarely, the antibodies attack white blood cells, leading to leukopenia (low white blood cell counts).
+These symptoms and signs may be caused by CLL, but they can also be caused by other conditions. Still, if you have any of these problems, it's important to see a doctor right away so the cause can be found and treated, if needed.Certain signs and symptoms might suggest that a person has chronic lymphocytic leukemia (CLL), but tests are needed to be sure.
+Medical history and physical exam
+If you might have leukemia, your doctor will want to take a complete medical history to check for symptoms and possible risk factors. You'll also be asked about your family medical history and your general health.
+A physical exam will be done to look for possible signs of leukemia and other health problems. During the exam, your doctor will pay close attention to your lymph nodes, abdomen (belly), and other areas that might be affected.
+Your doctor may also order tests to check your blood cell counts. If the results suggest leukemia, you may be referred to a hematologist, a doctor who specializes in treating blood disorders (including blood cancers like leukemia). This doctor may do one or more of the tests described below.
+Tests used to diagnose and classify leukemia
+Tests will need to be done on your blood and bone marrow to be certain of a leukemia diagnosis. Other tissue and cell samples may also be needed to help guide treatment.
+Blood tests
+Blood samples for tests for CLL will be taken from a vein in your arm. Many different tests are done.
+Complete blood count and blood cell exam (peripheral blood smear)
+The complete blood count or CBC measures the different cells in your blood, such as the red blood cells, the white blood cells, and the platelets. This test is often done along with a differential (or diff) which looks at the numbers of the different types of white blood cells. These tests are often the first ones done when a blood problem is suspected.
+People with CLL have too many lymphocytes. (This may be called lymphocytosis.) Having more than 10,000 lymphocytes/mm³ (per cubic millimeter) of blood strongly suggests CLL, but other tests are needed to know for sure. You might also have low levels of red blood cells and platelets.
+A sample of blood is looked at under the microscope (called a peripheral blood smear). If you have CLL, the blood smear could show many abnormal looking lymphocytes called smudge cells.
+Flow cytometry
+This test is important in diagnosing CLL. It uses a machine that looks for certain substances (markers) on or in cells that help identify what types of cells they are.
+This test can be used to see if the lymphocytes in a sample of blood contain CLL cells. Flow cytometry can also be used to look for CLL cells in bone marrow or other fluids.
+Flow cytometry can also be used to test for substances called ZAP-70 and CD38 on the CLL cells. Studies suggest that people who have few CLL with these substances seem to have a better outlook. This is discussed in more detail in Chronic Lymphocytic Leukemia Stages.
+Other blood tests
+Other tests may be done to measure the amount of certain chemicals in your blood, but they're not used to diagnose leukemia. In people already known to have CLL, these tests can help find liver or kidney problems caused by the spread of leukemia cells or certain chemotherapy (chemo) drugs. These tests also can check the levels of certain minerals so any imbalances can be treated. If you're going to be treated with the drug rituximab (Rituxan®), your doctor may order blood tests to check for previous hepatitis infection. (You can find more on this in Monoclonal Antibodies for Chronic Lymphocytic Leukemia.)
+Your blood immunoglobulin (antibody) levels may be tested to check if you have enough antibodies to fight infections, especially if you've recently had many infections. Another blood protein called beta-2-microglobulin may be measured. High levels of this protein generally mean a more advanced CLL.
+Bone marrow tests
+Blood tests are often enough to diagnose CLL, but testing the bone marrow can help tell how advanced it is. Because of this, bone marrow tests are often done before starting treatment. They might also be repeated during or after treatment to see if treatment is working.
+Bone marrow aspiration and biopsy are done to get bone marrow samples for testing. They're usually done together. The samples are usually taken from the back of the pelvic (hip) bone, but sometimes they may be taken from other bones.
+For a bone marrow aspiration, you lie on a table (either on your side or on your belly). After cleaning the skin over your hip, the doctor uses a long thin needle to put in a drug that numbs the area and the surface of the bone. This may cause brief stinging or burning. A hollow needle is then put into the bone, and a syringe is used to suck out a small amount (about 1 teaspoon) of the thick, liquid bone marrow. Even with the numbing medicine, most people still have some brief pain when the marrow is removed.
+A bone marrow biopsy is usually done just after the aspiration. A small piece (core) of bone and marrow (about 1/16 inch in diameter and 1/2 inch long) is removed with a larger needle that's twisted as it's pushed down into the bone. Even with the numbing medicine, this can cause a feeling of pressure or tugging, but it usually doesn't hurt. After the biopsy is done, pressure will be put the site to help prevent bleeding.
+Routine microscopic exams
+A pathologist (a doctor specializing in lab tests) looks at the bone marrow samples under a microscope. They may also be reviewed by your hematologist/oncologist (a doctor specializing in blood diseases and cancer).
+The doctors will look at the size, shape, and other traits of the white blood cells in the samples. This helps to classify them into specific types.
+An important factor is if the cells look mature (like normal blood cells that can fight infections). CLL cells usually look mature, while cells of acute leukemias look immature.
+A key feature of a bone marrow sample is its cellularity or cellular makeup. Normal bone marrow has a certain number of blood-forming cells and fat cells. Marrow with too many blood-forming cells is said to be hypercellular. This is often seen in bone marrow of a person with CLL. Doctors also look to see how much of the normal cells in the bone marrow are replaced by CLL cells.
+The pattern of spread of CLL cells in the bone marrow is important, too. A pattern where the cells are in small groups (called a nodular or interstitial pattern) often means a better outlook than if the cells are scattered throughout the marrow (a diffuse pattern).
+Stains and/or antibody tests such as cytochemistry, immunocytochemistry, immunohistochemistry, and flow cytometry may be used on the bone marrow samples to diagnose CLL. You can learn more at Biopsy and Cytology Tests
+Cytogenetics
+For this test, bone marrow cells (or sometimes cells from the blood or other tissues) are grown in the lab, then their chromosomes are examined under a microscope. Because it takes time for the cells to start dividing, this test usually takes weeks to complete. Normal human cells contain 23 pairs of chromosomes, but sometimes CLL cells have chromosome changes that can be seen under the microscope.
+In some cases of CLL, part of a chromosome may be missing. This is called a deletion. The most common deletions occur in parts of chromosomes 13, 11, or 17. Deletion of part of chromosome 17 is linked to a poor outlook. Other, less common chromosome changes include an extra copy of chromosome 12 (trisomy 12) or a translocation (swapping of DNA) between chromosomes 11 and 14 [written as t(11;14)].
+This information may be helpful to determine a patient's prognosis (outlook), but it needs to be looked at along with other factors, such as the stage of CLL. The loss of part of chromosome 13 is usually linked with a slower-growing disease and a better outlook, while defects in chromosomes 11 or 17 often indicate a poorer outlook. Trisomy 12 doesn't seem to have much of an effect on prognosis.
+Fluorescent in situ hybridization (FISH)
+This chromosome test can be used to look at the cells’ chromosomes and DNA without having to grow the cells in the lab. It uses special fluorescent dyes that only attach to specific parts of particular chromosomes. FISH is used to look for certain genes or chromosome changes (not just any change). It can be used on regular blood or bone marrow samples, too. Because the cells don’t have to grow in the lab first, you can usually get the results more quickly than cytogenetics, often within a few days.
+Molecular tests
+Immunoglobulins, the antibodies that help your body fight infections, are made up of light chains and heavy chains. Whether the gene for the immunoglobulin heavy chain variable region (IGHV or IgVH) has changed (mutated) can help your doctor know how aggressive your CLL is. That gene is looked at in a test called cDNA sequencing.
+Lymph node biopsy
+In a lymph node biopsy, all or part of a lymph node is removed so it can be examined under the microscope to see if it contains cancer cells. This is often done to diagnose lymphomas, but only rarely needed for CLL. It may be done if a lymph node has grown very large and the doctor wants to know if the leukemia has changed (transformed) into a more aggressive lymphoma.
+In an excisional lymph node biopsy , an entire lymph node is removed through a cut in the skin. If the node is near the skin surface, this is a simple operation that can be done by first numbing the skin, but if the node is inside the chest or abdomen (belly), general anesthesia (where the patient is asleep) is used. If the lymph node is very large, only part of it may be removed. This is called an incisional biopsy.
+Lumbar puncture (or spinal tap)
+This procedure is used to test the fluid that surrounds the brain and spinal cord (the cerebrospinal fluid or CSF). It's not often needed for people with CLL. It's only done if the doctor suspects leukemia cells may have spread to the area around the brain or spinal cord (which is rare), or if there might be an infection in those areas.
+For this test, the doctor first numbs an area in the lower part of the back over the spine. A small, hollow needle is then placed between the bones of the spine and into the space around the spinal cord to collect some of the fluid.
+Imaging tests
+Imaging tests use x-rays, sound waves, or magnetic fields to create pictures of the inside of the body. Imaging tests are not done to diagnose CLL, but they may be done for other reasons, for instance to help find a suspicious area that might be cancer, to learn how far a cancer may have spread, or to help see if treatment working.
+Computed tomography (CT) scan
+The CT scan can help tell if any lymph nodes or organs in your body are enlarged. It isn't usually needed to diagnose CLL, but it may be done if your doctor suspects the leukemia is growing in an organ, like your spleen.
+Sometimes a CT scan is combined with a PET scan in a test known as a PET/CT scan. For a PET scan, glucose (a form of sugar) containing a radioactive atom is injected into the blood. Because cancer cells grow rapidly, they absorb large amounts of the radioactive sugar. A special camera can then create a picture of the areas of radioactivity in the body. The PET/CT scan combines both tests in one machine. This test allows the doctor to compare areas of higher radioactivity on the PET scan with the more detailed appearance of that area on the CT.
+Magnetic resonance imaging (MRI) scan
+MRI scans are most useful in looking the brain and spinal cord, but they're not often needed in people with CLL.
+Ultrasound
+Ultrasound can be used to look at lymph nodes near the surface of the body or to look for enlarged organs (like the liver and spleen) inside your abdomen.For most cancers, staging is the process of finding out how far the cancer has spread. Stages are often useful because they can help guide treatment and determine a person's outlook. Most types of cancer are staged based on the size of the tumor and how far the cancer has spread.
+Chronic lymphocytic leukemia (CLL), on the other hand, does not usually form tumors. It's generally in the bone marrow and blood. And, in many cases, it has spread to other organs such as the spleen, liver, and lymph nodes by the time it's found. The outlook for a person with CLL depends on other information, such as the results of lab test and imaging tests.
+Staging systems for chronic lymphocytic leukemia
+A staging system is a standard way for the cancer care team to describe cancer. There are 2 different systems for staging CLL:
+
+Rai system: This is used more often in the United States.
+Binet system: This is used more widely in Europe.
+
+Both of these staging systems are helpful and have been in use for many years.
+Rai staging system
+The Rai system is based on lymphocytosis. The patient must have a high number of lymphocytes in their blood and bone marrow that isn't linked to any other cause (like infection).
+For a diagnosis of CLL, the overall lymphocyte count does not have to be high, but the patient must have at least 5,000/mm3 monoclonal lymphocytes (sometimes called a monoclonal lymphocytosis). Monoclonal means that the cancer cells all came from one original cell. This causes them to have the same chemical pattern which can be seen with special testing.
+This system divides CLL into 5 stages based on the results of blood tests and a physical exam:
+
+Rai stage 0: Lymphocytosis; no enlargement of the lymph nodes, spleen, or liver; red blood cell and platelet counts are near normal.
+Rai stage I: Lymphocytosis; enlarged lymph nodes; spleen and liver are not enlarged; red blood cell and platelet counts are near normal.
+Rai stage II: Lymphocytosis; enlarged spleen (and maybe an enlarged liver); lymph nodes may or may not be enlarged; red blood cell and platelet counts are near normal.
+Rai stage III: Lymphocytosis; lymph nodes, spleen, or liver may or may not be enlarged; red blood cell counts are low (anemia); platelet counts are near normal.
+Rai stage IV: Lymphocytosis; enlarged lymph nodes, spleen, or liver; red blood cell counts may be low or near normal; platelet counts are low (thrombocytopenia).
+
+Doctors separate the Rai stages into low-, intermediate-, and high-risk groups when determining treatment options.
+
+Stage 0 is low risk.
+Stages I and II are intermediate risk.
+Stages III and IV are high risk.
+
+These risk groups are used later in Treatment of Chronic Lymphocytic Leukemia. 
+Binet staging system
+In the Binet staging system, CLL is classified by the number of affected lymphoid tissue groups (neck lymph nodes, groin lymph nodes, underarm lymph nodes, spleen, and liver) and by whether or not the patient has anemia (too few red blood cells) or thrombocytopenia (too few blood platelets).
+
+Binet stage A: Fewer than 3 areas of lymphoid tissue are enlarged, with no anemia or thrombocytopenia.
+Binet stage B: 3 or more areas of lymphoid tissue are enlarged, with no anemia or thrombocytopenia.
+Binet stage C: Anemia and/or thrombocytopenia are present. Any number of lymphoid tissue areas may be enlarged.
+
+Prognostic factors for chronic lymphocytic leukemia
+Along with the stage, there are other factors that help predict a person's outlook. These factors are not part of formal staging systems (at least at this time), but are often taken into account when looking at possible treatment options.
+
+Factors that tend to be linked with shorter survival time are called adverse prognostic factors.
+Those that predict longer survival are favorable prognostic factors.
+
+Adverse prognostic factors
+
+Diffuse pattern of bone marrow involvement (more widespread replacement of normal marrow by leukemia)
+Advanced age
+Deletions of parts of chromosomes 17 or 11
+Trisomy 12 in the CLL cells
+High blood levels of certain substances, such as beta-2-microglobulin
+Lymphocyte doubling time (the time it takes for the lymphocyte count to double) of less than 1 year
+Increased fraction of prolymphocytes (an early form of the lymphocyte) in the blood
+High proportion of CLL cells containing ZAP-70 (20% or more) or CD38 (30% or more)
+CLL cells with unchanged (not mutated) gene for the immunoglobulin heavy chain variable region (IGHV)
+CLL cells don't have the TP53 gene
+
+Favorable prognostic factors
+
+Non-diffuse (nodular or interstitial) pattern of bone marrow involvement
+Deletion of part of chromosome 13 (with no other chromosome abnormalities)
+Low proportion of CLL cells containing ZAP-70 (less than 20%) or CD38 (less than 30%)
+CLL cells with a mutated gene for IGHV
+
+Certain prognostic factors such as the presence or absence of ZAP-70, CD38, and a mutated gene for IGHV help divide cases of CLL into 2 groups, slow growing and fast growing. People with the slower growing kind of CLL tend to live longer and may be able to delay treatment longer as well.
+Staging for hairy cell leukemia
+There is no standard staging system for hairy cell leukemia.
+Monoclonal B-lymphocytosis
+Some people have monoclonal lymphocytes in their blood, but not enough to make the diagnosis of CLL. If someone has less than 5,000 monoclonal lymphocytes (per mm3), normal counts of red blood cells and platelets, and no enlarged lymph nodes (or enlarged spleen), they have a condition called monoclonal B-lymphocytosis (MBL). MBL doesn’t need to be treated, but about one patient of every 100 with this condition will go on to need treatment for CLL.
+Small lymphocytic lymphoma
+The cancer cells of small lymphocytic lymphoma (SLL) and CLL look the same under the microscope and have the same marker proteins on the surface of the cells. Whether someone is diagnosed with SLL or CLL depends largely on the number of lymphocytes in the blood. To be diagnosed with CLL, there must be at least 5,000 monoclonal lymphocytes (per mm3) in the blood. For it to be called SLL, the patient must have enlarged lymph nodes or an enlarged spleen with fewer than 5 ,000 lymphocytes (per mm3) in the blood. Still, since SLL and CLL can be treated the same, the difference between them isn't really important.As you cope with chronic lymphocytic leukemia (CLL) and treatment, you need to have honest, open discussions with your doctor. You should feel comfortable asking about anything, no matter how small it might seem. Here are some questions you might want to ask. Nurses, social workers, and other members of the treatment team may also be able to give you answers.
+When you're told you have chronic lymphocytic leukemia
+
+What is the stage (risk group) of the CLL, and what does that mean for me?
+Will I need to have other tests before we can decide on treatment?
+How much experience do you have treating this type of cancer?
+Should I get a second opinion ?
+
+When deciding on a treatment plan
+
+Should I start treatment now? Why or why not?
+What are my treatment choices?
+What do you recommend, and why?
+What are the risks and side effects with the treatments that you recommend?
+How often will you test my blood or bone marrow to see how treatment is working?
+What should I do to be ready for treatment?
+How long will treatment last? What will it be like? Where will it be done?
+How will treatment affect my daily activities?
+What is the outlook for my survival?
+
+During treatment
+Once treatment begins, you’ll need to know what to expect and what to look for. Not all of these questions may apply to you, but getting answers to the ones that do may be helpful.
+
+How will we know if the treatment is working?
+Is there anything I can do to help manage side effects?
+What symptoms or side effects should I tell you about right away?
+How can I reach your office on nights, holidays, or weekends?
+Are there any limits on what I can do?
+Can you suggest a mental health professional I can see if I start to feel overwhelmed, depressed, or distressed?
+
+After treatment
+
+What symptoms should I watch for?
+What will we do if the treatment doesn't work or if the leukemia comes back?
+What will my options be if the leukemia comes back?
+What type of follow-up will I need after treatment?
+When can I return to work?
+
+Be sure to write down any questions you have that are not on this list. For instance, you might want information about how you'll feel so that you can plan your work schedule. Or you may want to ask about qualifying for clinical trials.
+Taking another person with you and/or recording your talks with your doctor can be helpful. Collecting copies of your medical records, pathology reports, and radiology reports is a good idea too.Chemotherapy (chemo) uses anti-cancer drugs that are taken by mouth or injected into a vein or muscle to kill or control cancer cells. When given this way, these drugs enter the bloodstream and reach all parts of the body, so chemo is useful for cancers that tend to spread throughout the body, like chronic lymphocytic leukemia (CLL).
+Doctors give chemo in cycles, with each period of treatment followed by a rest period to allow the body time to recover. Chemo cycles generally last about 3 to 4 weeks. Chemo is seldom recommended for patients in poor health, but age itself should not keep anyone from getting chemo.
+Chemo drugs used for CLL
+The major types of chemo drugs most commonly used to treat CLL include:
+Purine analogs: fludarabine (Fludara®), pentostatin (Nipent®), and cladribine (2-CdA, Leustatin®). Fludarabine is often one of the first drugs used against CLL. (It's given along with cyclophosphamide and rituximab. This combination may be called FCR.)
+Alkylating agents: chlorambucil (Leukeran®), bendamustine (Treanda®), and cyclophosphamide (Cytoxan®). They're often given along with a monoclonal antibody.
+Corticosteroids such as prednisone, methylprednisolone, and dexamethasone.
+Possible side effects
+Chemo drugs work by attacking cells that are dividing quickly, which is why they work against cancer cells. But other cells like those in the bone marrow, the lining of the mouth and intestines, and the hair follicles, also divide quickly. These cells are also likely to be affected by chemo, which can lead to side effects.
+Chemotherapy side effects depend on the type and dose of drugs given and the length of time they are taken. Common side effects include:
+
+Hair loss
+Mouth sores
+Loss of appetite
+Nausea and vomiting
+Low blood counts
+
+Low blood cell counts can cause:
+
+Increased risk of infections (low white blood cell counts)
+Easy bruising or bleeding (low blood platelets)
+Fatigue (low red blood cells)
+
+These side effects are usually short-term and go away once treatment is finished. There are often ways to lessen or even prevent these side effects. For instance, there are drugs to help prevent or reduce nausea and vomiting. Be sure to ask your doctor or nurse about medicines to help reduce side effects, and let them know when you do have side effects so they can be managed before they get worse.
+Drugs known as growth factors (such as G-CSF/Neupogen, pegfilgrastim/Neulasta, and GM-CSF/sargramostim) are sometimes given to increase the white blood cell counts and help reduce the chance of infection, see Infections in People With Cancer.
+Tumor lysis syndrome is another possible side effect of certain types of chemo. It's most common in patients who had large numbers of leukemia cells in the body before treatment. (This may be called bulky disease.) It most often happens with the first cycle of chemo. When the CLL cells are killed, they break open and release their contents into the bloodstream. This can overwhelm the kidneys, which cannot get rid of all of these substances at once. This can lead to build up of excess amounts of certain minerals in the blood and even kidney failure. The excess minerals can cause problems with the heart and nervous system. Doctors work to prevent these problems by giving the patient extra fluids and certain drugs, such as sodium bicarbonate, allopurinol, febuxostat, and rasburicase.Immunotherapy is treatment that either boosts the patient’s own immune system or uses lab-made versions of the normal parts of the immune system to kill cancer cells or slow their growth. Some types of immunotherapy can be used to treat chronic lymphocytic leukemia (CLL).Targeted therapies are drugs that specifically target some of the changes inside cancer cells that help them grow. Unlike standard chemotherapy drugs, which work by attacking rapidly growing cells in general (including cancer cells), these drugs target one or more specific proteins on or in chronic lymphocytic leukemia (CLL) cells. When treatment is needed for CLL, a targeted drug is often part of the first line of treatment.
+Bruton's tyrosine kinase (BTK) inhibitors
+BTK is a protein that normally helps some CLL cells to grow and survive. Drugs that target this protein, known as BTK inhibitors, can be helpful in treating CLL.
+Ibrutinib (Imbruvica)
+Ibrutinib can be used in the initial treatment of CLL. It has also been shown to help when CLL is hard to treat, for instance, if there are chromosome 17 deletions or if CLL has come back after other treatments. This drug is taken daily as a pill.
+Side effects can include diarrhea, nausea, constipation, fatigue, shortness of breath, swelling of the feet and hands, body aches, and rash. Low blood counts, including low red blood cell counts (anemia), low levels of certain white blood cells (neutropenia), and platelet counts (thrombocytopenia), are also common side effects. Some people treated with this drug get infections which can be serious. There are other side effects, too, so ask your doctor what you can expect.
+Acalabrutinib (Calquence)
+Acalabrutinib can be used in the initial treatment of CLL, or after other treatments have been tried. It might be used alone or along with other drugs. This drug is taken by mouth as capsules, typically twice a day. 
+Side effects can include headache, diarrhea, bruising, fatigue, muscle and joint pain, cough, rash, and low blood counts, including low red blood cell counts (anemia), low levels of certain white blood cells (neutropenia), and platelet counts (thrombocytopenia). More serious side effects can include bleeding (hemorrhage), serious infections, and irregular heartbeat (atrial fibrillation). Some people taking this drug have developed skin or other cancers, so it’s important to use sun protection when outside while taking this drug.
+Zanubrutinib (Brukinsa)
+Zanubrutinib can be used in the initial treatment of CLL, or after other treatments have been tried. This drug is taken by mouth as pills, typically once or twice a day. 
+Side effects can include low white blood cell count (with an increased risk of infection), low blood platelet count (with an increased risk of bleeding and bruising), upper respiratory infections, muscle and joint pain, feeling tired, headache, cough, skin rash, and diarrhea. More serious side effects can include bleeding (hemorrhage), serious infections, and heart rhythm problems. Some people taking this drug have developed skin or other cancers, so it’s important to use sun protection when outside while taking this drug.
+Pirtobrutinib (Jaypirca)
+Pirtobrutinib can be used to treat CLL, typically after at least 2 other treatments (including another BTK inhibitor and a BCL-2 inhibitor) have been tried. This drug is taken by mouth as pills, typically once a day.
+Common side effects can include diarrhea, bruising, feeling tired, muscle and joint pain, cough, and low blood cell counts. Less common but more serious side effects can include bleeding (hemorrhage), serious infections, and heart rhythm problems. Some people taking this drug have developed skin or other cancers, so it’s important to use sun protection when outside while taking this drug.
+PI3K inhibitors
+Phosphatidylinositol 3-kinases (PI3Ks) are a family of proteins that send signals in cells that can affect cell growth. Drugs that target these proteins, known as PI3K inhibitors, can be helpful in treating CLL.
+Idelalisib (Zydelig)
+Idelalisib blocks a kinase protein called PI3K-delta. It's been shown to help treat CLL after other treatments have been tried. It's a pill taken twice a day.
+Common side effects include diarrhea, fever, fatigue, nausea, cough, pneumonia, belly pain, chills, and rash. Low blood counts, including low red blood cell counts (anemia), low levels of certain white blood cells (neutropenia), and platelet counts (thrombocytopenia), are also common. Less often, more serious side effects can occur, such as liver damage, severe diarrhea, lung inflammation (pneumonitis), serious allergic reactions, severe skin problems, and holes (perforations) in the intestines.
+Old (dormant) infections (like hepatitis) may become active again while talking this drug. You may be given preventive (prophylactic) medicines to help keep this from happening. Your cancer care team will also watch you closely for signs of infection.
+Duvelisib (Copiktra)
+Duvelisib blocks two kinase proteins called PI3K-delta and PI3K-gamma. It's been shown to help treat CLL after other treatments have been tried. It's a pill taken twice a day.
+Common side effects include diarrhea, fever, fatigue, nausea, cough, pneumonia, belly pain, joint/muscle pain and rash. Low blood counts, including low red blood cell counts (anemia) and low levels of certain white blood cells (neutropenia) are also common. Less often, more serious side effects can occur, such as liver damage, severe diarrhea, lung inflammation (pneumonitis), serious allergic reactions, severe skin problems.
+BCL-2 inhibitor
+BCL-2 is a protein in CL cells that helps them survive longer than they should. Drugs that target this protein, known as BCL-2 inhibitors, can be helpful in treating CLL.
+Venetoclax (Venclexta)
+Venetoclax can be used alone or along with a monoclonal antibody, such as rituximab. It's taken as a pill once a day.
+Side effects can include low levels of certain white blood cells (neutropenia), low red blood cell counts (anemia), diarrhea, nausea, respiratory infections (such as colds), low platelet counts (thrombocytopenia), and feeling tired. Less common but more serious side effects can include pneumonia and other serious infections.
+Tumor lysis syndrome (TLS) is another possible side effect of this drug. It's more common in patients who have large numbers of leukemia cells in their body when treatment starts. (This may be called bulky disease.) When the CLL cells are killed, they break open and release their contents into the bloodstream. This can overwhelm the kidneys to the point that they can't get rid of all of these substances fast enough. This can lead to build up of excess amounts of certain minerals in the blood and even kidney failure. The excess minerals can cause problems with the heart and nervous system. To help keep this from happening, you may start at a very low dose and then slowly increase it over about 5 weeks. Your treatment team will do blood tests and also watch for signs of TLS.Supportive care for chronic lymphocytic leukemia (CLL) is aimed at helping with problems related to the cancer and its treatment. It's not treatment for the CLL itself. For instance, some people with CLL have problems with infections or low blood counts. Although treating the CLL may help these over time, other treatments may be needed in the meantime.
+Treatments to prevent infections
+Intravenous immunoglobulin (IVIG)
+Some people with CLL don’t have enough antibodies (immunoglobulins) to fight infection. This can lead to repeated lung and/or sinus infections. Antibody levels can be checked with a blood test, and if they're low, antibodies from donors can be given into a vein (IV) to raise the levels and help prevent infections. These donated antibodies are called intravenous immunoglobulin or IVIG. IVIG is often given once a month at first, but can also be given as needed based on blood tests of antibody levels.
+Antibiotics and anti-virals
+Certain chemo drugs (such as purine analogs − see the chemotherapy section for details) and the antibody drug alemtuzumab(Campath) can raise your risk of certain infections such as CMV (a virus) and pneumonia caused by Pneumocystis jiroveci. You might be given an anti-viral drug like acyclovir or valacyclovir (Valtrex) to help lower the risk of CMV infections. To help prevent Pneumocystis pneumonia, a sulfa antibiotic is often given (trimethoprim with sulfamethoxazole, which is often known by the brand names Septra or Bactrim). Other treatments are available for people who are allergic to sulfa drugs.
+Some drugs used to treat CLL can also cause dormant viruses to become active. For instance, if you already carry the hepatitis virus or CMV, treatment may allow them to grow and cause problems. Blood tests will be done to watch virus levels. Drugs may be used to help keep these viruses under control.
+Using drugs to help prevent infections this way may be called anti-infective prophylaxis. Antibiotics and anti-viral drugs are also used to treat infections. Often, active infections require higher doses or different drugs than are used to prevent infections.
+Vaccines
+It's best for people with CLL to speak to their health care provider before getting any vaccine.
+Experts recommend that people with CLL get the pneumonia vaccine every 5 years. They also recommend a yearly flu shot (influenza vaccine). 
+Avoid vaccines that contain live viruses.
+For more information on vaccines, see Vaccination and Flu Shots for People with Cancer.
+Treatments for low blood counts
+CLL or its treatment can cause low blood cell counts. Low red blood counts cause anemia. Anemia can make you feel tired, light headed, or short of breath from walking. If anemia is causing symptoms, it can be treated with transfusions. These are often given in an outpatient clinic. If platelet counts get very low, it can lead to serious bleeding. Platelet transfusions can help prevent this.
+In CLL, low red blood and platelet counts can also be caused by the cells being destroyed by abnormal antibodies. When antibodies cause low numbers of platelets, it's called immune thrombocytopenic purpura or ITP. Before diagnosing this, the doctor often needs to check the bone marrow to make sure that there isn’t another cause for the low platelet counts. In ITP, giving platelet transfusions doesn’t usually help increase the platelet counts much, if at all, because the antibodies just destroy the new platelets, too. This can be treated by drugs that affect the immune system, like corticosteroids, IVIG, and the antibody drug rituximab (Rituxan). Another option is to remove the spleen, since after the antibodies stick to the platelets, they're actually destroyed in the spleen. Another option is a drug that tells the body to make more platelets, like eltrombopag (Promactac) or romiplostim (Nplate).
+When antibodies cause low red blood cell counts, it's called autoimmune hemolytic anemia (AIHA). This also can be treated with drugs that affect the immune system, like corticosteroids, IVIG, and rituximab (Rituxan). Removing the spleen is another option. If you develop AIHA while taking fludarabine (Fludara), the drug may be the cause so it will be stopped.In most cases, chemotherapy, immunotherapy, and/or targeted therapy can reduce the number of leukemia cells in chronic lymphocytic leukemia (CLL) and improve symptoms. These treatments can often control CLL for a long time. But even if all signs of leukemia go away, the disease often comes back later. This is especially true of the types of CLL that are harder to treat, such as those with chromosome 17 deletions and TP53 mutations, as well as CLL that doesn't respond to standard treatments. Higher doses of chemo might work better, but they often can't be used because they could severely damage bone marrow, where new blood cells are made. This could lead to life-threatening infections, bleeding, and other problems linked to low blood cell counts.
+A stem cell transplant (SCT) allows doctors to use higher doses of chemo, sometimes along with radiation therapy, to treat CLL. After these treatments, the patient receives a transplant of blood-forming stem cells to restore the bone marrow.
+Blood-forming stem cells used for a transplant come either from the blood (for a peripheral blood stem cell transplant, or PBSCT), from the bone marrow (for a bone marrow transplant, or BMT), or from umbilical cord blood. Bone marrow transplant was common in the past, but today it has largely been replaced by PBSCT.
+It's not yet clear how helpful stem cell transplants are in patients with CLL. When transplant is done, it's most often as part of a clinical trial.
+Types of transplant
+The 2 main types of stem cell transplants are allogeneic and autologous.
+
+For an autologous transplant, the patient’s own stem cells are collected from their blood or bone marrow and then given back after treatment. The problem with this is that leukemia cells may be collected with the stem cells.
+In an allogeneic transplant, the stem cells come from someone else (a donor). To lower the chance of problems, the donor needs to “match” the patient in terms of tissue type. Often, a close relative, like a brother or sister is a good match. Less often, a matched unrelated donor may be found.
+
+Because collecting the patient’s stem cells can also collect leukemia cells, allogeneic transplants are most often used for CLL. This type of transplant can cause severe or even life-threatening complications and side effects, and it's often not a good option in people who are older or have other health problems.Though it's quite rare, sometimes chronic lymphocytic leukemia (CLL) is diagnosed when very, very high numbers of WBCs thicken the blood and cause problems.
+Very high numbers of leukemia cells in the blood can cause problems with normal circulation, which can lead to heart failure and breathing problems. Chemotherapy may not lower the number of cells until a few days after the first dose. Because of this time delay, leukapheresis may be used right away − before chemotherapy. In this procedure, your blood is passed through a special machine that takes out the white blood cells (including leukemia cells) and returns the rest of the blood cells and plasma back into your bloodstream.
+For this procedure, you can lie in bed or sit in a reclining chair for a few hours. Two intravenous (IV) lines are needed − the blood is removed through one IV, and then returned to your body through the other IV. Sometimes, a single large catheter is put in near the neck or under the collar bone for the pheresis − instead of using IV lines in the arms. This type of catheter is called a central line and has both IVs built into it.
+Leukapheresis is not painful, but sometimes calcium levels can drop during the process. This can cause numbness and tingling (especially in the hands and feet and around the mouth) and, rarely, muscle spasms. This can be treated easily with calcium.
+Leukapheresis works quickly to get the number of leukemia cells down. Still, without more treatment (like chemotherapy , monoclonal antibodies , or targeted therapy ) to kill the cancer cells, the cell count will go back up again over time.Surgery has a very limited role in treating chronic lymphocytic leukemia (CLL). Because CLL cells tend to spread widely throughout the bone marrow and to many organs, surgery cannot cure this type of cancer. It's rarely needed even to diagnose CLL, which can often be done with blood tests. Sometimes minor surgery is needed to remove a lymph node to help diagnose or stage the cancer.
+Splenectomy
+In rare cases, the spleen may be removed (splenectomy). This isn't expected to cure the CLL, but it can help improve some of the symptoms. Sometimes CLL can make the spleen grow so large that it presses on nearby organs and causes problems. If radiation or chemotherapy doesn't help shrink the spleen and reduce symptoms, splenectomy may be an option.
+Splenectomy may also improve blood cell counts and lower the need for blood product transfusions. One of the spleen's normal functions is to remove worn-out blood cells from the bloodstream. If the spleen gets too large, it may become too active in removing blood cells, leading to a shortage of red blood cells or platelets. When this happens, taking out the spleen can help improve blood counts. This is done much more often for patients with hairy cell leukemia than for those with regular CLL.
+Most people have no problem living without a spleen, but they're at higher risk for certain bacterial infections. Doctors recommend certain vaccines for people before their spleen is removed. If your spleen has been removed, be sure to report any signs of infection to your health care team right away.Radiation therapy is treatment with high-energy rays or particles to destroy cancer cells. Radiation therapy is seldom part of the main treatment for people with chronic lymphocytic leukemia (CLL), but it may be used in certain situations.
+
+Radiation therapy can be used to treat symptoms caused by swollen internal organs (like an enlarged spleen) pressing on other organs. For instance, pressure against the stomach may make it hard to eat. If these symptoms are not improved by chemotherapy, radiation therapy may help shrink the organ.
+Radiation therapy can also be useful in treating pain from bone damage caused by leukemia cells growing in the bone marrow.
+Radiation therapy is sometimes given in low doses to the whole body, just before a stem cell transplant.
+
+External beam radiation therapy, in which a machine sends a beam of radiation to a specific part of the body, is the type of radiation used most often for CLL. Before your treatment starts, the radiation team will take careful measurements to determine the correct angles for aiming the radiation beams and the proper dose of radiation. Radiation therapy is a lot like getting an x-ray, but the radiation is more intense. The procedure itself is painless. Each treatment lasts only a few minutes, but the setup time − getting you into place for treatment − usually takes longer.
+Common short-term side effects of radiation therapy include:
+
+Skin changes in the treated area, which can vary from mild redness to what looks and feels like a burn
+Fatigue
+Low blood cell counts, increasing the risk of infection
+Nausea and vomiting (which is more common with radiation to the belly)
+Diarrhea (which is more common with radiation to the belly)
+
+Ask your doctor what side effects you can expect.Treatment options for chronic lymphocytic leukemia (CLL) can vary greatly.
+Many people live a long time with CLL, but in general it is very hard to cure, and early treatment hasn't been shown to help people live longer. Because of this and because treatment can cause side effects, doctors often advise waiting until the disease is progressing or bothersome symptoms appear before starting treatment.
+If treatment is needed, factors that should be taken into account include the person’s age and overall health, and prognostic factors such as the presence of deletions in chromosomes 17 or 11, or high levels of ZAP-70 and CD38.
+Initial treatment of CLL
+Many different drugs and drug combinations can be used as the first treatment for CLL. The options include monoclonal antibodies, targeted drugs, chemotherapy, and different combinations of these. 
+Some of the more commonly used drug treatments include:
+
+Ibrutinib (Imbruvica), alone or with rituximab (Rituxan)
+Zanubrutinib (Brukinsa)
+Acalabrutinib (Calquence), alone or with obinutuzumab (Gazyva)
+Venetoclax (Venclexta) and obinutuzumab 
+Venetoclax, alone or with rituximab
+Bendamustine and rituximab (or another monoclonal antibody)
+High-dose prednisone and rituximab
+FCR: fludarabine, cyclophosphamide, and rituximab
+PCR: pentostatin, cyclophosphamide, and rituximab
+Chlorambucil and rituximab (or another monoclonal antibody)
+Obinutuzumab
+Ibrutinib and obinutuzumab
+Alemtuzumab (Campath), alone or with rituximab
+
+Other drugs or combinations of drugs may also be used.
+Radiation or surgery
+If the only problem is an enlarged spleen or swollen lymph nodes in one part of the body, localized treatment with low-dose radiation therapy may be used. Splenectomy (surgery to remove the spleen) is another option if the enlarged spleen is causing symptoms.
+Leukapheresis
+Sometimes very high numbers of CLL cells in the blood cause problems with normal circulation. This is called leukostasis. Chemo may not lower the number of cells until a few days after the first dose, so before the chemo is given, some of the cells may need to be removed from the blood with a procedure called leukapheresis. This treatment lowers blood counts right away. The effect lasts only for a short time, but it may help until the chemo has a chance to work. Leukapheresis is also sometimes used before chemo if there are very high numbers of leukemia cells (even when they aren’t causing problems) to prevent tumor lysis syndrome. (This was discussed in the chemotherapy section.)
+Stem cell transplant
+Some people who have very high-risk disease (based on prognostic factors) may be referred for a stem cell transplant (SCT) early in treatment.
+Second-line or later treatments for CLL
+If the initial treatment is no longer working or the leukemia comes back, another type of treatment often helps. The options will depend on what the first-line treatment was and how well it worked, as well as the person's overall health. If the response to the initial treatment lasted a long time (usually at least a few years), the same treatment might be used again. If the initial response wasn't long-lasting, using the same treatment isn't as likely to be helpful.
+Many of the drugs and combinations listed above (as well as others) may be options as second-line treatments, too. Targeted therapy and monoclonal antibody drugs are commonly used, alone or in combination. Other chemo drugs may also be options, as might CAR T-cell therapy.
+If the leukemia responds, a stem cell transplant may be an option for some patients.
+Some people may have a good response to first-line treatment (such as fludarabine) but may still have some evidence of a small number of leukemia cells in the blood, bone marrow, or lymph nodes. This is known as minimal residual disease. CLL is very unlikely to be cured, so doctors aren't sure if further treatment right away will be helpful. Some small studies have shown that alemtuzumab can sometimes help get rid of these remaining cells, but it's not yet clear if this improves survival.
+Treating complications of CLL
+One of the most serious complications of CLL is a change (transformation) of the leukemia to a high-grade or aggressive type of non-Hodgkin lymphoma (NHL) called diffuse large B-cell lymphoma (DLBCL) or to Hodgkin lymphoma. This is known as Richter's transformation (or Richter's syndrome). Treatment is often the same as it would be for lymphoma and might include stem cell transplant, because these cancers are often hard to treat.
+Less often, CLL may progress to prolymphocytic leukemia, which can be hard to treat. Some studies have suggested that certain drugs such as cladribine (2-CdA) and alemtuzumab may be helpful.
+In rare patients with CLL, the leukemia transforms into acute lymphocytic leukemia (ALL). If this happens, treatment is likely to be similar to that used for patients with ALL. 
+Acute myeloid leukemia (AML) is another rare complication in patients who have been treated for CLL. Drugs such as chlorambucil and cyclophosphamide can damage the DNA of blood-forming cells. These damaged cells may go on to become cancer, leading to AML, which is very aggressive and often hard to treat.
+CLL can cause problems with low blood counts and infections. These are discussed in Supportive Care in Chronic Lymphocytic Leukemia.Hairy cell leukemia (HCL) tends to grow slowly. Patients without symptoms often don't need to be treated right away, but they do need to be watched carefully. Doctor visits are done every few months to check for signs that the HCL is growing and to see if it's causing any problems (like low blood counts, fatigue, or an enlarged spleen). Some people with HCL live for many years without having symptoms or getting treatment.
+Treatment may be advised for HCL patients with low blood cell counts, recurrent infections, or an enlarged spleen or lymph nodes. Treatment is most often with chemo using one of the purine analog drugs -- either cladribine (2-CdA) or pentostatin. Most patients get a good response with these drugs, and the responses often last more than 5 years.
+If the leukemia comes back, it can often be treated with a purine analog again. Often the same drug will be used as was given the first time, especially if the HCL stayed in remission for a long time. Sometimes the monoclonal antibody rituximab is given along with chemo.
+In rare cases, HCL may not respond to chemo. Rituximab or interferon-alfa, a type of immunotherapy, may be helpful.
+If a person is uncomfortable because of an enlarged spleen, surgery to remove the spleen (splenectomy) can often help relieve pain.
+Like chronic lymphocytic leukemia, HCL can cause problems with low blood counts and infections. Treatment of these problems is discussed in Supportive Care in Chronic Lymphocytic Leukemia.Chronic lymphocytic leukemia (CLL) can rarely be cured. Still, most people live with the disease for many years. Some people with CLL can live for years without treatment, but over time, most will need to be treated. Most people with CLL are treated on and off for years. Treatment may stop for a while, but it never really ends. Life after cancer means returning to some familiar things and also making some new choices. Learning to live with cancer that does not go away can be difficult and very stressful.
+Follow-up care
+Before, during, and after treatment, your doctors will want to watch you closely. It's very important to go to all of your follow-up appointments. During these visits, your doctors will talk with you about any problems you might have and might order exams and lab tests to look for signs of cancer or treatment side effects. Almost any cancer treatment can have side effects. Some may last for a few weeks to months, but others can last the rest of your life. This is the time for you to talk to your cancer care team about any changes or problems you notice and any questions or concerns you have.
+Treatment of CLL is not expected to cure the disease. This means that even if there are no signs of leukemia after treatment (known as a complete remission), the leukemia is likely to come back (recur) at some point. Further treatment will depend on what treatments you've had before, how long it's been since the last treatment, and your overall health. For more information on how recurrent CLL is treated, see Treating Chronic Lymphocytic Leukemia.
+Most people with CLL do not have normally functioning immune systems, which may raise their risk for certain infections. Some of the drugs used to treat CLL, such as alemtuzumab (Campath) and many chemotherapy drugs, may also raise this risk. Your doctor may recommend vaccines, certain medicines, or other treatments to help prevent or control certain infections. (To learn more about this see Supportive Care for Chronic Lymphocytic Leukemia.)
+Ask your doctor for a survivorship care plan
+Talk with your doctor about developing a survivorship care plan for you. This plan might include: 
+
+A suggested schedule for follow-up exams and tests
+A schedule for other tests you might need in the future, such as early detection (screening) tests for other types of cancer, or tests to look for long-term health effects from your cancer or its treatment
+A list of possible late- or long-term side effects from your treatment, including what to watch for and when you should contact your doctor
+Diet and physical activity suggestions
+Reminders to keep your appointments with your primary care provider (PCP), who will monitor your general health care 
+
+Keeping health insurance and copies of your medical records
+Even after treatment, it’s very important to keep health insurance. Tests and doctor visits cost a lot and life-long CLL treatment may be needed.
+At some point after your cancer treatment, you might find yourself seeing a new doctor who doesn’t know about your medical history. It’s important to keep copies of your medical records to give your new doctor the details of your diagnosis and treatment. Learn more in Keeping Copies of Important Medical Records.
+Can I lower my risk of CLL progressing or coming back?
+If you have CLL, you probably want to know if there are things you can do that might lower your risk of the cancer growing or coming back, such as exercising, eating a certain type of diet, or taking nutritional supplements. Unfortunately, it’s not yet clear if there are things you can do that will help.
+Adopting healthy behaviors such as not smoking, eating well, getting regular physical activity, and staying at a healthy weight might help, but no one knows for sure. Still, we do know that these types of changes can have positive effects on your health that can extend beyond your risk of CLL or other cancers.
+About dietary supplements
+So far, no dietary supplements (including vitamins, minerals, and herbal products) have been shown to clearly help lower the risk of CLL progressing or coming back. This doesn’t mean that no supplements will help, but it’s important to know that none have been proven to do so.
+Dietary supplements are not regulated like medicines in the United States – they do not have to be proven effective (or even safe) before being sold, although there are limits on what they’re allowed to claim they can do. If you’re thinking about taking any type of nutritional supplement, talk to your health care team first. They can help you decide which ones you can use safely while avoiding those that might be harmful.
+Could I get a second cancer after treatment?
+People who’ve had CLL can still get other cancers. In fact, CLL cancer cancer survivors are at higher risk for getting some other types of cancer. Learn more in Second Cancers After Chronic Lymphocytic Leukemia.
+Getting emotional support
+Some amount of feeling depressed, anxious, or worried is normal when cancer is a part of your life. Some people are affected more than others. But everyone can benefit from help and support from other people, whether friends and family, religious groups, support groups, professional counselors, or others.Cancer survivors can be affected by a number of health problems, but often their greatest concern is facing cancer again. Chronic lymphocytic leukemia (CLL) is seldom cured, but it can often be treated and controlled for a long time. During this time, some people with CLL may develop a new, unrelated cancer later. This is called a second cancer.
+Unfortunately, being treated for cancer doesn’t mean you can’t get another cancer. People who have had cancer can still get the same types of cancers that other people get. In fact, certain types of cancer and cancer treatments can be linked to a higher risk of certain second cancers.
+People with CLL can get any type of second cancer, but they have an increased risk of:
+
+Skin cancer
+Melanoma of the skin
+Cancer of the larynx
+Lung cancer
+Colon cancer
+Kaposi sarcoma
+Soft tissue sarcoma
+
+People with CLL need to see their doctors regularly. Let your doctor know if you have any new symptoms or problems. These may be from the CLL, or they may be from some other cancer or disease. Also be sure to get your routine cancer screening tests and well check-ups. These can help find problems early, when they're usually easier to treat.
+All people with CLL should avoid tobacco smoke, as smoking increases the risk of many cancers and might further increase the risk of some of the second cancers seen in patients with CLL.
+See Second Cancers in Adults for more information about causes of second cancers.What is leukemia?
+Cancer can start any place in the body. Leukemia starts in the bone marrow, the soft inner part of certain bones where new blood cells are made. It starts when certain blood cells grow out of control and crowd out normal blood cells. This makes it hard for the body to work the way it should.
+There are many types of leukemia. Most are named based on if they're fast growing (acute), or slower growing (chronic). They are also named by the type of bone marrow cell (myeloid or lymphocytic) the leukemia starts in.
+What is chronic lymphocytic leukemia (CLL)?
+Chronic lymphocytic leukemia, or CLL for short, is cancer that starts in early forms of white blood cells called lymphocytes in the bone marrow. When they work right, lymphocytes help the body fight infections.
+In CLL, the leukemia cells grow out of control and crowd out normal blood cells. These cells often build up slowly over time. Many people don't have any symptoms for at least a few years. In time, the cells can spread to other parts of the body, including the lymph nodes, liver, and spleen.
+Different types of CLL
+There are two kinds of CLL. One kind grows very slowly and it may take a long time before treatment is needed. The other kind grows faster and is more serious leukemia. Ask your doctor which kind you have.
+Questions to ask the doctor
+
+Why do you think I have leukemia?
+Is there a chance I don’t have leukemia?
+Would you please write down the kind of leukemia you think I might have?
+What will happen next?
+
+How does the doctor know I have CLL?
+The doctor will ask you questions about your health and do a physical exam. Many people with CLL don’t have any symptoms. It's often found when the doctor orders blood tests for some other health problem or during a check-up. Some signs of CLL include:
+
+Feeling weak or tired
+Losing weight
+Fevers, or sweating a lot at night
+
+Tests that may be done
+If signs are pointing to CLL, more tests will be done. Here are some of the tests you may need:
+Blood cell counts: This blood test is often the first test done. Most people with CLL have too many lymphocytes in their blood and not enough of other types of blood cells.
+Bone marrow aspiration and biopsy: Blood tests can most of the time tell the doctor if you have CLL, but testing the bone marrow is helpful to tell how bad it is. A doctor uses thin, hollow needles to take out small amounts of bone marrow, usually from the back of your hip bone. The bone is numbed, and you may be given a drug to make you sleepy during the test. The samples are sent to a lab to see if there are leukemia cells in the bone marrow.
+Lab tests for leukemia: Samples from your blood, bone marrow, or lymph nodes are looked at under a microscope (and other tests might be done on them) to help the doctor find out what kind of leukemia you have.
+Other blood tests: If you do have leukemia, other blood tests will be done to see how well your liver, kidneys, and other organs are working.
+CT scan: CT scans (also called CAT scans) use x-rays to make pictures of the inside of your body. This test can help tell if the leukemia has spread into lymph nodes in your chest or to organs like your spleen or liver.
+Questions to ask the doctor
+
+What tests will I need to have?
+Who will do these tests?
+Where will they be done?
+Who can explain them to me?
+How and when will I get the results?
+Who will explain the results to me?
+What do I need to do next?
+
+How serious is my CLL?
+If you have CLL, the doctor will want to find out how far it has spread. This is called staging.
+The stage of CLL describes its growth or spread to other parts of your body, including the lymph nodes, liver, and spleen. Be sure to ask the doctor about the stage of your CLL and what it means for you.
+Questions to ask the doctor
+
+Does anything about my cells change the treatment? Or make my case better or worse?
+Are there other doctors I need to see?
+How many people with this type of leukemia have you treated?
+Do you know the stage of my leukemia? If not, how and when will you find out the stage?
+Would you explain what the stage means in my case?
+Based on the stage of the leukemia, how long do you think I’ll live?
+What will happen next?
+
+What kind of treatment will I need?
+CLL often grows slowly, so you might not need to be treated right away. Your CLL might just be watched closely instead. If you do need treatment, the most common kinds of treatment for CLL are:
+
+Chemotherapy
+Monoclonal antibodies
+Targeted therapy
+
+Sometimes you may also need other kinds of care to help treat infections or low blood cell counts.
+Treatment is given for a time to improve symptoms caused by CLL. Then you may be off treatment and watched closely. If symptoms get worse again, more treatment can be given.
+The timing and treatment plan that's best for you depends on:
+
+The type of CLL you have
+If the CLL is causing you symptoms or other problems
+The chance that a certain type of treatment will help treat the CLL
+Your age and overall health
+Your feelings about the treatment and the side effects that might come with it
+
+Chemo
+Chemotherapy, or chemo, is the use of drugs to kill cancer cells. This is one of the main treatments for CLL.
+Most of the time the drugs are given either into a vein or as pills. Once the drugs enter your blood, they go through your whole body. Doctors give chemo in cycles, with each cycle followed by a rest period. Chemo cycles last about 3 to 4 weeks. Many kinds of chemo drugs are used to treat CLL. Ask your doctor which drugs you'll get.
+Side effects of chemo
+Chemo can have a lot of side effects like:
+
+Hair loss
+Mouth sores
+Not feeling like eating
+Feeling sick to your stomach and throwing up
+A greater risk of infections
+Getting black and blue marks and bleeding easily
+Tiredness
+
+But these problems tend to go away after treatment ends. There are ways to treat most chemo side effects. Be sure to talk to your cancer care team so they can help.
+Monoclonal antibodies
+Monoclonal antibodies are man-made versions of immune system proteins (antibodies) that attach to a certain place on CLL cells. They can help kill the cells or tell them to die.
+These drugs are given into a vein. They can be given alone or along with chemo. There are different kinds of these drugs. Each one can cause different side effects, so ask your doctor what you can expect.
+Targeted therapy
+Targeted drugs are newer treatments used for CLL. These drugs affect mainly CLL cells and not normal cells in the body. They may work even if other treatment doesn’t. They often come as pills that you can take at home. These drugs have different side effects from chemo, and they're often not as bad.
+Clinical trials
+Clinical trials are research studies that test new drugs or other treatments in people. They compare standard treatments with others that may be better.
+Clinical trials are one way to get the newest cancer treatment. They're the best way for doctors to find better ways to treat cancer. If there's one that’s studying the kind of cancer you have, it’s up to you whether to take part. And if you do sign up for a clinical trial, you can always stop at any time.
+If you would like to learn more about clinical trials that might be right for you, start by asking your doctor if your clinic or hospital takes part in conducts clinical trials. See Clinical Trials to learn more.
+What about other treatments that I hear about?
+When you have cancer you might hear about other ways to treat the cancer or treat your symptoms. These may not always be standard medical treatments. These treatments may be vitamins, herbs, special diets, and other things. You may wonder about these treatments.
+Some of these are known to help, but many have not been tested. Some have been shown not to help. A few have even been found to be harmful. Talk to your doctor about anything you’re thinking about using, whether it’s a vitamin, a diet, or anything else.
+Questions to ask the doctor
+
+What treatment do you think is best for me?
+What’s the goal of this treatment? Do you think it could cure the CLL?
+Will I need other types of treatment, too?
+What’s the goal of these treatments?
+What side effects could I have from these treatments?
+What can I do about these side effects?
+Is there a clinical trial that might be right for me?
+What about special vitamins or diets I hear about? How will I know if they're safe?
+How soon do I need to start treatment?
+What should I do to be ready for treatment?
+Is there anything I can do to help the treatment work better?
+What’s the next step?
+
+What will happen after treatment?
+If you have CLL, there might be times when you're not being treated, but you will still need to see your cancer doctor. Be sure to go to all of your follow-up visits. You will have exams, blood tests, and maybe other tests to see if the CLL is growing.
+Having CLL and dealing with treatment can be hard, but it can also be a time to look at your life in new ways. You might be thinking about how to improve your health. Call us at 1-800-227-2345 or talk to your doctor to find out what you can do to feel better.
+You can’t change the fact that you have CLL. What you can change is how you live the rest of your life – making healthy choices and feeling as good as you can.

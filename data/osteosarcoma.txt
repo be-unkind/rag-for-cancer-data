@@ -1,0 +1,663 @@
+Cancer starts when cells in the body begin to grow out of control. Cells in nearly any part of the body can become cancer, and can then spread to other areas of the body. To learn more about cancer and how it starts and spreads, see What Is Cancer?
+Osteosarcoma (also called osteogenic sarcoma) is the most common type of cancer that starts in the bones. The cancer cells in these tumors look like early forms of bone cells that normally help make new bone tissue, but the bone tissue in an osteosarcoma is not as strong as that in normal bones.
+Most osteosarcomas occur in children, teens, and young adults. Teens are the most commonly affected age group, but osteosarcoma can develop at any age. (For information about the differences between childhood cancers and adult cancers, see Cancer in Children.)
+Where does osteosarcoma start?
+In children, teens, and young adults, osteosarcoma usually starts in areas where the bone is growing quickly, such as near the ends of the leg or arm bones:
+
+Most tumors develop in the bones around the knee, either in the lower part of the thigh bone (distal femur) or the upper part of the shinbone (proximal tibia).
+The upper arm bone close to the shoulder (proximal humerus) is the next most common site.
+
+Still, osteosarcoma can develop in any bone, including the bones of the pelvis (hips), shoulder, and jaw. This is especially true in older adults.
+Subtypes of osteosarcoma
+Based on how the cancer cells look under the microscope, osteosarcomas can be classified as high grade, intermediate grade, or low grade. The grade of the tumor tells doctors how likely it is that the cancer will grow quickly and spread to other parts of the body.
+High-grade osteosarcomas
+These are the fastest growing types of osteosarcoma. When seen with a microscope, they do not look like normal bone, and many of the cancer cells are in the process of dividing into new cells. Most osteosarcomas that occur in children and teens are high grade. There are many types of high-grade osteosarcomas (although the first 3 are the most common).
+
+Osteoblastic
+Chondroblastic
+Fibroblastic
+Small cell
+Telangiectatic
+High-grade surface (juxtacortical high grade)
+
+Other high-grade osteosarcomas include:
+
+Pagetoid: a tumor that develops in someone with Paget disease of the bone
+Extraskeletal: a tumor that starts in a part of the body other than a bone (but still makes bone tissue)
+Post-radiation: a tumor that starts in a bone that had once been exposed to radiation
+
+Intermediate-grade osteosarcomas
+These uncommon tumors fall between high-grade and low-grade osteosarcomas. (They are usually treated the same way as low-grade osteosarcomas.)
+
+Periosteal (juxtacortical intermediate grade)
+
+Low-grade osteosarcomas
+These are the slowest-growing osteosarcomas. The tumors look more like normal bone and have few dividing cells when seen with a microscope.
+
+Parosteal (juxtacortical low grade)
+Intramedullary or intraosseous well differentiated (low-grade central)
+
+The grade of the tumor plays a role in determining its stage and the type of treatment used. For more on staging, see Osteosarcoma Stages.
+Other types of bone tumors
+Several other types of tumors can start in the bones.
+Malignant (cancerous) bone tumors
+Ewing tumors (Ewing sarcomas) are the second most common bone cancer in children. They are described in Ewing Family of Tumors.
+Most other types of bone cancers are usually found in adults and are uncommon in children. These include:
+
+Chondrosarcoma (cancer that develops from cartilage)
+Undifferentiated pleomorphic sarcoma (UPS) of bone, previously known as malignant fibrous histiocytoma (MFH) of bone
+Fibrosarcoma of bone
+Chordoma
+Malignant giant cell tumor of bone
+
+For more information on these cancers, see Bone Cancer in Adults.
+Many types of cancer that start in other organs of the body, especially cancers in adults, can spread to the bones. These are sometimes referred to as metastatic bone cancers, but they are not true bone cancers. For example, prostate cancer that spreads to the bones is still prostate cancer and is treated like prostate cancer. For more information, see Bone Metastasis.
+Benign (non-cancerous) bone tumors
+Not all bone tumors are cancer. Benign bone tumors do not spread to other parts of the body. They are usually not life threatening, and surgery can often remove them completely. There are many types of benign bone tumors, including:
+
+Osteoma
+Chondroma
+Osteochondroma
+Eosinophilic granuloma of bone
+Non-ossifying fibroma
+Enchondroma
+Benign giant cell tumor of bone
+LymphangiomaOsteosarcoma is not a common cancer. Each year, about 1,000 new cases of osteosarcoma are diagnosed in the United States. About half of these are in children and teens.
+Most osteosarcomas occur in children, teens, and young adults between the ages of 10 and 30. Teens are the most commonly affected age group, but people of any age can develop osteosarcoma. About 1 in 10 osteosarcomas occur in people older than 60.
+About 2% of childhood cancers are osteosarcomas, but they make up a much smaller percentage of adult cancers.
+The prognosis (outlook) for people with osteosarcoma depends on many factors, including where the tumor is, if the cancer has already spread (metastasized) when it’s first found, and the person’s age. For more on this, see Survival Rates for Osteosarcoma.
+Visit the American Cancer Society’s Cancer Statistics Center for more key statistics.Research on osteosarcoma is now being done at many medical centers, university hospitals, and other institutions around the world.
+Understanding osteosarcoma
+Researchers are learning more about what makes osteosarcoma cells different from normal bone cells. Knowing more about the changes in osteosarcoma cells might eventually result in specific treatments based on these changes.
+For example, researchers have found that osteosarcoma cells often have large amounts of a substance called GD2 on their surfaces. Drugs that target GD2 are already used to treat neuroblastoma (another cancer often seen in children). Newer immunotherapy treatments that target GD2 are now being studied for use against osteosarcoma as well (see below).
+Lab tests of the gene changes inside osteosarcoma cells might help predict the behavior of each tumor, such as how they will respond to certain types of chemotherapy or targeted therapy drugs. This type of testing is now being studied in clinical trials.
+Treatment
+Many advances have been made in treating osteosarcoma in the past few decades. Still, more research is needed to learn how best to manage hard-to-treat osteosarcomas, such as those that have already spread when they are found. Many clinical trials are focusing on treating osteosarcoma using a variety of strategies.
+Surgery
+The typical patterns of osteosarcoma growth and spread are much better understood now than they were. Newer imaging tests can also better define the extent of tumors. These advances, along with sophisticated computer programs that help surgeons map out the best surgical approach before and during the operation (known as computer-assisted tumor surgery, or CATS), can help surgeons remove the cancer while sparing as much normal tissue as possible.
+Some newer types of internal prostheses (man-made replacements for pieces of bone) can now be extended without the need for more surgery. This is especially important for children, who in the past often needed several operations to replace the prosthesis with a larger one as they grew.
+Radiation therapy
+Osteosarcoma cells are not killed easily by radiation, so high doses are needed to have an effect. Because high doses can often cause unacceptable side effects, this has limited the use of radiation therapy. Newer forms of radiation let doctors focus radiation more precisely on the tumor. Limiting the doses that reach nearby healthy tissues may allow higher doses to be used on the tumor itself.
+Intensity-modulated radiation therapy (IMRT) is an example of an advanced form of therapy. In this technique, radiation beams are shaped to fit the tumor and aimed at it from several angles. The intensity (strength) of the beams can also be adjusted to limit the dose reaching nearby normal tissues. Many hospitals and cancer centers now use IMRT, especially for tumors in hard-to-treat areas such as the spine or pelvis (hip bones).
+Stereotactic radiosurgery (SRS) gives a large (usually one-time) dose of radiation to a small tumor area. Once imaging tests have shown the exact location of the tumor, a thin beam of radiation is focused on the area from many different angles. The radiation is very precisely aimed so that it has as little effect on nearby tissues as possible. Sometimes doctors give the radiation in several smaller treatments to deliver the same or slightly higher dose. This is called fractionated stereotactic radiotherapy.
+Another newer approach is to use radioactive particles instead of x-rays to deliver the radiation. One example is conformal proton beam therapy, which uses positive parts of atoms. Unlike x-rays, which release energy both before and after they hit their target, protons cause little damage to normal tissues they pass through and then release their energy after traveling a certain distance. Doctors can use this property to deliver more radiation to the tumor and to do less damage to nearby normal tissues. Proton beam therapy may be helpful for hard-to-treat tumors, such as those on the spine or pelvic bones, but only a limited number of centers in the United States offer this treatment at this time.
+An even newer approach uses carbon ions, which are heavier than protons and cause more damage to cancer cells. This therapy is still in the earliest stages of development and is only available in a small number of centers around the world.
+Doctors are also studying newer forms of radioactive drugs to treat osteosarcoma that has spread to many bones. One example is radium-223 (Xofigo), which works slightly differently than the other radioactive drugs now being used.
+Chemotherapy
+Clinical trials are being done to determine the best combinations of chemotherapy (chemo) drugs, as well as the best time to give them. Newer chemo drugs are being studied as well.
+The lungs are the most common place for osteosarcoma to spread. Inhaled forms of some chemo drugs (such as cisplatin) are being studied for patients whose cancer has spread to their lungs.
+Other forms of treatment
+Chemo drugs are often helpful in treating osteosarcoma, but sometimes they don’t work, or the cancer becomes resistant to them over time. Researchers are studying newer types of drugs that attack osteosarcoma cells in different ways.
+Immunotherapy drugs
+Clinical trials are looking into ways to help the patient’s own immune system recognize and attack the osteosarcoma cells. For example:
+
+Drugs called immune checkpoint inhibitors can sometimes help the body’s immune system recognize and attack cancer cells. These drugs have already been shown to be helpful against many types of cancer, and some of them are now being studied for use against osteosarcoma.
+An experimental immune-stimulating drug called muramyl tripeptide (also known as MTP or mifamurtide) has been shown to help some patients when added to chemotherapy.
+Monoclonal antibodies are man-made versions of immune system proteins that attach to a specific target in the body, which can help the immune system find and destroy cancer cells. Antibodies directed against GD2 and other substances on osteosarcoma cells are now being tested in clinical trials.
+Researchers are also studying a newer form of immunotherapy known as CAR-T cell therapy for osteosarcoma that is no longer helped by other treatments.
+
+Targeted therapy drugs
+Doctors are also studying new medicines that target specific molecules on or in cancer cells. These are known as targeted therapies.
+Monoclonal antibodies, discussed above, can also be considered a type of targeted therapy. These antibodies attach to certain substances on cancer cells, which can kill them or help to stop their growth. An example is dinutuximab (Unituxin), an antibody that attaches to GD2, a substance that is important for cancer cell growth.
+Many other targeted drugs are being studied for use against osteosarcoma, including drugs that affect a tumor’s ability to make new blood vessels, such as sorafenib (Nexavar), pazopanib (Votrient), lenvatinib (Lenvima), and cabozantinib (Cabometyx).
+Drugs that affect the bones
+Drugs that target bone cells called osteoclasts may also be useful against osteosarcoma:
+
+Bisphosphonates are a group of drugs that are already used to treat osteoporosis (bone thinning) and certain cancers that have spread to the bones. Some of these drugs, such as pamidronate and zoledronic acid, are now being studied for use in osteosarcoma as well.
+Denosumab is a monoclonal antibody that targets the RANKL protein, which normally helps bones grow. It is now being studied for use against osteosarcoma.A risk factor is anything that increases your chances of getting a disease such as cancer. Different cancers have different risk factors.
+Lifestyle-related risk factors such as body weight, physical activity, diet, and tobacco use play a major role in many adult cancers. But these factors usually take many years to influence cancer risk, and they are not thought to play much of a role in cancers that are more common in children, including childhood osteosarcomas. So far, lifestyle-related factors have not been linked to osteosarcomas in adults, either. Still, there are some factors that affect osteosarcoma risk.
+Age
+The risk of osteosarcoma is highest for those between the ages of 10 and 30, especially during the teenage growth spurt. This suggests there may be a link between rapid bone growth and risk of tumor formation. The risk goes down in middle age, but rises again in older adults (usually over the age of 60). Osteosarcoma in older adults is often linked to another cause, such as a long-standing bone disease (see below).
+Height
+Children with osteosarcoma are usually tall for their age. This also suggests that osteosarcoma may be related to rapid bone growth.
+Sex
+Osteosarcoma is more common in males than in females. Females tend to develop it slightly earlier, possibly because they tend to have their growth spurts earlier.
+Race/ethnicity
+In the United States, osteosarcoma is slightly more common in African American, Hispanics, and Latino children than in White children.
+Radiation to bones
+People who were treated with radiation therapy for another cancer appear to have a higher risk of later developing osteosarcoma in the area that was exposed to radiation. Being treated at a younger age and being treated with higher doses of radiation both increase this risk.
+It's not clear if imaging tests that use radiation, such as x-rays, CT scans, and nuclear medicine scans (such as PET scans or bone scans), raise the risk of developing osteosarcoma. The amount of radiation used for these tests is many times lower than that used for radiation therapy. If there is any increased risk it is likely to be very small, but doctors try to limit the use of these types of tests whenever possible, especially in children, just in case.
+Certain bone diseases
+People with certain non-cancerous bone diseases have an increased risk of developing osteosarcoma.
+Paget disease of the bone: In this condition, abnormal bone tissue forms in one or more bones. It mostly affects people older than 50. The affected bones are heavy and thick but are weaker than normal bones and are more likely to break. Usually this condition by itself is not life-threatening. But bone sarcomas (mostly osteosarcomas) develop in about 1% of people with Paget disease, usually when many bones are affected.
+Hereditary multiple osteochondromas: Osteochondromas are benign tumors formed of bone and cartilage. Each osteochondroma has a very small risk of developing into a bone sarcoma (most often a chondrosarcoma, but less often it can be an osteosarcoma).
+Most osteochondromas can be removed completely by surgery. However, some people inherit a tendency to develop many osteochondromas starting when they are young, and it may not be possible to remove them all. The more osteochondromas a person has, the greater the risk of developing a bone sarcoma.
+Fibrous dysplasia: This is an uncommon condition in which cells in a certain part of a bone make too much fibrous (scar-like) tissue, which replaces the normal bone in the area. In some people this happens in only one bone, while in others it affects more than one. It is sometimes seen as part of a condition called McCune-Albright syndrome. There is a small risk that each area of fibrous dysplasia might transform into an osteosarcoma.
+Inherited cancer syndromes
+People with certain rare, inherited cancer syndromes have an increased risk of developing osteosarcoma.
+
+Retinoblastoma is a rare eye cancer in children. Some children have the inherited form of retinoblastoma (hereditary retinoblastoma), in which all the cells of the body have a mutation (change) in the RB1 gene. These children also have an increased risk of developing bone or soft tissue sarcomas, including osteosarcoma. If radiation therapy is used to treat retinoblastoma, the risk of osteosarcoma in the bones around the eye is even higher.
+People with Li-Fraumeni syndrome are much more likely to develop certain types of cancer, including breast cancer, brain tumors, osteosarcoma, and other types of sarcoma. This syndrome is usually caused by a mutation of the TP53 gene.
+Children with Rothmund-Thomson syndrome tend to be short and to have skin and skeletal problems. They also are more likely to develop osteosarcoma. This syndrome is usually caused by abnormal changes in the REQL4 gene.
+Other rare inherited conditions, including Bloom syndrome, Werner syndrome, and Diamond-Blackfan anemia, have also been linked to an increased risk of osteosarcoma.
+
+The way in which inherited gene changes make some people more likely to develop osteosarcoma is discussed in What Causes Osteosarcoma?Researchers have found that osteosarcoma is linked with a number of other conditions, which are described in Osteosarcoma Risk Factors. But the cause of most osteosarcomas is not clear at this time.
+Scientists have learned how certain changes in the DNA in bone cells can cause them to become cancerous. DNA is the chemical in our cells that makes up our genes, which control how our cells function. We usually look like our parents because they are the source of our DNA. But DNA affects more than how we look. It influences our risks for developing certain diseases, including some kinds of cancer.
+Some genes control when our cells grow, divide to make new cells, and die:
+
+Genes that help cells grow, divide, or stay alive are called oncogenes.
+Genes that help control cell division, repair mistakes in DNA, or make cells die at the right time are called tumor suppressor genes.
+
+Cancers can be caused by gene changes that keep oncogenes turned on, or that turn off tumor suppressor genes.
+Some people inherit gene mutations (changes) from a parent that increase their risk of cancer. In this situation, all of the cells in the body carry the same gene change. These are called germline or inherited mutations. But more often, cancer-causing changes are acquired during life rather than inherited before birth. In this case, the change occurs only in the cells that will develop into cancer. These are called somatic or acquired gene changes.
+Inherited gene changes
+Some inherited DNA mutations result in syndromes that are linked with an increased risk of osteosarcoma. For example:
+
+The Li-Fraumeni syndrome is usually caused by inherited mutations that turn off the TP53 tumor suppressor gene. These mutations give a person a very high risk of developing one or more types of cancer, including breast cancer, brain tumors, and osteosarcoma.
+Inherited changes in the retinoblastoma (RB1) tumor suppressor gene increase the risk of developing retinoblastoma, a type of eye cancer that affects children. Children with this gene change also have an increased risk of osteosarcoma, especially if they are treated with radiation.
+
+If you are concerned you or your child might possibly have an inherited gene change, talk with your doctor about whether genetic testing might be helpful. You can also read more about this in Genetics and Cancer.
+Acquired gene changes
+Most osteosarcomas are not caused by inherited gene mutations, but instead are the result of gene changes acquired during the person’s lifetime.
+Sometimes these gene changes are caused by radiation therapy used to treat another form of cancer, because radiation can damage the DNA inside cells.
+But many gene changes are probably just random events that sometimes happen inside a cell, without having an outside cause. Cells that are dividing quickly are more likely to create new cells with mistakes in their DNA, which increases the risk that a cancer such as osteosarcoma may develop. This may be why some normal situations (such as the teenage growth spurt) and some diseases (such as Paget disease of bone) that cause rapid bone growth increase the risk of osteosarcoma.
+Other than radiation, there are no known lifestyle-related or environmental causes of osteosarcoma, so it's important to remember that in most cases people with these cancers could have done nothing to prevent them.
+Researchers now understand some of the gene changes that occur in osteosarcomas, but it’s not always clear what causes these changes. As we learn more about what causes osteosarcoma, hopefully we will be able to use this knowledge to develop ways to better prevent and treat it.A risk factor is anything that increases your chances of getting a disease such as cancer. Different cancers have different risk factors.
+Lifestyle-related risk factors such as body weight, physical activity, diet, and tobacco use play a major role in many adult cancers. But these factors usually take many years to influence cancer risk, and they are not thought to play much of a role in cancers that are more common in children, including childhood osteosarcomas. So far, lifestyle-related factors have not been linked to osteosarcomas in adults, either. Still, there are some factors that affect osteosarcoma risk.
+Age
+The risk of osteosarcoma is highest for those between the ages of 10 and 30, especially during the teenage growth spurt. This suggests there may be a link between rapid bone growth and risk of tumor formation. The risk goes down in middle age, but rises again in older adults (usually over the age of 60). Osteosarcoma in older adults is often linked to another cause, such as a long-standing bone disease (see below).
+Height
+Children with osteosarcoma are usually tall for their age. This also suggests that osteosarcoma may be related to rapid bone growth.
+Sex
+Osteosarcoma is more common in males than in females. Females tend to develop it slightly earlier, possibly because they tend to have their growth spurts earlier.
+Race/ethnicity
+In the United States, osteosarcoma is slightly more common in African American, Hispanics, and Latino children than in White children.
+Radiation to bones
+People who were treated with radiation therapy for another cancer appear to have a higher risk of later developing osteosarcoma in the area that was exposed to radiation. Being treated at a younger age and being treated with higher doses of radiation both increase this risk.
+It's not clear if imaging tests that use radiation, such as x-rays, CT scans, and nuclear medicine scans (such as PET scans or bone scans), raise the risk of developing osteosarcoma. The amount of radiation used for these tests is many times lower than that used for radiation therapy. If there is any increased risk it is likely to be very small, but doctors try to limit the use of these types of tests whenever possible, especially in children, just in case.
+Certain bone diseases
+People with certain non-cancerous bone diseases have an increased risk of developing osteosarcoma.
+Paget disease of the bone: In this condition, abnormal bone tissue forms in one or more bones. It mostly affects people older than 50. The affected bones are heavy and thick but are weaker than normal bones and are more likely to break. Usually this condition by itself is not life-threatening. But bone sarcomas (mostly osteosarcomas) develop in about 1% of people with Paget disease, usually when many bones are affected.
+Hereditary multiple osteochondromas: Osteochondromas are benign tumors formed of bone and cartilage. Each osteochondroma has a very small risk of developing into a bone sarcoma (most often a chondrosarcoma, but less often it can be an osteosarcoma).
+Most osteochondromas can be removed completely by surgery. However, some people inherit a tendency to develop many osteochondromas starting when they are young, and it may not be possible to remove them all. The more osteochondromas a person has, the greater the risk of developing a bone sarcoma.
+Fibrous dysplasia: This is an uncommon condition in which cells in a certain part of a bone make too much fibrous (scar-like) tissue, which replaces the normal bone in the area. In some people this happens in only one bone, while in others it affects more than one. It is sometimes seen as part of a condition called McCune-Albright syndrome. There is a small risk that each area of fibrous dysplasia might transform into an osteosarcoma.
+Inherited cancer syndromes
+People with certain rare, inherited cancer syndromes have an increased risk of developing osteosarcoma.
+
+Retinoblastoma is a rare eye cancer in children. Some children have the inherited form of retinoblastoma (hereditary retinoblastoma), in which all the cells of the body have a mutation (change) in the RB1 gene. These children also have an increased risk of developing bone or soft tissue sarcomas, including osteosarcoma. If radiation therapy is used to treat retinoblastoma, the risk of osteosarcoma in the bones around the eye is even higher.
+People with Li-Fraumeni syndrome are much more likely to develop certain types of cancer, including breast cancer, brain tumors, osteosarcoma, and other types of sarcoma. This syndrome is usually caused by a mutation of the TP53 gene.
+Children with Rothmund-Thomson syndrome tend to be short and to have skin and skeletal problems. They also are more likely to develop osteosarcoma. This syndrome is usually caused by abnormal changes in the REQL4 gene.
+Other rare inherited conditions, including Bloom syndrome, Werner syndrome, and Diamond-Blackfan anemia, have also been linked to an increased risk of osteosarcoma.
+
+The way in which inherited gene changes make some people more likely to develop osteosarcoma is discussed in What Causes Osteosarcoma?At this time, there are no widely recommended screening tests for osteosarcoma in people who aren't known to be at increased risk. (Screening is testing for cancer in people without any symptoms.)
+Still, most osteosarcomas are found at an early stage, before they have clearly spread to other parts of the body. Symptoms such as bone pain or swelling often prompt a visit to a doctor. (For more on this, see Signs and Symptoms of Osteosarcoma.)
+For people at increased risk of osteosarcoma
+For some people who are at increased risk for osteosarcoma because they have certain bone diseases or inherited conditions (listed in Osteosarcoma Risk Factors), doctors might recommend increased monitoring for this disease. This type of cancer usually does not run in families, but watching for early signs and symptoms is important if it is to be treated successfully.Osteosarcomas are usually found because of the symptoms they are causing.
+Bone pain and swelling
+Pain at the site of the tumor in the bone is the most common symptom of osteosarcoma. The most common sites for these tumors in younger people are around the knee or in the upper arm, but they can occur in other bones as well. At first, the pain might not be constant and might be worse at night. The pain often increases with activity and might result in a limp if the tumor is in a leg bone.
+Swelling in the area is another common symptom, although it might not occur until later. Depending on where the tumor is, it might be possible to feel a lump or mass.
+Limb pain and swelling are very common in normal, active children and teens. They are much more likely to be caused by normal bumps and bruises, so they might not prompt a doctor visit right away. This can delay a diagnosis. If your child has these symptoms and they don't go away within a few weeks (or they get worse), see a doctor so that the cause can be found and treated, if needed.
+These symptoms are less common in adults, so they should be a sign to see a doctor even sooner.
+Bone fractures (breaks)
+Although osteosarcoma might weaken the bone it develops in, fractures (breaks) are not common. Exceptions are rare telangiectatic osteosarcomas, which tend to weaken bones more than other forms of osteosarcoma and are more likely to cause breaks where the tumor is.
+People with a fracture next to or through an osteosarcoma often describe a limb that was sore for a few months and suddenly became very painful when the fracture occurred.Osteosarcomas are usually found because a person is having signs or symptoms, which prompt a visit to a doctor. If a bone tumor is suspected, exams and tests will be needed to find out for sure.
+If an osteosarcoma is found, other tests will then be done to learn more about it.
+Medical history and physical exam
+If a person has signs or symptoms that suggest they might have a tumor in or around a bone, the doctor will take a complete medical history to find out more about the symptoms.
+A physical exam can often provide information about a possible tumor. For example, the doctor may be able to see or feel an abnormal lump or mass.
+The doctor may also look for problems in other parts of the body. When people (especially adults) have cancer in the bones, it’s often the result of cancer that started somewhere else and then spread to the bones.
+If the doctor suspects a person could have osteosarcoma (or another type of bone tumor), more tests will be done. These might include imaging tests, biopsies, and/or lab tests.
+Imaging tests
+Imaging tests use x-rays, magnetic fields, or radioactive substances to create pictures of the inside of the body. Imaging tests might be done for a number of reasons, including:
+
+To help find out if a suspicious area might be cancer
+To help determine if a cancer might have started in another part of the body
+To learn how far cancer has spread
+To help determine if treatment is working
+To look for signs that the cancer might have come back
+
+People who have or might have osteosarcoma will have one or more of these tests.
+Bone x-ray
+This is often the first test done if a bone tumor is suspected. Doctors can often recognize a bone tumor such as an osteosarcoma based on plain x-rays of the bone. But other imaging tests might be needed as well.
+Even if results of an x-ray strongly suggest a person has osteosarcoma, a biopsy (described below) will still be needed to confirm that it is cancer rather than some other problem, such as an infection.
+Magnetic resonance imaging (MRI) scan
+MRIs create detailed images of soft tissues in the body using radio waves and strong magnets instead of x-rays, so no radiation is involved. A contrast material called gadolinium is often injected into a vein before the scan to better see details.
+An MRI is often done to get a more detailed look at a bone mass seen on an x-ray. MRIs can usually show if the mass is likely to be a tumor, an infection, or some type of bone damage from another cause.
+MRIs can also help determine the exact extent of a tumor, as they can show the marrow inside bones and the soft tissues around the tumor, including nearby blood vessels and nerves. MRIs can also show small bone tumors several inches away from the main tumor (called skip metastases). Knowing the extent of an osteosarcoma is very important when planning surgery.
+An MRI scan usually shows better details than a CT scan (described below).
+Computed tomography (CT) scan
+A CT scan combines many x-ray pictures to make detailed cross-sectional images of parts of the body. If a bone x-ray shows a tumor, CT scans are sometimes used to see if the tumor has grown into nearby muscle, fat, or tendons, although MRI is often better for this.
+A CT scan of the chest is often done to look for spread of the cancer to the lungs. CT scans may also be done to look for the spread of the cancer to other parts of the body.
+Chest x-ray
+This test is sometimes done to see if an osteosarcoma has spread to the lungs. It can find larger tumors, but it is not as good as a CT scan for spotting smaller tumors. If a CT scan of the chest is done, a chest x-ray probably won’t be needed.
+Bone scan
+A bone scan can help show if a cancer has spread to other bones, and is often part of the workup for people with osteosarcoma. This test is useful because it can show the entire skeleton at once. (A positron emission tomography [PET] scan, described below, can often provide similar information, so a bone scan might not be needed if a PET scan is done.)
+For this test, a small amount of low-level radioactive material is injected into the blood and travels to the bones. A special camera that can detect the radioactivity then creates a picture of the skeleton.
+Areas of active bone changes attract the radioactivity and appear as “hot spots” on the skeleton. Hot spots may suggest areas of cancer, but other bone diseases can also cause the same pattern. To make an accurate diagnosis, other tests such as plain x-rays, MRI scans, or even a bone biopsy might be needed.
+Positron emission tomography (PET) scan
+For a PET scan, a form of radioactive sugar (known as FDG) is injected into the blood. Because cancer cells in the body are growing quickly, they absorb large amounts of the sugar. A special camera can then create a picture of areas of radioactivity in the body. The picture is not detailed like a CT or MRI scan, but it provides useful information about the whole body.
+PET scans can help show the spread of osteosarcomas to the lungs, other bones, or other parts of the body. They can also be used to see how well the cancer is responding to treatment.
+Many machines can do a PET and CT scan at the same time (PET/CT scan). This lets the doctor compare areas of higher radioactivity on the PET scan with the more detailed appearance of that area on the CT scan.
+To learn more about this and other imaging tests, see Imaging (Radiology) Tests.
+Biopsy
+The results of imaging tests might strongly suggest that a person has osteosarcoma (or some other type of bone cancer), but a biopsy (removing some of the tumor for viewing under a microscope and other lab testing) is the only way to be certain.
+If the tumor is in a bone, it is very important that the biopsy is done by doctors experienced in treating bone tumors. Whenever possible, the biopsy and surgical treatment should be planned together, and the same doctors should do both. Proper planning of the biopsy can help prevent later complications and might reduce the amount of surgery needed later on.
+Two main types of biopsies can be used for bone tumors.
+Core needle biopsy
+For these biopsies, the doctor uses a hollow needle to remove a small cylinder of tissue from the tumor. The biopsy is usually done with local anesthesia, where numbing medicine is injected into the skin and other tissues over the biopsy site. In some cases, sedation or general anesthesia (where the patient is asleep) may be needed.
+Often, the doctor can aim the needle by feeling the suspicious area if it's near the surface of the body. If the tumor can’t be felt because it's too deep, the doctor can guide the needle into the tumor using an imaging test such as a CT scan. This CT-guided needle biopsy is typically done by a doctor who is an interventional radiologist.
+Surgical (open) biopsy
+In an open biopsy, a doctor (typically an orthopedic surgeon) cuts through the skin, exposes the tumor, and then cuts out a piece of it. These biopsies are usually done in an operating room with the patient under general anesthesia (in a deep sleep). They can also be done using a nerve block, which numbs a large area of the body.
+Again, it's important that the biopsy is done by an expert in bone tumors, or it could result in problems later on. For example, if the tumor is on the arm or leg and the biopsy isn't done properly, it might lower the chances of saving the limb. If possible, the incision for the biopsy should be lengthwise along the arm or leg because this is the way the incision will be made during the operation to remove the cancer. The entire scar of the original biopsy will also have to be removed, so making the biopsy incision this way lessens the amount of tissue that needs to be removed later on.
+Lab tests
+Testing the biopsy samples
+All samples removed by biopsy are sent to a pathologist (a doctor specializing in lab tests) to be looked at with a microscope. Tests looking for chromosome or gene changes in the tumor cells might also be done. These tests can help tell osteosarcoma from other cancers that look like it under the microscope, and they can sometimes help predict whether the osteosarcoma is likely to respond to treatment.
+If osteosarcoma is diagnosed, the pathologist will assign it a grade, which is a measure of how quickly the cancer is likely to grow and spread, based on how the tumor cells look. Cancers that look somewhat like normal bone tissue are described as low grade (and tend to grow more slowly), while those that look very abnormal are called high grade. For more on grading, see Osteosarcoma Stages.
+Blood tests
+Blood tests are not needed to diagnose osteosarcoma, but they may be helpful once a diagnosis is made. For example, high levels of chemicals in the blood such as alkaline phosphatase and lactate dehydrogenase (LDH) can suggest that the osteosarcoma may be more advanced.
+Other tests such as blood cell counts and blood chemistry tests are done before surgery and other treatments to get a sense of a person’s overall health. These tests are also used to monitor a person’s health while they are getting chemotherapy.
+Finding out that you or a loved one has cancer can be overwhelming. Coping with Cancer discusses the emotions and concerns you might face and things you can do to help work through them.After someone is diagnosed with osteosarcoma, doctors will try to figure out if it has spread, and if so, how far. This process is called staging. The stage describes how much cancer is in the body. It helps determine how serious the cancer is and how best to treat it. Doctors also use a cancer's stage when talking about survival statistics.
+The stage of an osteosarcoma is based on the results of physical exams, imaging tests, and any biopsies that have been done, which are described in Tests for Osteosarcoma.
+Localized versus metastatic
+Doctors use formal staging systems (see below) to describe the extent of an osteosarcoma in detail. (A staging system is a standard way to describe the extent of the cancer.) But when trying to figure out the best treatment, doctors often use a simpler system that divides osteosarcomas into 2 main groups: localized and metastatic.
+Localized osteosarcoma
+A localized osteosarcoma is seen only in the bone it started in and possibly the tissues next to the bone, such as muscle, tendon, or fat.
+About 4 out of 5 osteosarcomas appear to be localized when they are first found. But even when imaging tests don’t show that the cancer has spread to distant areas, there are likely to be very small areas of cancer spread that can’t be detected with tests. This is why chemotherapy is an important part of treatment for most osteosarcomas. If it isn’t given, the cancer is more likely to come back after surgery.
+Doctors further divide localized osteosarcomas into 2 groups:
+
+Resectable osteosarcomas are those in which all of the visible tumor can be removed (resected) by surgery.
+Non-resectable (or unresectable) osteosarcomas can’t be removed completely by surgery.
+
+Metastatic osteosarcoma
+A metastatic osteosarcoma has clearly spread to other parts of the body. Most often it spreads to the lungs, but it can also spread to other bones, the brain, or other organs.
+About 1 out of 5 osteosarcomas have spread already when they are first diagnosed. These cancers are harder to treat, but some can be cured if the metastases can be removed by surgery. The cure rate for these cancers improves markedly if chemotherapy is also given.
+Musculoskeletal Tumor Society (MSTS) staging system
+A system commonly used to stage osteosarcoma is the MSTS system, also known as the Enneking system. It is based on 3 key pieces of information:
+
+The grade (G) of the tumor, which is a measure of how likely it is to grow and spread, based on how it looks under the microscope. Tumors are either low grade (G1) or high grade (G2). Low-grade tumor cells look more like normal cells and are less likely to grow and spread quickly, while high-grade tumor cells look more abnormal.
+The extent of the primary tumor (T), which is classified as either intracompartmental (T1), meaning it has basically remained within the bone, or extracompartmental (T2), meaning it has extended beyond the bone into other nearby structures.
+If the tumor has metastasized (M), which means it has spread to other areas, either to nearby lymph nodes (bean-sized collections of immune system cells) or other organs. Tumors that have not spread to the lymph nodes or other organs are considered M0, while those that have spread are M1.
+
+These factors are combined to give an overall stage, using Roman numerals from I to III. Stages I and II are further divided into A for intracompartmental tumors or B for extracompartmental tumors.
+
+
+
+Stage
+Grade
+Tumor
+Metastasis
+
+
+IA
+G1
+T1
+M0
+
+
+IB
+G1
+T2
+M0
+
+
+IIA
+G2
+T1
+M0
+
+
+IIB
+G2
+T2
+M0
+
+
+III
+G1 or G2
+T1 orT2
+M1
+
+
+
+
+In summary:
+
+
+Low-grade, localized tumors are stage I.
+High-grade, localized tumors are stage II.
+Metastatic tumors (regardless of grade) are stage III.
+
+The TNM staging system
+Another system sometimes used to stage bone cancers (including osteosarcomas) is the American Joint Commission on Cancer (AJCC) TNM system. This system is based on 4 key pieces of information:
+
+T describes the size of the main (primary) tumor and if it appears in different areas of the bone.
+N describes the extent of spread to nearby (regional) lymph nodes. Bone tumors rarely spread to the lymph nodes.
+M indicates if the cancer has metastasized (spread) to other organs of the body. (The most common sites of spread are to the lungs or other bones.)
+G stands for the grade of the tumor, which describes how the cells look under a microscope. Low-grade tumor cells look more like normal cells and are less likely to grow and spread quickly, while high-grade tumor cells look more abnormal.
+
+Numbers after T, N, M, and G give more details about each of these factors.
+Once the T, N, and M categories and the grade of the bone cancer have been determined, the information is combined into an overall stage. These stages (which are different from those of the MSTS system) are described using Roman numerals from I to IV (1 to 4), and are sometimes divided further. For more detailed information on the AJCC TNM staging system for bone cancers, see Bone Cancer Stages.
+Osteosarcoma staging can be confusing. If you have any questions about the stage of the cancer, ask a member of the cancer care team to explain it to you in a way you understand.Survival rates can give you an idea of what percentage of people with the same type and stage of cancer are still alive a certain amount of time (usually 5 years) after they were diagnosed. They can’t tell you how long a person will live, but they may help give you a better understanding of how likely it is that treatment will be successful.
+Keep in mind that survival rates are estimates and are often based on previous outcomes of large numbers of people who had a specific cancer, but they can’t predict what will happen in any particular person’s case. These statistics can be confusing and may lead you to have more questions. Ask your doctor how these numbers might apply to you (or your child). 
+What is a 5-year relative survival rate?
+A relative survival rate compares people with the same type and stage of cancer to people in the overall population. For example, if the 5-year relative survival rate for a specific stage of osteosarcoma is 70%, it means that people who have that cancer are, on average, about 70% as likely as people who don’t have that cancer to live for at least 5 years after being diagnosed.
+Where do these numbers come from?
+The American Cancer Society relies on information from the Surveillance, Epidemiology, and End Results (SEER) database, maintained by the National Cancer Institute (NCI), to provide survival statistics for different types of cancer.
+The SEER database tracks 5-year relative survival rates for osteosarcoma in the United States, based on how far the cancer has spread. The SEER database, however, does not group cancers by MSTS or TNM stages (stage 1, stage 2, stage 3, etc.). Instead, it groups cancers into localized, regional, and distant stages:
+
+Localized: There is no sign that the cancer has spread outside of the bone where it started.
+Regional: The cancer has spread outside the bone and into nearby structures, or it has reached nearby lymph nodes.
+Distant: The cancer has spread to distant parts of the body, such as to the lungs or to bones in other parts of the body.
+
+5-year relative survival rates for osteosarcoma
+These numbers are based on people diagnosed with osteosarcoma between 2012 and 2018.
+
+
+
+SEER* stage
+5-year relative survival rate
+
+
+Localized
+76%
+
+
+Regional
+64%
+
+
+Distant
+24%
+
+
+All SEER stages combined
+59%
+
+
+
+*SEER = Surveillance, Epidemiology, and End Results 
+Understanding the numbers
+
+These numbers apply only to the stage of the cancer when it is first diagnosed. They do not apply later on if the cancer grows, spreads, or comes back after treatment.
+These numbers don’t take everything into account. Survival rates are grouped based on how far the cancer has spread. But other factors, such as those listed below, can also affect a person’s outlook.
+People now being diagnosed with osteosarcoma may have a better outlook than these numbers show. Treatments improve over time, and these numbers are based on people who were diagnosed and treated at least 5 years earlier.
+
+Other factors that can affect a person's prognosis (outlook)
+Factors other than the stage of the cancer can also affect survival rates. For example, factors that have been linked with a better prognosis include:
+
+Being younger (child or teen, as opposed to an adult)
+Being female
+The tumor being on an arm or leg (as opposed to the hip or other bones)
+The tumor(s) being completely resectable (removable with surgery)
+Normal blood alkaline phosphatase and LDH levels
+The tumor responding well to chemotherapyIt’s important to have honest, open discussions with your health care team. Ask any question, no matter how minor it might seem. For instance, consider these questions:
+Before getting a bone biopsy
+
+How much experience do you have doing this type of biopsy? 
+Are you part of a team that treats bone cancers?
+What will happen during the biopsy?
+How long will it take to get the results from the biopsy?
+
+If osteosarcoma has been diagnosed
+
+What kind of osteosarcoma do I (does my child) have? Will this affect treatment?
+Has the cancer spread outside the bone it started in?
+What is the stage of the cancer, and what does that mean?
+Do you think all the cancer can be removed (resected)?
+Will any other tests be needed before we can decide on treatment?
+Will we need to see any other types of doctors?
+How much experience do you have treating this type of cancer?
+Who else will be part of the treatment team, and what do they do?
+
+When deciding on a treatment plan
+
+What are our (my) treatment options?
+What do you recommend and why?
+Are there any clinical trials we should consider? How can we find out more about them?
+What’s the goal of treatment?
+Should we get a second opinion? How do we do that? Can you recommend a doctor or cancer center?
+How soon do we need to start treatment?
+What should I (we) do to be ready for treatment?
+How long will treatment last? What will it be like? Where will it be done?
+How will treatment affect our daily lives?
+What are the possible risks and side effects of the suggested treatments?
+Which side effects start shortly after treatment and which ones might develop later on?
+Will treatment affect my child’s ability to grow and develop?
+Are there fertility issues we need to consider?
+
+During and after treatment
+Once treatment begins, you’ll need to know what to expect and what to look for. Not all of these questions may apply to you, but getting answers to the ones that do may be helpful.
+
+How will we know if the treatment is working?
+Is there anything we can do to help manage side effects?
+What symptoms or side effects should we tell you about right away?
+How can we reach you or someone on your team on nights, weekends, or holidays?
+Who can we talk to if we have questions about costs, insurance coverage, or social support? 
+What are the chances of the cancer coming back after treatment? What will we do if this happens?
+What type of follow up and rehab will be needed after treatment?
+Do you know of any local or online support groups where we can talk to other families who have been through this?
+
+Along with these sample questions, be sure to write down some of your own. For instance, you might want more information about recovery times so you can plan work or school schedules.
+Keep in mind that doctors aren’t the only ones who can give you information. Other health care professionals, such as nurses and social workers, can answer some of your questions. To learn more about speaking with your health care team, see The Doctor-Patient Relationship.Surgery is an important part of treatment for almost all osteosarcomas. It includes:
+
+The biopsy to diagnose the cancer
+The removal of the tumor(s)
+
+Whenever possible, it’s very important that the biopsy and the surgery to remove the tumor be planned together, and that an experienced orthopedic surgeon does both the biopsy and the surgery to remove the tumor. The biopsy should be done in a certain way to give the best chance that less extensive surgery will be needed later on. 
+The main goal of surgery is to remove all of the cancer. If even a small amount of cancer is left behind, it might continue to grow and make a new tumor, and might even spread to other parts of the body. To lower the risk of this happening, surgeons remove the tumor plus some of the normal tissue that surrounds it. This is known as a wide excision.
+A doctor called a pathologist will look at the removed tissue under a microscope to see if there are cancer cells at the margins (outer edges).
+
+If cancer cells are seen at the edges of the tissue, the margins are called positive. Positive margins can mean that some cancer was left behind.
+When no cancer cells are seen at the edges of the tissue, the margins are said to be negative, clean, or clear. A wide excision with clean margins helps limit the risk that the cancer will come back in the place where it started.
+
+The type of surgery done depends mainly on the location and size of the tumor. Although all operations to remove osteosarcomas are complex, tumors in the limbs (arms or legs) are generally not as hard to remove as those in the jaw bone, at the base of the skull, in the spine, or in the pelvic (hip) bone.
+Tumors in the arms or legs
+Tumors in the arms or legs might be treated with either:
+
+Limb-salvage (limb-sparing) surgery: removing the cancer and some surrounding normal tissue but leaving the limb basically intact
+Amputation: removing the cancer and all or part of an arm or leg
+
+Limb-salvage surgery
+Most patients with tumors in the arms or legs can have limb-sparing surgery, but this depends on where the tumor is, how big it is, and whether it has grown into nearby structures.
+Limb-salvage surgery is a very complex operation. The surgeons who do this type of operation must have special skills and experience. The challenge is to remove the entire tumor while still saving the nearby tendons, nerves, and blood vessels to keep as much of the limb’s function and appearance as possible. If the cancer has grown into these structures, they will need to be removed along with the tumor. In such cases, amputation may sometimes be the best option.
+The section of bone that is removed along with the osteosarcoma is replaced with a piece of bone from another part of the body or from another person (a bone graft) or with a man-made device made of metal and other materials that replaces part or all of a bone (an internal prosthesis). Some newer devices combine a graft and a prosthesis.
+Complications of limb-salvage surgery can include infections and grafts or rods that become loose or broken. Patients who have limb-salvage surgery might need more surgery in the following years, and some might still eventually need an amputation.
+Using an internal prosthesis in growing children is especially challenging. In the past, it required occasional operations to replace the prosthesis with a longer one as the child grew. Newer prostheses have become very sophisticated and often can be made longer without any extra surgery. They have tiny devices in them that can lengthen the prosthesis when needed to make room for a child’s growth. But even these prostheses may need to be replaced with a stronger adult prosthesis once the child’s body stops growing.
+It takes about a year, on average, for patients to learn to walk after limb-salvage surgery on a leg. Physical rehabilitation after limb-salvage surgery is more intense than after amputation, and it’s extremely important. If the patient doesn’t actively take part in the rehabilitation program, the salvaged arm or leg might become useless.
+Amputation
+For some patients, amputation may be the best option. For example, if the tumor is very large or if it extends into the nerves and/or the blood vessels, it might not be possible to save the limb.
+The surgeon determines how much of the arm or leg needs to be amputated based on the results of MRI scans and an examination of removed tissue by the pathologist during the surgery.
+Surgery is usually planned so that muscles and the skin will form a cuff around the remaining bone. This cuff will fit into the end of a prosthetic (artificial) limb. Another option might be to implant a prosthesis into the remaining bone, with the end of the prosthesis remaining outside the skin. This can then be attached to an external prosthesis.
+Reconstructive surgery can help some patients who lose a limb to function as well as possible. For example, if the leg must be amputated mid-thigh (including the knee joint), the lower leg and foot can be rotated and attached to the thigh bone, so that the ankle functions as a new knee joint. This surgery is called rotationplasty. Of course, the patient would still need a prosthetic limb to replace the lower part of the leg.
+With proper physical therapy, a person is often able to walk on his/her own 3 to 6 months after a leg amputation.
+If the osteosarcoma is in the shoulder or upper arm and amputation is needed, in some cases the area with the tumor can be removed and the lower arm reattached so that the patient has a functional, but much shorter, arm.
+Rehabilitation after surgery
+This may be the hardest part of treatment, and it cannot be described here completely. Patients and parents should meet with a rehabilitation specialist before surgery to learn about their options and what might be required after surgery.
+If a limb is amputated, the patient will need to learn to live with and use a prosthetic limb. This can be particularly hard for growing children if the prosthetic limb needs to be changed to keep up with their growth.
+When only the tumor and part of the bone is removed in a limb-sparing operation, the situation can sometimes be even more complicated, especially in growing children. More surgery might be needed in the future to replace an internal prosthesis with one more suited to their growing body size.
+Both amputation and limb-sparing surgery can have pros and cons. For example, limb-sparing surgery, although often more acceptable than amputation, tends to lead to more complications because of its complexity. Growing children who have limb-sparing surgery are also more likely to need further surgery later.
+When researchers have looked at the results of the different surgeries in terms of quality of life, there has been little difference between them. Perhaps the biggest problem can be for teens, who may worry about the social effects of their operation. Emotional issues can be very important, and support and encouragement are needed for all patients. (See Living as an Osteosarcoma Survivor.)
+Tumors that start in other areas
+Tumors in the pelvic (hip) bones can often be hard to remove completely with surgery. But if the tumor responds well to chemotherapy first, surgery (sometimes followed by radiation therapy) may get rid of all of the cancer. Pelvic bones can sometimes be reconstructed after surgery, but in some cases pelvic bones and the leg they are attached to might need to be removed.
+For tumors in the lower jaw bone, the entire lower half of the jaw may be removed and later replaced with bones from other parts of the body. If the surgeon can’t remove all of the tumor, radiation therapy may be used as well.
+For tumors in areas like the spine or the skull, it may not be possible to remove all of the tumor safely. Cancers in these bones may require a combination of treatments such as chemotherapy, surgery, and radiation.
+Joint fusion (arthrodesis): Sometimes, after the removal of a tumor that involves a joint (an area where two bones come together), it might not be possible to reconstruct the joint. In this case, surgery might be done to fuse the two bones together. This is most often used for tumors in the spine, but it might also be used in other parts of the body, such as a shoulder or hip. While it can help stabilize the joint, the person will have to learn to compensate for the resulting loss of motion.
+Surgical treatment of metastases
+If the osteosarcoma has spread to other parts of the body, these tumors need to be removed to have a chance at curing the cancer.
+Osteosarcoma most often spreads to the lungs. If surgery can be done to remove these metastases, it must be planned very carefully. Things to be considered before the operation include:
+
+The number of tumors
+The location of the tumor(s) (one lung or both lungs)
+The size of the tumor(s)
+How well the tumor(s) responded to chemotherapy
+The person's overall health
+
+Since the chest CT scan done before surgery might not show all of the lung tumors, the surgeon will have a treatment plan in case more tumors are found during the operation.
+Patients who have tumors in both lungs and respond well to chemotherapy can have surgery on one lung at a time. Removing tumors from both lungs at the same time may be another option.
+Some lung metastases may not be able to be removed because they are too big or are too close to important structures in the chest (such as large blood vessels). Patients whose overall health isn't good (for example, because of heart, liver, or kidney problems) might not be able to withstand the stress of anesthesia and surgery to remove the metastases.
+A small number of osteosarcomas spread to other bones or to organs like the kidneys, liver, or brain. Whether these tumors can be removed with surgery depends on their size, location, and other factors.
+Side effects of surgery
+Short-term risks and side effects: Surgery to remove an osteosarcoma is often a long and complex operation. Serious short-term side effects are not common, but they can include reactions to anesthesia, excess bleeding, blood clots, and infections. Pain is common after the operation and might require strong pain medicines for a while after surgery as the site heals.
+Long-term side effects: The long-term side effects of surgery depend mainly on where the tumor is and what type of operation is done. Most osteosarcomas occur in bones of the arms or legs, and some of the long-term issues from surgery on these tumors are described above.
+Complications of limb-sparing surgery can include bone grafts or prostheses that might become loose or broken. This is more likely than with bone surgery done for other reasons because the chemotherapy used before and after surgery can increase the risk of infection and affect wound healing. Infections are also a concern in people who have had amputations, especially of part of a leg, because the pressure placed on the skin at the site of the amputation can cause the skin to break down over time.
+As mentioned before, physical therapy and rehabilitation are very important after surgery for osteosarcoma. Following the recommended rehab program offers the best chance for good long-term limb function. Even with rehab, people might still have to adjust to long-term issues such as changes in how they walk or do other tasks, and changes in appearance. Physical, occupational, and other therapies can often help people adjust and cope with these challenges.Chemotherapy (chemo) is the use of drugs to treat cancer. The drugs are usually given into a vein and can reach and destroy cancer cells throughout the body.
+Chemo is an important part of the treatment for most people with osteosarcoma (although some patients with low-grade osteosarcoma might not need it). Most osteosarcomas don’t appear to have spread beyond the main tumor when they are first found. But in the past, when these cancers were treated with surgery alone, the cancer would often come back in other parts of the body, where it would be very hard to control. Giving chemo along with surgery helps lower the risk of these cancers coming back.
+Most osteosarcomas are treated with chemo before surgery (known as neoadjuvant chemotherapy) for about 10 weeks. In some people with osteosarcoma in an arm or leg bone, this can shrink the tumor, which might help make surgery easier. Chemo is then given again after surgery (known as adjuvant chemotherapy) for up to a year.
+Chemo in is given in cycles, with each period of treatment followed by a rest period to give the body time to recover. Each cycle typically lasts for a few weeks.
+Chemo drugs used to treat osteosarcoma
+The drugs used most often to treat osteosarcoma include:
+
+Methotrexate (given in high doses, along with leucovorin to help limit side effects)
+Doxorubicin (Adriamycin)
+Cisplatin or carboplatin
+Ifosfamide
+Cyclophosphamide
+Etoposide
+Gemcitabine
+
+Usually, 2 or more drugs are given together. Some common combinations of drugs include:
+
+High-dose methotrexate, doxorubicin, and cisplatin (known as the MAP regimen), sometimes with ifosfamide. This is used more often in children, teens, and young adults.
+Doxorubicin and cisplatin. This is used more often in older adults.
+Ifosfamide and etoposide
+Ifosfamide, cisplatin (or carboplatin), and epirubicin
+
+Many experts recommend that the drugs be given in very high doses when possible.
+Before starting chemo, the doctor might advise putting a catheter (a thin, soft tube) into a large vein in the chest. This is sometimes called a venous access device (VAD) or central venous catheter (CVC). The catheter is inserted surgically while the patient is sedated (sleepy) or under general anesthesia (in a deep sleep). One end of the catheter stays in the vein, while the other end lies just under or outside the skin. This lets the health care team give chemo and other drugs and draw blood samples without having to stick needles into the veins each time. The catheter usually remains in place for several months and can make having chemo less painful. If such a device is used, the health care team will teach you how to care for it to reduce the risk of problems such as infections.
+Side effects of chemo
+Chemo drugs can cause side effects. Children tend to have less severe side effects from chemo than adults and often recover from side effects more quickly. Because of this, doctors can give them higher doses of chemo to try to kill the tumor.
+The side effects of chemo drugs depend on the type, dose, and the length of time they are taken.
+General side effects of chemo
+
+Nausea and vomiting
+Loss of appetite
+Diarrhea
+Hair loss
+Mouth sores
+
+Chemo can damage the bone marrow, where new blood cells are made. This can lead to low blood cell counts, which can result in:
+
+Increased chance of infection (from a shortage of white blood cells)
+Bleeding or bruising after minor cuts or injuries (from a shortage of platelets)
+Fatigue or shortness of breath (from low red blood cell counts)
+
+A major concern with chemo used to treat osteosarcoma is that it can lead to dangerously low white blood cell levels and an increased risk of serious infections. Because of this, drugs called growth factors (such as filgrastim, also known as G-CSF) may be given along with the chemo to help the body make new white blood cells as quickly as possible.
+Most of the side effects above tend to go away after treatment is finished. Often there are ways to make these side effects less severe. For example, drugs can be given to help prevent or reduce nausea and vomiting, or to help get blood counts back to normal levels. Be sure to discuss any questions you have about side effects with the cancer care team, and tell them about any side effects so that they can be controlled.
+Side effects of certain chemo drugs
+Some side effects are specific to certain drugs. Many of these side effects are uncommon, but they are possible. Before treatment, ask your cancer care team about the possible side effects of the drugs you or your child will be getting.
+
+Ifosfamide and cyclophosphamide can damage the lining of the bladder, which can cause blood in the urine. The chance of this happening can be lowered by giving a drug called mesna during chemotherapy, along with plenty of fluids.
+Cisplatin and carboplatin can cause nerve damage (called neuropathy) leading to numbness, tingling, or pain in the hands and feet. This often goes away or gets better once treatment is stopped, but it might last a long time in some people. These drugs can sometimes affect hearing, especially of high-pitched sounds. Kidney damage can also occur after treatment. Giving lots of fluid before and after the drug is infused can help prevent this.
+Etoposide can also cause nerve damage. It can also increase the risk of later developing acute myeloid leukemia (AML), a cancer of white blood cells. Fortunately, this is not common.
+High-dose methotrexate can damage the white matter of the brain (called leukoencephalopathy) and can also affect the liver and kidneys. Before starting high-dose methotrexate, medicines are given to help protect the kidneys. Methotrexate blood levels may be checked to see how much leucovorin (also called folinic acid) should be given to help limit any damage to normal tissues.
+Doxorubicin (Adriamycin) can damage the heart muscle. The risk of this goes up with the total amount of the drug that is given, so doctors are careful to limit the total dose. Your (child’s) doctor may order a heart function test (such as an echocardiogram) before and during treatment to see if this drug is affecting the heart. A drug called dexrazoxane may be given along with the chemo to help lessen the possible damage.
+
+Some chemo drugs can affect your (child’s) ability to have children (fertility) later in life. Ask the cancer care team about the possible effects of treatment on fertility, and ask if there are options for preserving fertility, such as sperm banking or egg preservation.
+The doctors and nurses will watch closely for side effects. Don’t hesitate to ask the cancer care team any questions about side effects.
+For more information on the possible late or long-term side effects of chemo, including infertility and second cancers, see Late Effects of Childhood Cancer Treatment.
+Tests to check for side effects of chemo: Before each treatment, lab test results will be checked to be sure the liver, kidneys, and bone marrow are working well. Other tests might be done during and after treatment as well.
+
+The complete blood count (CBC) checks levels of white blood cells, red blood cells, and blood platelets. These will be watched closely during and after chemo. The white blood cells and platelets usually reach their lowest point about 2 weeks after chemo is given, though this can occur earlier with high-dose regimens.
+Blood chemistry tests measure certain blood chemicals that tell doctors how well the liver and kidneys are working. Some chemo drugs can damage these organs.
+An audiogram might be done to check hearing, which can be affected by certain chemo drugs.
+If doxorubicin is to be given, tests such as an echocardiogram (an ultrasound of the heart) may be done before and during treatment to check heart function.
+
+For more information, see Chemotherapy.
+Other drugs to treat osteosarcoma
+If chemo drugs are no longer helpful, other types of drugs might be an option in some situations.
+Targeted therapy drugs
+Doctors are now studying newer drugs that target specific parts of tumor cells (or nearby cells) as a way to treat osteosarcoma. These targeted drugs work differently from standard chemo drugs. They might be helpful sometimes when chemo drugs are no longer working.
+For example, regorafenib (Stivarga), sorafenib (Nexavar), and cabozantinib (Cabometyx)  are drugs that affect a tumor’s ability to develop new blood vessels, which it needs to grow. These drugs have been shown to help some people with osteosarcoma in early studies. Although these drugs are not yet FDA-approved to treat osteosarcoma, they are approved to treat other types of cancer, and trying one of them might be an option if standard chemo drugs are no longer helpful.
+Common side effects of these drugs can include fatigue, loss of appetite, hand-foot syndrome (redness and irritation of the hands and feet), high blood pressure, weight loss, diarrhea, and abdominal (belly) pain. Less common but more serious side effects can include problems with blood flow to the heart, bleeding, abnormal thyroid test results, and perforations (holes) in the stomach or intestines.
+For more on this type of treatment, see Targeted Therapy.
+Radioactive drugs (radiopharmaceuticals)
+Drugs that include a radioactive element can sometimes be helpful in people with advanced osteosarcoma. These drugs are injected into the blood and travel to the bones, where they give off small amounts of radiation that can help slow tumor growth and treat symptoms such as pain. For more information, see Radiation Therapy for Osteosarcoma.Radiation therapy uses high-energy rays or particles to kill cancer cells.
+Osteosarcoma cells are not easily killed by radiation, so radiation therapy doesn’t play a major role in treating this type of cancer. But sometimes radiation can be useful if the tumor can’t be removed completely by surgery. For example, osteosarcoma can start in hip bones or in the bones of the face, particularly the jaw. In these situations, often it’s not possible to remove all of the cancer. After as much of the tumor is removed as possible, radiation is given to try to kill the remaining cancer cells. Chemotherapy is then often given after the radiation.
+Radiation can also be used to help slow tumor growth and control symptoms like pain and swelling if surgery is not possible, or if the cancer has come back.
+External beam radiation therapy
+This is the type of radiation therapy most often used to treat osteosarcoma. A machine outside the body focuses high-energy beams on the tumor to kill the cancer cells.
+Before treatments start, the radiation team takes careful measurements with imaging tests such as MRI scans to determine the correct angles for aiming the radiation beams and the proper dose of radiation. This planning session is called simulation.
+Most often, radiation treatments are given 5 days a week for several weeks. Each treatment is much like getting an x-ray, although the dose of radiation is much higher. The treatment is not painful. For each session, you (or your child) will lie on a special table while a machine delivers the radiation from precise angles.
+Each treatment lasts only a few minutes, although the setup time – getting into place for treatment – usually takes longer. Young children may be given medicine to make them sleep so they will not move during the treatment.
+Newer techniques, such as intensity modulated radiation therapy (IMRT), conformal proton beam therapy, and stereotactic radiosurgery (SRS), let doctors aim the radiation at the tumor more precisely while reducing how much nearby healthy tissues get. This may offer a better chance of increasing the success rate and reducing side effects. Many doctors now recommend using these approaches when they are available. (See What’s New in Osteosarcoma Research?)
+Possible side effects of radiation therapy
+The side effects of external radiation therapy depend on the dose of radiation and where it is aimed.
+Short-term problems can include effects on skin areas that receive radiation, which can range from mild sunburn-like changes and hair loss to more severe skin reactions. Radiation to the abdomen or pelvis can cause nausea, diarrhea, and urinary problems. Talk with your (child’s) health care team about the possible side effects because there may be ways to relieve some of them.
+In children, radiation therapy can slow bone growth. For example, radiation to the bones in one leg might result in it being shorter than the other. Radiation to the facial bones may cause uneven growth, which might affect how a child looks. But if a child is fully or almost fully grown, this is less likely to be an issue.
+Depending on where the radiation is aimed, it can also damage other organs:
+
+Radiation to the chest wall or lungs can affect lung and heart function.
+Radiation to the jaw area might affect the salivary glands, which could lead to dry mouth and tooth problems.
+Radiation therapy to the spine or skull might affect the nerves in the spinal cord or brain. This could lead to nerve damage, headaches, and trouble thinking, which usually become most serious 1 or 2 years after treatment. Radiation to the spine might cause numbness or weakness in part of the body.
+Radiation to the pelvis can damage the bladder or intestines, which can lead to problems with urination or bowel movements. It can also damage reproductive organs, which could affect a child’s fertility later in life, so doctors do their best to protect these organs by shielding them from the radiation or moving them out of the way whenever possible.
+
+Another major concern with radiation therapy is that it might cause a new cancer to form in the part of the body that was treated with the radiation. The higher the dose of radiation, the more likely this is to occur, but the overall risk is small and should not keep children who need radiation from getting it.
+To lower the risk of serious long-term effects from radiation, doctors try to use the lowest dose of radiation therapy that is still effective. Still, it’s important to continue follow-up visits with your (child’s) doctor so that if problems come up they can be found and treated as early as possible.
+Radioactive drugs (radiopharmaceuticals)
+Bone-seeking radioactive drugs, such as samarium-153-EDTMP (Quadramet) or radium-233 (Xofigo), are sometimes used to slow tumor growth and treat symptoms such as pain in people with advanced osteosarcoma. These drugs are injected into a vein and collect in the bones. Once there, the radiation they give off kills the cancer cells.
+These drugs are especially helpful when cancer has spread to many bones, since external beam radiation would need to be aimed at each affected bone. In some cases, these drugs are used together with external beam radiation aimed at the most painful bone metastases.
+The major side effect of these drugs is a lowering of blood cell counts, which could increase the risk for infections or bleeding, especially if the blood counts are already low.Treatment for osteosarcoma depends on several factors, including the location, extent, and grade of the cancer, if doctors think it can be removed (resected) completely, and on a person’s age and overall health.
+Localized, resectable osteosarcoma
+These cancers have not been found to have spread to other parts of the body, and all of the visible tumor can be removed (resected) by surgery.
+High grade: Most osteosarcomas are high grade, meaning they will probably grow and spread quickly if not treated. The usual treatment for these cancers is as follows:
+
+Biopsy to establish the diagnosis
+Chemotherapy (chemo), usually for about 10 weeks
+Surgery to remove the tumor, preferably by the same surgeon who did the biopsy. If cancer is found at the edge of the surgery specimen (meaning some cancer might have been left behind), a second surgery might be done to try to remove any remaining cancer. Radiation therapy might be given to the area as well.
+More chemo (for up to a year). If the initial chemo killed most of the cancer cells, the same drugs are often given again after surgery. If the initial chemo didn’t work well, different drugs might be tried (although not all doctors agree that switching drugs is needed).
+
+Chemo is a very important part of treatment for these cancers. Even when imaging tests don’t show that the cancer has spread to distant parts of the body, there are still likely to be very small areas of cancer spread that can’t be detected with tests. If chemo isn’t given, the cancer is more likely to come back after surgery.
+In rare cases, surgery might be the first treatment (before chemo), especially for people who are elderly.
+Low grade: A small number of osteosarcomas are low grade, meaning they are likely to grow slowly. Patients with low-grade, resectable osteosarcomas can often be cured with surgery alone (without chemo). However, if the tumor removed by surgery is found to be high grade on lab tests, chemo might then be recommended.
+Localized, non-resectable osteosarcoma
+These cancers have not been found to have spread to other parts of the body, but they can’t be removed (resected) completely by surgery. For example, they may be too large or too close to vital structures in the body to be resected completely.
+As with other osteosarcomas, a biopsy is needed first to establish the diagnosis.
+Chemotherapy is usually the first treatment for these cancers. If the tumor shrinks enough to become resectable, it is then removed with surgery. This is followed by more chemotherapy for up to a year.
+If the tumor still can't be removed completely after chemotherapy, radiation therapy can often be used to try to keep the tumor under control and to help relieve symptoms. More chemo might be another option, either instead of or after radiation therapy. If the first chemo regimen didn’t work very well, different chemo drugs might be tried.
+Because these tumors can be hard to treat, a clinical trial of newer treatments may be a good option in many cases.
+Metastatic osteosarcoma
+These cancers have already spread to distant parts of the body when they are diagnosed. Most often they have spread to the lungs. As with other osteosarcomas, a biopsy is needed first to establish the diagnosis.
+Chemotherapy is usually the first treatment for these cancers. If all of the tumors are thought to be resectable after chemotherapy, they are removed with surgery, sometimes in more than one operation. This is followed by more chemo for up to a year.
+If some of the tumors remain unresectable after chemo, radiation therapy can often be used to try to keep them under control and to help relieve symptoms. More chemo might be another option, either instead of or after radiation therapy. If the first chemo regimen didn’t work very well, different chemo drugs might be tried.
+Newer targeted therapy drugs such as regorafenib (Stivarga), sorafenib (Nexavar), or cabozantinib (Cabometyx) might also be an option at some point as well, although more research will be needed to see how effective these drugs are (see What’s New in Osteosarcoma Research?).
+Because these tumors can be hard to treat, clinical trials of newer treatments may be a good option in many cases.
+Recurrent osteosarcoma
+Recurrent cancer means that the cancer has come back after treatment. It may come back locally (near where the first tumor was) or in other parts of the body. Most of the time, if osteosarcoma recurs it will be in the lungs.
+If possible, surgery to remove the tumor(s) is an important part of treatment, as it offers the best chance for long-term survival. If the cancer recurs at the original site on an arm or leg after limb-sparing surgery, amputation of the limb may be recommended.
+Chemotherapy is often part of the treatment for recurrent cancers as well. If the cancer is not resectable, chemo might be used to try to shrink the tumor(s), which might then allow surgery to be done. If the cancer is resectable, chemo might be given after surgery. For more advanced cancers, chemo might be used to try to help relieve symptoms. 
+Radiation therapy might be part of treatment as well. It can sometimes help keep tumor growth in check and help relieve symptoms.
+If the cancer is still growing, newer targeted therapy drugs such as regorafenib (Stivarga), sorafenib (Nexavar), or cabozantinib (Cabometyx) might be an option at some point as well, although more research is needed to see how effective these drugs are (see What’s New in Osteosarcoma Research?).
+Because these tumors can be hard to treat, clinical trials of newer treatments may be a good option.During treatment for osteosarcoma, the main concerns for most people are the daily aspects of just getting through treatment and beating the cancer. After treatment, the concerns tend to shift toward the long-term effects of the cancer and its treatment, as well as worries about the cancer coming back. 
+It’s certainly normal to want to put the tumor and its treatment behind you and to get back to a life that doesn’t revolve around cancer. But it’s important to realize that follow-up care is a central part of this process that offers the best chance for recovery and long-term survival.
+Follow-up care
+After treatment, it’s very important to go to all follow-up appointments. During these visits, doctors will ask about symptoms and do physical exams, and might order blood tests or imaging tests such as MRI, CT scans or x-rays. Follow-up visits are needed to check for cancer recurrence or spread, as well as possible side effects of treatment. This is a good time for you to ask the health care team any questions and to discuss any concerns you might have.
+You or your child will probably see the oncologist and the orthopedic surgeon and get imaging tests every few months during the first couple of years after treatment, and less often after that if there are no issues.
+Physical therapy and rehabilitation are typically a very important part of recovery after treatment for osteosarcoma, and your doctors and other health providers will continue to monitor your (child’s) progress as time goes on.
+Some chemotherapy drugs can cause problems with hearing or heart damage. People who get these drugs may also have tests to check hearing or heart function.
+Almost any cancer treatment can have side effects. Some may last for only a short time, but others can last longer or might not show up until months or even years later. For example, in younger people, treatment might affect fertility (the ability to have children) later in life. It's important to talk to the cancer care team to learn about what to look for, and to tell them about any symptoms or side effects so they can help manage them.
+Ask the cancer care team for a survivorship care plan
+Talk with the treatment team about developing a survivorship care plan. This plan might include: 
+
+A suggested schedule for follow-up exams and tests
+A schedule for other tests that might be needed in the future, such as early detection (screening) tests for other types of cancer, or tests to look for long-term health effects from the cancer or its treatment
+A list of possible late- or long-term side effects from treatment, including what to watch for and when to contact the doctor
+
+Keeping health insurance and copies of medical records
+As much as you may want to put the experience behind you once treatment is completed, it’s also very important to keep good records of your (child’s) medical care during this time. Gathering these details soon after treatment may be easier than trying to get them at some point in the future. This can be very helpful later on if you (or your child) change doctors. Learn more about this in Keeping Copies of Important Medical Records.
+It’s also very important to keep health insurance coverage. Tests and doctor visits can cost a lot, and even though no one wants to think of the tumor coming back, this could happen.
+Late and long-term effects of treatment
+Osteosarcoma treatment might affect a person’s health later in life. Young people in particular are at risk for possible late effects of their treatment. This risk depends on many factors, such as the specific treatments they received, doses of treatment, and their age when treated.
+For example, the after-effects of surgery can range from small scars to the loss of a limb, which would require both physical rehabilitation and emotional adjustment.
+Other late effects of treatment can include:
+
+Heart or lung problems (due to certain chemo drugs or radiation therapy to the chest)
+Loss of hearing (due to certain chemo drugs)
+Slowed growth and development (in the bones or overall)
+Changes in sexual development and ability to have children
+Learning problems in younger children
+Development of another cancer
+
+Other possible complications might come up as well. Your child’s doctor should carefully review any possible problems with you before starting treatment. For more information, see Late Effects of Childhood Cancer Treatment.
+To help increase awareness of late effects and improve follow-up care of childhood cancer survivors throughout their lives, the Children’s Oncology Group (COG) has developed long-term follow-up guidelines for survivors of childhood cancers. These guidelines can help you know what to watch for, what types of screening tests should be done to look for problems, and how late effects are treated.
+It’s very important to discuss possible long-term complications with your child’s health care team, and to make sure there is a plan in place to watch for these problems and treat them, if needed. To learn more, ask your child’s doctors about the COG survivor guidelines. You can also download them for free at the COG website: www.survivorshipguidelines.org. The guidelines are written for health care professionals. Patient versions of some of the guidelines are available (as “Health Links”) on the site as well, but we urge you to discuss them with a doctor.
+Social and emotional issues
+Most osteosarcomas develop during the teenage or young adult years, a very sensitive time in a person’s life. Osteosarcoma and its treatment can have a profound effect on how a person looks and how they view themselves and their body. It can also affect how they do some everyday tasks, including certain school, work, or recreational activities. These effects are often greatest during the first year of treatment, but they can be long-lasting in some people. It’s important that the treating center assess the family situation as soon as possible, so that any areas of concern can be addressed.
+These types of issues can often be addressed with support and encouragement. Doctors and other members of the health care team can also often recommend special support programs and services to help children, teens, and young adults after cancer treatment. For more information, see When Your Child's Treatment Ends.
+No one chooses to have osteosarcoma, but for many people, the experience can eventually be positive, helping to establish strong self-values. Other people may have a harder time recovering, adjusting to life after cancer, and moving on. It is normal to have some anxiety or other emotional reactions after treatment, but feeling overly worried, depressed, or angry can affect many parts of a young person’s growth. It can get in the way of relationships, school, work, and other aspects of life.
+With support from family, friends, other survivors, mental health professionals, and others, many people who have survived cancer can thrive in spite of the challenges they’ve had to face. If needed, doctors and other members of the health care team can often recommend special support programs and services to help after cancer treatment.
+Although osteosarcoma and its treatment can have social and emotional effects on children and teens (and their families), adults with this disease face many of the same challenges, and are also encouraged to take advantage of the cancer center’s physical therapy, occupational therapy, and counseling services.What is osteosarcoma?
+Cancer can start any place in the body. Osteosarcoma is the most common type of cancer that starts in the bones. It starts when bone cells begin to grow out of control, and can then spread to other parts of the body.
+Most osteosarcomas happen in children, teens, and young adults, but older adults can get them too. There are many types of osteosarcomas.
+This cancer most often starts in the bones around the knee, or in the upper arm bone. But it can also start in other bones.
+Sometimes cancer cells from osteosarcoma can spread to other parts of the body, such as the lungs. When cancer cells do this, it’s called metastasis.
+When bone cancer spreads to the lung (or any other place), it’s still bone cancer. It’s not lung cancer unless it starts from cells in the lung.

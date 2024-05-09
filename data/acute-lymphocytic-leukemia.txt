@@ -1,0 +1,731 @@
+Cancer starts when cells in the body begin to grow out of control. There are many kinds of cancer. Cells in nearly any part of the body can become cancer. To learn more about cancer and how it starts and spreads, see What Is Cancer?
+Leukemias are cancers that start in cells that would normally develop into different types of blood cells. Most often, leukemia starts in early forms of white blood cells, but some leukemias start in other blood cell types.
+There are several types of leukemia, which are divided based mainly on whether the leukemia is acute (fast growing) or chronic (slower growing), and whether it starts in myeloid cells or lymphoid cells. Knowing the specific type of leukemia helps doctors better predict each person’s prognosis (outlook) and select the best treatment.
+Acute lymphocytic leukemia (ALL) is also called acute lymphoblastic leukemia. “Acute” means that the leukemia can progress quickly, and if not treated, would probably be fatal within a few months. "Lymphocytic" means it develops from early (immature) forms of lymphocytes, a type of white blood cell.
+ALL starts in the bone marrow (the soft inner part of certain bones, where new blood cells are made). Most often, the leukemia cells invade the blood fairly quickly. They can also sometimes spread to other parts of the body, including the lymph nodes, liver, spleen, central nervous system (brain and spinal cord), and testicles (in males). Some cancers can also start in these organs and then spread to the bone marrow, but these cancers are not leukemia.
+Other types of cancer that start in lymphocytes are known as lymphomas (either non-Hodgkin lymphoma or Hodgkin lymphoma). While leukemias like ALL mainly affect the bone marrow and the blood, lymphomas mainly affect the lymph nodes or other organs (but may also involve the bone marrow). Sometimes it can be hard to tell if a cancer of lymphocytes is a leukemia or a lymphoma. Usually, if at least 20% of the bone marrow is made up of cancerous lymphocytes (called lymphoblasts, or just blasts), the disease is considered leukemia.
+Normal bone marrow, blood, and lymph tissue
+To understand leukemia, it helps to know about the blood and lymph systems.
+Bone marrow
+Bone marrow is the soft inner part of certain bones. It is made up of blood-forming cells, fat cells, and supporting tissues. A small fraction of the blood-forming cells are blood stem cells.
+Inside the bone marrow, blood stem cells go through a series of changes to make new blood cells. During this process, the cells develop into 1 of the 3 main types of blood cell components:
+
+Red blood cells
+Platelets
+White blood cells
+
+Red blood cells
+Red blood cells (RBCs) carry oxygen from the lungs to all other tissues in the body, and take carbon dioxide back to the lungs to be removed.
+Platelets
+Platelets are actually cell fragments made by a type of bone marrow cell called a megakaryocyte. Platelets are important in plugging up holes in blood vessels caused by cuts or bruises.
+White blood cells
+White blood cells (WBCs) help the body fight infections. The main types of WBCs include lymphocytes, granulocytes, and monocytes.
+
+Lymphocytes are the main cells that make up lymph tissue, a major part of the immune system. Lymph tissue is found in lymph nodes, the thymus, the spleen, the tonsils and adenoids, and is scattered throughout the digestive and respiratory systems and the bone marrow.
+Lymphocytes develop from cells called lymphoblasts to become mature, infection-fighting cells. There are 2 main types of lymphocytes:
+
+B lymphocytes (B cells): B cells help protect the body by making proteins called antibodies. The antibodies attach to germs (bacteria, viruses, and fungi) in the body, which helps the immune system destroy them.
+T lymphocytes (T cells): There are several types of T cells, each with a special job. Some T cells can destroy germs directly, while others play a role in either boosting or slowing the activity of other immune system cells.
+
+ALL develops from early forms of lymphocytes. It can start in either early B cells or T cells at different stages of maturity. This is discussed in Acute Lymphocytic Leukemia (ALL) Subtypes and Prognostic Factors.
+
+Granulocytes are WBCs that have granules in them, which are spots that can be seen under the microscope. These granules contain enzymes and other substances that can destroy germs, such as bacteria. The 3 types of granulocytes – neutrophils, basophils, and eosinophils – are distinguished by the size and color of their granules.
+
+Monocytes also help protect the body against bacteria. After circulating in the bloodstream for about a day, monocytes enter body tissues to become macrophages, which can destroy some germs by surrounding and digesting them.The American Cancer Society’s estimates for acute lymphocytic leukemia (ALL) in the United States for 2024 (including both children and adults) are:
+
+About 6,550 new cases of ALL (3,590 in males and 2,960 in females)
+About 1,330 deaths from ALL (640 in males and 690 in females)
+
+The risk for developing ALL is highest in children younger than 5 years of age. The risk then declines slowly until the mid-20s, and begins to rise again slowly after age 50. Overall, about 4 of every 10 cases of ALL are in adults.
+ALL is not a common cancer, accounting for less than half of 1% of all cancers in the United States. The average person’s lifetime risk of getting ALL is about 1 in 1,000. The risk is slightly higher in males than in females, and higher in White people than in African Americans.
+Most cases of ALL occur in children, but most deaths from ALL (about 4 out of 5) occur in adults. Children may do better than adults because of differences in the nature of childhood and adult ALL, differences in treatment (children’s bodies can often handle aggressive treatment better than adult’s), or some combination of these.
+Visit the American Cancer Society’s Cancer Statistics Center for more key statistics.Researchers are now studying the causes, genetics, and treatment of acute lymphocytic leukemia (ALL) at many medical centers, universities, and other institutions around the world.
+Genetics of ALL
+Scientists are making great progress in understanding how changes in the DNA (genes) inside normal bone marrow cells can cause them to develop into leukemia cells. A greater understanding of the gene changes that often occur in ALL cells is providing insight into why these cells become abnormal. As researchers have found more of these changes, it is becoming clear that there are many types of ALL. Each of these might have different gene changes that affect how the leukemia will progress and which treatments might be most helpful. Doctors are now learning how to use these changes to help determine a person’s outlook and whether they should receive more or less intensive treatment.
+Perhaps even more important, this knowledge is now being used to help develop newer targeted therapy drugs against ALL. For example, targeted drugs such as imatinib (Gleevec) and dasatinib (Sprycel) are now used in treating ALL patients whose leukemia cells have the Philadelphia chromosome, and many other drugs targeting changes in ALL cells are now being developed.
+Newer lab techniques are now helping researchers to identify and classify different types of ALL. Instead of looking at single genes, these tests can look at the patterns of many different genes in the cancer cells at the same time. This may add to the information that comes from the current lab tests.
+This information may eventually allow more personalized treatment of ALL.
+Finding minimal residual disease
+Recently, highly sensitive tests have been developed to detect even the smallest amount of leukemia left after treatment (known as minimal residual disease, or MRD), even when there are so few leukemia cells left that they can’t be found by routine bone marrow tests.
+For example, the polymerase chain reaction (PCR) test can identify even very small numbers of ALL cells in a sample, based on their gene changes. A PCR test can be useful in determining how completely the treatment has destroyed the ALL cells.
+Doctors are now trying to determine what effect MRD has on a patient’s outlook, and how this might affect the need for further or more intensive treatment.
+Improving treatment
+Treatment for ALL can be very effective for some people, but it doesn't cure everyone (especially among adults), and it can often cause serious or even life-threatening side effects. Many studies are being done to find more effective and safer treatments for ALL.
+Chemotherapy
+Chemotherapy (chemo) is still the main treatment for nearly all cases of ALL. Studies are now being done to find the most effective combination of chemo drugs while limiting unwanted side effects. This is especially important in older patients, who often have a harder time tolerating current treatments.
+New chemo drugs are also being developed and tested. For example, clofarabine (Clolar) is approved to treat childhood ALL and shows promise in early studies of adults with this disease. Nelarabine (Arranon) is a newer drug that can be used to treat T-cell ALL. Many other new drugs are also being studied.
+Studies are also under way to determine whether patients with certain prognostic factors might benefit from more intensive chemo, and whether some ALL patients might not need as much treatment.
+Sometimes, chemo might not work as well because the leukemia cells become resistant to it. Researchers are now looking at ways to prevent or reverse this resistance by using other drugs along with chemotherapy.
+Stem cell transplants
+Researchers continue to refine stem cell transplants to try to increase their effectiveness, reduce complications and determine which patients are likely to be helped by this type of treatment. Many studies are being done to try to help determine exactly when allogeneic, autologous, and mini-transplants might best be used.
+Doctors are also studying donor leukocyte infusion (DLI) in people who have already received an allogeneic transplant and who relapse. In this technique, the patient gets an infusion of white blood cells (leukocytes) from the same donor who contributed the stem cells for the original transplant. The hope is that the cells will boost the new immune system and add to the graft-versus-leukemia effect. Early study results have been promising, but more research on this approach is needed.
+Targeted therapy drugs
+Newer targeted drugs that specifically attack some of the gene changes seen in ALL cells are now becoming an important part of treatment for some people with ALL. These drugs work differently from standard chemotherapy drugs.
+Many other drugs targeting other changes in ALL cells are now being studied as well. Examples include:
+
+Proteasome inhibitors, such as bortezomib (Velcade), carfilzomib (Kyprolis), and ixazomib (Ninlaro)
+BCL-2 inhibitors, such as venetoclax (Venclexta)
+Syk inhibitors, such as entospletinib
+TORC1/2 inhibitors, such as sapanisertib
+
+Immunotherapy
+The goal of immunotherapy is to boost the body’s immune system to help fight off or destroy cancer cells.
+Monoclonal antibodies
+These drugs are man-made versions of immune system proteins (antibodies). They can be developed to attach only to certain proteins, such as those that are found on ALL cells.
+Some monoclonal antibodies are already approved to treat ALL. These drugs are typically used if other treatments are no longer working, but they are now being studied for use earlier in the course of treatment as well (together with chemo).
+Other monoclonal antibodies, such as rituximab (Rituxan) and ofatumumab (Arzerra), are already used to treat other blood disorders, and are now being studied for use against ALL.
+Epratuzumab, a newer antibody, has also shown promise against ALL in early studies. Further studies are under way.
+One promising treatment approach is to attach a chemo drug to a monoclonal antibody (known as an antibody-drug conjugate, or ADC). The antibody serves as a homing device to bring the chemo drug to the leukemia cell. Several such drugs have shown promise in early studies, and are now being tested in larger clinical trials.
+Several other monoclonal antibodies to treat ALL are now being studied as well.
+CAR T-cell therapy
+This is a promising new way to get the immune system to fight leukemia. For this technique, immune cells called T cells are removed from the patient’s blood and altered in the lab so they have specific substances (called chimeric antigen receptors, or CARs) that will help them attach to leukemia cells. The CAR T cells are then grown in the lab and infused back into the patient’s blood, where they can now seek out the leukemia cells and attack them.
+This technique has shown very promising results in early clinical trials against some types of advanced, hard-to-treat leukemias, and is now an option for some children and young adults with ALL. It is now being tested in older adults, too. With this treatment, some people have had very serious side effects, including very high fevers and dangerously low blood pressure in the days after it’s given. Doctors are learning how to manage these side effects.
+Immune checkpoint inhibitors
+An important part of the immune system is its ability to keep itself from attacking other normal cells in the body. To do this, it uses “checkpoints” – molecules on immune cells that need to be turned on (or off) to start an immune response. Cancer cells sometimes use these checkpoints to avoid being attacked by the immune system. But newer drugs that target these checkpoints hold a lot of promise as treatments. Some of these drugs are already being used to treat other types of cancer, and they are now being studied for use in ALL as well.A risk factor is something that increases your chance of getting a disease such as cancer. Some risk factors, like smoking, can be controlled. Others, like a person’s age or family history, can’t be changed.
+But having a risk factor, or even several risk factors, does not mean that you will definitely get the disease. And many people who get the disease may have few or no known risk factors.
+There are only a handful of known risk factors for acute lymphocytic leukemia (ALL).
+Radiation exposure
+Being exposed to high levels of radiation is a risk factor for both ALL and acute myeloid leukemia (AML). For example, Japanese atomic bomb survivors had a greatly increased risk of developing acute leukemia.
+Treating cancer with radiation therapy also increases the risk of leukemia, although more for AML than ALL. The risk seems to be higher if chemotherapy and radiation are both used in treatment.
+The possible risks of leukemia from being exposed to lower levels of radiation, such as from medical imaging tests like x-rays or CT scans, are not well understood. Exposure to such radiation, especially very early in life, may carry an increased risk of leukemia, but this is not clear. If there is an increased risk it is likely to be small, but to be safe, most doctors try to limit radiation exposure from these tests as much as possible, especially in children and pregnant women.
+Certain chemical exposures
+The risk of ALL may be increased by exposure to certain chemotherapy drugs and certain other chemicals, including benzene. Benzene is used in many industries to make other products, and is also in cigarette smoke, as well as some glues, cleaning products, detergents, art supplies, and paint strippers.
+Chemical exposure is more strongly linked to an increased risk of AML than to ALL.
+Certain viral infections
+Infection with the human T-cell lymphoma/leukemia virus-1 (HTLV-1) can cause a rare type of T-cell ALL. Most cases occur in Japan and the Caribbean area. This disease is not common in the United States.
+In Africa, the Epstein-Barr virus (EBV) has been linked to Burkitt lymphoma, as well as to a form of ALL. In the United States, EBV most often causes infectious mononucleosis (“mono”).It has also been linked with a type of lymphoma that can occur after a stem cell transplant (known as post-transplant lymphoproliferative disorder, or PTLD).
+Certain genetic syndromes
+ALL itself doesn't appear to have a strong inherited component. That is, it doesn't seem to run in families, so a person’s risk is not increased if a family member (other than an identical twin - see below) has the disease. But there are some genetic syndromes (some of which can be inherited from a parent) that seem to raise the risk of ALL. These include: 
+                     
+Down syndrome
+Klinefelter syndrome
+Fanconi anemia
+Bloom syndrome
+Ataxia-telangiectasia
+Neurofibromatosis
+Li-Fraumeni syndrome
+
+Age
+ALL is more likely to occur in children and in adults over the age of 50.
+Race/ethnicity
+ALL is more common in White individuals than in African Americans, but the reasons for this are not clear.
+Being male
+In general, l﻿eukemia is more common in men than women. This includes ALL that is more common in males than in females. The reason for this is not clear.
+Having an identical twin with ALL
+Someone who has an identical twin who develops ALL in the first year of life has an increased risk of getting ALL.
+Uncertain, unproven or controversial risk factors
+Other factors that have been studied for a possible link to ALL include:
+
+Exposure to electromagnetic fields (such as living near power lines or using cell phones)
+Workplace exposure to diesel, gasoline, pesticides, and certain other chemicals
+Smoking
+Exposure to hair dyes
+
+So far, none of these factors has been linked conclusively to ALL, but research in these areas continues.Some people with acute lymphocytic leukemia (ALL) have one or more of the known risk factors, but many do not. Even when a person has one or more risk factors, it can be very hard to know if it actually caused the leukemia.
+Great progress has been made in understanding how certain changes in the DNA in normal bone marrow cells can cause them to become leukemia cells. The DNA inside our cells makes up our genes, which control how our cells function. We tend to look like our parents because they are the source of our DNA. But our genes affect more than the way we look.
+Some genes control when our cells grow, divide to make new cells, and die at the right time:
+
+Certain genes that help cells grow, divide, or stay alive are called oncogenes.
+Genes that keep cell growth and division under control or make cells die at the right time are called tumor suppressor genes.
+
+Each time a cell divides into 2 new cells, it must make a new copy of its chromosomes (long strands of DNA). This process isn't perfect, and errors can occur that can affect genes within the chromosomes. Cancers (including ALL) can be caused by mutations (changes) that turn on oncogenes or turn off tumor suppressor genes. These types of changes can stop bone marrow cells from maturing the way they normally would, or help the cells grow out of control.
+Mutations in many different genes can be found in ALL cells, but larger changes in one or more chromosomes are also common. Even though these changes involve larger pieces of DNA, their effects are still likely to be due to changes in just one or a few genes that are on that part of the chromosome. Several types of chromosome changes may be found in ALL cells:
+Translocations are the most common type of chromosome change that can lead to leukemia. A translocation means that DNA from one chromosome breaks off and becomes attached to a different chromosome. The point on the chromosome where the break occurs can affect nearby genes – for example, it can turn on oncogenes or turn off genes that would normally help a cell mature.
+The most common translocation in ALL in adults is known as the Philadelphia chromosome, which is a swap of DNA between chromosomes 9 and 22, abbreviated as t(9;22). Many other, less common translocations, can occur as well, including those between chromosomes 4 and 11, t(4;11), or 8 and 14, t(8;14).
+Other chromosome changes such as deletions (the loss of part of a chromosome) and inversions (the rearrangement of the DNA within part of a chromosome) are also sometimes found in ALL cells, although they are less common. In many cases of ALL, the gene changes that lead to the leukemia are not known.
+Doctors are trying to figure out why these changes occur and how each of them might lead to leukemia. But there are different subtypes of ALL, and even within a subtypes, not all cases of ALL have the same gene or chromosome changes. Some changes are more common than others, and some seem to have more of an effect on a person’s prognosis (outlook) than others.
+Inherited versus acquired gene changes
+Some people with certain types of cancer have inherited DNA mutations from a parent that increase their risk for the disease. Although this can happen sometimes with ALL, such as with some of the genetic syndromes listed in Risk Factors for Acute Lymphocytic Leukemia (ALL), inherited mutations are not a common cause of ALL.
+Usually DNA mutations related to ALL are acquired during the person’s lifetime, rather than having been inherited. They may result from outside causes like exposure to radiation or cancer-causing chemicals, but in most cases the reason they occur isn't clear. Many of these gene changes are probably just random events that sometimes happen inside a cell, without having an outside cause. These changes can build up as we age, which might help explain why ALL in adults gets more common as people get older.For many types of cancers, finding the cancer early makes it easier to treat. The American Cancer Society recommends screening tests for early detection of certain cancers in people without any symptoms.
+But at this time there are no special tests recommended to detect acute lymphocytic leukemia (ALL) early. The best way to find leukemia early is to report any possible signs or symptoms of leukemia (see Signs and symptoms of acute lymphoblastic leukemia) to the doctor right away.
+For people at increased risk of ALL
+Some people are known to have a higher risk of ALL (or other leukemias) because of a genetic disorder such as Down syndrome, or because they were previously treated with certain chemotherapy drugs or radiation. Most doctors recommend that these people have careful, regular medical checkups. The risk of leukemia, although greater than in the general population, is still very low for most of these people.Acute lymphocytic leukemia (ALL) can cause many different signs and symptoms. Most of these occur in all kinds of ALL, but some are more common with certain subtypes of ALL
+Overall, the signs and symptoms of leukemia can affect men or women and do not differ by sex or gender.
+Symptoms caused by low numbers of blood cells
+Most signs and symptoms of ALL are the result of shortages of normal blood cells, which happen when the leukemia cells crowd out the normal blood-making cells in the bone marrow. These shortages show up on blood tests, but they can also cause symptoms, including:
+
+Feeling tired
+Feeling weak
+Feeling dizzy or lightheaded
+Shortness of breath
+Pale skin
+Infections that don’t go away or keep coming back
+Bruises (or small red or purple spots) on the skin
+Bleeding, such as frequent or severe nosebleeds, bleeding gums, or heavy menstrual bleeding in women
+
+General symptoms
+Patients with ALL also often have several non-specific symptoms. These can include:
+
+Weight loss
+Fever
+Night sweats
+Loss of appetite
+
+Of course, these are not just symptoms of ALL and are more often caused by something other than leukemia.
+Swelling in the abdomen
+Leukemia cells may build up in the liver and spleen, making them larger. This might be noticed as a fullness or swelling of the belly, or feeling full after eating only a small amount. The lower ribs usually cover these organs, but when the organs are enlarged the doctor can feel them.
+Enlarged lymph nodes
+ALL that has spread to lymph nodes close to the surface of the body (such as on the sides of the neck, in the groin, or in underarm areas), might be noticed as lumps under the skin. Lymph nodes inside the chest or abdomen may also swell, but these can be detected only by imaging tests such as CT or MRI scans.
+Bone or joint pain
+Sometimes leukemia cells build up near the surface of the bone or inside the joint, which can lead to bone or joint pain.
+Spread to other organs
+Less often, ALL spreads to other organs:
+
+If ALL spreads to the brain and spinal cord it can cause headaches, weakness, seizures, vomiting, trouble with balance, facial muscle weakness or numbness, or blurred vision.
+ALL may spread inside the chest, where it can cause fluid buildup and trouble breathing.
+Rarely, ALL may spread to the skin, eyes, testicles, ovaries, kidneys, or other organs.
+
+Symptoms from an enlarged thymus
+The T-cell subtype of ALL often affects the thymus, which is a small organ in the middle of the chest behind the sternum (breastbone) and in front of the trachea (windpipe). An enlarged thymus can press on the trachea, which can lead to coughing or trouble breathing.Certain signs and symptoms can suggest that a person might have acute lymphocytic leukemia (ALL), but tests are needed to confirm the diagnosis.
+Medical history and physical exam
+If you have signs and symptoms that suggest you might have leukemia, the doctor will want to get a thorough medical history, including how long you have had symptoms and if you have possibly been exposed to anything considered a risk factor.
+During the physical exam, the doctor will probably focus on any enlarged lymph nodes, areas of bleeding or bruising, or possible signs of infection. The eyes, mouth, and skin will be looked at carefully, and a thorough nervous system exam may be done. Your abdomen will be felt for spleen or liver enlargement.
+If there is reason to think low levels of blood cells might be causing your symptoms (anemia, infections, bleeding or bruising, etc.), the doctor will most likely order blood tests to check your blood cell counts. You might also be referred to a hematologist, a doctor who specializes in diseases of the blood (including leukemia).
+Tests used to diagnose and classify ALL
+If your doctor thinks you might have leukemia, they will need to check samples of cells from your blood and bone marrow to be sure. Other tissue and cell samples may also be taken to help guide treatment.
+Blood tests
+Blood samples for ALL tests are generally taken from a vein in the arm.
+Complete blood count (CBC) and peripheral blood smear: The CBC measures the numbers of red blood cells, white blood cells, and platelets. This test is often done along with a differential (or diff) which looks at the numbers of the different types of white blood cells. These tests are often the first ones done on patients with a suspected blood problem.
+For the peripheral blood smear (sometimes just called a smear), a drop of blood is smeared across a slide and then looked at under a microscope to see how the cells look. Changes in the numbers and the appearance of the cells often help diagnose leukemia.
+Most patients with ALL have too many immature white cells called lymphoblasts (or just blasts) in their blood, and not enough red blood cells or platelets. Lymphoblasts are not normally found in the blood, and they don't function like normal, mature white blood cells.
+Even though these findings may suggest leukemia, the disease usually is not diagnosed without looking at a sample of bone marrow cells.
+Blood chemistry tests: Blood chemistry tests measure the amounts of certain chemicals in the blood, but they are not used to diagnose leukemia. In patients already known to have ALL, these tests can help detect liver or kidney problems caused by spreading leukemia cells or the side effects of certain chemotherapy drugs. These tests also help determine if treatment is needed to correct low or high blood levels of certain minerals.
+Coagulation tests: Blood coagulation tests may be done to make sure the blood is clotting properly.
+Bone marrow tests
+Leukemia starts in the bone marrow, so checking the bone marrow for leukemia cells is a key part of testing for it.
+Bone marrow aspiration and biopsy: Bone marrow samples are obtained by bone marrow aspiration and biopsy – tests usually done at the same time. The samples are usually taken from the back of the pelvic (hip) bone, although in some cases they may be taken from the sternum (breastbone) or other bones.
+In bone marrow aspiration, you lie on a table (either on your side or on your belly). After cleaning the skin over the hip, the doctor numbs the skin and the surface of the bone by injecting a local anesthetic, which may cause a brief stinging or burning sensation. A thin, hollow needle is then inserted into the bone and a syringe is used to suck out a small amount of liquid bone marrow. Even with the anesthetic, most patients still have some brief pain when the marrow is removed.
+A bone marrow biopsy is usually done just after the aspiration. A small piece of bone and marrow is removed with a slightly larger needle that is pushed down into the bone. With local anesthetic, most patients just feel some pressure and tugging from the biopsy, but some may feel a brief pain. Once the biopsy is done, pressure will be applied to the site to help prevent bleeding.
+These bone marrow tests are used to help diagnose leukemia. They may also be done again later to tell if the leukemia is responding to treatment.
+Lab tests used to diagnose and classify ALL
+One or more of the following lab tests may be done on the samples to diagnose AML and/or to determine the specific subtype of ALL.
+Routine exams with a microscope: The bone marrow (and sometimes blood) samples are looked at with a microscope by a pathologist (a doctor specializing in lab tests) and may be reviewed by the patient’s hematologist/oncologist (a doctor specializing in cancer and blood diseases).
+The doctors will look at the size, shape, and other traits of the white blood cells in the samples to classify them into specific types.
+A key factor is whether the cells look mature (like normal blood cells), or immature (lacking features of normal blood cells). The most immature cells are called lymphoblasts (or just blasts).
+Determining what percentage of cells in the bone marrow are blasts is particularly important. A diagnosis of ALL generally requires that at least 20% of the cells in the bone marrow are blasts. Under normal circumstances, blasts don't make up more than 5% of bone marrow cells.
+Sometimes just counting and looking at the cells doesn’t provide a definite diagnosis, and other lab tests are needed.
+Cytochemistry: In cytochemistry tests, cells are put on a slide and exposed to chemical stains (dyes) that react only with some types of leukemia cells. These stains cause color changes that can be seen under a microscope, which can help the doctor determine what types of cells are present. For instance, one stain will turn parts of acute myeloid leukemia (AML) cells black, but has no effect on ALL cells.
+Flow cytometry and immunohistochemistry: For both flow cytometry and immunohistochemistry, samples of cells are treated with antibodies, which are proteins that stick only to certain other proteins on cells. For immunohistochemistry, the cells are examined under a microscope to see if the antibodies stuck to them (meaning they have those proteins), while for flow cytometry a special machine is used.
+These tests are used for immunophenotyping – classifying leukemia cells according to proteins on or in the cells. This kind of testing is very helpful in determining the exact type of leukemia. For diagnosing leukemia, it is most often done on cells from bone marrow, but it can also be done on cells from the blood, lymph nodes, and other body fluids.
+For ALL, these tests are most often used to help determine the exact subtype of in someone already thought to have ALL based on other tests.
+Chromosome tests
+These tests look at the chromosomes (long strands of DNA) inside the cells. Normal human cells contain 23 pairs of chromosomes (bundles of DNA). In ALL, the cells sometimes have chromosome changes. Recognizing these changes can help identify certain types of ALL, and it can be important in determining a patient’s outlook and likely response to some treatments. For this reason, chromosome testing is a standard part of the work-up for ALL.
+The most common chromosome change in ALL is a translocation, in which, 2 chromosomes swap some of their DNA, so that part of one chromosome becomes attached to part of a different chromosome. The most common chromosome change in adult ALL is a translocation that results in a shortened chromosome 22 (called the Philadelphia chromosome). About 1 out of 4 adults with ALL have this abnormality in their leukemia cells. This change is especially important because it can be targeted with certain drugs.
+Cytogenetics: For this test, the cells are grown in lab dishes until they start dividing. Then the chromosomes are looked at under a microscope to detect any changes.
+Because it takes time for the cells to start dividing, cytogenetic testing often takes about 2 to 3 weeks.
+Not all chromosome changes can be seen under a microscope. Other lab tests can often help find these changes.
+Fluorescent in situ hybridization (FISH): This is another way to look at chromosomes and genes. It uses special fluorescent dyes that only attach to specific genes or parts of particular chromosomes. FISH can find most chromosome changes (such as translocations) that are visible under a microscope in standard cytogenetic tests, as well as some changes too small to be seen with usual cytogenetic testing.
+FISH can be used on regular blood or bone marrow samples. Because the cells don’t have to be able to divide for this test, it can also be used to look at cells from other tissues, like lymph node samples. It is very accurate and can usually provide results within a couple of days. But because FISH only tests for certain gene changes (and doesn’t look at the chromosomes overall), it is best for looking for the changes that are important based on the kind of leukemia a person has.
+Polymerase chain reaction (PCR): This is a very sensitive DNA test that can also find certain gene and chromosome changes too small to be seen with a microscope, even if very few leukemia cells are present in a sample. Like FISH, it is used to find particular gene changes and not to look at the chromosomes overall.
+If the leukemia cells have a particular gene (or chromosome) change, PCR can be used after treatment to try to find small numbers of leukemia cells that may not be visible with a microscope.
+Other molecular and genetic tests
+Other, newer types of lab tests can also be done on the samples to look for specific gene or other changes in the leukemia cells.
+Lumbar puncture (spinal tap)
+ALL can spread to the area around the brain and spinal cord. To check for this spread, doctors remove a sample of the fluid from that area (cerebrospinal fluid or CSF) for testing.
+You may lay on your side or sit up for this test. The doctor first numbs an area in the lower part of the back over the spine. A small, hollow needle is then placed between the bones of the spine and into the area around the spinal cord to collect some fluid.
+A lumbar puncture can also be used to put chemotherapy drugs into the CSF to try to prevent or treat the spread of leukemia to the spinal cord and brain.
+Lymph node biopsy
+A lymph node or part of a lymph node is often removed to help diagnose lymphomas, but this is only rarely needed with leukemia because the diagnosis is usually made looking at blood and bone marrow.
+In this procedure, a surgeon cuts through the skin to remove all or part of a lymph node. If the node is just under the skin, this is a simple operation that can often be done with local anesthesia, but if the node is inside the chest or abdomen, general anesthesia is used to keep you asleep during the biopsy.
+When the entire lymph node is removed, it is called an excisional lymph node biopsy. If only part of the lymph node is removed, it is called an incisional lymph node biopsy.
+Imaging tests
+Imaging tests use x-rays, sound waves, magnetic fields, or radioactive particles to create pictures of the inside of the body. Leukemia does not usually form tumors, so imaging tests aren’t as useful as they are for other types of cancer. Imaging tests might be done in people with ALL to help determine the extent of the disease, if it is thought to have spread beyond the bone marrow and blood. They might also be done to look for infections or other problems. .
+X-rays
+Chest x-rays may be done if the doctor suspects a lung infection. They may also be done to look for enlarged lymph nodes in the chest.
+Computed tomography (CT) scan
+The CT scan uses x-rays to make detailed, cross-sectional images of your body.
+This test can show if any lymph nodes or organs in your body are enlarged. It isn’t usually needed to diagnose ALL, but it may be done if your doctor suspects leukemia cells are growing in an organ, like your spleen.
+Sometimes a test that combines the CT scan with a PET (positron emission tomography) scan (PET/CT scan) is done. This is not often needed for patients with ALL.
+Magnetic resonance imaging (MRI) scan
+MRI scans make detailed images of the body using radio waves and strong magnets instead of x-rays. They are very helpful in looking at the brain and spinal cord. This test might be done if a lumbar puncture finds leukemia cells in the CSF, or if a person is having symptoms that could mean the ALL has spread to the area around the brain.
+Ultrasound
+Ultrasound can be used to look at lymph nodes near the surface of the body or to look for enlarged organs inside the abdomen such as the kidneys, liver, and spleen. It can also be used to look at the testicles, if needed.
+This is an easy test to have, and it uses no radiation.For most types of cancer, determining the stage (extent) of the cancer is very important. The stage is based on the size of the tumor and how far the cancer has spread. This can be helpful in predicting a person’s outlook and deciding on treatment.
+Acute lymphocytic leukemia (ALL), on the other hand, does not usually form tumors. It generally affects all of the bone marrow in the body and, in some cases, has already spread to other organs, such as the liver, spleen, and lymph nodes, by the time it is found. Therefore ALL is not staged like most other cancers. The outlook for a person with ALL depends on other information, such as the subtype of ALL (determined by lab tests), the patient's age, and other lab test results.
+Subtypes of Acute Lymphocytic Leukemia (ALL)
+Different systems have been used to classify ALL into subtypes.
+In the 1970s, a group of French, American, and British (FAB) leukemia experts divided ALL into 3 subtypes (L1, L2, and L3), based on the way the leukemia cells looked under the microscope after routine staining. This system, known as the FAB classification, has largely been replaced, as newer lab tests now allow doctors to classify ALL more accurately.
+Doctors have found that cytogenetic tests, flow cytometry, and other lab tests provide more detailed information about the subtype of ALL and the patient’s prognosis. These tests help divide ALL into groups based on the gene and chromosome changes in the leukemia cells.
+The World Health Organization (WHO) system, most recently updated in 2016, includes some of these factors to try to better classify ALL. The WHO system divides ALL into several groups:
+B-cell ALL
+B-cell ALL with certain genetic abnormalities (gene or chromosome changes)
+
+B-cell ALL with hypodiploidy (the leukemia cells have fewer than 44 chromosomes [normal cells have 46])
+B-cell ALL with hyperdiploidy (the leukemia cells have more than 50 chromosomes)
+B-cell ALL with a translocation between chromosomes 9 and 22 [t(9;22)] (the Philadelphia chromosome, which creates the BCR-ABL1 fusion gene)
+B-cell ALL with a translocation between chromosome 11 and another chromosome
+B-cell ALL with a translocation between chromosomes 12 and 21 [t(12;21)]
+B-cell ALL with a translocation between chromosomes 1 and 19 [t(1;19]
+B-cell ALL with a translocation between chromosomes 5 and 14 [t(5;14)]
+B-cell ALL with amplification (too many copies) of a portion of chromosome 21 (iAMP21)*
+B-cell ALL with translocations involving certain tyrosine kinases or cytokine receptors (also known as “BCR-ABL1–like ALL”)*
+
+ B-cell ALL, not otherwise specified
+T-cell ALL
+
+Early T-cell precursor lymphoblastic leukemia*
+
+* It's not yet clear if there's enough evidence that it's a unique group (meaning it is still a "provisional entity")
+Mixed lineage acute leukemias
+A small number of acute leukemias have both lymphocytic and myeloid features. Sometimes the leukemia cells have both myeloid and lymphocytic traits in the same cells. In other cases, a person may have some leukemia cells with myeloid features and others with lymphocytic features. These types of leukemias may be called mixed lineage leukemia, acute undifferentiated leukemia, or, or mixed phenotype acute leukemia (MPAL).
+Most studies suggest these leukemias tend to have a poorer outlook than standard subtypes of ALL or AML. Not all doctors agree on the best way to treat them. Intensive treatment (such as a stem cell transplant) is often used when possible, as there is a high risk of recurrence after treatment.
+Prognostic factors for ALL
+As leukemia treatment has improved over the years, research has focused on why some people have a better chance for cure than others. Different factors that affect a person's prognosis (outlook) are called prognostic factors. They can help doctors decide if people with a certain type of leukemia should get more or less treatment.
+Age
+Among adults, younger patients tend to have a better prognosis than older patients. There is no set cutoff for this, but generally those younger than 50 do better than those in their 50s, while people in their 50s do better than those in their 60s or older.
+Some of this might be because older patients are more likely to have unfavorable chromosome abnormalities (see below). Older patients are also more likely to have other medical conditions that can make it harder to treat them with more intense chemotherapy regimens.
+Initial white blood cell (WBC) count
+People with a lower WBC count (less than 30,000 for B-cell ALL and less than 100,000 for T-cell ALL) when they are first diagnosed tend to have a better prognosis.
+Gene or chromosome abnormalities
+Whether the leukemia cells have certain changes in their genes or chromosomes can affect prognosis. For example, patients tend to have a poorer outcome if the leukemia cells have:
+
+The Philadelphia chromosome (a translocation between chromosomes 9 and 22), although this outlook has improved with modern targeted therapy drugs
+A translocation between chromosomes 4 and 11
+A translocation involving chromosome 14
+Amplification (too many copies) of part of chromosome 21
+Fewer than 44 chromosomes (hypodiploidy)
+5 or more chromosome changes (complex karyotype)
+
+On the other hand, people tend to have a better outlook if the leukemia cells have:
+
+A translocation between chromosomes 12 and 21
+More than 50 chromosomes (hyperdiploidy)
+
+Response to chemotherapy
+Patients who go into a complete remission (no visible leukemia in the bone marrow – see below) within 4 to 5 weeks of starting treatment tend to have a better prognosis than those for whom this takes longer. Patients who don’t achieve a complete remission at all have a poorer outlook. The presence of minimal residual disease (described below) after initial treatment also seems to affect prognosis, although this is still being studied.
+Status of ALL during and after treatment
+How well leukemia responds to treatment affects the patient’s long-term chance for recovery.
+Remission
+A remission (complete remission) is usually defined as having no evidence of leukemia after treatment. This means the bone marrow contains fewer than 5% blast cells, the blood cell counts are within normal limits, and there are no signs or symptoms of the disease. A complete molecular remission means there is no evidence of leukemia cells in the bone marrow, even when using very sensitive lab tests, such as polymerase chain reaction (PCR). Even when leukemia is in remission, this does not always mean that it has been cured.
+Minimal residual disease
+Minimal residual disease (MRD) is a term used after treatment when leukemia cells can’t be found in the bone marrow using standard lab tests (such as looking at cells under a microscope), but they can still be detected with more sensitive tests (such as flow cytometry or PCR).
+Patients with MRD after treatment are more likely to have the leukemia relapse (come back after treatment) and overall have a poorer outlook than those who achieve a complete remission. Doctors are studying if these patients could benefit from further or more intensive treatment.
+Active disease
+Active disease means that either there is evidence that the leukemia is still present during treatment or that the disease has relapsed (come back) after treatment. For a patient to be in relapse, more than 5% of the bone marrow must be made up of blast cells.It's important to have open and honest discussions with your cancer care team about your acute lymphocytic leukemia (ALL). Ask about anything you don’t understand or want to know more about. For instance, consider these questions:
+When you're told you have ALL
+
+Can you explain to me what ALL is? How is it different from other types of leukemia?
+What type of ALL do I have? What does this mean?
+Are there any other factors that might affect my prognosis?
+Do I need any other tests before we can decide on treatment?
+Do I need to see any other types of doctors?
+
+When deciding on a treatment plan
+
+How much experience do you and this medical center have treating this type of leukemia?
+What are my treatment choices?
+Which treatment do you recommend, and why?
+Should we consider a stem cell transplant? When?
+Should I get a second opinion before starting treatment? Can you suggest a doctor or medical center?
+How soon do we need to start treatment?
+What should I do to be ready for treatment?
+How long will treatment last? What will it be like? Where will it be done?
+What are the risks and side effects to the treatments that you recommend?
+How will treatment affect my daily activities?
+What is my prognosis (outlook)?
+
+During and after treatment
+Once treatment begins, you’ll need to know what to expect and what to look for. Not all of these questions may apply to you, but getting answers to the ones that do may be helpful.
+
+How will we know if the treatment is working?
+What type of follow-up will I need after treatment?
+Is there anything I can do to help manage side effects?
+What symptoms or side effects should I tell you about right away?
+How can I reach you on nights, holidays, or weekends?
+Do I need to change what I eat during treatment?
+Are there any limits on what I can do? 
+Should I exercise? What should I do, and how often?
+Can you suggest a mental health professional I can see if I start to feel overwhelmed, depressed, or distressed?
+What would my options be if the treatment isn’t working?
+Where can I find more information and support?
+
+Be sure to write down any questions you have that are not on this list. For instance, you might want specific information about recovery times so that you can plan your work or activity schedule. Or you might want to ask about clinical trials for which you may qualify.
+Keep in mind, too, that doctors aren’t the only ones who can give you information. Other health care professionals, such as nurses and social workers, might be able to answer some of your questions. You can find out more about speaking with your health care team in The Doctor-Patient Relationship.(Note: This information is about treating acute lymphocytic leukemia (ALL) in adults. To learn about ALL in children, see Leukemia in Children.)
+Chemotherapy (chemo) is the use of drugs to treat cancer. Chemo drugs travel through the bloodstream to reach cancer cells all over the body. This makes chemo useful for cancers such as leukemia that has spread throughout the body.
+Chemo is the main treatment for just about all people with acute lymphocytic leukemia (ALL). Because of its potential side effects, chemo might not be recommended for patients in poor health, but advanced age by itself is not a barrier to getting chemo.
+How is chemo given?
+Chemo treatment for ALL is typically divided into 3 phases:
+
+Induction, which is short and intensive, usually lasts about a month.
+Consolidation (intensification), which is also intensive, typically lasts for a few months.
+Maintenance (post-consolidation), which is less intensive, typically lasts for about 2 years.
+
+During the more intensive phases of treatment, people can often have serious side effects from chemo, so they might need to spend time in the hospital. For more on the different phases of treatment, see Typical Treatment of Acute Lymphocytic Leukemia.
+Chemo is typically given in cycles, with each period of treatment followed by a rest period to allow the body time to recover.
+Most often, chemo drugs are injected into a vein (IV), into a muscle, or under the skin, or are taken by mouth. These drugs enter the blood and can reach leukemia cells all over the body.
+Most chemo drugs have trouble reaching the area around the brain and spinal cord, so chemo may need to be injected into the cerebrospinal fluid (CSF) to kill cancer cells in that area. This is called intrathecal chemo. Intrathecal chemo can be given during a spinal tap or by using a special catheter called an Ommaya reservoir.
+Which chemo drugs are used to treat ALL?
+Chemo for ALL uses a combination of anti-cancer drugs. The most commonly used chemo drugs include:
+
+Vincristine or liposomal vincristine (Marqibo)
+Daunorubicin (daunomycin) or doxorubicin (Adriamycin)
+Cytarabine (cytosine arabinoside, ara-C)
+L-asparaginase or PEG-L-asparaginase (pegaspargase or Oncaspar)
+6-mercaptopurine (6-MP)
+Methotrexate
+Cyclophosphamide
+Prednisone
+Dexamethasone
+Nelarabine (Arranon) 
+
+People typically get several of these drugs at different times during the course of treatment, but they do not get all of them.
+Possible side effects
+Chemo drugs can affect some normal cells in the body, which can lead to side effects. The side effects of chemo depend on the type and dose of drugs given and the length of time they are taken. Common side effects can include:
+
+Hair loss
+Mouth sores
+Loss of appetite
+Nausea and vomiting
+Diarrhea or constipation
+
+Chemo drugs also affect the normal cells in bone marrow, which can lower blood cell counts. This can lead to:
+
+Increased risk of infections (from having too few normal white blood cells)
+Easy bruising or bleeding (from having too few blood platelets)
+Fatigue and shortness of breath (from having too few red blood cells)
+
+Most side effects from chemo go away once treatment is finished. Low blood cell counts can last weeks, but then should return to normal. There are often ways to lessen chemo side effects. For example, drugs can be given to help prevent or reduce nausea and vomiting. Be sure to ask your cancer care team about medicines to help reduce side effects, and let your doctor or nurse know when you do have side effects so they can be managed effectively.
+Low white blood cell counts: Some of the most serious side effects of chemo are caused by low white blood cell counts.
+You may get antibiotics and drugs that help prevent fungal and viral infections before before you have signs of infection or at the earliest sign that an infection may be developing (such as a fever).
+Drugs known as growth factors, such as filgrastim (Neupogen), pegfilgrastim (Neulasta), and sargramostim (Leukine), are sometimes given to increase the white blood cell counts after chemo, to help lower the chance of infection. However, it’s not clear if they have an effect on treatment success.
+There are also steps that you can take to lower your risk of infection, such as washing your hands often. These are discussed in Infections in People With Cancer.
+Low platelet counts: If your platelet counts are low, you may be given drugs or platelet transfusions to help protect against bleeding.
+Low red blood cell counts: Shortness of breath and extreme fatigue caused by low red blood cell counts (anemia) may be treated with drugs or with red blood cell transfusions.
+Decisions about when a patient can leave the hospital are often influenced by their blood counts. Some people find it helpful to keep track of their counts. If you are interested in this, ask your doctor or nurse about your blood cell counts and what these numbers mean.
+Side effects of specific drugs: Certain drugs might cause specific side effects. For example:
+
+Cytarabine (ara-C), especially when used at high doses, can cause dryness in the eyes and can affect certain parts of the brain, which can lead to problems with coordination and balance.
+Vincristine can damage nerves, which can lead to numbness, tingling, or weakness in hands or feet.
+Anthracyclines (such as daunorubicin or doxorubicin) can damage the heart, so the total dose needs to be watched closely, and these drugs might not be used in someone who already has heart problems.
+
+Other organs that could be damaged by certain chemo drugs include the kidneys, liver, testicles, ovaries, and lungs. Doctors and nurses carefully monitor treatment to reduce the risk of these side effects as much as possible. If serious side effects occur, the chemo may have to be reduced or stopped, at least for a time.
+Second cancers: One of the most serious side effects of ALL therapy is an increased risk of getting acute myeloid leukemia (AML) at a later time. This occurs in a small portion of patients after they have received certain chemo drugs. Less often, people cured of leukemia may later develop non-Hodgkin lymphoma or other cancers. Of course, the risk of getting these second cancers must be balanced against the obvious benefit of treating a life-threatening disease such as leukemia with chemotherapy.
+Tumor lysis syndrome: This side effect of chemo is most common in patients who have large numbers of leukemia cells in the body, so it is seen most often in the first (induction) phase of treatment. When chemo kills the leukemia cells, they break open and release their contents into the bloodstream. This can overwhelm the kidneys, which aren’t able to get rid of all of these substances at once. Excess amounts of certain minerals can also affect the heart and nervous system. This can often be prevented by giving extra fluids during treatment and by giving certain drugs, such as bicarbonate, allopurinol, and rasburicase, which help the body get rid of these substances.(Note: This information is about treating acute lymphocytic leukemia (ALL) in adults. To learn about ALL in children, see Leukemia in Children.)
+Targeted therapy drugs work by attacking specific parts of cancer cells. They are different from standard chemotherapy (chemo) drugs. They sometimes work when chemo doesn't, and they often have different side effects. Some of these drugs can be useful in certain cases of acute lymphocytic leukemia (ALL).
+Targeted drugs for ALL with the Philadelphia chromosome (Ph+ ALL)
+In about 1 out of 4 adult patients with ALL, the leukemia cells have the Philadelphia chromosome. This is an abnormal chromosome formed by the swapping of genetic material between chromosomes 9 and 22, which creates a new gene called BCR-ABL. Cells with the BCR-ABL gene make an abnormal protein that helps the cells grow.
+Drugs called tyrosine kinase inhibitors (TKIs) have been developed to attack this protein. Examples include:
+
+Imatinib (Gleevec®)
+Dasatinib (Sprycel®)
+Nilotinib (Tasigna®)
+Ponatinib (Iclusig®)
+Bosutinib (Bosulif®)
+
+In patients with Ph+ ALL, adding a TKI to chemo helps increase the chance that the leukemia will go into remission. Continuing on one of these drugs can also help keep the leukemia from coming back. If one TKI doesn't work (or is no longer working), another one might be tried.
+These drugs are taken daily as pills.
+Common side effects include diarrhea, nausea, muscle pain, fatigue, and skin rashes. These are generally mild. A common side effect is swelling around the eyes or in the hands or feet. Other possible side effects include lower red blood cell and platelet counts at the start of treatment. All of these side effects can get worse at higher than usual doses of the drug. Other, more serious side effects can occur as well, depending on which drug is used.
+Immunotherapy drugs for ALL
+Some of the immunotherapy drugs used to treat ALL might also be considered forms of targeted therapy, because they work by attaching to specific parts of leukemia cells. Examples include:
+
+Blinatumomab (Blincyto)
+Inotuzumab ozogamicin (Besponsa)
+
+For more information on these drugs, see Immunotherapy for Acute Lymphocytic Leukemia (ALL).(Note: This information is about treating acute lymphocytic leukemia (ALL) in adults. To learn about ALL in children, see Leukemia in Children.)
+Immunotherapy is the use of medicines to help a patient’s own immune system recognize and destroy cancer cells more effectively. Some types of immunotherapy are now being used to treat acute lymphocytic leukemia (ALL) in certain situations.
+Monoclonal antibodies
+Antibodies are proteins made by the body’s immune system to help fight infections. Man-made versions of these proteins, called monoclonal antibodies, can be designed to attack a specific target, such as a protein on the surface of leukemia cells.
+Blinatumomab (Blincyto)
+Blinatumomab is a special kind of monoclonal antibody because it can attach to 2 different proteins at the same time. One part of blinatumomab attaches to the CD19 protein, which is found on B cells, including some leukemia and lymphoma cells. Another part attaches to CD3, a protein found on immune cells called T cells. By binding to both of these proteins, this drug brings the cancer cells and immune cells together, which is thought to cause the immune system to attack the cancer cells.
+This drug is used to treat some types of B-cell ALL, typically after chemotherapy has been tried. It is given into a vein (IV) as a continuous infusion over 28 days. It may be repeated again for more cycles with 2 weeks off in between. Because of certain serious side effects that occur more often during the first few times it is given, the patient usually needs to be treated in a hospital or clinic for the beginning of at least the first 2 cycles.
+The most common side effects are fever, headache, swelling of the feet and hands, nausea, tremor, rash, constipation, and low blood potassium levels. It can also cause low white blood cell counts, which increase the risk of serious infection.
+This drug can also cause neurologic problems, such as seizures, difficulty in speaking or slurred speech, passing out, confusion, and loss of balance.
+Some patients have serious reactions while this drug is being infused. Symptoms can include feeling lightheaded or dizzy (due to low blood pressure), headache, nausea, fever or chills, shortness of breath, and/or wheezing. Let your healthcare team know if you develop any of these symptoms, as this reaction can be life-threatening. If you do have a reaction, the drug will be stopped while the reaction is treated.
+Inotuzumab ozogamicin (Besponsa)
+This drug is an anti-CD22 antibody linked to a chemotherapy drug. B cells (including some leukemia cells) usually have the CD22 protein on their surface. The antibody acts like a homing signal, bringing the chemo drug to the leukemia cells, where it enters the cells and kills them when they try to divide into new cells.
+This drug is used to treat some types of B-cell ALL, typically after chemotherapy has been tried. It is given as an infusion into a vein (IV), once a week for 3 or 4 weeks in a row. This may be repeated for more cycles. 
+The most common side effects are low levels of blood cells (with increased risks of infection, bleeding, and fatigue), fever, nausea, headache, abdominal (belly) pain, and high blood levels of bilirubin (a substance in bile).
+Less common but more serious side effects can include:
+
+Severe liver damage, including veno-occlusive disease (blockage of veins in the liver)
+Reactions during the infusion (similar to an allergic reaction). You will likely be given medicines before each infusion to help prevent this.
+Serious or life-threatening infections, especially in people who have already had a stem cell transplant
+Changes in the rhythm of the heart
+
+CAR T-cell therapy
+For this treatment, immune cells called T cells are removed from the person's blood and genetically altered in the lab to have specific receptors (called chimeric antigen receptors, or CARs) on their surface. These receptors can attach to proteins on leukemia cells. The T cells are then multiplied in the lab and given back into the blood, where they can seek out the leukemia cells and attack them.
+To make this treatment, T cells are removed from the blood during a process called leukapheresis. Blood is removed through an IV line and goes into a machine that removes the T cells. The remaining blood then goes back into the body. This typically takes a few hours, and it might need to be repeated. The cells are then frozen and sent to a lab, where they are turned into CAR T cells and are multiplied. This can take a few weeks.
+For the treatment itself, the patient typically gets chemo for a few days to help prepare the body. Then they get the CAR T cells as an infusion into a vein (IV). Because this treatment can have serious side effects (see below), it is only given in medical centers that have special training with this treatment.
+Brexucabtagene autoleucel (Tecartus, also known as brexu-cel) is approved to treat adults with B-cell ALL that has come back or is no longer responding to other treatments.
+Tisagenlecleucel (Kymriah, also known as tisa-cel) is approved for use in children and young adults up to age 25 to treat B-cell ALL that has come back or is no longer responding to treatment.
+Side effects of CAR T-cell therapy
+This treatment can have serious or even life-threatening side effects, which is why it needs to be given in a medical center that has special training in its use.
+Cytokine release syndrome (CRS): CRS happens when T cells release chemicals (cytokines) that ramp up the immune system. This can happen within a few days to weeks after treatment, and it can be life-threatening. Symptoms can include:
+
+High fever and chills
+Trouble breathing
+Severe nausea, vomiting, and/or diarrhea
+Severe muscle or joint pain
+Feeling dizzy or lightheaded
+
+Nervous system problems: This drug can have serious effects on the nervous system, which can result in symptoms such as:
+
+Headaches
+Changes in consciousness
+Confusion or agitation
+Seizures
+Trouble speaking and understanding
+Loss of balance
+
+Other serious side effects: Other possible side effects can include:
+
+Serious infections
+Low blood cell counts, which can increase the risk of infections, fatigue, and bruising or bleeding
+
+It’s very important to report any side effects to the health care team right away, as there are often medicines that can help treat them.
+To learn more about this type of treatment, see CAR T-Cell Therapies.(Note: This information is about treating acute lymphocytic leukemia (ALL) in adults. To learn about ALL in children, see Leukemia in Children.)
+Surgery has a very limited role in the treatment of acute lymphocytic leukemia (ALL). Because leukemia cells are spread widely throughout the bone marrow and blood, it isn't possible to cure this type of cancer with surgery. Aside from a possible lymph node biopsy, surgery rarely has a role even in the diagnosis of ALL, as this is typically done with a bone marrow aspiration and biopsy.
+The main role for surgery in ALL is to insert catheters (tubes) into the body to make it easier to give chemotherapy (chemo), which is the main treatment for ALL.
+Placement of a central venous catheter
+Often before chemo is about to start, surgery is often needed to insert a small plastic tube, called a central venous catheter (CVC), central line, or venous access device (VAD), into a large vein (usually in the chest). The end of the tube stays just under the skin or sticks out in the chest area or upper arm.
+The CVC is left in place during treatment (often for many months) to give intravenous (IV) drugs such as chemo and to take blood samples. This lowers the number of needle sticks needed during treatment. It is very important to learn how to care for the device to keep it from getting infected.
+Placement of an Ommaya reservoir
+Giving chemo directly into the fluid that surrounds the brain and spinal cord (cerebrospinal fluid or CSF) is often a part of the treatment of ALL. In this treatment, called intrathecal chemo, the medicines can be given through a lumbar puncture (spinal tap) or through an Ommaya reservoir.
+An Ommaya reservoir is a dome-like device attached to a catheter, which is put in place during a surgical procedure. The dome part sits under the skin of the scalp, with the catheter going through a small hole in the skull and into one of the spaces (ventricles) in the brain.
+Intrathecal chemo can be given by placing a needle through the skin and into the dome . The chemo goes through the catheter and into the CSF in the ventricle, and then circulates through the area around the brain and spinal cord.
+An Ommaya reservoir allows a person to get intrathecal chemo without having to get repeated spinal taps. CSF can also be withdrawn from the Ommaya reservoir to check for leukemia cells and signs of infection.(Note: This information is about treating acute lymphocytic leukemia (ALL) in adults. To learn about ALL in children, see Leukemia in Children.)
+Radiation therapy uses high-energy radiation to kill cancer cells. It is not usually part of the main treatment for people with acute lymphocytic leukemia (ALL), but it is used in certain situations:
+
+Radiation is sometimes used to treat leukemia that has spread to the brain and spinal fluid, or to the testicles.
+Radiation to the whole body is often an important part of treatment before a bone marrow or peripheral blood stem cell transplant (see High-dose Chemotherapy and Stem Cell Transplant for Acute Lymphocytic Leukemia).
+Radiation is used (rarely) to help shrink a tumor if it is pressing on the trachea (windpipe) and causing breathing problems. But chemotherapy is often used instead, as it may work more quickly.
+Radiation can also be used to reduce pain in an area of bone invaded by leukemia, if chemotherapy hasn’t helped.
+
+External beam radiation therapy, in which a machine delivers a beam of radiation to a specific part of the body, is the type of radiation used most often for ALL. Before your treatment starts, the radiation team will take careful measurements to determine the correct angles for aiming the radiation beams and the proper dose of radiation. This planning session, called simulation, usually includes getting imaging tests such as CT or MRI scans.
+Radiation treatment is much like getting an x-ray, but the radiation is much stronger. The procedure itself is painless. Each treatment lasts only a few minutes, although the setup time – getting you into place for treatment – usually takes longer. The number of treatments you get depends on the reason radiation therapy is being used. 
+Side effects
+The possible side effects of radiation therapy depend on where the radiation is aimed. They include:
+
+Fatigue (tiredness)
+Skin changes in the treated area, which can range from mild redness to burning and peeling
+Hair loss in the area being treated
+Nausea and vomiting (if the head or belly is being treated)
+Diarrhea (if the belly or pelvis is being treated)
+Mouth sores and trouble swallowing (if the head and neck area are being treated)
+Headaches (if the head is being treated)
+Lowered blood cell counts, which can lead to fatigue and shortness of breath (from low red blood cell counts), bleeding or bruising (from low platelet counts), and an increased risk of infection (from low white blood cell counts)(Note: This information is about treating acute lymphocytic leukemia (ALL) in adults. To learn about ALL in children, see Leukemia in Children.)
+Standard doses of chemotherapy (chemo) aren’t always able to cure acute lymphocytic leukemia (ALL). Even though higher doses of chemo drugs might be more effective, they can't be given because they could severely damage the bone marrow, which is where new blood cells are formed. This could lead to life-threatening infections, bleeding, and other problems due to low blood cell counts.
+A stem cell transplant (SCT) allows doctors to use higher doses of chemo (sometimes along with radiation) to kill the cancer cells. After these treatments are finished, the patient gets an infusion (transplant) of blood-forming stem cells to restore their bone marrow.
+Blood-forming stem cells used for a transplant are obtained either from the blood, from the bone marrow, or from a baby's umbilical cord blood. Most often, stem cells from the blood are used.
+Types of stem cell transplants
+The main types of stem cell transplants are:
+
+Allogeneic stem cell transplant, in which the stem cells come from someone else. This is the preferred type of transplant when treating ALL.
+Autologous stem cell transplant, in which the patient gets back their own cells
+
+Allogeneic transplant: A donor’s tissue type (also known as the HLA type) needs to closely match the patient’s tissue type to help prevent the risk of major problems with the transplant. The best donor is often a close relative, such as a brother or sister, if they have the same tissue type as the patient. If there are no siblings with a good match, the cells may come from an HLA-matched, unrelated donor – a stranger who has volunteered to donate their cells. Some patients cannot have this kind of transplant because a matching donor isn’t available.
+The use of allogeneic transplant is also limited by its side effects, which are often too severe for people who are older or who have other health problems. One option that may help patients who can’t have an allogeneic transplant because of age or health issues is to use lower doses of chemo and radiation that don’t completely destroy the cells in their bone marrow. This is known as a non-myeloablative or reduced-intensity transplant. This kind of SCT relies on the donor cells to kill the leukemia cells, instead of the chemo and radiation. This is not a standard treatment for ALL, and is being studied to determine how useful it may be.
+Autologous transplant: A patient’s own stem cells are removed from their bone marrow or blood. They are frozen and stored while the person gets treatment (high-dose chemotherapy and/or radiation). A process called purging may be used in the lab to try to remove any leukemia cells in the samples. The stem cells are then put back (reinfused) into the patient’s blood after treatment.
+An autologous transplant may be an option for patients who can’t have an allogeneic transplant because they don’t have a matched donor, or for some other reason. One problem with autologous transplants is that leukemia is a disease of the bone marrow and blood, so even after purging, there is a danger of giving the patient back leukemia cells with the stem cells.
+Another reason that allogeneic transplants are preferred is because of the graft-versus-leukemia effect. When the donor immune cells are infused into the body, they may recognize any remaining leukemia cells as being foreign to them and attack them. This effect doesn’t happen with an autologous SCT.
+Practical points
+A stem cell transplant is an intensive and complex treatment that can cause life-threatening side effects. If your doctor thinks you might benefit from a transplant, you should discuss what kind you will have, the possible side effects, and how long it may take for you to recover. Stem cell transplants should be done at a hospital where the staff has experience with the procedure and with managing the recovery phase.(Note: This information is about treating acute lymphocytic leukemia (ALL) in adults. To learn about ALL in children, see Leukemia in Children.)
+The main treatment for acute lymphocytic leukemia (ALL) in adults is typically long-term chemotherapy (chemo). In recent years, doctors have begun to use more intensive chemo regimens, which has led to more responses to treatment. But these regimens are also more likely to cause side effects, such as low white blood cell counts. Patients may need to take other drugs to help prevent or treat these side effects.
+Treatment typically takes place in 3 phases:
+
+Induction (remission induction)
+Consolidation (intensification)
+Maintenance
+
+The total treatment usually takes about 2 years, with the maintenance phase taking up most of this time. Treatment may be more or less intense, depending on the subtype of ALL and other prognostic factors.
+ALL can spread to the area around the brain and spinal cord. Sometimes this has already occurred by the time ALL is first diagnosed. This spread is found when the doctor does a lumbar puncture (spinal tap) and leukemia cells are found in the cerebrospinal fluid (CSF), the liquid that surrounds the brain and spinal cord. The treatment of this is discussed below.
+Even if leukemia cells aren't found in the CSF at diagnosis, it's possible that they might spread there later on. This is why an important part of treatment for ALL is central nervous system (CNS) prophylaxis – treatment that lowers the risk of the leukemia spreading to the area around the brain or spinal cord. This is also described in more detail below.
+Induction
+The goal of induction chemo is to get the leukemia into remission (complete remission). This means that leukemia cells are no longer found in bone marrow samples (on a bone marrow biopsy), the normal marrow cells return, and the blood counts return to normal levels. But a remission is not necessarily a cure, as leukemia cells may still be hiding somewhere in the body.
+Induction chemo usually lasts for a month or so. Different combinations of chemo drugs might be used, but they typically include:
+
+Vincristine
+Dexamethasone or prednisone
+An anthracycline drug such as doxorubicin (Adriamycin) or daunorubicin
+
+Based on the patient’s prognostic factors, some regimens may also include cyclophosphamide, L-asparaginase (or pegaspargase), and/or high doses of methotrexate or cytarabine (ara-C) as part of the induction phase.
+For ALL patients whose leukemia cells have the Philadelphia chromosome, a targeted drug such as imatinib (Gleevec) or dasatinib (Sprycel) is often included as well.
+For patients who are older (typically over 65) or who have other serious health conditions, many of the same drugs are used for induction, although the doses of the drugs might need to be reduced.
+This first month of treatment is intensive and requires frequent visits to the doctor. You may spend some or much of this time in the hospital, because serious infections or other complications can occur. It's very important to take all medicines as prescribed. Sometimes complications can be serious enough to be life-threatening, but with recent advances in supportive care (nursing care, nutrition, antibiotics, growth factors, red blood cell and platelet transfusions as needed, etc.), these are much less common than in the past.
+Most often, leukemia goes into remission with induction chemotherapy. But because leukemia cells may still be hiding somewhere in the body, further treatment is needed.
+CNS treatment or prophylaxis: Treatment needs to be given either to keep the leukemia cells from spreading to the CNS (CNS prophylaxis), or to treat the leukemia if it has already spread to the CNS. This is often started during induction and continued through the other phases of treatment. It may include one or more of the following:
+
+Chemo injected directly into the CSF (called intrathecal chemotherapy). The drug used most often is methotrexate, but sometimes cytarabine or a steroid such as prednisone may be used as well. Intrathecal chemo can be given during a lumbar puncture (spinal tap) or through an Ommaya reservoir (as discussed in the surgery section).
+High-dose IV methotrexate, cytarabine, or other chemo drugs
+Radiation therapy to the brain and spinal cord
+
+Consolidation (intensification)
+If the leukemia goes into remission, the next phase often consists of another fairly short course of chemo, using many of the same drugs that were used for induction therapy. This typically lasts for a few months. Usually the drugs are given in high doses so that the treatment is still fairly intense. CNS prophylaxis/treatment is typically continued at this time.
+A targeted drug like imatinib is also continued for patients whose leukemia cells have the Philadelphia chromosome.
+Some patients in remission, such as those who have certain subtypes of ALL or other poor prognostic factors, are still at high risk for the leukemia relapsing (coming back). Instead of standard chemo, doctors may suggest an allogeneic stem cell transplant (SCT) at this time, especially for those who have a brother or sister who would be a good donor match. An autologous SCT may be another option. The possible risks and benefits of a stem cell transplant need to be weighed carefully for each patient based on their own case, as it’s not clear that they are helpful for every patient. Patients considering this procedure should think about having it done at a center that has done a lot of stem cell transplants.
+Maintenance
+After consolidation, the patient is generally put on a maintenance chemotherapy program of methotrexate and 6-mercaptopurine (6-MP). In some cases, this may be combined with other drugs such as vincristine and prednisone.
+For ALL patients whose leukemia cells have the Philadelphia chromosome, a targeted drug like imatinib is often included as well.
+Maintenance usually lasts for about 2 years. CNS prophylaxis/treatment is typically continued at this time.
+Response rates to ALL treatment
+In general, about 80% to 90% of adults will have complete remissions at some point during these treatments. This means leukemia cells can no longer be seen in their bone marrow. Unfortunately, about half of these patients relapse, so the overall cure rate is in the range of 40%. Again, these rates can vary a lot, depending on the subtype of ALL and other prognostic factors. For example, cure rates tend to be higher in younger patients.
+What if the leukemia doesn’t respond or comes back after treatment?
+If the leukemia is refractory – that is, if it doesn’t go away with the first treatment (which happens in about 10% to 20% of patients) – then newer or more intensive doses of chemo drugs may be tried, although they are less likely to work. Immunotherapy (monoclonal antibodies or CAR T-cell therapy) may be an option for patients with B-cell ALL. A stem cell transplant may be tried if the leukemia can be put into at least partial remission. Clinical trials of new treatment approaches may also be considered.
+If leukemia goes into remission with the initial treatment but then comes back (relapses or recurs), it will most often do so in the bone marrow and blood. Occasionally, the brain or spinal fluid will be the first place it recurs.
+In these cases, it is sometimes possible to put the leukemia into remission again with more chemotherapy (chemo), although this remission is not likely to last. The approach to treatment may depend on how soon the leukemia returns after the first treatment. If the relapse occurs after a long interval, the same or similar treatment may be used to try for a second remission. If the time interval is shorter, more aggressive chemo with other drugs may be needed.
+Immunotherapy might be another option for some patients. For example, a monoclonal antibody or CAR T-cell therapy might be an option for some people with B-cell ALL.
+ALL patients with the Philadelphia chromosome who were taking a targeted drug like imatinib (Gleevec) are often switched to a different targeted drug.
+For patients with T-cell ALL, the chemo drug nelarabine (Arranon) may be helpful.
+If a second remission can be achieved, most doctors will advise some type of stem cell transplant if possible.
+If the leukemia doesn’t go away or keeps coming back, eventually treatment with more chemo is unlikely to be helpful. If a stem cell transplant is not an option, a patient may want to consider taking part in a clinical trial of newer treatments.
+Palliative treatment
+At some point, it may become clear that further treatment, even in clinical trials, is extremely unlikely to cure the leukemia. At that time, the focus of treatment may shift to controlling the leukemia and its symptoms for as long as possible, rather than trying to cure it. This may be called palliative treatment or supportive care. For example, the doctor may advise less intensive chemo to try to slow the leukemia growth instead of trying to cure it.
+As the leukemia grows in the bone marrow it may cause pain. It's important that you be as comfortable as possible. Treatments that may be helpful include radiation and appropriate pain-relieving medicines. If medicines such as aspirin and ibuprofen don’t help with the pain, stronger opioid medicines such as morphine are likely to be helpful.
+Other common symptoms from leukemia are low blood counts and fatigue. Medicines or blood transfusions may be needed to help correct these problems. Nausea and loss of appetite can be treated with medicines and high-calorie food supplements. Infections that occur may be treated with antibiotics.(Note: This information is about acute lymphocytic leukemia (ALL) in adults. To learn about ALL in children, see Leukemia in Children.)
+For some people with acute lymphocytic leukemia (ALL), treatment can get rid of all of the leukemia cells. Completing treatment can be both stressful and exciting. You may be relieved to finish treatment, but find it hard not to worry about the leukemia coming back. (When leukemia comes back after treatment, it is called a relapse or recurrence.) This is a very common concern in people who have had leukemia.
+For other people, the leukemia may not go away completely. Some people may get regular treatments with chemotherapy, radiation therapy, or other therapies to help keep the leukemia in check for as long as possible. Learning to live with cancer that doesn't go away can be difficult and very stressful. It has its own type of uncertainty. See Managing Cancer as a Chronic Illness for more about this.
+Follow-up care
+Treatment for ALL typically lasts for at least 2 years. Whether you have completed treatment or are still being treated, your doctors will still want to watch you closely.
+Exams and tests
+Even after treatment ends, you'll still need frequent follow-up exams and tests – probably every month or so at first, and then less often, for at least several years. It’s very important to go to all of your follow-up appointments. During these visits, your doctors will ask about any problems you may have, examine you, and might do blood tests, bone marrow exams,s or other tests to look for signs of leukemia or treatment side effects.
+Almost any cancer treatment can have side effects. Some may last for only a short time, but others can last the rest of your life. Tell your cancer care team about any changes or problems you notice and any questions or concerns you have.
+If ALL does relapse, it is usually while a person is still being treated or shortly after they've finished treatment. If this happens, treatment options would be as described in Typical Treatment of Acute Lymphocytic Leukemia (ALL). It is unusual for ALL to return if there are still no signs of the disease within 5 years after treatment.
+Should your leukemia come back, see Understanding Recurrence for information on how to manage and cope with this phase of your treatment.
+Ask your doctor for a survivorship care plan
+Talk with your doctor about developing a survivorship care plan for you. This plan might include: 
+
+A suggested schedule for follow-up exams and tests
+A schedule for other tests you might need in the future, such as early detection (screening) tests for other types of cancer, or tests to look for long-term health effects from your tumor or its treatment
+A list of possible late- or long-term side effects from your treatment, including what to watch for and when you should contact your doctor
+Diet and physical activity suggestions
+
+Keeping health insurance and copies of your medical records
+Even after treatment, it’s very important to keep health insurance. Tests and doctor visits cost a lot, and even though no one wants to think of their cancer coming back, this could happen.
+At some point after your treatment, you might find yourself seeing a new doctor who doesn’t know about your medical history. It’s important to keep copies of your medical records to give your new doctor the details of your diagnosis and treatment. Learn more in Keeping Copies of Important Medical Records.
+Can I lower my risk of ALL progressing or coming back?
+If you have (or had) ALL, you probably want to know if there are things you can do to reduce your risk of the leukemia progressing or coming back, such as exercising, eating a certain type of diet, or taking nutritional supplements. At this time, not enough is known about ALL to say for sure if there are things you can do that will help. 
+Healthy behaviors such as not smoking, eating well, getting regular physical activity, and staying at a healthy weight might help, but no one knows for sure. But we do know that these types of changes can have positive effects on your health that can extend beyond your risk of AML or other cancers.
+About dietary supplements
+So far, no dietary supplements (including vitamins, minerals, and herbal products) have been shown to clearly help lower the risk of ALL progressing or coming back. This doesn’t mean that no supplements will help, but it’s important to know that none have been proven to do so.
+Dietary supplements aren’t regulated like medicines in the United States – they do not have to be proven effective (or even safe) before being sold, although there are limits on what they’re allowed to claim they can do. If you’re thinking about taking any type of nutritional supplement, talk to your health care team. They can help you decide which ones you can use safely while avoiding those that might be harmful.
+Getting emotional support
+Some amount of feeling depressed, anxious, or worried is normal when leukemia is part of your life. Some people are affected more than others. But everyone can benefit from help and support from other people, whether friends and family, religious groups, support groups, professional counselors, or others. Learn more in Coping With Cancer.What is leukemia?
+Cancer starts when cells in a part of the body begin to grow out of control. There are many kinds of cancer.
+Leukemia starts in the bone marrow, the soft inner part of certain bones where new blood cells are made. It starts when certain blood cells (usually white blood cells) grow out of control and crowd out normal blood cells. This makes it hard for the body to work the way it should.
+There are many types of leukemia. Some are rare. Most are named based on if they are fast-growing (acute), or slower-growing (chronic). They are also named by which type of bone marrow cell (myeloid or lymphocytic) the leukemia starts in.
+What is acute lymphocytic leukemia (ALL)?
+Acute lymphocytic leukemia (ALL) is also called acute lymphoblastic leukemia. ALL starts from early forms of lymphocytes, a type of white blood cell.
+ALL grows quickly. The leukemia cells soon enter the blood and can sometimes spread to the lymph nodes, liver, spleen, central nervous system (brain and spinal cord), and other organs.
+Are there different types of ALL?
+There are different subtypes of ALL. In some of these, the ALL cells have gene changes that can affect how well treatment works. Your doctor can tell you more about the kind of ALL you have.
+Questions to ask the doctor
+
+Why do you think I have leukemia?
+Is there a chance I don’t have leukemia?
+Would you please write down the kind of leukemia you think I might have?
+What will happen next?
+
+How does the doctor know I have ALL?
+Most signs and symptoms of ALL are from low numbers of blood cells. You may feel tired, weak, dizzy and have a fever. You may also lose weight or have bone or joint pain, and might bruise or bleed easily.
+Your doctor will ask you questions about your health and look for swollen lymph nodes, swelling in the belly, or signs of bleeding, bruising, or infection.
+Tests that may be done
+If the doctor suspects leukemia, here are some of the tests you may need:
+Blood cell counts: This blood test is often the first test done. Most people with ALL have too many white blood cells (mostly early forms called blasts) and not enough of other types of blood cells.
+Bone marrow aspiration and biopsy: For these tests, a doctor uses thin, hollow needles to take out small amounts of bone marrow, most often from the hip bone. The area around the bone is numbed, and you may be given a drug to make you sleep during the test. The samples are sent to a lab to see if there are leukemia cells in the bone marrow. If you are already being treated, these tests can be used to see how well treatment is working.
+Spinal tap (lumbar puncture): For this test, the doctor first numbs an area in the lower part of the back over the spine. A small, hollow needle is placed between the bones of the spine to draw out some of the fluid (called CSF) from around the brain and spinal cord, which is then checked for leukemia cells.
+Lab tests for leukemia: Samples from blood, bone marrow, or CSF are looked at under a microscope to help the doctor find out what kind of leukemia you have. If leukemia cells are found, other lab tests might be done on the cells to look for certain gene changes. The results of these tests might affect how your leukemia is treated.
+Other blood tests: If you have leukemia, other blood tests will be done to see how well your liver, kidneys, and other organs are working.
+Imaging tests: These tests take pictures of the inside of the body. There are many kinds of imaging tests, like x-rays and CT and MRI scans. They are sometimes done to look for leukemia, but more often they are done to look for infections or other problems. Ask your doctor what imaging tests you may need.
+Questions to ask the doctor
+
+What tests will I need to have?
+Who will do these tests?
+Where will they be done?
+How and when will I get the results?
+Who will explain the results to me?
+What do I need to do next?
+
+Different types of ALL
+There are many types of ALL. It is grouped into different kinds, based mainly on:
+
+The type of lymphocyte it starts in
+How early or mature the cells are
+The gene changes inside the ALL cells
+
+Ask your doctor about the type of ALL you have. This can affect your outlook and which type of treatment might be best for you.
+Questions to ask the doctor
+
+What type of ALL do I have?
+Are there any factors that might affect my chances of getting better??
+Are there other doctors I need to see?
+How many people with ALL have you treated?
+What will happen next?
+
+What kind of treatment will I need?
+ALL often grows quickly, so it’s important to start treatment as soon as you can after it is found.
+The most common treatment for ALL is chemotherapy (chemo), which most people get for at least 2 years. Other treatments are used less often.
+The treatment plan that is best for you will depend on:
+
+The type of ALL
+If the ALL cells have changes in certain genes
+The chance that a type of treatment will cure the leukemia or help in some way
+Your age and overall health
+Your feelings about the treatment and the side effects that come with it
+
+Chemo
+Chemo is the use of drugs to fight cancer. These drugs go into the blood and spread all over the body. Most chemo drugs don’t reach the area around the brain and spinal cord, so the drugs may also need to be put right into the CSF to kill cancer cells there. Chemo is given in cycles or rounds. Each round of treatment is followed by a break.
+ALL treatment usually has 3 phases:
+
+The first phase is called induction. Its goal is to clear the blood of all leukemia cells. You usually get 3 or more chemo drugs over a month or so, and you might need to spend some of this time in the hospital.
+The second phase is called consolidation. Its goal is to kill any leftover leukemia cells and keep the ALL from coming back. This treatment is often given over several months. Sometimes it may include a stem cell transplant (see below).
+The third phase is called maintenance, which is done to help keep the ALL from coming back. It uses lower doses of chemo drugs given over about 2 years.
+
+People whose ALL cells have a certain gene change are often given a targeted drug (see below) along with chemo for their treatment.
+Side effects of chemo
+Chemo can have many side effects, like:
+
+Hair loss
+Mouth sores
+Not feeling like eating
+Diarrhea
+Being sick to your stomach and throwing up
+More risk of infections
+Getting black and blue marks and bleeding easily
+Tiredness
+
+But these problems tend to go away after treatment ends. There are ways to treat most chemo side effects. Be sure to talk to your cancer care team so they can help.
+Stem cell transplant
+A stem cell transplant (SCT) lets doctors use very high doses of chemo to kill the leukemia cells. The high doses of these drugs destroy the bone marrow, which keeps new blood cells from being made. Although the drugs destroy the bone marrow, stem cells given after the chemo can bring back the blood-making bone marrow stem cells. There are different kinds of SCT, each of which can have bad side effects. Ask your doctor which type you will have and what to expect.
+Targeted therapy drugs
+Targeted drugs are not the same as chemo because these drugs mainly go after cancer cells, not normal cells. Sometimes ALL cells have certain gene changes, and targeted drugs can help treat these leukemias. Ask your doctor which drug you will get, and what the side effects might be.
+
+Immunotherapy
+Immunotherapy helps a person’s own immune system find and destroy leukemia cells. This type of treatment can help some people with ALL, often after other treatments have been tried. Ask your doctor about this type of treatment, and what the side effects might be.
+Surgery
+Surgery has only a small role in treating ALL. Surgery may be used before chemo to put a small plastic tube called a central venous catheter (CVC) into a large vein. This allows drugs such as chemo to be given and blood samples to be taken out.
+Radiation treatments
+Radiation uses high-energy rays (like x-rays) to kill cancer cells. This treatment may be used to kill any leukemia cells that may be hiding in the brain or in the testicles (in men). It also can be used before a stem cell transplant. Ask your doctor if radiation will be part of the treatment and what to expect.
+Side effects of radiation treatments
+Side effects depend on where the radiation is aimed. The most common side effects of radiation are:
+
+Skin changes where the radiation is given
+Feeling very tired
+
+These side effects tend to get better after treatment ends. Radiation can also cause long-term effects if it is aimed at the brain, heart, lungs, or other body parts. Talk to your cancer care team about what to expect.
+Clinical trials
+Clinical trials are research studies that test new drugs or other treatments in people. They compare standard treatments with others that may be better.
+If you would like to learn more about clinical trials that might be right for you, start by asking your doctor if your clinic or hospital conducts clinical trials. See Clinical Trials to learn more.
+Clinical trials are one way to get the newest cancer treatment. They are the best way for doctors to find better ways to treat cancer. If your doctor can find one that’s studying the kind of cancer you have, it’s up to you whether to take part. And if you do sign up for a clinical trial, you can always stop at any time.
+What about other treatments I hear about?
+When you have cancer you may hear about other ways to treat the cancer or treat your symptoms. These may not always be standard medical treatments. These treatments may be vitamins, herbs, special diets, and other things. You may wonder about these treatments.
+Some of these are known to help, but many have not been tested. Some have been shown not to help. A few have even been found to be harmful. Talk to your doctor about anything you’re thinking about using, whether it’s a vitamin, a diet, or anything else.
+Questions to ask the doctor
+
+What treatment do you think is best for me?
+What’s the goal of this treatment? Do you think it could cure the leukemia?
+Should we think about a stem cell transplant? If so, when?
+How long do you think I’ll live?
+What will we do if the treatment doesn’t work or if the leukemia comes back?
+What side effects could I have from treatment?
+What can I do about side effects that I might have?
+Is there a clinical trial that might be right for me?
+What about special vitamins or diets that friends tell me about? How will I know if they are safe?
+How soon do I need to start treatment?
+What should I do to be ready for treatment?
+Is there anything I can do to help the treatment work better?
+What’s the next step?
+
+What will happen after treatment?
+Treatment for ALL for most people lasts about 2 years. Even after treatment ends, you will need frequent follow-up exams – probably every few months for several years. Be sure to go to all of these follow-up visits. Your doctors will ask about symptoms, do physical exams, and order blood tests and maybe other tests to see if your leukemia has come back.
+Having ALL and dealing with treatment can be hard, but it can also be a time to look at your life in new ways. You might be thinking about how to improve your health. Call us at 1-800-227-2345 or talk to your doctor to find out what you can do to feel better.
+You can’t change the fact that you have ALL. What you can change is how you live the rest of your life – making healthy choices and feeling as good as you can.

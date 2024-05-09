@@ -1,0 +1,430 @@
+Gastrointestinal carcinoid tumors are a type of cancer that forms in the lining of the gastrointestinal (GI) tract. Cancer starts when cells begin to grow out of control. To learn more about what cancer is and how it can grow and spread, see What Is Cancer?
+To understand gastrointestinal carcinoid tumors, it helps to know about the gastrointestinal system, as well as the neuroendocrine system.
+The gastrointestinal system
+The gastrointestinal (GI) system, also known as the digestive system, processes food for energy and rids the body of solid waste. After food is chewed and swallowed, it enters the esophagus. This tube carries food through the neck and chest to the stomach. The esophagus joins the stomach just beneath the diaphragm (the breathing muscle under the lungs). The stomach is a sac that holds food and begins the digestive process by secreting gastric juice. The food and gastric juices are mixed into a thick fluid, which then empties into the small intestine.Although the exact number isn’t known, about 8,000 carcinoid tumors and cancers that start in the gastrointestinal tract (the stomach, intestine, appendix, colon, or rectum) are diagnosed each year in the United States. These tumors can also start in the lungs and the pancreas, and a small number develop in other organs.
+The number of carcinoid tumors diagnosed has been increasing for many years. The reason for this is unknown. Some think it may be the result of more medical tests being done to look for something else and finding carcinoid tumors. Since many carcinoids never cause any symptoms, there are probably many people with carcinoid tumors that are never diagnosed. These tumors might only be seen during an autopsy when a person dies of something else, or when someone has surgery or imaging tests for an unrelated condition.
+The most common locations of gastrointestinal (GI) carcinoid tumors are the small intestine and the rectum. Other common sites include , the colon (large intestine), the appendix, and the stomach.
+The average age of people diagnosed with GI carcinoid tumors is early 60s . Carcinoid tumors are more common in African Americans than in White people, and are slightly more common in women than men .Research is always going on in the field of gastrointestinal (GI) carcinoid tumors. Scientists keep looking for the causes of, and new ways to prevent, diagnose, and treat these tumors.
+Genetics
+Researchers hope finding the causes of GI carcinoid tumors can be used to help prevent or treat them in the future. For example, the IPMK gene (the gene associated with a small intestinal neuroendocrine tumor that runs in families) has now been found in people with GI carcinoid tumors who might not have a family history of small intestinal neuroendocrine tumors. Other genetic changes that seem to make tumors more aggressive are now being explored as well.
+Diagnosis and staging
+Because the outlook and treatment of GI carcinoid tumors and other cancers of the digestive tract are very different, accurate diagnosis is important. Tests that can detect specific substances found in the cells of carcinoid tumors are being developed. Most of these tests treat tissue samples with special, man-made antibodies. The antibodies are designed to recognize specific parts of proteins that appear only in certain types of tumors.
+In the past few years, a new imaging test called a Gallium-68 PET/CT Dotatate scan has been approved to look for GI carcinoid tumors in the body. This scan appears to find carcinoid tumors better than the Octreoscan. Researchers are now looking at other imaging methods to see if they can detect carcinoid tumors early.
+Treatment
+Surgery is the main treatment for carcinoid tumors that can be removed. Sometimes, removing the bulk of the carcinoid can also reduce the severity of the carcinoid syndrome. But better approaches are needed when surgery can’t remove all of the tumors. Chemotherapy has had limited success. New chemotherapy drugs and combinations of drugs are being studied, but true advances are likely to come from other approaches.
+Targeted therapy
+Several newer types of drugs, known as targeted therapies, are now being studied for use against neuroendocrine tumors. Targeted therapy are drugs or other substances that identify and attack cancer cells while doing little damage to normal cells. These therapies attack the parts of cancer cells that make them different from normal, healthy cells. Each type of targeted therapy works differently, but all can change the way a cancer cell grows, divides, repairs itself, or interacts with other cells.
+Bevacizumab (Avastin®) is a type of targeted drug that attacks a tumor’s blood supply. It is already being used against some types of cancer and is being studied for carcinoid tumors.
+Other targeted therapies block the molecules that increase the growth of cancer cells. Some of these (such as erlotinib, temsirolimus, and sorafenib) are used in other types of cancer and are now being tested for use against carcinoids.
+Netazepide is new drug that blocks the hormone gastrin. In early studies of patients who have carcinoid tumors of the stomach and high gastrin levels, this drug helped the tumors shrink. More studies are planned.
+Immunotherapy drugs are showing promise in many cancer types. A new immune checkpoint inhibitor, RRx-001, is a next generation immunotherapy drug that affects many parts of the immune system to kill cancer cells and is being studied in people with carcinoid tumors.
+The FDA has approved a newer, more improved radionuclide treatment for patients with advanced, worsening GI carcinoid tumors that have the somatostatin protein. This treatment takes Lu-177-Dotatate (a radioactive substance) which attaches to carcinoid tumors with the somatostatin protein and then releases small doses of radiation to kill the cancer cells.A risk factor is anything that increases your chance of getting a disease such as cancer. Different cancers have different risk factors. Some risk factors, like smoking, can be changed. Others, like a person’s age or family history, can’t be changed. 
+In some cases, there might be a factor that may decrease your risk of developing cancer. That is not considered a risk factor, but you may see them noted clearly on this page as well. 
+But having a risk factor, or even many, does not mean that you will get cancer. And some people who get cancer may not have any known risk factors. Here are some of the risk factors known to increase your risk for GI carcinoid tumors.
+Genetic syndromes
+Multiple endocrine neoplasia, type I
+This is a rare condition caused by inherited defects in the MEN1 gene. People with this syndrome have a very high risk of getting tumors of the pituitary, parathyroid, and pancreas. They also have an increased risk of carcinoid tumors. Some studies estimate that inherited mutations of the MEN1 gene are responsible for about 5% to 10% of carcinoid tumors. Most of these are gastric (stomach) carcinoids. Children have a 50/50 chance of inheriting this syndrome from a parent.
+If you have family members with the MEN1 syndrome, you might want to talk to your doctor about the pros and cons of getting tested for it. Although the gene that causes tumors in people with the MEN1 syndrome has been found, the results of genetic testing are not always clear cut so it is important that the test is done along with genetic counseling to help you make sense of the results.
+Neurofibromatosis type 1
+This disease often runs in families and is characterized by many neurofibromas (benign tumors that form in nerves under the skin and in other parts of the body). It is caused by defects in the NF1 gene. Some people with this condition also develop carcinoid tumors of the small intestines.
+Other genetic syndromes
+Carcinoid tumors are also more common among people with tuberous sclerosis complex, von Hippel Lindau disease and familial small intestinal neuroendocrine tumor.
+
+Tuberous sclerosis complex can be caused by a defect in the TSC1 or TSC2 gene. People with this condition can also develop tumors of the heart, eyes, brain, lungs, and skin.
+People with von Hippel Lindau disease have an inherited tendency to develop blood vessel tumors of the brain, spinal cord, or retina, as well as kidney cancer. It is caused by changes in the VHL gene.
+A newly discovered condition called familial small intestinal neuroendocrine tumor has been found which is caused by a change in the IPMK gene. People with this gene defect have a higher risk of developing carcinoid tumors in the small intestine (bowel).
+
+To find out more on being tested for genetic syndromes, see Genetic Testing: What You Need to Know.
+Race and sex
+Carcinoid tumors are more common among African Americans than whites. Outcomes are also not as good for African Americans. Researchers do not yet know why. Carcinoid tumors are also slightly more common in women than men.
+Other stomach conditions
+People with certain diseases that damage the stomach and reduce the amount of acid it makes (such as atrophic gastritis or Zollinger-Ellison syndrome) have a greater risk of developing stomach carcinoid tumors, but their risk for carcinoid tumors of other organs is not affected.
+Family history of any type of cancer 
+Having a family history of any cancer, specifically in a first-degree relative (sibling, parent, or child), or a family history of a neuroendocrine tumor or carcinoid tumor seems to raise the risk of developing a carcinoid tumor.
+Factors with uncertain or unproven effects
+Smoking
+It is not clear if smoking increases the risk of getting a carcinoid tumor. Further studies are needed.Cancers can be caused by DNA mutations (changes) that turn on oncogenes or turn off tumor suppressor genes. This leads to cells growing out of control. Changes in many different genes are usually needed to cause carcinoid tumors. 
+For more about how genes changes can lead to cancer, see Genes and Cancer.
+Inherited gene ﻿mutations
+Some DNA mutations can be passed on in families and are found in a person's cells. These are inherited (or familial) mutations. A small portion of carcinoid tumors are caused by inherited gene mutations.
+Changes in 4 tumor suppressor genes are responsible for many inherited cases of carcinoid tumors.
+
+MEN1 (multiple neuroendocrine neoplasia 1). Changes in this gene account for most inherited cases. A smaller number are caused by inherited changes in the following genes:
+NF1 (Neurofibromatosis type 1) gene
+VHL (Von Hippel–Lindau) gene
+TSC1 or TSC2 (tuberous sclerosis complex 1 or 2) genes
+
+Most carcinoid tumors are caused by sporadic changes (mutations) in oncogenes or tumor suppressor genes. Mutations are called sporadic if they occur after a person is born, rather than having been inherited.Because carcinoid tumors usually start out very small and grow and spread slowly, about half of all gastrointestinal carcinoid tumors are found in an early or localized stage, often before they cause any problems.
+Carcinoid tumors often are found by accident. These tumors aren’t causing any symptoms but are found when tests are done for other reasons or diseases. They may also be found when parts of the gastrointestinal system are removed to treat other diseases. When patients have parts of their stomach or small intestine removed to treat other diseases, taking a close look in the microscope often shows small groups of neuroendocrine cells that look like tiny carcinoid tumors. Researchers still do not know why some tumors stay small, but others grow large enough to cause symptoms.
+For example, a person with stomach pain or bleeding may have a test called an upper endoscopy to look for an ulcer. In this test, the doctor looks at the stomach lining through a flexible lighted tube. During this test, the doctor might notice a small bump in the stomach wall that turns out to be a carcinoid tumor.
+Sometimes during colorectal cancer screening, a routine sigmoidoscopy, or colonoscopy (looking at the large bowel through a flexible lighted tube) will incidentally find a small carcinoid tumor.
+Sometimes when the appendix is removed (to treat appendicitis or as part of a larger operation), a small carcinoid tumor is found at the tip. This happens in about 1 of every 300 people who have appendix surgery. Most of these carcinoids were too small to have caused any symptoms.Most gastrointestinal (GI) carcinoids grow slowly. If they do cause symptoms, they tend to be vague. When trying to figure out what’s going on, doctors and patients are likely to explore other, more common possible causes first. This can delay a diagnosis, sometimes even for several years. But some do cause symptoms that lead to their diagnosis.Certain signs and symptoms might suggest that a person could have a gastrointestinal (GI) carcinoid tumor, but tests are needed to confirm the diagnosis.
+Medical history and physical exam
+You will be asked questions about your general health, lifestyle habits, symptoms, and risk factors. The doctor also will probably ask about symptoms that could be caused by carcinoid syndrome, as well as those that might be caused by a mass (tumor) in the stomach, intestines, or rectum.
+Some patients with carcinoid tumors also have cancers or benign tumors of other organs, so doctors may ask about symptoms that might suggest other tumors are present. A thorough physical exam will provide information about signs of carcinoid tumors and other health problems. The doctor may pay special attention to the abdomen, looking for a tumor mass or enlarged liver.
+If your medical history and physical exam give the doctor reason to suspect you might have a GI carcinoid, some tests will be ordered to find out if the disease is present. These might include imaging tests, lab tests, and other procedures.
+Imaging tests
+Barium x-ray
+These tests use a barium-containing solution that coats the lining of the esophagus, stomach, and intestines. The coating of barium helps show abnormalities of the lining of these organs. Barium studies can be used to examine the upper or lower parts of the digestive system. This type of study is often useful in diagnosing some GI carcinoid tumors, but is least effective in finding those in the small intestine.
+Barium swallow: This test is used to examine the lining of the esophagus. The patient drinks a barium solution that coats the lining of the esophagus, then x-ray pictures are taken.
+Upper GI series with small bowel follow-through: This test is used to examine the lining of the stomach and the first part of the small intestine.
+Enteroclysis: This is another way to look at the small intestine. A thin tube is passed through the mouth or nose down through the stomach to the start of the small intestine. Barium contrast is sent through the tube, along with a substance that creates more air in the intestines, causing them to expand. X-rays of the intestines are then taken. This test may be quicker and give clearer images of the small intestine than a small bowel follow-through, but the use of a tube to give the barium makes it more uncomfortable.
+Barium enema: This test is used to look at the inner surface of the colon and rectum.
+Barium x-rays are used less these days than in the past. In many cases, they are being replaced by endoscopy, where the doctor looks into the esophagus, stomach, or colon with a narrow fiber optic scope.
+Computed tomography (CT) scan
+A CT scan is most often used to look at the chest and/or belly (abdomen) to see if GI neuroendocrine (carcinoid) tumors have spread to nearby lymph nodes or other organs such as the liver. It can also be used to guide a biopsy needle into an area of concern..
+Magnetic resonance imaging (MRI) scan
+MRI scans sometimes can see cancer spread to the liver better than a CT scan. 
+Sometimes MRI is used to look at blood vessels in the liver. This requires IV contrast and is known as MR angiography (MRA).
+Radionuclide scans
+Scans using small amounts of radioactivity and special cameras can be helpful in looking for GI carcinoid tumors. They can help find tumors or look for areas of cancer spread if doctors aren’t sure where it is in the body.
+Positron emission tomography (PET) scan: For most types of cancer, PET scans use a form of radioactive glucose (sugar) to find tumors. This type of PET scan is useful in finding high-grade (grade 3) carcinoid tumors, but a newer type of PET scan, called a Gallium-68 PET/CT Dotatate scan is being used for low (grade 1) or intermediate-grade (grade 2) GI carcinoid tumors. It uses the radioactive agent gallium-68 dotatate which attaches to the somatostatin protein on carcinoid cells.
+A special camera can detect the radioactivity. The gallium-68 PET/CT scan is slowly becoming more widely available since it was approved by the FDA in 2016 and is able to find carcinoid tumors better than an Octreoscan (described below).
+Another radioactive agent, copper Cu-64 dotatate, also attaches to the somatostatin protein, and was approved in 2020 for use with a PET scan in people with a GI carcinoid tumor.    
+Octreoscan (somatostatin receptor scintigraphy): This test uses a drug called octreotide joined to a radioactive drug. Octreotide is a hormone-like substance that attaches to GI carcinoid cells. A small amount is injected into a vein and it travels through the blood where it attaches to GI carcinoid tumors. A few hours after the injection, a special camera can be used to show where the radioactivity has collected in the body. More scans may be done over the next few days as well. Along with showing where tumors are located, this test can help tell whether treatment with certain drugs such as octreotide and lanreotide is likely to be helpful. This test is most helpful for grade 1 and 2 GI carcinoid tumors. 
+I-131 MIBG scan: This is test is used much less often to find GI carcinoid tumors. It uses a chemical called MIBG that is attached to radioactive iodine (I-131). This substance is injected into a vein, and the body is scanned several hours or days later with a special camera to look for areas that picked up the radioactivity. These would most likely be GI carcinoid tumors, but other kinds of neuroendocrine tumors can also pick up this chemical.
+Endoscopy
+Endoscopy tests use a flexible lighted tube (endoscope) with a video camera on the end. The camera is connected to a monitor, which lets the doctor see any abnormal areas in the lining of the digestive organs clearly. If needed, small pieces of the abnormal areas can be removed (biopsied) through the endoscope. The biopsy samples can be looked at in the lab to find out if cancer is present and what kind of cancer it is.
+Upper endoscopy
+This test is also known as esophagogastroduodenoscopy or EGD. An endoscope is passed down through the mouth to look at the esophagus, stomach, and first part of the small bowel.
+An upper endoscopy may be done in a hospital outpatient department, clinic, or doctor’s office. It usually takes 15 to 30 minutes, and most patients are given medicine in a vein to make them feel relaxed and sleepy. If you are sedated for the procedure, you will need someone to take you home.
+Colonoscopy
+A colonoscopy is also called lower endoscopy. It uses a special endoscope known as a colonoscope which is inserted through the anus into the colon. The doctor will be able to see the lining of the entire rectum and colon. For a clear view though, the colon must be completely cleaned out before the test. There are different ways to do this, but the most common is drinking a large amount of a laxative solution the night before and the morning of the exam.
+You will be given intravenous medicine to make you feel relaxed and sleepy during the procedure. Colonoscopy can be done in a hospital outpatient department, clinic, or doctor's office. It usually takes 15 to 30 minutes, although it may take longer if a tumor is seen and/or a biopsy is taken. Because you will be sedated for the procedure, you will need someone you know to take you home afterward.
+Flexible sigmoidoscopy
+Flexible sigmoidoscopy is similar to a colonoscopy and can be used to look for a rectal tumor and some tumors in the lower part of the colon. This test uses a shorter, flexible, hollow tube, with a light on the end of it that is also inserted through the anus up into the colon.
+Capsule endoscopy
+Unfortunately, neither an upper nor lower endoscopy can reach all areas of the small intestine, where many NETs begin. A device known as a capsule endoscopy may help in some cases.
+This test doesn’t really use an endoscope. Instead, the patient swallows a capsule (about the size of a large vitamin pill) that contains a light source and a tiny camera. Like any other pill, the capsule goes through the stomach and into the small intestine. As it travels (usually over about 8 hours), it takes thousands of pictures. These images are transmitted electronically to a device worn around the person’s waist, while they go on with normal daily activities. The pictures can then be downloaded onto a computer, where the doctor can watch them as a video. The capsule passes out of the body during a normal bowel movement and is discarded.
+Double balloon enteroscopy
+This is another way to look at the small intestine. The small intestine is very long (20 feet [6 meters]) and has too many curves to be examined well with regular endoscopy. This method gets around these problems by using a special endoscope that is made up of 2 tubes, one inside the other. First the inner tube, which is an endoscope, goes forward about a foot, and then a balloon at its end is inflated to anchor it. Then the outer tube goes forward to near the end of the inner tube and it is then anchored in place with a balloon. This process is repeated over and over, letting the doctor see the intestine a foot (30 centimeters) at a time.
+This procedure is done after the patient is given drugs to make them sleepy and may be even done under general anesthesia (where the patient is asleep). The main advantage of this test over capsule endoscopy is that the doctor can take a biopsy if something abnormal is seen. As with other tests that are done under sedation, you will need someone to take you home after this procedure.
+Endoscopic ultrasound (EUS)
+This test uses an endoscope with a small ultrasound probe on the end. This probe releases sound waves and then uses the echoes that bounce back to create images of the digestive tract wall (or nearby lymph nodes). Putting the ultrasound probe on the end of an endoscope lets it get very close to a tumor. Because the probe is close to the area being looked at, it can make very detailed pictures.
+EUS can be used to see how deeply a tumor has grown into the wall of the esophagus, stomach, intestine, or rectum. It can also help see if certain lymph nodes are enlarged and help a doctor guide a needle into a lymph node, tumor, or other suspicious area to do a biopsy. You will be sedated for this test, so you will need someone to take you home.
+Biopsy
+In many cases, the only way to know for sure if a person has some type of GI carcinoid tumor is to remove cells from the tumor and look at them in the lab. This procedure is called a biopsy.
+There are several ways to take a sample from a GI tumor. One way is through the endoscope. When a tumor is found, the doctor can use biopsy forceps (tweezers or tongs) through the tube to take a small sample of it. Another way to sample a tumor is with a CT-guided needle biopsy.
+Bleeding after a biopsy of a GI carcinoid is a rare but potentially serious problem. If serious bleeding occurs, doctors can sometimes inject drugs into the tumor to constrict blood vessels and slow or stop bleeding.
+In rare cases, an endoscopic biopsy or a CT-guided needle biopsy will not be able to get enough tissue to identify the type of tumor. This is sometimes the case with tumors in the small intestine. In such cases, surgery may be needed to remove a tissue sample.
+You can read more about biopsies and how they are tested in  Biopsy and Cytology Tests .
+Blood and urine tests
+Blood and urine tests can be very helpful in diagnosing carcinoid syndrome in patients who have symptoms that might be caused by it.
+Many GI carcinoid tumors, especially those in the small intestine, make serotonin (also called 5-HT). It is probably the cause of at least some of the symptoms of carcinoid syndrome. The body breaks it down into 5-hydroxyindoleactic acid (5-HIAA), which is released into the urine. A common test to look for carcinoid syndrome measures the levels of 5-HIAA in a urine sample collected over 24 hours. These tests can help diagnose many (but not all) carcinoid tumors. Sometimes, the tumors are small and don’t release enough serotonin for a positive test result.
+Some foods, including bananas, plantains, kiwi fruit, certain nuts, avocado, tomatoes, and eggplant, contain a lot of serotonin and can raise 5-HIAA levels in the urine. Medicines, including cough syrup and acetaminophen (Tylenol), can also affect the results. Ask your doctor what you should avoid before having urine or blood tests for carcinoid syndrome.
+Other common tests to look for carcinoids include blood tests for chromogranin A (CgA) and gastrin. Medicines that lower stomach acid called proton-pump inhibitors (such as omeprazole/Prilosec, lansoprazole/Prevacid, esomeprazole/Nexium, and many others) can make CgA and gastrin levels high even when carcinoid tumors aren’t present. If you take any of these medicines, talk to your doctor about what you need to avoid before having these blood tests. Depending on the tumor’s location and your symptoms, your doctor might do other blood tests as well.
+Some of these tests can also be used to show how well treatment is working, since the levels of these substances tend to go down as tumors shrink.After someone is diagnosed with a gastrointestinal (GI) carcinoid tumor, doctors will try to figure out if it has spread, and if so, how far. This process is called staging. The stage of cancer describes how much cancer is in the body. It helps determine how serious the cancer is and how best to treat it. Doctors also use a cancer's stage when talking about survival statistics.
+How is the stage determined?
+GI carcinoid tumors are typically given a clinical stage based on the results of any exams, biopsies, and imaging tests that might have been done (as described in Tests for Gastrointestinal Carcinoid Tumors. If surgery has been done, the pathologic stage (also called the surgical stage) can also be determined.
+GI carcinoid tumors typically start in the inner lining of the wall of the GI tract. As they grow, they can spread into deeper layers of the GI tract. For most of the GI tract, these layers include: 
+
+Mucosa: This is the innermost layer. It has 3 parts: the top layer of cells (the epithelium), a thin layer of connective tissue (the lamina propria), and a thin layer of muscle (the muscularis mucosa).
+Submucosa: This is the fibrous tissue that lies beneath the mucosa.
+Thick muscle layer (muscularis propria): This layer of muscle contracts to force the food along the GI tract.
+Subserosa and serosa: These are the thin outermost layers of connective tissue that cover the GI tract. The serosa is also known as the visceral peritoneum.Survival rates can give you an idea of what percentage of people with the same type and stage of cancer are still alive a certain amount of time (usually 5 years) after they were diagnosed. They can’t tell you how long you will live, but they may help give you a better understanding of how likely it is that your treatment will be successful.
+Keep in mind that survival rates are estimates and are often based on previous outcomes of large numbers of people who had a specific cancer, but they can’t predict what will happen in any particular person’s case. These statistics can be confusing and may lead you to have more questions. Ask your doctor how these numbers might apply to you.
+What is a 5-year relative survival rate?
+A relative survival rate compares people with the same type and stage of gastrointestinal (GI) carcinoid tumor to people in the overall population. For example, if the 5-year relative survival rate for a specific stage of GI carcinoid tumor is 90%, it means that people who have that cancer are, on average, about 90% as likely as people who don’t have that cancer to live for at least 5 years after being diagnosed.
+Where do these numbers come from?
+The American Cancer Society relies on information from the Surveillance, Epidemiology, and End Results (SEER) database, maintained by the National Cancer Institute (NCI), to provide survival statistics for different types of cancer.
+The SEER database tracks 5-year relative survival rates for GI carcinoid tumors in the United States, based on how far the cancer has spread. The SEER database, however, does not group cancers by AJCC TNM stages (stage 1, stage 2, stage 3, etc.). Instead, it groups cancers into localized, regional, and distant stages:
+
+Localized: The cancer has not spread beyond the wall of the organ it started in (for example, the stomach, small intestine, or rectum).
+Regional: The cancer has either spread to nearby lymph nodes, or it has grown through the wall of the organ where it started and into nearby tissues such as fat, ligaments, and muscle (or both).
+Distant: The cancer has spread to distant parts of the body such as the lungs, liver or bones.
+
+
+
+5-year relative survival rates for GI carcinoid tumors
+(These numbers are based on people diagnosed with grade 1 or 2 GI carcinoid tumors [stomach, small intestine, colon, appendix, cecum and rectum] between 2012 and 2018.)
+
+
+
+SEER* Stage 
+5-Year Relative Survival Rate
+
+
+Localized
+97%
+
+
+Regional
+96%
+
+
+Distant
+68%
+
+
+All SEER stages combined
+94%
+
+
+
+*SEER= Surveillance, Epidemiology, and End Results
+Understanding the numbers
+
+These numbers apply only to the stage of the cancer when it is first diagnosed. They do not apply later on if the cancer grows, spreads, or comes back after treatment.
+These numbers don’t take everything into account. Survival rates are grouped based on how far the cancer has spread, but your age, organ the tumor started in, overall health, how well the cancer responds to treatment, and other factors can also affect your outlook.
+People now being diagnosed with a GI carcinoid tumor may have a better outlook than these numbers show. Treatments improve over time, and these numbers are based on people who were diagnosed and treated at least five years earlier.It is important to have honest, open discussions with your cancer care team. They want to answer all of your questions, so that you can make informed treatment and life decisions. For instance, consider these questions:
+When you’re told you have a gastrointestinal carcinoid tumor
+
+Where is the cancer located?
+Has the cancer spread beyond where it started?
+What is the cancer’s stage (extent), and what does that mean?
+Will I need other tests before we can decide on treatment?
+Will I need to see any other doctors or health professionals?
+If I’m concerned about the costs and insurance coverage for my diagnosis and treatment, who can help me?
+
+When deciding on a treatment plan
+
+What are my treatment options?
+What do you recommend and why?
+How much experience do you have treating this type of cancer?
+Should I get a second opinion? How do I do that? Can you recommend someone?
+What would the goal of the treatment be?
+How quickly do we need to decide on treatment?
+What should I do to be ready for treatment?
+How long will treatment last? What will it be like? Where will it be done?
+What risks or side effects are there to the treatments you suggest? Are there things I can do to reduce these side effects?
+How might treatment affect my daily activities? Can I still work full time?
+What are the chances the cancer will recur (come back) with these treatment plans?
+What will we do if the treatment doesn’t work or if the cancer recurs?
+What if I have transportation problems getting to and from treatment? 
+
+During treatment
+Once treatment begins, you’ll need to know what to expect and what to look for. Not all of these questions may apply to you, but asking the ones that do may be helpful.
+
+How will we know if the treatment is working?
+Is there anything I can do to help manage side effects?
+What symptoms or side effects should I tell you about right away?
+How can I reach you on nights, holidays, or weekends?
+Do I need to change what I eat during treatment?
+Are there any limits on what I can do?
+Can I exercise during treatment? If so, what kind should I do, and how often?
+Can you suggest a mental health professional I can see if I start to feel overwhelmed, depressed, or distressed?
+What if I need social support during treatment because my family lives far away?
+
+After treatment
+
+Do I need a special diet after treatment?
+Are there any limits on what I can do?
+What other symptoms should I watch for?
+What kind of exercise should I do now?
+What type of follow-up will I need after treatment?
+How often will I need to have follow-up exams and imaging tests?
+Will I need any blood tests?
+How will we know if the cancer has come back? What should I watch for?
+What will my options be if the cancer comes back?
+
+Along with these sample questions, you might write down some of your own. For instance, you might want more information about recovery times. Or you might want to ask if you qualify for any clinical trials.
+Keep in mind that doctors aren’t the only ones who can give you information. Other health care professionals, such as nurses and social workers, can answer some of your questions. To find out more about speaking with your health care team, see The Doctor-Patient Relationship.Many gastrointestinal (GI) carcinoid) tumors can be cured by surgery alone. The type of operation will depend on a number of factors, including the size and location of the tumor, whether the person has any other serious diseases, and whether the tumor is causing the carcinoid syndrome.
+Surgeons often try to cure localized carcinoid tumors by removing them completely, which is usually successful.
+The options for GI carcinoid tumors that have spread to nearby tissues or to distant parts of the body are more complex. Because most carcinoid tumors grow slowly and some do not cause any symptoms, completely removing all metastatic carcinoid tumors may not always be needed. But in some patients, surgery to remove all visible cancer is the best option. This is particularly true if removing most of the cancer will reduce the level of hormone-like substances causing symptoms.
+Several types of operations can be used to treat GI carcinoid tumors. Some of these remove the primary tumor (where the cancer started), while others remove or destroy cancer that has spread (metastasized) to other organs.
+Endoscopic mucosal resection
+In this procedure, the cancer is removed through an endoscope. This is most often used to treat small carcinoid tumors of the stomach and duodenum (the first part of the small intestine) and it also can be used to remove small carcinoid tumors of the rectum.
+Local excision
+This operation removes the primary tumor and some normal tissue around it. The edges of the defect are then sewn together. This usually doesn’t cause any prolonged problems with eating or bowel movements. This operation may be done for small carcinoid tumors (no larger than 2 cm, or a little less than an inch).
+Carcinoid tumors are sometimes removed during an operation being done for some other reason. This often happens with carcinoid tumors of the appendix. When the appendix is removed (for some other reason), it is examined after surgery, and sometimes a carcinoid tumor is found. Most doctors believe that if the tumor is small — 2 cm or less — removing the appendix (appendectomy) is curative and no other surgery is needed. If the tumor is larger than 2 cm, more surgery may be needed.
+Rectal carcinoid tumors may be taken out through the anus, without cutting the skin. Other GI carcinoid tumors can sometimes be locally excised through an endoscope but usually it is done through an incision (cut) in the skin.
+More extensive surgeries
+A larger incision (cut) is needed to remove a larger tumor along with nearby tissues. This also gives the surgeon the chance to see if the tumor has grown into other tissues in the abdomen (belly). If it has, the surgeon may be able to remove the areas of cancer spread.
+Partial gastrectomy: In this operation, part of the stomach is removed. If the upper part is removed, sometimes part of the esophagus is removed as well. If the lower part of the stomach is removed, sometimes the first part of the small intestine (the duodenum) is also taken. Nearby lymph nodes are also removed. This operation is also known as a subtotal gastrectomy.
+Small bowel (intestine) resection: This is an operation to remove a piece of the small intestine (also called the small bowel). When it is used to treat a small bowel carcinoid, this surgery includes removing the tumor and some of the small bowel around it (called a wide margin resection). It will also remove nearby (regional) lymph nodes and the supporting connective tissue (called the mesentery) that contains lymph nodes and vessels that carry blood to and from the intestine. Tumors in the terminal ileum (the last part of the small bowel) may require removing the right side of the colon (hemicolectomy).
+Pancreaticoduodenectomy (Whipple procedure): This operation is most often used to treat pancreatic cancer, but it is also used to treat cancers of the duodenum (the first part of the small intestine). It removes the duodenum, part of the pancreas, nearby lymph nodes and part of the stomach. The gallbladder and part of the common bile duct are removed and the remaining bile duct is attached to the small intestine so that bile from the liver can continue to enter the small intestine. This is a complex operation that requires a lot of skill and experience. It carries a relatively high risk of complications that could even be fatal.
+Segmental colon resection or hemicolectomy: This operation removes between one-third and one-half of the colon, as well as the nearby layers of tissue that hold and connect the intestines ( the mesentery), which includes blood vessels and lymph nodes.
+Low anterior resection: This operation can be used for some tumors in the upper part of the rectum. It removes some of the rectum and the remaining ends are sewn together. This does not have much effect on digestive function.
+Abdominoperineal (AP) resection: This surgery is done for large or very invasive cancers in the lower part of the rectum. It removes the anus, rectum, and lower part of the colon. After this operation, the end of the colon is connected to an opening on the skin on the abdomen (called a colostomy). A bag attached over this opening collects stool (feces) as it leaves the body. (For more information, see Colostomy Guide).
+Surgery and other procedures for carcinoid tumors that have spread to the liver
+If the cancer spreads to the liver, treating the tumors in the liver may help with symptoms. When there are only 1 or 2 tumors in the liver, they may be removed with surgery. If there are more than just a few liver tumors (or if a person is too sick for surgery), other techniques may be used.
+Liver resection
+In this operation, one or more pieces of the liver that contain areas of cancer are removed. If it isn’t possible to remove all areas of cancer, surgery may still be done to remove as much tumor as possible to help reduce symptoms of carcinoid syndrome. This is sometimes called cytoreductive surgery. Removing liver metastases may help some people with carcinoid tumors live longer, but most people who have this surgery will eventually develop new liver metastases.
+Ablation
+Ablation techniques destroy tumors without removing them. They are generally best for tumors no more than about 2 cm (a little less than an inch) across.
+Radiofrequency ablation (RFA) uses high-energy radio waves for treatment. A thin, needle-like probe is placed through the skin and into the tumor. Placement of the probe is guided by ultrasound or CT scans. The tip of the probe releases a high-frequency current that heats the tumor and destroys the cancer cells.
+Ethanol (alcohol) ablation (also known as percutaneous ethanol injection) kills the cancer cells by injecting concentrated alcohol directly into the tumor. This is usually done through the skin using a needle guided by ultrasound or CT scans.
+Microwave thermotherapy
+Uses microwaves to heat and destroy the cancer cells.
+Cryosurgery (cryotherapy)
+Cryotherapy destroys a tumor by freezing it with a metal probe. The probe is guided through the skin and into the tumor using ultrasound. Then very cold gasses are passed through the probe to freeze the tumor, killing the cancer cells. This method may be used to treat larger tumors compared to the other ablation techniques, but it sometimes requires general anesthesia (where you are asleep).
+Embolization
+Intra-arterial therapy and chemoembolization (also known as transarterial embolization or TAE): This is another option for tumors that can’t be removed completely. It can be used for larger tumors (up to about 5 cm or 2 inches across). This technique reduces the blood flow to the cancer cells by blocking the branch of the hepatic artery feeding the area of the liver containing the tumor. Blood flow is blocked (or reduced) by injecting materials that plug up the artery. Most of the healthy liver cells will not be affected because they get their blood supply from a different blood vessel, the portal vein.
+In this procedure a thin, flexible catheter is put into an artery in the inner thigh and threaded up into the liver. A dye is then injected into the bloodstream to allow the doctor to monitor the path of the catheter via angiography, a special type of x-ray. Once the catheter is in place, small particles are injected into the artery to plug it up.
+Chemoembolization (also known as trans-arterial chemoembolization or TACE): This procedure combines embolization with chemotherapy. Most often, this is done by using tiny beads that release a chemotherapy drug during the embolization. TACE can also be done by giving chemotherapy through a thin catheter directly into the artery, then plugging up the artery.
+Radioembolization: In the United States, this is done by injecting small radioactive beads into the hepatic artery. The beads travel to the tumor and give off small amounts of radiation only at the tumor sites.Chemotherapy (chemo) uses anti-cancer drugs that are injected into a vein or a muscle or taken by mouth to kill cancer cells. These drugs enter the blood and reach almost all areas of the body, making this treatment useful for some types of cancers that have spread.
+Unfortunately, gastrointestinal (GI) carcinoid tumors often do not respond well to chemo. Because of this, chemo generally is used only for tumors that have spread to other organs, are causing severe symptoms, have not responded to other medicines or are high grade (grade 3).
+Some of the chemo drugs used to treat GI carcinoid tumors include:
+
+Capecitabine (Xeloda)
+5-fluorouracil (5-FU)
+Doxorubicin (Adriamycin)
+Etoposide (VP-16)
+Dacarbazine (DTIC)
+Streptozocin
+Temozolomide
+Oxaliplatin
+
+Some tumors, especially high-grade tumors, may be treated with more than one drug. For these, combinations of 5-FU plus streptozocin, 5-FU plus doxorubicin or oxaliplatin plus capecitabine may be used.
+Doctors give chemo in cycles, with each period of treatment followed by a rest period to allow the body time to recover. Chemo cycles generally last about 3 to 4 weeks, and initial treatment is typically 4 to 6 cycles.
+Possible side effects of chemotherapy
+Chemo drugs damage cells that are dividing quickly, which is why they can work against cancer cells. But other cells in the body, such as those in the bone marrow (where new blood cells are made), the lining of the mouth and intestines, and the hair follicles, also divide quickly. These cells are also likely to be affected by chemo, which can lead to side effects.
+The side effects of chemo depend on the type and dose of drugs given and the length of time they are taken. Common side effects can include:
+
+Nausea and vomiting
+Loss of appetite
+Hair loss
+Mouth sores
+Diarrhea or constipation
+Increased chance of infections  (from having too few white blood cells)
+Easy bruising or bleeding (from having too few blood platelets
+Fatigue (from having too few red blood cells)
+
+Most side effects go away a short time after treatment is finished. Often medicines can help prevent or minimize many of the side effects. For example, your doctor can prescribe drugs to help prevent or reduce nausea and vomiting.
+You should tell your medical team about any side effects or changes you notice while getting chemotherapy, so that they can be treated promptly. In some cases, the doses of the chemo drugs may need to be reduced or treatment may need to be delayed or stopped to keep the effects from worsening.
+For more information on chemo, see Chemotherapy. 
+Other drugs used for treating gastrointestinal carcinoid tumors
+For people with metastatic GI carcinoid tumors, several medicines can help control symptoms and tumor growth.
+Somatostatin analogs
+These drugs are related to somatostatin, a natural hormone that seems to help slow the growth of neuroendocrine cells. They are especially useful in people who have carcinoid syndrome (facial flushing, diarrhea, wheezing, rapid heart rate) and in people whose tumors show up on a somatostatin receptor scintigraphy (SRS) scan or gallium-68 Dotatate scans. 
+Octreotide: This drug is helpful in treating the symptoms of carcinoid syndrome. Sometimes octreotide can temporarily shrink carcinoid tumors, but it does not cure them.
+The original version of octreotide (Sandostatin®) is injected under the skin (subcutaneously) at least twice daily. Some people learn to give this injection themselves at home. A long-acting version of the drug (Sandostatin LAR®) is injected into a muscle once a month by your doctor or nurse. Depending on the severity of symptoms, some people are given injections every day when first starting treatment. Once the doctor finds the correct dose, the longer-acting monthly injection may then be used.
+Side effects can include pain or burning at the injection site, stomach cramps, nausea, vomiting, headaches, dizziness, and fatigue.
+Lanreotide(Somatuline®): This drug is similar to octreotide. It is injected under the skin once a month. It may be given by your doctor or nurse, or you may learn how to give the injection at home. Side effects are similar to those of octreotide, although pain at the injection site is less common. 
+Telotristat (Xermelo™): This drug is used along with a somatostatin analog (octreotide or lanreotide) to help control carcinoid syndrome diarrhea. It is given by mouth as a pill and common side effects can include fever, poor appetite, headache, nausea, and swelling of the hands or feet
+Targeted drugs
+Anti-cancer drugs that work differently from standard chemotherapy drugs have been developed for some types of cancer. These drugs target specific parts of cancer cells. They are sometimes helpful when chemotherapy is not. They often have different side effects.
+The targeted drug, everolimus (Afinitor®), has been shown to help treat advanced GI carcinoid tumors. It can be used with or without somatostatin drugs, such as octreotide. Common side effects include diarrhea, fatigue, rash, mouth sores and swelling of the legs or arms.
+Interferons
+Interferons are natural substances that normally activate the body's immune system. They also slow the growth of some tumor cells. Interferon-alfa is sometimes helpful in shrinking or slowing the growth of metastatic GI carcinoid tumors and improving symptoms of carcinoid syndrome. Often, the drug's usefulness is limited by its flu-like side effects, which may be severe. The drug is given by injection.Radiation therapy is the use of high-energy rays (such as x-rays) or radioactive particles to kill cancer cells.
+Although surgery is the main treatment for most carcinoid tumors, radiation therapy may be an option for those who can’t have surgery for some reason. It may also be given after surgery in some cases if there’s a chance some of the tumor was not removed. Radiation therapy can also be used to help relieve symptoms such as pain if the cancer has spread to the bones or other areas.
+External beam radiation therapy (EBRT)
+External beam radiation therapy uses a machine to deliver a beam of radiation to a specific part of the body. This type of radiation is used most often to treat cancer.
+Side effects of gastrointestinal (GI) radiation therapy
+The main side effects of GI radiation therapy are:
+
+Tiredness (fatigue)
+Nausea and vomiting
+Diarrhea (if the belly or pelvis is treated)
+Skin changes, which can range from mild redness to blistering and peeling
+Hair loss in the area being treated
+
+Procedures using radioactive drugs
+Radioembolization
+This technique combines embolization with radiation therapy and is used to treat liver metastases.
+Embolization is a procedure that injects substances to try to block or reduce the blood flow to cancer cells in the liver. The liver is unusual in that it has 2 blood supplies. Most normal liver cells are fed by the portal vein, whereas cancer cells in the liver are usually fed by the hepatic artery. Blocking the branch of the hepatic artery feeding the tumor helps kill off the cancer cells, but it leaves most of the healthy liver cells unharmed because they get their blood supply from the portal vein.
+In this procedure, a catheter (a thin, flexible tube) is put into an artery through a small cut in the inner thigh and eased up into the hepatic artery in the liver. A dye is injected into the blood at the same time to allow the doctor to monitor the path of the catheter via angiography, a special type of x-ray. Once the catheter is in place, small particles called microspheres are injected into the artery to plug it up.
+In radioembolization, microspheres (small beads) that are attached to a radioactive element called yttrium-90 (or 90Y) are used. After they are injected, the beads travel in the liver blood vessels until they get stuck in small blood vessels near the tumor. There they give off radioactivity for a short while, killing nearby tumor cells. The radiation travels a very short distance, so its effects are limited mainly to the tumor.
+Peptide receptor radionuclide therapy (PRRT)
+In this form of radiation therapy, a drug is linked to a radioactive element. The drug travels throughout the body, attaches to the cancer cells, and gives off radiation to kill them. It is given through a vein and not directly into the liver like radioembolization. 
+One option is to use somatostatin analog drugs like octreotide or lanreotide linked with a radioactive form of the element yttrium-90. Another option uses a different radioactive element, called lutetium (Lu-177), that is carried to the cancer cells by dotatate where it attaches to carcinoid tumor cells. These injectable therapies let doctors deliver high doses of radiation directly to the tumors. 
+For adults and pediatric patients 12 years and older with somatostatin (a type of hormone) receptor-positive GI carcinoid tumors, a radioactive drug, called Lutathera (lutetium Lu- 177 dotatate), can be used for treatment. Lu-177 dotatate,a radiopharmaceutical, works by attaching to the somatostatin receptor (protein), which is part of the cancer cell, allowing radiation to enter the cell and cause damage. If you are taking octreotide or lanreotide, you will most likely be asked to stop taking these medicines before Lu-177 dotatate is given.
+Common side effects of Lu-177 dotatate include low levels of white blood cells, high levels of enzymes in certain organs, nausea and vomiting, high levels of blood sugar, and low levels of potassium in the blood.
+Serious side effects of Lu-177 dotatate include low levels of blood cells, development of certain blood or bone marrow cancers, kidney damage, liver damage, abnormal levels of hormones in the body, and infertility. Women who are pregnant or might become pregnant should be advised that Lu-177 dotatate can cause harm to a developing fetus.
+Lu-177 dotatate is given intravenously and does expose those taking it and possibly others around them to radiation. Family members should know how to protect themselves from being exposed to the radiation.Treatment of GI carcinoid tumors is based mostly on their size or how far they have grown into the wall of the organ where they started, as well as if they have spread.
+Localized GI carcinoid tumors
+A tumor is localized when it has not spread outside the organ where it started.
+Stomach
+Carcinoid) tumors of the stomach are generally grouped by:
+
+The level of a hormone called gastrin and
+The amount of acid in the stomach (measured before surgery).
+
+The levels of these substances determine the type of stomach carcinoid tumor.
+Type 1: Patients with this type have high gastrin levels but low levels of stomach acid. These carcinoid tumors tend to be small, but there may be many of them. The tumors don’t tend to grow into the deeper layers of the stomach or spread to other organs or tissues, and are often treated by removing them completely through an endoscope. The other option is to watch the tumors closely (by endoscopy), and only removing them if they start growing.
+Type 2: Patients with this type have high gastrin levels and high stomach acid levels. Like type 1, these tumors are often small and there may be more than one at a time. Type 2 tumors also don’t tend to grow into deeper layers of the stomach or spread to other organs.
+Small tumors can be watched closely without treatment, removed with endoscopy, or treated with a medicine like octreotide or lanreotide that will lower levels of both gastrin and stomach acid. High doses of proton pump inhibitors, such as omeprazole or lansoprazole, may also be used to control the stomach acid. For tumors larger than 2 cm (slightly less than an inch), just watching the tumor closely isn’t usually an option. These tumors need to be removed, either through an endoscope or in a regular operation through an incision in the abdomen that removes the tumor and some surrounding stomach tissue.
+Type 3: Patients with type 3 tumors have normal levels of gastrin and stomach acid. There is usually only one tumor, and the tumor tends to grow into deeper layers of the stomach or even spread to nearby lymph nodes or other organs (like the liver). If the tumor is small, endoscopic surgery may still be an option. More, often, though, more extensive surgery  with a partial gastrectomy (a piece of the stomach is removed) and removal of nearby lymph nodes is needed.
+Small intestine
+Some small tumors in the duodenum (the first part of the small intestine) can often be removed through the endoscope (endoscopic resection). Depending on the size of the tumor and whether it is growing into nearby tissues, other options include surgery to remove the tumor (local excision), removing all or part of the duodenum with nearby lymph nodes, and removing the duodenum and part of the pancreas (a pancreatoduodenectomy).
+For tumors in other parts of the small intestine, treatment is either local excision for small tumors or small bowel resection (removal of a piece of intestine as well as some surrounding blood vessels and lymph nodes) for larger tumors.
+Large intestine (other than appendix and rectum)
+The usual treatment is hemicolectomy (removal of a section of colon along with nearby lymph nodes and blood vessels). Because many patients have more than one carcinoid tumor, the surgeon will often check the rest of the colon for other tumors during surgery. For very small tumors, sometimes the tumor can be removed without surgery using a colonoscope.
+Appendix
+Most often, an appendectomy (surgical removal of the appendix) is the only treatment needed for carcinoid tumors that are 2 cm (a little less than an inch) across or smaller. Still, other factors, such as the way the tumor cells look, the patient's age, general health, and the patient's degree of worry about the possibility of the cancer coming back, might also be used to determine whether more treatment is needed.
+Tumors larger than 2 cm are more likely to have already spread to nearby tissues and lymph nodes, so more extensive surgery is usually recommended. This means removal of about a third of the colon next to the appendix (a hemicolectomy), along with nearby blood vessels and lymph nodes. This procedure might not be recommended for people who are older or have other serious health problems (especially if these problems make surgery more risky), because the benefit might not outweigh the risks.
+Rectum
+Most rectal carcinoid tumors that are smaller than 1 cm (slightly less than half an inch) can be removed by an endoscope or local excision through the anus .
+The best approach for rectal carcinoid tumors between 1 and 2 cm, depends on how deeply the tumor has grown into the wall of the rectum, as well as if it has invaded the nearby lymph nodes. Doctors can check for this before surgery by using an endoscopic ultrasound. If the tumor has grown into the thick muscle layer of the rectum (the muscularis propria) or deeper or if local lymph nodes have tumor cells, it needs to be treated the same as a larger tumor. If not, it may still be able to be removed by endoscope or local excision through the anus. 
+Tumors larger than 2 cm (and those that have grown deep into the wall of the rectum) have a higher risk of growing and spreading, so they are removed by the same operations used for adenocarcinomas (the usual type of rectal cancer). This operation is a low anterior resection if the tumor is in the upper part of the rectum. If the lower part is involved, abdominoperineal (AP) resection and colostomy are used.
+Regional spread
+Regional spread means that the cancer has either spread to nearby lymph nodes or it has grown through the wall of the organ where it started and has invaded nearby tissues such as fat, ligaments, and muscle.
+If possible, the primary (main) tumor and any areas of cancer spread should all be removed by surgery. Nearby lymph nodes should be removed and checked for signs of cancer spread. This provides the best chance of cure. If this can't be done, surgery should remove as much cancer as possible without causing severe side effects. Surgery should also be done to relieve symptoms such as intestinal blockage caused by the local growth of the tumor.
+If all of the tumor cannot be removed at the time of surgery, treatment with somatostatin drugs, like octreotide or lanreotide, or targeted drugs, like everolimus, can be considered because they may control the remaining cancer.
+Distant spread
+At this stage, the cancer has spread to other organs such as the liver and a cure is not usually possible.Treatment is not always needed right away, depending on how quickly the tumors are growing. The goal of surgery in this situation is usually to relieve symptoms and slow the course of the disease. For example, removing or bypassing areas blocked by cancer growth can relieve some symptoms. If distant metastases are not causing symptoms, treatment may not be needed. If the cancer has spread to the liver, even when it isn’t causing symptoms, some doctors recommend treatment with octreotide or lanreotide, chemotherapy, or targeted therapy because it may slow tumor growth.
+If carcinoid syndrome is causing bothersome symptoms, treatment options include chemotherapy, targeted therapy, treatment with octreotide or lanreotide, or surgery to remove the metastatic tumors. If metastatic tumors in the liver cannot be removed by surgery without causing severe side effects, ablation or embolization can be used to destroy as much of the tumors as possible. Patients should also be advised to avoid alcoholic drinks, stress, strenuous exercise, spicy foods, and certain medicines that can make the symptoms of carcinoid syndrome worse.
+Recurrent carcinoid tumors
+When cancer comes back after treatment it is called a recurrence. Recurrence can be local (in or near the same place it started) or distant (spread to organs such as the lungs or bone). Patients with recurrent carcinoid tumors are treated sometimes with surgery to remove all signs of tumor if possible. This provides the best chance for a good long-term outcome. If surgery is not possible, the treatments used for distant spread may be helpful. For more information, see Understanding Recurrence.
+Neuroendocrine carcinomas
+Gastrointestinal neuroendocrine carcinomas (NECs) are high-grade (grade 3) tumors that grow very quickly. There are also some low- (grade 1) and intermediate-grade (grade 2) carcinoid tumors that act like neuroendocrine carcinomas because they grow fast. These cancers are treated differently from most carcinoid tumors (grade 1 and 2) because they are treated with chemotherapy first.
+Carcinoid heart disease
+The substances released into the blood by some carcinoid tumors can damage the heart. Early symptoms are fatigue and shortness of breath. Eventually, patients get fluid in their legs and even their abdomen. The major cause is damage to the valves of the heart. Doctors can usually make the diagnosis by listening to the heart and by an ultrasound of the heart called an echocardiogram.
+The main treatment is with a somatostatin analog like octreotide or lanreotide to block the tumor’s secretion of the toxic substances. Drugs (diuretics) to get rid of extra fluid can also help. In some instances, heart surgery may be needed to replace the damaged valves.For some people with gastrointestinal (GI) carcinoid tumor, treatment may remove or destroy the cancer. Completing treatment can be both stressful and exciting. You may be relieved to finish treatment, but find it hard not to worry about cancer coming back. This is a very common if you have had cancer.
+For other people, the cancer may never go away completely. These people may stay on drug therapy or get regular treatments with chemotherapy, radiation therapy, or other therapies to try to help keep the cancer in check. Learning to live with cancer that does not go away can be difficult and very stressful. 
+Follow-up care
+When treatment ends, your doctors will still want to watch you closely. It is very important to go to all of your follow-up appointments. During these visits, your doctors will ask if you are having any problems and will examine you and may order lab tests or x-rays and scans to look for signs of cancer or treatment side effects. Almost any cancer treatment can have side effects. Some may last for a few weeks to months, but others might last a long time. Some side effects might not even show up until years after you have finished treatment. It’s important for all GI carcinoid tumor survivors, to let their health care team know about any new symptoms or problems, because they could be caused by the cancer coming back or by a new disease or a second cancer.
+
+Doctor visits and follow-up tests
+Standard recommendations for doctor visits and follow-up tests have not yet been defined for GI carcinoid tumors. Initial guidelines suggest that for most people who have had their GI carcinoid tumors completely removed:
+
+Very small (less than 1cm) and low-grade (grade 1) GI carcinoids may require minimal or no follow-up due to a low risk of the cancer coming back
+GI carcinoids that are bigger (larger than 1 cm), grade 2 or grade 3, or have lymph nodes with cancer may require more frequent imaging tests (a CT scan yearly for 3 years, then every 1 to 2 years for then next 7 years) and doctor visits every 1 to 2 years for 10 years
+Blood and or urine tests (5-HIAA, Chromogranin A) may be helpful for some patients but are not always recommended for routine follow-up. 
+
+For some rectal tumors, sigmoidoscopy is recommended 12 months after treatment and possibly annually thereafter. Your doctor may follow one of these schedules, but might have reasons to recommend a different schedule as well.
+Follow-up visits and imaging tests may be slightly more frequent for those patients whose cancers could not be completely removed with surgery, who have cancer that has spread to other organs like the liver, or have cancers that are growing very quickly.
+Ask your doctor for a survivorship care plan
+Talk with your doctor about developing a survivorship care plan for you. This plan might include:
+
+A suggested schedule for follow-up exams and tests
+A list of potential late or long-term side effects from your treatment, including what to watch for and when you should contact your doctor
+A schedule for other tests you might need, such as early detection (screening) tests for other types of cancer, or tests to look for long-term health effects from your cancer or its treatment
+Suggestions for things you can do that might improve your health, including possibly lowering your chances of the cancer coming back
+
+Keeping health insurance and copies of your medical records
+Even after treatment, it’s very important to keep health insurance. Tests and doctor visits cost a lot, and even though no one wants to think of their cancer coming back, this could happen.
+At some point after your cancer treatment, you might find yourself seeing a new doctor who doesn’t know about your medical history. It’s important to keep copies of your medical records to give your new doctor the details of your diagnosis and treatment. Learn more in Keeping Copies of Important Medical Records.
+Can I lower the risk of my cancer progressing or coming back?
+If you have (or have had) a GI carcinoid tumor, you probably want to know if there are things you can do that might lower your risk of the cancer growing or coming back, such as exercising, eating a certain type of diet, or taking nutritional supplements.
+Adopting healthy behaviors such as not smoking, eating well, getting regular physical activity, and staying at a healthy weight is important. We know that these types of changes can have positive effects on your health that can extend beyond your risk of GI carcinoid tumors or other cancers.
+Quitting smoking
+If you smoke, quitting is important. Although most GI carcinoid tumors do not appear to be linked with smoking, more studies are needed. Of course, quitting smoking can have other health benefits such as improved healing, lowering your risk of some other cancers, as well as improving your outcome (prognosis) from the cancer. If you need help quitting, talk to your doctor or call the American Cancer Society at 1-800-227-2345.
+About dietary supplements
+So far, no dietary supplements (including vitamins, minerals, and herbal products) have been shown to clearly help lower the risk of GI carcinoid tumors progressing or coming back. This doesn’t mean that no supplements will help, but it’s important to know that none have been proven to do so.
+Dietary supplements are not regulated like medicines in the United States – they do not have to be proven effective (or even safe) before being sold, although there are limits on what they’re allowed to claim they can do. If you’re thinking about taking any type of nutritional supplement, talk to your health care team. They can help you decide which ones you can use safely while avoiding those that might be harmful.
+If the cancer comes back
+If cancer does come back at some point, your treatment options will depend on where the cancer is, what treatments you’ve had before, and your health.
+For more information on how recurrent cancer is treated, see Treatment of Gastrointestinal Carcinoid Tumor, by Extent of Disease.   
+For more general information on recurrence, you may also want to see Understanding Recurrence.
+Second cancers after treatment
+People who’ve had a GI carcinoid tumor can still get other cancers. Learn more in Second Cancers After Gastrointestinal Carcinoid Tumor.
+Getting emotional support
+Some amount of feeling depressed, anxious, or worried is normal when GI carcinoid is a part of your life. Some people are affected more than others. But everyone can benefit from help and support from other people, whether friends and family, religious groups, support groups, professional counselors, or others. Learn more in Life After Cancer.Cancer survivors can be affected by a number of health problems, but often their greatest concern is facing another cancer. Sometimes people with a gastrointestinal (GI) carcinoid tumor develop a new, unrelated cancer later. This is called a second cancer. No matter what type of cancer you have or had, it's still possible to get another (new) cancer.
+Types of cancer
+Unfortunately, being treated for one cancer doesn’t mean you can’t get another. People who have had cancer can still get the same types of cancers that other people get. In fact, certain types of cancer and cancer treatments can be linked to a higher risk of certain second cancers.
+People who have or had a GI carcinoid tumor can get any type of second cancer, but they have a higher risk than the general population of developing:
+
+Prostate cancer
+Melanoma
+Female breast cancer
+Colon and rectal cancer
+Lung cancer
+Bladder cancer
+
+What can you do?
+Many people with a GI carcinoid tumor are treated with medicines that keep the disease in check without curing the disease, so they need to see their doctors regularly. Let your doctor know if you have any new symptoms or problems. They could be from the carcinoid tumor getting worse or from a new disease or cancer.
+All people with a GI carcinoid tumor should not use any type of tobacco and should avoid tobacco smoke. Tobacco is linked to an increased risk of many cancers and might further increase the risk of some of the second cancers seen in patients with GI carcinoid tumors.
+To help maintain good health, survivors should also:
+
+Get to and stay at a healthy weight
+Keep physically active and limit the time you spend sitting or lying down
+Follow a healthy eating pattern that includes plenty of fruits, vegetables, and whole grains, and limits or avoids red and processed meats, sugary drinks, and highly processed foods
+Not drink alcohol. If you do drink, have no more than 1 drink per day for women or 2 per day for men
+
+These steps may also lower the risk of some cancers.
+See Second Cancers in Adults for more information about causes of second cancers.What is a gastrointestinal carcinoid tumor?
+Gastrointestinal carcinoid tumors are a type of cancer in the lining of the digestive tract (the gut). Cancer starts when cells begin to grow out of control. Cells in nearly any part of the body can become cancer. To learn more about what cancer is and how it can grow and spread, see What Is Cancer?
+To understand gastrointestinal carcinoid tumors, it helps to know about the digestive system, as well as the neuroendocrine system.
+The gastrointestinal system
+The gastrointestinal (GI) system, also known as the digestive system, turns food into energy and rids the body of solid waste. After food is chewed and swallowed, it enters the esophagus. This tube carries food through the neck and chest to the stomach. The esophagus joins the stomach (a sac that holds food and begins the digestive process by secreting gastric juice). The food and gastric juices are mixed into a thick fluid, which then empties into the small intestine.

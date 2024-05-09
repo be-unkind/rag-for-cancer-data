@@ -1,0 +1,659 @@
+Cancer starts when cells in the body begin to grow out of control. Cells in nearly any part of the body can become cancer, and then can spread to other areas of the body. To learn more about cancer and how it starts and spreads, see What Is Cancer?
+Gastrointestinal stromal tumors (GISTs) are uncommon cancers that start in special cells in the wall of the gastrointestinal (GI) tract, also known as the digestive tract. To understand GISTs, it helps to know something about the structure and function of the GI tract.
+How the gastrointestinal (GI) tract works
+The GI tract processes food for energy and rids the body of solid waste. After food is chewed and swallowed, it goes through the esophagus, a tube that carries food down the throat and chest to the stomach. The esophagus joins the stomach just beneath the diaphragm (the thin band of muscle below the lungs).
+The stomach is a sac-like organ that helps the digestive process by mixing the food with gastric juices. The food and gastric juices are then emptied into the small intestine. The small intestine, which is about 20 feet long, continues breaking down the food and absorbs most of the nutrients into the bloodstream.
+The small intestine joins the large intestine, the first part of which is the colon, a muscular tube about 5 feet long. The colon absorbs water and mineral nutrients from the remaining food matter. The waste left after this process (stool) goes into the rectum, where it is stored until it passes out of the body through the anus.Gastrointestinal stromal tumors (GISTs) are not common, and the exact number of people diagnosed with these tumors each year is not known. Until the late 1990s, not much was known about these tumors (and doctors didn’t have good ways of identifying them with lab tests), so many of them ended up being classified as other kinds of cancers.
+Current estimates for the total number of GIST cases diagnosed each year in the United States range from about 4,000 to about 6,000.
+These tumors can start anywhere in the GI tract, but they occur most often in the stomach (about 60%) or the small intestine (about 35%). Most of the rest are found in the esophagus, colon, and rectum. A small number develop in the abdomen outside the GI tract.
+GISTs are most commonly found in people over the age of 50. These tumors are rare in people younger than 40, but they can develop in people of any age.
+Survival statistics for people with GIST tumors are discussed in Survival Rates for Gastrointestinal Stromal Tumors.Research on gastrointestinal stromal tumors (GISTs) is being done in many medical centers and other institutions around the world. Scientists are learning more about what causes these tumors and how best to treat them. There has been a great deal of progress in recent years, especially in treating GISTs. 
+Targeted therapy drugs
+As researchers have come to understand more about the genetic changes that cause these tumors, they’ve been able to use newer targeted treatments (sometimes called precision medicines) to attack cancer cells with these changes. For example, mutations in the KIT or PDGFRA genes are present in the cells of most GISTs.
+Targeted therapy drugs like imatinib (Gleevec), sunitinib (Sutent), regorafenib (Stivarga), and ripretinib (Qinlock) can affect cells with these gene changes and are often helpful in treating GISTs, but they tend to stop working over time. Doctors still aren’t sure exactly how and when to give them to make them most effective. For example, should these types of drugs be given after surgery to all patients, even those with very small tumors? How long should drug treatment be continued? These and other questions are now being studied in clinical trials.
+Other drugs that target the KIT or PDGFRA proteins are also being studied for use against GISTs. Some of these drugs have been shown to help some patients in early studies:
+
+Sorafenib (Nexavar)
+Nilotinib (Tasigna)
+Dasatinib (Sprycel)
+Pazopanib (Votrient)
+Ponatinib (Iclusig)
+
+Other, newer drugs that target these proteins are also being studied, such as:
+
+Crenolanib
+Binimetinib (Mektovi)
+
+Drugs that target different proteins involved in GIST cell growth are now being tested as well.
+Immunotherapy
+Immunotherapy is the use of medicines to boost the body’s own immune response to help fight the cancer.
+Immune checkpoint inhibitors
+Immune system cells normally have proteins that act as checkpoints to keep them from attacking other healthy cells in the body. Cancer cells sometimes take advantage of these checkpoints to avoid being attacked by the immune system.
+Newer drugs called immune checkpoint inhibitors work by blocking these checkpoint proteins, which can boost the immune response against cancer cells in the body. These drugs have been shown to be helpful against many types of cancer in recent years. Some of these drugs, such as such as nivolumab (Opdivo) and ipilimumab (Yervoy), are now being studied for use against GISTs.
+Monoclonal antibodies
+Monoclonal antibodies are man-made versions of immune system proteins created to attack specific parts of cancer cells. An example now being studied for use against GISTs is XmAb18087. This antibody attaches to cells that have the somatostatin receptor 2 (SSTR2) protein, and brings them into contact with immune cells called T cells. The goal is to activate the person’s immune system to attack the cancer cells.
+Other types of immunotherapy are now being explored as well.
+People with GISTs that are no longer responding to standard treatments may want to ask their doctor about clinical trials studying these newer types of treatments.A risk factor is anything that increases a person’s chances of getting a disease like cancer. Different cancers have different risk factors. Some risk factors, like smoking, can be changed. Others, like a person’s age or family history, can’t be changed.
+But having a risk factor, or even several, does not mean that a person will get the disease. And many people who get the disease may have few or no known risk factors.
+Currently, there are very few known risk factors for gastrointestinal stromal tumors (GISTs).
+Being older
+These tumors can occur in people of any age, but they are rare in people younger than 40 and are most common in people older than 50.
+Inheriting certain genetic syndromes
+Most GISTs are sporadic (not inherited) and have no clear cause. In rare cases, though, GISTs have been found in several members of the same family. These family members have inherited a gene mutation (change) that can lead to GISTs.
+Primary familial GIST syndrome: This is a rare, inherited condition that leads to an increased risk of developing GISTs. People with this syndrome tend to develop GISTs at a younger age than when they usually occur. They are also more likely to have more than one GIST.
+Most often, this syndrome is caused by an abnormal KIT gene that is passed from parent to child. This is the same gene that is mutated (changed) in most sporadic GISTs. (See What Causes Gastrointestinal Stromal Tumors?) People who inherited this abnormal gene from a parent have it in all their cells, while people with sporadic GISTs only have it in the cancer cells.
+Less often, a change in the PDGFRA gene causes this genetic syndrome. (Defects in the PDGFRA gene are also found in a small percentage of sporadic GISTs.)
+Sometimes people with familial GIST syndrome also have skin spots like those seen in patients with neurofibromatosis (discussed below). Before tests for the KIT and PDGFRA genes became available, some of these people mistakenly were thought to have neurofibromatosis.
+Neurofibromatosis type 1 (von Recklinghausen disease): This condition is caused by a defect in the NF1 gene. This gene change may be inherited from a parent, but in some cases the change occurs before birth, without being inherited.
+People affected by this syndrome often have many benign (non-cancerous) nerve tumors, called neurofibromas, starting when they are young. These tumors form under the skin and in other parts of the body. These people also typically have tan or brown spots on the skin (called café au lait spots).
+People with NF1 have a higher risk of GISTs (most often in the small intestine), as well as some other types of cancer.
+Carney-Stratakis syndrome: People with this rare inherited condition have an increased risk of GISTs (most often in the stomach), as well as nerve tumors called paragangliomas. GISTs often develop when these people are in their teens or 20s. They are also more likely to have more than one GIST.
+This syndrome is caused by a change in one of the SDH (succinate dehydrogenase) genes, which is passed from parent to child.Researchers do not know exactly what causes most gastrointestinal stromal tumors (GISTs). But great progress has been made in learning how certain changes in DNA can cause normal cells to become cancer cells.
+DNA is the chemical in our cells that makes up our genes, which control how our cells function. We usually look like our parents because they are the source of our DNA. But DNA affects more than just how we look.
+Some genes control when cells grow and divide into new cells:
+
+Certain genes that help cells grow, divide, and stay alive are called oncogenes. 
+Genes that normally keep cell growth under control, repair mistakes in DNA, or cause cells to die at the right time are called tumor suppressor genes.
+
+Cancers can be caused by DNA changes that keep oncogenes turned on, or that turn off tumor suppressor genes. These types of gene changes can lead to cells growing out of control.
+Gene changes that can lead to GISTs
+The gene changes that lead to most GISTs are now understood, but it’s still not clear why these changes occur. There are no known lifestyle-related or environmental risk factors for GIST. Some of the gene changes that lead to GISTs might have causes that haven’t been found yet, but many of these changes may just be random events that sometimes happen inside cells that unfortunately lead to cancer.
+A small number of families have GISTs that are caused by a gene mutation passed down from parent to child. (See Gastrointestinal Stromal Tumor Risk Factors.) But most gene mutations related to GISTs are not inherited. These changes occur for no apparent reason, and are called acquired or sporadic.
+Changes in KIT or PDGFRA genes
+In most people with GISTs, the cancer cells have a change in the KIT oncogene. This gene directs cells to make the KIT protein (also known as CD117), which causes the cells to grow and divide.
+Usually the KIT gene is inactive in interstitial cells of Cajal (ICCs), which are the cells in the walls of the GI tract from which GISTs develop. The KIT gene is only active if there is a need for more ICCs. But in most GISTs the KIT gene is mutated. It is always active, so the cells are always growing and dividing.
+In about 5% to 10% of GISTs, the cancer cells have a mutation in the PDGFRA gene, which causes the cells to make too much of the PDGFRA protein. This has the same effect on the cells as does KIT.
+Most GISTs have changes in either the KIT or the PDGFRA gene, but not both.
+Other gene changes
+A small number of GISTs, especially those in children, do not have changes in either of these genes. Many of these tumors have changes in one of the SDH genes. Researchers are still trying to determine what other gene changes can lead to these cancers.
+As doctors have learned more about the gene and protein changes in GIST cells, they have been able to use this information to help diagnose and treat these cancers. (See Targeted Therapy for Gastrointestinal Stromal Tumors.)Screening is testing for diseases like cancer in people who do not have any symptoms. Screening tests can find some types of cancer early, when treatment is most likely to be effective. But at this time, there are no effective screening tests for gastrointestinal stromal tumors (GISTs), so routine testing of people without any symptoms is not recommended.
+Many GISTs are found because of symptoms a person is having, but some GISTs may be found early by chance. Sometimes they are seen on an exam for another problem, like during a colonoscopy to look for colorectal cancer. Rarely, a GIST may be seen on an imaging test, like a computed tomography (CT) scan, that is done for another reason. Some GISTs may also be found incidentally (unexpectedly) during abdominal surgery for another problem.Most gastrointestinal stromal tumors (GISTs) develop  within the wall of the stomach or small intestine. These tumors often grow into the empty space inside the gastrointestinal (GI) tract, so they might not cause symptoms right away unless they are in a certain location or reach a certain size.
+Small tumors might not cause any symptoms and can be found accidentally when the doctor is checking out some other problem. These small tumors often grow slowly.
+Symptoms related to blood loss
+GISTs tend to be fragile tumors that can bleed easily. In fact, they are often found because they cause bleeding into the GI tract. Signs and symptoms of this bleeding depend on how fast it occurs and where the tumor is located.
+
+Brisk bleeding into the esophagus or stomach might cause the person to throw up blood. When the blood is thrown up it may be partially digested, so it might look like coffee grounds. 
+Brisk bleeding into the stomach or small intestine can make bowel movements (stools) black and tarry.
+Brisk bleeding into the large intestine is likely to turn the stool red with visible blood.
+If the bleeding is slow, it often doesn’t cause the person to throw up blood or have a change in their stool. Over time, though, slow bleeding can lead to a low red blood cell count (anemia), which can make a person feel tired and weak.
+
+Bleeding from the GI tract can be very serious. If you have any of these signs or symptoms, see a doctor right away.
+Other possible symptoms of GISTs
+Other symptoms of GISTs can include:
+
+Abdominal (belly) pain
+A mass or swelling in the abdomen
+Nausea and vomiting
+Feeling full after eating only a small amount of food
+Loss of appetite
+Weight loss
+Problems swallowing (for tumors in the esophagus)
+
+Some tumors grow large enough to block the passage of food through the stomach or intestine. This is called an obstruction, and it can cause severe abdominal pain and vomiting.
+Because GISTs are often fragile, they can sometimes rupture, which can lead to a hole (perforation) in the wall of the GI tract. This can also result in severe abdominal pain. Emergency surgery might be needed in these situations.
+Although many of the possible symptoms of GISTs (like belly pain and nausea) can be caused by things other than cancer, if you have these symptoms, especially if they last for more than a few days, it's important to see a doctor.Gastrointestinal stromal tumors (GISTs) are often found because a person is having signs or symptoms. Others are found during exams or tests for other problems. But these symptoms or initial tests aren’t usually enough to know for sure if a person has a GIST or another type of gastrointestinal (GI) tumor. If a GI tumor is suspected, you will need to have further tests to confirm what it is.
+Medical history and physical exam
+The doctor will ask you questions about your medical history, including your symptoms, possible risk factors, family history, and other medical conditions.
+Your doctor will physically examine you to get more information about the possible signs of a GI tumor, like a mass in the abdomen, or other health problems.
+If there is a reason to suspect that you may have a GIST (or other type of GI tumor), the doctor will do imaging tests or endoscopy exams to help find out if it is cancer or something else. If you’re seeing your primary care doctor, you might be referred to a specialist, such as a gastroenterologist (a doctor who treats diseases of the digestive system).
+If a GIST is found, you will likely have further tests to help determine the stage (extent) of the cancer.
+Imaging tests
+Imaging tests use x-rays, magnetic fields, or radioactive substances to create pictures of the inside of the body. Imaging tests are done for a number of reasons, including:
+
+To help find out if a suspicious area might be cancer
+To learn how far cancer has spread
+To help determine if treatment has been effective
+To look for signs that the cancer has come back
+
+Most people thought to have a GI tumor will get one or more of these tests.
+Computed tomography (CT) scan
+A CT scan uses x-rays to make detailed, cross-sectional images of your body. Unlike a regular x-ray, a CT scan creates detailed images of the soft tissues in the body.
+CT scans can be useful in patients who have (or might have) GISTs to find the location and size of a tumor, as well as to see if it has spread to other parts of the body.
+In some cases, CT scans can also be used to guide a biopsy needle precisely into a suspected cancer. However, this can be risky if the tumor might be a GIST (because of the risk of bleeding and a possible increased risk of tumor spread), so these types of biopsies are usually done only if the result might affect the decision on treatment. (See the biopsy information below.)
+Magnetic resonance imaging (MRI) scan
+Like CT scans, MRI scans show detailed images of soft tissues in the body. But MRI scans use radio waves and strong magnets instead of x-rays. 
+MRI scans can sometimes be useful in people with GISTs to help find the extent of the cancer in the abdomen, but usually CT scans are enough. MRIs can also be used to look for cancer that might have come back (recurred) or spread (metastasized) to distant organs, particularly in the brain or spine.
+Barium x-rays
+Barium x-rays are not used as much as they were in the past. They have largely been replaced by CT/MRI and by endoscopy (where the doctor actually looks inside your esophagus, stomach, and intestines with a narrow fiberoptic scope - see below).
+For these types of x-rays, a chalky liquid containing barium is used to coat the inner lining of the esophagus, stomach, and intestines. This makes abnormal areas of the lining easier to see on x-ray. These tests are sometimes used to diagnose GI tumors, but they can miss some small intestine tumors.
+You will probably have to fast starting the night before the test. If your colon is being examined, you might need to take laxatives and/or enemas to clean out the bowel the night before or the morning of the exam.
+Barium swallow: This is often the first test done if someone is having a problem swallowing. For this test, you drink a liquid containing barium to coat the inner lining of the esophagus. A series of x-rays is then taken over the next few minutes.
+Upper GI series: This test is similar to the barium swallow, except that x-rays are taken after the barium has had time to coat the stomach and the first part of the small intestine. To look for problems in the rest of the small intestine, more x-rays can be taken over the next few hours as the barium passes through. This is called a small bowel follow-through.
+Enteroclysis: A thin tube is passed through your mouth or nose, down your esophagus, and through your stomach into the start of the small intestine. Barium is sent through the tube, along with a substance that creates more air in the intestines, causing them to expand. Then x-rays are taken of the intestines. This test can give better images of the small intestine than a small bowel follow-through, but it is also more uncomfortable.
+Barium enema: This test (also known as a lower GI series) is used to look at the inner surface of the large intestine (colon and rectum). For this test, the barium solution is given through a small, flexible tube inserted in the anus while you are lying on the x-ray table. Often, air is blown in through the tube as well to help push the barium toward the wall of the colon and better coat the inner surface. This is called an air-contrast barium enema or double-contrast barium enema. You may be asked to change positions to help spread the barium, as well as to get different views of the colon. Then one or more sets of x-rays are taken.
+Positron emission tomography (PET) scan
+For a PET scan, you are injected with a slightly radioactive form of sugar, which collects mainly in cancer cells. A special camera is then used to create a picture of areas of radioactivity in the body. The picture is not detailed like a CT or MRI scan, but a PET scan can look for possible cancer spread in all areas of the body at once.
+Many centers now have machines that can do both a PET and CT scan at the same time (PET/CT scan). This lets the doctor see areas that “light up” on the PET scan in more detail.
+PET scans can be useful for looking at GISTs, especially if the results of CT or MRI scans aren’t clear. This test can also be used to look for possible areas where cancer might have spread to help determine if surgery is an option.
+PET scans can also be helpful in finding out if a drug treatment is working, as they can often give an answer quicker than CT or MRI scans. The scan is usually done several weeks after starting the drug. If the drug is working, the tumor will stop taking up the radioactive sugar. If the tumor still takes up the sugar, your doctor may decide to change your drug treatment.
+Endoscopy
+For an endoscopy, the doctor puts an endoscope (a flexible lighted tube with a tiny video camera on the end) into the body to see the inner lining of the gastrointestinal (GI) tract. If abnormal areas are found, small pieces can be biopsied (removed) through the endoscope. The biopsy samples will be looked at under the microscope to find out if they contain cancer and if so, what kind of cancer it is.
+GISTs are often below the surface (mucosa) of the inner lining of the GI tract. This can make them harder to see with endoscopy than more common GI tract tumors, which typically start in the mucosa. The doctor may see only a bulge under the normally smooth surface if a GIST is present. GISTs that are below the mucosa are also harder to biopsy through the endoscope. This is one reason that many GISTs are not diagnosed before surgery.
+If the tumor has broken through the inner lining of the GI tract and is easy to see on endoscopy, there is a greater chance that the GIST might spread to other parts of the body.
+Upper endoscopy
+For this procedure, an endoscope is passed through the mouth and down the throat to look at the inner lining of the esophagus, stomach, and first part of the small intestine. Biopsy samples may be taken from any abnormal areas.
+Upper endoscopy can be done in a hospital, in an outpatient surgery center, or in a doctor’s office. You are typically given medicine through an intravenous (IV) line to make you sleepy before the exam. The exam itself usually takes 10 to 20 minutes, but it might take longer if a tumor is seen or if biopsy samples are taken. If medicine is given to make you sleepy, you will likely need someone you know to drive you home (not just a cab or rideshare service).
+This test is also known as an EGD (short for esophagogastroduodenoscopy).
+Colonoscopy (lower endoscopy)
+For colonoscopy, a type of endoscope known as a colonoscope is inserted through the anus and up into the colon. This lets the doctor look at the inner lining of the rectum and colon and to take biopsy samples from any abnormal areas.
+To get a good look at the inside of the colon, it must be cleaned out before the test. Your doctor will give you specific instructions. You might need to follow a special diet for a day or more before the test. You might also have to drink a large amount of a liquid laxative the evening before, which means you will spend a lot of time in the bathroom.
+A colonoscopy can be done in a hospital, in an outpatient surgery center, or in a doctor’s office. You will likely be given intravenous (IV) medicine to make you feel relaxed and sleepy during the procedure. Less often, you might be given general anesthesia to put you into a deep sleep. The exam typically takes 15 to 30 minutes, but it can take longer if a tumor is seen and/or a biopsy taken. Because medicine is given to make you sleepy, you will likely need someone you know to drive you home (not just a cab or rideshare service).
+Capsule endoscopy
+Neither upper endoscopy nor colonoscopy can reach all areas of the small intestine. Capsule endoscopy is one way to look at the small intestine.
+This procedure does not actually use an endoscope. Instead, you swallow a capsule (about the size of a large vitamin pill) that contains a light source and a very small camera. Like any other pill, the capsule goes through the stomach and into the small intestine. As it travels through the intestine (usually over about 8 hours), it takes thousands of pictures. These images are transmitted electronically to a device worn around your waist. The pictures can then be downloaded onto a computer, where the doctor can view them as a video. The capsule passes out of the body during a normal bowel movement and is discarded.
+This test requires no sedation – you can just continue normal daily activities as the capsule travels through the GI tract. This technique is still fairly new, and the best ways to use it are still being studied. One disadvantage is that any abnormal areas seen can’t be biopsied during the test.
+Double balloon enteroscopy (endoscopy)
+This is another way to look at the small intestine. The small intestine is too long and has too many curves to be examined well with regular endoscopy. But this method gets around these problems by using a special endoscope that is made of 2 tubes, one inside the other.
+You are given intravenous (IV) medicine to help you relax, or even general anesthesia (so that you are asleep). The endoscope is then inserted either through the mouth or the anus, depending on if there is a specific part of the small intestine to be examined.
+Once inside the small intestine, the inner tube, which has the camera on the end, is advanced forward about a foot as the doctor looks at the lining of the intestine. Then a balloon on the end of the endoscope is inflated to anchor it. The outer tube is then pushed forward to near the end of the inner tube and is anchored in place with a second balloon. The first balloon is deflated and the endoscope is advanced again. This process is repeated over and over, letting the doctor see the intestine a foot at a time. The test can take hours to complete.
+This test may be done along with capsule endoscopy. The main advantage of this test over capsule endoscopy is that the doctor can take a biopsy if something abnormal is seen. Like other forms of endoscopy, because you are given medicine to make you sleepy for the procedure, someone you know will likely need to drive you home (not just a cab or rideshare service).
+Endoscopic ultrasound (EUS)
+This is a type of imaging test that uses an endoscope. Ultrasound uses sound waves to take pictures of parts of the body. For most ultrasound exams, a wand-like probe (called a transducer) is placed on the skin. The probe gives off sound waves and detects the pattern of echoes that come back.
+For an EUS, the ultrasound probe is on the tip of an endoscope. This allows the probe to be placed very close to (or on top of) a tumor in the wall of the GI tract. Like a regular ultrasound, the probe gives off sound waves and then detects the echoes that bounce back. A computer then translates the echoes into an image of the area being looked at.
+EUS can be used to find the precise location of the GIST and to determine its size. It is useful in finding out how deeply a tumor has grown into the wall of the GI tract (or beyond it and into a nearby organ). The test can also help show if the tumor has spread to nearby lymph nodes. It can also be used to help guide a needle biopsy (see below).You are typically given medicine before this procedure to make you sleepy. (Less often, you might be given general anesthesia to put you into a deep sleep.) Because of this, you will probably need to have someone you know drive you home (not just a cab or rideshare service).
+Biopsy
+Even if something abnormal is seen on an imaging test such as a barium x-ray or CT scan, these tests often can't tell for sure if the abnormal area is a GIST, some other type of tumor (benign or cancer), or some other condition (like an infection). The only way to know what it is for sure is to remove cells from the area. This procedure is called a biopsy. The cells are then sent to a lab, where a doctor called a pathologist looks at them under a microscope and might do other tests on them.
+Not everyone who has a tumor that might be a GIST needs a biopsy before treatment. If the doctor suspects a tumor is a GIST, a biopsy is usually done only if it will help determine treatment options. GISTs are often fragile tumors that tend to break apart and bleed easily. Any biopsy must be done very carefully, because of the risk that the biopsy might cause bleeding or possibly increase the risk of cancer spreading.
+There are several ways to biopsy a GI tract tumor.
+Endoscopic biopsy
+Biopsy samples can be obtained through an endoscope. When a tumor is found, the doctor can insert biopsy forceps (pincers or tongs) through the tube to take a small sample of the tumor.
+Even though the sample will be very small, doctors can often make an accurate diagnosis. However, with GISTs, sometimes the biopsy forceps can’t go deep enough to reach the tumor because it's underneath the inner lining of the stomach or intestine.
+Bleeding from a GIST after a biopsy is rare, but it can be a serious problem. If this occurs, doctors can sometimes inject drugs into the tumor through an endoscope to constrict blood vessels and stop the bleeding.
+Needle biopsy
+A biopsy can also be done using a thin, hollow needle to remove small samples of the area. The most common way to do this is during an endoscopic ultrasound (described above). The doctor uses the ultrasound image to guide a needle on the tip of the endoscope into the tumor. This is known as an endoscopic ultrasound-guided fine needle aspiration (EUS-FNA).
+Less often, the doctor may place a needle through the skin and into the tumor while guided by an imaging test such as a CT scan. This is known as a percutaneous biopsy.
+Surgical biopsy
+If a sample can’t be obtained from an endoscopic or needle biopsy, or if the result of a biopsy wouldn’t affect treatment options, the doctor might recommend waiting until surgery to remove the tumor to get a sample of it.
+If the surgery is done through a large cut (incision) in the abdomen, it is called a laparotomy. Sometimes the tumor can be sampled (or small tumors can be removed) using a thin, lighted tube called a laparoscope, which lets the surgeon see inside the belly through a small incision. The surgeon can then sample (or remove) the tumor using long, thin surgical tools that are passed through other small incisions in the abdomen. This is known as laparoscopic or keyhole surgery.
+Lab tests of biopsy samples
+Once tumor samples are obtained, a pathologist might be able to tell that a tumor is most likely a GIST just by looking at the cells with a microscope. But sometimes further lab tests might be needed to be sure.
+Immunohistochemistry: For this test, a part of the sample is treated with man-made antibodies that will attach only to a certain protein in the cells. The antibodies cause color changes if the protein is present, which can be seen under a microscope.
+If GIST is suspected, some of the proteins most often tested for are KIT (also known as CD117) and DOG1.  Most GIST cells have these proteins, but cells of most other types of cancer do not, so tests for these proteins can help tell whether a GI tumor is a GIST or not. Other proteins, such as CD34, might be tested for as well.
+Molecular genetic testing: Testing might also be done to look for mutations in the KIT or PDGFRA genes, as most GIST cells have mutations in one or the other. Testing for mutations in these genes can also help tell if certain targeted therapy drugs are likely to be helpful in treating the cancer. 
+Less often, tests might be done to look for changes in other genes, such as the SDH genes.
+Mitotic rate: If a GIST is diagnosed, the doctor will also look at the cancer cells in the sample to see how many of them are actively dividing into new cells. This is known as the mitotic rate (or mitotic index). A low mitotic rate means the cancer cells are growing and dividing slowly, while a high rate means they are growing quickly. The mitotic rate is an important part of determining the stage of the cancer. (See Gastrointestinal Stromal Tumor Stages.)
+Blood tests
+Your doctor may order some blood tests if they think you may have a GIST.
+There are no blood tests that can tell for sure if a person has a GIST. But blood tests can sometimes point to a possible tumor (or to its spread). For example:
+
+A complete blood count (CBC) can show if you have a low red blood cell count (that is, if you are anemic). Some people with GISTs may become anemic because of bleeding from the tumor.
+Abnormal liver function tests may mean that the GIST has spread to your liver.
+
+Blood tests are also done to check your overall health before you have surgery or while you get other treatments such as targeted therapy.After someone is diagnosed with cancer, doctors will try to figure out if it has spread, and if so, how far. This process, called staging, is based on the results of physical exams and other tests, which are described in Tests for Gastrointestinal Stromal Tumors.
+The stage of a cancer describes how much cancer is in the body. It helps determine how serious the cancer is and how best to treat it. Doctors also use a cancer's stage when talking about survival statistics.
+The stages for gastrointestinal stromal tumors (GIST) range from I (1) through IV (4). As a rule, the lower the number, the less the cancer has spread. A higher number, such as stage IV, means cancer has spread more. And within a stage, an earlier letter means a lower stage. Although each person’s cancer experience is unique, cancers with similar stages tend to have a similar outlook and are often treated in much the same way.
+The AJCC TNM staging system
+The staging system most often used for GIST tumors is the American Joint Committee on Cancer (AJCC) TNM system; the most recent version is effective as of 2018. This staging system is based on 4 key pieces of information:
+
+The extent of the main (primary) tumor (T): How large is the cancer?
+The spread to nearby lymph nodes (N): Has the cancer spread to nearby lymph nodes? (This is uncommon in GISTs.)
+The spread (metastasis) to distant sites (M): Has the cancer spread to distant parts of the body? (The most common sites of spread are the liver, bones, lungs, and the tissue layers lining the inside of the abdomen.)
+The mitotic rate: This is a lab test measurement of how fast the cancer cells are growing and dividing. It is described as either low or high. A low mitotic rate predicts a better outcome.
+
+Numbers or letters after T, N, and M provide more details about each of these factors. Higher numbers mean the cancer is more advanced. Once a person’s T, N, and M categories have been determined, this information is combined in a process called stage grouping to assign an overall stage. Although the T, N, and M categories are the same for all GISTs, there are 2 different stage grouping schemes, depending on where the cancer starts:
+
+The stomach or the omentum (an apron-like layer of fatty tissue that hangs over the organs in the abdomen)
+The small intestine, esophagus, colon, rectum, or peritoneum (a layer of tissue that lines the organs and walls of the abdomen.)
+
+This is because GISTs that start in the stomach or omentum are typically less likely to grow and spread to other parts of the body than GISTs starting in other locations.
+
+Cancer staging can be complex, so ask your doctor to explain it to you in a way you understand.
+GIST that starts in the stomach or the omentum
+
+
+
+AJCC stage
+TNM
+Mitotic rate
+Stage description* (2 cm = almost 1 inch; 5 cm = about 2 inches; 10 cm = about 4 inches)
+
+
+IA
+T1 or T2 N0 M0
+Low
+The tumor is:
+
+No more than 2 cm across (T1) OR
+Larger than 2 cm but not more than 5 cm across (T2).
+ The cancer has not spread to nearby lymph nodes (N0) or to distant sites (M0). The mitotic rate is low.
+
+
+IB
+T3 N0 M0
+Low
+The tumor is larger than 5 cm but not more than 10 cm across (T3). The cancer has not spread to nearby lymph nodes (N0) or to distant sites (M0). The mitotic rate is low.
+
+
+  II
+T1 N0 M0
+High
+The tumor is no more than 2 cm across (T1). The cancer has not spread to nearby lymph nodes (N0) or to distant sites (M0). The mitotic rate is high.
+
+
+OR
+
+
+T2 N0 M0
+High
+The tumor is larger than 2 cm, but not more than 5 cm across (T2). The cancer has not spread to nearby lymph nodes (N0) or to distant sites (M0). The mitotic rate is high.
+
+
+OR
+
+
+T4 N0 M0
+Low
+The tumor is larger than 10 cm across (T4). The cancer has not spread to nearby lymph nodes (N0) or to distant sites (M0). The mitotic rate is low.
+
+
+IIIA  
+T3 N0 M0
+High
+The tumor is larger than 5 cm but not more than 10 cm across (T3). The cancer has not spread to nearby lymph nodes (N0) or to distant sites (M0). The mitotic rate is high.
+
+
+IIIB
+T4 N0 M0
+High
+The tumor is larger than 10 cm across (T4). The cancer has not spread to nearby lymph nodes (N0) or to distant sites (M0). The mitotic rate is high.
+
+
+IV
+Any T N1 M0
+Any rate
+The tumor is any size (Any T) AND it has spread to nearby lymph nodes (N1). The cancer has not spread to distant sites (M0). The mitotic rate can be low or high.
+
+
+OR
+
+
+Any T Any N M1
+Any rate
+The tumor is any size (Any T) AND it might or might not have spread to nearby lymph nodes (Any N). The cancer has spread to distant parts of the body (M1). The mitotic rate can be low or high.
+
+
+
+*The following additional categories are not listed in the table above:
+
+TX: Main (primary) tumor cannot be assessed due to lack of information.
+T0: No evidence of a main (primary) tumor.
+NX: Regional lymph nodes cannot be assessed due to lack of information.
+
+GIST of the small intestine, esophagus, colon, rectum, or peritoneum
+
+
+
+AJCC stage
+TNM
+Mitotic rate
+Stage description*  (2 cm = almost 1 inch; 5 cm = about 2 inches; 10 cm = about 4 inches)
+
+
+I
+T1 or T2 N0 M0
+Low
+The tumor is:
+
+No more than 2 cm across (T1) OR
+Larger than 2 cm but not more than 5 cm across (T2).
+ The cancer has not spread to nearby lymph nodes (N0) or to distant sites (M0). The mitotic rate is low.
+
+
+  II
+T3 N0 M0
+Low
+The tumor is larger than 5 cm but not more than 10 cm across (T3). The cancer has not spread to nearby lymph nodes (N0) or to distant sites (M0). The mitotic rate is low.
+
+
+IIIA
+T1 N0 M0
+High
+The tumor is no more than 2 cm across (T1). The cancer has not spread to nearby lymph nodes (N0) or to distant sites (M0). The mitotic rate is high.
+
+
+OR
+
+
+T4 N0 M0
+Low
+The tumor is larger than 10 cm across (T4). The cancer has not spread to nearby lymph nodes (N0) or to distant sites (M0). The mitotic rate is low.
+
+
+IIIB
+T2 N0 M0
+High
+The tumor is larger than 2 cm but not more than 5 cm across (T2). The cancer has not spread to nearby lymph nodes (N0) or to distant sites (M0). The mitotic rate is high.
+
+
+OR
+
+
+T3 N0 M0
+High
+The tumor is larger than 5 cm but not more than 10 cm across (T3). The cancer has not spread to nearby lymph nodes (N0) or to distant sites (M0). The mitotic rate is high.
+
+
+OR
+
+
+T4 N0 M0
+High
+The tumor is larger than 10 cm across (T4). The cancer has not spread to nearby lymph nodes (N0) or to distant sites (M0). The mitotic rate is high.
+
+
+IV
+Any T N1 M0
+Any rate
+The tumor is any size (Any T) AND it has spread to nearby lymph nodes (N1). The cancer has not spread to distant sites (M0). The mitotic rate can be low or high.
+
+
+OR
+
+
+Any T Any N M1
+Any rate
+The tumor is any size (Any T) AND it might or might not have spread to nearby lymph nodes (Any N). The cancer has spread to distant parts of the body (M1). The mitotic rate can be low or high.
+
+
+
+*The following additional categories are not listed in the table above:
+
+TX: Main (primary) tumor cannot be assessed due to lack of information.
+T0: No evidence of a main (primary) tumor.
+NX: Regional lymph nodes cannot be assessed due to lack of information.
+
+The TNM staging system is not meant to be used for GISTs in children (pediatric GIST) or GISTS that are the result of inherited genetic syndromes. 
+Resectable versus unresectable tumors
+The AJCC staging system gives a detailed summary of how far a GIST has spread. But for treatment purposes, doctors are often more concerned about whether the tumor can be removed (resected) completely with surgery.
+Whether or not a tumor is resectable depends on its size and location, if it has spread to other parts of the body, and if a person is healthy enough for surgery:
+
+Tumors that can clearly be removed without causing major health problems are defined as resectable.
+Tumors that can’t be removed completely (because they have spread or for other reasons) are described as unresectable.
+In some cases, doctors may describe a tumor as marginally resectable or borderline resectable if it’s not clear if it can be removed completely.
+
+If a tumor is considered unresectable or marginally resectable when it is first found, treatments such as targeted therapy may be used first to try to shrink the tumor enough to make it resectable.
+Other ways to determine treatment options and outlook
+Along with the stage and resectability of the cancer, other factors can also affect treatment options and outlook (prognosis). 
+For example, some GISTs are much more likely to grow and spread than others. Doctors are looking at ways to determine which tumors are potentially more dangerous (and therefore might need more aggressive treatment). Prediction tools have been developed to help with this. Doctors and patients can now get a reasonable idea of how likely a GIST is to grow and spread to other parts of the body, or to return (recur) after surgery, based on factors such as:
+
+Where the tumor starts
+The size of the tumor 
+The mitotic rate
+Whether or not the tumor has ruptured
+
+Doctors are also looking at how mutations in the KIT or PDGFR2A genes, which often drive the growth of GIST cells, might affect how well the cancer responds to treatment with targeted therapy drugs. Testing for these mutations is now becoming more common.Survival rates can give you an idea of what percentage of people with the same type and stage of cancer are still alive a certain amount of time (usually 5 years) after they were diagnosed. They can’t tell you how long you will live, but they may help give you a better understanding of how likely it is that your treatment will be successful.
+Keep in mind that survival rates are estimates and are often based on previous outcomes of large numbers of people who had a specific cancer, but they can’t predict what will happen in any particular person’s case. These statistics can be confusing and may lead you to have more questions. Ask your doctor how these numbers might apply to you.  
+What is a 5-year relative survival rate?
+A relative survival rate compares people with the same type and stage of gastrointestinal stromal tumor (GIST) to people in the overall population. For example, if the 5-year relative survival rate for a specific stage of GIST is 90%, it means that people who have that cancer are, on average, about 90% as likely as people who don’t have that cancer to live for at least 5 years after being diagnosed.
+Where do these numbers come from?
+The American Cancer Society relies on information from the Surveillance, Epidemiology, and End Results (SEER) database, maintained by the National Cancer Institute (NCI), to provide survival statistics for different types of cancer.
+The SEER database tracks 5-year relative survival rates for GIST in the United States, based on how far the cancer has spread. The SEER database, however, does not group cancers by AJCC TNM stages (stage 1, stage 2, stage 3, etc.). Instead, it groups cancers into localized, regional, and distant stages:
+
+Localized: The cancer is limited to the organ where it started (for example, the small intestine, esophagus, or stomach).
+Regional: The cancer has grown into nearby structures or spread to nearby lymph nodes.
+Distant: The cancer has spread to distant parts of the body such as the liver.
+
+5-year relative survival rates for GIST
+These numbers are based on people diagnosed with GIST [small intestine, esophagus, colon, rectum, peritoneum, stomach, omentum] between 2012 and 2018.
+
+
+
+SEER* Stage
+5-Year Relative Survival Rate
+
+
+Localized
+95%
+
+
+Regional
+84%
+
+
+Distant
+52%
+
+
+All SEER stages combined
+85%
+
+
+
+*SEER= Surveillance, Epidemiology, and End Results
+Understanding the numbers
+
+These numbers apply only to the stage of the cancer when it is first diagnosed. They do not apply later on if the cancer grows, spreads, or comes back after treatment.
+These numbers don’t take everything into account. Survival rates are grouped based on how far the cancer has spread, but other factors, such as your age and overall health, whether the cancer can be resected (removed), and how well the cancer responds to treatment, can also affect your outlook.
+People now being diagnosed with GIST may have a better outlook than these numbers show. Treatments have improved over time, and these numbers are based on people who were diagnosed and treated at least five years earlier.It’s important to have honest, open discussions with your cancer care team. You should feel free to ask any question, no matter how small it might seem. Some questions to consider:
+When you’re told you have a gastrointestinal stromal tumor (GIST)
+
+How sure are you that my tumor is a GIST?
+Where is my tumor located? How big is it?
+How likely is this tumor to grow or spread quickly?
+Has my tumor spread beyond where it started?
+What is my cancer's stage, and what does that mean?
+Will I need any other tests before we can decide on treatment?
+Will I need to see any other doctors?
+If I'm concerned about costs and insurance coverage for my diagnosis and treatment, who can help me?
+
+When deciding on a treatment plan
+
+How much experience do you have treating these tumors?
+What are my treatment options?
+What do you recommend? Why?
+What’s the goal of the treatment?
+Should I get a second opinion? If so, how do I do that? Can you recommend a doctor or cancer center?
+What are the chances my cancer can be cured?
+How quickly do we need to decide on treatment?
+What should I do to be ready for treatment?
+How long will treatment last? What will it be like? Where will it be done?
+What risks or side effects I should expect? How long are they likely to last?
+Will treatment affect my daily activities?
+How likely is it that the cancer will come back after treatment? Is there anything I can do to lower this risk?
+
+During treatment
+Once treatment begins, you’ll need to know what to expect and what to look for. Not all of these questions may apply to you, but getting answers to the ones that do may be helpful.
+
+How will we know if the treatment is working?
+Is there anything I can do to help manage side effects?
+What symptoms or side effects should I tell you about right away?
+How can I reach you or someone on your team on nights, holidays, or weekends?
+Do I need to change what I eat or my level of physical activity?
+Are there any limits on what I can do? 
+Do you know of any local or online support groups where I can talk to others who have been through this?
+Can you suggest a mental health professional I can see if I start to feel overwhelmed, depressed, or distressed?
+
+After treatment
+
+Are there any limits on what I can do?
+What symptoms should I watch for?
+Should I be exercising or following a special diet?
+What are the chances of my cancer coming back? Is there anything I can do to help lower my risk?
+What type of follow-up will I need after treatment?
+How will we know if the cancer has come back? What should I watch for?
+What will my options be if the cancer comes back?
+
+Along with these sample questions, be sure to write down some of your own. For instance, you might want more information about clinical trials for which you may qualify.
+Keep in mind that doctors aren’t the only ones who can give you information. Other health care professionals, such as nurses and social workers, can answer some of your questions. To find more about speaking with your health care team, see The Doctor-Patient Relationship.Surgery is usually the main treatment for gastrointestinal stromal tumors (GISTs) that haven’t spread. The goal of the surgery is to remove all of the cancer.
+The type of surgery needed depends on the location and size of the tumor.
+Surgery for small GISTs
+If the tumor is small, it often can be removed along with a small area of normal tissue around it. This is done through a cut (incision) in the skin. Unlike many other cancers, GISTs almost never spread to the lymph nodes, so removing nearby lymph nodes is usually not needed.
+For some small cancers, “keyhole” (laparoscopic) surgery is an option. Instead of making a large incision in the skin to remove the tumor, several small ones are used. The surgeon inserts a thin, lighted tube with a tiny video camera on the end (a laparoscope) through one of them. This lets them see inside the belly. Long, thin surgical tools are then used through the other incisions to remove the tumor. Because the incisions are small, patients usually recover more quickly from this type of surgery than from traditional surgery that requires a longer incision.
+Surgery for larger GISTs
+If the tumor is large or growing into other organs, the surgeon might still be able to remove it entirely. To do this, parts of organs (such as a section of the intestines) might need to be removed. The surgeon might also remove tumors that have spread elsewhere in the abdomen, such as the liver.
+Another option for tumors that are large or have grown into nearby areas might be to take the targeted drug imatinib (Gleevec) first, typically for at least several months. This is called neoadjuvant treatment and can often shrink the tumor, making it easier to remove with surgery.
+Surgery for metastatic GISTs
+Surgery is not a common treatment for a GIST that has spread (metastasized) to other parts of the body. Targeted therapy drugs are usually the first option for metastatic GISTs. But if there are no more than a few metastatic tumors and they respond well to targeted therapy, some doctors might advise surgery to remove them. No large studies have been done to show how helpful this is, but it might be an option. If your doctor offers this surgery, be sure you understand the goals and possible side effects.
+If the tumors are in the liver and would be hard to remove, other options might include different types of local treatments, such as ablation or embolization.
+Choosing your surgeon
+No matter what type of surgery is done, it's very important that it is done by a surgeon experienced in treating GISTs. GISTs are often delicate tumors, and surgeons must be careful not to open the outer lining that surrounds them (known as the capsule), because it might increase the risk of spreading the cancer. GISTs also tend to have a lot of blood vessels, so your surgeon has to be careful to control any bleeding from the tumor.
+For more information about finding a surgeon, see Where to Find Cancer Care.Some drugs can target certain proteins in gastrointestinal stromal tumor (GIST) cells that help them divide and grow. These targeted drugs (sometimes called precision drugs) are often very helpful in treating GISTs. They work differently from standard chemotherapy (chemo) drugs, which are usually not helpful.
+The targeted drugs used to treat GISTs are called tyrosine kinase inhibitors (TKIs), because they target proteins that are tyrosine kinases, such as KIT and PDGFRA.
+All of these targeted drugs are taken as pills, typically once a day.
+Imatinib (Gleevec)
+This drug is used to treat most people with GISTs at some point. Tumors can be tested for certain mutations in the KIT and PDGFRA genes before treatment, which can help tell how likely it is that imatinib will be helpful. This drug targets both the KIT and PDGFRA proteins, blocking their ability to help tumor cells grow and divide. In most GISTs, the cells have too much of one of these proteins.
+Most GISTs shrink when treated with imatinib. Some other tumors at least stop growing for a time. A small number of tumors are not helped by this treatment.
+Imatinib can be helpful in different situations:
+
+If a GIST has been removed completely by surgery, doctors typically recommend taking imatinib for at least a year afterward (unless the risk of the cancer coming back is low). This is known as adjuvant therapy. Many doctors now recommend at least 3 years of imatinib after surgery for patients who have a higher risk of their tumors returning (based on the tumor’s size, location, and mitotic rate).
+For larger tumors that may be hard to remove, imatinib may be used first to try to shrink the tumor and make surgery easier. This is known as neoadjuvant therapy. Imatinib is often given again after surgery as well, typically for at least 2 years.
+Imatinib is usually the treatment of choice for advanced GISTs that have spread too far to be removed by surgery. While it's unlikely to cure these tumors, it can often shrink or slow their growth for several years, helping people live longer and feel better. If the drug stops working and the tumor starts growing again, raising the dose of imatinib may help slow the growth for some time, but higher doses can also have more side effects.
+
+Side effects of imatinib can include mild stomach upset, diarrhea, muscle pain, and skin rashes. The stomach upset is lessened if the drug is taken with food. Imatinib can also make people retain fluid. Often this causes some swelling in the face (around the eyes) or in the ankles. The drug rarely can cause more severe problems, such as fluid building up in the lungs or in the abdomen. It can also affect heart function in some people.
+One other concern when using this drug to treat large GISTs is that these tumors often have a lot of fragile blood vessels. If imatinib causes the tumor to shrink quickly, it could lead to internal bleeding. For this reason, doctors watch patients carefully when they first start taking this drug.
+Sunitinib (Sutent)
+This drug can be useful in treating GISTs if imatinib is no longer working or if a person can’t take imatinib for some reason.
+Sunitinib targets the KIT and PDGFRA proteins, as well as several other proteins that imatinib does not target.
+Sunitinib helps some people, usually by shrinking or slowing the growth of the tumor. This may help some people live longer.
+Common side effects of sunitinib include fatigue, nausea, diarrhea, mouth irritation, and skin and hair color changes. More serious side effects can include high blood pressure, increased risk of bleeding, swelling, heart problems, and serious liver problems.
+Regorafenib (Stivarga)
+Regorafenib can be used to treat advanced GISTs if imatinib and sunitinib stop working, or if a person can’t take these drugs for some reason. This drug targets many proteins, including KIT and PDGFRA.
+Regorafenib can slow tumor growth and even shrink some tumors, although it’s not clear if it can help people live longer.
+Common side effects of regorafenib include belly pain, diarrhea, feeling tired or weak, mouth or throat irritation, fever, loss of appetite, and weight loss. Less common but more serious side effects can include infections, high blood pressure, heart problems, serious bleeding, trouble with wound healing, holes forming in the wall of the stomach or intestines, severe rashes, and problems with redness, pain, or even blistering of the palms of the hands and soles of the feet (called hand-foot syndrome).
+Ripretinib (Qinlock)
+Ripretinib is typically used to treat advanced GISTs if other TKIs such as imatinib, sunitinib, and regorafenib are no longer helpful, or if a person can’t take these drugs for some reason. This drug targets many kinase proteins, including KIT and PDGFRA.
+Ripretinib can slow tumor growth and even shrink some tumors, although it’s not yet clear if it can help people live longer.
+Common side effects of ripretinib can include hair loss, nausea and vomiting, loss of appetite, diarrhea or constipation, feeling tired, and muscle or belly pain. Less common but more serious side effects can include high blood pressure, an increased risk of new skin cancers, heart problems, trouble with wound healing, and problems with redness, pain, or even blistering of the palms of the hands and soles of the feet (called hand-foot syndrome).
+Avapritinib (Ayvakit)
+This is another TKI that targets PDGFRA and KIT, as well as several other proteins.
+Avapritinib is used mainly to treat advanced GISTs whose cells have a change in the PDGFRA gene known as an exon 18 mutation. These cancers typically don’t respond well to treatment with the TKIs above. 
+Common side effects of avapritinib can include swelling or fluid retention, fatigue, nausea and vomiting, loss of appetite, diarrhea or constipation, increased tears in the eyes, hair color changes, belly pain, rash, and dizziness. 
+More serious side effects can include bleeding in the brain, as well as central nervous system (CNS) effects, such as:
+
+Forgetfulness
+Confusion
+Trouble thinking
+Drowsiness
+Trouble sleeping
+Hallucinations
+Changes in mood or behavior
+
+Other tyrosine kinase inhibitors
+Several other TKIs are now being studied for use against GISTs as well. While there is limited evidence on how useful they are, some of the TKIs that might be options if those listed above are no longer working include:
+
+Sorafenib (Nexavar)
+Nilotinib (Tasigna)
+Dasatinib (Sprycel)
+Pazopanib (Votrient)
+
+Because it’s not exactly clear how well these and other TKIs work against GISTs, taking part in a clinical trial studying them might be a good option.If a gastrointestinal stromal tumor (GIST) has spread to the liver, treatments such as ablation and embolization might be used, especially if surgery can't be done to remove the tumors.  
+Ablation
+Ablation is the destruction of tumors using extreme heat or cold, or using chemicals. It can sometimes be used to destroy GISTs that have spread as no more than a few small tumors in the liver. Because ablation often destroys some of the normal tissue around the tumor, it might not be a good choice for treating tumors near important structures like major blood vessels, the diaphragm (the thin breathing muscle above the liver), or major ducts in the liver.
+There are several types of ablation:
+
+Radiofrequency ablation (RFA), which uses high-energy radio waves to heat the tumor and destroy cancer cells
+Ethanol (alcohol) ablation, where concentrated alcohol is injected directly into the tumor to kill cancer cells
+Microwave thermotherapy, where microwaves transmitted through a probe placed in the tumor are used to heat and destroy the cancer cells
+Cryosurgery (cryotherapy), which destroys a tumor by freezing it using a thin metal probe. This method sometimes requires general anesthesia (you are in a deep sleep and not able to feel pain)
+
+What to expect
+Usually, you don't need to stay overnight in the hospital for this type of treatment. Ablation can often can be done without surgery by inserting a needle or probe into the tumor through the skin. The needle or probe is guided into place with ultrasound or CT scanning. This might be done with general anesthesia (you are in a deep sleep) or with conscious sedation (you are awake but sleepy and should not feel any pain). Sometimes, though, to be sure the treatment is aimed at the right place, it is done during surgery.
+Possible side effects of ablation
+Possible side effects after ablation therapy include abdominal (belly) pain, infection in the liver, and bleeding into the chest cavity or abdomen. Serious complications are uncommon, but they can happen.
+Embolization
+Embolization is a procedure in which the doctor injects substances to try to block or reduce the blood flow to cancer cells in the liver.
+The liver is unusual in that it has 2 blood supplies. Most normal liver cells are fed by branches of the portal vein, whereas cancer cells in the liver are usually fed by branches of the hepatic artery. Blocking the branch of the hepatic artery feeding the tumor helps kill off the cancer cells, but it leaves most of the healthy liver cells unharmed because they get their blood supply from the portal vein.
+Embolization does reduce some of the blood supply to the normal liver tissue, so it might not be a good option for some patients whose liver has already been damaged by diseases such as hepatitis or cirrhosis.
+What to expect
+The main type of embolization used to treat GISTs that have spread to the liver is arterial embolization (also known as trans-arterial embolization or TAE). In this procedure, a catheter (a thin, flexible tube) is put into an artery through a small cut in the inner thigh and threaded up into the hepatic artery in the liver. A dye is usually injected into the bloodstream at this time to help the doctor see the path of the catheter via angiography, a special type of x-ray. Once the catheter is in place, small particles are injected into the artery to plug it up.
+Embolization can also be done by injecting tiny radioactive spheres into the hepatic artery (radioembolization), or by giving chemo directly into the artery just before plugging it up (chemoembolization). But it’s not clear that either of these techniques is better than TAE.  
+This procedure might be done with general anesthesia (where you are in a deep sleep) or with conscious sedation (where you are awake but sleepy and should not feel any pain). Typically, you won't have to stay overnight in the hospital for an embolization procedure.
+Possible side effects of embolization
+Possible complications after embolization include abdominal (belly) pain, fever, nausea, infection in the liver, gallbladder inflammation, and blood clots in the main blood vessels of the liver. Because healthy liver tissue can be affected, there is a risk that liver function will get worse after treatment. This risk is higher if a large branch of the hepatic artery is embolized. Serious complications are not common, but they are possible.Chemotherapy (chemo) is the use of drugs to treat cancer. Often, these drugs are injected into a vein (IV) or given by mouth. They enter the bloodstream and reach throughout the body, making this treatment potentially useful for cancers that have spread beyond the organ they started in.
+Any drug used to treat cancer can be considered chemo, even the targeted therapy drugs like imatinib (Gleevec) that are now commonly used to treat gastrointestinal stromal tumors (GISTs). But the term chemo is generally used to describe certain drugs that work by attacking quickly growing cells anywhere in the body, which includes cancer cells.
+Before targeted therapy drugs were found to be helpful in treating GISTs, traditional chemo drugs were often tried. But GISTs rarely shrink in response to these drugs, so traditional chemo is rarely used today. People considering chemo may want to think about taking part in a clinical trial.
+Possible side effects
+Chemo drugs can cause side effects. These depend on the specific drugs used, their doses, and how long they are taken. Common side effects of chemo include:
+
+Nausea and vomiting
+Loss of appetite
+Mouth sores
+Diarrhea
+Hair loss
+An increased chance of infection (from a shortage of white blood cells)
+Problems with bleeding or bruising (from a shortage of blood platelets)
+Fatigue or shortness of breath (from a shortage of red blood cells)
+
+Along with the risks above, some chemo drugs can cause other side effects.
+Ask your health care team what side effects you can expect based on the specific drugs you will get. Be sure to tell your doctor or nurse if you do have side effects, as there are often ways to help with them. For example, drugs can be given to help prevent or reduce nausea and vomiting.Radiation therapy is the use of high-energy x-rays (or particles) to kill cancer cells. Radiation is not very helpful in treating gastrointestinal stromal tumors (GISTs), so it is not used often. But sometimes it can be used to relieve symptoms like bone pain.
+Before your treatment starts, the radiation team will take careful measurements to find the correct angles for aiming the radiation beams and the proper dose of radiation. This planning session, called simulation, usually includes getting imaging tests such as CT or MRI scans.
+Radiation therapy is much like getting an x-ray, but the radiation is much stronger. The treatment itself is painless. It lasts only a few minutes, although the setup time – getting you into place for treatment – usually takes longer. You might get radiation treatment for several days in a row.
+Possible side effects of radiation
+Depending on where the radiation is aimed, side effects may include:
+
+Skin changes in areas getting radiation, ranging from redness to blistering and peeling
+Nausea and vomiting
+Diarrhea
+Fatigue
+Low blood counts
+
+Most side effects go away a short while after treatment ends, although fatigue and skin changes may last longer. Talk with your doctor about the possible side effects and the ways to reduce or relieve them.Treatment for gastrointestinal stromal tumors (GISTs) depends mainly on factors such as:
+
+If the tumor can be resected (removed) with surgery, which is based on the size of the tumor, where it is, and how far it has spread
+How quickly the tumor is growing (its mitotic rate)
+If the tumor cells have certain gene mutations
+The risk of the tumor coming back after treatment
+
+Other factors, such as a person’s age and overall health, can be important as well.
+Localized, smaller (resectable) tumors
+Most small GISTs need to be treated. But some very small tumors (less than 2 centimeters across) that are not causing any symptoms might never grow enough to cause any problems. One option for such a tumor might be to just watch it carefully, checking it with endoscopy at regular intervals, such as once or twice a year. As long as it is not growing, you might not need further treatment.
+Surgery is the main treatment for most other small tumors. The need for further treatment after surgery depends on the risk of the GIST coming back.
+Tumors that are small and are not growing quickly typically have a low risk of coming back, so often no further treatment is needed.
+The risk of a GIST coming back after surgery is higher if:
+
+The tumor is larger
+It did not start in the stomach
+The cancer cells are dividing quickly (have a high mitotic rate)
+
+If the doctor thinks that the cancer has an intermediate or high risk of coming back based on these factors, adjuvant treatment with the targeted drug imatinib (Gleevec) is typically recommended for at least a year after surgery. For tumors that are highly likely to come back, many doctors now recommend at least 3 years of imatinib.
+The doctor will likely test the tumor cells for certain changes in the KIT and PDGFRA genes before prescribing imatinib. This is because imatinib isn’t likely to be helpful for tumors that don’t have one of these gene changes​.
+Localized, larger (marginally resectable) tumors
+Tumors that are larger or in places that make them harder to remove (resect) completely might require more extensive surgery, which could cause health problems both in the short term and later on. Because of this, surgery is not typically the first treatment.
+Treatment with the targeted drug imatinib (Gleevec) is usually done first to try to shrink the tumor. But before starting treatment, it’s important to be sure that the tumor is in fact a GIST, so a biopsy is needed. As part of the testing of the biopsy sample, the tumor cells are typically checked for certain changes in the KIT and PDGFRA genes. This is because imatinib isn’t likely to be helpful for tumors that don’t have one of these gene changes. If imatinib is given, it is continued at least until the tumor stops shrinking.
+If the tumor shrinks enough, surgery might be done if the doctor thinks it can be removed safely. Imatinib will likely be continued after surgery to help lower the chance that the cancer will come back.
+If the tumor doesn’t shrink enough to make surgery possible, imatinib is often continued for as long as it seems to help. If it's no longer working, sometimes upping the dose can be helpful. If not, or if the side effects are too severe, another targeted drug, sunitinib (Sutent), may be tried instead. If sunitinib is no longer working, regorafenib (Stivarga) may help some people. If this drug is no longer working, ripretinib (Qinlock) may be helpful.
+Tumors that are not removable or have spread to distant sites (unresectable tumors)
+Treatment options for unresectable GISTs depend on why they are unresectable and, if they have spread, how extensive the spread is.
+Surgery is not typically the first treatment for these tumors, so before starting treatment, it’s important to confirm that the tumor is in fact a GIST with a biopsy. 
+The targeted drug imatinib (Gleevec) is typically the preferred first treatment for most advanced GISTs. (The targeted drug avapritinib (Ayvakit) might be used instead if the cancer cells have certain changes in the PDGFRA gene.) As part of the testing of the biopsy sample, the tumor cells might be checked for certain changes in the KIT and PDGFRA genes. This can give an idea of how likely it is that imatinib (or avapritinib) will be helpful.
+If imatinib is used, it is continued for as long as the tumor doesn’t grow (and the side effects are tolerable). If the tumor starts to grow again, it may respond to increasing the dose of imatinib. If not, or if the side effects from imatinib are too severe, a switch to sunitinib (Sutent) may be helpful. If sunitinib is no longer working, regorafenib (Stivarga) may help some people. If regorafenib is no longer helpful, ripretinib (Qinlock) may be an option.
+If the tumor shrinks enough with targeted therapy, surgery may then be an option for some people. This might be followed by more targeted therapy if it is still effective.
+If the cancer has spread to only 1 or 2 sites in the abdomen (such as the liver), the doctor may advise removing the main tumor and trying to remove these other tumors as well. If this is the case, be sure to talk with your doctor about what the goals of treatment are (whether it is to try to cure the cancer, to help you live longer, or to prevent or reduce symptoms), as well as its possible benefits and risks.
+Other options to treat cancers that have spread to the liver include ablation and embolization to try to destroy these tumors.
+Cancers that are no longer responding to the targeted drugs discussed above can be hard to treat. Some doctors may recommend trying other targeted drugs, such as sorafenib (Nexavar), dasatinib (Sprycel), nilotinib (Tasigna), or pazopanib (Votrient), although it’s not yet clear how helpful these drugs are.
+Standard chemotherapy drugs are usually not very effective. Taking part in a clinical trial of a newer treatment may be a good option for some people.
+Recurrent tumors
+When a cancer comes back after treatment, it is called a recurrence. If the cancer comes back (recurs) in or near the place it started, it is called a local recurrence. If it recurs at other sites (like the lungs or liver), it is called a distant recurrence. Treatment options for recurrent GISTs depend on the location and extent of the recurrence.
+For most recurrences, treatment with the targeted drug imatinib (Gleevec) is often the first option to try to shrink any tumors, as long as it is still effective and the patient can tolerate taking it. If the starting dose of imatinib doesn't work, the dose can be increased. Another option is to try other targeted drugs, such as sunitinib (Sutent), regorafenib (Stivarga), or ripretinib (Qinlock).
+If the cancer comes back as one or more well-defined tumors, removing or destroying the tumor may be an option. Doctors are still not certain if removing GISTs that come back after treatment helps people live longer, so it's important to discuss the risks and benefits of this treatment with your doctor and family.
+Radiation therapy might also be an option to help treat symptoms such as pain, especially in tumors in the bones.
+If the targeted drugs mentioned above are no longer helpful, some doctors may recommend trying other targeted drugs, such as sorafenib (Nexavar), dasatinib (Sprycel), nilotinib (Tasigna), or pazopanib (Votrient), although it’s not yet clear how helpful these drugs are.
+Because these cancers are often hard to treat, you may want to consider taking part in clinical trials of newer treatments as well.For some people with a gastrointestinal stromal tumor (GIST), treatment can remove or destroy the cancer. Completing treatment can be both stressful and exciting. You may be relieved to finish treatment, but find it hard not to worry about cancer coming back. (When cancer comes back after treatment, it’s called a recurrence.) This is a very common concern if you've had cancer.
+For some people, the GIST may never go away completely. These people may get regular treatments with targeted therapy drugs or other therapies to help keep the cancer in check and to help relieve symptoms. Learning to live with cancer that doesn't go away can be difficult and very stressful. It has its own type of uncertainty.
+Follow-up care
+Whether you have completed treatment or are still being treated, your doctors will still want to watch you closely. It's very important to go to all of your follow-up appointments, as GISTs can sometimes come back after treatment.
+Some treatment side effects might last a long time or might not even show up until years after you have finished treatment. Your doctor visits are a good time to ask questions and talk about any changes or problems you notice or concerns you have.
+Exams and tests
+During your follow-up visits, your doctors will ask about symptoms, examine you, and may order imaging tests like CT scans. Because of the risk that a GIST may come back after treatment, doctors often recommend follow-up visits every 3 to 6 months for at least several years after treatment, and then possibly less frequently afterward.
+Ask your doctor for a survivorship care plan
+Talk with your doctor about developing a survivorship care plan for you. This plan might include: 
+
+A suggested schedule for follow-up exams and tests
+A schedule for other tests you might need in the future, such as early detection (screening) tests for other types of cancer, or tests to look for long-term health effects from your cancer or its treatment
+A list of possible late- or long-term side effects from your treatment, including what to watch for and when you should contact your doctor
+Diet and physical activity suggestions
+
+Keeping health insurance and copies of your medical records
+Even after treatment, it’s very important to keep health insurance. Tests and doctor visits cost a lot, and even though no one wants to think of their cancer coming back, this could happen.
+At some point after your treatment, you might find yourself seeing a new doctor who doesn’t know about your medical history. It’s important to keep copies of your medical records to give your new doctor the details of your diagnosis and treatment. Learn more in Keeping Copies of Important Medical Records.
+Can I lower my risk of the tumor progressing or coming back?
+If you have (or have had) a GIST, you probably want to know if there are things you can do that might lower your risk of the tumor growing or coming back, such as exercising, eating a certain type of diet, or taking nutritional supplements. Unfortunately, it’s not yet clear if there are things you can do that will help.
+Adopting healthy behaviors such as not smoking, eating well, getting regular physical activity, and staying at a healthy weight might help, but no one knows for sure. However, we do know that these types of changes can have positive effects on your health that can extend beyond your risk of GIST or other cancers.
+About dietary supplements
+So far, no dietary supplements (including vitamins, minerals, and herbal products) have been shown to clearly help lower the risk of cancers such as GISTs progressing or coming back. This doesn’t mean that no supplements will help, but it’s important to know that none have been proven to do so.
+Dietary supplements are not regulated like medicines in the United States – they do not have to be proven effective (or even safe) before being sold, although there are limits on what they’re allowed to claim they can do. If you’re thinking about taking any type of nutritional supplement, talk to your health care team. They can help you decide which ones you can use safely while avoiding those that might be harmful.
+If the GIST comes back
+If cancer does recur, your treatment options will depend on the location of the cancer, and what treatments you’ve had before, and your current health and preferences. For more information on how recurrent cancer is treated, see Typical Treatment Options for Gastrointestinal Stromal Tumors. For more general information on dealing with a recurrence, see  Coping With Cancer Recurrence.
+Getting emotional support
+Some amount of feeling depressed, anxious, or worried is normal when cancer is a part of your life. Some people are affected more than others. But everyone can benefit from help and support from other people, whether friends and family, religious groups, support groups, professional counselors, or others.What are GISTs?
+Cancer can start any place in the body. A GIST (pronounced “jist”) is an uncommon type of cancer that starts in the digestive tract, also known as the gastrointestinal (GI) tract. This is the path inside our body that food passes through. Most GISTs start in the stomach or small intestine, but they can also start in the esophagus (the tube that connects the throat to the stomach), colon, rectum, or other places.

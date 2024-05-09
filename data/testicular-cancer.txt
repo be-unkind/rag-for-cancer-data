@@ -1,0 +1,656 @@
+Cancer starts when cells begin to grow out of control. Cells in nearly any part of the body can become cancer and spread to other parts of the body. To learn more about how cancers start and spread, see What Is Cancer?
+Cancer that starts in the testicles is called testicular cancer. To understand this cancer, it helps to know about the normal structure and function of the testicles.
+What are testicles?
+Testicles (also called testes; a single testicle is called a testis) are part of the male reproductive system. The 2 organs are each normally a little smaller than a golf ball in adult males. They're held within a sac of skin called the scrotum. The scrotum hangs under the base of the penis.The American Cancer Society’s estimates for testicular cancer in the United States for 2024 are:
+
+About 9,760 new cases of testicular cancer diagnosed
+About 500 deaths from testicular cancer
+
+The incidence rate of testicular cancer has been increasing in the US and many other countries for several decades. The increase is mostly in seminomas. Experts have not been able to find reasons for this. Lately, the rate of increase has slowed.
+Testicular cancer is not common: about 1 of every 250 males will develop testicular cancer at some point during their lifetime.
+The average age of males when first diagnosed with testicular cancer is about 33. This is largely a disease of young and middle-aged men, but about 6% of cases occur in children and teens, and about 8% occur in men older than 55.
+Because testicular cancer usually can be treated successfully, a man’s lifetime risk of dying from this cancer is very low: about 1 in 5,000 . If you would like to know more about survival statistics, see Testicular cancer survival rates.
+Visit the American Cancer Society’s Cancer Statistics Center for more key statistics.Important research into testicular cancer is being done in many university hospitals, medical centers, and other institutions around the world. Each year, scientists find out more about what causes the disease, how to prevent it, and how to improve treatment.
+Genetics
+In recent years, researchers have found that changes in certain genes, such as PLAP, NANOG, SOX2, and REX1, appear to be linked to testicular cancer. These findings could someday help identify men at higher risk, but they need to be studied more.
+Scientists are also studying changes in the genes of testicular cancer cells to learn more about the causes of this disease. Their hope is that improved understanding will lead to better treatment. Certain gene mutations found in the testicular cancer cells have been linked to resistance to chemotherapy and predict poor outcomes. These findings may help personalize treatment. They could also help find new drugs to treat testicular cancer, drugs that can target these gene mutations. A better understanding of the genetic changes will also help doctors decide which patients need further treatment and which ones can be safely treated with surgery alone.
+Treatment
+Clinical trials have refined doctors’ approaches to treating these cancers. For example, studies have found factors that help predict which patients have a particularly good prognosis and may not need lymph node surgery or radiation therapy. Studies also have found unfavorable prognostic factors that suggest certain patients may benefit from more intense treatment.
+New drugs and new drug combinations are being tested for patients with testicular cancer that comes back or doesn't respond to treatment. And high-dose chemotherapy followed by a stem cell transplant is being studied for men who have tumors with a poor prognosis.
+Sentinel lymph node biopsy is used for other types of cancer to help limit the number of nodes that are removed, which can decrease the risk of long-term side effects. Researchers are looking at how this procedure might be used with testicular cancer.
+Other studies are using robotic-assisted surgery to remove lymph nodes after chemotherapy. It appears to be a safe option instead of standard "open" surgery, but more research is needed to show this and to see if there are other benefits.
+Long-term treatment side effects
+A large amount of work is being done to try to better understand, limit, and prevent the long-term toxicities of treatment while maintaining the high cure rate. Chemo combinations are being refined to see if eliminating certain drugs, replacing them with others, or lowering doses can reduce side effects for some men without reducing the effectiveness of treatment.
+Doctors also want to be able to predict whose cancer is more likely to come back later (recur) and then base treatment on this. This way they couldn't under- or over-treat anyone. For instance, one study reported good results by individualizing treatment in men with metastatic cancer based on the decline of tumor marker (AFP and HCG) levels after chemo, giving more intense treatment to those with a slower decline.A risk factor is anything that changes your chance of getting a disease such as cancer. Different cancers have different risk factors. Some risk factors, like smoking and diet, can be changed. Others, like a person’s age or family history, can’t be changed.
+But having a risk factor, or even many, does not mean that you will get the disease. Just as not having risk factors doesn’t mean you won’t get the disease. And some people who get the disease may not have had any known risk factors. Even if a person with testicular cancer has a risk factor, it’s often very hard to know how much that risk factor contributed to the cancer.
+Scientists have found few risk factors that make someone more likely to develop testicular cancer.The exact cause of most testicular cancers is not known. But scientists have found that the disease is linked with a number of other conditions.  A great deal of research is being done to learn more about the causes.
+Researchers are learning how certain changes in a cell’s DNA can cause the cell to become cancer. DNA is the chemical in each of our cells that makes up our genes. Genes tell our cells how to function. They are packaged in chromosomes, which are long strands of DNA in each cell. Most cells in the body have 2 sets of 23 chromosomes (one set of chromosomes comes from each parent), but each sperm or egg cell has only 23 chromosomes (one set). When the sperm and egg combine, the resulting embryo has a normal number of chromosomes in each cell, half of which are from each parent. We usually look like our parents because they are the source of our DNA. But DNA affects more than how we look.
+Some genes control when our cells grow, divide into new cells, and die.
+
+Certain genes that help cells grow and divide are called oncogenes.
+Others that slow down cell division or make cells die at the right time are called tumor suppressor genes.
+
+Cancers can be caused by changes in chromosomes that turn on oncogenes or turn off tumor suppressor genes.
+Most testicular cancer cells have extra copies of a part of chromosome 12 (called isochromosome 12p or i12p). Some testicular cancers have changes in other chromosomes as well, or even abnormal numbers of chromosomes (often too many). Scientists are studying these DNA and chromosome changes to learn more about which genes are affected and how this might lead to testicular cancer.Many men with testicular cancer have no known risk factors. And some of the known risk factors, such as undescended testicles, White race, and a family history of the disease, can’t be changed. For these reasons, it's not possible to prevent most cases of this disease at this time.
+Experts recommend correcting cryptorchidism in boys for a number of reasons (such as preserving fertility and body image), but it’s not clear how much this changes the child’s risk for testicular cancer.Most testicular cancers can be found at an early stage, when they're small and haven't spread. In some men, early testicular cancers cause symptoms that lead them to seek medical attention. Most of the time a lump on the testicle is the first symptom, or the testicle might be swollen or larger than normal. But some testicular cancers might not cause symptoms until they've reached an advanced stage.
+Most doctors agree that examining a man’s testicles should be part of a general physical exam during a routine check-up.
+Some doctors recommend that all men examine their testicles monthly after puberty. Each man has to decide for himself whether or not to do this, so instructions for testicular exams are included in this section. If you have certain risk factors that increase your chance of developing testicular cancer (such as an undescended testicle, previous germ cell tumor in one testicle, or a family history), you should seriously consider monthly self-exams and talk about it with your doctor.
+The American Cancer Society advises men to be aware of testicular cancer and to see a doctor right away if they find a lump in a testicle. Because regular testicular self-exams have not been studied enough to know if they reduce the death rate from this cancer, the ACS does not have a recommendation on regular testicular self-exams for all men.
+Testicular self-exam
+The best time for you to examine your testicles is during or after a bath or shower, when the skin of the scrotum is relaxed.
+
+Hold your penis out of the way and examine each testicle separately.
+Hold your testicle between your thumbs and fingers with both hands and roll it gently between your fingers.
+Look and feel for any hard lumps or nodules (smooth rounded masses) or any change in the size, shape, or consistency of your testicles.
+
+It’s normal for one testicle to be slightly larger than the other, and for one to hang lower than the other. You should also be aware that each normal testicle has a small, coiled tube called the epididymis that can feel like a small bump on the upper or middle outer side of the testis. Normal testicles also contain blood vessels, supporting tissues, and tubes that carry sperm. Some men may confuse these with abnormal lumps at first. If you have any concerns, ask your doctor.
+A testicle can get larger for many reasons other than cancer. For example, fluid can collect around the testicle to form a hydrocele. Or the veins in the testicle can dilate and cause enlargement and lumpiness around the testicle. This is called a varicocele. If your testicle seems larger, have a doctor examine you to be sure you have one of these conditions and not a tumor. The doctor may order an ultrasound exam (see Tests for Testicular Cancer). This is an easy and painless way of finding a tumor.
+If you choose to examine your testicles regularly, you will get to know what's normal and what's different. Always report any changes to your doctor without delay.Many of these symptoms are more likely to be caused by something other than testicular cancer. A number of non-cancerous conditions, such as testicle injury or inflammation, can cause symptoms a lot like those of testicular cancer. Inflammation of the testicle (known as orchitis) and inflammation of the epididymis (epididymitis) can cause swelling and pain of the testicle. Both of these also can be caused by viral or bacterial infections.
+Some men with testicular cancer have no symptoms at all, and their cancer is found during medical testing for other conditions. For instance, sometimes imaging tests done to find the cause of infertility can uncover a small testicular cancer.
+But if you have any of these signs or symptoms, see your doctor right away.
+Lump or swelling in the testicle
+Most often, the first symptom of testicular cancer is a lump on the testicle, or the testicle becomes swollen or larger. (It’s normal for one testicle to be slightly larger than the other, and for one to hang lower than the other.) Some testicular tumors might cause pain, but most of the time they don't. Men with testicular cancer can also have a feeling of heaviness or aching in the lower belly (abdomen) or scrotum.
+Breast growth or soreness
+In rare cases, germ cell tumors can make breasts grow or become sore. This happens because certain types of germ cell tumors secrete high levels of a hormone called human chorionic gonadotropin (HCG), which stimulates breast development.
+Some Leydig cell tumors can make estrogens (female sex hormones), which can cause breast growth or loss of sexual desire.
+Early puberty in boys
+Some Leydig cell tumors can make androgens (male sex hormones). Androgen-producing tumors may not cause any symptoms in men, but in boys they can cause signs of puberty at an abnormally early age, such as a deepening voice and the growth of facial and body hair.
+Symptoms of advanced testicular cancer
+Even if testicular cancer has spread to other parts of the body, many men might not have symptoms right away. But some men might have some of the following:
+
+Low back pain, from cancer spread to the lymph nodes (bean-sized collections of immune cells) in back of the belly.
+Shortness of breath, chest pain, or a cough (even coughing up blood) may develop from cancer spread in the lungs.
+Belly pain, either from enlarged lymph nodes or because the cancer has spread to the liver.
+Headaches or confusion, from cancer spread in the brain.Testicular cancer is usually found as a result of symptoms that a person is having. It can also be found when tests are done for another condition. The next step is an exam by a doctor.
+The doctor will feel the testicles for swelling or tenderness and for the size and location of any lumps. The doctor will also examine your belly (abdomen), lymph nodes, and other parts of your body carefully to look for signs of cancer spread. Often the results of the exam are normal other than the changes in the testicles. If a lump or other sign of testicular cancer is found, testing will be needed to look for the cause.
+Ultrasound of the testicles
+An ultrasound is often the first test done if the doctor thinks you might have testicular cancer. It uses sound waves to produce images of the inside of your body. It can be used to see if a change is a certain benign condition (like a hydrocele or varicocele) or a solid tumor that could be a cancer. If the lump is solid, it’s more likely to be a cancer. In this case, the doctor might recommend other tests or even surgery to remove the testicle.
+Blood tests for tumor markers
+Some blood tests can help diagnose testicular tumors. Many testicular cancers make high levels of certain proteins called tumor markers, such as alpha-fetoprotein (AFP) and human chorionic gonadotropin (HCG). When these tumor markers are in the blood, it suggests that there's a testicular tumor.
+Rises in levels of AFP or HCG can also help doctors tell which type of testicular cancer it might be.
+
+Non-seminomas often raise AFP and/or HCG levels.
+Pure seminomas occasionally raise HCG levels but never AFP levels.
+
+This means any increase in AFP is a sign that the tumor has a non-seminoma component. (Tumors can be mixed and have areas of seminoma and non-seminoma.) Sertoli and Leydig cell tumors don't make these substances. It's important to note that some cancers are too small to elevate tumor markers levels.
+A testicular tumor might also increase the levels of an enzyme called lactate dehydrogenase (LDH). A high LDH level often (but not always) indicates widespread disease. But, LDH levels can also be increased with some non-cancerous conditions.
+Tumor marker tests sometimes are also used for other reasons, such as to help estimate how much cancer is present (see Testicular Cancer Stages) to see how well treatment is working, or to look for signs the cancer might have come back.
+Surgery to diagnose testicular cancer
+Most types of cancer are diagnosed by removing a small piece of the tumor and looking at it under a microscope for cancer cells. This is known as a biopsy. But a biopsy is rarely done for a testicular tumor because it might risk spreading the cancer. The doctor can often get a good idea of whether it's testicular cancer based on the ultrasound and blood tumor marker tests, so instead of a biopsy the doctor will very likely recommend surgery (a radical inguinal orchiectomy) to remove the tumor as soon as possible.
+The entire testicle is sent to the lab, where a pathologist (a doctor specializing in laboratory diagnosis of diseases) looks at pieces of the tumor with a microscope. If cancer cells are found, the pathologist sends back a report describing the type and extent of the cancer.
+In very rare cases, when a diagnosis of testicular cancer is uncertain, the doctor may biopsy the testicle before removing it. This is done in the operating room. The surgeon makes a cut above the pubic area, takes the testicle out of the scrotum, and examines it without cutting the spermatic cord. If a suspicious area is seen, a piece of it is removed and looked at right away by the pathologist. If cancer is found, the testicle and spermatic cord are then removed. If the tissue is not cancer, the testicle can often be returned to the scrotum.
+If testicular cancer is found, your doctor will order imaging tests of other parts of your body to check for spread outside the testicle. These tests may also be done before the diagnosis is confirmed by surgery.
+Imaging tests
+Imaging tests use x-rays, magnetic fields, sound waves, or radioactive substances to create pictures of the inside of your body. Ultrasound of the testicles, described above, is a type of imaging test. Other imaging tests may be done for a number of reasons after a testicular cancer diagnosis, including:
+
+To learn if and how far the cancer might have spread
+To help determine if treatment worked
+To look for possible signs of cancer coming back after treatment
+
+Chest x-ray
+Your chest may be x-rayed to see if cancer has spread to your lungs.
+Computed tomography (CT) scan
+CT scans can be used to help determine the stage (extent) of the cancer by showing if it has spread to the lymph nodes, lungs, liver, or other organs.
+Magnetic resonance imaging (MRI) scan
+MRI scans are very good for looking at the brain and spinal cord. They are only done in patients with testicular cancer if the doctor has reason to think the cancer might have spread to those areas.
+Positron emission tomography (PET) scan
+A PET scan can help spot small collections of cancer cells in the body. It's sometimes useful to see if lymph nodes that are still enlarged after chemotherapy contain cancer or are just scar tissue. PET scans are often more useful for seminomas than for non-seminomas, so they are less often used in patients with non-seminoma. Many centers have special machines that can do both a PET and CT scan at the same time (PET/CT scan). This lets the doctor compare areas of higher radioactivity on the PET with the more detailed images of the CT.
+Bone scan
+A bone scan can help show if a cancer has spread to the bones. It might be done if there is reason to think the cancer might have spread to the bones (because of symptoms such as bone pain) and if other test results aren’t clear.After someone is diagnosed with testicular cancer, doctors will try to figure out if it has spread, and if so, how far. This process is called staging. The stage of a cancer describes how much cancer is in the body. It helps determine how serious the cancer is and how best to treat it. Doctors also use a cancer's stage when talking about survival statistics.
+The earliest stage of testicular cancer is stage 0 (also called germ cell neoplasia in situ, or GCNIS). The other stage groupings range from I (1) through III (3). There is no stage IV (4) testicular cancer. Some stages are split further to cover more details, using capital letters (A, B, etc.). 
+As a rule, the lower the number, the less the cancer has spread. A higher number, such as stage III, means cancer has spread more. And within a stage, an earlier letter means a lower stage. Although each person’s cancer experience is unique, cancers with similar stages tend to have a similar outlook and are often treated in much the same way.
+How is the stage determined?
+The staging system most often used for testicular cancer is the American Joint Committee on Cancer (AJCC) TNM system, which is based on 4 key pieces of information:
+
+The size and extent of the main tumor (T): How large is the tumor? Has it grown into nearby structures or organs?
+The spread to nearby lymph nodes (N): Has the cancer spread to nearby lymph nodes ? How many, and how big are they?
+The spread (metastasis) to distant sites (M): Has the cancer spread to distant parts of the body? (The most common sites of spread are distant lymph nodes, the bones, the liver, and the lungs.)
+The serum (blood) levels of tumor markers (S): Are any tumor marker levels higher than normal? This includes lactate dehydrogenase (LDH), human chorionic gonadotropin (HCG), and alpha-fetoprotein (AFP).
+
+Numbers or letters after T, N, M, and S provide more details about each of these factors. Higher numbers mean the cancer is more advanced. Once a person’s T, N, M, and S categories have been determined, this information is combined in a process called stage grouping to assign an overall stage. For more on this, see Cancer Staging.
+The system described below is the most recent AJCC system, effective as of January 2018. It's used for germ cell tumors (seminomas and non-seminomas) that occur after puberty, and for sex cord stromal tumors (Leydig cell tumors and Sertoli cell tumors).
+Testicular cancer might be given a clinical T category (written as cT) based on the results of a physical exam, biopsy, and imaging tests (as described in Tests for Testicular Cancer). Once surgery is done, the pathologic T category (written as pT) is determined by examining tissue removed during the operation.
+Testicular cancer staging can be complex, so ask your doctor to explain it to you in a way you understand.
+Stages of testicular cancer
+
+
+
+AJCC Stage
+Stage grouping
+Stage description*
+
+
+0
+pTis N0 M0 S0
+The cancer is only in the seminiferous tubules (small tubes inside each testicle). It has not grown into other parts of the testicle (pTis). It hasn't spread to nearby lymph nodes (N0) or to distant parts of the body (M0). All tumor marker levels are within normal limits (S0).
+
+
+I
+pT1-pT4 N0 M0 SX
+The tumor has grown beyond the seminiferous tubules, and might have grown outside the testicle and into nearby structures (pT1-pT4). The cancer has not spread to nearby lymph nodes (N0) or to distant parts of the body (M0). Tumor marker test results aren’t available, or the tests haven’t been done (SX).
+
+
+IA
+pT1 N0 M0 S0
+The tumor has grown beyond the seminiferous tubules, but is still within the testicle, and it hasn't grown into nearby blood vessels or lymph nodes (pT1). The cancer hasn't spread to nearby lymph nodes (N0) or to distant parts of the body (M0). All tumor marker levels are within normal limits (S0).
+
+
+IB
+pT2-pT4 N0 M0 S0
+The tumor has grown outside of the testicle and into nearby structures (pT2-pT4). The cancer has not spread to nearby lymph nodes (N0) or to distant parts of the body (M0). All tumor marker levels are within normal limits (S0).
+
+
+IS
+Any pT (or TX) N0 M0 S1-S3
+The tumor might or might not have grown outside the testicle (any pT), or the extent of the tumor can’t be assessed for some reason (TX). The cancer has not spread to nearby lymph nodes (N0) or to distant parts of the body (M0). At least one tumor marker level is higher than normal (S1-S3).
+
+
+II
+Any pT (or TX) N1-N3 M0 SX
+The tumor might or might not have grown outside the testicle (any pT), or the extent of the tumor can’t be assessed for some reason (TX). The cancer has spread to 1 or more nearby lymph nodes (N1-N3), but it hasn't spread to distant parts of the body (M0). Tumor marker test results aren’t available, or the tests haven’t been done (SX).
+
+
+IIA
+Any pT (or TX) N1 M0 S0 or S1
+The tumor might or might not have grown outside the testicle (any pT), or the extent of the tumor can’t be assessed for some reason (TX). The cancer has spread to at least 1 nearby lymph node (but no more than 5, if checked by surgery), and none of the lymph nodes are larger than 2 centimeters (cm) across (N1). The cancer has not spread to distant parts of the body (M0). All tumor marker levels are within normal limits (S0), or at least 1 tumor marker level is slightly higher than normal (S1).
+
+
+IIB
+Any pT (or TX) N2 M0 S0 or S1
+The tumor might or might not have grown outside the testicle (any pT), or the extent of the tumor can’t be assessed for some reason (TX). The cancer has spread to at least 1 nearby lymph node that's larger than 2 cm but no larger than 5 cm across, OR it has grown outside of a lymph node, OR more than 5 nodes contain cancer (found during surgery) (N2). The cancer has not spread to distant parts of the body (M0). All tumor marker levels are within normal limits (S0), or at least 1 tumor marker level is slightly higher than normal (S1).
+
+
+IIC
+Any pT (or TX) N3 M0 S0 or S1
+The tumor might or might not have grown outside the testicle (any pT), or the extent of the tumor can’t be assessed for some reason (TX). The cancer has spread to at least 1 nearby lymph node that's larger than 5 cm across (N3). The cancer has not spread to distant parts of the body (M0). All tumor marker levels are within normal limits (S0), or at least 1 tumor marker level is slightly higher than normal (S1).
+
+
+III
+Any pT (or TX) Any N M1 SX
+The tumor might or might not have grown outside the testicle (any pT), or the extent of the tumor can’t be assessed for some reason (TX). The cancer might or might not have spread to nearby lymph nodes (any N). It has spread to distant parts of the body (M1). Tumor marker test results aren’t available, or the tests haven’t been done (SX).
+
+
+IIIA
+Any pT (or TX) Any N M1a S0 or S1
+The tumor might or might not have grown outside the testicle (any pT), or the extent of the tumor can’t be assessed for some reason (TX). The cancer might or might not have spread to nearby lymph nodes (any N). It has spread to distant lymph nodes or to the lungs (M1a). All tumor marker levels are within normal limits (S0), or at least 1 tumor marker level is slightly higher than normal (S1).
+
+
+      IIIB  
+Any pT (or TX) N1-N3 M0 S2
+The tumor might or might not have grown outside the testicle (any pT), or the extent of the tumor can’t be assessed for some reason (TX). The cancer has spread to 1 or more nearby lymph nodes (N1-N3), but it hasn't spread to distant parts of the body (M0). At least 1 tumor marker level is much higher than normal (S2).
+
+
+OR
+
+
+Any pT (or TX) Any N M1a S2
+The tumor might or might not have grown outside the testicle (any pT), or the extent of the tumor can’t be assessed for some reason (TX). The cancer might or might not have spread to nearby lymph nodes (any N). It has spread to distant lymph nodes or to the lungs (M1a). At least 1 tumor marker level is much higher than normal (S2).
+
+
+    IIIC
+Any pT (or TX) N1-N3 M0 S3
+The tumor might or might not have grown outside the testicle (any pT), or the extent of the tumor can’t be assessed for some reason (TX). The cancer has spread to 1 or more nearby lymph nodes (N1-N3), but it hasn't spread to distant parts of the body (M0). At least 1 tumor marker level is very high (S3).
+
+
+OR
+
+
+Any pT (or TX) Any N M1a S3
+The tumor might or might not have grown outside the testicle (any pT), or the extent of the tumor can’t be assessed for some reason (TX). The cancer might or might not have spread to nearby lymph nodes (any N). It has spread to distant lymph nodes or to the lungs (M1a). At least 1 tumor marker level is very high (S3).
+
+
+ OR
+
+
+Any pT (or TX) Any N M1b Any S
+The tumor might or might not have grown outside the testicle (any pT), or the extent of the tumor can’t be assessed for some reason (TX). The cancer might or might not have spread to nearby lymph nodes (any N). It has spread to distant parts of the body other than the lymph nodes or to the lungs (M1b). Tumor marker levels might or might not be higher than normal (any S).
+
+
+
+
+                      
+                    
+*The following additional category is not listed on the table above: 
+NX: Nearby lymph nodes cannot be assessed due to lack of information.Survival rates can give you an idea of what percentage of people with the same type and stage of cancer are still alive a certain amount of time (usually 5 years) after they were diagnosed. They can’t tell you how long you will live, but they may help give you a better understanding of how likely it is that your treatment will be successful.
+Keep in mind that survival rates are estimates and are often based on previous outcomes of large numbers of people who had a specific cancer, but they can’t predict what will happen in any particular person’s case. These statistics can be confusing and may lead you to have more questions. Talk with your doctor about how these numbers may apply to you. 
+What is a 5-year relative survival rate?
+A relative survival rate compares people with the same type and stage of cancer to those in the overall population. For example, if the 5-year relative survival rate for a specific stage of testicular cancer is 90%, it means that people who have that cancer are, on average, about 90% as likely as people who don’t have that cancer to live for at least 5 years after being diagnosed.
+Where do these numbers come from?
+The American Cancer Society relies on information from the Surveillance, Epidemiology, and End Results (SEER) database, maintained by the National Cancer Institute (NCI), to provide survival statistics for different types of cancer.
+The SEER database tracks 5-year relative survival rates for testicular cancer in the United States, based on how far the cancer has spread. The SEER database, however, does not group cancers by AJCC TNM stages (stage 1, stage 2, stage 3, etc.). Instead, it groups cancers into localized, regional, and distant stages:
+
+Localized: There is no sign that the cancer has spread outside of the testicles.
+Regional: The cancer has spread outside the testicle to nearby structures or lymph nodes.
+Distant: The cancer has spread to distant parts of the body, such as the lung, liver, or distant lymph nodes.
+
+5-year relative survival rates for testicular cancer
+These numbers are based on people diagnosed with cancer of the testicle between 2012 and 2018
+
+
+
+SEER* stage
+5-year relative survival rate
+
+
+Localized
+Not available
+
+
+Regional
+Not available
+
+
+Distant
+Not available
+
+
+All SEER stages combined
+95%
+
+
+
+*SEER = Surveillance, Epidemiology, and End Results
+Understanding the numbers
+
+These numbers apply only to the stage of the cancer when it is first diagnosed. They do not apply later on if the cancer grows, spreads, or comes back after treatment.
+These numbers don’t take everything into account. These survival rates are grouped based on how far the cancer has spread. But other factors, including your age and overall health, the type of testicular cancer, and how well the cancer responds to treatment can also affect your outlook. Ask your doctor to explain how these or other factors might be important for you.
+People now being diagnosed with testicular cancer may have a better outlook than these numbers show. Treatments improve over time, and these numbers are based on people who were diagnosed and treated at least five years earlier.As you deal with testicular cancer and the process of treatment, you need to be able to have honest, open discussions with your cancer care team. Ask any question, no matter how small it might seem. Among those you might want to ask are:
+
+What kind of testicular cancer do I have?
+Has the cancer spread beyond my testicle?
+What is the stage of my cancer? What does this mean for me?
+Will I need other tests before we can decide on treatment?
+Will I need to see other doctors?
+How much experience do you have treating this type of cancer?
+What are my treatment choices? What do you recommend? Why?
+Do I need a retroperitoneal lymph node dissection? If so, how many have you done?
+What should I do to be ready for treatment?
+How long will treatment last? What will it be like? Where will it be done?
+What risks or possible side effects can I expect from my treatment?
+How long will it take me to recover from treatment?
+How soon after treatment can I have sex?
+What are the chances I will become infertile? Should I bank sperm?
+What are the chances that the cancer will come back? What will we do if that happens?
+Does one type of treatment reduce the risk of recurrence (cancer coming back) more than another?
+Should I get a second opinion before I start treatment, and when would a second opinion be helpful to me?
+What type of follow-up will I need after treatment?
+
+Along with these examples, be sure to write down some of your own. For instance, you might want to ask about clinical trials for which you may qualify. Keep in mind, too, that doctors are not the only ones who can give you information. Other health care professionals, such as nurses and social workers, may have the answers to your questions. You can learn more about communicating with your health care team in The Doctor-Patient Relationship.Surgery is the first treatment for nearly all testicular cancers .
+Radical inguinal orchiectomy
+Surgery to remove a testicle with cancer is called a radical inguinal orchiectomy. An incision (cut) is made just above the pubic area, and the testicle is gently removed from the scrotum through the opening. The surgeon then removes the entire tumor along with the testicle and spermatic cord. The spermatic cord contains part of the vas deferens, as well as blood and lymph vessels that could act as pathways for testicular cancer to spread to the rest of the body. To lessen the chance of this, these vessels are tied off early in the operation.
+All testicular cancers are typically treated with this surgery, even those that have spread.
+Retroperitoneal lymph node dissection (RPLND)
+Depending on the type and stage of your cancer, lymph nodes around the large blood vessels (the aorta and inferior vena cava) at the back of the abdomen (belly) may be removed at the same time as the orchiectomy or during a second operation. Not all people with testicular cancer need to have lymph nodes removed, so it’s important to discuss this (and options to it) with your doctor.
+This is a complex and long operation. In most cases, a large incision (cut) is made down the middle of the abdomen to remove the lymph nodes. RPLND should be done by a surgeon who does this often. Experience counts.
+Laparoscopic surgery
+In some cases, the surgeon can remove lymph nodes through very small skin incisions in the abdomen by using a laparoscope and other long, thin surgical tools. A laparoscope is a narrow, lighted tube with a small camera on the end that lets doctors see inside the abdomen. The surgeon’s hands are not inside the patient’s body during this type of surgery.
+In laparoscopic surgery, after being put to sleep, you're turned onto your side. Several small incisions are made on your abdomen. The laparoscope and surgical tools are put in through the incisions to remove the lymph nodes. The incisions are then closed and you're woken up.
+Patients recover much more quickly from this operation than the standard open procedure and are walking soon after surgery. There's usually less pain and patients are eating sooner.
+Laparoscopic surgery seems to be a lot easier for the patient, but doctors aren't sure if it’s as safe and effective as the standard “open” surgery in removing all of the lymph nodes that may contain cancer. Because of this uncertainty, doctors are more likely to recommend chemotherapy after laparoscopic surgery if cancer is found in the lymph nodes.
+This procedure is most often used for patients with early-stage non-seminomas to see if the lymph nodes contain cancer. As with the standard open procedure, this is a complex operation that should only be done if the surgeon is very experienced.
+Possible risks and side effects of surgery
+The short-term risks of any type of surgery include reactions to anesthesia, excess bleeding, blood clots, and infections. Most men will have at least some pain after the operation, which can be helped with pain medicines, if needed.
+Effects of orchiectomy
+Losing one testicle usually has no effect on a man’s ability to get an erection and have sex. But if both testicles are removed, sperm cannot be made and a man becomes infertile. Also, without testicles, a man cannot make enough testosterone, which can decrease sex drive and affect his ability to have erections. Other effects could include fatigue, hot flashes, and loss of muscle mass. These side effects can be avoided by taking testosterone supplements, either in a gel, a patch, or a shot. Pills are generally not reliable sources of testosterone.
+Usually men with testicular cancer are young and may be concerned about changes in how they look. They may be dating and worry about a partner’s reaction, or they may be athletic and feel embarrassed by the missing testicle when in locker rooms.
+To restore a more natural look, a man can have a testicular prosthesis surgically implanted in his scrotum. The prosthesis approved for use in the United States is filled with saline (salt water) and comes in different sizes to match the remaining testicle. When in place, it can look like a normal testicle. There can be a scar after the operation, but it’s often partly hidden by pubic hair. Some men might want a prosthesis, while others might not. You should discuss your wishes with your surgeon before surgery. It could also help to talk with someone who has a testicular prosthesis, to hear what it has been like for them.
+Effects of lymph node dissection
+Surgery to remove retroperitoneal lymph nodes is a major operation. Serious complications are not common, but they can happen. About 5% to 10% of patients have short-term problems after surgery, such as infection or bowel obstruction (blockage). The standard approach for an RPLND requires a large incision in the abdomen, which will leave a scar and can take some time to heal. Your ability to get up and around after the operation will be limited for some time. This is less likely to be an issue if you have laparoscopic surgery, which uses smaller incisions.
+This type of surgery does not cause impotence – a man can still have erections and sex. But it might damage some of the nerves that control ejaculation. If these nerves are damaged, when a man ejaculates, the semen doesn't come out through the urethra to exit the body but rather goes backwards into the bladder. This is called retrograde ejaculation, and it can make it hard to father children.
+To save the normal ejaculation function, surgeons have developed a type of retroperitoneal lymph node surgery called nerve-sparing surgery that's very successful when done by experienced doctors. Testicular cancer often affects men at an age when they might be trying to have children. These men may wish to discuss nerve-sparing surgery with their doctors, as well as sperm banking (freezing and storing sperm cells obtained before treatment). Men with testicular cancer often have lower than normal sperm counts, which can sometimes make it hard to collect a good sperm sample. See Fertility and Men With Cancer for more about this.Radiation therapy uses a beam of high-energy rays (such as gamma rays or x-rays) or particles (such as electrons, protons, or neutrons) to destroy cancer cells or slow their growth. In treating testicular cancer , radiation is used mainly to kill cancer cells that have spread to lymph nodes.
+Radiation therapy, in which a machine sends radiation to a specific part of the body is known as external beam radiation. The treatment is much like getting an x-ray, but the radiation is stronger. Radiation doesn't hurt. Before your treatments start, the medical team will take careful measurements to determine the correct angles for aiming the radiation beams and the proper dose of radiation. Each treatment lasts only a few minutes, but the set-up time – getting you into place for treatment – usually takes longer.
+In general, radiation therapy is mainly used for patients with seminoma, which is very sensitive to radiation. Sometimes it’s used after orchiectomy (the operation to remove the testicle) and is directed at the lymph nodes at the back of the abdomen (the retroperitoneal lymph nodes). This is to kill any tiny bits of cancer in those lymph nodes that can’t be seen. It can also be used to treat small amounts of seminoma that have spread to the nodes (based on changes seen on CT and PET scans).
+Radiation is also sometimes used to treat testicular cancer (both seminoma and non-seminoma) that has spread to distant organs (like the brain).
+Possible side effects of radiation therapy
+Radiation therapy can affect nearby healthy tissue along with the cancer cells. To reduce the risk of side effects, doctors carefully figure out the exact dose you need and aim the beams to hit the tumor. The treatment of testicular cancer often uses lower radiation doses than those needed for other types of cancer.
+Common side effects can include:
+
+Fatigue
+Nausea
+Diarrhea
+
+Some men have a skin changes such as redness, blistering, or peeling, but those are uncommon.
+These side effects get better overtime after radiation is finished. If radiation reaches the healthy testicle it can affect fertility (sperm counts), so a special protective shield is placed over the remaining testicle to help protect it.
+Radiation can also have some long-term effects, such as damage to blood vessels or other organs near the treated lymph nodes It can also cause an increased risk of getting a second cancer (outside of the testicle) later in life. These risks were higher in the past when higher doses were used and more tissue was exposed to radiation.Chemotherapy (chemo) is the use of drugs to treat cancer. The drugs can be swallowed in pill form, or they can be injected by needle into a vein or muscle. To treat testicular cancer , the drugs are usually given into a vein (IV). Chemo is systemic therapy. This means that the drug travels throughout the body to reach and destroy the cancer cells. Chemo is used to destroy any cancer cells that break off from the main tumor and travel to lymph nodes or other pats of the body.
+Chemo is often used to cure testicular cancer when it has spread outside the testicle. It's also used to help decrease the risk of cancer coming back after the testicle is removed. It's not used to treat cancer that's only in the testicle.
+Chemo drugs used
+Chemo is given in cycles, with each period of treatment followed by a rest period to allow the body time to recover. Chemo cycles generally last about 3 to 4 weeks. The main drugs used to treat testicular cancer are:
+
+Cisplatin
+Etoposide (VP-16)
+Bleomycin
+Ifosfamide (Ifex®)
+Paclitaxel (Taxol®)
+Vinblastine
+
+Using 2 or more chemo drugs often works better than using any single drug alone. The chemo regimens most commonly used as the first treatment for testicular cancer are:
+
+BEP (or PEB): bleomycin, etoposide, and cisplatin
+EP: etoposide and cisplatin
+VIP: VP-16 (etoposide) or vinblastine plus ifosfamide and cisplatin
+
+Some doctors use more intensive plans for patients with high-risk disease, and may suggest a different combination of chemo drugs or even a stem cell transplant .
+Possible side effects of chemotherapy
+Chemo drugs attack cells that are dividing quickly, which is why they work against cancer cells. But other cells in the body, such as those in the bone marrow (where new blood cells are made), the lining of the mouth and intestines, and the hair follicles, also divide quickly. These cells are also likely to be affected by chemo, which can lead to certain side effects.
+The side effects of chemo depend on the type and dose of drugs used and how long they are given. These side effects can include:
+
+Hair loss
+Mouth sores
+Loss of appetite
+Nausea and vomiting
+Diarrhea
+Increased chance of infections (from having too few white blood cells)
+Easy bruising or bleeding (from having too few blood platelets)
+Fatigue (extreme tiredness, often from having too few red blood cells)
+
+Some of the drugs used to treat testicular cancer can have other side effects. For example:
+
+Cisplatin and ifosfamide can cause kidney damage. This can be lessened by giving lots of fluids (usually into a vein – IV) before and after these drugs are given.
+Cisplatin, etoposide, paclitaxel, and vinblastine can damage nerves (known as neuropathy ). This can lead to numbness or tingling in the hands and feet, and sensitivity to cold or heat. In most cases, this gets better once treatment is stopped, but it may last a long time in some people.
+Cisplatin can also cause loss of hearing (called ototoxicity)
+Bleomycin can damage the lungs, causing shortness of breath and trouble with physical activity.
+Ifosfamide can cause the bladder to bleed (called hemorrhagic cystitis). To prevent this, the patient is given plenty of fluids and the drug mesna is given along with ifosfamide.
+
+Most side effects are short-term and go away overtime after treatment ends, but some can last a long time and may never go away completely. Tell your treatment team about any side effects or changes you notice while getting chemo so you can get prompt treatment for them. There are often ways to prevent or lessen side effects. For example, there are drugs to help prevent or reduce nausea and vomiting. In some cases, the doses of the chemo drugs may need to be reduced or treatment may need to be delayed or stopped to keep side effects from getting worse.
+Some of the drugs used to treat testicular cancer can cause long-term side effects. These include some of the things mentioned earlier, like hearing loss and kidney or lung damage. Development of a second cancer (like leukemia) is a very serious but rare side effect of chemo, occurring in less than 1% of testicular cancer patients treated with chemo. People who've had chemo for testicular cancer seem to have a higher risk of heart problems later in life. Several studies have also suggested that chemo can sometimes cause high blood cholesterol to develop over time, which may later require treatment.In general, testicular cancers respond well to chemotherapy (chemo), but not all of them are cured. Even though higher doses of chemo might work better, they're not given because they could severely damage the bone marrow, which is where new blood cells form. This could lead to life-threatening infections, bleeding, and other problems because of low blood cell counts.
+But a stem cell transplant allows doctors to use higher doses of chemo. Stem cells used to be taken from the bone marrow, but this is done less often now. In the weeks before treatment, a special machine collects blood-forming stem cells from the patient's bloodstream. They are frozen and stored.
+The patient then gets high-doses of chemo. After chemo, the patient gets his stem cells back again. This is called a transplant, but it doesn’t involve surgery – the cells are infused into a vein much like a blood transfusion. The stem cells settle in the bone marrow and start making new blood cells over the next few weeks.
+Stem cell transplant is most often used to treat testicular cancers that have come back after treatment with chemo. Current studies are looking at whether a stem cell transplant may be valuable as part of the first treatment for some patients with advanced germ cell cancers.
+A stem cell transplant is a complex treatment that can cause life-threatening side effects because of the high doses of chemotherapy used. Be sure you understand the possible benefits and risks. If the doctors think you might benefit from a transplant, it should be done at a hospital where the staff has experience with the procedure and with managing the recovery phase.
+Stem cell transplants sometimes require a long hospital stay and can cost a lot. Even if your insurance covers the transplant, your co-pays or other costs could add up to a lot of money. Before deciding on a transplant It's important to find out what your insurer will cover to get an idea of what you might have to pay.Treatment for testicular cancer is based mainly on the type and stage of the cancer. Among the different stages of germ cell tumors, pure seminomas tend to be treated one way, and non-seminomas and mixed germ cell tumors are treated another way.
+Carcinoma in situ (stage 0) testicular tumors
+In this stage, the cancer has not spread outside the testicle, and tumor marker levels (like HCG and AFP) are not elevated.
+If CIS is diagnosed after surgery removes the testicle, no other treatment is needed. If CIS is found after a testicular biopsy (such as for fertility problems), the doctor may recommend that it not be treated right away. Instead, it may be watched closely with repeat physical exams, ultrasound of the testicle, and blood tests of tumor marker levels. Treatment may not be needed as long as there are no signs that the CIS is growing or turning into an invasive cancer. If CIS is treated, it's typically surgery (to remove the testicle) or radiation therapy to the testicle.
+If tumor marker levels are high, the cancer isn't really stage 0 – even when only CIS is found in the testicle and there are no signs of cancer spread. In this case, the treatment used is for stage IS cancers. (See below.)
+Seminomas
+Stage I seminomas
+These cancers can be cured in nearly all patients. Surgery is done first to remove the testicle and spermatic cord (called a radical inguinal orchiectomy). After surgery, there are often several treatment choices:
+Careful observation (surveillance): If the cancer has not spread beyond the testicle, the plan most experts prefer is close monitoring for up to 10 years. This means getting physical exams and blood tests every 3 to 6 months for the first year, and less often after that. Imaging tests (CT scans and sometimes chest x-rays) are done every 3 months for 6 months, and then once or twice a year. If these tests do not find any signs that cancer has spread beyond the testicle, no other treatment is needed. If the cancer has spread, treatments like radiation or chemo may be used. The cancer will come back in about 15% to 20% of patients, most often as spread to lymph nodes, but if it does, radiation or chemo can still usually cure the cancer.
+Radiation therapy: Radiation aimed at para-aortic lymph nodes is another option. These nodes are in the back of the abdomen (belly), around the large blood vessel called the aorta. Because seminoma cells are very sensitive to radiation, low doses can be used. About 10 to 15 treatments are given over 2 to 3 weeks.
+Chemotherapy: An option that works as well as radiation is 1 or 2 cycles of chemo with the drug carboplatin after surgery. Many experts prefer chemo over radiation because it seems to be easier to tolerate.
+Stage IS seminomas
+In this stage, one or more tumor marker levels is still high after the testicle containing the seminoma has been removed. This is very rare, and it can be treated with chemo.
+Stage IIA seminomas
+Radiation: After surgery to remove the testicle (radical inguinal orchiectomy), one treatment option is radiation to the retroperitoneal lymph nodes. These are the lymph nodes at the back of the abdomen (belly). Usually stage II seminomas are given higher doses of radiation than stage I seminomas.
+Chemotherapy: Another option is chemo, with either 4 cycles of EP (etoposide and cisplatin) or 3 cycles of BEP (bleomycin, etoposide, and cisplatin). The doctor will then watch closely (every 3 to 6 months) for any signs that the cancer has come back.
+Stage IIB seminomas
+These seminomas have spread to cause larger lymph nodes or have spread to many different lymph nodes.
+Chemotherapy: This is typically the preferred treatment. It is usually either 4 cycles of EP (etoposide and cisplatin) or 3 cycles of BEP (bleomycin, etoposide, and cisplatin).
+Radiation: This may be an option instead of chemo if the lymph nodes aren't enlarged from cancer spread.
+Stage IIC seminomas
+Treatment is typically chemotherapy with 4 cycles of EP (etoposide and cisplatin) or 3 or 4 cycles of BEP (bleomycin, etoposide, and cisplatin). Another option might be VIP (etoposide, ifosfamide, and cisplatin) for 4 cycles. Radiation therapy is generally not used for stage IIC seminoma.
+Non-seminomas
+Stage I non-seminomas
+Nearly all of these cancers can be cured, but the treatment is different from that of seminomas. As with seminomas, the initial treatment is surgery to remove the testicle and tumor (called radical inguinal orchiectomy). The other treatment choices will depend on the stage.
+Choices for stage IA (T1)
+
+Careful observation (surveillance): Surveillance is preferred by most experts, but it requires a lot of doctor visits and tests. A typical schedule might include visits every 2 months for the first year, with CT scans every 4 to 6 months; then every 3 months for the second year, with scans every 6 to 12 months. As time goes on and you have no problems, the time between visits and tests gets longer. If the cancer does come back (relapse), it's usually within the first year or two. Relapses are generally treated with chemo. Even though more patients will have a relapse with surveillance than with lymph node dissection, the cure rates are much the same because the relapses are usually found early.
+Retroperitoneal lymph node dissection (RPLND): Having the lymph nodes at the back of the abdomen (belly) removed has the advantage of a high initial cure rate, but the disadvantages of major surgery with its possible complications, including losing the ability to ejaculate normally. After RPLND, if cancer is found in the nodes, chemo may be recommended.
+Chemotherapy: Instead of surgery, the doctor may suggest 1 cycle of the BEP regimen (bleomycin, etoposide, and cisplatin). This helps reduce the risk of relapse.
+
+Choices for stage IB (T2, T3, or T4)
+
+Retroperitoneal lymph node dissection (RPLND): This is surgery to remove the lymph nodes at the back of the abdomen (belly). If cancer is found in the lymph nodes, chemo is often recommended depending on the number of nodes with cancer in them. (See below.)
+Chemotherapy: Instead of surgery, the doctor may recommend 1 cycle of the BEP regimen (bleomycin, etoposide, and cisplatin). This can help reduce the risk that the cancer will come back. If cancer was found in the lymph nodes after surgery, 2 to 4 cycles of BEP or EP (etoposide and cisplatin) may be given, depending on how many nodes had cancer in them. This has a high cure rate, but it can have side effects (which are mostly short-term).
+Careful observation (surveillance): This requires frequent doctor visits and tests for several years. This may be an option for some T2 tumors that haven't reached blood vessels.
+
+Stage IS non-seminoma
+If your tumor marker levels (like AFP or HCG) are still high even after the cancer has been removed, but the CT scan doesn't show a tumor, chemo is typically recommended. This may be either 3 cycles of BEP (bleomycin, etoposide, and cisplatin) or 4 cycles of EP (etoposide and cisplatin).
+Stage II non-seminomas
+Surgery is done first to remove the testicle and spermatic cord (called a radical inguinal orchiectomy). After surgery, treatment choices depend on the details of the cancer.
+Stage IIA non-seminomas
+Treatment depends on tumor marker levels after surgery and the extent of spread to the retroperitoneal lymph nodes. These are the lymph nodes at the back of the abdomen (belly).
+If tumor marker levels are normal, there are 2 main options:
+
+Retroperitoneal lymph node dissection (RPLND): This is surgery to remove the lymph nodes at the back of the abdomen. If the lymph nodes that were removed contain cancer, chemo (typically for 2 cycles) might be given. If there's no cancer in the nodes, the doctor will watch closely for signs that the cancer has come back.
+Chemotherapy: This would include either 4 cycles of EP (etoposide and cisplatin) or 3 cycles of BEP (bleomycin, etoposide, and cisplatin). Surgery might be done after this if there are signs there might still be cancer present.
+
+If tumor markers are still higher than normal after the initial surgery, treatment is typically with chemo as listed above (EP or BEP)..
+Stage IIB non-seminomas
+Treatment depends on tumor marker levels after surgery and the extent of spread to the lymph nodes at the back of the abdomen (belly). These are called the retroperitoneal lymph nodes.
+If tumor marker levels are normal, the options are:
+
+Chemotherapy: Either 4 cycles of EP (etoposide and cisplatin) or 3 cycles of BEP (bleomycin, etoposide, and cisplatin) may be used. Surgery may then be done to take out all enlarged nodes if the tumor marker return to normal.
+Retroperitoneal lymph node dissection (RPLND): In few select cases, where the cancer has spread only to these lymph nodes, surgery may be done to take them out. Chemo may then be given after surgery.
+
+If tumor markers are still higher than normal after the initial surgery, treatment is typically with chemo as listed above (EP or BEP).
+Stage III seminomas and non-seminomas
+Even though stage III cancers have spread by the time they are found, most of them can still be cured.
+Both stage III seminomas and non-seminomas are treated with radical inguinal orchiectomy, followed by chemo. Depending on the risk group the cancer falls into, this might be with:
+
+EP (etoposide and cisplatin) for 4 cycles
+BEP (bleomycin, etoposide, and cisplatin) for 3 or 4 cycles
+VIP (etoposide, ifosfamide, and cisplatin) for 4 cycles
+
+If there's a high suspicion that the cancer might be a testicular choriocarcinoma, chemo may be started without a biopsy or surgery to remove the testicle.
+If the cancer has spread to the brain, surgery (if there are only 1 or 2 tumors in the brain), radiation therapy aimed at the brain, or both may also be used. If the tumors in the brain are not bleeding or causing symptoms, some doctors may choose to start the chemo first.
+Once chemo is complete, the doctor looks for any cancer that's left. If scans and tumor marker levels are normal, no further treatment may be needed.
+Sometimes a few tumors might be left after treatment. These are most often in the lung or in the retroperitoneal lymph nodes. Further treatment at this point depends on the type of cancer:
+
+A stage III seminoma that's still there after chemo or doesn’t “light up” on a PET scan, will be watched with CT scans to see if it grows. If it does, more treatment is needed. If the tumors do light up on a PET scan, they could be cancer, and treatment is needed. Treatment may be surgery (such as a retroperitoneal lymph node dissection) or chemo (using a different combination of drugs).
+A stage III non-seminoma tumor that remains after treatment is usually removed surgically, which may result in a cure. If cancer is found in the tumors removed, you might need more chemo, maybe with different drugs. After this, surgery might be done to take out any tumors that remain.
+
+If the cancer is resistant to chemo or has spread to many organs, the usual doses of chemo may not always be enough. The doctor might recommend high-dose chemo followed by a stem cell transplant. Enrolling in a clinical trial of a newer chemo regimen might be another good option.
+Recurrent testicular cancer
+If the cancer goes away with treatment and then comes back, it's said to have recurred or relapsed. If this happens, it’s usually within the first 2 years after treatment. In general, if the cancer recurs, it’s probably best to get a second opinion from a center with extensive experience in treating relapsed testicular cancer before starting treatment.
+Treatment of recurrent germ cell tumors depends on the initial treatment and where the cancer recurs. Cancer that comes back in the retroperitoneal lymph nodes can be treated by surgery to remove the nodes (RPLND) if the recurrence is small and if the only surgical treatment given before was orchiectomy. Depending on the results of the surgery, chemo may be recommended as well.
+If it looks as if cancer has recurred in a lot of the retroperitoneal lymph nodes or if the cancer has returned elsewhere, chemo is usually recommended. This may be followed by surgery.
+If a man’s cancer recurs after chemo or if treatment is no longer working, he will be treated with different chemo, which typically includes ifosfamide, cisplatin, and either etoposide, paclitaxel, or vinblastine.
+The treatment of testicular cancer that has come back after chemo is not always as effective as doctors would like, so some doctors may advise high-dose chemo followed by a stem cell transplant. This may be a better option for some men with recurrent disease, rather than standard chemo. Clinical trials of newer treatments may also be good options.
+Sertoli cell and Leydig cell tumors
+Typically, radical inguinal orchiectomy is the treatment for Sertoli cell and Leydig cell tumors. Radiation therapy and chemo generally don't work for these rare types of testicular tumors. If the doctor suspects the tumor has spread beyond the testicle, the retroperitoneal lymph nodes may be surgically removed.For most men with testicular cancer , treatment can remove or destroy the cancer. The end of treatment can be both stressful and exciting. You may be relieved to finish treatment, but yet it’s hard not to worry about cancer coming back. These feelings are very common if you’ve had cancer. Life after cancer means returning to some familiar things and also making some new choices.
+Follow-up care
+After you've completed treatment, your doctors will still want to watch you closely. It's very important to go to all of your follow-up appointments. During these visits, your doctors will examine you and ask questions about any problems you're having. Lab tests and/or imaging tests (such as chest x-rays and CT scans) will be done to look for signs of cancer or treatment side effects. Radiation treatment and some of the chemo drugs commonly used for testicular cancer have side effects. Some may last for a few weeks to months, but others can last the rest of your life. Talk to your doctor about long-term side effects you should watch for. This is also the time for you to talk to your cancer care team about any changes or problems you notice and any questions or concerns you have.
+Follow-up care is extremely important after treatment of testicular cancer because even if it comes back, it’s still often curable. This is why finding it early is so important.
+Your health care team will explain what tests you need and how often they should be done. If you had a non-seminoma, follow-up testing will include blood tests of tumor markers, such as alpha-fetoprotein (AFP), human chorionic gonadotropin (HCG), and lactate dehydrogenase (LDH). Tumor markers aren’t as helpful for patients with seminoma, so they aren’t always checked. Imaging tests (such as CT scans and chest X-rays) are also done to help find relapse as early as possible. As time goes on, these visits and tests will be done less often. Depending on the type of treatment you've had, you may also need follow-up for the possible complications of treatment.
+Make a special effort to keep all appointments with your cancer care team and follow their instructions carefully. Report any new or recurring symptoms to your doctor right away. Most of the time, if the cancer comes back, it does so in the first 2 years. Still, there's always an outside chance the cancer can come back later. There’s also a small chance that you'll develop a new cancer in the other testicle, so report any changes in your remaining testicle to your doctor.
+Ask your doctor for a survivorship care plan
+Talk with your doctor about developing a survivorship care plan for you. This plan might include: 
+
+A suggested schedule for follow-up exams and tests
+A schedule for other tests you might need in the future, such as early detection (screening) tests for other types of cancer, or tests to look for long-term health effects from your cancer or its treatment
+A list of possible late- or long-term side effects from your treatment, including what to watch for and when you should contact your doctor
+Diet and physical activity suggestions
+Reminders to keep your appointments with your primary care provider (PCP), who will monitor your general health care 
+
+Keeping health insurance and copies of your medical records
+Even after treatment, it’s very important to keep health insurance. Tests and doctor visits cost a lot, and even though no one wants to think of their cancer coming back, this could happen.
+At some point after your cancer treatment, you might find yourself seeing a new doctor who doesn’t know about your medical history. It’s important to keep copies of your medical records to give your new doctor the details of your diagnosis and treatment. Learn more in Keeping Copies of Important Medical Records.
+Can I lower my risk of the testicular cancer progressing or coming back?
+If you have (or have had) testicular cancer, you probably want to know if there are things you can do that might lower your risk of the cancer growing or coming back, such as exercising, eating a certain type of diet, or taking nutritional supplements. Unfortunately, it’s not yet clear if there are things you can do that will help.
+Adopting healthy behaviors such as not smoking, eating well, getting regular physical activity, and staying at a healthy weight might help, but no one knows for sure. However, we do know that these types of changes can have positive effects on your health that can extend beyond your risk of testicular cancer or other cancers.
+About dietary supplements
+So far, no dietary supplements (including vitamins, minerals, and herbal products) have been shown to clearly help lower the risk of testicular cancer progressing or coming back. This doesn’t mean that no supplements will help, but it’s important to know that none have been proven to do so.
+Dietary supplements are not regulated like medicines in the United States – they do not have to be proven effective (or even safe) before being sold, although there are limits on what they’re allowed to claim they can do. If you’re thinking about taking any type of nutritional supplement, talk to your health care team. They can help you decide which ones you can use safely while avoiding those that might be harmful.
+If the cancer comes back
+If the cancer does recur at some point, your treatment options will depend on where the cancer is located, what treatments you’ve had before, and your health. For more information on how recurrent cancer is treated, see ﻿Treatment Options for Testicular Cancer, by Type and Stage.
+For more general information on recurrence, you may also want to see Understanding Recurrence.
+Could I get a second cancer after treatment?
+Men who’ve had testicular cancer can still get other cancers. In fact, testicular cancer survivors are at higher risk for getting some other types of cancer. Learn more in ﻿﻿Second Cancers After Testicular Cancer.
+Getting emotional support
+Some amount of feeling depressed, anxious, or worried is normal when cancer is a part of your life. Some people are affected more than others. But everyone can benefit from help and support from other people, whether friends and family, religious groups, support groups, professional counselors, or others. Learn more in Life After Cancer.Testicular cancer and its treatment can affect hormone levels and can also affect your ability to father children after treatment. It’s important to discuss the possible effects with your doctor before starting treatment so you are aware of the risks and what your options might be.
+Most boys and men develop cancer in only one testicle. The remaining testicle usually can make enough testosterone (the main male hormone) to keep you healthy. If the other testicle needs to be removed because the cancer is in both testicles or if a new cancer develops in the other testicle, you'll need to take some form of testosterone for the rest of your life. Most often this is a gel or patch that's put on your skin or a monthly injection (shot) given in your doctor’s office. If you need testosterone supplements, talk to your doctor about what form is best for you.
+Testicular cancer or its treatment can make you infertile (unable to father a child). Before treatment starts, men who might want to father children may consider storing sperm in a sperm bank for later use. But testicular cancer also can cause low sperm counts, which could make it hard to get a good sample.
+Infertility can also be an issue later in life for boys who have had testicular cancer. If a boy has already gone through puberty, sperm banking is often a good option, since the frozen samples are not damaged by long periods of storage. Researchers are also looking at techniques that might allow younger boys to father children someday.
+In some cases, if one testicle is left, fertility returns after the testicular cancer has been treated. For example, fertility typically returns about 2 years after chemotherapy stops.
+Even when sperm counts in semen are very low, men have several options for fathering children. Be sure to discuss any fertility concerns with your doctor before your treatment begins.
+For more information, see Fertility and Men With Cancer.Cancer survivors can be affected by a number of health problems, but often their greatest concern is facing cancer again. If a cancer comes back after treatment it's called a recurrence. But some cancer survivors may develop a new, unrelated cancer later. This is called a second cancer.
+Unfortunately, being treated for cancer doesn’t mean you can’t get cancer again. People who have had cancer can still get the same types of cancers that other people get. In fact, certain types of cancer and cancer treatments are linked to a higher risk of certain second cancers.
+Common second cancers after testicular cancer
+Survivors of testicular cancer can get any second cancer, but they have an increased risk of:
+
+A second testicular cancer (this is different than the first cancer coming back)
+Rectal cancer
+Pancreas cancer
+Bladder cancer
+Kidney cancer
+Thyroid cancer
+Acute myeloid leukemia (AML)
+
+The most common cancer seen in testicular cancer survivors is a second testicular cancer.
+Compared with most men in the general population, testicular cancer survivors are up to twice as likely to develop a new cancer outside the testicle. The chance of a second cancer changes over time and depends on which treatments were used and how old the patient was when he was treated.
+If you had radiation therapy
+Treatment with radiation is linked to some second cancers after testicular cancer. The risk is highest for cancers in organs in or near the area that was treated (the radiation field) -- the abdomen (belly) and pelvis, and include:
+
+Bladder cancer
+Colon cancer
+Rectal cancer
+Pancreas cancer 
+Stomach cancer 
+Kidney cancer
+Prostate cancer
+
+If the radiation field includes the chest, there's an increased risk of:
+
+Lung cancer
+Esophagus cancer
+Mesothelioma (cancer of the outer lining of the lung)
+Thyroid cancer
+
+Radiation treatments also increase the risk of melanoma skin cancer and connective tissue cancer (sarcoma).
+The risks of these cancers starts going up within 5 years and doubles after 10 years in those men who were treated with radiation alone. This risk remains high and doesn’t seem to go down with time. This is why long-term follow-up is so important. The risks are generally greater with higher radiation doses or if the patient got both chemotherapy and radiation.
+In recent years, radiation therapy for testicular cancer has changed. Lower doses of radiation are used, and preventive radiation treatment to the chest has been stopped. Long-term follow-up studies are needed to see if these changes have lowered second cancer risks.
+If you had chemotherapy
+Chemotherapy is also linked to an increased risk of second cancers, but it's slightly less than what's seen after radiation. Treatment with chemo has been linked to increased risk for these cancers:
+
+Kidney
+Thyroid
+Soft tissue
+
+There's also an increased risk of leukemia and myelodysplastic syndrome (MDS) after chemotherapy for testicular cancer. Use of the chemo drug cisplatin is linked most often to leukemia and MDS, though high doses of etoposide (VP-16, Etopophos, or Vepesid) are sometimes also a factor. (The doses were higher in the past than those normally used today.) Radiation given with chemotherapy seems to increase risk even more. Leukemia and MDS are both uncommon cancers normally, so even though the risk of these cancers is higher than average, very few patients develop them from their treatment.
+Follow-up after treatment
+After completing treatment for testicular cancer, you should still see your doctor regularly. You may have tests for a number of years to look for signs the cancer has come back or spread. Experts don’t recommend any other testing to look for second cancers in people without symptoms. But let your doctor know about any new symptoms or problems, because they could be caused by the cancer coming back or by a new disease or second cancer.
+Survivors can do regular testicular self-exams to look for cancer in the remaining testicle.
+All patients should follow the American Cancer Society guidelines for the early detection of cancer, such as those for colorectal cancer.
+The Children’s Oncology Group has guidelines for the follow-up of patients treated for cancer as a child, teen, or young adult, including screening for second cancers. These can be found at www.survivorshipguidelines.org.
+All survivors of testicular cancer should not use tobacco and avoid tobacco smoke. Smoking increases the risk of many cancers.
+To help maintain good health, survivors should also:
+
+Get to and stay at a healthy weight
+Keep physically active and limit the time you spend sitting or lying down
+Follow a healthy eating pattern that includes plenty of fruits, vegetables, and whole grains, and limits or avoids red and processed meats, sugary drinks, and highly processed foods
+Not drink alcohol. If you do drink, have no more than 1 drink per day for women or 2 per day for men
+
+These steps may help lower the risk of some other health problems, too.
+See Second Cancers in Adults for more information about causes of second cancers.Ask your doctor to use this picture to show you where the cancer is.
+Different kinds of testicular cancer
+Testicles are made of many kinds of cells. Each kind can grow into cancer. Treatment depends on the type of testicular cancer, so you need to know which kind you have. Your doctor can tell you more about this.
+Most testicular cancers start in the cells that make sperm. The 2 most common types of testicular cancer are:
+
+Seminomas. These tumors tend to grow and spread slower than most other testicular cancers.
+Non-seminomas. These tumors are often found in younger men in their late teens and early 30s.
+
+Questions to ask the doctor
+
+Why do you think I have cancer?
+Is there a chance I don’t have cancer?
+Would you please write down the kind of cancer you think I might have?
+What will happen next?
+
+How does the doctor know I have testicular cancer?
+Testicular cancer is most often found because of the symptoms it causes. Symptoms can be:
+
+A lump or swelling in the testicle is the most common symptom
+Heaviness or aching in the lower belly or testicles
+Voice changes and facial and body hair growth in a very young boy (early puberty)
+
+If you have signs of testicular cancer the doctor will ask you about your health and examine you. If signs are pointing to testicular cancer, more tests will be done. Here are some of the tests you may need:
+Ultrasound: Sound waves are used to make pictures of the inside of your body. This is often the first test done. It helps show if a lump in the testicles is solid or fluid filled. If it’s solid, it's more likely to be cancer.
+Blood tests: Testicular cancer cells often make certain proteins that show up in the blood. Checking for them helps your doctor know which kind of testicular cancer you might have.
+Chest x-ray: X-rays may be done to see if the cancer has spread to your lungs.
+CT or CAT scan: Uses x-rays to make detailed pictures of your insides. This can show if the cancer has spread.
+MRI scan: Uses radio waves and strong magnets instead of x-rays to make detailed pictures. This test may be used to see if the cancer has spread.
+PET scan: Uses a special kind of sugar that can be seen inside your body with a special camera. If there’s cancer, this sugar shows up as “hot spots” where the cancer is found. This test can help show if the cancer has spread.
+Biopsy
+In a biopsy, the doctor takes out a small piece of tissue to check it for cancer cells. A biopsy is the only way to tell for sure if you have cancer. For many other kinds of cancer, a biopsy is done before surgery. But for testicular cancer, this could spread the cancer, so the biopsy is done during surgery to take out the cancer.
+Grading testicular cancer
+The cancer cells in the biopsy sample will be graded. This helps doctors predict how fast the cancer is likely to grow and spread. Cancer cells are graded based on how much they look like normal cells. Grades 1, 2, and 3 are used. Cells that look very different from normal cells are given a higher grade (3) and tend to grow faster. Ask the doctor to explain your cancer's grade. The grade helps the doctor decide which treatment is best for you.
+Questions to ask the doctor
+
+What tests will I need to have?
+Who will do these tests?
+Where will they be done?
+Who can explain them to me?
+How and when will I get the results?
+Who will explain the results to me?
+What do I need to do next?
+
+How serious is my cancer?
+If you have testicular cancer, the doctor will want to find out how far it has spread. This is called staging. You may have heard other people say that their cancer was “stage 1” or “stage 2.” Your doctor will want to find out the stage of your cancer to help decide what type of treatment is best for you.
+The stage describes the growth or spread of the cancer through the testicle. It also tells if the cancer has spread to other organs of your body that are close by or farther away.
+Your cancer can be stage 0, 1, 2, 3, or 4. The lower the number, the less the cancer has spread. A higher number, like stage 4, means a more serious cancer that has spread beyond the testicles. Be sure to ask the doctor about the cancer stage and what it means for you.
+Questions to ask the doctor
+
+Do you know the stage of the cancer?
+If not, how and when will you find out the stage of the cancer?
+Would you explain to me what the stage means in my case?
+Based on the stage of the cancer, how long do you think I’ll live?
+What will happen next?
+
+What kind of treatment will I need?
+There are many ways to treat testicular cancer. Surgery, radiation, chemotherapy, and high dose chemotherapy with stem cell transplant are the main types of treatment.
+The treatment plan that’s best for you will depend on:
+
+The stage and grade of the cancer
+The chance that a type of treatment will cure the cancer or help in some way
+Your age
+Other health problems you have
+Your feelings about the treatment and the side effects that come with it
+
+Surgery for testicular cancer
+Surgery to take out the testicle is often the first treatment for testicular cancer. It’s used even when the cancer has spread. Nearby lymph nodes may also be taken out to see if there are cancer cells in them. There are many ways to do this surgery. Talk to your doctor about what will be done and what you can expect
+Side effects of surgery
+Any type of surgery can have risks and side effects. Be sure to ask the doctor what you can expect. If you have problems, let your doctors know. Doctors who treat testicular cancer should be able to help you with any problems that come up.
+Chemo
+Chemo is the short word for chemotherapy – the use of drugs to fight cancer. The drugs are given into a vein. These drugs go into your blood and spread through your body. They kill cells that are fast growing, cancer cells and good cells, like blood cells and hair. Chemo is given in cycles or rounds. Each round of treatment is followed by a break. Chemo cycles last about 3 to 4 weeks. Using 2 or more chemo drugs together often works better than using one drug alone. Treatment lasts for many months.
+Side effects of chemo
+Chemo can make you feel very tired, sick to your stomach, and cause your hair to fall out. But these problems go away after treatment ends.
+There are ways to treat most chemo side effects. If you have side effects, be sure to talk to your cancer care team so they can help.
+Radiation treatments
+Radiation uses high-energy rays (like x-rays) to kill cancer cells. In testicular cancer, radiation is mainly used to kill cancer cells that have spread to lymph nodes. It can also be used to treat cancer that has spread to the brain or spinal cord.
+For testicular cancer, a machine aims a beam of radiation at the testicle. This is called external beam radiation. A cover is put over the healthy testicle to help keep the radiation from harming it.
+Side effects of radiation treatments
+If your doctor suggests radiation treatment, talk about what side effects might happen. The most common side effects of radiation are:
+
+Skin changes where the radiation is given
+Feeling very tired (fatigue)
+
+Most side effects get better after treatment ends. Some might last longer. Talk to your cancer care team about what you can expect.
+High dose chemo and stem cell transplant
+A stem cell transplant lets doctors use higher doses of chemo. In this treatment, a special machine takes the cells that make blood (called stem cells) out of the blood. Then very strong chemo is given. The stem cells are given back to the person after chemo. This is called a transplant, but it’s not surgery – the cells are put back into the blood through a vein.
+Transplant is mostly used for testicular cancer that has come back (recurred) after regular chemo. It’s a very complex treatment with a lot of side effects. Ask your doctor if you will get this treatment and what to expect.
+Clinical trials
+Clinical trials are research studies that test new drugs or other treatments in people. They compare standard treatments with others that may be better.
+If you'd like to learn more about clinical trials for you, start by asking your doctor if your clinic or hospital conducts clinical trials. See Clinical Trials to learn more.
+Clinical trials are one way to get the newest cancer treatment. They're the best way for doctors to find better ways to treat cancer. If your doctor can find one that’s studying the kind of cancer you have, it’s up to you whether to take part. And if you do sign up for a clinical trial, you can always stop at any time.
+What about other treatments I hear about?
+When you have cancer you might hear about other ways to treat the cancer or treat your symptoms. These may not always be standard medical treatments. These treatments may be vitamins, herbs, special diets, and other things. You may wonder about these treatments.
+Some of these are known to help, but many have not been tested. Some have been shown not to help. A few have even been found to be harmful. Talk to your doctor about anything you’re thinking about using, whether it’s a vitamin, a diet, or anything else.
+Questions to ask the doctor
+
+What treatment do you think is best for me?
+Has the cancer spread beyond my testicle?
+What is my cancer’s stage? What does this mean?
+Will I need to see other doctors?
+Will I need other tests before we can decide on treatment?
+What’s the goal of this treatment? Do you think it could cure the cancer?
+Will treatment include surgery? If so, who will do the surgery?
+What will the surgery be like?
+Will surgery be done to take out lymph nodes?
+Will I need other types of treatment, too?
+What’s the goal of these treatments?
+What side effects could I have from these treatments?
+What can I do about side effects that I might have?
+Is there a clinical trial that might be right for me?
+What about special vitamins or diets that friends tell me about? How will I know if they are safe?
+How soon do I need to start treatment?
+Will I be able to have kids after treatment?
+What should I do to be ready for treatment?
+Is there anything I can do to help the treatment work better?
+What’s the next step?
+
+What will happen after treatment?
+You’ll be glad when treatment is over. But it’s hard not to worry about cancer coming back. Even when cancer never comes back, people still worry about it. You'll see your cancer doctor for many years after treatment ends. Be sure to go to all of these follow-up visits. You will have exams, blood tests, and maybe other tests to see if the cancer has come back.
+At first, your visits may be every 2 to 6 months. Then, the longer you’re cancer-free, the less often the visits are needed. After 5 years, they may be done once or twice a year.
+Having cancer and dealing with treatment can be hard, but it can also be a time to look at your life in new ways. You might be thinking about how to improve your health. Call us at 1-800-227-2345 or talk to your cancer care team to find out what you can do to feel better.
+You can’t change the fact that you have cancer. What you can change is how you live the rest of your life – making healthy choices and feeling as good as you can.

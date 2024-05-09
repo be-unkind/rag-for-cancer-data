@@ -1,0 +1,603 @@
+Nasopharyngeal cancer is a type of head and neck cancer. Head and neck cancers can have many different names depending on where the cancer starts. Cancer starts when cells in the body begin to grow out of control. 
+Nasopharyngeal cancer starts in the nasopharynx, the upper part of the throat behind the nose and near the base of skull.
+Since the head and neck area has so many organs in a small place, knowing what type of head and neck cancer you have can be confusing. Ask your doctor to write down the exact kind of cancer you have and show you where it is on a picture. To learn more about how cancers start and spread, see What Is Cancer?
+The nasopharynx
+The nasopharynx is the upper part of the throat (pharynx) that lies behind the nose and nasal cavity. It's a box-like chamber about 3/4 inches (2 cm) wide and 1½ inches (4 cm) long. It lies just behind the nasal cavity and above the soft part of the roof of the mouth (soft palate). It is located in the upper part of the pharynx. The oropharynx is just below the nasopharynx and the hypopharynx is just below the oropharynx.
+The nasopharynx serves as a passageway for air traveling from the nose to the throat.
+To see more details of the nasopharynx, explore the 3D interactive color model below.Nasopharyngeal cancer (NPC) is rare. In most parts of the world (including the United States), there's less than one case for every 100,000 people each year.
+This cancer is much more common, however, in certain parts of South Asia, the Middle East, and North Africa. In some parts of China there are as many as 25 to 30 cases per 100,000 men and 15 to 20 cases per 100,000 women. It's also more common among native people in the Arctic.
+The risk of NPC increases slowly throughout life, but it can occur in people of any age, including children. In areas where the risk of NPC is high (such as China), the peak age of people being diagnosed is typically between 45 and 59. In areas of low risk of NPC (such as the US), cases can often be seen in young adulthood (ages 15 to 24) followed by a decline in cases until another peak at older ages of 65 to 79. 
+Overall, cases of NPC have been declining steadily over the past decades, including in high-risk areas. It is thought that this drop might be due to environmental and lifestyle changes.
+Men are 2 to 3 times more likely to develop NPC than women.Research into the causes, prevention, and treatment of nasopharyngeal cancer (NPC) is being done at many university hospitals, medical centers, and other institutions around the world. Because NPC is rare, it has been hard to study it well. Most experts agree that treatment in a clinical trial should be considered for any type or stage of NPC.
+Causes, prevention, and early detection
+Many studies are looking at how Epstein-Barr virus (EBV) infection as well as other risk factors cause cells of the nasopharynx to become cancer.These studies may someday lead to vaccines to help prevent some cases of NPC by preventing EBV infection.
+Discoveries about EBV, its interaction with nasopharyngeal cells, and the immune system’s reaction to EBV have led to new blood tests, such as measuring levels of EBV DNA, that is helping to detect NPC early and being studied as a way to screen people at high risk. Researchers are also finding certain gene changes in the EBV that can make a person more likely to develop NPC .﻿These questions are now being studied in areas of the world where this cancer is more common.
+Treatment
+Epstein-Barr virus (EBV) DNA
+
+                     The levels of EBV DNA in the blood are being studied as a way to screen people at high risk of NPC, but are also being looked at as a way to better predict the response to treatment as well as if NPC recurs (comes back after treatment).
+                    
+
+                      
+                    
+
+                     Some research is testing if the level of EBV DNA in the blood after chemoradiation or radiation therapy can help guide treatment : For example, deciding if someone with high levels of EBV DNA after getting chemoradiation should get adjuvant (additional) chemotherapy. 
+                    
+
+                      
+                    
+
+                     Studies to look for other gene changes linked to NPC are being done in countries where NPC is more common.
+                    
+New radiation therapy techniques
+Most types of radiation therapy use radiation in the form of x-rays (photons). Other types of radiation use protons and carbon ions to kill cancer cells. These are being studied, especially in China, but so far haven't been proven to be better than standard x-ray radiation. Some studies are also investigating proton therapy along with photon therapy. 
+Doctors are also studying the best dose of radiation therapy, especially if someone has had a good response to induction (upfront) chemotherapy. Some studies are evaluating if a lower dose of radiation can be given if the NPC has shrunken quite a bit because chemotherapy was given first.
+Chemotherapy
+Researchers continue to develop new chemo drugs, new drug combinations, and new ways to give drugs that might be more effective against advanced NPC. Several drugs that are already used to treat other cancers, such as capecitabine, oxaliplatin, and gemcitabine, have been studied for use against NPC as well. Clinical trials are looking for the best combination of chemo drugs and how they should be used along with radiation therapy. Studies have shown that for more advanced stages of NPC, giving chemotherapy first, called induction chemo, and then chemoradiation, can help some people live longer. Other research is being done on earlier-stage NPC to determine if chemo should be given after radiation therapy, if high levels of EBV DNA are found in the blood.
+Immunotherapy
+NPC seems to be caused at least in part by infection with the Epstein-Barr virus (EBV). Although patients’ immune systems can react against EBV, this doesn’t seem to be enough to kill the cancer. Finding and targeting cell proteins linked to EBV and the cells it affects could lead to new, more cancer-focused treatment options. Understanding how EBV interacts with the immune system could also lead to treatments that boost the immune system's response to NPC and maybe even keep it from developing.
+Immunotherapy drugs, like PD-1 inhibitors, are approved to treat some people with NPC after the cancer has come back (recurred) or spread (metastasized). Studies are looking to see if adding immunotherapy drugs to chemoradiation upfront might help shrink cancers more than chemoradiation alone. 
+Predicting treatment outcomes
+Researchers are looking for ways to know how well NPC will respond to treatment and understand how likely it is to come back after treatment. This information would allow doctors to tailor treatment for each patient so that the best treatment is used. One area of research is looking for a link between a person's blood EBV DNA levels before treatment, the cancer stage, and overall survival. Results have suggested there is a link between low levels of pre-treatment EBV DNA and early-stage cancers and better outcomes, but much more research is needed. Some studies are trying to find out if using EBV DNA levels after treatment could help predict a person’s outcome.A risk factor is anything that raises a person’s chance of getting a disease such as cancer. Different cancers have different risk factors. Some risk factors, like smoking or diet, can be changed. Others, like a person's age or family history, can’t be changed.
+But risk factors don’t tell us everything. Having a risk factor, or even many risk factors, does not mean that you will get the disease. And many people who get the disease may have few or no known risk factors.
+Some of the risk factors that make a person more likely to develop nasopharyngeal cancer (NPC) include: 
+Sex
+NPC is found in males two to three more times more often than it is in females.
+Race/ethnicity and where you live
+NPC is most common in Asia, specifically eastern and southern China (including Hong Kong), Singapore, Vietnam, and the Philippines. It's also fairly common in parts of North Africa and the MIddle East, as well as the Artic.
+People of south China have a lower risk of NPC if they move to another area that has lower rates of NPC (like the US or Japan), but their risk is still higher than for people who are native to areas with lower risk . Over time, their risk seems to go down. The risk also goes down in new generations. Although White people born in the United States have a low risk of NPC, White people born in China have a higher risk.
+Diet
+People who live in parts of Asia, northern Africa, and the Arctic region where NPC is common, typically eat diets very high in salt-cured fish and meat starting at an early age. The process of cooking the salted food seems to make chemicals, such as nitrosamine, which is a probable carcinogen. The rate of this cancer is dropping in southeast China and Singapore and it might partly be from people eating less of the salted fish. In contrast, some studies have suggested that diets high in nuts, legumes, fruits, and vegetables and low in dairy products and meat may help lower the risk of NPC.
+Age
+In areas of the world where NPC is not common, older age is a risk factor. 
+In places where NPC is more common, the cancer tends to be seen in younger people. For example, about 1 in 5 people with NPC are younger than 30 years old and the number of people diagnosed with NPC starts to go down after about age 59.  
+Epstein-Barr virus infection
+Infection with the Epstein-Barr Virus (EBV) is very common throughout the world, often occurring in children. In the United States, where infection with this virus tends to occur in teens, it's commonly known as mononucleosis or mono.
+EBV infection has been linked to the development of NPC, as well as certain lymphomas. It is often found in the non-keratinizing, undifferentiated type of NPC. But infection alone with EBV is not enough to cause NPC, since infection with this virus is very common and this cancer is very rare. Other factors, such as a person’s genes or smoking may affect how the body deals with EBV, which then may affect how EBV plays a part in the development of NPC.
+EBV DNA can be found in NPC cells and also pre-cancer cells. EBV DNA can also be found in the blood of people with NPC.
+The link between EBV infection and NPC is complex and still being studied.
+Human papillomavirus (HPV)  infection
+Human papillomavirus (HPV) is a group of more than 150 types of viruses. Infection with certain types of HPV can cause some forms of cancer, including cancers of the mouth and throat. 
+Some research shows that certain high-risk types of HPV may be linked to a small group of NPC cases especially in younger people who don’t smoke.
+See HPV (human papillomavirus) to learn more about HPV and vaccines to prevent HPV infection.
+Family history
+Family members of people with NPC are more likely to get this cancer. It's not known if this is because of inherited genes, shared environmental factors (such as the same diet or living quarters), or some combination of these.
+Just as people have different blood types, they also have different tissue types. Studies have found that people with certain inherited tissue types have an increased risk of developing NPC. Tissue types affect immune responses, so this may be related to how a person's body reacts to EBV infection.
+Other possible risk factors
+Tobacco use: Many studies have found that smoking may contribute to the development of NPC. Smoking might increase the risk of NPC by reactivating an EBV infection.
+Alcohol use: Some studies have also linked heavy drinking of alcohol to this type of cancer. This is seen more often in the US and Europe. More research is being done.The exact cause of most cases of nasopharyngeal cancer (NPC) is not known. But scientists have found links with certain diets, infections, and inherited factors. (See Risk Factors for Nasopharyngeal Cancer.)
+Epstein-Barr virus infection﻿
+Scientists have studied how the Epstein-Barr virus (EBV) may cause cells in the nasopharynx to become cancer, but there's still a lot to learn. In developed countries, most people infected with EBV have infectious mononucleosis (mono), and their immune system is able to recognize and destroy the virus. These people recover without any long-term problems. But in some cases, pieces of EBV DNA mix with the DNA of cells in the nasopharynx.
+DNA is the chemical in each of our cells that makes up our genes, the instructions for how our cells work. For instance, we often look like our parents because they're the source of our DNA. But DNA affects more than how we look. Some genes contain instructions that control when cells grow and divide into new cells. Viruses like EBV also contain DNA. When a cell is infected with the EBV virus, the viral DNA may mix with the normal human DNA. Then the EBV DNA may tell the cells of the nasopharynx to divide and grow in an abnormal way. Still, EBV infection rarely leads to NPC, so other factors, such as smoking and genetic factors, probably play a role in whether or not it causes cancer.
+Eating certain foods
+Eating a diet high in salt-cured fish and meat seems to increase the ability of EBV to cause NPC. Studies show that foods preserved in this way may produce chemicals that can damage DNA. The damaged DNA then changes a cell’s ability to control its growth and reproduction.
+Inherited Factors
+Some studies suggest that inheriting certain tissue types may contribute to a person’s risk of developing NPC. Because the tissue type plays a role in the function of the immune system, some scientists suspect that an abnormal immune reaction to EBV infection may be involved. The details of how certain tissue types might increase NPC risk are still being worked out.There's no sure way to prevent nasopharyngeal cancer (NPC). But there are some things you can do that might lower your risk of getting NPC and other types of cancers.
+Avoid tobacco and alcohol
+Both tobacco and alcohol use have clearly been linked to many cancers, as well as other health problems. Since there appear to be some links between tobacco and heavy alcohol use with NPC, especially in the US, it might help to avoid these to lower a person’s risk of NPC. Avoiding them in general can have many health benefits.
+Avoid certain infections
+Epstein-Barr virus (EBV)
+Infection with EBV has been linked to NPC. Scientists are trying to make an EBV vaccine, but at this time there's no known way to prevent this infection.
+Human papillomavirus (HPV)
+Some research shows that certain high-risk types of HPV may be linked to a small group of NPC cases especially in younger people who don’t smoke. Getting an HPV vaccine and trying to avoid HPV infection might help prevent NPC and some forms of cancer, including cancers of the penis, cervix, vulva, vagina, anus, mouth, and throat. 
+See HPV (human papillomavirus) to learn more about HPV and vaccines to prevent HPV infection.
+Avoid certain foods﻿
+Because eating certain types of foods, such as diets high in salt-cured fish, have been linked with NPC risk, eating less or not eating some types of food may lower the risk. This is especially true in parts of the world where NPC is common, such as southern China, northern Africa, and the Arctic region. Descendants of Southeast Asians who immigrated to the United States and eat a typical American diet, for example, have a lower risk of developing NPC. But these dietary factors are not thought to account for all cases of NPC in most other parts of the world.In the United States and other countries where nasopharyngeal cancer (NPC) is not common, doctors do not recommend routine screening for this cancer. (Screening is testing for cancer in people without any symptoms.) There are no simple exams or blood tests that can find this cancer early. Still, regular check-ups and visits to the dentist are recommended for your overall health. The throat, mouth, and nose are looked at during these visits.
+But in some parts of the world such as China, where NPC is more common, some people, like those who have a first-degree relative with NPC, are screened routinely for this cancer. Their blood might show evidence of infection with the Epstein-Barr virus (EBV), although EBV infection is much more common than NPC. If they have evidence of an EBV infection, they will get regular exams of the nasopharynx and neck. It is still not known if this lowers the death rate from NPC. Studies are being done to find more reliable screening methods because EBV infections can be present in some people for many years before NPC is ever diagnosed. 
+Sometimes NPC is found early because a person has symptoms that cause them to see a doctor. The symptoms may seem unrelated to the nasopharynx (for instance, a constant feeling of fullness in one ear). But in most people, NPC doesn't cause symptoms until it reaches an advanced stage.Most people with nasopharyngeal cancer (NPC) notice a lump or mass in the neck that leads them to see a doctor. There may be lumps on both sides of the neck toward the back. The lumps are usually not tender or painful. They're caused by the cancer spreading to lymph nodes in the neck, making them swell.
+Other possible symptoms of NPC include:
+
+Hearing loss, ringing in the ear, pain, or feeling of fullness in the ear (especially on one side only)
+Ear infections that keep coming back
+Nasal blockage or stuffiness
+Nosebleeds
+Headaches
+Facial pain or numbness
+Trouble opening your mouth
+Blurred or double vision
+Trouble breathing or talking
+
+Ear infections are common in children, but are less common in adults. If you develop an infection in one ear and you haven't had ear infections in the past, it's important to have a specialist examine your nasopharynx. This is especially true if you don't have an upper respiratory tract infection (like a “cold”) along with the ear infection.
+Many of the symptoms and signs of NPC are more often caused by other, less serious diseases. Still, if you have any of these problems, it's important to see a doctor right away so the cause can be found and treated, if needed.Nasopharyngeal cancer (NPC) is most often diagnosed when a person goes to a doctor because of symptoms such as a lump in the neck or stuffy nose, but no other signs of a cold.
+Medical history and physical exam
+If you have signs or symptoms that suggest you might have NPC, the doctor will want to get your complete medical history. You will be asked about the changes you've noticed, possible risk factors, and your family history.
+The doctor will do a physical examination to look for signs of NPC or other health problems. A more complete exam of your nasopharynx will be done. During the exam, the doctor will pay close attention to your head and neck, including your nose, mouth, and throat; your facial muscles; and the lymph nodes in your neck.
+Exams by a specialist
+The nasopharynx is deep inside the head and isn't easily seen, so special techniques are needed to examine this area. You will probably be referred to an ear, nose and throat (ENT) doctor (also called an otolaryngologist) because they have the specialized training and equipment to do a complete exam of this part of the body. The main types of exams used to look inside the nasopharynx for abnormal growths, bleeding, or other signs of disease are usually done in the doctor's office.
+
+Indirect nasopharyngoscopy:  The doctor uses special small mirrors and bright lights, just like during an indirect laryngoscopy, to look at the nasopharynx and nearby areas.
+Direct nasopharyngoscopy: A fiberoptic scope, similar to the one used during a direct laryngoscopy, is used to look directly at the lining of the nasopharynx. This is the method most often used to carefully examine the nasopharynx.
+
+If a tumor starts under the lining of the nasopharynx (in the tissue called the submucosa), the doctor may not be able to see it. Because of this, imaging tests like CT or MRI scans (see below), may be needed.
+Depending on your signs and symptoms, you might also be referred for:
+
+A baseline hearing test by an audiologist
+A complete exam of your eyes and vision by an ophthalmologist (eye doctor)
+A full dental exam by a dentist
+An evaluation of your speech and swallowing ability by a speech therapist.
+
+Types of biopsies
+In a biopsy, the doctor removes a small piece of tissue or a sample of cells, so it can be tested in the lab for cancer cells. A biopsy is the only way to know for sure that NPC is present. Several types of biopsies may be used, depending on circumstances.
+See Testing Biopsy and Cytology Specimens for Cancer to learn more.
+Endoscopic biopsy
+If a growth is seen in the nasopharynx, the doctor may take out a tiny piece of it with small instruments and the aid of a fiber-optic scope. Often, biopsies of the nasopharynx are done in the operating room while you are under general anesthesia (a deep sleep) as an outpatient procedure. The tissue sample is then sent to a lab, where a pathologist (a doctor who specializes in diagnosing and classifying diseases in the lab) looks at it closely to see if there are cancer cells.
+NPC cannot always be seen during an exam. If a person has symptoms suggesting NPC but nothing looks abnormal on exam, the doctor may biopsy normal-looking tissue, which may be found to contain cancer cells when looked at and tested by a pathologist.
+Fine needle aspiration (FNA) biopsy
+An FNA biopsy may be used if you have a suspicious lump in or near your neck. To do this, the doctor puts a thin, hollow needle into the lump to remove fluid containing cells or tiny bits of tissue. The cells are then looked at in the lab to see if they are cancer cells.
+An FNA biopsy can show if an enlarged lymph node in the neck is caused by the spread of cancer from somewhere else (such as the nasopharynx) or a cancer that starts in lymph nodes (lymphoma). Lymphomas can start in the nasopharynx but this only happens about 5% of the time.  If the cancer started somewhere else, the FNA biopsy alone might not be able to tell where it started. But if a patient already known to have NPC has enlarged neck lymph nodes, FNA can help find out if the spread of NPC caused the swelling.
+Lab tests of biopsy samples
+Biopsy samples (from endoscopy or surgery) are sent to the lab where they are looked at closely. If cancer is found, other lab tests may also be done on the biopsy samples to help better classify the cancer.
+Tests for certain proteins on tumor cells: If the cancer has spread (metastasized) or come back, doctors will probably look for certain proteins on the cancer cells. For example, cancer cells might be tested for the PD-L1 protein which, if found, might predict if the cancer is more likely to respond to treatment with certain immunotherapy drugs.
+Imaging tests
+Imaging tests use x-rays, magnetic fields, sound waves, or radioactive substances to make pictures of the inside of your body. Imaging tests are not used to diagnose nasopharyngeal cancers, but they're done for a number of reasons after a cancer diagnosis, such as:
+
+To look at suspicious areas that might be cancer
+To learn how far cancer may have spread
+To help determine if treatment is working
+To look for signs that the cancer has come back after treatment
+
+Chest x-ray
+If you've been diagnosed with NPC, a plain x-ray of your chest might be done to see if the cancer has spread to your lungs, but more often a CT scan of the lungs is done since it tends to give more detailed pictures.
+Computed tomography (CT) scan
+The CT scan is an x-ray test that makes detailed cross-sectional images of your body.
+A CT scan of the head and neck can provide information about the size, shape, and position of a tumor, see if it's growing into nearby tissues, and can help find enlarged lymph nodes that might contain cancer. A CT scans can also look for cancer that may have grown into the bones at the base of the skull. This is a common place for nasopharyngeal cancer to grow. CT scans can also be used to look for tumors in other parts of the body.
+Magnetic resonance imaging (MRI) scan
+Like CT scans, MRI scans make detailed images of soft tissues in the body. But MRI scans use radio waves and strong magnets instead of x-rays. A contrast material called gadolinium is often injected into a vein before the scan to get clear pictures.
+An MRI scan is often done to try to find out if the cancer has grown into structures near the nasopharynx including the nerves. MRIs are a little better than CT scans at showing the soft tissues in the nose and throat.
+Positron emission tomography (PET) scan
+PET scans use a slightly radioactive form of sugar that's injected into the blood collects mainly in cancer cells.
+A PET scan may be used to look for possible areas of cancer spread, especially if the main cancer is advanced. This test can also be used to help tell if a suspicious area seen on another imaging test is cancer or not.
+PET/CT scan: Some machines are able to do both a PET and CT scan at the same time. This lets the doctor compare areas of higher radioactivity on the PET scan with the more detailed pictures on the CT scan.
+Bone scan
+For a bone scan, a small amount of low-level radioactive material is injected into the blood and collects mainly in abnormal areas of bone. A bone scan can help show if a cancer has spread to the bones. But this test isn’t needed very often because PET scans are good at showing if cancer has spread to the bones.
+Other pre-treatment tests
+Other tests may be done as part of a workup in people diagnosed with nasopharyngeal cancer. These tests are not used to diagnose the cancer, but they may be done to see if a person is healthy enough for certain treatments, like radiation or chemotherapy.
+Quit smoking: It is very important to quit smoking before starting any treatment for nasopharyngeal cancer. If you used to smoke cigarettes before being diagnosed, it is important to not start during treatment. Smoking during treatment can cause a poor response to radiation treatment, poor wound healing, poor tolerance to chemotherapy, and a higher chance of dying. 
+Epstein-Barr virus (EBV) DNA levels: Tests to measure the blood level of EBV DNA may be done before and after treatment. It might help show how well treatment is working and might also help in choosing certain chemo drugs for treatment. The level of EBV DNA in the blood before treatment can also help determine your prognosis (outlook).
+Routine blood counts and blood chemistry tests: Routine blood tests can help determine a patient’s overall health. These tests can help diagnose nutrition problems, anemia (low red blood counts), liver disease, and kidney disease. And they may suggest the possibility of spread of the cancer to the liver or bone, which may lead to more testing. These tests can also help determine how well your body might tolerate treatment like chemo.
+Pre-surgery (before surgery): Even though surgery is not the main treatment for NPC, if surgery is planned, you might also get an electrocardiogram (EKG) to make sure your heart is working well. Some people having surgery also may need tests of their lung function known as pulmonary function tests (PFTs).
+Dental exam: Your cancer care team will also have you see your dentist before any radiation is given since it can damage the saliva (spit) glands and cause dry mouth. This can increase the chance of cavities, infection, and breakdown of the jawbone.
+Hearing test: The most commonly used chemotherapy drug used in treating nasopharyngeal cancer, cisplatin, can affect your hearing. Side effects can range from ringing in the ears to hearing loss. Your care team will most likely have your hearing checked (with an audiogram) before starting treatment. If your hearing is already poor, your doctor might recommend a different chemotherapy drug. 
+Nutrition and speech tests: Often, you will have a nutritionist who will evaluate your nutrition status before, during, and after your treatment to try and keep your body weight and protein stores as normal as possible. You might also visit a speech therapist who will test your ability to swallow and speak. They might give you exercises to do during treatment to help strengthen the muscles in the head and neck area so you can eat and talk normally after finishing all of your cancer treatment.After someone is diagnosed with nasopharyngeal cancer (NPC), doctors will try to figure out if it has spread, and if so, how far. This process is called staging. The stage of a cancer describes how much cancer is in the body. It helps determine how serious the cancer is and how best to treat it. Doctors also use a cancer's stage when talking about survival statistics.
+The earliest stage of NPC is stage 0, also known as carcinoma in situ (CIS). The other stages range from I (1) through IV (4). Some stages are further divided, using A, B, etc. As a rule, the lower the number, the less the cancer has spread. A higher number, such as stage IV, means cancer has spread more. And within a stage, an earlier letter means a lower stage. Although each person’s cancer experience is unique, cancers with similar stages tend to have a similar outlook and are often treated in much the same way.
+How is the stage determined?
+The staging system most often used for NPC is the American Joint Committee on Cancer (AJCC) TNM system, which is based on 3 key pieces of information:
+
+The extent of the main tumor (T): How far has the tumor grown into nearby structures?
+The spread to nearby lymph nodes (N): Has the cancer spread to nearby lymph nodes in the neck? If so, how large are they and are they on the same side (left or right) as where the cancer started, or both sides of the neck?
+The spread (metastasis) to distant sites (M): Has the cancer spread to distant parts of the body? The most common sites of spread are the bones, lungs, liver, or lymph nodes in distant parts of the body.
+
+These categories are mainly based on the results of any exams, biopsies, and imaging tests that have been done (described in How Is Nasopharyngeal Cancer Diagnosed?). Numbers or letters after T, N, and M provide more details about each of these factors.
+Once the T, N, and M categories of the cancer have been determined, this information is combined in a process called stage grouping to assign an overall stage. For more on this, see Cancer Staging.
+Nasopharyngeal cancer is typically given a clinical stage based on the results of any exams, biopsies, and imaging tests that might have been done (as described in Tests for Nasopharyngeal Cancers). If surgery has been done, the pathologic stage (also called the surgical stage) can be determined.﻿
+The system described below is the most recent AJCC system for NPC, effective January 2018. 
+NPC staging can be complex. If you have questions about your cancer's stage and what it might mean for you, ask your doctor to explain it to you in a way you understand.
+Stages of nasopharyngeal cancer
+
+
+
+AJCC stage
+Stage grouping
+Stage description* 6 centimeters (cm) = About 2½ inches
+
+
+0  
+Tis N0 M0
+The tumor is only in the top layer of cells lining the inside of the nasopharynx, and has not grown any deeper (Tis). The cancer has not spread to nearby lymph nodes (N0) nor to distant parts of the body (M0).
+
+
+I
+T1 N0 M0
+The tumor is in the nasopharynx. It might also have grown into the oropharynx (the part of the throat in the back of the mouth) and/or nasal cavity but no farther (T1). The cancer has not spread to nearby lymph nodes (N0) nor to distant parts of the body (M0).
+
+
+    II
+T1 (or T0) N1 M0
+The tumor is in the nasopharynx. It might also have grown into the oropharynx (the part of the throat behind the mouth) and/or nasal cavity but no farther (T1). OR No tumor is seen in the nasopharynx, but cancer is found in lymph nodes in the neck and is positive for Epstein-Barr virus (EBV) DNA, which makes it very likely to be NPC (T0).   The cancer has spread to 1 or more lymph nodes on one side of the neck, or it has spread to lymph nodes behind the throat. In either case, no lymph node is larger than 6 cm across (N1). The cancer has not spread to distant parts of the body (M0).
+
+
+OR
+
+
+T2 N0 or N1 M0
+The tumor has grown into the tissues of the left or right sides of the upper part of the throat, but not into bone (T2). The cancer has not spread to nearby lymph nodes (N0). OR, it has spread to 1 or more lymph nodes on one side of the neck, or it has spread to lymph nodes behind the throat. In either case, no lymph node is larger than 6 cm across (N1). The cancer has not spread to distant parts of the body (M0).
+
+
+      III
+T1 (or T0) N2 M0
+The tumor is in the nasopharynx. It might also have grown into the oropharynx (the part of the throat behind the mouth) and/or nasal cavity but no farther (T1). OR No tumor is seen in the nasopharynx, but cancer is found in lymph nodes in the neck and is positive for Epstein-Barr virus (EBV) DNA, which makes it very likely to be NPC (T0). The cancer has spread to lymph nodes on both sides of the neck, none of which is larger than 6 cm across (N2). The cancer has not spread to distant parts of the body (M0).
+
+
+OR
+
+
+T2 N2 M0
+The tumor has grown into the tissues of the left or right sides of the upper part of the throat, but not into bone (T2). The cancer has spread to lymph nodes on both sides of the neck, none of which is larger than 6 cm across (N2). The cancer has not spread to distant parts of the body (M0).
+
+
+OR
+
+
+T3 N0 to N2 M0
+The tumor has grown into the sinuses and/or the bones nearby (T3). The cancer might or might not have spread to nearby lymph nodes in the neck or behind the throat, but none are larger than 6 cm across (N0 to N2). The cancer has not spread to distant parts of the body (M0).
+
+
+    IVA
+T4 N0 to N2 M0
+The tumor has grown into the skull and/or cranial nerves, the hypopharynx (lower part of the throat), the main salivary gland, or the eye or its nearby tissues (T4). The cancer might or might not have spread to nearby lymph nodes in the neck or behind the throat, but none are larger than 6 cm across (N0 to N2). The cancer has not spread to distant parts of the body (M0).
+
+
+OR
+
+
+Any T N3 M0
+The tumor might or might not have grown into structures outside the nasopharynx (any T). The cancer has spread to lymph nodes that are either larger than 6 cm across, or located in the shoulder area just above the collarbone (N3). The cancer has not spread to distant parts of the body (M0).
+
+
+IVB
+Any T Any N M1
+The tumor might or might not have grown into structures outside the nasopharynx (any T). The cancer might or might not have spread to nearby lymph nodes (any N). The cancer has spread to distant parts of the body (M1).
+
+
+
+*The following additional categories are not listed in the table above: 
+
+TX: Main tumor cannot be assessed due to lack of information.
+NX: Nearby lymph nodes cannot be assessed due to lack of information.Survival rates can give you an idea of what percentage of people with the same type and stage of cancer are still alive a certain length of time (usually 5 years) after they were diagnosed. They can’t tell you how long you will live, but they may help give you a better understanding of how likely it is that your treatment will be successful.
+Keep in mind that survival rates are estimates and are often based on previous outcomes of large numbers of people who had a specific cancer, but they can’t predict what will happen in any particular person’s case. These statistics can be confusing and may lead you to have more questions. Ask your doctor how these numbers might apply to you. 
+What is a 5-year relative survival rate?
+A relative survival rate compares people with the same type and stage of cancer to people in the overall population. For example, if the 5-year relative survival rate for a specific stage of nasopharyngeal cancer is 80%, it means that people who have that cancer are, on average, about 80% as likely as people who don’t have that cancer to live for at least 5 years after being diagnosed.
+Where do these numbers come from?
+The American Cancer Society relies on information from the Surveillance, Epidemiology, and End Results (SEER) database, maintained by the National Cancer Institute (NCI), to provide survival statistics for different types of cancer.
+The SEER database tracks 5-year relative survival rates for nasopharyngeal cancer in the United States, based on how far the cancer has spread. The SEER database, however, does not group cancers by AJCC TNM stages (stage 1, stage 2, stage 3, etc.). Instead, it groups cancers into localized, regional, and distant stages:
+
+Localized: There is no sign that the cancer has spread outside of the nasopharynx.
+Regional: The cancer has spread outside the nasopharynx to nearby structures or lymph nodes.
+Distant: The cancer has spread to distant parts of the body, such as the lungs or liver.
+
+5-year relative survival rates for nasopharyngeal cancer
+These numbers are based on people diagnosed with cancers of the nasopharynx between 2012 and 2018.
+
+
+
+SEER stage
+5-year relative survival rate
+
+
+Localized
+82%
+
+
+Regional
+72%
+
+
+Distant
+49%
+
+
+All SEER stages combined
+63%
+
+
+
+Understanding the numbers
+
+These numbers apply only to the stage of the cancer when it is first diagnosed. They do not apply later on if the cancer grows, spreads, or comes back after treatment.
+These numbers don’t take everything into account. Survival rates are grouped based on how far the cancer has spread. But other factors, such as your age and overall health, how well the cancer responds to treatment, and the levels of Epstein-Barr Virus (EBV) DNA in your blood before treatment can also affect your outlook.
+People now being diagnosed with nasopharyngeal cancer may have a better outlook than these numbers show. Treatments improve over time, and these numbers are based on people who were diagnosed and treated at least 5 years earlier.It is important to have honest, open discussions with your cancer care team. They want to answer all your questions to help you make informed treatment and life decisions.
+Other health care professionals, such as dietitians, nurses, and social workers, can also answer some of your questions. You can find more tips about speaking with your health care team in The Doctor-Patient Relationship.
+Along with these sample questions, be sure to write down some of your own. For instance, you might want more information about recovery times so you can plan your work schedule. Or you may want to ask about getting a second opinion or about clinical trials for which you may qualify. Consider these questions to get you started.
+When you’re told you have nasopharyngeal cancer
+
+What kind of nasopharyngeal cancer do I have? Does this affect my treatment options?
+Has my cancer spread outside the nasopharynx?
+What is the stage of the cancer and what does that mean?
+Will I need other tests before we can decide on treatment?
+Do I need to see other doctors or health professionals?
+If I’m concerned about the costs and insurance coverage for my diagnosis and treatment, who can help me?
+Is there a clinical trial available you think I should get more information about?
+If the cancer is stage 4, has it been tested for certain proteins or gene changes to help figure out my treatment options?
+
+When you're deciding on a treatment for nasopharyngeal cancer
+
+How much experience do you have treating this type of cancer?
+What are my treatment options?
+What treatment do you recommend and why?
+What's the goal of the treatment?
+Will this treatment affect the way I look? If so, what are my options for reconstruction?
+What are the chances the cancer can be cured with this treatment?
+How quickly do I need to decide on treatment?
+What should I do to be ready for treatment?
+Will I need a feeding tube before starting treatment?
+What if I need transportation getting to and from treatment?
+How long will treatment last? What will it be like? Where will it be done?
+Will treatment affect my daily activities? Can I still work full time?
+What risks and side effects can I expect? How long are they likely to last?
+Is there anything I can do to help reduce side effects?
+Is treatment likely to affect my speech or swallowing? Is there anything I can do to help minimize this?
+What are the chances that my cancer will come back (recur)?
+What would we do if the treatment doesn’t work or if the cancer recurs?
+
+During treatment for nasopharyngeal cancer
+
+How will I know if the treatment is working?
+Is there anything I can do to help manage side effects?
+What symptoms or side effects should I tell you about right away?
+How can I reach you on nights, holidays, or weekends?
+Do I need to change what I eat during treatment?
+Are there any limits on what I can do or what I can eat?
+Can I exercise during treatment? If so, what kind should I do, and how often?
+Can you suggest a mental health professional I can see if I start to feel overwhelmed, depressed, or distressed?
+What if I need social support during treatment because my family lives far away?
+
+After treatment for nasopharyngeal cancer
+
+Will I need a special diet after treatment?
+Are there any limits on what I can do?
+What symptoms should I watch for?
+What kind of exercise should I do now?
+What type of follow-up will I need after treatment?
+How often will I need to have follow-up exams and imaging tests?
+When should I have my next endoscopy?
+Will I need any blood tests?
+How will we know if the cancer has come back? What should I watch for?
+What will my options be if the cancer comes back?Surgery to remove the main tumor is not usually the first treatment for people with nasopharyngeal cancer (NPC) because the nasopharynx is a hard place to operate on, it is close to other critical structures, and because other types of treatment often work well. Surgery is more often done to remove lymph nodes in the neck that haven’t responded to other treatments.
+Quit smoking before nasopharyngeal cancer surgery
+If you smoke, you should quit. Smoking during cancer treatment is linked to poor wound healing, more side effects, and less benefit from treatment which can raise your risk of the cancer coming back (recurrence). Smoking after treatment can also increase the chance of getting another new cancer. Quitting smoking for good (before treatment starts, if possible) is the best way to improve your chances of survival.  It is never too late to quit. For help, see How To Quit Using Tobacco.
+Surgery to remove the tumor
+Since these cancers are not common in the US and are located near many critical structures in your head and neck, it’s very important to go to a cancer center that has experience treating these cancers. This will help coordinate care between cancer specialists to make a complete treatment plan and might help people live longer. 
+Endoscopic surgery
+For endoscopic surgery, doctors put flexible fiber-optic scopes and long, thin surgical instruments into the nasal cavity through the nostrils to completely remove some nasopharyngeal tumors (an operation called endoscopic nasopharyngectomy). This type of surgery is an option for people as a first treatment for small cancers or for small cancers that have come back after the initial treatment. It can help some people live longer. These complex procedures are done only in specialized centers.
+Surgery does have some advantages over other treatments such as radiation therapy – for example, doctors can look at the removed tumor (and nearby tissues) closely in the lab to make sure that no cancer has been left behind.
+Surgery to remove lymph nodes
+Cancers of the nasopharynx often spread to the lymph nodes in the neck. These cancers often respond well to treatment with radiation therapy (and sometimes chemotherapy). But if some cancer remains after these treatments, an operation called a neck dissection may be needed to remove these lymph nodes. Lymph nodes in the neck might also be taken out to see if there are cancer cells in them.
+There are several types of neck dissection surgery. The difference is in how much tissue is removed from the neck. Depending on the location of the tumor, lymph nodes may be removed from both sides of the neck.
+
+A  selective neck dissection: No nerves, veins, or muscles are affected during this type of neck dissection and only lymph nodes in selected parts of the neck are removed. This type of surgery removes fewer normal structures to try to keep your shoulder and neck working normally.
+
+
+A comprehensive neck dissection: Some nerves, veins, and muscles might be removed, along with all of the lymph nodes in the neck.
+
+Possible risks and side effects of surgery
+The risks and side effects of any surgery depend on the extent of the operation and a person's general health before the surgery. If you are considering surgery, your doctor will discuss the likely side effects with you beforehand. Be sure you understand how surgery may affect how you look and how your body works.
+All surgery carries some risk, including the possibility of blood clots, bleeding, infections, complications from anesthesia, and pneumonia. Most people will have some pain for a while after the operation, although this can usually be controlled with medicines. These risks are generally low but are higher with more complicated operations. Rarely, some people do not survive the surgery.
+Possible risks and side effects of endoscopic surgery of the nasopharynx area include meningitis, fluid in the inner ear, numbness around the eye, watery eyes, or lockjaw.
+Side effects of a neck dissection can include numbness of the ear, weakness when raising the arm above the head, and weakness of the lower lip due to nerve damage from surgery. Nerves heal slowly, so sometimes these side effects can improve over time, especially when physical therapists teach you exercises to improve neck and shoulder strength and movement.
+If more extensive surgery is needed, the side effects may be permanent.  After more extensive neck dissections, physical therapists can teach you exercises to improve neck and shoulder strength and movement.Since these cancers are not common in the US and are located near many critical structures in your head and neck, it’s very important to go to a cancer center and radiation oncologist who has experience treating these cancers. This will help coordinate your care between cancer specialists to make a complete treatment plan.﻿
+Radiation therapy uses high-energy x-rays or particles to kill cancer cells or slow their rate of growth. Most nasopharyngeal cancers (NPC) are sensitive to radiation, so it's usually part of the initial treatment if the NPC has not spread outside the head and neck region.
+Radiation can be used in many ways to treat NPC:
+
+As the main treatment for cancers that are small and have not spread to lymph nodes in the neck
+As the main treatment with chemotherapy for large cancers or cancers that have spread to the lymph nodes in the neck
+As the main treatment for people who cannot have chemotherapy
+After chemotherapy  in patients with NPC that has grown into nearby structures and/or has spread to lymph nodes in the neck. In patients whose tumors respond to chemotherapy, treatment with more chemotherapy plus radiation (chemoradiation) can help some people live longer.
+To help with symptoms, such as pain, bleeding, or trouble swallowing, in people with advanced cancer
+To treat cancer that has come back after treatment (recurrence)
+
+Radiation therapy is usually given both to the main nasopharyngeal tumor and to nearby lymph nodes in the neck. Even if the lymph nodes are not large or abnormal on an imaging test or physical exam, radiation is still used, just in case a few cancer cells have spread there. If the lymph nodes are known to have cancer cells, higher radiation doses are used.
+Radiation to this part of your body can cause problems for your teeth and gums, so it's important to see a dentist before starting treatment. A dentist can make sure your mouth is healthy before treatment. They might recommend that certain bad teeth be removed before you start radiation because they can increase your chance of infection. The dentist will probably also recommend using some form of fluoride treatment after completing therapy. During and after treatment your dentist can help check for and treat any problems that might come up, such as infection or tooth and bone damage.
+Quit smoking before nasopharyngeal cancer treatment
+If you smoke, it is important to quit. Smoking during radiation treatment can cause more side effects and a poor response to radiation, which might raise your risk of the cancer coming back (recurrence).  Smoking after treatment also increases the chance of getting a new cancer. Quitting smoking for good (before treatment starts, if possible) is the best way to improve your chances for successful treatment. It is never too late to quit. For help, see How To Quit Using Tobacco.
+External beam radiation therapy (EBRT) for nasopharyngeal cancer
+External beam radiation therapy is the most common type of radiation used to treat NPC. This type of radiation uses x-rays that are aimed at the tumor from a large machine outside the body.
+Before starting EBRT, a somewhat flexible but sturdy mesh head and neck mask might be made to hold your head, neck, and shoulders in the exact same position for each treatment. Some people might feel a bit confined while this mask is on and might need to ask for medicine to help them relax during the treatment. Sometimes, the mask can be adjusted so that it is not too constricting. Discuss your options with your radiation oncologist. You might also be fitted for a bite block that you will hold in your mouth during treatment.
+Radiation therapy is much like getting an x-ray, but the radiation dose is stronger and aimed more precisely at the cancer. The treatment doesn't hurt and the machine doesn't touch you. Each treatment lasts only a few minutes, but the setup time – getting you in place for treatment – often takes longer.
+Different types of EBRT
+There are advanced EBRT techniques that help doctors focus the radiation more precisely or use different types of radiation, like protons. 
+Intensity-modulated radiation therapy (IMRT) is most often used to treat NPC. It is a type of conformal therapy that uses a computer-driven machine that moves around the patient as it delivers radiation. Along with shaping the beams and aiming them at the tumor from several angles, the intensity (strength) of the beams can be adjusted to limit the dose reaching the nearby normal tissues and important structures. This may let the doctor give a higher dose to the tumor and helps reduce side effects.
+Proton beam radiation therapy  focuses proton beams on the cancer. Unlike x-rays, which go through the patient and release radiation both before and after they hit the tumor, protons only travel a certain distance, so the tissues behind the tumor may be exposed to less radiation. This is hoped to lessen side effects compared to other types of radiation, such as x-rays. However, that has not yet been shown to be the case in a clinical trial. Because of this, proton therapy is not widely available in the United States and might not be covered by many insurance companies at this time.
+
+Common treatment schedule for EBRT
+The standard EBRT schedule for nasopharyngeal cancers is usually daily fractions (doses) 5 days a week for about 6 to 7 weeks.
+Brachytherapy (internal radiation)
+Brachytherapy is another way to deliver radiation. Very thin metal rods or wires, which carry small pellets of radioactive materials, are placed in or very near the cancer. The radiation travels a very short distance, so it destroys the cancer without causing much harm to nearby healthy tissues.
+Brachytherapy is not often used as a first treatment for nasopharyngeal cancer. But it might be used if the cancer recurs (comes back) or does not go away completely with chemoradiation. Sometimes, internal and external beam radiation therapy are used together.
+Chemoradiation
+Chemoradiation is chemotherapy given at the same time as radiation. It can often work better than radiation alone, but it also tends to have more side effects. (You can find more on this in Chemotherapy for Nasopharyngeal Cancer.)
+Possible side effects of radiation therapy for nasopharyngeal cancer
+If you are going to get radiation therapy, it’s important to ask your doctor about the possible side effects so you know what to expect.
+Common short-term side effects of external beam radiation to the head and neck can include:
+
+Skin changes in the area where the radiation is directed, with redness or blistering
+Nausea and vomiting
+Fatigue (tiredness)
+Sores in the mouth and throat which can lead to trouble swallowing and weight loss from not eating
+Hoarseness
+Loss of taste
+
+These side effects often get better once radiation has stopped.
+Long-lasting or permanent side effects of radiation therapy
+Other side effects might not get better over time, such as damage to the bones of the skull, or problems with hearing or vision because of damage to certain nerves. Other long-term side effects might include:
+
+Tooth problems: Radiation to these areas can make any tooth problems that you already have worse and hard to fix. Most doctors will suggest you get your teeth checked by a dentist before starting radiation therapy to the head or neck area. In some cases, the dentist may even advise removing some teeth before treatment to lessen the chance that you'll have problems later, such as an infection.
+Dry mouth: This is a major concern with radiation therapy for NPC. Damage to the salivary glands can cause dry mouth that doesn't go away and makes it hard to swallow food. Dry mouth can also lead to severe tooth decay. To help prevent dental problems, people treated with radiation to the head or neck area need to practice careful oral hygiene and see the dentist regularly. Dry mouth is less of a problem if IMRT is used.
+Thyroid problems: The thyroid gland is often damaged if the neck area is treated with EBRT. The damage doesn’t cause problems that are noticed right away, so your doctor will watch your thyroid function with blood tests in the years after treatment. If your thyroid function goes down, pills to replace thyroid hormone may be needed.
+Damage to the pituitary gland: The pituitary gland controls many hormones in the body. Blood tests can be used to find abnormal hormone levels if the pituitary is damaged by radiation treatment. If the damage is serious enough, it might require taking certain hormones to replace the ones that are missing.
+Damage to the carotid arteries: These are major blood vessels in the neck that carry blood to the brain. They can sometimes become narrowed after radiation. This could raise a person’s risk of stroke or other problems, but it usually takes several years to occur.Since these cancers are not common in the US and are located near many critical structures in your head and neck, it’s very important to go to a cancer center that has experience treating these cancers. This will help coordinate care between cancer specialists to make a complete treatment plan and might help people live longer. 
+Quit smoking before nasopharyngeal cancer treatment
+If you smoke, you should quit. Smoking during chemotherapy treatment can cause more side effects and can cause . It can give you a higher chance of getting an infection and is linked to worse outcomes. Smoking after treatment might also increase the risk of the cancer coming back and of getting another new cancer. Quitting smoking (before treatment starts, if possible) is the best way to improve your chances of survival. It is never too late to quit. For help, see How To Quit Using Tobacco.
+How is chemotherapy used to treat nasopharyngeal cancers?
+Chemotherapy (chemo) is the use of anti-cancer drugs to treat cancer. These drugs are most often given into a vein (IV) or by mouth which allows them to enter the bloodstream and reach most parts of the body.
+Chemo may be used in different ways to treat nasopharyngeal cancer (NPC):
+
+Along with radiation therapy (chemoradiation) as the main treatment for more advanced stages of NPC.
+As the first treatment before chemoradiation. This is called induction chemo. This method can help some people with NPC live longer.
+After radiation (or after chemoradiation). This is known as adjuvant chemotherapy.
+To help with symptoms, such as pain, bleeding, or trouble swallowing, in people with advanced NPC. It may be used alone or along with radiation.
+To treat cancer that has come back after initial treatment (recurrence).
+
+How is chemotherapy given?
+Chemo drugs for nasopharyngeal cancer are usually given by mouth or into a vein (IV) as an infusion over a certain period of time. This can be done in a doctor’s office, infusion center, or in a hospital setting.
+Often, a slightly larger and sturdier IV is required in the system for chemo. These IVs are known as central venous catheters (CVCs), central venous access devices (CVADs), or central lines. They are used to put medicines, blood products, nutrients, or fluids right into your blood. They can also be used to take blood for tests. There are many kinds of CVCs. The most common types are the port and the PICC line.
+Chemotherapy is given in cycles: one drug or a combination of drugs given on a set schedule, followed by a rest period. Common schedules of chemo cycles can be once a week, once every 3 weeks, or once every 4 weeks. The schedule depends on the drugs used. The chemo schedule repeats to start the next cycle.
+Adjuvant or induction chemo is often given for 2 or 3 months, depending on the drugs used. 
+Chemo might not be a good option for people in poor health, but advanced age by itself should not keep anyone from getting chemo.
+Common chemo drugs used to treat NPC
+Cisplatin is the chemo drug used most often to treat NPC. It can be used alone or as part of chemoradiation (see below). Or it may be combined with another drug, 5-fluorouracil (5-FU) or gemcitabine, to be given after chemoradiation or as induction chemotherapy. Sometimes, carboplatin might be used if cisplatin is not a good choice.  
+Some other drugs that might also be helpful in treating NPC with or without radiation include:
+
+Carboplatin (Paraplatin)
+Epirubicin (Ellence)
+Paclitaxel (Taxol)
+Docetaxel (Taxotere)
+Gemcitabine (Gemzar)
+Capecitabine (Xeloda)
+Methotrexate
+
+A chemo drug may be used alone or combined with other drugs. Combining drugs can often shrink tumors better but tend to cause more side effects.
+Chemoradiation
+Chemoradiation is chemotherapy given at the same time as radiation. It has been shown to shrink nasopharyngeal tumors more than either treatment alone and is helpful for people whose cancers are locally advanced. But this combined approach can be hard to tolerate, especially for people in poor health.
+A preferred schedule is to give a dose of cisplatin every 3 weeks (for a total of 2 to 3 doses) during radiation. For people who cannot tolerate cisplatin, carboplatin might be used with radiation instead.
+Possible side effects of chemotherapy
+Chemo drugs attack cells that are dividing quickly, which is why they work against cancer cells. But other cells in the body such as those in the bone marrow, the lining of the mouth and intestines, and the hair follicles also divide quickly. This can lead to certain side effects.
+The side effects of chemo depend on the type and dose of drugs given and how long they are taken. Common short-term side effects can include:
+
+Hair loss
+Mouth sores
+Loss of appetite
+Nausea and vomiting
+Diarrhea
+Fever
+Rash
+
+Chemo can also affect the blood-producing cells of the bone marrow, which can lead to:
+
+Increased chance of infections (from low white blood cell counts)
+Easy bruising or bleeding (from low blood platelet counts)
+Fatigue (from low red blood cell counts)
+
+Along with the risks above, some side effects are seen more often with certain chemo drugs. For example, 5-FU often causes diarrhea. This might need to be treated with drugs like loperamide. Cisplatin, docetaxel, and paclitaxel can cause nerve damage (called neuropathy). This can lead to numbness and tingling in the hands and feet or hearing loss. This often improves once treatment is stopped, but for some people it can last a long time. Cisplatin can also damage kidneys . To help prevent this, intravenous (IV) fluid is given before and after each dose.
+These side effects usually go away over time after treatment ends. Once chemo starts, let your health care team know if you have side effects, so they can be treated. There are ways to prevent or treat many of them . For example, many drugs are available to help prevent or treat nausea and vomiting. In some cases, the doses of the chemo drugs may need to be reduced or treatment may need to be delayed or stopped to keep side effects from getting worse.Targeted drug therapy is the use of medicines that target or are directed at proteins on cancer cells that help them grow, spread, and live longer. Targeted drug therapy can be used to treat nasopharyngeal cancers by destroying cancer cells or slowing their growth. Many of these drugs can be taken as pills and their side effects are different from chemotherapy (sometimes less severe) .
+Some targeted drugs, for example, monoclonal antibodies, work in more than one way to control cancer cells and may also be considered immunotherapy because they boost the immune system.
+Targeting cancer cells with EGFR changes
+Epidermal growth factor receptor (EGFR) is a protein that helps cancer cells grow. One drug that targets EGFR can be used to treat some nasopharyngeal cancers.
+Cetuximab for nasopharyngeal cancers
+Cetuximab (Erbitux) is a monoclonal antibody (a man-made version of an immune system protein). It targets EGFR which is a protein found on the surface of certain cancer cells that helps them grow and divide. Nasopharyngeal cancer (NPC) cells sometimes have higher than normal amounts of EGFR. By blocking EGFR, cetuximab can help slow or stop cancer cell growth.
+The exact role of cetuximab in treating NPC is still being studied. It might be used along with chemo in cases where the cancer has spread, come back, or continued to grow after initial treatment with chemo.
+Cetuximab is given by IV infusion, either once a week or every other week.
+Possible side effects of targeted drug therapy
+Common side effects include:
+
+Skin problems, such as an itchy, acne-like rash on the face and chest, which can lead to infections
+Headache
+Tiredness and weakness
+Fever
+Diarrhea
+Nausea and vomiting
+Weight loss
+
+A rare but serious side effect of cetuximab is an allergic reaction during the first infusion, which could cause breathing problems and low blood pressure. You will be given medicine before treatment to help prevent this.Immunotherapy can be used to treat some people with nasopharyngeal cancer (NPC).
+Immunotherapy uses medicines to boost a person’s own immune system to find and destroy cancer cells more successfully.
+Immunotherapy typically works on specific proteins in the immune system to increase the immune response. They have different, often less frequent, side effects from chemotherapy.
+Some immunotherapy drugs, for example, monoclonal antibodies, work in more than one way to control cancer cells and may also be considered targeted drug therapy because they block a specific protein on the cancer cell to keep it from growing.
+Immune checkpoint inhibitors for nasopharyngeal cancer
+An important part of the immune system is its ability to keep itself from attacking normal cells in the body. To do this, it uses “checkpoints,” proteins on immune cells that need to be turned on (or off) to start an immune response. Cancer cells sometimes use these checkpoints to avoid being attacked by the immune system.
+Drugs that target these checkpoints (called checkpoint inhibitors) can be used to treat some people with nasopharyngeal cancer.
+PD-1 inhibitors
+Pembrolizumab (Keytruda), nivolumab (Opdivo), and toripalimab (Loqtorzi) are drugs that target PD-1, a protein on T cells in the immune system. These drugs are called PD-1 inhibitors.  PD-1 normally helps keep T cells from attacking other cells in the body. By blocking PD-1, these drugs boost the immune response against cancer cells. This may shrink some tumors or slow their growth.
+These drugs can be used to treat advanced NPC, including cancer that has returned after treatment (recurrent), cannot be treated with surgery or radiation, or that has spread to other parts of the body (metastatic).
+Chemotherapy in combination with a PD-1 inhibitor may be recommended for patients with newly diagnosed advanced NPC.  A PD-1 inhibitor, given alone, may also be an option for patients with advanced NPC that have progressed on chemotherapy. 
+Nivolumab is given as an intravenous (IV) infusion, typically every 2 or 4 weeks. Pembrolizumab is given as an IV infusion, typically every 3 or 6 weeks. Toripalimab is given as an IV infusion, typically every 2 or 3 weeks.
+Possible side effects of PD-1 inhibitors
+Side effects of these drugs can include fatigue, cough, fever, nausea, diarrhea, cough, skin rash, loss of appetite, constipation, muscle and joint pain, and itching.
+Other, more serious side effects that occur less often include:
+
+Infusion reactions: Some people might have an infusion reaction while getting one of these drugs. This is like an allergic reaction, and can include fever, chills, flushing of the face, rash, itchy skin, feeling dizzy, wheezing, and trouble breathing. It’s important to tell your doctor or nurse right away if you have any of these symptoms while getting these drugs.
+Autoimmune reactions: These drugs remove one of the safeguards on the body’s immune system. Sometimes the immune system starts attacking other parts of the body, which can cause serious or even life-threatening problems in the lungs, intestines, liver, hormone-making glands, kidneys, skin, or other organs.
+
+It’s very important to report any new side effects during or after treatment with any of these drugs to your health care team right away. If you have any serious side effects, you might need to stop treatment and take high doses of steroids to suppress your immune system.Treatment of nasopharyngeal cancer (NPC) is based largely on the stage (extent) of the cancer, but other factors are also important, such as your overall health and your personal preferences. NPC in children is treated largely the same as it is in adults. Your doctor can explain your cancer stage and which treatment plan is right for you.
+Talk to your doctor if you have any questions about the recommended treatment plan. Ask if the treatment will change how you look, talk, breathe, and eat. Your doctor will probably tell you that the best way to treat NPC in the more advanced stages is in a clinical trial.
+Smoking during cancer treatment is linked to more side effects, worse outcomes, and less benefit from treatment. It is best to stop smoking completely before starting treatment. Smoking also increases the risk of the cancer coming back after treatment as well as the risk of getting a new cancer.  Quitting smoking for good is the best way to improve your survival.
+Stages 0 and I (1)
+The usual treatment for these early-stage cancers is radiation therapy aimed at the tumor.
+In these stages the cancer probably has not yet spread, but the nearby lymph nodes in the neck are treated with radiation therapy as well. This is preventive (prophylactic) radiation. It's done because some patients may have cancer cells in these lymph nodes that can’t be found by imaging or other methods. Although there are too few cancer cells in the lymph nodes to cause them to be enlarged, these cells could continue to grow and spread if not destroyed by radiation therapy.
+Stage II (2)
+Most people with stage II (2) NPC get chemoradiation (chemotherapy given along with radiation therapy) to the nasopharynx and neck lymph nodes. The chemo drug most often used is cisplatin. Chemoradiation is usually followed by more chemo. Most studies have found that chemoradiation helps people live longer than just radiation therapy alone. But adding chemo can lead to more side effects, which can affect quality of life. It’s important to understand what the side effects are likely to be before starting this treatment.
+If cancer is still in the lymph nodes after any of the above treatments, surgery to remove the main tumor (if possible) and the lymph nodes may be done.
+Stages III (3) and IVA (4A)
+People with stage III or IVA NPC are usually treated with:
+
+Chemotherapy first (sometimes called induction chemo) followed by chemoradiation to the nasopharynx and neck lymph nodes OR
+Chemoradiation to the nasopharynx and neck lymph nodes sometimes followed by chemotherapy alone OR
+Chemoradiation to the nasopharynx and neck lymph nodes
+
+Induction chemo followed by chemoradiation can help some people live longer. Common chemo drug combinations used in induction chemo are:
+
+Gemcitabine plus cisplatin, or
+Docetaxel with cisplatin and 5-FU
+
+If cancer cells are still in the lymph nodes after any of the above treatments, surgery to remove the main tumor (if possible) and the lymph nodes may be done.
+Stage IVB (4B)
+The usual treatment for Stage IVB (4B) NPC is chemo, often with cisplatin and one other drug. If there's no sign of the cancer after chemo, either radiation therapy or chemoradiation is given to try to kill any remaining cancer cells. Another option in some cases is to give chemoradiation as the first treatment. Immunotherapy is another option to treat some of these cancers, either alone or along with chemo.
+If there are still signs of cancer after the initial chemo, different chemo drugs may be tried. Chemotherapy plus the targeted drug cetuximab (Erbitux) or immunotherapy may be other options.
+Recurrent nasopharyngeal cancer
+Cancer is called recurrent when it come backs after treatment. It can come back in or near the same place it started (local) or spread to organs such as the lungs or bone (distant). If NPC returns after treatment, your choices depend on where it returns, the extent of the cancer, which treatments were used the first time around, and your overall health. It's important to understand the goal of any further treatment whether it's to try to cure the cancer, to slow its growth, or to help relieve symptoms.
+Some tumors that recur in the nasopharynx can be removed through the nose by surgery (called endoscopic surgery). This is a specialized surgery that should only be done by a surgeon with a great deal of experience with it, so it’s not available at all medical centers.
+Recurrent NPC in neck lymph nodes can sometimes be treated with radiation therapy a second time. But if doctors believe that more radiation would cause serious side effects or if the cancer didn't respond to radiation the first time, surgery (neck dissection) may be used instead. The radiation oncology doctor will carefully review your options. 
+If the cancer recurs in distant sites, options might include chemotherapy or immunotherapy (or both). If chemo has been given already, different chemo drugs may be tried. The targeted drug cetuximab may be given along with chemo.
+New drug treatments and new surgical procedures being tested in clinical trials may help some people with recurrent NPC, as well as improve knowledge that can help others with NPC in the future.
+If the cancer can’t be cured, further treatments may be aimed at slowing its growth or relieving symptoms caused by the cancer. For example, if the cancer has spread to the spine, radiation may be given to the area to relieve pain and reduce the chances of further problems. Even if a cure is not possible, it's important to remember that there are many options to relieve symptoms of advanced cancer.For some people with nasopharyngeal cancer (NPC), the end of treatment can be both stressful and exciting. You may be relieved to finish treatment, but it’s hard not to worry about cancer coming back (recurring). This is very common if you’ve had cancer.
+For others, the cancer might never go away completely. Some people may get regular treatments to try and help control the cancer for as long as possible. Learning to live with cancer that does not go away can be difficult and very stressful. 
+Ask your doctor for a survivorship care plan
+Talk with your doctor about developing a survivorship care plan for you. This plan might include: 
+
+A suggested schedule for follow-up exams and tests
+A schedule for other tests you might need in the future, such as early detection (screening) tests for other types of cancer, or tests to look for long-term health effects from your cancer or its treatment
+A list of possible late- or long-term side effects from your treatment, including what to watch for and when and how you should contact your doctor
+Recommendations for things you could do to improve your health and even possibly lower the chance of your cancer coming back, such as diet and physical activity suggestions
+Reminders about your appointments with your primary care provider (PCP), who will monitor your general health care 
+
+Follow-up care after nasopharyngeal cancer
+People with cancer of the nasopharynx are at risk for the cancer coming back (a recurrence) and developing new cancers in other parts of the body, so they must be watched closely after treatment. Your cancer care team will discuss which tests should be done and how often based on the type and initial stage of your cancer, as well as the type of treatment you had, and your response to that treatment.
+If you have completed treatment, your doctors will still want to watch you closely. You will probably have follow-up appointments with your doctor for many years and it's important to go to all of them. During these visits, you will be asked questions about any problems you may have and may undergo exams and lab tests or imaging tests (such as MRI or CT scans) to look for signs of cancer or treatment side effects. Your health care team will discuss which tests should be done and how often based on the stage of your cancer and the type of treatment you had.
+Almost any cancer treatment can have side effects. Some may last for a few weeks to months, but others might last a long time. Some side effects might not even show up until years after you have finished treatment. Your doctor visits are a good time for you to ask questions and talk about any changes or problems you have noticed or concerns you have.
+It's important to report any new symptoms or problems to the doctor right away. This might help your doctor help find recurrent cancer as early as possible, when cancer is small and easier to treat.
+Doctor visits and tests
+If there are no signs of cancer, many doctors will recommend you have a physical exam, endoscopy, and some of the other tests listed below about every 3 months for the first couple of years after treatment, then every 4 to 6 months for the next few years. People who were treated for early-stage cancers may have doctor visits less often, and people with more advanced disease might be followed more frequently.
+Imaging: CT or PET scans and other imaging tests might be used to watch for recurrence or a new tumor, especially if you have new symptoms.
+Blood tests: If you were treated with radiation, it might have damaged your thyroid gland. You will most likely need regular blood tests to check your thyroid function.
+Dental exams: People treated with radiation may also have problems with dry mouth and tooth decay, so regular dental exams are often recommended.
+Speech, hearing, and swallowing rehabilitation: Both radiation and surgery can lead to problems with speech, swallowing, and hearing. These are often checked and treated by a speech therapist after treatment (see below). You might also need to see an audiologist (a specialist in hearing loss) for devices, like a hearing aid, to improve your hearing if the treatment changed it.
+Nutrition follow-up: Cancers of the nasopharynx and their treatments can sometimes cause problems such as trouble swallowing, dry mouth, or even loss of teeth. This can make it hard to eat, which can lead to weight loss and weakness from poor nutrition.
+After treatment, you might not gain weight or replace your protein stores as well as you should. A team of doctors and nutritionists can work with you to provide nutrition supplements and information about your individual nutritional needs. This can help you maintain your weight and nutritional intake. Some may even need a feeding tube placed into the stomach for a short time after treatment.
+Keeping health insurance and copies of your medical records
+Even after treatment, it’s very important to keep health insurance. Tests and doctor visits cost a lot, and even though no one wants to think about cancer coming back, this could happen.
+At some point after your cancer treatment, you might find yourself seeing a new doctor who doesn’t know your medical history. It’s important to keep copies of your medical records to give your new doctor the details of your diagnosis and treatment. Learn more in Keeping Copies of Important Medical Records.
+Can I lower my risk of NPC progressing or coming back?
+If you have (or have had) NPC, you probably want to know if there are things you can do that might lower your risk of the cancer growing or coming back, such as exercising, eating a certain type of diet, or taking nutritional supplements.
+Quit smoking: Smoking during cancer treatment can reduce the benefit of treatment and increase the risk of cancer coming back (recurrence). Smoking after treatment can also increase the risk of getting a new smoking-related cancer (see Second Cancers ). Quitting smoking for good (before treatment starts, if possible) is the best way to improve your chances for survival. And it is never too late to quit. Your doctor may recommend counseling as well as medication to help you. See Stay Away from Tobacco and call 1-800-227-2345 for more information about quitting smoking.
+Avoid alcohol intake: Heavy drinking of alcohol has been associated with NPC, especially in areas at low risk of NPC. Avoiding alcohol after treatment for NPC can benefit your overall health and might help lower your risk of the cancer recurring, but more studies are needed.
+Adopting healthy behaviors such as  eating well, getting regular physical activity, and staying at a healthy weight might help, but no one knows for sure. Still, we do know that these types of lifestyle changes can have positive effects on your health that might help lower your risk of NPC or other cancers.
+About dietary supplements
+So far, no dietary supplements (including vitamins, minerals, and herbal products) have been shown to clearly help lower the risk of NPC progressing or coming back. This doesn’t mean that no supplements will help, but it’s important to know that none have been proven to do so.
+Dietary supplements are not regulated like medicines in the United States – they do not have to be proven effective (or even safe) before being sold, although there are limits on what they’re allowed to claim they can do. If you’re thinking about taking any type of nutritional supplement, talk to your health care team first. They can help you decide which ones you can use safely while avoiding those that might be harmful.
+If the cancer comes back
+If the cancer does recur, your treatment options will depend on where the cancer is located, what treatments you’ve had before, and your overall health. For more information on how recurrent cancer is treated, see ﻿Treatment Options for Nasopharyngeal Cancer, by Stage.
+For more general information on coping with a recurrence, you may also want to see Understanding Recurrence.
+Getting emotional support
+Some feelings of depression, anxiety, or worry are normal when cancer is a part of your life. Some people are affected more than others. But everyone can benefit from help and support from other people, whether friends and family, religious groups, support groups, professional counselors, or others. Learn more in Life After Cancer.
+Second cancers after nasopharyngeal cancer treatment
+People who’ve had NPC can still get other cancers. In fact, NPC survivors are at higher risk for getting some other types of cancer.
+Cancer survivors can be affected by a number of health problems, but often a major concern is facing cancer again. Cancer that comes back after treatment is called a recurrence. But some cancer survivors may develop a new, unrelated cancer later. This is called a second cancer.
+Survivors of NPC can get any second cancer, but they have an increased risk of:
+
+Cancer of the tongue
+Cancer of the nose and nasal cavity
+Cancer of the esophagus
+Cancer of the bone and joints (mostly the jaw bone or mandible)
+
+Staying healthy after treatment for nasopharyngeal cancer
+After completing treatment for NPC, you should still see your doctor regularly. Your doctor may order tests to look for signs that the cancer has come back or spread. These tests are also useful in finding some second cancers. Experts don’t recommend any other tests to look for second cancers in patients who don’t have symptoms. Let your doctor know about any new symptoms or problems, because they could be caused by the cancer coming back, a new disease, or a second cancer.
+Survivors of NPC should follow the American Cancer Society guidelines for the early detection of cancer, stay away from tobacco products, and avoid alcohol. Smoking increases the risk of getting certain second cancers as well as other health problems. Heavy drinking has been associated with some cases of NPC especially in areas where people are at low risk of NPC.
+To help maintain good health, survivors should also:
+
+Get to and stay at a healthy weight
+Keep physically active and limit the time you spend sitting or lying down
+Follow a healthy eating pattern that includes plenty of fruits, vegetables, and whole grains, and limits or avoids red and processed meats, sugary drinks, and highly processed foods
+Not drink alcohol. If you do drink, have no more than 1 drink per day for women or 2 per day for men
+
+These steps may also lower the risk of some other health problems.
+See Second Cancers in Adults for more information about causes of second cancers.What is nasopharyngeal cancer?
+Cancer in the head and neck area can have many different names depending on where it starts. Nasopharyngeal cancer starts in the nasopharynx, the upper part of the throat behind the nose and near the base of skull. This cancer starts when cells in the nasopharynx grow out of control and crowd out normal cells.
+Ask your doctor to write down the exact kind of cancer you have because it can be confusing.

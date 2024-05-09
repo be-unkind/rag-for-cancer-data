@@ -1,0 +1,431 @@
+The gallbladder concentrates and stores bile, a fluid made in the liver. Bile helps digest the fats in foods as they pass through the small intestine. Bile is made by the liver and is either sent into ducts that carry it to the small intestine, or stored in the gallbladder and released later.
+When food (especially fatty food) is being digested, the gallbladder squeezes and sends bile through a small tube called the cystic duct. The cystic duct joins up with the common hepatic duct (which comes from the liver) to form the common bile duct. The common bile duct joins with the main duct from the pancreas (the pancreatic duct) to empty into the first part of the small intestine (the duodenum) at the ampulla of Vater.The American Cancer Society’s estimates for cancer of the gallbladder and nearby large bile ducts in the United States for 2024 are:
+
+About 12,350 new cases diagnosed: 5,900 in men and 6,450 in women
+About 4,530 deaths from these cancers: 1,950 in men and 2,580 in women
+
+Of these new cases, about 4 in 10 will be gallbladder cancers.
+Gallbladder cancer is not usually found until it has become advanced and causes symptoms. Only about 1 of 5 gallbladder cancers is found in the early stages, when the cancer has not yet spread outside the gallbladder.
+The chances of survival for patients with gallbladder cancer depend to a large extent on how advanced it is when it's found. For more on this, see Survival statistics for gallbladder cancer by stage.
+Visit the American Cancer Society’s Cancer Statistics Center for more key statistics.Because gallbladder cancer is rare, it's been hard to study it well. Most experts agree that treatment in a clinical trial should be considered for any stage of gallbladder cancer. This way people can get the best treatment available now and may also get the treatments that are thought to be even better.
+Gallbladder cancer research is being done in many university hospitals, medical centers, and other institutions around the world. Each year, scientists find out more about what causes the disease, how to prevent it, and how to better treat it. The new and promising treatments discussed here tend to only be available in clinical trials.
+Diagnosis
+Because gallbladder cancer is often found after surgery to remove the gallbladder for other problems (like gallstones), doctors are looking for ways to know whether gallbladder problems are cancer before surgery is done. For instance, studies are looking at how to better use imaging tests, like ultrasound and CT scans, to more accurately identify and diagnose changes in the gallbladder. Identifying proteins that are linked to gallbladder inflammation is another area of research. Early research has suggested that high levels of certain proteins in the blood may help show which people have gallstones and which have cancer. This could even be used as a screening test in the future, but a lot more research is needed.
+Radiation therapy
+Researchers are looking for better ways to use radiation therapy, as well as how to best use it along with other treatments, like surgery and chemotherapy. Using certain chemo drugs and radiation together has been found to work better than either treatment alone. This is called chemoradiation. The timing of these 2 treatments, as well as which drugs work best with radiation to treat gallbladder cancer are of great research interest.
+Doctors are also studying other ways to use radiation therapy. For instance, some researchers are testing radioactive stents that are put inside bile ducts They might help shrink tumors and keep the ducts open longer than standard stents.
+Chemotherapy
+In general, chemotherapy (chemo) has been found to be of limited use against gallbladder cancer, but new drugs and new combinations of drugs are being tested. Studies are also looking for better ways to combine chemo with other treatments, like surgery and radiation.
+There's a lot of research interest in combining chemotherapy and targeted therapy.
+Targeted therapy
+These drugs work differently from standard chemo drugs. They can target specific changes in cancer cells that help them grow and survive. They can also change certain proteins made by the cancer cells to cause the cells to die. Targeted drugs can work with the immune system to help it find and kill cancer cells, too. Many of these drugs are being tested for use in treating gallbladder cancer.
+Many other kinds of cancers are already treated with targeted therapy. As researchers learn more about the changes in gallbladder cells that cause them to become cancer, they're looking to use targeted drugs that focus on killing the cells with these changes.
+For instance, some of these drugs target tumor blood vessels. Gallbladder tumors need new blood vessels to grow beyond a certain size. Bevacizumab (Avastin®), erlotinib (Tarceva®), and regorafenib (Stivarga®) are examples of drugs that target blood vessel growth and are being studied against gallbladder cancer.
+Other drugs have different targets. For example, EGFR, a protein that helps cells grow, is found in high amounts on some cancer cells. Drugs that target EGFR have shown some benefit against many types of cancer. Some of these drugs, such as cetuximab (Erbitux®) and panitumumab (Vectibix®) are now being studied for use in people with gallbladder cancer, often in combination with chemotherapy or other targeted drugs.
+Other types of targeted therapy, such as MEK inhibitors (like trametinib [Mekinist®] and selumetinib ), and anti-PD1 drugs (like pembrolizumab [Keytruda®]), are also being studied for use against gallbladder cancer.
+Again, this is an active area of research, but a lot more research is needed to find out if targeted therapy works and which drugs work best in treating gallbladder cancer.A risk factor is anything that affects your chance of getting a disease such as cancer. Different cancers have different risk factors. Some risk factors, like smoking, can be changed. Others, like a person’s age or family history, can’t be changed.
+But having a risk factor, or even many risk factors, doesn't mean that a person will get the disease. And many people who get the disease may have few or no known risk factors.
+Scientists have found some risk factors that make a person more likely to develop gallbladder cancer. Many of these are related in some way to chronic inflammation (long-lasting irritation and swelling) in the gallbladder.
+Gallstones
+Gallstones are the most common risk factor for gallbladder cancer. Gallstones are pebble-like collections of cholesterol and other substances that form in the gallbladder and can cause chronic inflammation. Up to 4 out of 5 people with gallbladder cancer have gallstones when they're diagnosed. But gallstones are very common, and gallbladder cancer is quite rare, especially in the US. And most people with gallstones never develop gallbladder cancer.
+Porcelain gallbladder
+Porcelain gallbladder is a condition in which the wall of the gallbladder becomes covered with calcium deposits. It sometimes occurs after long-term inflammation of the gallbladder (cholecystitis), which can be caused by gallstones. People with this condition have a higher risk of developing gallbladder cancer, possibly because both conditions can be related to inflammation.
+Sex
+In the US, gallbladder cancer occurs 3 to 4 times more often in women than in men. Gallstones and gallbladder inflammation are important risk factors for gallbladder cancer and are also much more common in women than men.
+Obesity
+Patients with gallbladder cancer are more often overweight or obese than people without this disease. Obesity is also a risk factor for gallstones, which might help explain this link.
+Older age
+Gallbladder cancer is seen mainly in older people, but younger people can develop it as well. The average age of people when they are diagnosed is 72. Most people with gallbladder cancer are 65 or older when it's found.
+Ethnicity and geography
+In the US, the risk of developing gallbladder cancer is highest among Mexican and Latin Americans and Native Americans. They are also more likely to have gallstones than members of other ethnic and racial groups. The risk is lowest among African Americans. Worldwide, gallbladder cancer is much more common in India, Pakistan, and Central European and South American countries than it is in the US.
+Choledochal cysts
+Choledochal cysts are bile-filled sacs along the common bile duct, the tube that carries bile from the liver and gallbladder to the small intestine. (Choledochal means having to do with the common bile duct.) The cysts can grow large over time and may contain as much as 1 to 2 quarts of bile. The cells lining the sac often have areas of pre-cancerous changes, which can progress to gallbladder cancer over time.
+Abnormalities of the bile ducts
+The pancreas is another organ that releases fluids through a duct into the small intestine to help digestion. This duct normally meets up with the common bile duct just as it enters the small intestine. Some people have a defect where these ducts meet that lets juice from the pancreas flow backward (reflux) into the bile ducts. This backward flow also keeps bile from flowing out of the bile ducts as quickly as it should. People with these abnormalities are at higher risk of gallbladder cancer. Scientists are not sure if the increased risk is due to damage caused by the pancreatic juice or is due to the bile that can't quickly flow through the ducts causing them to be damaged by substances in the bile itself.
+Gallbladder polyps
+A gallbladder polyp is a growth that bulges from the surface of the inner gallbladder wall. Some polyps are formed by cholesterol deposits in the gallbladder wall. Others may be small tumors (either cancer or not cancer) or may be caused by inflammation. Polyps larger than 1 centimeter (almost a half inch) are more likely to be cancer, so doctors often recommend removing the gallbladder in patients with gallbladder polyps that size or larger.
+Primary sclerosing cholangitis
+Primary sclerosing cholangitis (PSC) is a condition in which inflammation of the bile ducts (cholangitis) leads to the formation of scar tissue (sclerosis). People with PSC have an increased risk of gallbladder and bile duct cancer. The cause of the inflammation is not usually known. Many people with PSC also have ulcerative colitis, a type of inflammatory bowel disease.
+Typhoid
+People chronically infected with salmonella (the bacterium that causes typhoid) and those who are carriers of typhoid are more likely to get gallbladder cancer than those not infected. This is probably because the infection can cause gallbladder inflammation. Typhoid is very rare in the US.
+Family history
+Most gallbladder cancers are not found in people with a family history of the disease. A history of gallbladder cancer in the family seems to increase a person’s chances of developing this cancer, but the risk is still low because this is a rare disease.
+Other possible risk factors
+Studies have found other factors that might increase the risk of gallbladder cancer, but the links are not as clear. These include:
+
+Smoking
+Exposure to chemicals used in the rubber and textile industries
+Exposure to nitrosaminesResearchers have found some risk factors that make a person more likely to develop gallbladder cancer. (See Risk Factors for Gallbladder Cancer.) They're also learning more about how some of these risk factors might lead to gallbladder cancer.
+Chronic gallbladder inflammation is a common link among many of the risk factors for gallbladder cancer. For example, when someone has gallstones, the gallbladder may release bile more slowly. This means that cells in the gallbladder are exposed to the chemicals in bile for longer than usual. This could lead to irritation and inflammation.
+In another example, defects in the ducts that carry fluids from the gallbladder and pancreas to the small intestine might allow juices from the pancreas to flow backward (reflux) into the gallbladder and bile ducts. This reflux of pancreatic juices might inflame and stimulate growth of the cells lining the gallbladder and bile ducts, which might increase the risk of gallbladder cancer.
+Scientists are starting to understand how risk factors like inflammation might lead to certain changes in the DNA of cells, making them grow out of control and form cancers. DNA is the chemical in each of our cells that makes up our genes, the instructions for how our cells function. We usually look like our parents because they are the source of our DNA. But DNA affects more than how we look.
+
+Some genes control when cells grow, divide into new cells, and die. These genes are called oncogenes.
+Genes that slow down cell division or cause cells to die at the right time are called tumor suppressor genes.
+
+Cancer can be caused by DNA changes (mutations) that turn on oncogenes or turn off tumor suppressor genes. Changes in many different genes are usually needed for a cell to become cancer.
+Some people inherit DNA mutations from their parents that greatly increase their risk for certain cancers. But inherited gene mutations are not thought to cause very many gallbladder cancers.
+Gene mutations related to gallbladder cancers are usually acquired during life rather than being inherited. For example, acquired changes in the TP53 tumor suppressor gene are found in many cases of gallbladder cancer. Other genes that may play a role in gallbladder cancers include KRAS, BRAF, and PIK3CA. Some of the gene changes that lead to gallbladder cancer might be caused by chronic inflammation. But sometimes the cause of these changes is not known. Many gene changes might just be random events that sometimes happen inside a cell, without having an outside cause.There's no known way to prevent most gallbladder cancers. Many of the known risk factors for gallbladder cancer, such as age, sex, ethnicity, and bile duct defects, are beyond our control. But there are things you can do that might help lower your risk.
+Taking these steps helps maintain good health and may reduce a person's risk of gallbladder cancer, as well as many other types of cancer:
+
+Get to and stay at a healthy weight
+Keep physically active and limit the time you spend sitting or lying down
+Follow a healthy eating pattern that includes plenty of fruits, vegetables, and whole grains, and limits or avoids red and processed meats, sugary drinks, and highly processed foods
+It's best not to drink alcohol. If you do drink, have no more than 1 drink per day for women or 2 per day for men
+
+To learn more, see the American Cancer Society Guidelines on Nutrition and Physical Activity for Cancer Prevention.
+Since gallstones are a major risk factor, removing the gallbladders of all people with gallstones might prevent many of these cancers. But gallstones are very common, and gallbladder cancer is quite rare, even in people with gallstones. Most doctors don’t recommend people with gallstones have their gallbladder removed unless the stones are causing problems. This is because, in most cases, the possible risks and complications of surgery probably don’t outweigh the possible benefit. Still, some doctors might advise removing the gallbladder if long-standing gallstone disease has resulted in a porcelain gallbladder.Gallbladder cancer is hard to find early (when it's small and only in the gallbladder). The gallbladder is deep inside the body, so early tumors can’t be seen or felt during routine physical exams. There are no blood tests or other tests that can reliably detect gallbladder cancers early enough to be useful as screening tests. (Screening is testing for cancer in people without any symptoms.) Because of this, most gallbladder cancers are found only after the cancer has grown enough to cause signs or symptoms.
+Still, some gallbladder cancers are found before they have spread to other tissues and organs. Many of these early cancers are found unexpectedly when a person’s gallbladder is removed because of gallstones. When the removed gallbladder is looked at in the lab, small cancers or pre-cancers that didn't cause any symptoms are sometimes found.Gallbladder cancer doesn't usually cause signs or symptoms until later in the course of the disease, when the tumor is large and/or has spread. But sometimes symptoms can appear sooner and lead to an early diagnosis. If the cancer is found at an earlier stage, treatment might work better.
+Some of the more common symptoms of gallbladder cancer include:
+Abdominal (belly) pain
+Most people with gallbladder cancer will have belly pain. Most often it's in the upper right part of the belly.
+Nausea and/or vomiting
+Some people with gallbladder cancer sometimes have vomiting as a symptom.
+Jaundice
+If the cancer gets big enough to block the bile ducts, bile from the liver can’t drain into the intestines. This can cause a greenish-yellow chemical (called bilirubin) in the bile to build up in the blood and settle in different parts of the body. The yellow coloring of jaundice can often be seen in the skin and the white part of the eyes.
+Lumps in the belly
+If the cancer blocks the bile ducts, the gallbladder can swell. Gallbladder cancer can also spread to nearby parts of the liver. These changes can sometimes be felt by the doctor as lumps on the right side of the belly. They can also be seen on imaging tests such as an ultrasound.
+Other symptoms
+Less common symptoms of gallbladder cancer include:
+
+Loss of appetite
+Weight loss
+Swelling in the abdomen (belly)
+Fever
+Itchy skin
+Dark urine
+Light-colored or greasy stools
+
+Keep in mind: Gallbladder cancer is rare. These symptoms are more likely to be caused by something other than gallbladder cancer. For example, people with gallstones have many of these same symptoms. And there are many far more common causes of belly pain than gallbladder cancer. Also, hepatitis (liver inflammation caused by a viral infection) is a much more common cause of jaundice.
+Still, if you have any of these problems, it’s important to see a doctor right away so the cause can be found and treated, if needed.Some gallbladder cancers are found after the gallbladder has been removed because of gallstones or to treat chronic (long-term) inflammation. Gallbladders removed for those reasons are always looked at under a microscope to see if there's cancer cells in them.
+Most gallbladder cancers, though, aren't found until a person goes to a doctor because they have symptoms.
+Medical history and physical exam
+If there's reason to suspect you might have gallbladder cancer, your doctor will want to take a complete medical history to check for risk factors and to learn more about your symptoms.
+Your doctor will examine you to look for signs of gallbladder cancer and other health problems. The exam will focus mostly on the abdomen (belly) to check for any lumps, tenderness, or fluid build-up. The skin and the white part of the eyes will be checked for jaundice (a yellowish color). Sometimes, cancer of the gallbladder spreads to lymph nodes, causing a lump that can be felt beneath the skin. Lymph nodes above the collarbone and in several other locations may be checked.
+If symptoms and/or the physical exam suggest you might have gallbladder cancer, tests will be done. These might include lab tests, imaging tests, and other procedures.
+Blood tests
+Tests of liver and gallbladder function
+Lab tests might be done to find out how much bilirubin is in your blood. Bilirubin is the chemical that causes jaundice. Problems in the gallbladder, bile ducts, or liver can raise the blood level of bilirubin.
+The doctor may also do tests for albumin, liver enzymes (alkaline phosphatase, AST, ALT, and GGT), and certain other substances in your blood. These may be called liver function tests. They can help diagnose liver, bile duct, or gallbladder disease.
+Tumor markers
+Tumor markers are substances made by cancer cells that can sometimes be found in the blood. People with gallbladder cancer may have high blood levels of the markers called CEA and CA 19-9. Usually the blood levels of these markers are high only when the cancer is in an advanced stage . These markers are not specific for gallbladder cancer – that is, other cancers or even some other health conditions also can make them go up.
+These tests can sometimes be useful after a person is diagnosed with gallbladder cancer. If the levels of these markers are found to be high, they can be followed over time to help tell how well treatment is working.
+Imaging tests
+Imaging tests use x-rays, magnetic fields, or sound waves to create pictures of the inside of your body. Imaging tests can be done for a number of reasons, including:
+
+To look for suspicious areas that might be cancer
+To help a doctor guide a biopsy needle into a suspicious area to take a sample for testing
+To learn how far cancer has spread
+To help make treatment decisions
+To help find out if treatment is working
+To look for signs of the cancer coming back after treatment
+
+People who have (or might have) gallbladder cancer may have one or more of these tests:
+Ultrasound
+Ultrasound uses sound waves and their echoes to create images of the inside of the body. A small instrument called a transducer gives off sound waves and picks up their echoes as they bounce off organs inside the body. The echoes are converted by a computer into an image on a screen.
+Abdominal ultrasound: This is often the first imaging test done in people who have symptoms like jaundice or pain in the right upper part of their abdomen (belly). This is an easy test to have and it doesn't use radiation. You simply lie on a table while a technician moves the transducer on the skin over the right upper abdomen.
+This type of ultrasound can also be used to guide a needle into a suspicious area or lymph node so that cells can be removed (biopsied) and looked at under a microscope. This is called an ultrasound-guided needle biopsy.
+Endoscopic or laparoscopic ultrasound: In these techniques, the doctor puts the ultrasound transducer inside the body and closer to the gallbladder. This gives more detailed images than a standard ultrasound. The transducer is on the end of a thin, lighted tube that has a camera on it. The tube is either passed through the mouth, down through the stomach, and near the gallbladder (endoscopic ultrasound) or through a small surgical cut on your belly (laparoscopic ultrasound).
+If there's a tumor, ultrasound might help the doctor see if and how far it has spread into the gallbladder wall, which helps in planning for surgery. Ultrasound may be able to show if nearby lymph nodes are enlarged, which can be a sign that cancer has reached them.
+Computed tomography (CT) scan
+A CT scan uses x-rays to make detailed cross-sectional images of your body. It can be used to
+
+Help diagnose gallbladder cancer by showing tumors in the area.
+Help stage the cancer (find out how far it has spread). CT scans can show the organs near the gallbladder (especially the liver), as well as lymph nodes and distant organs the cancer might have spread to.
+A type of CT known as CT angiography can be used to look at the blood vessels near the gallbladder. This can help determine if surgery is an option.
+Guide a biopsy needle into a suspected tumor. This is called a CT-guided needle biopsy. To do it, you stay on the CT scanning table while the doctor advances a biopsy needle through your skin and toward the mass. CT scans are repeated until the needle is inside the mass. A small amount of tissue (a sample) is then taken out through the needle.
+
+Magnetic resonance imaging (MRI) scan
+Like CT scans, MRI scans show detailed images of soft tissues in the body. But MRI scans use radio waves and strong magnets instead of x-rays. A contrast material called gadolinium may be injected into a vein before the scan to see details better.
+MRI scans provide a great deal of detail and can be very helpful in looking at the gallbladder and nearby bile ducts and other organs. Sometimes they can help tell a benign (non-cancer) tumor from one that's cancer. Special types of MRI scans can also be used in people who may have gallbladder cancer:
+
+MR cholangiopancreatography (MRCP) can be used to look at the bile ducts and is described below in the section on cholangiography.
+MR angiography (MRA) looks at blood vessels and is also covered in the next section on angiography..
+
+Cholangiography
+A cholangiogram is an imaging test that looks at the bile ducts to see if they are blocked, narrowed, or dilated (widened). This can help show if someone might have a tumor that's blocking a duct. It can also be used to help plan surgery. There are several types of cholangiograms, each of which has different pros and cons.
+Magnetic resonance cholangiopancreatography (MRCP): This is a way to get images of the bile ducts using the same type of machine used for standard MRIs. Neither an endoscope or an IV contrast material is used, unlike other types of cholangiograms. Because it's non-invasive (nothing is put in your body), doctors often use MRCP if they just need images of the bile ducts. This test can’t be used to get biopsy samples of tumors or to place stents (small tubes) in the ducts to keep them open.
+Endoscopic retrograde cholangiopancreatography (ERCP): In this procedure, a doctor passes a long, flexible tube (endoscope) down your throat, through your stomach, and into the first part of the small intestine. This is usually done while you are sedated (given medicine to make you sleepy). A small catheter (tube) is passed out of the end of the endoscope and into the common bile duct. A small amount of contrast dye is injected through the catheter. The dye helps outline the bile ducts and pancreatic duct as x-rays are taken. The images can show narrowing or blockage of these ducts. This test is more invasive than MRCP, but it has the advantage of allowing the doctor to take samples of cells or fluid for testing. ERCP can also be used to put a stent (a small tube) into a duct to help keep it open.
+Percutaneous transhepatic cholangiography (PTC): To do this procedure, the doctor puts a thin, hollow needle through the skin of your belly and into a bile duct inside the liver. You will get medicine through an IV line to make you sleepy before the test. A local anesthetic is also used to numb the area before putting the needle. A contrast dye is then injected through the needle, and x-rays are taken as it passes through the bile ducts. Like ERCP, this test can also be used to take samples of fluid or tissues or to put a stent (small tube) into a duct to help keep it open. Because it's more invasive, PTC is not usually used unless ERCP has already been tried or can’t be done for some reason.
+Angiography
+Angiography or an angiogram is an x-ray test used to look at blood vessels. A thin plastic tube called a catheter is threaded into an artery and a small amount of contrast dye is injected to outline blood vessels. Then x-rays are taken. The images show if blood flow in an area is blocked anywhere or affected by a tumor, as well as any abnormal blood vessels in the area. The test can also show if a gallbladder cancer has grown through the walls of certain blood vessels. This information is mainly used to help surgeons decide whether a cancer can be removed and to help plan the operation.
+Angiography can also be done with a CT scan (CT angiography) or an MRI (MR angiography). These tend to be used more often because they give information about the blood vessels without the need for a catheter. You may still need an IV line so that a contrast dye can be injected into the bloodstream during the imaging.
+Laparoscopy
+Laparoscopy is a type of surgery. The doctor puts a thin tube with a light and a small video camera on the end (a laparoscope) into a small incision (cut) in the front of your abdomen (belly) to look at the gallbladder, liver, and other nearby organs and tissues. (Sometimes more than one cut is made.) This is usually done in the operating room while drugs are used to put you into a deep sleep and not feel pain (general anesthesia) during the surgery.
+Laparoscopy can help doctors plan surgery or other treatments, and can help determine the stage (extent) of the cancer. If needed, doctors can also put special instruments in through the incisions to take out biopsy samples for testing.
+Laparoscopy is often used to take out your gallbladder. This operation is called a laparoscopic cholecystectomy. If gallbladder cancer is found or suspected during that operation, surgeons usually change to an open cholecystectomy (removal of the gallbladder through a larger cut in the abdomen). The open method lets the surgeon see more and may lower the chance of releasing cancer cells into the abdomen when the gallbladder is removed. The use of the open procedure depends on the size of the cancer and whether surgery can remove it all.
+Biopsy
+During a biopsy, the doctor removes a tissue sample to be looked at with a microscope to see if cancer (or some other disease) is present. For most types of cancer, a biopsy is needed to make a diagnosis. Biopsies are also used to help find out how far the cancer has spread. This is important when choosing the best treatment plan.
+But a biopsy isn't always done before surgery to remove a gallbladder tumor. Doctors are often concerned that sticking a needle into the tumor or otherwise disturbing it without completely removing it might allow cancer cells to spread.
+If imaging tests show a tumor in the gallbladder and there are no clear signs that it has spread, the doctor may decide to proceed directly to surgery and treat the tumor as a gallbladder cancer. (See Surgery for Gallbladder Cancer.) In this case, the gallbladder is checked for cancer after it's been removed.
+In other cases, a doctor may feel that a biopsy of a suspicious area in the gallbladder is the best way to know for sure if it's cancer. For example, imaging tests may show that a tumor has spread or grown too large to be removed completely by surgery. Many gallbladder cancers are not removable by the time they're first found.
+Types of biopsies
+There are many ways to take biopsy samples of the gallbladder.
+During cholangiography: If ERCP or PTC is being done, a sample of bile may be collected during the procedure to look for cancer cells in the fluid.
+During laparoscopy: As noted earlier, biopsy samples can be taken during laparoscopy. Laparoscopy lets the doctor see the surface of the gallbladder and nearby areas and then take small pieces of tissue from any suspicious areas.
+Needle biopsy: If the cancer is too big or has spread to much to be removed with surgery, a needle biopsy may be done to confirm the diagnosis and help guide treatment. For this test, a thin, hollow needle is put in through the skin and into the tumor without making a cut in the skin. (The skin is numbed first with a local anesthetic.) The needle is usually guided into place using ultrasound or CT scans. When the images show that the needle is in the tumor, cells and/or fluid are drawn into the needle and sent to the lab to be tested.
+In most cases, this is done as a fine needle aspiration (FNA) biopsy, which uses a very thin needle attached to a syringe to suck out (aspirate) a sample of cells.Sometimes, the FNA doesn't get enough cells for a definite diagnosis, so a core needle biopsy, which uses a slightly larger needle to get a bigger sample, may be done.
+For more information on biopsies and how samples are tested, see Testing Biopsy and Cytology Specimens for Cancer.After a person is diagnosed with gallbladder cancer, doctors will try to figure out if it has spread, and if so, how far. This process is called staging. The stage of a cancer describes how much cancer is in the body. It helps determine how serious the cancer is and how best to treat it. Doctors also use a cancer's stage when talking about survival statistics.
+The earliest stage gallbladder cancers (called carcinoma in situ) are stage 0. Stages then range from stages I (1) through IV (4). As a rule, the lower the number, the less the cancer has spread. A higher number, such as stage IV, means cancer has spread more. And within a stage, an earlier letter means a lower stage.
+Although each person’s cancer experience is unique, cancers with similar stages tend to have a similar outlook and are often treated in much the same way.
+Nearly all gallbladder cancers start in the epithelium (the inside wall of the gallbladder). Over time they grow through the various layers toward the outside of the gallbladder. They may also grow to fill up some or all the space inside the gallbladder at the same time.
+How is the stage determined?
+The staging system most often used for gallbladder cancer is the American Joint Committee on Cancer (AJCC) TNM system, which is based on 3 key pieces of information:
+
+The extent (size) of the tumor (T): How far has the cancer grown into the wall of the gallbladder? Has the cancer grown through the gallbladder wall into nearby organs such as the liver?  The gallbladder wall has several layers. From the inside out, these are: 
+                      
+The epithelium, a thin sheet of cells that line the inside wall of the gallbladder
+The lamina propria, a thin layer of loose connective tissue (the epithelium plus the lamina propria form the mucosa)
+The muscularis, a layer of muscular tissue that helps the gallbladder contract, squirting its bile into the bile duct
+The perimuscular (around the muscle) fibrous tissue, another layer of connective tissue
+The serosa, the outer covering of the gallbladder that comes from the peritoneum, which is the lining of the abdominal cavity
+
+
+The depth that a tumor grows from the inside (epithelium layer) through the other outer layers (all the way through the serosa) is a key part of staging.Survival rates can give you an idea of what percentage of people with the same type and stage of cancer are still alive a certain amount of time (usually 5 years) after they were diagnosed. They can’t tell you how long you will live, but they may help give you a better understanding of how likely it is that your treatment will be successful.
+Keep in mind that survival rates are estimates and are often based on previous outcomes of large numbers of people who had a specific cancer, but they can’t predict what will happen in any particular person’s case. These statistics can be confusing and may lead you to have more questions. Ask your doctor how these numbers might apply to you. 
+What is a 5-year relative survival rate?
+A relative survival rate compares people with the same type and stage of cancer to people in the overall population. For example, if the 5-year relative survival rate for a specific stage of gallbladder cancer is 69%, it means that people who have that cancer are, on average, about 69% as likely as people who don’t have that cancer to live for at least 5 years after being diagnosed.
+Where do these numbers come from?
+The American Cancer Society relies on information from the Surveillance, Epidemiology, and End Results (SEER) database, maintained by the National Cancer Institute (NCI), to provide survival statistics for different types of cancer.
+The SEER database tracks 5-year relative survival rates for gallbladder cancer in the United States, based on how far the cancer has spread. The SEER database, however, does not group cancers by AJCC TNM stages (stage 1, stage 2, stage 3, etc.). Instead, it groups cancers into localized, regional, and distant stages:
+
+Localized: There is no sign that the cancer has spread outside of the gallbladder.
+Regional: The cancer has spread outside the gallbladder to nearby structures or lymph nodes.
+Distant: The cancer has spread to distant parts of the body, such as the lungs.
+
+5-year relative survival rates for gallbladder cancer
+These numbers are based on people diagnosed with cancers of the gallbladder between 2012 and 2018.
+
+
+
+SEER* stage
+5-year relative survival rate
+
+
+Localized
+69%
+
+
+Regional
+28%
+
+
+Distant
+3%
+
+
+All SEER stages combined
+20%
+
+
+
+*SEER =Surveillance, Epidemiology, and End Results
+Understanding the numbers
+
+These numbers apply only to the stage of the cancer when it is first diagnosed. They do not apply later on if the cancer grows, spreads, or comes back after treatment.
+These numbers don’t take everything into account. Survival rates are grouped based on how far the cancer has spread. But other factors, such as your age and overall health, and how well the cancer responds to treatment, can also affect your outlook.
+People now being diagnosed with gallbladder cancer may have a better outlook than these numbers show. Treatments improve over time, and these numbers are based on people who were diagnosed and treated at least 5 years earlier.There are 2 general types of surgery for gallbladder cancer: potentially curative surgery (resectable and unresectable) and palliative surgery.
+Potentially curative surgery (or resectable) is done when imaging tests or the results of earlier surgeries show there is a good chance that the surgeon can remove all of the cancer can be removed.
+
+Resectable describes cancers doctors believe can be removed completely. This is potentially curative surgery.
+Unresectable means doctors think the cancer is too far advanced, it has spread too far, or is in too difficult a place to be entirely removed by surgery.
+
+Only a small percentage of gallbladder cancers are resectable when they are first found.
+If potentially curative surgery is being considered, you may want to get a second opinion or even be referred to a large cancer center. Nearly all doctors agree that surgery offers the only realistic chance for curing people with gallbladder cancer. But there are differences of opinion about how advanced a gallbladder cancer can be and still be treatable with surgery. The surgery needed for gallbladder cancer is often complex and requires an experienced surgeon. These operations are most often done at major cancer centers.
+Palliative surgery is done to relieve symptoms pain or treat (or even prevent) complications, such as blockage of the bile ducts. This type of surgery is done when the cancer tumor is too widespread to be removed completely. Palliative surgery is not expected to cure the cancer, but it can sometimes help a person feel better and can help them live longer. More detail is described in Palliative Therapy for Gallbladder Cancer.
+Laparoscopy to plan for gallbladder cancer surgery
+Often, when gallbladder cancer is suspected, the surgeon will do a laparoscopy before any other surgery. This is done to help look for any spread of the cancer that could make curative surgery not an option. This procedure is described in Tests for Gallbladder Cancer. During the laparoscopy, the surgeon can look for areas of cancer that did not show up on imaging tests. If the cancer is resectable, laparoscopy can also help plan the operation to remove it.
+Surgery to remove gallbladder cancer can have serious side effects and, depending on how extensive it is, you may need many weeks for recovery. If your cancer is very unlikely to be curable, be sure to carefully weigh the pros and cons of surgery or other treatments that will need a lot of recovery time. It’s very important to understand the goal of any surgery for gallbladder cancer, what the possible benefits and risks are, and how the surgery is likely to affect your quality of life.
+Surgery for resectable cancers
+Simple cholecystectomy
+The operation to remove the gallbladder is called a cholecystectomy. If only the gallbladder is removed, it's called a simple cholecystectomy. This operation is often done to remove the gallbladder for other reasons such as gallstones, but it's not done if gallbladder cancer is known or suspected (a more extensive operation is needed done instead).
+Gallbladder cancers are sometimes found by accident after a person has a cholecystectomy for another reason. If the cancer is at a very early stage (T1a) and is thought to have been removed completely, no further surgery may be needed. If there’s a chance the cancer may have spread beyond the gallbladder, more extensive surgery may be advised.
+A simple cholecystectomy can be done in 2 ways:
+Laparoscopic cholecystectomy: This is the most common way to remove a gallbladder for anon-cancerous problem that's not cancer. The surgeon puts a laparoscope , a thin, flexible tube with a tiny video camera on the end, into the body through a small cut in the skin of the abdomen (belly). Long surgical tools are put in through other small openings to take out remove the gallbladder.
+Laparoscopic surgery tends to be easier for patients because of the smaller incision size. But this type of operation isn't used if gallbladder cancer is suspected. This surgery gives the surgeon only a limited view of the area around the gallbladder, so there's a greater chance that some cancer might be missed and left behind. Removing the gallbladder this way might also lead to the accidental spread of the cancer as the gallbladder is taken out.
+Open cholecystectomy: The surgeon takes out the gallbladder through a large incision (cut) in the abdominal wall. This method is sometimes used for gallbladder problems that aren't cancer (such as gallstones), and may lead to the discovery of gallbladder cancer. But if gallbladder cancer is suspected before surgery, doctors prefer to do an extended cholecystectomy.
+Extended (radical) cholecystectomy
+Because of the risk that the cancer will come back if just the gallbladder is removed, a more extensive operation, called an extended (or radical) cholecystectomy, is done in most cases of gallbladder cancer. This can be a complex operation, so make sure your surgeon is experienced with it.
+The extent of the surgery depends on where the cancer is and how far it might have spread. At a minimum, an extended cholecystectomy removes:
+
+The gallbladder
+About an inch or more of liver tissue next to the gallbladder
+All of the lymph nodes in the region
+
+If your surgeon feels it's needed and you are healthy enough, the operation may also include removing one or more of the following:
+
+A larger part of the liver, ranging from a wedge-shaped section of the liver close to the gallbladder (wedge resection) to a whole lobe of the liver (hepatic lobectomy)
+The common bile duct
+Part or all of the ligament that runs between the liver and the intestines
+Lymph nodes around the pancreas and, around the major nearby blood vessels
+The pancreas
+The duodenum (the first part of the small intestine into which the bile duct drains)
+Any other areas or organs to which cancer has spread
+
+Surgery for unresectable cancers
+Surgery is less likely to be done for unresectable cancers, but there are some instances where it might be helpful, this is called palliative surgery. The goal is not to treat the cancer, but to treat the problems it causes. An example is putting a plastic or expandable metal tube (called a stent) inside bile duct that's blocked by the tumor. This can keep the duct open and allow bile to flow through it.
+You can find more details on palliative procedures at Palliative Therapy for Gallbladder Cancer.
+Possible risks and side effects of surgery
+The risks and side effects of surgery depend on how much tissue is removed and your overall general health before the surgery. All surgery carries some risk, including the possibility of bleeding, blood clots, infections, complications from anesthesia, and pneumonia.
+Laparoscopic cholecystectomy is the least invasive operation and tends to have fewer side effects. Most people will have at least some pain from the incisions for a few days after the operation, but this can usually be controlled with medicines. A bigger incision is needed for an open cholecystectomy, so there is usually more pain and a longer recovery time.
+Extended cholecystectomy is a major operation that might mean removing parts of several organs. This can have a major significant effect on a person’s recovery and health after the surgery. Serious problems soon after surgery can include bile leakage into the abdomen, infections, and liver failure. Because most of the organs removed are involved in digestion, eating and nutrition problems may be a concern after surgery. Your doctor or nurse will discuss the possible side effects with you in more detail before your surgery.Radiation therapy uses high-energy rays (such as x-rays) or particles to destroy cancer cells. Doctors aren't sure of the best way to use radiation therapy to treat gallbladder cancer, but it might be used in one of these ways:
+
+After surgery has removed the cancer: Radiation may be used to try to kill any cancer that might have been left after surgery but was too small to see. This is called adjuvant therapy.
+As part of the main therapy for some advanced cancers: Radiation therapy might be used as a main therapy for some patients whose cancer has not spread widely throughout the body, but can't be removed with surgery. While treatment in this case does not cure the cancer, it may help patients live longer.
+As palliative therapy: Radiation therapy is used often to help relieve symptoms if the cancer is too advanced to be cured. It may be used to help relieve pain or other symptoms by shrinking tumors that block blood vessels or bile ducts, or press on nerves.
+
+External beam radiation therapy (EBRT)
+For gallbladder cancer, a large machine is used to create a beam of x-rays or particles that are aimed at the cancer. This is called external beam radiation therapy (EBRT).
+Before your treatments start, the radiation team will take careful measurements to determine the correct angles for aiming the radiation beams and the proper dose of radiation. The treatment is much like getting an x-ray, but the radiation is much stronger. The procedure itself is painless. Each treatment lasts only a few minutes, but the set-up time − getting you into place for treatment − usually takes longer. Most often, radiation treatments are given 5 days a week for many weeks. These are some of the ways EBRT might be given:
+Three-dimensional conformal radiation therapy (3D-CRT) Uses special computers to precisely map the location of the tumor(s). Radiation beams are then shaped and aimed at the tumor(s) from several directions, which makes it less likely to damage normal tissues.
+Intensity modulated radiation therapy (IMRT)This is an advanced form of 3D-CRT. It uses a computer-driven machine that moves around you as it delivers radiation. Along with shaping the beams and aiming them at the cancer from many angles, the intensity (strength) of the beams can be adjusted to limit the dose reaching the most sensitive normal tissues. This lets doctors deliver an even higher dose to the cancer.
+Chemoradiation: Chemotherapy (chemo) is given along with EBRT to help it work better. This is the way radiation is most often used for gallbladder cancer. The main drawback of this approach is that the side effects tend to be worse than giving radiation alone. Still, some studies have shown that giving chemoradiation after surgery may help patients live longer, especially those whose cancer had spread to lymph nodes.
+Possible side effects of radiation therapy
+Some common side effects of radiation therapy to treat gallbladder cancer include:
+
+Sunburn-like skin problems, like redness, blisters, and peeling in the area being treated
+Nausea and vomiting
+Diarrhea
+Tiredness (fatigue)
+Liver damage
+
+Side effects from radiation often start a week or 2 into treatment, and usually get better over time once treatment is over. Ask your doctor or nurse what side effects to expect and how you might prevent or relieve them.Chemotherapy (chemo) is treatment with cancer-killing drugs that are usually given into a vein (IV) or taken by mouth. These drugs enter the bloodstream and reach all areas of the body, making this treatment useful for cancers that have spread beyond where they started.
+Chemo can help some people with gallbladder cancer, but so far it's not clear how useful it is for this type of cancer. Still, chemo might be used in these ways:
+
+After surgery to remove the cancer: Chemo may be given after surgery (often along with radiation therapy) to try to lower the risk that the cancer will come back. This is called adjuvant treatment. Doctors aren’t yet sure how useful it is in treating gallbladder cancer.
+
+
+As part of the main treatment for some advanced cancers: Chemo might be used (with or without radiation therapy) for more advanced cancers that cannot be removed or have spread to other parts of the body. Chemo does not cure these cancers, but it might help people live longer.
+
+
+As palliative therapy: Chemo can help shrink tumors or slow their growth for a time. This can help relieve symptoms from the cancer, for instance, by shrinking tumors that are pressing on nerves and causing pain.
+
+Doctors give chemo in cycles, with each period of treatment followed by a rest period to allow the body time to recover. Chemo cycles generally last about 3 to 4 weeks. Chemo usually isn't recommended for patients in poor health, but advanced age by itself isn't a barrier to getting chemotherapy.
+Hepatic artery infusion (HAI)As researchers have learned more about the gene and protein changes in cells that cause cancer, they have developed newer drugs to specifically target these changes. Targeted therapy is used to treat a lot of different kinds of cancer. And many of these drugs are being tested to see if they can help treat gallbladder cancer. Right now, the only way to get these drugs is in a clinical trial.
+Targeted therapy drugs work differently from standard chemotherapy (chemo) drugs. They sometimes work when standard chemo drugs don’t, and they often have different (and less severe) side effects. They can be used either along with chemo or by themselves.
+To learn more about how these drugs are used to treat cancer, see Targeted Cancer Therapy.Immunotherapy is the use of medicines to help a person’s immune system better recognize and destroy cancer cells. Many types of immunotherapy are being tested in clinical trials, and some might now be used to treat gallbladder cancer.
+Immune checkpoint inhibitors
+An important part of the immune system is its ability to keep itself from attacking the body's normal cells. To do this, it uses “checkpoint” proteins on immune cells, which act like switches that need to be turned on (or off) to start an immune response. Cancer cells sometimes use these checkpoints to avoid being attacked by the immune system.
+Drugs that target these checkpoints (called immune checkpoint inhibitors) can be used to treat some gallbladder cancers.
+PD-1 inhibitors
+Pembrolizumab (Keytruda) is a drug that targets PD-1, a checkpoint protein on immune system cells called T cells. PD-1 normally helps keep T cells from attacking other cells in the body (including some cancer cells). By blocking PD-1, this drug boosts the immune response against cancer cells. This can shrink some tumors or slow their growth.
+Pembrolizumab can used along with the chemotherapy drugs gemcitabine and cisplatin to treat gallbladder cancer that can’t be removed by surgery or that has spread to other parts of the body.
+Pembrolizumab can also be used by itself to treat some advanced gallbladder cancers, typically after other treatments have been tried, if there are no other good treatment options, and if the cancer cells have any of the following:
+
+A high level of microsatellite instability (MSI-H) or a defect in a mismatch repair gene (dMMR)
+A high tumor mutational burden (TMB-H), meaning the cells have many gene mutations
+
+Tumor cells can be tested for these changes.
+T﻿his drug is given as an intravenous (IV) infusion, typically once every 3 or 6 weeks.
+Possible side effects
+Side effects of PD-1 inhibitors can include:
+
+Feeling tired or weak
+Fever
+Cough
+Nausea
+Itching
+Skin rash
+Loss of appetite
+Muscle or joint pain
+Shortness of breath
+Constipation or diarrhea
+
+Other, more serious side effects occur less often. These can include:
+Infusion reactions: Some people might have an infusion reaction while getting this drug. This is like an allergic reaction, and can include fever, chills, flushing of the face, rash, itchy skin, feeling dizzy, wheezing, and trouble breathing. It’s important to tell your doctor or nurse right away if you have any of these symptoms while getting this drug.
+Autoimmune reactions: This drug works by basically removing one of the safeguards on the body’s immune system. Sometimes this causes the immune system to attack other parts of the body, which can cause serious or even life-threatening problems in the lungs, intestines, liver, hormone-making glands, kidneys, skin, or other organs.
+It’s very important to report any new side effects to your health care team right away. If you do have a serious side effect, treatment may need to be delayed or stopped, and you may be given high doses of corticosteroids to suppress your immune system.
+To learn more about how drugs that work on the immune system are used to treat cancer, see Cancer Immunotherapy.Palliative care is treatment used to help control or reduce symptoms caused by cancer. It's not meant to cure the cancer.
+If gallbladder cancer has spread too far to be removed by surgery, doctors may focus on palliative treatments. For instance, pain medicines and drugs to control nausea or itching might be used to help you feel better. Radiation and chemotherapy can also be used to help relieve problems caused by the tumor(s). Sometimes, surgery or other treatments are used to help you feel better or to help prevent problems the cancer might cause. Because gallbladder cancers tend to grow and spread quickly, doctors try to use palliative therapies that are less likely to have unpleasant short-term side effects, whenever possible. Your cancer care team will talk with you about the pros and cons of all the treatments that might help you
+Here are some examples of procedures that might be used as part of palliative care for gallbladder cancer:
+Biliary stent or biliary catheter
+If cancer is blocking a duct that carries bile from the gallbladder or liver to the small intestine, it can lead to jaundice (yellowing of the skin and eyes) and other problems, like infection and liver failure. A small tube or a catheter can be put into the bile duct or the gallbladder to help the bile drain out.
+
+A stent is a small metal or plastic tube that's put through the blockage in the duct. It keeps the duct open to allow the bile to drain into the small intestine.
+A catheter is a thin, flexible tube that's put in through the skin over the abdomen (belly). One end of the tube is put into a bile duct and the other is outside the body. This allows the bile to drain into a bag. The bag can be emptied when needed. If you have a catheter, your doctor or nurse will teach you how to care for it.
+
+These procedures can be done as part of a cholangiography procedure such as ERCP or PTC (see Tests for Gallbladder Cancer) or, in some cases, during surgery. They're often done to help relieve or prevent symptoms in more advanced cancers, but they can also be done to help relieve jaundice before potentially curative surgery is done. This helps lower the risk of complications from the surgery.
+The stent or catheter may need to be replaced every few months to help reduce the risk of infection and gallbladder inflammation. It will also need to be replaced if it becomes clogged.
+Biliary bypass
+In people who are healthy enough, a surgery called biliary bypass is another option to allow bile to drain from the liver and gallbladder. There are different biliary bypass operations. Deciding which one to use depends on where the blockage is. In these procedures, the surgeon creates a bypass around the tumor blocking the bile duct by connecting part of the bile duct before the blockage with a part of the duct that lies past the blockage, or with the intestine itself. For instance:
+
+A choledochojejunostomy joins the common bile duct to the jejunum (the second part of the small intestine).
+A gastrojejunostomy (also known as a gastric bypass) joins the stomach directly to the jejunum.
+A hepaticojejunostomy joins the duct that carries bile from the liver to the jejunum.
+
+Sometimes these operations can be done using special long surgical tools put through several small holes made in the abdomen (belly). This is called laparoscopic or keyhole surgery.
+A biliary bypass can often give longer-lasting relief than a stent, which might need to be cleaned out or replaced. Still, this can be a major operation, so it’s important that you're healthy enough to withstand it and that you talk with your doctor about the possible benefits and risks before you have the surgery.
+Alcohol injection
+To relieve pain, doctors may deaden the nerves that carry pain signals from the gallbladder and intestinal area to the brain by injecting these nerves with alcohol. This can be done during surgery or through a long, hollow needle that's guided into place with the help of a CT scan.The extent of gallbladder cancer is an important factor in deciding on treatment options. Whenever possible, surgery is the main treatment. It's the best chance of curing the cancer. Because of this, doctors generally divide gallbladder cancers into 2 groups:
+
+Resectable cancers are those that doctors believe can be removed completely by surgery, based on the results of imaging procedures and other tests.
+Unresectable cancers have spread too far or are in too difficult a place to be removed entirely by surgery.
+
+Resectable gallbladder cancers
+In terms of stages , stage I and II cancers and some stage III cancers that have not spread far beyond the gallbladder may still be treatable with surgery. But it's not an option if the cancer has spread into major blood vessels. Other factors, such as whether a person is healthy enough for surgery, also affect whether surgery is a good option. For instance, if the cancer has only invaded the liver in one area and not too deeply, it may be possible to remove all of the cancer. On the other hand, if the cancer has spread to both sides of the liver, to the lining of the abdominal cavity, to organs far away from the gallbladder, or if it surrounds a major blood vessel, surgery is unlikely to remove it all.
+How the cancer is first found can impact treatment options, too. For example, some cancers are found on imaging tests before surgery, while others are found only after the gallbladder has been taken out to treat another condition such as gallstones.
+If gallbladder cancer is suspected or diagnosed, it’s a good idea to be seen by a surgeon with experience treating this type of cancer. Gallbladder cancer is rare, and not all surgeons are skilled at the more extensive operations needed to treat it.
+No matter what stage the cancer is, it’s very important that you understand the goal of treatment before it starts – whether it’s to try to cure the cancer or to help relieve symptoms – as well as the likelihood of the benefits and risks. This can help you make good decisions when looking at your treatment options.
+Gallbladder cancers that might be resectable
+These are earlier stage cancers that doctors believe might be removed completely by surgery. Treatment of these cancers depends in part on how they're first found.
+Cancer found after surgery for another gallbladder problem
+Some gallbladder cancers are found when the gallbladder is removed to treat gallstones or chronic inflammation. The removed gallbladder is looked at and tested in a lab, at which time the cancer is found. These are often early-stage cancers. If the cancer is confirmed to be only in the inner layers of the gallbladder (T1a), with no signs of spread outside the gallbladder, no further treatment may be needed because there's a very good chance that all of the cancer was removed.
+If the cancer is found to be in deeper layers of the gallbladder wall (T1b or greater), other tests will be done to look for any remaining cancer in the body and to see if it can be removed. These tests may include CT or MRI scans and a staging laparoscopy.
+If the cancer is thought to be resectable after these tests, another, more extensive, operation will be done to remove part of the liver, nearby lymph nodes, and possibly parts of the bile duct. (If the initial surgery was a laparoscopic cholecystectomy, the skin around the original incision sites may be removed as well. This is done just in case cancer cells may have gotten on the skin when the gallbladder was removed through these small holes. It's not clear how useful this is. This may be followed by chemotherapy (chemo), with or without radiation, to try to keep the cancer from coming back, but it’s not clear how helpful this is.
+If the imaging tests or staging laparoscopy show that the cancer can’t be removed, treatment options will be like those used for unresectable cancers.
+Cancer found during surgery for another gallbladder problem
+Sometimes, gallbladder cancer is discovered during surgery to remove the gallbladder (simple cholecystectomy). In this case, during the operation, the surgeon sees changed areas that look like they may be cancer. Small pieces of these changes (samples) are sent to the lab to be checked quickly while the operation goes on. Cancer cells are seen in the samples.
+If the surgeon is experienced in treating gallbladder cancer and believes the cancer can be removed (is resectable), the operation may be changed to a more extensive operation called an extended cholecystectomy. (See Surgery for Gallbladder Cancer for details.)
+If the surgeon isn’t experienced in treating gallbladder cancer or isn’t sure if the cancer is resectable, the operation may be stopped at this point. Other tests such as CT or MRI scans will then be done to look for any remaining cancer in the body and find out whether it's resectable.
+If the cancer is thought to be resectable after these tests, a more extensive operation will be done to remove part of the liver, nearby lymph nodes, and possibly parts of the bile duct. This may be followed by chemotherapy, with or without radiation, to try to keep the cancer from coming back, but it’s not clear how helpful this is.
+If the scans show that the cancer can’t be removed, treatment options will be like those used for unresectable cancers.
+Cancer found on imaging tests or because of symptoms
+Sometimes, gallbladder cancer is suspected because a person is having symptoms like jaundice . Imaging tests may then show areas suspicious for cancer in or near the gallbladder. Further imaging tests and staging laparoscopy may be done to look for any other suspicious areas. These tests can help the doctor figure out if these areas are cancer and whether it can be removed (is resectable).
+If the cancer is thought to be resectable and the patient is healthy enough for surgery, an extended cholecystectomy (removing the gallbladder, part of the liver, nearby lymph nodes, and possibly the bile duct and other nearby organs) is the preferred treatment. If the patient has jaundice before the surgery, a stent or catheter may be placed in the bile duct first to allow the bile to flow. This can help relieve symptoms over a few days and might make a person healthy enough for surgery. After the surgery, chemotherapy, with or without radiation, may be advised to try to lower the chance that the cancer will come back, but it’s not clear how helpful this is.
+If the imaging tests or a staging laparoscopy show that cancer is likely but that it can’t be removed, a biopsy may be done to confirm the diagnosis. Treatment options will then be like those used for unresectable cancers.
+Unresectable gallbladder cancers
+If surgery isn't an option (for example, because of the size or location of the cancer or because of a person’s general health), the focus of treatment is usually on trying to control the cancer. This can help with symptoms and may help people live longer.
+Treatment with radiation therapy and/or chemotherapy may be helpful for some people. Another option might be chemo plus the immunotherapy drug pembrolizumab (Keytruda).
+For those who are jaundiced because of bile duct blockage, a stent or catheter may be placed in the duct to allow the bile to flow. If needed, surgery to bypass the bile duct may be an option if the person is healthy enough. Relieving bile duct blockage is often the first thing done, before starting other treatments such as chemo.
+Because these cancers can be very hard to treat, taking part in clinical trials of newer treatments may be an option. This way patients can get the best treatment available now and may also get the treatments that are thought to be even better.
+Palliative care
+This is supportive care. It's aimed at preventing and treating symptoms or problems caused by the cancer. Palliative care is used with every type of cancer treatment at every stage of gallbladder cancer. It includes things like medicines to prevent nausea, pain control, and maintaining the flow of bile where a tumor may block it. Palliative care is focused on helping you feel better, it's not used to cure the cancer.
+Maintaining your quality of life is an important goal. Please don’t hesitate to discuss pain, other symptoms, or any quality-of-life concerns with your cancer care team.
+See Palliative Therapy for Gallbladder Cancer for details on some of these treatments.
+Recurrent gallbladder cancer
+Cancer is called recurrent when it comes back after treatment. Recurrence can be local (in or near the same place it started) or distant (it comes back in organs, like the lungs or bone). If the cancer comes back, further treatment depends on where the cancer recurs, the kind of treatment used in the past, and the patient’s overall health.
+Rarely, the cancer may recur in a small area near where it started, in which case surgery to try to remove it (perhaps followed by chemo and/or radiation therapy) might be an option. But in most cases the recurrent cancer is unresectable and is treated as described above.
+Recurrent gallbladder cancer is often very hard to treat, so people might want to consider taking part in a clinical trial of newer treatments.For some people with gallbladder cancer, treatment can remove or destroy the cancer. The end of treatment can be both stressful and exciting. You may be relieved to finish treatment, yet it’s hard not to worry about cancer coming back. This is very common if you’ve had cancer.
+For other people, the cancer might never go away completely. Some people may get regular treatment with chemotherapy or other treatments to try and help keep the cancer in check. Learning to live with cancer that doesn't go away can be difficult and very stressful. 
+Life after cancer means returning to some familiar things and also making some new choices.
+Follow-up care
+After you have completed treatment, your doctors will still want to watch you closely. It’s very important to go to all follow-up appointments. During these visits, your doctors will ask about symptoms, and do physical exams, and may order blood tests or imaging tests, like CT scans.
+If you've had surgery and have no signs of cancer remaining, many doctors recommend follow-up with imaging tests about every 6 months for at least the first 2 years, but not all doctors follow this same schedule. Follow-up is needed to check for cancer that has come back or spread. It's also needed to check for possible side effects of certain treatments.
+This is the time for you to ask your cancer care team any questions and discuss any concerns you might have.
+Almost any cancer treatment can have side effects. Some may last for a few weeks to months, but others can last the rest of your life. Don’t hesitate to tell your cancer care team about any symptoms or side effects bothering you so they can help you manage them.
+Ask your doctor for a survivorship care plan
+Talk with your doctor about developing a survivorship care plan for you. This plan might include: 
+
+A suggested schedule for follow-up exams and tests
+A schedule for other tests you might need in the future, such as early detection (screening) tests for other types of cancer, or tests to look for long-term health effects from your cancer or its treatment
+A list of possible late- or long-term side effects from your treatment, including what to watch for and when you should contact your doctor
+Diet and physical activity suggestions
+Reminders to keep your appointments with your primary care provider (PCP), who will monitor your general health care 
+
+Keeping health insurance and copies of your medical records
+Even after treatment, it’s very important to keep health insurance. Tests and doctor visits cost a lot, and even though no one wants to think of their cancer coming back, this could happen.
+At some point after your cancer treatment, you might find yourself seeing a new doctor who doesn’t know about your medical history. It’s important to keep copies of your medical records to give your new doctor the details of your diagnosis and treatment. Learn more in Keeping Copies of Important Medical Records.
+Can I lower my risk of gallbladder cancer progressing or coming back?
+If you have (or have had) gallbladder cancer, you probably want to know if there are things you can do that might lower your risk of the cancer growing or coming back, such as exercising, eating a certain type of diet, or taking nutritional supplements. Unfortunately, it’s not yet clear if there are things you can do that will help.
+Adopting healthy behaviors such as not smoking, eating well, getting regular physical activity, and staying at a healthy weight might help, but no one knows for sure. Still, we do know that these types of changes can have positive effects on your health that can extend beyond your risk of gallbladder cancer or other cancers.
+About dietary supplements
+So far, no dietary supplements (including vitamins, minerals, and herbal products) have been shown to clearly help lower the risk of gallbladder cancer progressing or coming back. This doesn’t mean that no supplements will help, but it’s important to know that none have been proven to do so.
+Dietary supplements are not regulated like medicines in the United States – they do not have to be proven effective (or even safe) before being sold, although there are limits on what they’re allowed to claim they can do. If you’re thinking about taking any type of nutritional supplement, talk to your health care team. They can help you decide which ones you can use safely while avoiding those that might be harmful.
+If the cancer comes back
+If the cancer does recur at some point, your treatment options will depend on where the cancer is located, what treatments you’ve had before, and your overall health. For more information on how recurrent gallbladder cancer is treated, see Treatment Options Based on the Extent of Gallbladder Cancer.
+For more general information on recurrence, you may want to see Understanding Recurrence.
+Getting emotional support
+Some amount of feeling depressed, anxious, or worried is normal when cancer is a part of your life. Some people are affected more than others. But everyone can benefit from help and support from other people, whether friends and family, religious groups, support groups, professional counselors, or others. Learn more in Life After Cancer.What is gallbladder cancer?
+Cancer can start any place in the body. In gallbladder cancer, cells in the gallbladder start to grow out of control and crowd out normal cells. This makes it hard for the body to work the way it should.
+Cancer cells can spread to other parts of the body. Cancer cells in the gallbladder can sometimes travel to the liver and grow there. When cancer cells do this, it’s called metastasis. To doctors, the cancer cells in the new place look just like the ones from the gallbladder.
+Cancer is always named for the place where it starts. So when gallbladder cancer spreads to the liver (or any other place), it’s still called gallbladder cancer. It’s not called liver cancer unless it starts from cells in the liver.

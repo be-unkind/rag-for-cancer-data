@@ -1,0 +1,580 @@
+Cancer starts when cells in the body begin to grow out of control. Cells in nearly any part of the body can become cancer, and can spread to other areas of the body. To learn more about how cancers start and spread, see What Is Cancer? For information about the differences between childhood cancers and adult cancers, see Cancer in Children.
+Sarcomas are cancers that develop from connective tissues in the body, such as muscles, fat, bones, the linings of joints, or blood vessels. There are many types of sarcomas.
+Rhabdomyosarcoma (RMS) is a type of sarcoma made up of cells that normally develop into skeletal (voluntary) muscles. These are muscles that we control to move parts of our body.
+Well before birth, cells called rhabdomyoblasts (which will eventually form skeletal muscles) begin to form. These are the cells that can develop into RMS. Because this is a cancer of very early forms of muscle cells, it is much more common in children, although it does sometimes occur in adults.
+We might think of our skeletal muscles as being mainly in our arms and legs, but RMS can start nearly anywhere in the body, even in some parts of the body that don’t normally have skeletal muscle.
+Common sites of RMS include:
+
+The head and neck (such as near the eye, inside the nasal sinuses or throat, or near the spine in the neck)
+Urinary and reproductive organs (bladder, prostate gland, or any of the female organs)
+Arms and legs
+Trunk (chest and abdomen)
+
+Types of rhabdomyosarcoma
+There are 2 main types of RMS, along with some less common types.
+Embryonal rhabdomyosarcoma (ERMS)
+ERMS usually affects children in their first 5 years of life, but it can occur at older ages as well.
+ERMS tends to occur in the head and neck area, bladder, vagina, or in or around the prostate and testicles.
+Two subtypes of ERMS, botryoid and spindle cell rhabdomyosarcomas, tend to have a better prognosis (outlook) than the more common conventional form of ERMS.
+Alveolar rhabdomyosarcoma (ARMS)
+ARMS typically affects all age groups equally. It makes up a larger portion of RMS in older children, teens, and adults than in younger children (because ERMS is less common at older ages).
+ARMS most often occurs in large muscles of the trunk, arms, and legs.
+ARMS tends to grow faster than ERMS, and it usually requires more intense treatment. However, in some cases of ARMS, the cancer cells lack certain gene changes, which makes these cancers act more like ERMS (and allows doctors to give less intense treatment).
+Anaplastic rhabdomyosarcoma and undifferentiated sarcoma
+Anaplastic rhabdomyosarcoma (also called pleomorphic rhabdomyosarcoma) is an uncommon type that occurs mainly in adults and is very rare in children.
+Some doctors also group undifferentiated sarcomas with the rhabdomyosarcomas. Using lab tests, doctors can tell that these cancers are sarcomas, but the cells don’t have any features that help classify them further.
+Both of these uncommon cancers tend to grow quickly and usually require intensive treatment.
+Rhabdomyosarcoma in adults
+Most rhabdomyosarcomas develop in children and teens, but they can also occur in adults. Adults are more likely to have faster-growing types of RMS and to have them in parts of the body that are harder to treat. Because of this, RMS in adults is often harder to treat effectively.About 400 to 500 new cases of rhabdomyosarcoma (RMS) occur each year in the United States. The number of new cases has not changed much over the past few decades.
+Most rhabdomyosarcomas are diagnosed in children and teens, with more than half of them in children younger than 10 years old.
+About 3% of all childhood cancers are RMS. These tumors are usually embryonal rhabdomyosarcomas (ERMS) and tend to develop in the head and neck area or in the genital and urinary tracts. Alveolar rhabdomyosarcoma (ARMS) affects all age groups and is found more often in the arms, legs, or trunk (chest or abdomen).
+RMS is slightly more common in boys than in girls. No particular race or ethnic group seems to have an unusually high rate of RMS.
+The prognosis (outlook) for people with RMS depends on many factors, including the type of RMS, the location and size of the tumor, the results of surgery, and whether the cancer has metastasized (spread). Children aged 1 to 9 tend to have a better outlook than infants or older children or adults. Statistics related to survival are discussed in Survival Rates for Rhabdomyosarcoma by Risk Group.The treatment of rhabdomyosarcoma (RMS) has come a long way in the past few decades, and more patients are surviving RMS than ever before. However, more work needs to be done. Research on RMS is being done at many medical centers, university hospitals, and other institutions across the world.
+Better classification of rhabdomyosarcomas
+Newer molecular techniques are helping doctors better categorize RMS and predict which patients will respond best to certain treatments. For example, rather than just looking at the cancer cells under a microscope, researchers have begun to use special genetic tests to help classify RMS.
+About 1 out of 4 cancers that doctors would usually classify as alveolar rhabdomyosarcoma (ARMS) have been found to lack the typical gene change (the PAX/FOXO1 fusion gene) seen in ARMS. These cancers have been found to act more like embryonal rhabdomyosarcoma (ERMS), which generally needs less intensive treatment than ARMS. Because of this finding, doctors can now give patients with these cancers less intense treatments and still achieve the same results.
+Improving standard treatments
+A major goal of current research is to treat all patients more effectively, while reducing the need for intensive treatments (and their side effects) when possible. For example, researchers are studying whether children who have a low risk of the tumor recurring can be treated without using potentially harmful treatments such as radiation therapy.
+Because children’s bodies are very sensitive to radiation, doctors are looking for ways to limit the doses as much as possible. Newer radiation therapy techniques allow doctors to aim the radiation more precisely, limiting the amount that reaches normal body tissues. Some of these techniques are described in Radiation Therapy for Rhabdomyosarcoma.
+Other ways to give radiation are also being studied. For example, in stereotactic body radiation therapy (SBRT), a special machine aims very thin beams of radiation at the tumor from many different angles, concentrating it on the tumor very precisely for short periods of time.
+Proton beam radiation is another newer approach. Standard radiation beams give off the same amount of radiation at all points as they pass through the body. Proton beam radiation uses radioactive particles that travel only a certain distance before releasing most of their energy. Doctors can use this property to limit the radiation reaching normal body tissues. This approach seems promising, but it’s not yet clear if it’s better than other newer forms of radiation therapy. It’s also available in only a limited number of centers around the country at this time.
+Doctors are also studying adding newer chemotherapy drugs such as irinotecan and temozolomide to the standard chemotherapy regimens for patients who have a higher risk of the tumor recurring.
+For patients at a high risk of tumor recurrence, doctors have looked at giving chemotherapy more frequently (such as giving it every 2 weeks instead of every 3 weeks). This concept is called interval compression. But so far, it's not clear whether this works better than giving it at standard intervals.
+Newer targeted drugs and immunotherapy
+Drugs that target specific parts of cancer cells (as opposed to just attacking fast-growing cells, as chemotherapy drugs do) are now being studied for use in RMS. Some of these drugs are already being used to treat certain adult cancers. Examples of newer targeted drugs being studied for use against RMS include:
+
+IGF-1R inhibitors, such as cixutumumab (IMC-1A2) and ganitumab (AMG479)
+Drugs that affect a tumor’s ability to make new blood vessels, such as bevacizumab (Avastin), sorafenib (Nexavar), and regorafenib (Stivarga)
+Drugs that target the mTOR protein, such as temsirolimus (Torisel) and everolimus (Afinitor)
+Drugs that target the ALK protein, such as crizotinib (Xalkori)
+Drugs that target the cell’s hedgehog pathway, such as sonidegib (Odomzo)
+Drugs that target other cellular proteins, such as dasatinib (Sprycel)
+
+Researchers are also testing ways of boosting the body's own immune system to treat RMS. For example, some researchers are looking at exposing some of the body’s immune system cells, called dendritic cells, to the abnormal PAX-FOXO1 protein that is found in many ARMS cells. The hope is that the dendritic cells will then cause the immune system to attack these cells, no matter where they are in the body.
+Eventually, a combination of these approaches may prove to be the best way to treat RMS.A risk factor is anything that affects the chance of having a disease such as cancer. Different cancers have different risk factors.
+Lifestyle-related risk factors such as body weight, physical activity, diet, and tobacco use play a major role in many adult cancers. But these factors usually take many years to influence cancer risk, and they are not thought to play much of a role in cancers that are more common in childhood, including rhabdomyosarcoma (RMS).
+Age and sex
+RMS is most common in children younger than 10, but it can also develop in teens and adults. It is slightly more common in boys than in girls.
+Inherited conditions
+Some people have a tendency to develop certain types of cancer because they have inherited changes in their DNA (genes) from their parents. Some rare inherited conditions increase the risk of RMS (and usually some other tumors as well):
+
+Members of families with Li-Fraumeni syndrome are more likely to develop sarcomas (including RMS), breast cancer, leukemia, and some other cancers.
+Children with Beckwith-Wiedemann syndrome have a high risk of developing Wilms tumor, a type of kidney cancer, but they are also more likely to develop RMS and some other types of childhood cancer.
+Neurofibromatosis type 1, also known as von Recklinghausen disease, usually causes multiple nerve tumors (especially in nerves of the skin), but it also increases the risk of RMS.
+Costello syndrome is very rare. Children with this syndrome have high birth weights but then fail to grow well and are short. They also tend to have a large head. They are prone to develop RMS as well as some other tumors.
+Noonan syndrome is a condition in which children tend to be short, have heart defects, and can be slower than typical children in developing physical skills and learning things. They are also at higher risk for RMS.
+
+These conditions are rare and account for only a small fraction of RMS cases. But they suggest that the key to understanding RMS might come from studying genes and how they work in very early life to control cell growth and development.
+Exposures before birth
+Some studies have suggested that being exposed to x-rays before birth might be linked with an increased risk of RMS in young children. Parental use of drugs such as marijuana and cocaine has been suggested as a possible risk factor as well. But the studies that have found these links have been small, and more research is needed to see if these factors are truly linked to RMS.The cause of most cases of rhabdomyosarcoma (RMS) is not well understood, and there are very few known risk factors for this type of cancer. But researchers are learning how normal cells become cancerous because of certain changes in their DNA.
+DNA is the chemical in each of our cells that makes up our genes, which control how our cells function. Genes are packaged in chromosomes (long strands of DNA in each cell). We normally have 23 pairs of chromosomes in each cell (one set of chromosomes comes from each parent). We usually look like our parents because they are the source of our DNA. But DNA affects more than how we look.
+Some genes control when our cells grow, divide into new cells, and die:
+
+Genes that help cells grow, divide, or stay alive are called oncogenes.
+Genes that slow down cell division or make cells die at the right time are called tumor suppressor genes.
+
+Cancers can be caused by DNA changes that turn on oncogenes or turn off tumor suppressor genes.
+Gene changes affecting RMS
+A small portion of people with RMS have inherited gene changes from a parent that put them at higher risk. For example, people with Li-Fraumeni syndrome have changes in the TP53 tumor suppressor gene, which cause it to make a defective p53 protein. The p53 protein normally causes cells with DNA damage to either pause and repair that damage or, if repair is not possible, to self-destruct. When p53 is not working, cells with DNA damage keep dividing, which can lead to further defects in other genes, and eventually cancer.
+Gene changes in ARMS
+Certain genes in a cell can be turned on when bits of DNA are switched from one chromosome to another. This type of change, called a translocation, can happen when a cell is dividing into 2 new cells. This seems to be the cause of most cases of alveolar rhabdomyosarcoma (ARMS). In these cancers, a small piece of chromosome 2 (or, less often, chromosome 1) often ends up on chromosome 13. This moves a gene called PAX3 (or PAX7 if it’s chromosome 1) right next to a gene called FOXO1, creating a PAX/FOX01 fusion gene. The PAX genes play an important role in cell growth while an embryo’s muscle tissue is being formed, but these genes usually shut down once they’re no longer needed. Moving one of them next to the FOXO1 gene keeps the PAX gene active, which seems to be what leads to the tumor forming.
+Other translocations or other types of gene changes are also sometimes seen in ARMS. In fact, about 1 out of 4 cancers that doctors would usually classify as ARMS have been found not to have the PAX/FOXO1 fusion gene typically seen in ARMS. Doctors have found that these cancers act more like embryonal rhabdomyosarcoma (ERMS), which generally requires less intensive treatment than ARMS.
+Gene changes in ERMS
+Research suggests that embryonal rhabdomyosarcoma (ERMS) develops in a different way. Cells of this tumor typically have lost a small piece of chromosome 11 that came from a person's mother, and it has been replaced by a second copy of that part of the chromosome from their father. This seems to make the IGF2 gene on chromosome 11 overactive. The IGF2 gene codes for a protein that can make these tumor cells grow. Other gene changes are probably important in these tumors as well.
+Other gene changes
+Changes in several different genes are usually needed for normal cells to become cancer cells. Scientists have found some other gene changes that set some RMS cells apart from normal cells, but there are likely still others that haven’t been found yet.
+What causes gene changes?
+Researchers now understand many of the gene changes that can lead to RMS, but it’s still not clear what causes these changes. Some gene changes can be inherited from a parent. Others might just be a random event that sometimes happens inside a cell, without having an outside cause. There are no known lifestyle-related or environmental causes of RMS, so it’s important to know that there is nothing children with RMS or their parents could have done to prevent these cancers.The risk of many cancers that typically occur in adults can be reduced with certain lifestyle changes (such as staying at a healthy weight or quitting smoking), but at this time there are no known ways to prevent most cancers in children.
+The only known risk factors for rhabdomyosarcoma (RMS) – age, sex, and certain inherited conditions – can’t be changed. There are no proven lifestyle-related or environmental causes of RMS, so at this time there is no known way to protect against these cancers.Rhabdomyosarcoma (RMS) is not common, and at this time there are no widely recommended screening tests for these cancers. (Screening is testing for a disease such as cancer in people who don’t have any symptoms.)
+Still, RMS often causes symptoms that allow it to be found before it has spread to other parts of the body. Most symptoms that might point to RMS can also have other causes, and most of these are not serious. But it's important to have them checked by a doctor. This includes any pain, swelling, or lumps that grow quickly or don’t go away after a week or so.
+About 4 out of 5 of these cancers is found before the cancer has clearly spread to another part of the body. But even when this happens, very small tumors (which cannot be seen, felt, or detected by imaging tests) could already have spread to other parts of the body. This is why both surgery and other treatments are typically needed for RMS.
+For people with certain inherited conditions linked to RMS
+Families known to carry inherited conditions that raise the risk of RMS (listed in Risk Factors for Rhabdomyosarcoma) or that have several family members with cancer (particularly childhood cancers) should talk with their doctors about the possible need for more frequent checkups. It's not common for RMS to run in families, but close attention to possible early signs of cancer might help find it early, when treatment is most likely to be successful.Rhabdomyosarcoma (RMS) can start nearly anywhere in the body, so the symptoms of RMS can be different in each person. The symptoms depend on where the tumor is, how large it is, and if it has spread to other parts of the body.
+
+When the tumor is in the neck, chest, back, arm, leg, or groin (including the testicles), the first sign might be a lump or swelling. Sometimes it can cause pain, redness, or other problems.
+Tumors around the eye can cause the eye to bulge out or the child to appear to be cross-eyed. Vision might be affected as well.
+Tumors in the ear or nasal sinuses can cause an earache, headache, nosebleeds, or sinus congestion.
+Tumors in the bladder or prostate can lead to blood in the urine, while a tumor in the vagina can cause vaginal bleeding. These tumors might grow big enough to make it hard or painful to urinate or have bowel movements.
+Tumors in the abdomen or pelvis can cause vomiting, belly pain, or constipation.
+RMS rarely develops in the bile ducts (small tubes leading from the liver to the intestines), but when it does it can cause yellowing of the eyes or skin (jaundice).
+If RMS becomes more advanced, it can cause symptoms such as lumps under the skin (often in the neck, under the arm, or in the groin), bone pain, constant cough, weakness, or weight loss.
+
+One or more of these symptoms usually leads to a visit to the doctor. Many of these signs and symptoms are more likely to be caused by something other than RMS. For example, children and teens can have bumps or pain from play or sports injuries. Still, if you or your child has any of these symptoms and they don’t go away within a week or so (or if they get worse), see a doctor so that the cause can be found and treated, if needed.Certain signs and symptoms might suggest that a person has rhabdomyosarcoma (RMS), but tests are needed to find out for sure.
+Medical history and physical exam
+If you or your child has symptoms that could be from RMS (or another type of tumor), the doctor will want to get a complete medical history to find out more about the symptoms.
+The doctor will also do a physical exam to look for possible signs of RMS or other health problems. For example, the doctor might be able to see or feel an abnormal lump or swelling.
+If the doctor suspects RMS (or another type of tumor), tests will be needed to find out. These might include imaging tests, biopsies, and/or lab tests.
+Imaging tests
+Imaging tests use x-rays, magnetic fields, radioactive substances, or sound waves to create pictures of the inside of the body. Imaging tests might be done for a number of reasons, including:
+
+To help find out if a suspicious area might be cancer
+To determine the extent of a tumor or learn how far a cancer has spread
+To help determine if treatment is working
+
+People who have or might have RMS will get one or more of these tests.
+Plain x-rays
+X-rays are sometimes used to look for tumors, but they are best for looking at bones. They don’t show much detail in internal organs, so other imaging tests are usually more helpful when looking for soft tissue tumors such as RMS.
+A chest x-ray is sometimes done to look for cancer that might have spread to the lungs, although it isn’t needed if a chest CT scan is being done.
+Computed tomography (CT) scan
+The CT scan combines many x-ray pictures to make detailed cross-sectional images of parts of the body, including soft tissues such as muscles. A contrast material may be injected into a vein before the scan to help see details better..
+This test can often show a tumor in detail, including how large it is and if it has grown into nearby structures. It can also be used to look at nearby lymph nodes, as well as the lungs or other areas of the body where the cancer might have spread.
+Magnetic resonance imaging (MRI) scan
+MRI scans create detailed images using radio waves and strong magnets instead of x-rays, so there is no radiation involved. A contrast material called gadolinium may be injected into a vein before the scan to help see details better..
+This test might be used instead of a CT scan to look at the tumor and the tissues around it. MRI is especially useful if the tumor is in certain parts of the body, such as the head and neck, an arm or leg, or the pelvis. MRI scans can help determine the exact extent of a tumor, because they can show the muscle, fat, and connective tissue around the tumor in great detail. This is important when planning surgery or radiation therapy. MRI is also very useful if the doctor is concerned about possible spread to the spinal cord or brain.
+Bone scan
+A bone scan can help show if a cancer has spread to the bones. This test is useful because it provides a picture of the entire skeleton at once.
+For this test, a small amount of low-level radioactive material is injected into the blood and travels to the bones. A special camera can detect the radioactivity and creates a picture of the skeleton.
+Areas of active bone changes attract the radioactivity and show up as “hot spots” on the scan. These areas may suggest cancer in an area, but other bone diseases can also cause the same pattern, so other tests such as plain x-rays or MRI scans, or even a bone biopsy might be needed.
+(A bone scan might not be needed if a positron emission tomography [PET] scan is done, as the PET scan can often provide similar information.)
+Positron emission tomography (PET) scan
+For a PET scan, a radioactive substance (usually a type of sugar related to glucose, known as FDG) is injected into the blood. Because cancer cells grow quickly, they will absorb large amounts of the sugar. A special camera can then create a picture of areas of radioactivity in the body. The picture is not detailed like a CT or MRI scan, but it provides helpful information about the whole body.
+PET scans can sometimes be helpful in finding out if suspicious areas seen on other imaging tests (such as bone scans or CT scans) are tumors. PET scans can also be repeated during treatment to see how well it is working.
+Some machines can do a PET and CT scan at the same time (PET/CT scan). This lets the doctor compare areas of higher radioactivity on the PET scan with the more detailed appearance of that area on the CT scan.
+Ultrasound
+Ultrasound uses sound waves and their echoes to make a picture of internal organs or tumors. For this test, a small, wand-like instrument called a transducer is moved around on the skin (which is first lubricated with gel). It gives off sound waves and picks up the echoes as they bounce off the organs. The echoes are converted by a computer into an image on a screen.
+Ultrasound can be used to see if tumors in the pelvis (such as prostate or bladder tumors) are growing or shrinking over time. (This test can’t be used to look at tumors in the chest because the ribs block the sound waves.)
+This is an easy test to have, and it uses no radiation.
+To learn more about these and other imaging tests, see Imaging (Radiology) Tests.
+Biopsy
+The results of a physical exam or imaging tests might suggest that someone has RMS (or another type of soft tissue tumor), but a biopsy (removing some of the tumor for viewing under a microscope and other lab testing) is the only way to be certain.
+Biopsies can be done in several ways. The approach used depends on where the tumor is, the age of the patient, and the expertise and experience of the doctor doing the biopsy.
+Surgical biopsy
+The most common biopsy approach is to remove a small piece of tumor during surgery while the patient is under general anesthesia (asleep). In some cases, nearby lymph nodes are also removed to see if the tumor has spread to them. The samples are then sent to a lab and tested.
+Needle biopsies
+If for some reason a surgical biopsy can’t be done, a less invasive biopsy using a thin, hollow needle may be done. There are 2 kinds of needle biopsies, each of which has pros and cons.
+Core needle biopsy: For a core needle biopsy, the doctor inserts a hollow needle into the tumor to withdraw a piece of it (known as a core sample). If the tumor is just under the skin, the doctor can guide the needle into the tumor by touch. But if the tumor is deep inside the body, imaging tests such as ultrasound or CT scans might be needed to help guide the needle into place. The removed core sample is then sent to the lab for testing.
+The main advantage of a core needle biopsy is that it does not require surgery, so there is no large incision. Depending on where the tumor is, adults and older children might not need general anesthesia (where they are asleep for the biopsy), but some younger children might. On the other hand, the specimen is smaller than with a surgical biopsy, and if the needle isn’t aimed correctly, it might miss the tumor. If the specimen is not a good sample of the tumor, another biopsy will be needed.
+Fine needle aspiration (FNA) biopsy: For this technique, the doctor uses a very thin, hollow needle attached to a syringe to withdraw (aspirate) a small tumor sample. An FNA biopsy is best suited for tumors that can be reached easily (such as those just under the skin), although it can also be used for tumors deeper in the body.
+The downside of FNA is that the sample is very small. The pathologist must be experienced with this technique and be able to decide which lab tests will be most helpful on a very small sample. In cancer centers that have the experience to extract the most information from very small amounts of tissue, FNA can be a valuable – though certainly not foolproof – way to diagnose RMS, but it is not usually the preferred biopsy technique.
+See Testing Biopsy and Cytology Specimens for Cancer to learn more about different types of biopsies, how the tissue is used in the lab for disease diagnosis, and what the results can tell you.
+Bone marrow aspiration and biopsy
+These tests are often done after RMS is diagnosed to find out if the cancer has spread to the bone marrow (the soft inner parts of certain bones).
+The 2 tests are usually done at the same time. The samples are usually taken from the back of both of the pelvic (hip) bones, but in some patients they may be taken from other bones.
+These tests might be done during the surgery to biopsy or remove the main tumor (while the child is still under anesthesia), or they might be done as a separate procedure.
+If the bone marrow aspiration is being done as a separate procedure, the patient lies on a table (on their side or belly). After cleaning the skin over the hip, the doctor numbs the area and the surface of the bone with local anesthetic, which can briefly sting or burn. Children may also be given other medicines to help them relax or even go to sleep for the procedure. A thin, hollow needle is then inserted into the bone, and a syringe is used to suck out a small amount of liquid bone marrow.
+A bone marrow biopsy is usually done just after the aspiration. Small pieces of bone and marrow are removed with a slightly larger needle that is pushed down into the bone. Once the biopsy is done, pressure will be applied to the site to help stop any bleeding.
+The samples of bone and marrow are sent to the lab, where they are looked at and tested for cancer cells.
+Lumbar puncture (spinal tap)
+This is not a common test for RMS, but it might be done for tumors in the head near the covering of the brain (the meninges). This test is used to look for cancer cells in the cerebrospinal fluid (CSF), which is the liquid that bathes the brain and spinal cord.
+For this test, the doctor first numbs an area in the lower part of the back near the spine. The doctor may also recommend that the child be given something to make them sleep so the spinal tap can be done without difficulty or causing harm. A small, hollow needle is then inserted between the bones of the spine to withdraw some of the fluid, which is then sent to the lab for testing.
+Lab tests on the biopsy samples
+A doctor called a pathologist looks at the biopsy samples under a microscope to see if they contain cancer cells. If cancer is found, the next step is to figure out if it is RMS. In rare cases, the pathologist can see that the cancer cells have small muscle striations, which helps confirm that the cancer is RMS. But most often, other lab tests are needed to be sure.
+The pathologist might use special stains on the samples to identify the type of tumor. The stains contain certain proteins (antibodies) that attach to substances in RMS cells but not to other cancers. The stains produce a distinct color that can be seen under a microscope. This lets the pathologist know that the tumor is a rhabdomyosarcoma.
+If a diagnosis of RMS is made, the pathologist will also use special lab tests to help determine which kind of RMS it is. This is important because it affects how the cancer is treated. For example, alveolar rhabdomyosarcoma (ARMS), which tends to be more aggressive, typically requires more intense treatment than embryonal rhabdomyosarcoma (ERMS). An important part of this testing is looking for gene or chromosome changes in the cancer cells, such as those discussed in What Causes Rhabdomyosarcoma?
+Blood tests
+No blood test can be used to diagnose RMS. But certain blood tests may be helpful once a diagnosis has been made.
+A complete blood count (CBC) measures the levels of white blood cells, red blood cells, and platelets in the blood. If the CBC result is abnormal at the time of diagnosis it could mean the cancer has spread to the bone marrow, where these blood cells are made. This test can also be used during treatment (such as chemotherapy) to check for possible problems or side effects.
+Blood chemistry tests can be used to measure how well the liver and kidneys are working, as well as the levels of certain minerals in the blood.Once rhabdomyosarcoma (RMS) has been diagnosed and the type of RMS identified, doctors need to assess how much cancer there is and where it has spread. This is known as the stage of the cancer. The stage is one of the most important factors in determining a person's prognosis (outlook). It's also important when deciding on the best treatment options.
+Doctors use the results of imaging tests and biopsies and the examination of the organs during surgery to learn how far the cancer has spread. If there is any doubt about the extent of the cancer, more biopsies or other tests may be done.
+RMS is staged differently from most other cancers. Doctors first determine 3 key pieces of information:
+
+The TNM stage
+The clinical group
+Whether the cancer cells have a PAX/FOX01 fusion gene
+
+These factors are used to divide patients into risk groups, which then are used to guide treatment.
+The stages and risk groups for RMS can be confusing. If you have any questions about the staging or risk groups, ask the doctor or nurse to explain it to you in a way you understand.
+The TNM stage
+The TNM stage is determined before treatment starts, and is based on 3 key pieces of information:
+
+T: The characteristics of the main tumor (location and size)
+N: Whether the cancer has spread to nearby lymph nodes (bean-sized collections of immune system cells)
+M: Whether the cancer has metastasized (spread) to distant parts of the body
+
+These factors are combined to determine an overall stage:
+Stage 1
+The tumor started in a favorable area:
+
+The orbit (area around the eye)
+The head and neck area, except for parameningeal sites (areas next to the membranes covering the brain, such as the nasal passages and nearby sinuses, middle ear, and the uppermost part of the throat)
+A genital or urinary site, except the bladder or prostate gland
+Bile ducts (tubes leading from the liver to the intestines)
+
+The tumor can be any size. It may have grown into nearby areas and/or spread to nearby lymph nodes, but it has not spread to distant parts of the body.
+Stage 2
+The tumor started in an unfavorable site:
+
+The bladder or prostate
+An arm or leg
+A parameningeal site (an area next to the membranes covering the brain, such as the nasal passages and nearby sinuses, middle ear, or the uppermost part of the throat)
+Any other part of the body not mentioned in stage 1
+
+The tumor is no more than 5 cm (about 2 inches) across and there is no evidence that it has spread to nearby lymph nodes or distant parts of the body.
+Stage 3
+The tumor started in an unfavorable site:
+
+The bladder or prostate
+An arm or leg
+A parameningeal site (an area next to the membranes covering the brain, such as the nasal passages and nearby sinuses, middle ear, or the uppermost part of the throat)
+Any other part of the body not mentioned in stage 1
+
+And one of the following applies:
+
+The tumor is no more than 5 cm across but has spread to nearby lymph nodes
+The tumor is larger than 5 cm across and may or may not have spread to nearby lymph nodes
+
+In either case, the cancer has not spread to distant parts of the body.
+Stage 4
+The tumor can have started anywhere in the body and can be of any size. It has spread to distant parts of the body such as the lungs, liver, bones, or bone marrow.
+Clinical group
+The clinical group is based on the extent of the disease and how completely it is removed during initial surgery. The groups are defined as follows.
+Group I
+This group includes children with localized RMS (the cancer has not spread to nearby lymph nodes or to distant sites in the body) that is removed completely by surgery.
+Group II
+This group includes children with localized RMS, but in whom cancer cells have been found at the edges (margins) of the removed specimen (meaning that there may have been a small amount of cancer left behind).
+It also includes children with RMS that has spread to the nearby lymph nodes.
+Group III
+These children have tumors that could not be removed completely. Some tumor was left behind that could be seen with the naked eye. The cancer may have spread to nearby lymph nodes, but there is no sign that it has spread to distant organs.
+Group IV
+At the time of diagnosis, these children have evidence of distant cancer spread to places such as the lungs, liver, bones, bone marrow, or to distant muscles or lymph nodes.
+Risk groups
+Using the information about the TNM stage, the clinical group, and the PAX/FOX01 fusion gene status, doctors divide patients into 3 risk groups. This helps doctors decide how aggressive treatment should be.
+The risk groups are based on what has been learned from research on people previously treated for RMS. The groups discussed here are based on the most current information, but these may change in the future as safer and more effective treatments are developed.
+Low-risk group
+About 1 in 3 children with RMS falls into the low-risk group. It includes:
+
+Children with TNM stage 1 RMS that falls into clinical groups I, II, or III, and in which the cancer cells do not have a PAX/FOX01 fusion gene
+Children with stage 2 or 3 RMS who are in clinical groups I or II, and in which the cancer cells do not have a PAX/FOX01 fusion gene
+
+Intermediate-risk group
+About half of children of RMS fall into the intermediate-risk group. It includes:
+
+Children with stage 2 or 3 RMS who are in clinical group III, and in whom the cancer cells do not have a PAX/FOX01 fusion gene
+Children with RMS that has not spread to distant parts of the body (stage 1, 2, or 3), and in which the cancer cells do have a PAX/FOX01 fusion gene
+Children younger than 10 years of age with widespread (stage 4) RMS, in which the cancer cells do not have a PAX/FOX01 fusion gene
+
+High-risk group
+This group includes:
+
+Children 10 years of age or older with widespread (stage 4) RMS, in which the cancer cells do not have a PAX/FOX01 fusion gene
+Children with widespread (stage 4) RMS, in which the cancer cells do have a PAX/FOX01 fusion geneSurvival rates can give you an idea of what percentage of people in a similar situation (such as with the same type and stage of cancer) are still alive a certain amount of time after they were diagnosed. They can’t tell you exactly what will happen with any person, but they may help give you a better understanding about how likely it is that treatment will be successful.
+What is a survival rate?
+Statistics on the outlook for people with cancer are often given as survival rates. The survival rate is the percentage of people who live at least a certain amount of time (usually 5 years) after being diagnosed with cancer. For example, a 5-year survival rate of 70% means that an estimated 70 out of 100 people who have that cancer are still alive 5 years after being diagnosed. Of course, many people live much longer than 5 years (and many are cured).
+But keep in mind that survival rates are estimates, and they can’t predict what will happen in any person’s case. Each person’s outlook can vary based on a number of factors specific to them. Your cancer care team can tell you how the numbers below may apply, as they are familiar with your (child’s) particular situation.
+Survival rates for rhabdomyosarcoma
+For a person with RMS, the risk group is important in estimating their outlook. But other factors can also affect a person’s outlook, such as their age and how well the cancer responds to treatment. For example, the overall 5-year survival for children with RMS is about 70%, while survival in adults is lower.
+Here are general survival statistics based on risk groups. These numbers come from past clinical trials treating children with RMS.
+Low-risk group
+Overall, the survival rate for children in the low-risk group ranges from about 70% to over 90%. The rate varies based on tumor location, stage, and other factors. Most of these children will be cured.
+Intermediate-risk group
+For those in the intermediate-risk group, the survival rates range from about 50% to about 70%. The rate varies based on tumor location, stage, and the age of the child. (Children aged 1 to 9 years tend to do better than older or younger children.)
+High-risk group
+The survival rate in this group is generally around 20% to 30%. Again, it’s important to note that other factors, such as the patient’s age and the location and type of tumor can affect these numbers. For example, children with embryonal rhabdomyosarcoma (ERMS) and limited spread (to only 1 or 2 distant sites) have a higher 5-year survival rate. Also, children 1 to 9 years of age tend to have a better outlook than younger or older patients.
+Even when taking risk groups and other factors into account, survival rates are at best rough estimates. Your cancer care team is your best source of information on this topic, as they know your situation best.It’s important to have honest, open discussions with your cancer care team. Ask any question you have, no matter how minor it might seem. For instance, consider asking these questions:
+Before getting a biopsy
+
+How much experience do you have doing this type of biopsy?
+What will happen during the biopsy?
+How long will it take to get the results from the biopsy?
+
+If a rhabdomyosarcoma has been diagnosed
+
+What kind of rhabdomyosarcoma do I (does my child) have?
+Where exactly is the tumor?
+Has the cancer spread beyond where it started?
+Do we need other tests before we can decide on treatment?
+Which risk group does the cancer fall into, and what does that mean?
+How much experience do you have treating this type of cancer?
+Will we need to see other doctors?
+Who else will be on the treatment team, and what do they do?
+
+When deciding on a treatment plan
+
+What are our treatment options?
+Are there any clinical trials we might want to consider?
+What do you recommend and why?
+What's the goal of treatment?
+Should we get a second opinion? How do we do that? Can you recommend a doctor or cancer center?
+What are the risks and side effects to the suggested treatments?
+Which side effects start shortly after treatment and which ones might develop later on?
+Will treatment affect my child’s ability to grow and develop?
+Could treatment affect my child’s ability to have children later on?
+How soon do we need to start treatment?
+What should we do to be ready for treatment?
+How long will treatment last? What will it be like? Where will it be done?
+How will treatment affect our daily lives (school, work, etc.)?
+
+During and after treatment
+Once treatment begins, you’ll need to know what to expect and what to look for. Not all of these questions may apply, but getting answers to the ones that do may be helpful.
+
+How will we know if the treatment is working?
+Is there anything we can do to help manage side effects?
+What symptoms or side effects should we tell you about right away?
+How can we reach you or someone on your team on nights, weekends, or holidays?
+Who can we talk to if we have questions about costs, insurance coverage, or social support? 
+What are the chances of the cancer coming back after treatment? What might our options be if this happens?
+What type of follow-up and rehab will be needed after treatment?
+Are there nearby support groups or other families who have been through this that we could talk to?
+
+Along with these sample questions, be sure to write down some of your own. For instance, you might want more information about recovery times so that you can plan your work or school schedules.
+Also keep in mind that doctors aren't the only ones who can provide you with information. Other health care professionals, such as nurses and social workers, may have the answers to some of your questions. You can find out more about speaking with your health care team in The Doctor-Patient Relationship and How to Talk to Your Child's Cancer Care Team.Surgery is an important part of treatment for most rhabdomyosarcomas. Most people with RMS will get two types of surgery:
+
+The biopsy to diagnose the cancer
+The surgical treatment to remove the tumor(s)
+
+Biopsy surgery
+If RMS is suspected, a biopsy is needed to know for sure. The type of biopsy needed will depend on the results of imaging tests, the location and size of the tumor, the patient's age and health, and the expertise of the doctor. How the biopsy is done can affect later treatment, so it's important that the biopsy is done by a doctor who is experienced in diagnosing and treating RMS. See Tests for Rhabdomyosarcoma to learn more about biopsies.
+Surgery to remove the tumor
+Unless it is clear that the cancer has spread to distant parts of the body, surgery is usually the first step in treating RMS. Complete resection (removal) of the main tumor, along with some surrounding normal tissue, is the goal whenever possible. If there are cancer cells at the edges (margins) of the removed specimen (meaning that some cancer cells may have been left behind), the surgeon may operate again to try to remove the remaining cancer.
+In some cases, surgery may be done even if it's clear that all of the cancer can’t be removed, because it may still help other treatments (chemotherapy and radiation) to work better.
+During surgery, nearby lymph nodes might be biopsied to determine if the cancer has spread to these areas, especially if:
+
+The main tumor is near the testicles in a boy who is 10 years of age or older
+The main tumor is on an arm or leg
+
+Some types of surgery might need to be done by special surgeons. For example, removing tumors in the head and neck area may require surgical teams with ENT (ear, nose, and throat) surgeons, plastic surgeons, maxillofacial surgeons, and neurosurgeons.
+If a tumor is large or is in a spot where removing it completely would severely affect the patient’s appearance or cause other problems, then surgery may be delayed until after chemotherapy and possibly radiation therapy to try to shrink it, or surgery might not be done at all (and radiation will be used instead).
+What to expect with surgery
+The type and extent of surgery can vary a great deal based on the location and size of the tumor. RMS can appear in many parts of the body, so it’s not possible to describe here all of the different types of operations that might be done. The surgical team will discuss the planned surgery with you, but make sure you ask questions if there are any parts of it that aren’t clear to you.
+If the diagnosis of RMS wasn't confirmed by a biopsy before the main operation, the surgeon may first take only a small sample of the tumor. The sample is checked right away to see if it is cancer or not. If it can be determined that it is cancer while the surgery is still going on, the surgeon may try to remove the entire tumor and also remove some of the nearby lymph nodes to check for spread of the cancer. If the surgeon suspects the disease has spread to another part of the body, a piece of the possible metastatic tumor may be removed and checked as well.
+A bone marrow aspiration and biopsy may also be done during the surgery, and a central venous catheter (a thin tube) may be put into one of the large veins in the chest. One end of the catheter stays in the vein, while the other end lies just under or outside the skin. This can help the health care team give chemo and other drugs and draw blood samples without having to stick needles into the veins each time. The catheter usually stays in place for several months, and can make having chemo less painful. If such a device is put in, the health care team will teach you how to care for it to reduce the risk of problems such as infections.
+Possible risks and side effects
+Short-term risks and side effects: Depending on where the tumor is, surgery for RMS can be a long and complex operation. Serious short-term side effects are not common, but they can include reactions to anesthesia, excess bleeding, blood clots, and infections. Pain is common after the operation, and the patient might need strong pain medicines for a while after surgery as the site heals.
+Long-term side effects: The long-term side effects of surgery depend mainly on where the tumor is and what type of operation is done. Physical changes after surgery can range from little more than a scar to changes in appearance or in how some parts of the body function, which may require physical rehabilitation.Chemotherapy (chemo) is the use of drugs to treat cancer. Chemo is systemic therapy, meaning that the drugs enter the bloodstream and go throughout the body to destroy cancer cells. This makes chemo useful for killing cancer cells that have spread to other parts of the body, even if they can’t be seen.
+Chemo is an important part of treatment for rhabdomyosarcoma (RMS). Even if it appears that all of the cancer was removed by surgery, without chemo it is likely to come back.
+After surgery, any tiny deposits of RMS that are still in the body can often be destroyed by chemo. If larger areas of tumor remain after surgery (or if surgery couldn’t be done for some reason), chemo (along with radiation) can often shrink these areas. In some cases it may shrink the tumor enough that surgery can remove the remaining tumor completely.
+Chemo drugs used to treat rhabdomyosarcoma
+Doctors give chemo in cycles, which is usually treatment on 1 or 2 days in a row, followed by days off to give the body time to recover. For RMS, chemo is typically given once a week for the first few months, and then less often. The total length of treatment usually ranges from 6 months to a year.
+Some drugs can be taken by mouth, but most are given IV (injected into a vein).
+A combination of chemo drugs is used to treat patients with RMS. Which drugs are used will often depend on which risk group the patient is in.
+For people in the low-risk group, the main combinations of drugs used are:
+
+VA: vincristine and dactinomycin (also known as actinomycin-D)
+VAC: vincristine, dactinomycin, and cyclophosphamide
+
+For the intermediate-risk group, the most common regimens are:
+
+VAC: vincristine, dactinomycin, and cyclophosphamide
+VAC/VI: vincristine, dactinomycin, and cyclophosphamide, alternating with vincristine and irinotecan
+
+Doctors are also studying whether adding the targeted drug temsirolimus to the VAC/VI regimen might help it work better.
+For people in the high-risk group (which includes those with metastatic disease), the VAC regimen is the most common one used. Because these cancers can be hard to treat, doctors have also studied the use of more intense chemo that includes several other drugs (such as doxorubicin, ifosfamide, and etoposide). Another approach that has been studied is to give higher doses of chemo, sometimes followed by a stem cell transplant. But so far it's not clear that either of these approaches is any better than standard chemo, and they can cause more side effects.
+Most doctors recommend that people in the high-risk group be treated in a clinical trial testing new drugs and drug combinations. It is hoped that newer drugs will help people in the high-risk group live longer.
+Possible side effects
+Chemo drugs can affect cells other than cancer cells, which can lead to side effects. The side effects depend on the type and doses of drugs, and the length of time they are given.
+Children tend to have less severe side effects from chemo than adults and often recover from side effects more quickly. This is why doctors can often give them higher doses of chemo to kill the tumor.
+General side effects: Side effects common to many chemo drugs include:
+
+Hair loss
+Mouth sores
+Loss of appetite
+Nausea and vomiting
+Diarrhea
+Increased chance of infections (from having too few white blood cells)
+Easy bruising or bleeding (from having too few blood platelets)
+Fatigue (from having too few red blood cells)
+
+Most of these side effects tend to go away once treatment is finished. There are often ways to lessen these side effects. For example, drugs can be given to help prevent or reduce nausea and vomiting. Be sure to ask your doctor or nurse about medicines to help reduce side effects, and report any side effects your child has so they can be managed effectively.
+Side effects of certain drugs: Along with the risks above, some chemo drugs can have specific side effects (although these are relatively uncommon). For example:
+
+Cyclophosphamide and ifosfamide can damage the bladder, causing blood in the urine. The risk of this happening can be lowered by giving the drugs with plenty of fluids and with a drug called mesna, which helps protect the bladder.
+Vincristine can damage nerves. Some patients may notice tingling and numbness (called neuropathy), particularly in the hands and feet. This often goes away or gets better once treatment is stopped, but it could last a long time in some people.
+Some drugs can also damage the ovaries or testicles, which might affect fertility (the ability to have children) later in life. Talk to the cancer care team about the risks of infertility with treatment, and ask if there are options for preserving fertility, such as sperm banking or ovarian tissue banking.
+Some chemo drugs can also increase the risk of developing a second type of cancer, usually a form of leukemia, years after the RMS is cured. But this is rare, and the importance of chemotherapy in treating RMS far outweighs this risk.
+
+For more on some of these possible long-term side effects, see What Happens After Treatment for Rhabdomyosarcoma?Radiation therapy uses high-energy radiation to kill cancer cells. It is often an effective way to kill cancer cells that can’t be removed with surgery. When radiation therapy is used to help treat rhabdomyosarcoma (RMS), it is typically given along with chemotherapy.
+When might radiation therapy be used?
+Radiation is most often used when some of the main tumor is still left after surgery (clinical group II or III), or if removing the tumor completely would mean loss of an important organ, like the eye or bladder, or would be disfiguring. It is not usually needed for children with embryonal rhabdomyosarcoma (ERMS) that can be removed completely by surgery (clinical group I).
+Usually radiation therapy is given to any area of remaining disease after 6 to 12 weeks of chemotherapy. An exception is when a tumor near the meninges (linings of the brain) has grown into the skull bones, into the brain itself, or into the spinal cord. These patients are usually given radiation therapy right away (along with chemotherapy).
+If the cancer has spread to another part of the body, radiation might be given to certain areas of known cancer spread to reduce any symptoms it is causing.
+How radiation therapy is done
+This type of treatment is given by a doctor called a radiation oncologist. Before treatments start, the radiation team takes careful measurements with imaging tests such as MRI scans to determine the correct angles for aiming the beams and the proper dose of radiation. This planning session is called simulation. Patients may also be fitted with a plastic mold resembling a body cast to hold them in the same position each time so that the radiation can be aimed more accurately.
+Radiation is usually given 5 days a week for many weeks. Each treatment is much like getting an x-ray, although the dose of radiation is much stronger. For each session, the patient lies on a special table while a machine delivers the radiation from precise angles. The treatment is not painful.
+Each session lasts about 15 to 30 minutes, with most of the time spent making sure the radiation is aimed correctly. The actual treatment time each day is much shorter. Some younger children may be given medicine before each treatment to make them sleep so they won’t move during treatment.
+Types of radiation therapy
+Modern radiation therapy techniques help doctors aim the treatment at the tumor more accurately than they could in the past.
+Three-dimensional conformal radiation therapy (3D-CRT): 3D-CRT uses the results of imaging tests such as MRI and special computers to precisely map the location of the tumor. Radiation beams are then shaped and aimed at the tumor from several directions. Each beam alone is fairly weak, which makes it less likely to damage normal body tissues, but the beams come together at the tumor to give a higher dose of radiation there.
+Intensity-modulated radiation therapy (IMRT): IMRT is an advanced form of 3D therapy. Along with shaping the beams and aiming them at the tumor from several angles, the intensity (strength) of the beams is adjusted to limit the dose reaching the most sensitive normal tissues. This lets doctors deliver a higher dose to the cancer areas. Many major hospitals and cancer centers now use IMRT.
+Brachytherapy (internal radiation therapy): Another approach is to insert a radioactive source into or near the tumor for a short time. The radiation travels only a short distance, so the tumor gets most of the radiation. This approach may be especially useful in treating some bladder, vaginal, and head and neck area tumors. Some early studies suggest that this may be a good way to preserve the function of these organs in many children.
+Other newer techniques, such as stereotactic radiotherapy and proton beam radiotherapy, are discussed briefly in What’s New in Rhabdomyosarcoma Research?
+Possible side effects
+The side effects of radiation therapy depend on where the radiation is aimed, the dose of radiation, and the person's age. (Young children are much more likely to be affected by radiation.) Some side effects are likely to last a short time, while others might last longer.
+Short-term side effects can include:
+
+Fatigue
+Increased risk of infections
+Effects on the skin in areas that receive radiation, ranging from hair loss and mild sunburn-like changes to more severe skin reactions
+Nausea, vomiting, and diarrhea (from radiation to the abdomen or pelvis)
+Damage to the bladder, which might cause urinary problems (from radiation to the abdomen or pelvis)
+Mouth sores and loss of appetite (from radiation to the head and neck area)
+
+Long-term side effects can be more serious, especially in growing children, so doctors try to limit them as much as possible.
+Small children’s brains are very sensitive to radiation, so doctors try to avoid using radiation to the head whenever possible. If it is needed, it is aimed very carefully to try to limit how much reaches the brain. Side effects of radiation therapy to the brain can include headaches and problems such as memory loss, personality changes, and trouble learning at school. These problems tend to become most serious 1 or 2 years after treatment.
+Other long-term problems can include the formation of scar tissue and the slowing of bone growth in areas that get radiation. Depending on the child’s age and what parts of the body get the radiation, this could result in deformities or a failure to grow to full height. Radiation can also raise the risk of cancer many years later. (For more on long-term side effects, see What Happens After Treatment for Rhabdomyosarcoma?)
+To limit the risk of serious long-term effects from radiation, doctors use the lowest dose of radiation therapy that is still effective.A stem cell transplant (sometimes referred to as a bone marrow transplant) makes it possible to use much higher doses of chemotherapy (chemo) than would normally be possible. Chemo drugs kill rapidly dividing normal cells (such as those in the bone marrow, where new blood cells are made) as well as cancer cells. Higher doses of these drugs might be more effective in treating some cancers, but they can’t be given because the severe damage to the bone marrow would cause life-threatening shortages of blood cells.
+A stem cell transplant can get around this problem by taking out and saving some of the patient’s own blood-forming stem cells (either from the blood or bone marrow) before high-dose chemo and then putting them back into the blood after chemo is over. The stem cells then travel to the bone marrow, which lets the normal marrow regrow.
+Stem cell transplants are used to treat some aggressive childhood cancers, but so far it's not clear if they can help rhabdomyosarcoma patients. Because of the severe side effects they can cause, most doctors recommend they be used only as part of a clinical trial at this time.Rhabdomyosarcoma (RMS) that continues to grow during treatment or that comes back once treatment is finished is often hard to treat. The treatment options will depend on a number of factors, including:
+
+Where the cancer comes back
+The type of RMS
+Which treatments were used previously
+The patient's age and overall health
+
+For tumors that recur in the same spot as the original tumor, surgery may be used if it can be done. If radiation therapy wasn’t part of the initial treatment, it may be used as well.
+In rare cases, surgery may be used for cancers that recur in other parts of the body, such as if there is a small recurrence in a lung. Radiation therapy might be another option here as well.
+Most often, chemotherapy is the best option if the cancer has spread to other parts of the body. This might include some of the drugs listed in Chemotherapy for Rhabdomyosarcoma, as well as newer drugs now being studied.
+Because these tumors are often hard to treat, clinical trials of newer treatments may be a good option in many cases.During treatment for rhabdomyosarcoma (RMS), most patients and their families are focused on getting through treatment and beating the cancer. After treatment, the focus tends to shift toward the short- and long-term effects of the cancer and its treatment, and concerns about the cancer coming back.
+It’s normal to want to get back to a life that doesn’t revolve around cancer as quickly as possible. But close follow-up care is a central part of this process that offers the best chance for recovery and long-term survival.
+Follow-up visits and tests
+Once treatment is finished, the health care team will discuss a follow-up schedule with you, including which tests should be done and how often. For several years after treatment, it’s very important to have regular follow-up exams with the cancer care team. The doctors will continue to watch for signs of disease, as well as for short-term and long-term side effects of treatment. Doctor visits will be more frequent at first, but the time between visits may get longer as time goes on.
+Checkups after treatment of RMS include careful physical exams, lab tests, and sometimes imaging tests such as computed tomography (CT), magnetic resonance imaging (MRI), or positron emission tomography (PET) scans. If the RMS comes back (recurs), it is usually within the first few years after treatment. As time goes by, the risk of recurrence goes down, although doctor visits are still important because some side effects of treatment might not show up until years later (see below).
+If the tumor comes back, or if it does not respond to treatment, your doctors will discuss with you the various treatment options available.
+Ask the cancer care team for a survivorship care plan
+Talk with the treatment team about developing a survivorship care plan. This plan might include: 
+
+A summary of the diagnosis, tests done, and treatment given
+A suggested schedule for follow-up exams and tests
+A schedule for other tests that might be needed in the future, such as early detection (screening) tests for other types of cancer, or tests to look for long-term health effects from the cancer or its treatment
+A list of possible late- or long-term side effects from treatment, including what to watch for and when to contact the doctor
+
+Keeping health insurance and copies of medical records
+As much as you might want to put the experience behind you once treatment is completed, it’s also very important to keep good records of your (child’s) medical care during this time. Gathering these details soon after treatment may be easier than trying to get them at some point in the future. This can be very helpful later on if you (or your child) change doctors. Learn more about this in Keeping Copies of Important Medical Records.
+It’s also very important to keep health insurance coverage. Tests and doctor visits can cost a lot, and even though no one wants to think of the tumor coming back, this could happen.
+Possible late and long-term effects of treatment
+Treatment for RMS might affect a person’s health later in life. Young people in particular are at risk for possible late effects of their treatment. This risk depends on many factors, such as the size and location of the cancer, the treatments received, doses of cancer treatment, and the person’s age when treated.
+The long-term effects of surgery depend a great deal on the location and extent of the tumor(s). Some operations leave just a scar, while more extensive operations can lead to changes in appearance or in how some parts of the body function, which might require physical rehabilitation afterward.
+Some chemotherapy drugs can damage cells in the ovaries or testicles, which might affect a patient’s ability to have children later on. For parents, it’s important to discuss this with your child’s health care team before treatment. In some cases there may be ways to help preserve fertility. For more information, see Preserving Fertility in Children and Teens With Cancer.
+The long-term side effects of radiation therapy can sometimes be serious, especially for young children. Bones and soft tissues that get radiation might not grow as well. Depending on the area getting radiation, this might cause problems such as curving of the spine, a shortened arm or leg, limited motion of a joint, hardening of the surrounding soft tissue, or poor development of the facial bones. Other problems linked to radiation can include stiffening of the lungs, cataracts and poor vision in an involved eye, and later problems with sexual function. Young children’s brains are especially sensitive to radiation to the head, which can lead to learning problems or other issues, so doctors do their best to avoid this when possible.
+Children who get chemotherapy and/or radiation therapy also have a small but increased risk of second cancers later in life. These include bone cancer, leukemia, or other soft tissue tumors. The bone cancers seem to be linked with radiotherapy, while the leukemias are more often seen after treatment with cyclophosphamide and related chemo drugs. These second cancers affect only a small number of RMS survivors, and these are children who most likely would not have survived without these treatments.
+There may be other possible complications from treatment as well. Your child’s doctor should carefully review any possible problems with you before your child starts treatment.
+Long-term follow-up care for children and teens
+To help increase awareness of late effects and improve follow-up care of childhood cancer survivors throughout their lives, the Children’s Oncology Group (COG) has developed long-term follow-up guidelines for survivors of childhood cancers. These guidelines can help you know what to watch for, what screening tests should be done to look for problems, and how late effects can be treated.
+It’s very important to discuss possible long-term complications with your child’s health care team, and to make sure there is a plan in place to watch for these problems and treat them, if needed. To learn more, ask your child’s doctors about the COG survivor guidelines. You can also read them on the COG website: www.survivorshipguidelines.org. The guidelines are written for health care professionals. Patient versions of some of the guidelines are available (as “Health Links”) on the site as well, but we urge you to discuss them with your doctor.
+For more about some of the possible long-term effects of treatment, see Late Effects of Childhood Cancer Treatment.
+Social and emotional issues
+Most often, RMS develops during the childhood or teenage years, a very sensitive time in a person’s life. RMS and its treatment can have a profound effect on how a person looks and how they view themselves and their body. It can also affect how they do some everyday tasks, including certain school, work, or recreational activities. These effects are often greatest during the first year of treatment, but they can be long-lasting in some people. It’s important that the treating center assess the family situation as soon as possible, so that any areas of concern can be addressed.
+These types of issues can often be addressed with support and encouragement. Doctors and other members of the health care team can also often recommend special support programs and services to help children and teens after cancer treatment.
+No one chooses to have RMS, but for many people, the experience can eventually be positive, helping to establish strong self-values. Other people may have a harder time recovering, adjusting to life after cancer, and moving on. It is normal to have some anxiety or other emotional reactions after treatment, but feeling overly worried, depressed, or angry can affect many parts of a young person’s growth. It can get in the way of relationships, school, work, and other aspects of life.
+With support from family, friends, other survivors, mental health professionals, and others, many people who have survived cancer can thrive in spite of the challenges they’ve had to face. If needed, doctors and other members of the health care team can often recommend special support programs and services to help after cancer treatment.
+Although RMS and its treatment can have social and emotional effects on children and teens (and their families), adults with this disease face many of the same challenges, and are also encouraged to take advantage of the cancer center’s physical therapy, occupational therapy, and counseling services.What is rhabdomyosarcoma (RMS)?
+Cancer starts when cells in the body begin to grow out of control. Cells in nearly any part of the body can become cancer. 
+Rhabdomyosarcoma (RMS) is a cancer that starts in very early forms of muscle cells. Most often, RMS happens in children, but teens and adults can get it, too. 
+There are different types of RMS. Your doctor can tell you more about the type you or your child has.
+RMS can start just about anywhere in the body. But the most common places are:
+
+The head and neck area (such as near the eye, inside the nose or throat, or near the spine in the neck)
+The bladder, prostate gland, or female organs
+The arms and legs
+Inside the chest or belly
+
+Sometimes cancer cells from RMS can spread to other parts of the body, such as the lungs. When cancer cells do this, it’s called metastasis.
+Even if RMS spreads to the lungs (or to any other place), it’s still called RMS. It’s not called lung cancer unless it starts from cells in the lung.
+Questions to ask the doctor
+
+Why do you think this is RMS?
+Is there a chance it’s not RMS?
+What type of RMS is it? What does this mean?
+Would you please write down the exact type of cancer you think I (or my child) might have?
+What will happen next?
+
+How does the doctor know I have (or my child has) RMS?
+RMS can start in almost any part of the body, so each person might have different symptoms. One of the most common symptoms is a lump or swelling where the tumor is, which might be painful and get worse over time. Tumors in the head might cause vision problems or headaches. Tumors in lower parts of the body might cause bleeding, belly pain, or vomiting.
+If you or your child has symptoms that could be from RMS (or another type of tumor), the doctor will want to get a complete medical history to find out more about the symptoms, and will do a physical exam. Tests might be needed as well. 
+Tests that may be done
+CT scan: This test uses x-rays to make detailed pictures of a person's insides. It can often show soft tumors, such as RMS. It can also show if cancer has spread to other parts of the body.
+MRI scan: MRIs use radio waves and strong magnets instead of x-rays to make detailed pictures. MRIs make it easier to see the extent of the tumor. This can help the doctor plan for a biopsy (see below) and surgery.
+Bone scan: A bone scan can help show if a cancer has spread to the bones. This test is useful because it can show all of the bones in the body at once.
+PET scan: PET scans use a special kind of sugar that can be seen inside the body with a special camera. If there is cancer, this sugar shows up as “hot spots” where the cancer is found. This test can help show if something that’s seen on another test is cancer.
+Ultrasound: This test uses sound waves and their echoes to make pictures of your insides. It is sometimes used to look at tumors in the belly.
+X-rays: X-rays are good at showing bones, but they’re not as good for seeing other parts of the body. An x-ray is often the first test done if a doctor thinks a tumor might be in a bone, but it’s not as helpful for other types of tumors.
+Biopsy of the tumor: In a biopsy, the doctor takes out small pieces of the suspected tumor. This is most often done during surgery, but it can also be done with a thin, hollow needle. The biopsy samples are checked for cancer cells, and other lab tests might be done on them as well. A biopsy is the only way to tell for sure if it is RMS.
+Bone marrow biopsy: If RMS is found, a bone marrow biopsy is often done to see if the cancer has spread to the bone marrow (the soft, inner part of certain bones). This test is done with a hollow needle that is put into the bone marrow, usually in the hip bone. The test can be done either by itself or during surgery to biopsy or treat the main RMS tumor.
+Questions to ask the doctor
+
+What tests will need to be done?
+Who will do these tests?
+Where will they be done?
+Who can explain them to us?
+How and when will we get the results?
+Who will explain the results to us?
+What do we need to do next?
+
+How serious is the cancer?
+If you or your child has RMS, the doctor will want to find out some key pieces of information to help decide how to treat it. These include:
+
+The stage of the cancer, which is based on where it started and if it has grown into nearby areas or spread to other parts of the body
+The clinical group, which is based on the extent of the cancer and if it is removed completely during surgery
+The patient’s age
+If the RMS cells have certain gene changes 
+
+Once these things are known, they’re used to put each patient into a risk group (low, intermediate, or high), which is then used to guide treatment. The higher the risk, the more intense the treatment will likely need to be. 
+We know this can be confusing. If you have any questions about the stages or risk groups, ask the doctor or nurse to explain it to you.
+Questions to ask the doctor
+
+Do you know the stage and risk group of the cancer?
+If not, how and when will you find out?
+Would you explain to me what the stage and risk group mean?
+How might these affect treatment?
+What will happen next?
+
+What kind of treatment will I (or my child) need?
+The main treatments for RMS are:
+
+Surgery
+Chemotherapy (chemo)
+Radiation treatment
+High-dose chemo and stem cell transplant (rarely)
+
+The treatment plan will depend on:
+
+The risk group of the cancer
+The chance that a type of treatment will cure the cancer or help in some way
+A person’s age and overall health
+Concerns about treatment side effects
+
+Surgery
+Surgery includes both the biopsy to tell for sure that it’s cancer and the surgery to take out the tumor(s). 
+Surgery to remove the tumor is part of treatment for nearly all patients with RMS if it can be done safely. If not, other treatments (like chemo and/or radiation) might be done first. If the tumor shrinks enough, surgery can be done at this point. 
+The type of surgery done (and the type of surgeon who does it) depends on where the tumor is. Ask the doctor what kind of surgery will be needed and what to expect.
+Side effects of surgery
+Any type of surgery can have risks and side effects. Be sure to ask the doctor what to expect. If you have problems, let your doctors know.
+Chemotherapy (chemo)
+Chemo is the use of drugs to fight cancer. These drugs go into the blood and spread all over the body. Chemo is important for all patients with RMS. If it’s not given, the cancer is much more likely to come back.
+To treat RMS, 2 or more chemo drugs are given. Chemo is typically given once a week for the first few months, and then less often. The total length of chemo often ranges from 6 months to a year. 
+Side effects of chemo
+Chemo can make a person feel very tired, sick to their stomach, and can cause their hair to fall out. It can also cause mouth sores, loose stools, and a higher chance of infection, bleeding, and bruising. Some chemo drugs can also harm the nerves, bladder, or heart.
+There are ways to lessen and treat most chemo side effects. Be sure to tell the cancer care team about any side effects so they can help.
+Radiation treatments
+Radiation uses high-energy rays (like x-rays) to kill cancer cells. It can be used after surgery to try to kill any cancer cells that might have been left behind. Or it might be used instead of surgery if all of the cancer can’t be removed. Radiation can also help treat symptoms like pain and swelling if the cancer has come back and more surgery can’t be done.
+Getting radiation is a lot like getting an x-ray. Although the radiation is stronger, it is still painless. Treatments are usually given 5 days a week for several weeks.
+Side effects of radiation treatments
+If the doctor suggests radiation treatment, ask about what side effects might happen. Side effects depend on the type of radiation that’s used and the part of the body being treated. Common side effects of radiation are:
+
+Skin changes and hair loss where the radiation is given
+Feeling very tired
+Feeling sick to your stomach or having loose stools if the radiation is aimed at the belly area
+
+Radiation also can cause some long-term side effects in growing children, such as slowed bone growth. Talk to the cancer care team about what to expect.
+Stem cell transplant
+A stem cell transplant (SCT) lets doctors use very high doses of chemo to kill the RMS cells. The high doses of these drugs destroy the bone marrow, which keeps new blood cells from being made. But stem cells given after the chemo can bring back the blood-making bone marrow stem cells. 
+This type of treatment is being studied for RMS that is hard to cure with other treatments. But it can cause serious side effects, and so far it's not clear if it’s better than other treatments. Because of this, many doctors advise that a stem cell transplant be done only as part of a clinical trial.
+Clinical trials
+Clinical trials are research studies that test new drugs or other treatments in people. They compare standard treatments with others that may be better.
+Clinical trials are one way to get the newest cancer treatment. They are the best way for doctors to find better ways to treat cancer. But they might not be right for everyone. If you do sign up for a clinical trial, you can always stop at any time.
+If you would like to learn more about clinical trials, start by asking your doctor if your clinic or hospital conducts clinical trials. See Clinical Trials to learn more.
+What about other treatments that I hear about?
+You might hear about other ways to treat the cancer or its symptoms. These may not always be standard medical treatments. These treatments may be vitamins, herbs, special diets, and other things. 
+Some of these might help, but many have not been tested. Some have been shown not to help. A few have even been found to be harmful. Talk to your doctor about anything you’re thinking about using, whether it’s a vitamin, a special diet, or anything else.
+Questions to ask the doctor
+
+Do we need to do other tests before we can decide on treatment?
+Will any other doctors be on the treatment team? What do they do?
+What treatment do you think is best?
+What’s the goal of this treatment? Do you think it could cure the cancer?
+Will treatment include surgery? If so, who will do the surgery?
+What will the surgery be like?
+Is the surgery likely to have any long-term effects?
+Will other types of treatment (like chemo or radiation) be needed, too?
+What’s the goal of these treatments?
+What might the side effects be from these treatments?
+Can anything be done about these side effects?
+Are there any clinical trials we should look into?
+What about special vitamins or diets that friends tell us about? How will we know if they are safe?
+How soon do we need to start treatment?
+What should be done to get ready for treatment?
+Is there anything we can do to help the treatment work better?
+What’s the next step?
+
+What will happen after treatment?
+You’ll be glad when treatment is over. But it can be hard not to worry about cancer coming back. Even when cancer never comes back, people still worry about it. For many years after treatment ends, it’s still important to see the cancer doctor. Be sure to go to all of these follow-up visits. Exams and maybe other tests will be done to see if the cancer has come back and to check for late effects from cancer treatments.
+At first, these visits may be every month or so. Then, as long as no cancer is found, the visits are needed less often.

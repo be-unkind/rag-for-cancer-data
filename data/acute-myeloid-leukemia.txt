@@ -1,0 +1,902 @@
+Cancer starts when cells in a part of the body begin to grow out of control. There are many kinds of cancer. Cells in nearly any part of the body can become cancer. To learn more about cancer and how it starts and grows, see What Is Cancer?
+Leukemias are cancers that start in cells that would normally develop into different types of blood cells. Most often, leukemia starts in early forms of white blood cells, but some leukemias start in other blood cell types. There are several types of leukemia, which are divided based mainly on whether the leukemia is acute (fast growing) or chronic (slower growing), and whether it starts in myeloid cells or lymphoid cells.
+Acute myeloid leukemia (AML) starts in the bone marrow (the soft inner part of certain bones, where new blood cells are made), but most often it quickly moves into the blood, as well. It can sometimes spread to other parts of the body including the lymph nodes, liver, spleen, central nervous system (brain and spinal cord), and testicles.
+
+Most often, AML develops from cells that would turn into white blood cells (other than lymphocytes), but sometimes AML develops in other types of blood-forming cells. The different types of AML are discussed in Acute Myeloid Leukemia (AML) Subtypes and Prognostic Factors.
+Acute myeloid leukemia (AML) has many other names, including acute myelocytic leukemia, acute myelogenous leukemia, acute granulocytic leukemia, and acute non-lymphocytic leukemia.
+
+Normal bone marrow, blood, and lymph tissue
+To understand leukemia, it helps to know about the blood and lymph systems.
+Bone marrow
+Bone marrow is the soft inner part of certain bones. It is made up of blood-forming cells, fat cells, and supporting tissues. A small fraction of the blood-forming cells are blood stem cells.
+Inside the bone marrow, blood stem cells develop into new blood cells. During this process, the cells become either lymphocytes (a kind of white blood cell) or other blood-forming cells, which are types of myeloid cells. Myeloid cells can develop into red blood cells, white blood cells (other than lymphocytes), or platelets. These myeloid cells are the ones that are abnormal in AML.
+Types of blood cells
+There are 3 main types of blood cells:
+
+Red blood cells (RBCs) carry oxygen from the lungs to all other tissues in the body, and take carbon dioxide back to the lungs to be removed.
+Platelets are actually cell fragments made by a type of bone marrow cell called the megakaryocyte. Platelets are important in stopping bleeding. They help plug up holes in blood vessels caused by cuts or bruises.
+White blood cells (WBCs) help the body fight infections.
+
+There are different types of WBCs:
+
+Granulocytes are mature WBCs that develop from myeloblasts, a type of blood-forming cell in the bone marrow. Granulocytes have granules that show up as spots under the microscope. These granules contain enzymes and other substances that can destroy germs, such as bacteria. The 3 types of granulocytes – neutrophils, basophils, and eosinophils – are distinguished by the size and color of their granules.
+Monocytes are WBCs that develop from blood-forming monoblasts in the bone marrow. After circulating in the bloodstream for about a day, monocytes enter body tissues to become macrophages, which can destroy some germs by surrounding and digesting them. Macrophages also help lymphocytes recognize germs and make antibodies to fight them.
+Lymphocytes are mature WBCs that develop from lymphoblasts in the bone marrow. Lymphocytes are the main cells that make up lymph tissue, a major part of the immune system. Lymph tissue is found in lymph nodes, the thymus (a small organ behind the breast bone), the spleen, the tonsils and adenoids, and is scattered throughout the digestive and respiratory systems and the bone marrow. The 2 main types of lymphocytes are B cell and T cells.The American Cancer Society’s estimates for leukemia in the United States for 2024 are:
+
+About 62,770 new cases of leukemia (all kinds) and 23,670 deaths from leukemia (all kinds)
+About 20,800 new cases of acute myeloid leukemia (AML). Most will be in adults.
+About 11,220 deaths from AML. Almost all will be in adults.
+
+AML is one of the most common types of leukemia in adults. Still, AML is fairly rare overall, accounting for only about 1% of all cancers.
+AML is generally a disease of older people and is uncommon before the age of 45. The average age of people when they are first diagnosed with AML is about 68. But AML can occur in children as well.
+AML is slightly more common among men than women, but the average lifetime risk of getting AML for both sexes is about ½ of 1%.
+Information on treatment success rates for AML in adults can be found in Treatment Response Rates for Acute Myeloid Leukemia.
+Visit the American Cancer Society’s Cancer Statistics Center for more key statistics.Researchers continue to study the causes, diagnosis, and treatment of acute myeloid leukemia (AML) at many medical centers, university hospitals, and other institutions around the world.
+Genetics of AML
+There continues to be progress in understanding how normal bone marrow cells can develop into leukemia cells. It has become clear that there are many types of AML. Each type of AML might have different DNA (gene) changes that affect how it will progress and which treatments might be most helpful. Researchers continue to study how DNA changes specific to different AML types can help us understand how to best treat each person’s AML.
+Detecting minimal residual disease
+In recent years, highly sensitive tests have been developed to detect even the smallest amount of leukemia left after treatment (known as minimal residual disease, or MRD), even when there are so few leukemia cells left that they can’t be found by routine bone marrow tests.
+Multiparameter flow-cytometry (MFC), quantitative polymerase chain reaction (qPCR), and next-generation sequencing (NGS) are tests that can be used to identify even very small numbers of AML cells in a sample. These tests are useful in determining how completely the treatment has destroyed the AML cells.
+Studies are continuing on which test to use and how to best use the information from these tests. The presence of minimal residual disease affects a patient’s outlook, as well as if the patient will need further or more intensive treatment.
+Improving treatment
+Treatment for AML can be very effective for some people, but it doesn't cure everyone, and it can often cause serious or even life-threatening side effects. Studies are looking for more effective and safer treatments for AML. Questions remain on how to sequence and combine drugs approved to treat AML to best fight the disease.
+Chemotherapy
+Chemotherapy (chemo) is still the main treatment for most types of AML.
+R﻿esearchers are looking for the most effective combination of chemo drugs that will also limit unwanted side effects. This is especially important for older patients who might not be able to tolerate the side effects of currently approved treatments for AML.
+The effectiveness of chemo may be limited in some cases because the leukemia cells become resistant to it over time. Researchers are now looking at ways to prevent or reverse this resistance by using other drugs along with chemo. They are also looking at combining chemo with newer types of drugs to see if this might work better.
+Stem cell transplants
+Researchers continue to refine stem cell transplants to try to increase their effectiveness, reduce complications, and determine which patients are likely to be helped by this treatment. Many studies are trying to determine exactly when autologous, allogeneic, and mini-transplants might best be used.
+Targeted therapy drugs
+Chemo drugs can help many people with AML, but these drugs don’t always cure the disease. Newer targeted drugs that specifically attack some of the gene changes seen in AML cells have become an important part of treatment for some people. These drugs don't work the same way as standard chemotherapy drugs. Some examples include:
+FLT3 inhibitors. In some people with AML, the leukemia cells have a change (mutation) in the FLT3 gene. Drugs called FLT3 inhibitors target AML cells with this gene change. F﻿LT3 inhibitors such as midostaurin (Rydapt), quizartinib (Vanflyta),  and gilteritinib (Xospata) are now approved to treat people whose AML cells have an FLT3 mutation. Several other FLT3 inhibitors are now being studied as well..
+IDH inhibitors. In some people with AML, the leukemia cells have a mutation in the IDH1 or IDH2 gene, which stops the cells from maturing properly. IDH inhibitors can help the leukemia cells mature into normal blood cells. Some of these drugs, such as enasidenib (Idhifa), olutasidenib (Rezlidhia), and ivosidenib (Tibsovo), are now approved to treat AML with certain IDH gene mutations. Several other IDH inhibitors are now being studied as well.
+BCL-2 inhibitors. Some people with AML have leukemia cells that make too much of a protein called BCL-2. Leukemia cells that overexpress BCL-2 tend to be harder to kill with chemo drugs. BCL-2 inhibitors prevent the BCL-2 protein from working in cancer cells. Venetoclax (Venclexta) is a BCL-2 inhibitor that has been approved to treat AML with BCL-2 overexpression. Several other BCL-2 inhibitors are being studied as well. 
+Immunotherapy drugs
+Immunotherapy works to boost the body’s immune system to help fight off or destroy cancer cells.
+Bispecific antibodies. A bispecific antibody consists of two antibodies that each attach to a different target, so that two cells can be brought close together. One antibody is usually designed to attach to a target on the leukemia cell, while the other is designed to attach to a target on an immune cell (for example, T cells). When the bispecific antibody brings the cancer cell and immune cell together, your immune system is alerted and starts to fight the cancer cell. Several bispecific antibodies are now being studied for use against AML.
+Antibody-drug conjugates (ADC).﻿ An ADC is a drug that consist of two parts: an antibody designed to attach to a surface protein on cancer cells and a toxin meant to kill the cancer cells. When ADCs are injected into the body, they act like a homing device, bringing the drug directly to the cancer cells, which kills them. ADCs are already used to treat some types of cancer, and some ADCs are now being studied for use against AML.
+Immune checkpoint inhibitors. An important part of the immune system is its ability to keep itself from attacking other normal cells in the body. To do this, it uses “checkpoint” proteins on immune cells that need to be turned on (or off) to start an immune response. Cancer cells sometimes use these checkpoints to avoid being attacked by the immune system. Drugs called immune checkpoint inhibitors (ICIs) target these checkpoints and are already used in many other cancers. They continue to be studied for use in AML, especially if combined with chemo or targeted therapy drugs.
+Chimeric antigen receptor (CAR) T-cell therapy. For this therapy, immune cells called T cells are removed from the person’s blood and altered in the lab so they have specific substances (called chimeric antigen receptors, or CARs) that will help them attach to leukemia cells. The T cells are then grown in the lab and infused back into the person’s blood, where they can now seek out the leukemia cells and attack them.
+This therapy has been shown to work in other types of blood cancers. However, it’s not yet clear if it will work against AML. Researchers are continuing to study how this therapy can be used to treat AML.A risk factor is something that affects your chance of getting a disease, such as cancer. Different cancers have different risk factors. Some risk factors, like smoking, can be changed. Others, like a person’s age or family history, can’t be changed.
+But having a risk factor, or even several risk factors, does not always mean that a person will get the disease, and many people get cancer without having any known risk factors.
+There are some known risk factors for acute myeloid leukemia (AML).
+Getting older
+AML can occur at any age, but it becomes more common as people get older.
+Being male
+In general, l﻿eukemia is more common in men than women, including AML. The reason for this is not clear.
+Smoking
+The only proven lifestyle-related risk factor for AML is smoking. Many people know that smoking is linked to cancers of the lungs, mouth, and throat, but few realize that it can also affect cells that don’t come into direct contact with tobacco smoke. Cancer-causing substances in tobacco smoke are absorbed by the lungs and spread through the bloodstream to many parts of the body.
+Being exposed to certain chemicals
+The risk of AML is increased if you have been exposed to certain chemicals.
+For example, long-term exposure to benzene is a risk factor for AML. Benzene is a solvent used in the rubber industry, oil refineries, chemical plants, shoe manufacturing, and gasoline-related industries, and is also found in cigarette smoke, gasoline and motor vehicle exhaust, and some glues, cleaning products, detergents, art supplies, and paints.
+Some studies have linked AML risk to heavy workplace exposure to formaldehyde, but this link has not been seen in some other studies.
+Being treated with certain chemotherapy drugs
+Patients with cancer who are treated with certain chemotherapy (chemo) drugs are more likely to develop AML in the years following treatment.
+Drugs called alkylating agents are linked to an increased risk of AML. Often a patient will get a disease called a myelodysplastic syndrome before the AML. Examples of alkylating drugs include cyclophosphamide, mechlorethamine, procarbazine, chlorambucil, melphalan, busulfan, carmustine, cisplatin, and carboplatin.
+Chemo drugs known as topoisomerase II inhibitors are also linked to AML. AML linked to these drugs tends to occur without myelodysplastic syndrome developing first. Examples of topoisomerase II inhibitors include etoposide, teniposide, mitoxantrone, epirubicin, and doxorubicin.
+Being exposed to radiation
+High-dose radiation exposure (such as being a survivor of an atomic bomb blast or nuclear reactor accident) increases the risk of developing AML. Japanese atomic bomb survivors had a greatly increased risk of developing acute leukemia.
+Radiation treatment for cancer has also been linked to an increased risk of AML. The risk varies based on the amount of radiation given and what area is treated.
+The possible risks of leukemia from exposure to lower levels of radiation, such as from imaging tests like x-rays or CT scans, are not well-defined. Exposure to such radiation, especially very early in life, might carry an increased risk of leukemia, but how much of a risk is not clear. If there is an increased risk it is likely to be small, but to be safe, most doctors try to limit radiation exposure from tests as much as possible, especially in children and pregnant women.
+For more information, see X-rays, Gamma Rays and Cancer Risk.
+Having certain blood disorders
+People with certain blood disorders seem to be at increased risk for getting AML. These include chronic myeloproliferative disorders such as polycythemia vera, essential thrombocythemia, and idiopathic myelofibrosis. The risk of AML increases if these disorders are treated with some types of chemotherapy or radiation.
+Some people who have a myelodysplastic syndrome (MDS) may develop AML. Patients with MDS have low blood cell counts and abnormal cells in the blood and bone marrow. MDS can evolve over time into AML. AML that develops after MDS is often hard to treat.
+Having a genetic syndrome
+Some syndromes that are caused by genetic mutations (abnormal changes) present at birth seem to raise the risk of AML. These include:
+
+Fanconi anemia
+Bloom syndrome
+Ataxia-telangiectasia
+Diamond-Blackfan anemia
+Shwachman-Diamond syndrome
+Li-Fraumeni syndrome
+Neurofibromatosis type 1
+Severe congenital neutropenia (also called Kostmann syndrome)
+
+Chromosomes are long strands of DNA (genes) inside our cells. Some chromosome problems present at birth are also linked to a higher risk of AML, including:
+
+Down syndrome (being born with an extra copy of chromosome 21)
+Trisomy 8 (being born with an extra copy of chromosome 8)
+
+Having a family history
+Although most cases of AML are not thought to have a strong genetic link, having a close relative (such as a parent, brother, or sister) with AML increases your risk of getting the disease.
+Someone who has an identical twin who got AML before they were a year old has a very high risk of also getting AML.
+Uncertain, unproven or controversial risk factors
+Other factors that have been studied for a possible link to AML include:
+
+Exposure to electromagnetic fields (such as living near power lines)
+Workplace exposure to diesel, gasoline, and certain other chemicals and solvents
+Exposure to herbicides or pesticides
+
+So far, none of these factors has been linked conclusively to AML. Research is being done in these areas.Some people with acute myeloid leukemia (AML) have one or more known risk factors, but many do not. Even when a person has one or more risk factors, it's very hard to know if it actually caused the cancer.
+Certain changes in the DNA in normal bone marrow cells can cause them to become leukemia cells. The DNA inside our cells makes up our genes, which control how our cells function. We tend to look like our parents because they are the source of our DNA. But our genes affect more than how we look.
+Some genes control when our cells grow, divide to make new cells, and die at the right time:
+
+Genes that help cells grow, divide, or stay alive are called oncogenes.
+Genes that help keep cell division under control or make cells die at the right time are called tumor suppressor genes.
+
+The DNA inside each cell is in long strands called chromosomes. Each time a cell divides into 2 new cells, it must make a new copy of its chromosomes. This process isn't perfect, and errors can occur that affect genes within the chromosomes. Cancers (including AML) can be caused by mutations (changes) that turn on oncogenes or turn off tumor suppressor genes. For instance, changes in certain genes such as FLT3, c-KIT, and RAS are common in AML cells. These types of changes can stop bone marrow cells from maturing the way they normally would, or help the cells grow out of control.
+Mutations in many different genes can be found in AML, but larger changes in one or more chromosomes are also common. Even though these changes involve larger pieces of DNA, their effects are still likely to be due to changes in just one or a few genes that are on that part of the chromosome. Several types of chromosome changes may be found in AML cells:
+
+Translocations are the most common type of chromosome change. A translocation means that a part of one chromosome breaks off and becomes attached to a different chromosome. The point at which the break occurs can affect nearby genes – for example, it can turn on oncogenes or turn off genes like RUNX1 and RARa, which would normally help blood cells to mature.
+Deletions occur when part of a chromosome is lost. This can result in the cell losing a gene that helped keep its growth in check (a tumor suppressor gene).
+Inversions occur when part of a chromosome gets turned around, so it’s now in reverse order. This can result in the loss of a gene (or genes) because the cell can no longer read its instructions (much like trying to read a book backward).
+Addition or duplication means that there is an extra chromosome or part of a chromosome. This can lead to too many copies of certain genes within the cell. This can be a problem if one or more of these genes are oncogenes.
+
+There are many types of AML, and different cases of AML can have different gene and chromosome changes, some of which are more common than others. Doctors are trying to figure out why these changes occur and how each of them might lead to leukemia. For example, some are more common in leukemia that occurs after chemotherapy for another cancer.
+Some changes seem to have more of an effect on a person’s prognosis (outlook) than others. For instance, some changes might affect how quickly the leukemia cells grow, or how likely they are to respond to treatment. This is discussed in more detail in Acute Myeloid Leukemia (AML) Subtypes and Prognostic Factors.
+Inherited versus acquired gene changes
+Some people with certain types of cancer have inherited DNA mutations from a parent that increase their risk for the disease. Although this can happen sometimes with AML, such as with the genetic syndromes discussed in Risk Factors for Acute Myeloid Leukemia (AML), inherited mutations are not a common cause of AML.
+Most DNA changes related to AML occur during a person’s lifetime, rather than having been inherited before birth. Some of these acquired changes may have outside causes like radiation or cancer-causing chemicals, but in most cases the reason they occur isn't clear. Many of these gene changes are probably just random events that sometimes happen inside a cell, without having an outside cause. They seem to happen more often as we age, which might help explain why AML usually occurs in older people.It’s not clear what causes most cases of acute myeloid leukemia (AML). Since most people with AML don’t have risk factors that can be changed, at the present time there is no known way to prevent most cases of AML.
+Smoking is by far the most significant controllable risk factor for AML, and quitting offers the greatest chance to reduce a person’s risk of AML. People who don't smoke are also much less likely to develop many other cancers, as well as heart disease, stroke, and some other diseases than people who do.
+Treating some other cancers with chemotherapy or radiation may cause secondary (treatment-related) leukemias in some people. Doctors are trying to figure out how to treat these cancers without raising the risk of secondary leukemia. But for now, the obvious benefits of treating life-threatening cancers with chemotherapy and radiation must be balanced against the small chance of getting leukemia years later.
+Avoiding known cancer-causing chemicals, such as benzene, might lower the risk of getting AML. But most experts agree that exposure to workplace and environmental chemicals seems to account for only a small portion of leukemias.For many types of cancer, finding the cancer early might make it easier to treat. The American Cancer Society recommends screening tests for early detection of certain cancers in people without any symptoms.
+But at this time, no screening tests have been shown to be helpful in finding acute myeloid leukemia (AML) early. AML often develops (and causes symptoms) fairly quickly, so the best way to find AML early is to report any possible symptoms of AML to the doctor right away.
+People at increased risk of AML
+Some people are known to be at increased risk of AML because they have certain blood disorders (such as a myelodysplastic syndrome) or inherited disorders (such as Down syndrome), or because they were treated with certain chemotherapy drugs or radiation. Most doctors recommend that these people get careful, regular medical checkups. These people don’t usually develop leukemia, but they and their doctors should be familiar with the possible symptoms of AML.Acute myeloid leukemia (AML) can cause many different signs and symptoms.Some are more common with certain subtypes of AML. Overall, the signs and symptoms of leukemia can affect men or women and do not differ by sex or gender.
+General symptoms
+People with AML often have several non-specific (general) symptoms. These can include:
+
+Weight loss
+Fatigue
+Fever
+Night sweats
+Loss of appetite
+
+These are not just symptoms of AML. More often they are caused by something other than leukemia.
+Symptoms caused by low numbers of blood cells
+Many signs and symptoms of AML are the result of a shortage of normal blood cells, which happens when the leukemia cells crowd out the normal blood-making cells in the bone marrow. As a result, people don't have enough normal red blood cells, white blood cells, and blood platelets. These shortages show up on blood tests, and they can also cause symptoms.
+Symptoms from low red blood cell counts (anemia)
+Red blood cells carry oxygen to all of the cells in the body. A shortage of red blood cells can cause:
+
+Tiredness (fatigue)
+Weakness
+Feeling cold
+Feeling dizzy or lightheaded
+Headaches
+Pale skin
+Shortness of breath
+
+Symptoms from low white blood cell counts
+Infections can occur because of a shortage of normal white blood cells (leukopenia), specifically a shortage of infection-fighting white blood cells called neutrophils (a condition called neutropenia). People with AML can get infections that don’t seem to go away or may get one infection after another. Fever often goes along with the infection.
+Although people with AML can have high white blood cell counts due to excess numbers of leukemia cells, these cells don’t protect against infection the way normal white blood cells do.
+Symptoms from low blood platelet counts
+Platelets normally help stop bleeding. A shortage of blood platelets (called thrombocytopenia) can lead to:
+
+Bruises (or small red or purple spots) on the skin
+Excess bleeding
+Frequent or severe nosebleeds
+Bleeding gums
+Heavy periods (menstrual bleeding) in women
+
+Symptoms caused by high numbers of leukemia cells
+The cancer cells in AML (called blasts) are bigger than normal white blood cells and have more trouble going through tiny blood vessels. If the blast count gets very high, these cells can clog up blood vessels and make it hard for normal red blood cells (and oxygen) to get to tissues. This is called leukostasis. Leukostasis is rare, but it is a medical emergency that needs to be treated right away. Some of the symptoms are like those seen with a stroke, and include:
+
+Headache
+Weakness in one side of the body
+Slurred speech
+Confusion
+Sleepiness
+
+When blood vessels in the lungs are affected, people can have shortness of breath. Blood vessels in the eye can be affected as well, leading to blurry vision or even loss of vision.
+Bleeding and clotting problems
+Patients with a certain type of AML called acute promyelocytic leukemia (APL) might have problems with bleeding and blood clotting. They might have a nosebleed that won’t stop, or a cut that won’t stop oozing. They might also have calf swelling from a blood clot called a deep vein thrombosis (DVT) or chest pain and shortness of breath from a blood clot in the lung (called a pulmonary embolism or PE).
+Bone or joint pain
+Some people with AML have bone pain or joint pain caused by the buildup of leukemia cells in these areas.
+Swelling in the abdomen
+Leukemia cells may build up in the liver and spleen, making them larger. This may be noticed as a fullness or swelling of the belly. The lower ribs usually cover these organs, but when they are enlarged the doctor can feel them.
+Symptoms caused by leukemia spread
+Spread to the skin
+If leukemia cells spread to the skin, they can cause lumps or spots that may look like common rashes. A tumor-like collection of AML cells under the skin or other parts of the body is called a chloroma, granulocytic sarcoma, or myeloid sarcoma. Rarely, AML will first appear as a chloroma, with no leukemia cells in the bone marrow.
+Spread to the gums
+Certain types of AML may spread to the gums, causing swelling, pain, and bleeding.
+Spread to other organs
+Less often, leukemia cells can spread to other organs. Spread to the brain and spinal cord can cause symptoms such as:
+
+Headaches
+Weakness
+Seizures
+Vomiting
+Trouble with balance
+Facial numbness
+Blurred vision
+
+On rare occasions AML can spread to the eyes, testicles, kidneys, or other organs.
+Enlarged lymph nodes
+Rarely, AML can spread to lymph nodes (bean-sized collections of immune cells throughout the body), making them bigger. Affected nodes in the neck, groin, underarm areas, or above the collarbone may be felt as lumps under the skin.
+Although any of the symptoms and signs above may be caused by AML, they can also be caused by other conditions. Still, if you have any of these problems, especially if they don't go away or are getting worse, it’s important to see a doctor so the cause can be found and treated, if needed.Certain signs and symptoms might suggest that a person could have acute myeloid leukemia (AML), but tests are needed to confirm the diagnosis.
+Medical history and physical exam
+The doctor will want to get a thorough medical history, focusing on your symptoms and how long you have had them. They might also ask about other health problems, as well as about possible risk factors for leukemia.
+During the physical exam, the doctor will likely pay close attention to your eyes, mouth, skin, lymph nodes, liver, spleen, and nervous system, and will look for areas of bleeding or bruising, or possible signs of infection.
+If there is reason to think there might be problems caused by low levels of blood cells (anemia, infections, bleeding or bruising, etc.), the doctor will most likely order blood tests to check your blood cell counts. You might also be referred to a hematologist, a doctor who specializes in diseases of the blood (including leukemia).
+Types of samples used to test for AML
+If the doctor thinks you might have leukemia, samples of cells from your blood and bone marrow will need to be checked to be sure. Other tissue and cell samples might also be taken to help guide treatment.
+Blood samples
+Blood tests are generally the first tests done to look for leukemia. Blood is taken from a vein in the arm.
+Bone marrow samples
+Leukemia starts in the bone marrow, so checking the bone marrow for leukemia cells is a key part of testing for it. Bone marrow samples are obtained from 2 tests that are usually done at the same time:
+
+Bone marrow aspiration
+Bone marrow biopsy
+
+The samples are usually taken from the back of the pelvic (hip) bone, but sometimes other bones are used instead. If only an aspiration is to be done, it may be taken from the sternum (breastbone).
+For a bone marrow aspiration, you lie on a table (either on your side or on your belly). The doctor will clean the skin over the hip and then numb the area and the surface of the bone by injecting a local anesthetic. This may cause a brief stinging or burning sensation. A thin, hollow needle is then inserted into the bone, and a syringe is used to suck out a small amount of liquid bone marrow. Even with the anesthetic, most patients still have some brief pain when the marrow is removed.
+A bone marrow biopsy is usually done just after the aspiration. A small piece of bone and marrow is removed with a slightly larger needle that is pushed down into the bone. This may also cause some brief pain. Once the biopsy is done, pressure will be applied to the site to help prevent bleeding.
+These bone marrow tests are used to help diagnose leukemia, but they might also be repeated later to tell if the leukemia is responding to treatment.
+Spinal fluid
+The cerebrospinal fluid (CSF) surrounds the brain and spinal cord. AML can sometimes spread to the area around the brain and spinal cord. To check for this spread, doctors might remove a sample of CSF for testing (a procedure called a lumbar puncture or spinal tap). A lumbar puncture is not often used to test for AML, unless a person is having symptoms that could be caused by leukemia cells that have spread into the brain and spinal cord.
+For this test, you might lie on your side or sit up. The doctor first numbs an area of skin on the lower part of the back over the spine. A small, hollow needle is then inserted between the bones of the spine into the area around the spinal cord to remove some of the fluid.
+A lumbar puncture is also sometimes used to deliver chemotherapy drugs into the CSF to help prevent or treat the spread of leukemia to the spinal cord and brain.
+Lab tests used to diagnose and classify AML
+One or more of the following lab tests may be done on the samples to diagnose AML and/or to determine the specific subtype of AML.
+Complete blood count and peripheral blood smear
+The complete blood count (CBC) is a test that measures the amounts of different cells in the blood, such as the red blood cells, white blood cells, and platelets. The CBC is often done along with a differential (or diff), which looks at the numbers of the different types of white blood cells. For the peripheral blood smear, a sample of blood is looked at under the microscope. Changes in the numbers and the appearance of different types of blood cells often help diagnose leukemia.
+Most patients with AML have too many immature white cells in their blood, and not enough red blood cells or platelets. Many of the white blood cells may be myeloblasts (often just called blasts), which are very early forms of blood-forming cells that are not normally found in the blood. These cells don’t work like normal, mature white blood cells. These findings may suggest leukemia, but the disease usually is not diagnosed without looking at a sample of bone marrow cells.
+Blood chemistry and coagulation tests
+These tests measure the amounts of certain chemicals in the blood and the ability of the blood to clot. These tests are not used to diagnose leukemia, but they can help detect liver or kidney problems, abnormal levels of certain minerals in the blood, or problems with blood clotting.
+Routine cell exams by microscope
+Samples of blood, bone marrow, or CSF are looked at under a microscope by a pathologist (a doctor specializing in lab tests) and may be reviewed by the patient’s hematologist/oncologist (a doctor specializing in cancer and blood diseases).
+The doctors will look at the size, shape, and other traits of the white blood cells in the samples to classify them into specific types.
+A key element is whether the cells look mature (like normal blood cells) or immature (lacking features of normal blood cells). The most immature cells are called myeloblasts (or blasts).
+The percentage of blasts in the bone marrow or blood is particularly important. Having at least 20% blasts in the marrow or blood is generally required for a diagnosis of AML. (In normal bone marrow, the blast count is 5% or less, while the blood usually doesn't contain any blasts.) AML can also be diagnosed if the blasts are found (using another test) to have a chromosome change that occurs only in a specific type of AML, even if the blast percentage doesn’t reach 20%.
+Sometimes just counting and looking at the cells isn’t enough to provide a clear diagnosis. Other lab tests may be used to confirm an AML diagnosis.
+Cytochemistry
+For cytochemistry tests, cells are exposed to chemical stains (dyes) that react with only some types of leukemia cells. These stains cause color changes that can be seen under a microscope, which can help the doctor determine what types of cells are present. For instance, one stain can help distinguish AML cells from acute lymphocytic leukemia (ALL) cells. The stain causes the granules of most AML cells to appear as black spots under the microscope, but it does not cause ALL cells to change colors.
+Flow cytometry and immunohistochemistry
+For both flow cytometry and immunocytochemistry, samples of cells are treated with antibodies, which are proteins that stick only to certain other proteins on cells. For immunocytochemistry, the cells are then looked at under a microscope to see if the antibodies stuck to them (meaning they have these proteins), while for flow cytometry a special machine is used.
+These tests are used for immunophenotyping – classifying leukemia cells according to the substances (antigens) on their surfaces. Leukemia cells can have different antigens depending on which type of cells they start in and how mature they are, and this information can be helpful in AML classification.
+Chromosome tests
+These tests look at the chromosomes (long strands of DNA) inside the cells. Normal human cells contain 23 pairs of chromosomes, each of which are a certain size and stain a certain way. AML cells sometimes have chromosome changes that can be seen under a microscope or found with other tests. Recognizing these changes can help identify certain types of AML and can be important in determining a patient’s outlook.
+Cytogenetics: In this test, the cells are looked at under a microscope to see if the chromosomes have any abnormalities. A drawback of this test is that it usually takes about 2 to 3 weeks because the cells must grow in lab dishes for a couple of weeks before their chromosomes can be viewed.
+The results of cytogenetic testing are written in a shorthand form that describes the chromosome changes:
+
+A translocation means parts of two chromosomes have traded places with each other. For example, if chromosomes 8 and 21 have swapped pieces, it would be written as t(8;21).
+An inversion, written as inv(16), for example, means that part of the chromosome 16 is now in reverse order but is still attached to the chromosome.
+A deletion, written as del(7) or -7, for example, indicates part of chromosome 7 has been lost.
+An addition or duplication, such as +8, for example, means that all or part of chromosome 8 has been duplicated, and too many copies of it are found within the cell.
+
+Not all chromosome changes can be seen under a microscope. Other lab tests can often detect these changes.
+Fluorescent in situ hybridization (FISH): This test looks more closely at cell DNA using special fluorescent dyes that only attach to specific genes or parts of particular chromosomes. FISH can find the chromosome changes (such as translocations) that are visible under a microscope in standard cytogenetic tests, as well as some changes too small to be seen with usual cytogenetic testing.
+FISH can be used to look for changes in specific genes or parts of chromosomes. It can be used on regular blood or bone marrow samples without growing them in a lab first. This means the results are often available more quickly than with regular cytogenetic testing.
+Polymerase chain reaction (PCR): This is a very sensitive test that can also find some gene and chromosome changes too small to be seen under a microscope. It is helpful in finding gene changes that are in only a few cells, making it good for finding small numbers of leukemia cells in a sample (like after treatment).
+Other molecular and genetic tests
+Other types of lab tests can also be done on the samples to look for specific gene or other changes in the leukemia cells. This is sometimes referred to as biomarker testing.
+For example, the AML cells are often tested for changes (mutations) in genes such as FLT3, IDH1, and IDH2. People whose leukemia cells have changes in one of these genes are more likely to be helped by treatment with certain targeted therapy drugs.
+Imaging tests for AML
+Imaging tests use x-rays, sound waves, magnetic fields, or radioactive particles to create pictures of the inside of the body. Leukemia doesn’t usually form tumors, so imaging tests aren't often helpful in making the diagnosis. When imaging tests are done in people with AML, it's most often to look for infections or other problems, rather than to look for leukemia itself. In a few cases, imaging tests may be done to help determine the extent of the disease, if it's thought it might have spread beyond the bone marrow and blood.
+X-rays
+Routine chest x-rays may be done if a lung infection is suspected.
+Computed tomography (CT) scan
+A CT scan uses x-rays to make detailed, cross-sectional images of your body. This test can help show if any lymph nodes or organs in your body are enlarged. It isn’t usually needed to diagnose AML, but it may be done if your doctor suspects the leukemia is growing in an organ, like your spleen.
+CT-guided needle biopsy: In some cases, a CT can be used to guide a biopsy needle into a suspected abnormality, such as an abscess. For this procedure, you lie on the CT scanning table while the doctor moves a biopsy needle through the skin and toward the mass. CT scans are repeated until the needle is within the mass. A sample is then removed and sent to the lab to be looked at under a microscope.
+PET/CT: Some machines combine the CT scan with a PET scan (PET/CT scan). For a PET scan, glucose (a form of sugar) containing a radioactive atom is injected into the blood. Because cancer cells in the body grow rapidly, they absorb large amounts of the radioactive sugar. A special camera can then create a picture of areas of radioactivity in the body. With a PET/CT scan, the doctor can compare areas of higher radioactivity on the PET scan with the more detailed appearance of that area on the CT.
+Magnetic resonance imaging (MRI)
+Like CT scans, MRIs make detailed images of soft tissues in the body. But MRI scans use radio waves and strong magnets instead of x-rays.
+MRIs are very helpful in looking at the brain and spinal cord, but they are not usually needed in people with AML.
+Ultrasound
+Ultrasound uses sound waves and their echoes to make pictures of internal organs or masses.
+Ultrasound can be used to look at lymph nodes near the surface of the body or to look inside your abdomen for enlarged lymph nodes or organs such as the liver, spleen, and kidneys. (It can’t be used to look inside the chest because the ribs block the sound waves.) It is sometimes used to help guide a biopsy needle into an enlarged lymph node.For most types of cancer, determining the stage (extent) of the cancer is very important. The stage is based on the size of the main tumor and how far the cancer has spread. This can be helpful in predicting a person’s outlook and deciding on treatment.
+Acute myeloid leukemia (AML), on the other hand, does not usually form tumors. It generally is widespread throughout the bone marrow and, in some cases, has spread to other organs, such as the liver and spleen. Therefore AML is not staged like most other cancers. The outlook for a person with AML depends instead on other information, such as the subtype of AML (determined by lab tests), the patient’s age, and other lab test results.
+Knowing the subtype of AML can be very important, as it sometimes affects both a patient’s outlook and the best treatment. For example, the acute promyelocytic leukemia (APL) subtype is often treated using drugs that are different from those used for other subtypes of AML. If you're not sure which subtype of AML you have, ask your doctor about it, and about how it might affect your treatment.
+Two of the main systems that have been used to classify AML into subtypes are the French-American-British (FAB) classification and the newer World Health Organization (WHO) classification.
+The French-American-British (FAB) classification of AML
+In the 1970s, a group of French, American, and British leukemia experts divided AML into subtypes, M0 through M7, based on the type of cell the leukemia develops from and how mature the cells are. This was based largely on how the leukemia cells looked under the microscope after routine staining.
+
+
+
+FAB subtype
+Name
+
+
+M0
+Undifferentiated acute myeloblastic leukemia
+
+
+M1
+Acute myeloblastic leukemia with minimal maturation
+
+
+M2
+Acute myeloblastic leukemia with maturation
+
+
+M3
+Acute promyelocytic leukemia (APL)
+
+
+M4
+Acute myelomonocytic leukemia
+
+
+M4 eos
+Acute myelomonocytic leukemia with eosinophilia
+
+
+M5
+Acute monocytic leukemia
+
+
+M6
+Acute erythroid leukemia
+
+
+M7
+Acute megakaryoblastic leukemia
+
+
+
+Subtypes M0 through M5 all start in immature forms of white blood cells. M6 AML starts in very immature forms of red blood cells, while M7 AML starts in immature forms of cells that make platelets.
+World Health Organization (WHO) classification of AML
+The FAB classification system can be useful, but it doesn’t take into account many of the factors that are now known to affect prognosis (outlook). The World Health Organization (WHO) system, most recently updated in 2016, includes some of these factors to try to better classify AML.
+The WHO system divides AML into several groups:
+AML with certain genetic abnormalities (gene or chromosome changes)
+
+AML with a translocation between chromosomes 8 and 21 [t(8;21)]
+AML with a translocation or inversion in chromosome 16 [t(16;16) or inv(16)]
+APL with the PML-RARA fusion gene
+AML with a translocation between chromosomes 9 and 11 [t(9;11)]
+AML with a translocation between chromosomes 6 and 9 [t(6:9)]
+AML with a translocation or inversion in chromosome 3 [t(3;3) or inv(3)]
+AML (megakaryoblastic) with a translocation between chromosomes 1 and 22 [t(1:22)]
+AML with the BCR-ABL1 (BCR-ABL) fusion gene*
+AML with mutated NPM1 gene
+AML with biallelic mutations of the CEBPA gene (that is, mutations in both copies of the gene)
+AML with mutated RUNX1 gene*
+
+*This is still a "provisional entity," meaning it's not yet clear if there's enough evidence that it's a unique group.
+AML with myelodysplasia-related changes
+AML related to previous chemotherapy or radiation
+AML not otherwise specified (This includes cases of AML that don’t fall into one of the above groups, and is similar to the FAB classification.)
+
+AML with minimal differentiation (FAB M0)
+AML without maturation (FAB M1)
+AML with maturation (FAB M2)
+Acute myelomonocytic leukemia (FAB M4)
+Acute monoblastic/monocytic leukemia (FAB M5)
+Pure erythroid leukemia (FAB M6)
+Acute megakaryoblastic leukemia (FAB M7)
+Acute basophilic leukemia
+Acute panmyelosis with fibrosis
+
+Myeloid sarcoma (also known as granulocytic sarcoma or chloroma)
+Myeloid proliferations related to Down syndrome
+Undifferentiated and biphenotypic acute leukemias are not strictly AML, but are leukemias that have both lymphocytic and myeloid features. They are sometimes called mixed phenotype acute leukemias (MPALs).
+Prognostic factors for AML
+The subtype of AML can be important in helping to determine a person's prognosis (outlook). But other factors can also affect why some patients with AML have a better outlook than others. These are called prognostic factors. Prognostic factors help doctors determine a person's risk of the leukemia coming back after treatment, and therefore if they should get more or less intensive treatment. Some of these include:
+Chromosome (cytogenetic) abnormalities
+AML cells can have many kinds of chromosome changes, some of which can affect a person’s prognosis. Those listed below are some of the most common, but there are many others. Not all leukemias have these abnormalities. Patients whose AML doesn't have any of these usually have an outlook that is between favorable and unfavorable.
+Favorable abnormalities:
+
+Translocation between chromosomes 8 and 21 (seen most often in patients with M2)
+Translocation or inversion of chromosome 16
+Translocation between chromosomes 15 and 17 (seen most often in patients with M3)
+
+Unfavorable abnormalities:
+
+Deletion (loss) of part of chromosome 5 or 7
+Translocation or inversion of chromosome 3
+Translocation between chromosomes 6 and 9
+Translocation between chromosomes 9 and 22
+Abnormalities of chromosome 11 (at the spot q23)
+Loss of a chromosome, so the cell has only 1 copy instead of the normal 2 (known as monosomy)
+Complex changes (those involving 3 or more chromosomes)
+
+Gene mutations
+People whose leukemia cells have certain gene mutations may have a better or worse outlook.
+For instance, people with AML that has a mutation in the FLT3 gene tend to have a poorer outlook, although new drugs that target cells with this abnormal gene might lead to better outcomes. Mutations in the TP53, RUNX1, and ASXL1 genes are also linked with a worse outlook.
+On the other hand, people whose leukemia cells have changes in the NPM1 gene (and no other abnormalities) seem to have a better prognosis than people without this change. Changes in both copies of the CEBPA gene are also linked to a better outcome.
+Markers on the leukemia cells
+If the leukemia cells have the CD34 protein and/or the P-glycoprotein (MDR1 gene product) on their surface, it is linked to a worse outlook.
+Age
+Generally, people over 60 don’t do as well as younger people. Some of this may be because they are more likely to have unfavorable chromosome abnormalities. They sometimes also have other medical conditions that can make it harder for them to handle more intense chemotherapy regimens.
+White blood cell count
+A high white blood cell count (>100,000/mm3) at the time of diagnosis is linked to a worse outlook.
+Prior blood disorder leading to AML
+Having a prior blood disorder such as a myelodysplastic syndrome is linked to a worse outlook.
+Treatment-related AML
+AML that develops after a person is treated for another cancer is linked to a worse outlook.
+Infection
+Having a systemic (blood) infection when you are diagnosed is linked to a worse outlook.
+Leukemia cells in the central nervous system
+Leukemia that has spread to the area around the brain and spinal cord can be hard to treat, since most chemotherapy drugs can’t reach that area.
+Status of AML after treatment
+How well (and how quickly) the leukemia responds to treatment also affects long-term prognosis. Better initial responses have been linked with better long-term outcomes.
+A remission (complete remission) is usually defined as having no evidence of disease (NED) after treatment. This means the bone marrow contains fewer than 5% blast cells, the blood cell counts are within normal limits, and there are no signs or symptoms from the leukemia. A complete molecular remission means there is no evidence of leukemia cells in the bone marrow, even when using very sensitive tests, such as PCR (polymerase chain reaction).
+Minimal residual disease (MRD) is a term used after treatment when leukemia cells can’t be found in the bone marrow using standard tests (such as looking at cells under a microscope), but more sensitive tests (such as flow cytometry or PCR) find evidence that there are still leukemia cells in the bone marrow.
+Active disease means that either there is evidence that the leukemia is still present during treatment, or that the disease has come back after treatment (relapsed). For a patient to have relapsed, they must have more than 5% blast cells in their bone marrow.It's important to have open and honest communications with your cancer care team about your acute myeloid leukemia (AML). Ask about anything you don’t understand or want to know more about. For instance, consider these questions:
+When you're told you have AML
+
+Can you explain to me what AML is? How is it different from other types of leukemia?
+What type of AML do I have?
+Are there any factors that might affect my prognosis?
+Do I need any other tests before we can decide on treatment?
+Will I need to see any other types of doctors?
+
+When deciding on a treatment plan
+
+Do you and this medical center have a lot of experience treating AML?
+What are my treatment choices?
+Should we consider a stem cell transplant? When?
+Which treatment do you recommend, and why?
+Should I get a second opinion? Can you suggest a doctor or cancer center?
+What should I do to be ready for treatment?
+How long will treatment last? What will it be like? Where will it be done?
+What are the risks and side effects of treatment? How long are they likely to last?
+How will treatment affect my daily activities?
+What is my prognosis (outlook)?
+
+During and after treatment
+Once treatment begins, you’ll need to know what to expect and what to look for. Not all of these questions may apply to you, but getting answers to the ones that do may be helpful.
+
+How will we know if the treatment is working?
+What type of follow-up will I need after treatment?
+Is there anything I can do to help manage side effects?
+What symptoms or side effects should I tell you about right away?
+How can I reach you on nights, holidays, or weekends?
+Do I need to eat a special diet during treatment?
+Are there any limits on what I can do? 
+Should I exercise? What should I do, and how often?
+Can you suggest a mental health professional I can see if I start to feel overwhelmed, depressed, or distressed?
+What would my options be if the treatment isn’t working?
+Where can I find more information and support?
+
+Be sure to write down any questions you have that are not on this list. For instance, you might want specific information about expected recovery times or returning to work. Or you might want to ask if you qualify for any clinical trials.
+Keep in mind that doctors aren’t the only ones who can give you information. Other health care professionals, such as nurses and social workers, might be able to answer some of your questions. You can find out more about speaking with your health care team in Talking With Your Doctor.Chemotherapy (chemo) is the use of anti-cancer drugs that are injected into a vein, under the skin, or into the cerebrospinal fluid (CSF), or drugs that are taken by mouth to destroy or control cancer cells. Except when given into the CSF, these drugs enter the bloodstream and reach all areas of the body, making this treatment useful for cancers such as leukemia that spread throughout the body.
+Chemotherapy is the main treatment for most people with acute myeloid leukemia (AML), although sometimes other treatments might be used as well.
+Less intense chemo might be recommended for people with other serious health issues, but advanced age by itself is not a barrier to getting chemo.
+How is chemo given?
+Treatment of AML is usually divided into phases:
+
+Induction is the first phase of treatment. It is short and intensive, typically lasting about a week. The goal is to clear the blood of leukemia cells (blasts) and to reduce the number of blasts in the bone marrow to normal.
+Consolidation is chemo given after the patient has recovered from induction. It is meant to kill the small number of leukemia cells that are still around but can’t be seen (because there are so few of them). For consolidation, chemo is given in cycles, with each period of treatment followed by a rest period to allow the body time to recover.
+
+In a third phase, called maintenance (or post-consolidation), low doses of chemo (or other treatments) are given for months or years after consolidation is finished. This is often used to ﻿treat acute promyelocytic leukemia (APL), and it is sometimes used for other types of AML as well.
+Most chemo drugs used to treat AML are given into a vein in the arm (IV), although some can be injected under the skin or taken by mouth as pills. If there are signs that the leukemia has reached the brain or spinal cord (which is not common with AML), chemo might also be given into the CSF (known as intrathecal chemo). This can be done with a thin tube (catheter) that is put in through a small hole in the skull (such as an Ommaya reservoir), or during a lumbar puncture (spinal tap).
+Most chemo regimens used to treat AML are intensive and can cause serious side effects, so treatment is typically given in the hospital.
+Which chemo drugs are used to treat AML?
+The chemo drugs used most often to treat AML are a combination of: 
+
+Cytarabine (cytosine arabinoside or ara-C)
+An anthracycline drug, such as daunorubicin (daunomycin) or idarubicin
+
+Other chemo drugs that may be used to treat AML include:
+
+Cladribine (2-CdA)
+Fludarabine
+Mitoxantrone
+Etoposide (VP-16)
+6-thioguanine (6-TG)
+Hydroxyurea
+Corticosteroid drugs, such as prednisone or dexamethasone
+Methotrexate (MTX)
+6-mercaptopurine (6-MP)
+Azacitidine
+Decitabine
+
+For more on how chemo is used to treat AML, see Typical Treatment of Most Types of Acute Myeloid Leukemia (AML), Except APL.
+Possible side effects
+Chemo drugs can affect some normal cells in the body, which can lead to side effects. The side effects of chemo depend on the type and dose of drugs given and how long they are taken. Side effects can include:
+
+Hair loss
+Mouth sores
+Loss of appetite
+Nausea and vomiting
+Diarrhea or constipation
+
+Chemo drugs also affect the normal cells in bone marrow, which can lower blood cell counts. This can lead to:
+
+Increased risk of infections (from having too few normal white blood cells)
+Easy bruising or bleeding (from having too few blood platelets)
+Fatigue and shortness of breath (from having too few red blood cells)
+
+Most side effects from chemo go away once treatment is finished. Low blood cell counts can last weeks, but then should return to normal. There are often ways to lessen these side effects. For example, drugs can be given to help prevent or reduce nausea and vomiting. Be sure to ask about medicines to help reduce side effects, and let your doctor or nurse know when you do have side effects so they can be managed effectively.
+Low white blood cell counts: Some of the most serious side effects of chemo are caused by low white blood cell counts.
+If your white blood cell counts are very low during treatment, you can help lower your risk of infection by carefully avoiding exposure to germs. During this time, your doctor or nurse may tell you to:
+
+Wash your hands often.
+Avoid fresh, uncooked fruits and vegetables and other foods that might carry germs.
+Avoid fresh flowers and plants because they may carry mold.
+Make sure other people wash their hands before they come in contact with you.
+Avoid large crowds and people who are sick.
+
+You may get antibiotics before you have signs of infection or at the earliest sign that an infection may be developing (such as a fever). You may also get drugs that help prevent viral and fungal infections.
+Drugs known as growth factors, such as filgrastim (Neupogen, other names), pegfilgrastim (Neulasta, other names), and sargramostim (Leukine), are sometimes given to increase the white blood cell counts after chemo, to help lower the chance of infection. However, it’s not clear if they have an effect on treatment success.
+Low platelet counts: If your platelet counts are low, you may be given drugs or platelet transfusions to help prevent bleeding.
+Low red blood cell counts: Shortness of breath and extreme fatigue caused by low red blood cell counts (anemia) may be treated with drugs or with red blood cell transfusions.
+Decisions about when a patient can leave the hospital are often influenced by their blood counts. Some people find it helpful to keep track of their counts. If you are interested in this, ask your doctor or nurse about your blood cell counts and what these numbers mean.
+Side effects of specific drugs: Certain drugs have some specific possible side effects. For example:
+
+High doses of cytarabine can cause dryness in the eyes and effects on certain parts of the brain, which can lead to problems with coordination or balance. The drug dose may need to be reduced or stopped altogether if these side effects appear.
+Anthracyclines (such as daunorubicin or idarubicin) can damage the heart, so they might not be used in someone who already has heart problems.
+
+Other organs that could be damaged by chemo drugs include the kidneys, liver, testicles, ovaries, and lungs. Doctors and nurses carefully monitor treatment to limit the risk of these side effects as much as possible.
+If serious side effects occur, the chemo may have to be reduced or stopped, at least for a short time. Careful monitoring and adjustment of drug doses are important because some side effects can last a long time.
+Tumor lysis syndrome: This side effect of chemo can occur in patients who have large numbers of leukemia cells in the body, mainly during the induction phase of treatment. When chemo kills these cells, they break open and release their contents into the bloodstream. This can overwhelm the kidneys, which aren’t able to get rid of all of these substances at once. Excess amounts of certain minerals can also affect the heart and nervous system. This can be prevented by giving extra fluids during treatment and by giving certain drugs, such as bicarbonate, allopurinol, and rasburicase, which help the body get rid of these substances.In recent years, drugs that target specific parts of cancer cells have been developed. Targeted drugs work differently from standard chemotherapy (chemo) drugs, and they tend to have different side effects. They can sometimes be helpful even when chemo isn’t, or they can be used along with chemo to help it work better.
+Some of these drugs can be useful in treating certain people with acute myeloid leukemia (AML).
+FLT3 inhibitors
+In some people with AML, the leukemia cells have a change (mutation) in the FLT3 gene. This gene helps the cells make a protein (also called FLT3) that helps the cells grow. Drugs that target the FLT3 protein can help treat some of these leukemias. Your doctor can test your leukemia cells to see if they have an FLT3 mutation. If so, one of these drugs might be helpful.
+
+Midostaurin (Rydapt) and quizartinib (Vanflyta) are FLT3 inhibitors that can be used along with certain chemotherapy drugs to treat newly diagnosed adults whose leukemia cells have a mutation in the FLT3 gene.
+Gilteritinib (Xospata) can be used to treat adults whose leukemia cells have a mutation in the FLT3 gene and whose AML has not gotten better on previous treatments or has recurred (come back).
+
+These drugs are taken by mouth as pills or tablets, typically once or twice a day.
+Common side effects of FLT3 inhibitors can include fever, low levels of white blood cells (with increased risk of infection), nausea, vomiting, diarrhea, redness or sores in the mouth, muscle or bone pain, headache, abnormal liver tests, and respiratory infections. Other side effects are also possible, depending on the drug.
+Less often, these drugs might cause serious side effects. For example:
+Quizartinib and gilteritinib may cause serious heart rhythm problems. This might lead to an irregular heartbeat, which could be life threatening. Your doctor will check your blood mineral levels and get electrocardiograms (EKGs) to test your heart rhythm before and during treatment with one of these drugs.
+Gilteritinib might cause serious nervous system problems, which could show up as seizures or confusion. Tell someone on your cancer care team right away if you have either of these symptoms.
+Midostaurin can sometimes cause serious lung problems, which might show up as a cough, chest pain, or shortness of breath. Tell someone on your cancer care team right away if you have any of these symptoms.
+Rarely, gilteritinib might cause a serious side effect known as differentiation syndrome. This occurs when the leukemia cells release certain chemicals into the blood. It most often occurs during the first treatment cycle. Symptoms can include fever, breathing problems from fluid buildup in the lungs and around the heart, low blood pressure, liver or kidney damage, and severe fluid buildup elsewhere in the body. It can often be treated by stopping the drug for a while and giving a steroid such as dexamethasone.
+IDH inhibitors
+In some people with AML, the leukemia cells have a mutation in either the IDH1 or IDH2 gene. These genes help the cells make certain proteins, which are also called IDH1 and IDH2. Mutations in one of these genes can stop blood cells from maturing the way they normally would.
+Targeted drugs called IDH inhibitors can block these IDH proteins. These drugs seem to work by helping the leukemia cells mature (differentiate) into more normal cells. Because of this, they are sometimes referred to as differentiation agents.
+These drugs can be used to treat AML with an IDH1 or IDH2 mutation. Your doctor can test your blood or bone marrow to see if your leukemia cells have one of these mutations.
+
+Ivosidenib (Tibsovo) is an IDH1 inhibitor. It can be used to treat AML with an IDH1 mutation, either as the first treatment in people who are older or are not healthy enough to tolerate strong chemo, or to treat AML that comes back after treatment or is no longer responding to other treatments.
+Olutasidenib (Rezlidhia) is an IDH1 inhibitor that can be used to treat AML with an IDH1 mutation that comes back after treatment or is no longer responding to other treatments.
+Enasidenib (Idhifa) is an IDH2 inhibitor. It can be used to treat AML with an IDH2 mutation, either as the first treatment in people who are older or are not healthy enough to tolerate strong chemo, or to treat AML that comes back after treatment or is no longer responding to other treatments. 
+
+These drugs are taken by mouth, once or twice a day.
+Common side effects can include nausea, vomiting, diarrhea, fatigue, joint pain, shortness of breath, increased levels of bilirubin (a substance found in bile), and loss of appetite. 
+An important possible side effect of these drugs is known as differentiation syndrome. This occurs when the leukemia cells release certain chemicals into the blood. It most often occurs shortly after starting treatment, but sometimes it can happen months later. Symptoms can include fever, coughing or breathing problems (from fluid buildup in the lungs and around the heart), dizziness or lightheadedness (from low blood pressure), urinating less often (from damage to the kidneys), and severe fluid buildup elsewhere in the body. It can often be treated by stopping the drug for a while and giving other medicines (such as dexamethasone or hydroxyurea).
+Gemtuzumab ozogamicin (Mylotarg)
+This targeted therapy consists of a monoclonal antibody (a lab-made immune protein) linked to a chemotherapy drug. Once inside the body, the antibody attaches to a protein called CD33, which is found on most AML cells. The antibody acts like a homing signal, bringing the chemo drug to the leukemia cells, where it enters the cells and kills them when they try to divide into new cells.
+This drug can be used along with chemotherapy as part of the initial treatment of AML that has the CD33 protein. It can also be used by itself, either as the first treatment (especially in people who might not be healthy enough for intense chemo), or if other treatments are no longer working. It is given as an infusion into a vein (IV).
+The most common side effects are fever, nausea and vomiting, low levels of blood cells (with increased risks of infection, bleeding, and fatigue), swelling and sores in the mouth, constipation, rash, and headaches.
+Less common but more serious side effects can include:
+
+Severe liver damage, including veno-occlusive disease (blockage of veins in the liver)
+Reactions during the infusion (similar to an allergic reaction). You will likely be given medicines before each infusion to help prevent this.
+Serious or life-threatening infections, especially in people who have already had a stem cell transplant
+Changes in the rhythm of the heart
+
+BCL-2 inhibitor
+Venetoclax (Venclexta) targets BCL-2, a protein in cancer cells that helps them live longer than they should. This drug can be used with chemotherapy in people with newly diagnosed AML who are 75 years or older, or who are not healthy enough to tolerate strong chemo. It's taken by mouth once a day.
+Side effects can include low levels of certain white blood cells (neutropenia), low red blood cell counts (anemia), diarrhea, nausea, bleeding, low platelet counts (thrombocytopenia), and feeling tired. Less common but more serious side effects can include pneumonia and other serious infections.
+Tumor lysis syndrome (TLS) is another possible side effect of this drug. It's more common in patients who have large numbers of leukemia cells in their body when treatment starts. When the leukemia cells are killed, they break open and release their contents into the bloodstream. This can overwhelm the kidneys to the point that they get rid of all of these substances quickly. This can lead to the build-up of too many minerals in the blood and even kidney failure. The excess minerals can also cause problems with the heart and nervous system. To help keep this from happening, you may start at a very low dose and then slowly increase it over time. Sometimes, other medicines may be given to help drop your white blood cell count below a certain level before starting this drug. Your treatment team will do blood tests and also watch for signs of TLS.
+Hedgehog pathway inhibitor
+AML cells can have mutations (changes) in genes that are part of a cell signaling pathway called hedgehog. The hedgehog pathway is crucial for the development of the embryo and fetus and is important in some adult cells, but it can be overactive in leukemia cells.
+Glasdegib (Daurismo) is a drug that targets a protein in this pathway. It can be used with chemotherapy in people with newly diagnosed AML who are 75 years or older, or who are not healthy enough to tolerate strong chemo. In this group, it has been shown to help people live longer.
+This drug is taken by mouth once a day.
+Side effects can include muscle and bone pain, fatigue, low white blood cell counts (neutropenia), low red blood cell counts (anemia), bleeding, nausea, low platelet counts (thrombocytopenia), and redness or sores in the mouth.  
+Because the hedgehog pathway affects fetal development, these drugs should not be taken by women who are pregnant or could become pregnant. It is not known if they could harm the fetus if taken by a male partner. Anyone taking these drugs should use reliable birth control during and for some time after treatment.Chemotherapy is the main treatment for most types of acute myeloid leukemia (AML). But acute promyelocytic leukemia (APL) is different from other types of AML in some important ways.
+The leukemia cells in APL (called blasts) aren't able to mature into normal white blood cells, and they can grow and divide very quickly. These cells contain proteins that when released into the bloodstream can cause out-of-control blood clotting. This can lead to problems not only with blood clots, but also with severe bleeding. In the past, when regular chemotherapy (chemo) drugs were used alone to kill these cells, these proteins were released into the bloodstream. Patients sometimes died from clotting or bleeding complications.
+Researchers have found that the leukemia cells in APL have a specific gene change that makes them sensitive to certain drugs that aren’t like regular chemo drugs. These drugs help the blasts mature into normal white blood cells. This process is known as differentiation, and these drugs are called differentiation agents. Since the blasts don’t die, they don’t release the harmful proteins into the blood, which helps keep the clotting process from getting out of control. But these drugs can also have side effects of their own.
+Two of these drugs can be used to treat APL:
+
+All-trans-retinoic acid (ATRA, tretinoin, or Vesanoid)
+Arsenic trioxide (ATO, Trisenox)
+
+For more on how these drugs are used for APL, see Treatment of Acute Promyelocytic Leukemia (APL).
+ATRA
+ATRA is a form of vitamin A that is typically part of the initial (induction) treatment of APL. It is given either along with chemo, or along with arsenic trioxide for the initial treatment of APL. It is also often used for some time after as part of the consolidation phase of treatment to help keep the leukemia from coming back. For this phase of treatment, it may be used with chemo or with arsenic trioxide (or possibly with both). For longer-term maintenance, ATRA might be used by itself or with chemo.
+ATRA can have side effects similar to those seen if you take too much vitamin A. Symptoms can include headache, fever, dry skin and mouth, skin rash, swollen feet, sores in the mouth or throat, itching, and irritated eyes. It can also cause blood lipid levels (like cholesterol and triglycerides) to go up. Often blood liver test results become abnormal. These side effects often go away when the drug is stopped.
+Arsenic trioxide (ATO)
+Arsenic trioxide (ATO) is a form of arsenic, which can be a poison if given in high doses. But doctors found that it can act in a way similar to ATRA in patients with APL. It can be given with ATRA in the induction and consolidation phases of treatment, but it is also helpful in treating patients whose APL comes back after treatment with ATRA plus chemo. In these patients, ATO might be given along with the targeted drug gemtuzumab ozogamicin (Mylotarg).
+Most side effects of ATO are mild and can include fatigue (tiredness), nausea, vomiting, diarrhea, abdominal (belly) pain, and nerve damage (called neuropathy) leading to numbness and tingling in the hands and feet. ATO can also cause problems with heart rhythm, which can be serious. Your doctor may check your heart rhythm with an EKG often (even daily) while you are getting this drug.
+Differentiation syndrome
+The most important side effect of either of these drugs is known as differentiation syndrome (previously called retinoic acid syndrome). This occurs when the leukemia cells release certain chemicals into the blood. It is most often seen during the first couple of weeks of treatment, and in patients with a high white blood cell count.
+Symptoms can include fever, breathing problems due to fluid buildup in the lungs and around the heart, low blood pressure, kidney damage, and severe fluid buildup elsewhere in the body. While differentiation syndrome can be serious, it can often be treated by stopping the drugs for a while and giving a steroid such as dexamethasone.Surgery has a very limited role in the treatment of acute myeloid leukemia (AML). Because leukemia cells are spread widely throughout the bone marrow and blood, it’s not possible to cure this type of cancer with surgery. Surgery rarely has any role even in the diagnosis of AML, since this can usually be done with a bone marrow aspirate and biopsy. On rare occasions, an isolated tumor of leukemia cells (known as a myeloid sarcoma, granulocytic sarcoma, or chloroma) may be treated with surgery.
+Placement of a central venous catheter
+Often before chemotherapy starts, a minor type of surgery is done to place a small flexible tube, called a central venous catheter (CVC) (also known as a central line or venous access device), into a large vein in the chest. This may be done by a surgeon in the operating room, or by a special type of radiologist. The end of the tube stays just under the skin or sticks out in the chest area or upper arm. The CVC can be left in place during treatment (often for several months) to give intravenous (IV) drugs, such as chemotherapy, and to take blood samples for tests. This lowers the number of needle sticks needed during treatment. If you have a CVC, it is very important to learn how to care for it to keep it from getting infected.Radiation therapy uses high-energy radiation to kill cancer cells. It is usually not part of the main treatment for people with acute myeloid leukemia (AML), but there are a few instances in which it may be used:
+
+Radiation is sometimes used to treat leukemia that has spread outside of the bone marrow and blood, such as to the brain and spinal fluid, or to the testicles.
+Radiation to the whole body is often an important part of treatment before a stem cell transplant. See Stem Cell Transplant for Acute Myeloid Leukemia (AML).
+It is used (rarely) to help shrink a tumor (myeloid sarcoma) if it is pressing on the trachea (windpipe) and causing breathing problems. But chemotherapy is often used instead, as it often works more quickly.
+Radiation can be used to reduce pain in an area of bone that is invaded by leukemia, if chemotherapy hasn’t helped.
+
+Before your treatment starts, the radiation team will take careful measurements to determine the correct angles for aiming the radiation beams and the proper dose of radiation. This planning session, called simulation, usually includes getting imaging tests such as CT or MRI scans.
+The type of radiation therapy used to treat AML is called external beam radiation. The treatment is much like getting an x-ray, but the radiation is much stronger. The procedure itself is painless. The number of treatments you get depends on the reason radiation therapy is being used. Each treatment lasts only a few minutes, although the setup time − getting you into place for treatment – usually takes longer.
+The possible side effects of radiation therapy depend on where the radiation is aimed. Sunburn-like skin changes and hair loss in the treated area are possible. Radiation to the head and neck area can lead to mouth sores and trouble swallowing. Radiation to the abdomen can cause nausea, vomiting, or diarrhea. Radiation can lower blood counts, leading to fatigue (from low red blood cell counts), bleeding or bruising (from low platelet counts), and an increased risk of infection (from low white blood cell counts).The doses of chemotherapy drugs that doctors can give to treat acute myeloid leukemia (AML) are limited by the serious side effects they can cause. Even though higher doses of these drugs might kill more cancer cells, they can’t be given because they could severely damage the bone marrow, which is where new blood cells are formed. This could lead to life-threatening infections, bleeding, and other problems caused by low blood cell counts.
+Doctors can sometimes use a stem cell transplant (SCT), also called a bone marrow transplant, to give higher doses of chemotherapy than could normally be given. (Sometimes radiation therapy is given as well.) After the treatment is finished, the patient gets an infusion of blood-forming stem cells to restore their bone marrow.
+The blood-forming stem cells used for a transplant can come either from blood or from bone marrow. Sometimes stem cells from a baby’s umbilical cord blood are used.
+Types of SCT used for AML
+Stem cell transplants differ based on whom the blood-forming stem cells come from.
+Allogeneic stem cell transplant
+This is the most common type of SCT used to treat AML. In an allogeneic SCT, the stem cells come from someone other than the patient – usually a donor whose tissue type (also known as the HLA type) closely matches the patient’s. Tissue type is based on certain substances on the surface of cells in the body. Differences in HLA types between the stem cell donor and recipient can cause the body's immune system to react against the cells. Therefore, the closer a tissue “match” is between the donor and the recipient, the better the chance the transplanted cells will “take” and begin making new blood cells.
+The best donor is often a close relative, such as a brother or sister, if they are a good match. If no close relatives match, stem cells might be available from a matched unrelated donor (MUD), an unrelated volunteer whose tissue type matches that of the patient. But the use of stem cells from a MUD is linked to more complications. Sometimes umbilical cord stem cells are used. These stem cells come from blood drained from the umbilical cord and placenta after a baby is born and the umbilical cord is cut.
+For most patients with AML, especially those at higher risk of having the leukemia return after treatment, using an allogeneic SCT is preferred over an autologous SCT (see below). Leukemia is a disease of the blood and bone marrow, so giving the patient their own cells back after treatment may mean giving them back some leukemia cells as well. Donor cells are also helpful because of the graft-versus-leukemia effect. When the donor immune cells are infused into the body, they may recognize any remaining leukemia cells as being foreign to them and attack them. This effect doesn’t happen with autologous stem cell transplants.
+Allogeneic transplants can have serious risks and side effects, so patients typically need to be younger and relatively healthy to be good candidates. Another challenge is that it can sometimes be difficult to find a matched donor.
+One of the most serious complications of allogeneic SCTs is known as graft-versus-host disease (GVHD). It happens when the patient’s immune system is taken over by that of the donor. When this happens, the donor immune system may see the patient’s own body tissues as foreign and attack them.
+Symptoms can include severe skin rashes, itching, mouth sores (which can affect eating), nausea, and severe diarrhea. Liver damage can cause yellowing of the skin and eyes (jaundice). The lungs can also be damaged. The patient may also become easily fatigued and develop muscle aches. Sometimes GVHD can become disabling, and if it's severe enough, it can be life-threatening. Drugs that affect the immune system may be given to try to control it.
+Non-myeloablative transplant (mini-transplant): Many older people can’t tolerate a standard allogeneic transplant that uses high doses of chemo. Some may still be able to get a non-myeloablative transplant (also known as a mini-transplant or reduced-intensity transplant), where they get lower doses of chemo and radiation that don’t completely destroy the cells in their bone marrow. They then get the allogeneic (donor) stem cells. These cells enter the body and establish a new immune system, which sees the leukemia cells as foreign and attacks them (a graft-versus-leukemia effect).
+A non-myeloablative transplant can still sometimes work with much less toxicity. In fact, a patient can get the transplant as an outpatient. The major complication is graft-versus-host disease.
+Many doctors still consider this an experimental procedure for AML, and it is being studied to determine how useful it may be.
+Autologous stem cell transplant
+In an autologous transplant, a patient’s own stem cells are removed from their bone marrow or blood. They are frozen and stored while the person gets treatment (high-dose chemotherapy and/or radiation). In the lab, a process called purging may be used to try to remove any leukemia cells in the samples. The stem cells are then put back (reinfused) into the patient’s blood after treatment.
+Autologous transplants are sometimes used for people with AML who are in remission after initial treatment and who don’t have a matched donor for an allogeneic transplant. Some doctors feel that it is better than standard “consolidation” chemotherapy (see Typical Treatment of Acute Myeloid Leukemia (AML)) for these people, but not all doctors agree with this.
+Autologous transplants are generally easier for patients to tolerate than allogeneic transplants, because they are getting their own cells back, which lowers the risk of some complications. But the high-dose chemo can still cause major side effects. This type of transplant can be done in any otherwise healthy person, although patients who are very old or have other health problems might not be suitable.
+One problem with autologous transplants is that it’s hard to separate normal stem cells from leukemia cells in the bone marrow or blood samples. Even after purging (treating the stem cells in the lab to try to kill or remove any remaining leukemia cells), there is the risk of returning some leukemia cells with the stem cell transplant.Treatment of acute myeloid leukemia (AML) is typically divided into 2 main phases:
+
+Remission induction (often just called induction)
+Consolidation (post-remission therapy)
+
+A third phase, known as maintenance, is sometimes used after consolidation.
+Chemotherapy (chemo) is the main treatment for most types of AML, although other treatments might be used as well.
+The acute promyelocytic leukemia (APL) subtype of AML is treated differently.
+Treatment for AML usually needs to start as quickly as possible after it is diagnosed because it can progress very quickly. Sometimes another type of treatment needs to be started even before the chemo has had a chance to work.
+Treating leukostasis
+Some people with AML have very high numbers of leukemia cells in their blood when they are first diagnosed, which can cause problems with normal blood circulation. This is called leukostasis. Chemo can take a few days to lower the number of leukemia cells in the blood. In the meantime, leukapheresis (sometimes just called pheresis) might be used before chemo.
+In leukapheresis, the person’s blood is passed through a special machine that removes white blood cells (including leukemia cells) and returns the rest of the blood to the person. Two intravenous (IV) lines are required – the blood is removed through one IV, goes through the machine, and then is returned to the person through the other IV. Sometimes, a single large catheter is placed in a vein in the neck or under the collar bone for the pheresis, instead of using IV lines in both arms. This type of catheter is called a central venous catheter (CVC) or central line and has both IVs built in.
+This treatment lowers blood counts right away. The effect is only for a short time, but it may help until the chemo has a chance to work.
+Induction
+This first phase of treatment is aimed at quickly getting rid of as many leukemia cells as possible. How intense the treatment is can depend on a person’s age and health. Doctors often give the most intensive chemo to people under the age of 60, but some older people in good health may benefit from similar or slightly less intensive treatment.
+People who are much older or are in poor health might not do well with intensive chemo. Treatment for these people is discussed below.
+Other factors also need to be taken into account when considering treatment options. For example, people whose leukemia cells have certain gene or chromosome changes are more likely to benefit from certain types of treatment.
+In younger patients, such as those under 60, induction often involves treatment with 2 chemo drugs:
+
+Cytarabine (ara-C)
+An anthracycline drug such as daunorubicin (daunomycin) or idarubicin
+
+This is sometimes called a 7 + 3 regimen, because it consists of getting cytarabine continuously for 7 days, along with short infusions of an anthracycline on each of the first 3 days.
+In some situations, a third drug might be added as well to try to improve the chances of remission:
+
+For people whose leukemia cells have an FLT3 gene mutation, a targeted therapy drug such as midostaurin (Rydapt) or quizartinib (Vanflyta) might be given along with chemo.
+For people whose leukemia cells have the CD33 protein, the targeted drug gemtuzumab ozogamicin (Mylotarg) might be added to chemo.
+Adding the chemo drug cladribine might be another option for some people.
+
+People with poor heart function might not be able to be treated with anthracyclines, so they may be treated with another chemo drug, such as fludarabine or etoposide.
+In rare cases where the leukemia has spread to the brain or spinal cord, chemo may also be given into the cerebrospinal fluid (CSF). Radiation therapy might be used as well.
+People typically need to stay in the hospital during induction (and possibly for some time afterward). Induction destroys most of the normal bone marrow cells as well as the leukemia cells, so most people develop dangerously low blood counts, and may be very ill. Most people need antibiotics and blood product transfusions. Drugs to raise white blood cell counts (called growth factors) may also be used. Blood counts tend to stay low for a few weeks.
+About a week after chemo is done, the doctor will do a bone marrow biopsy. It should show few bone marrow cells (hypocellular bone marrow) and only a small portion of blasts (making up no more than 5% of the bone marrow) for the leukemia to be considered in remission. Most people with leukemia go into remission after the first round of chemo. But if the biopsy shows that there are still leukemia cells in the bone marrow, another round of chemo may be given, either with the same drugs or with another regimen. Sometimes a stem cell transplant is recommended at this point. If it isn’t clear on the bone marrow biopsy whether the leukemia is still there, another bone marrow biopsy may be done again in about a week.
+Over the next few weeks, normal bone marrow cells will return and start making new blood cells. The doctor may do other bone marrow biopsies during this time. When the blood cell counts recover, the doctor will again check cells in a bone marrow sample to see if the leukemia is in remission.
+Remission induction usually does not destroy all the leukemia cells, and a small number often remain. Without post-remission therapy (consolidation), the leukemia is likely to return within several months.
+Consolidation (post-remission therapy)
+Induction is considered successful if remission is achieved. Further treatment (called consolidation) is then given to try to destroy any remaining leukemia cells and help prevent a relapse.
+Consolidation for younger people
+For younger people (typically those under 60), the main options for consolidation therapy are:
+
+Several cycles of chemo with high-dose cytarabine (ara-C) (sometimes known as HiDAC)
+Allogeneic (donor) stem cell transplant
+Autologous stem cell transplant
+
+The best option for each person depends on the risk of the leukemia coming back after treatment, as well as other factors.
+For HiDAC, cytarabine is given at very high doses, typically over 5 days. This is repeated about every 4 weeks, usually for a total of 3 or 4 cycles. Again, each round of treatment is typically given in the hospital because of the risk of serious side effects.
+For people who got a targeted drug such as midostaurin (Rydapt) or quizartinib (Vanflyta) along with chemo during induction, this is typically continued during consolidation.
+For people who got chemo plus the targeted drug gemtuzumab ozogamicin (Mylotarg) for their induction therapy, a similar regimen might be used for consolidation.
+Another approach after induction therapy is to give very high doses of chemo followed by either an allogeneic (from a donor) or autologous (patient’s own) stem cell transplant. Stem cell transplants have been found to reduce the risk of leukemia coming back more than standard chemo, but they are also more likely to have serious complications, including an increased risk of dying from treatment.
+Consolidation for people who are older or have other health problems
+Older people or those in poor health may not be able to tolerate intensive consolidation treatment. Often, giving them more intensive therapy raises the risk of serious side effects (including dying from treatment) without providing much more of a benefit. These people may be treated with:
+
+Higher-dose cytarabine (usually not quite as high as in younger people)
+Standard-dose cytarabine, possibly along with idarubicin, daunorubicin, or mitoxantrone. (For people who got a targeted drug such as midostaurin or quizartinib during induction, this is typically continued during consolidation as well.)
+A non-myeloablative stem cell transplant (mini-transplant)
+
+Factors affecting choice of consolidation treatment
+It's not always clear which treatment option is best for consolidation. Each has pros and cons. Doctors look at several factors when recommending what type of treatment a person should get. These include:
+
+How many courses (cycles) of chemo it took to bring about a remission. If it took more than one, some doctors recommend that the person get a more intensive program, which might include a stem cell transplant.
+The availability of a brother, sister, or an unrelated donor who matches the patient’s tissue type. If a close enough tissue match is found, an allogeneic (donor) stem cell transplant may be an option, especially for younger people.
+The possibility of collecting leukemia-free bone marrow cells from the patient. If lab tests show that a person is in remission, collecting stem cells from the person’s bone marrow or blood for an autologous stem cell transplant may be an option. Stem cells collected from the person would be purged (treated in the lab to try to remove or kill any remaining leukemia cells) to lower the chances of relapse.
+The presence of one or more adverse prognostic factors, such as certain gene or chromosome changes, a very high initial white blood cell count, AML that develops from a previous blood disorder or after treatment for an earlier cancer, or spread of AML to the central nervous system. These factors might lead doctors to recommend more aggressive therapy, such as a stem cell transplant. On the other hand, for people with good prognostic factors, such as favorable gene or chromosome changes, many doctors might advise holding off on a stem cell transplant unless the disease recurs.
+The person’s age and overall health. Older people or those with other health problems might not be able to tolerate some of the severe side effects that can occur with high-dose chemo or stem cell transplants.
+The person’s wishes. There are many issues relating to quality of life that need to be considered. An important issue is the higher chance of dying from high-dose chemo or a stem cell transplant. This and other issues must be discussed between the patient and the doctor.
+
+Stem cell transplants are intensive treatments with real risks of serious complications, including dying, and their exact role in treating AML isn't always clear. Some doctors feel that if a person is healthy enough to withstand an allogeneic transplant and a compatible donor is available, this option offers the best chance for long-term survival. Others feel that studies haven't yet shown this conclusively, and that in some cases it might be better to hold off on doing a transplant in case the leukemia comes back after standard treatment. Still others feel that stem cell transplants should be given if the leukemia is likely to come back based on certain gene or chromosome changes. Doctors continue to study which people with AML will get the most benefit from stem cell transplant and which type of transplant is best in each situation.
+Maintenance
+In some situations, maintenance therapy might be an option for further treatment. This is also sometimes called post-consolidation therapy. In this phase, treatment is given over a longer period of time (and often at lower doses). The intent is to keep the leukemia from coming back for as long as possible.
+Not everyone with AML needs maintenance therapy. But it might be an option for some people if there’s a higher risk of the leukemia coming back, or if a person can’t get (or can’t complete) intense initial treatment for some reason.
+For some people whose AML goes into remission after induction (or even after consolidation), maintenance treatment with the oral chemo drug azacitidine (Onureg) might be an option.
+For people who received a targeted drug as part of their initial treatment, continuing the targeted drug (without chemo) might be an option.
+Treating frail or older adults
+Treatment of AML in people under 60 is fairly standard. It involves cycles of intensive chemo, sometimes along with a targeted drug or a stem cell transplant (as discussed above). Many people older than 60 are healthy enough to be treated in the same way, although sometimes the chemo may be less intense.
+People who are much older or are in poor health may not be able to tolerate this intense treatment. In fact, intense chemo could actually shorten their lives. Treatment of these people is often not divided into phases, but it may be given every so often as long as it seems helpful.
+Options for people who are older or are in poor health might include:
+Low-intensity chemo with a drug such as low-dose cytarabine (LDAC), azacitidine (Vidaza), or decitabine (Dacogen) 
+Low-intensity chemo plus a targeted drug such as venetoclax (Venclexta) or glasdegib (Daurismo) 
+A targeted drug, such as: 
+
+Gemtuzumab ozogamicin (Mylotarg), if the AML cells have the CD33 protein
+Ivosidenib (Tibsovo), alone or with the chemo drug azacitidine, if the AML cells have an IDH1 gene mutation
+Enasidenib (Idhifa), if the AML cells have an IDH2 gene mutation
+
+Some people might decide against chemo and other drugs and instead choose only supportive care. This focuses on treating any symptoms or complications that arise and keeping the person as comfortable as possible.Prompt diagnosis and treatment of acute promyelocytic leukemia (APL), the M3 subtype of acute myeloid leukemia (AML), is very important because patients with APL can quickly develop life-threatening blood-clotting or bleeding problems if not treated. In fact, treatment might need to be started even if the diagnosis of APL is suspected but hasn't been confirmed yet by lab tests.
+The treatment of APL typically differs from the treatment of most other types of AML. The most important drugs for treating APL are non-chemo drugs called differentiating agents, like all-trans-retinoic acid (ATRA). Other treatments might include chemotherapy (chemo) and transfusions of platelets or other blood products.
+Treatment is typically divided into 3 phases:
+
+Induction (remission induction)
+Consolidation (post-remission therapy)
+Maintenance
+
+Induction
+The goal of induction, the first part of treatment, is to get the number of leukemia cells to very low levels, putting the APL into remission. The most important drug in the initial treatment of APL is all-trans-retinoic acid (ATRA). This is usually combined with one of these:
+
+Arsenic trioxide (ATO), another non-chemo drug. For some people at higher risk of APL coming back after treatment, the targeted drug gemtuzumab ozogamicin (Mylotarg) might be added as well.
+Chemotherapy with an anthracycline drug (daunorubicin or idarubicin). For some people at high risk of their APL coming back after treatment, the chemo drug cytarabine (ara-c) might be added as well.
+Chemotherapy (an anthracycline) plus ATO
+
+ATRA plus ATO is often the preferred treatment in people at lower risk of the leukemia coming back, as it tends to have fewer side effects. Chemo or Mylotarg is more likely to be included in treatment if this risk is higher.
+A bone marrow biopsy is usually done about a month after starting treatment, to see if the leukemia is in remission. Induction is typically continued until the APL is in remission, which might take up to 2 months.
+Consolidation (post-remission therapy)
+Once APL is in remission, consolidation is needed to keep it in remission and try to get rid of the remaining leukemia cells. Which drugs are used depends on what was given for induction, as well as other factors. Patients typically get some of the same drugs they got during remission, although the doses and timing of treatment might be different. Some of the options include:
+
+ATRA plus ATO (If Mylotarg was part of induction, it might be continued here as well.)
+ATRA plus chemo (typically with an anthracycline such as idarubicin or daunorubicin)
+ATO plus chemo (typically with an anthracycline such as idarubicin or daunorubicin)
+Chemo alone (typically with an anthracycline plus cytarabine)
+
+Consolidation typically lasts for at least several months, depending on the drugs being used.
+Maintenance
+For some patients, especially those at higher risk of the APL coming back, consolidation may be followed by maintenance therapy, which uses lower doses of drugs over a longer period of time. People who have a lower risk of the leukemia coming back and who have a good response to ATRA plus ATO might not need maintenance therapy, although this is still being studied.
+The most common options for maintenance therapy are ATRA alone, or ATRA along with chemo (6-mercaptopurine (6-MP) and/or methotrexate). Maintenance therapy is typically given for about a year.
+Treating APL that doesn't go away or comes back
+Treatment for APL that doesn't go away or that comes back after initial treatment is discussed in If Acute Myeloid Leukemia (AML) Doesn't Respond or Comes Back After Treatment.The goal of treatment for acute myeloid leukemia (AML) is to put the leukemia into complete remission (the bone marrow and blood cell counts return to normal), preferably a complete molecular remission (no signs of leukemia in the bone marrow, even using sensitive lab tests), and to keep it that way.
+For most types of AML
+About 2 out of 3 people with AML who get standard induction chemotherapy (chemo) go into remission. This usually means the bone marrow contains fewer than 5% blast cells, the blood cell counts return to within normal limits, and there are no signs or symptoms of the disease. The actual chance of remission depends to a large part on a person’s specific prognostic factors, such as their age and the presence of certain gene or chromosome changes in the leukemia cells.
+For example, older people generally don’t do as well as those younger than 60. They often have trouble tolerating intensive treatment and often have chromosome changes in leukemia cells that are linked to a poorer outlook. About half of these patients go into remission after initial treatment.
+If remission is achieved, patients typically get more chemo (consolidation) to try to get rid of any remaining leukemia cells. Up to half of patients who get consolidation go into long-term remission (and may be cured). But this number is also affected by prognostic factors, such as a person’s age and whether the leukemia cells have certain gene or chromosome changes. Using an allogeneic stem cell transplant as consolidation has a higher success rate, but it also has a higher risk of death as a complication.
+For acute promyelocytic leukemia (APL)
+The outlook for people with acute promyelocytic leukemia (APL) tends to be better than for those with other types of AML, although again prognostic factors can be important. About 9 out of 10 people with APL will go into remission with standard induction treatment. With consolidation and maintenance, about 8 or 9 out of 10 people with APL stay in long-term remission.Most often, acute myeloid leukemia (AML) will go into remission after the initial treatment. But sometimes it doesn't go away completely, or it comes back (relapses) after a period of remission. If this happens, other treatments can be tried, as long as a person is healthy enough for them.
+Treatment for most types of AML
+If AML doesn’t go away completely with induction treatment, sometimes a second, similar course of chemotherapy (chemo), often called reinduction, can be tried. If this isn't helpful, treatment with other chemo drugs or more intensive doses of chemo may be tried, if the person can tolerate them. A stem cell transplant may be an option for some people, as it can allow higher doses of chemo to be used. Clinical trials of new treatment approaches may also be an option.
+If the leukemia went away and has now come back, the treatment options depend on the patient’s age and health, and on how long the leukemia was in remission. AML most often recurs in the bone marrow and blood. The brain or cerebrospinal fluid (CSF) is rarely the first place where it recurs, but if this happens, it is often treated with chemo given directly into the CSF.
+If remission lasted at least a year, it's sometimes possible to put the leukemia into remission again with more chemo, although this is not likely to be long-lasting. For younger patients (generally those younger than 60), most doctors would then advise a stem cell transplant if a suitable donor can be found. Clinical trials of new treatment approaches might also be an option.
+If AML comes back sooner than 12 months, most doctors will advise a stem cell transplant for younger patients, if possible. Taking part in a clinical trial is another option.
+Another option for AML that doesn’t go away or comes back after treatment might be the targeted drug gemtuzumab ozogamicin (Mylotarg).
+If the leukemia keeps coming back or doesn’t go away, further chemo treatment will probably not be very helpful. If a stem cell transplant is not an option, a patient may want to consider taking part in a clinical trial of newer treatments.
+For AML with a mutation in the FLT3 gene
+If the leukemia cells have a mutation in the FLT3 gene and the leukemia doesn’t go away or if it comes back later, one option might be treatment with the FLT3 inhibitor gilteritinib (Xospata), which is a type of targeted drug.
+For AML with a mutation in the IDH1 or IDH2 gene
+If the leukemia cells have an IDH1 or IDH2 gene mutation, one option if the leukemia doesn’t go away or if it comes back later might be treatment with a targeted drug called an IDH inhibitor, such as ivosidenib (Tibsovo) or olutasidenib (Rezlidhia) for AML with an IDH1 mutation, or enasidenib (Idhifa) for AML with an IDH2 mutation. Other options might include chemo or a stem cell transplant.
+Treatment for acute promyelocytic leukemia (APL)
+Treatment options for APL that doesn't go away with initial treatment or that relapses depend on which treatments were used before, as well as other factors.
+For patients whose initial treatment was with the non-chemo drugs all-trans retinoic acid (ATRA) and arsenic trioxide (ATO) and who relapse early (usually within about 6 months), treatment will most likely be with some of the same chemo drugs used to treat other types of AML. If the remission lasts longer, ATO might be used again, possibly along with other treatments such as ATRA, chemo, and the targeted drug Mylotarg.
+If the initial treatment was ATRA plus chemo, ATO is often very effective.
+At some point, a stem cell transplant might be a good option if a person is healthy enough. Another option might be taking part in a clinical trial.
+Supportive treatment for leukemia that won't go away
+If further treatment or a clinical trial is not an option, the focus of treatment may shift to controlling symptoms caused by the leukemia, rather than trying to cure it. This is called palliative treatment or supportive care. For example, the doctor may advise less intensive chemo to try to keep the leukemia under control instead of trying to cure it.
+As the leukemia grows in the bone marrow it may cause pain. It’s important that you be as comfortable as possible. Treatments that may be helpful include radiation therapy and appropriate pain-relieving medicines. If medicines such as aspirin and ibuprofen don’t help with the pain, stronger opioid medicines such as morphine are likely to be helpful. Some people may worry about taking stronger drugs for fear of being sleepy all the time or becoming addicted to them. But many people get very effective pain relief from these medicines without serious side effects.
+Other common symptoms from leukemia are low blood counts and fatigue. Medicines or blood transfusions may be needed to help correct these problems. Nausea and loss of appetite can be treated with medicines and high-calorie food supplements. Infections that occur may be treated with antibiotics.
+It’s very important to let your cancer care team know if you are having pain or any other symptoms so that they can be treated.For some people with acute myeloid leukemia (AML), treatment can get rid of all of the leukemia cells. Completing treatment can be both stressful and exciting. You may be relieved to finish treatment, but find it hard not to worry about the leukemia coming back. (When leukemia comes back after treatment, it is called a relapse or recurrence.) This is a very common concern in people who have had leukemia.
+For other people, the leukemia may never go away completely. Some people may get regular treatments with chemotherapy or other therapies to try to help keep the leukemia under control and help relieve symptoms from it. Learning to live with leukemia that doesn't go away can be difficult and very stressful. It has its own type of uncertainty. Managing Cancer as a Chronic Illness talks more about this.
+Follow-up care
+Whether you have completed treatment or are still being treated, your doctors will want to watch you closely.
+Exams and tests
+Even after treatment ends, you'll still need frequent follow-up exams – probably every month or so at first, and then less often, for at least several years. It’s very important to go to all of your follow-up appointments. During these visits, your doctor will ask about any symptoms, examine you, and may get blood tests or bone marrow exams. Follow-up is needed to check for leukemia recurrence, as well as possible side effects of certain treatments.
+Almost any cancer treatment can have side effects. Some may last for only a short time, but others can last the rest of your life. Tell your cancer care team about any changes or problems you notice and about any concerns you have.
+If AML does come back, it is usually while a person is still being treated or shortly after they have finished treatment. If this happens, treatment options would be as described in If Acute Myeloid Leukemia Doesn’t Respond or Comes Back After Treatment.. It’s unusual for AML to come back if there are still no signs of the leukemia within a few years after treatment. This can happen, however, especially with the acute promyelocytic (APL) subtype of AML.
+Should your leukemia come back, see Understanding Recurrence for information on how to manage and cope with this phase of your treatment.
+Ask your doctor for a survivorship care plan
+Talk with your doctor about developing a survivorship care plan for you. This plan might include: 
+
+A suggested schedule for follow-up exams and tests
+A schedule for other tests you might need in the future, such as early detection (screening) tests for other types of cancer, or tests to look for long-term health effects from your tumor or its treatment
+A list of possible late- or long-term side effects from your treatment, including what to watch for and when you should contact your doctor
+Diet and physical activity suggestions
+
+Keeping health insurance and copies of your medical records
+Even after treatment, it’s very important to have health insurance. Tests and doctor visits cost a lot, and even though no one wants to think of their cancer coming back, this could happen.
+At some point after your treatment, you might find yourself seeing a new doctor who doesn’t know about your medical history. It’s important to keep copies of your medical records to give your new doctor the details of your diagnosis and treatment. Learn more in Keeping Copies of Important Medical Records.
+Can I lower my risk of AML progressing or coming back?
+If you have (or had) AML, you probably want to know if there are things you can do to reduce your risk of the leukemia progressing or coming back, such as exercising, eating a certain type of diet, or taking nutritional supplements.  At this time, not enough is known about AML to say for sure if there are things you can do that will help. 
+Healthy behaviors such as not smoking, eating well, getting regular physical activity, and staying at a healthy weight might help, but no one knows for sure. But we do know that these types of changes can have positive effects on your health that can extend beyond your risk of AML or other cancers.
+About dietary supplements
+So far, no dietary supplements (including vitamins, minerals, and herbal products) have been shown to clearly help lower the risk of AML progressing or coming back. This doesn’t mean that no supplements will help, but it’s important to know that none have been proven to do so.
+Dietary supplements aren’t regulated like medicines in the United States – they do not have to be proven effective (or even safe) before being sold, although there are limits on what they’re allowed to claim they can do. If you’re thinking about taking any type of nutritional supplement, talk to your health care team. They can help you decide which ones you can use safely while avoiding those that might be harmful.
+Getting emotional support
+Some amount of feeling depressed, anxious, or worried is normal when leukemia is part of your life. Some people are affected more than others. But everyone can benefit from help and support from other people, whether friends and family, religious groups, support groups, professional counselors, or others. Learn more in Coping With Cancer.What is leukemia?
+Cancer starts when cells in a part of the body begin to grow out of control. There are many kinds of cancer.
+Leukemia starts in the bone marrow, the soft inner part of certain bones where new blood cells are made. It starts when certain blood cells grow out of control and crowd out normal blood cells. This makes it hard for the body to work the way it should.
+There are many types of leukemia. Some are rare. Most are named based on if they are fast growing (acute), or slower growing (chronic). They are also named by which type of bone marrow cell (myeloid or lymphocytic) the leukemia starts in.
+What is acute myeloid leukemia (AML)?
+Acute myeloid leukemia (AML) is a type of cancer that starts from cells that are supposed to grow into different types of blood cells. Most often, AML starts in early forms of white blood cells.
+AML is fast growing. The leukemia cells enter the blood quickly and sometimes can spread to the liver, spleen, central nervous system (brain and spinal cord), and testicles.
+There are many different types of AML. In some, the AML cells have gene changes that can affect how well treatment works. Your doctor can tell you more about the kind of AML you have.
+Questions to ask the doctor
+
+Why do you think I have leukemia?
+Is there a chance I don’t have leukemia?
+Would you please write down the kind of leukemia you think I might have?
+What will happen next?
+
+How does the doctor know I have AML?
+Many people with AML have symptoms such as feeling tired or weak, losing weight, having a fever, sweating a lot at night, and loss of appetite. They might also have pale skin, bone or joint pain, and might bruise or bleed easily.
+The doctor will ask you questions about your health (including how long you have had symptoms) and do a physical exam.
+Tests that may be done
+If signs are pointing to AML, here are some of the tests you may need:
+Blood cell counts: This blood test is often the first one done. Most people with AML have too many white blood cells and not enough of other types of blood cells.
+Bone marrow aspiration and biopsy: For these tests, a doctor uses thin, hollow needles to take small amounts of bone marrow, most of the time from the hip bone. The area around the bone is numbed, and you might be given a drug to make you sleep during the test. The samples are sent to a lab to see if there are leukemia cells in the bone marrow. If you are having treatment, these tests can also be used to see how well treatment is working.
+Spinal tap (lumbar puncture): This test is not often needed for people with AML. For this test, the doctor first numbs an area in the lower part of the back over the spine. A small, hollow needle is placed between the bones of the spine to draw out some of the fluid that surrounds the brain and spinal cord, which is then checked for leukemia cells.
+Lab tests for leukemia: Samples from blood, bone marrow, or spinal fluid are looked at under a microscope to help the doctor find out what kind of leukemia you have. If leukemia cells are found, other lab tests might be done on the cells to look for certain gene changes in the cells. The results of these tests might help the doctor know how best to treat your leukemia.
+Other blood tests: If you have leukemia, other blood tests will be done to see how well your liver, kidneys, and other organs are working.
+Imaging tests: These tests take pictures of the inside of your body. There are many kinds of imaging tests, like x-rays, and CT and MRI scans. They are sometimes done to look for infections or other problems rather than to look for the leukemia. Ask your doctor what imaging tests you many need.
+Questions to ask the doctor
+
+What tests will I need?
+Who will do these tests?
+Where will they be done?
+Who can explain them to me?
+How and when will I get the results?
+Who will explain the results to me?
+What do I need to do next?
+
+Different types of AML
+AML is not just one disease. It is grouped into different types, based mainly on:
+
+The type of cell from which the leukemia started
+How mature the cells are
+Changes in the genes inside the AML cells
+
+Ask your doctor about the type of AML you have. This can affect your chances of getting better and which type of treatment might be best for you.
+Questions to ask the doctor
+
+What type of AML do I have?
+Are there any factors that might affect my chances of getting better?
+Are there other doctors I need to see?
+How many cases of AML have you treated?
+What will happen next?
+
+What kind of treatment will I need?
+AML often grows quickly, so it’s important to start treatment as soon as possible after it is found.
+The most common treatment for AML is chemotherapy (chemo). Other treatments are used less often.
+The treatment plan that is best for you will depend on:
+
+The type of AML
+The chance that a type of treatment will cure the leukemia or help in some way
+Your age and overall health
+If the AML cells have changes in certain genes
+Whether a matched stem cell donor can be found
+Your feelings about the treatment and the side effects that possibly come with it
+
+Chemotherapy
+Chemo is the use of drugs to fight cancer. These drugs go into the blood and spread through the body. Chemo is given in cycles or rounds. Each round of treatment is followed by a break.
+For people who are healthy enough, treatment of AML is usually divided into 2 parts:
+
+The first part is called induction. Its goal is to clear the blood of all leukemia cells. You usually get 2-3 chemo drugs over a week while in the hospital.
+The second part is called consolidation. Its goal is to kill any leftover leukemia cells and keep the AML from coming back. This treatment is most often given over several months. Sometimes it may include a stem cell transplant (see below).
+
+People who are older or who have other health problems might get less intense chemo.
+Side effects of chemo
+Chemo can have many side effects, like:
+
+Hair loss
+Mouth sores
+Not feeling like eating
+Diarrhea
+Feeling sick to your stomach and throwing up
+Increased risk of infections
+Getting black and blue marks and bleeding easily
+Feeling tired
+
+But these problems tend to go away after treatment ends. There are ways to treat most chemo side effects. Be sure to talk to your cancer care team so they can help.
+Targeted drugs work on certain parts of leukemia cells, which is different from how standard chemo drugs work. Targeted drugs can help some people with AML (such as if the AML cells have certain gene changes), but so far these drugs are used mainly if chemo isn't working.
+Stem cell transplant
+A stem cell transplant (SCT) lets doctors use very high doses of chemo to kill the leukemia cells. The high doses of these drugs destroy the bone marrow, which keeps new blood cells from being made. Although the drugs destroy the bone marrow, stem cells given after the chemo can restore the blood-making bone marrow stem cells. There are different kinds of SCT, each of which can have bad side effects. If your doctor suggests a SCT, ask which type you will have and what to expect.
+Surgery
+Surgery has only a small role in treating leukemia. This is because leukemia is a disease of blood and bone marrow and can’t be cured with surgery. Surgery may be used before chemo to put a small plastic tube called a central venous catheter (CVC) into a large vein. This allows drugs such as chemo to be given and blood samples to be taken out.
+Radiation treatments
+Radiation uses high-energy rays (like x-rays) to kill cancer cells. This treatment may be used to kill any leukemia cells that may be hiding in the brain or in the testicles. It also can be used before a stem cell transplant. Ask your doctor if radiation will be part of the treatment and what to expect.
+Side effects of radiation treatments
+Side effects depend on where the radiation is aimed. The most common side effects of radiation are:
+
+Skin changes where the radiation is given
+Feeling very tired
+
+These side effects tend to get better after treatment ends. Radiation can also cause long-term effects if it is aimed at some parts of the body. Talk to your cancer care team about what to expect.
+Clinical trials
+Clinical trials are research studies that test new drugs or other treatments in people. They compare standard treatments with others that may be better.
+If you would like to learn more about clinical trials that might be right for you, start by asking your doctor if your clinic or hospital runs clinical trials. See Clinical Trials to learn more.
+Clinical trials are one way to get the newest cancer treatment. They are the best way for doctors to find better ways to treat cancer. If your doctor can find one that’s studying the kind of cancer you have, you decide if you want to take part. And if you do sign up for a clinical trial, you can always stop at any time.
+What about other treatments I hear about?
+When you have cancer, you might hear about other ways to treat the cancer or treat your symptoms. These may not always be standard medical treatments. These treatments may be vitamins, herbs, special diets, and other things. You may wonder about these treatments.
+Some of these are known to help, but many have not been tested. Some have been shown not to help. A few have even been found to be harmful. Talk to your doctor about anything you’re thinking about using, whether it’s a vitamin, a diet, or anything else.
+Questions to ask the doctor
+
+What treatment do you think is best for me?
+What’s the goal of this treatment? Do you think it could cure the leukemia?
+What side effects could I have from treatment?
+What can I do about side effects that I might have?
+Is there a clinical trial that might be right for me?
+What about special vitamins or diets that friends tell me about? How will I know if they are safe?
+How soon do I need to start treatment?
+What should I do to be ready for treatment?
+Is there anything I can do to help the treatment work better?
+Should we think about a stem cell transplant? If so, when?
+How long do you think I will live?
+What will we do if the treatment doesn’t work or if the leukemia comes back?
+What’s the next step?
+
+What will happen after treatment?
+Treatment for AML can last for many months. Even after treatment ends, you will need many follow-up exams – likely every few months for several years. Be sure to go to all of these follow-up visits. Your doctors will ask about symptoms, do physical exams, and order blood tests and maybe other tests to see if your leukemia has come back.
+Having AML and dealing with treatment can be hard, but it can also be a time to look at your life in new ways. You may be thinking about how to improve your health. Call us at 1-800-227-2345 or talk to your doctor to find out what you can do to feel better.
+You can’t change the fact that you have AML. What you can change is how you live the rest of your life – making healthy choices and feeling as good as you can.

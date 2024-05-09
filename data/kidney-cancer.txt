@@ -1,0 +1,624 @@
+Kidney cancer is a type of cancer that starts in the kidney. Cancer starts when cells in the body begin to grow out of control. To learn more about how cancers start and spread, see What Is Cancer?
+To understand kidney cancer, it helps to know about the normal structure and function of the kidneys.
+The kidneys
+The kidneys are a pair of bean-shaped organs, each about the size of a fist. They are attached to the upper back wall of the abdomen and protected by the lower rib cage. One kidney is just to the left and the other just to the right of the backbone. The upper and lower portions of each kidney are sometimes called the superior pole and inferior pole.
+A small organ called an adrenal gland sits on top of each kidney. Each kidney and adrenal gland is surrounded by fat and a thin, fibrous layer known as Gerota’s fascia.How common is kidney cancer?
+The American Cancer Society’s most recent estimates for kidney cancer in the United States for 2024 are:
+
+
+About 81,610 new cases of kidney cancer (52,380 in men and 29,230 in women) will be diagnosed.
+About 14,390 people (9,450 men and 4,940 women) will die from this disease
+
+These numbers include all types of kidney and renal pelvis cancers.
+Most people with kidney cancer are older. The average age of people when they are diagnosed is 64 with most people being diagnosed between ages 65 and 74. Kidney cancer is very uncommon in people younger than age 45.
+Kidney cancer is about twice as common in men than in women and it is more common in African Americans, American Indians, and Alaska Natives.
+Lifetime risk of kidney cancer
+Kidney cancer is among the 10 most common cancers in both men and women. Overall, the lifetime risk for developing kidney cancer in men is about 1 in 43. The lifetime risk for women is about 1 in 73 . A number of factors (described in Risk Factors for Kidney Cancer) also affect a person’s risk.
+New cases and death rates
+For reasons that are not totally clear, the rate of new kidney cancers has been rising since the 1990s, although this seems to have leveled off in the past few years. Part of this rise was probably due to the use of newer imaging tests such as CT scans, which picked up some cancers that might never have been found otherwise.
+Kidney cancer death rates have been declining since the mid-1990s, about 1.6% per year from 2012 through 2021.
+Survival rates for people diagnosed with kidney cancer are discussed in Survival Rates for Kidney Cancer.
+Visit the American Cancer Society’s Cancer Statistics Center for more key statistics.Research into the causes, detection, diagnosis, and treatment of kidney cancer (renal cell carcinoma) is being done at many medical centers, university hospitals, and other institutions across the nation.
+Treatment options for non-clear cell renal cell carcinoma
+The most common type of renal cell carcinoma (RCC) is called clear cell. About 20% are different subtypes and called non-clear cell RCCs. Initial studies seem to show that they do not respond as well to targeted therapy drugs and appear to have poorer outcomes. More research is being done to find out how each subtype of non-clear cell RCC behaves in the hope this information will help guide better treatments for this type of kidney cancer.
+Targeted therapy and immunotherapy
+Because chemotherapy is not very effective against advanced kidney cancer, immune therapy drugs combinations, combinations of immune therapies with targeted therapies, and targeted therapies are now usually the first-line option to treat kidney cancers that cannot be removed by surgery or have spread outside the kidney. More research is being done to see which people with kidney cancer will benefit most from targeted therapy, immunotherapy or combinations. 
+Neoadjuvant therapy
+Giving targeted drugs before surgery (called neoadjuvant therapy) is also being studied to see if it will shrink large, bulky tumors to allow for less extensive surgery, prevent cancer spread, and hopefully improve cure rates. This could also help people retain more of their normal kidney function.
+Adjuvant therapy
+Giving targeted drugs after surgery (called adjuvant therapy) is also being studied to reduce the chances of the cancer coming back in patients at high risk of recurrence. To date, sunitinib (Sutent) is the only targeted drug approved for this, but it does not appear to help people live longer. 
+Along with finding new medicines and looking at the best way to combine and sequence existing ones, a major area of research is finding better ways to choose the best treatment for each person. Researchers are looking for which factors might make a person's cancer more likely to respond to a certain medicine. This can increase the chances of being helped by a therapy and lower the chances a person will get a treatment that is unlikely to help them (and which could still have side effects).
+Predicting response to treatment
+A common side effect of targeted therapy is high blood pressure. One study has shown that people who developed high blood pressure while taking sunitinib responded better to the treatment than those whose blood pressure remained normal. More research is being done to try to find out what other factors seen during targeted therapy treatment might help predict whose cancer is responding or not responding so adjustments can be made if needed.A risk factor is anything that increases your chance of getting a disease such as cancer. Different cancers have different risk factors. Some risk factors, like smoking, can be changed. Others, like your age or family history, can’t be changed.
+But having a risk factor, or even several risk factors, does not mean that you will get the disease. And some people who get the disease may have few or no known risk factors. Even if a person with kidney cancer has a risk factor, it is often very hard to know how much that risk factor contributed to the cancer.
+Scientists have found several risk factors that could make you more likely to develop kidney cancer.
+Smoking
+Smoking increases the risk of developing renal cell carcinoma (RCC), the most common type of kidney cancer. The increased risk seems to be related to how much you smoke. The risk drops if you stop smoking, but it takes many years to get to the risk level of someone who never smoked.
+Obesity
+People who are very overweight have a higher risk of developing RCC. Obesity may cause changes in certain hormones that can lead to RCC.
+High blood pressure
+The risk of kidney cancer is higher in people with high blood pressure. This risk does not seem to be lowered even if someone is taking medicines to treat the high blood pressure. 
+Family history of kidney cancer
+People with a strong family history of renal cell cancer (without one of the known inherited conditions listed below) have a higher chance of developing this cancer. This risk is highest for people who have a brother or sister with the cancer. It’s not clear whether this is due to shared genes, something that both people were exposed to in the environment, or both.
+Workplace exposures
+Many studies have suggested that workplace exposure to certain substances, such as trichloroethylene, increases the risk for RCC.
+Sex
+RCC is about twice as common in men as in women. Men are more likely to smoke and are more likely to be exposed to cancer-causing chemicals at work, which may account for some of the difference.
+Race
+African Americans have a slightly higher rate of RCC than do White people. The reasons for this are not clear﻿.
+Certain medicines
+Acetaminophen: Some studies have suggested that acetaminophen, a common pain medicine, may be linked to an increase in the risk of RCC.
+Advanced kidney disease
+People with advanced kidney disease, especially those needing dialysis, have a higher risk of RCC. (Dialysis is a treatment used to remove toxins from your body if your kidneys do not work properly.)
+Genetic and hereditary risk factors
+Some people inherit genes that can increase their chances of developing certain types of cancer. The DNA in each of your cells that you get from your parents may have changes that give you this risk.
+Some rare inherited conditions can increase a person's risk of kidney cancer. It is important that people who have hereditary conditions linked to RCC see their doctors often, especially if they have already been diagnosed with RCC. Some doctors might recommend regular imaging tests (such as CT scans) to look for new kidney tumors in these people.
+Most of the conditions listed here result in a much higher risk for getting kidney cancer, although they account for only a small portion of kidney cancers overall.
+von Hippel-Lindau disease
+People with this condition often develop several kinds of tumors and cysts (fluid-filled sacs) in different parts of the body. They have an increased risk for developing clear cell RCC, especially at a younger age. They may also have benign tumors in their eyes, brain, spinal cord, pancreas, and other organs; and a type of adrenal gland tumor called pheochromocytoma. This condition is caused by mutations (changes) in the VHL gene.
+Hereditary papillary renal cell carcinoma
+People with this condition have a tendency to develop one or more papillary RCCs, but they do not have tumors in other parts of the body, as is the case with the other inherited conditions listed here. This disorder is usually linked to changes in the MET gene.
+Hereditary leiomyoma-renal cell carcinoma
+People with this syndrome develop smooth muscle tumors called leiomyomas (fibroids) of the skin and uterus (in women) and have a higher risk for developing papillary RCCs. It has been linked to changes in the FH gene.
+Birt-Hogg-Dube (BHD) syndrome
+People with this syndrome develop many small benign skin tumors and have an increased risk of different kinds of kidney tumors, including RCCs and oncocytomas. They may also have benign or malignant tumors of several other tissues. The gene linked to BHD is known as FLCN.
+Familial renal cancer
+People with this condition develop tumors called paragangliomas of the head and neck region and thyroid cancers. They also tend to get kidney cancer in both kidneys before age 40. It is caused by defects in the genes SDHB and SDHD.
+Cowden syndrome
+People with this syndrome have a high risk of breast, thyroid and kidney cancers. It is linked to changes in the PTEN gene.  
+Tuberous sclerosis
+People with this syndrome develop many, usually benign (noncancerous) tumors in different parts of the body including the skin, brain, lungs, eyes, kidneys, and heart. Although the kidney tumors are most often benign, occasionally they can be clear cell RCC. It is caused by defects in the genes TSC1 and TSC2﻿.
+Sickle cell trait and disease
+Some people inherit a change in a gene that codes for hemoglobin, the protein in red blood cells that helps them carry oxygen. People who inherit this gene change from one parent have sickle cell trait (SCT), but usually don’t have obvious symptoms from it. People who inherit gene changes from both parents have sickle cell disease (SCD). People with either SCT or SCD have an increased risk of renal medullary carcinoma (RMC). This rare subtype of RCC most often occurs in younger people, tends to grow quickly, and can be hard to treat. The increased risk of RMC is thought to be caused by changes in the SMARCB1 gene.Although many risk factors can increase the chance of developing renal cell cancer (RCC), it is not yet clear how some of these risk factors cause kidney cells to become cancer.
+Changes (mutations) in genes
+Cancer is caused by changes in the DNA inside our cells. DNA is the chemical in our cells that makes up our genes. Genes control how our cells function. DNA, which comes from both our parents, affects more than just how we look.
+Some genes help control when our cells grow, divide into new cells, and die:
+
+Certain genes that help cells grow, divide, and stay alive are called oncogenes.
+Genes that help keep cell division under control or cause cells to die at the right time are called tumor suppressor genes.
+
+Cancers can be caused by DNA mutations (changes) that turn on oncogenes or turn off tumor suppressor genes, resulting in cells growing out of control. Changes in many different genes are usually needed to cause kidney cancer.
+Inherited gene mutations
+Certain inherited DNA changes can run in some families and increase the risk of kidney cancer. These syndromes, which cause a small portion of all kidney cancers, are described in Risk Factors for Kidney Cancer.
+For example, VHL, the gene that causes von Hippel-Lindau (VHL) disease, is a tumor suppressor gene. It normally helps keep cells from growing out of control. Mutations (changes) in this gene can be inherited from parents. When the VHL gene is mutated, it is no longer able to control the abnormal growth, and kidney cancer is more likely to develop.
+Inherited changes in the following tumor suppressor genes also lead to an increased risk of kidney cancer:
+
+The FH genes (linked to hereditary leiomyomas which can cause fibroids in the skin and uterus)
+The FLCN gene (as seen in Birt-Hogg-Dube syndrome)
+The SDHB and SDHD genes (as seen in familial renal cancer)
+
+People with hereditary papillary renal cell carcinoma have inherited changes in the MET oncogene that cause it to be turned on all the time. This can lead to uncontrolled cell growth and makes the person more likely to develop papillary RCC.
+Special genetic tests can detect some of the gene mutations associated with these inherited syndromes. If you have a family history of kidney cancer or other cancers linked to these syndromes, you may want to ask your doctor about genetic counseling and genetic testing. The American Cancer Society recommends discussing genetic testing with a qualified cancer genetics professional before any genetic testing is done. For more on this, see Understanding Genetic Testing for Cancer and What Happens during Genetic Testing for Cancer? ﻿
+Acquired gene mutations
+Some gene mutations happen during a person’s lifetime and are not passed on. They affect only cells that come from the original mutated cell. These DNA changes are called acquired mutations.
+In most cases of kidney cancer, the DNA mutations that lead to cancer are acquired during a person’s life rather than having been inherited. Certain risk factors, such as exposure to cancer-causing chemicals (like those found in tobacco smoke), probably play a role in causing these acquired mutations, but so far it’s not known what causes most of them. Progress has been made in understanding how tobacco increases the risk for developing kidney cancer. Your lungs absorb many of the cancer-causing chemicals in tobacco smoke into the bloodstream. Because your kidneys filter this blood, many of these chemicals become concentrated in the kidneys. Several of these chemicals are known to damage kidney cells in ways that can cause the cells to become cancer.
+Obesity, another risk factor for this cancer, alters the balance of some of the body’s hormones. Researchers are now learning how certain hormones help control the growth (both normal and abnormal) of many different tissues in the body, including the kidneys.
+Most people with sporadic (non-inherited) clear cell RCC have changes in the VHL gene in their tumor cells that have caused the gene to stop working properly. These gene changes are acquired during a person's life rather than being inherited.
+Other gene changes may also cause renal cell carcinomas. Researchers continue to look for these changes. For more about how genes changes can lead to cancer, see Genetics and Cancer.In many cases, the cause of kidney cancer is not known. In some other cases (such as with inherited conditions), even when the cause is known it may not be preventable. But there are some ways you may be able to reduce your risk of this disease.
+Cigarette smoking is responsible for a large percentage of cases, so stopping smoking may lower your risk.
+Obesity and high blood pressure are also risk factors for renal cell cancer. Maintaining a healthy weight by exercising and choosing a diet high in fruits and vegetables may also reduce your chance of getting this disease.
+Avoiding exposure to harmful substances such as trichloroethylene at work, may also reduce your risk for renal cell cancer.Many kidney cancers are found fairly early, while they are still limited to the kidney, but others are found at a more advanced stage. There are a few reasons for this:
+
+These cancers can sometimes grow quite large without causing any pain or other problems.
+Because the kidneys are deep inside the body, small kidney tumors cannot be seen or felt during a physical exam.
+There are no recommended screening tests for kidney cancer in people who are not at increased risk. This is because no test has been shown to lower the overall risk of dying from kidney cancer.
+
+For people at average risk of kidney cancer
+Some tests can find some kidney cancers early, but none of these is recommended to screen for kidney cancer in people at average risk.
+A routine urine test (urinalysis), which is sometimes part of a complete medical checkup, may find small amounts of blood in the urine of some people with early kidney cancer. But many things other than kidney cancer cause blood in the urine, including urinary tract infections, bladder infections, bladder cancer, and benign (non-cancerous) kidney conditions such as kidney stones. Sometimes people with kidney cancer do not have blood in their urine until the cancer is quite large and might have spread to other parts of the body.
+Imaging tests such as computed tomography (CT) scans and magnetic resonance imaging (MRI) scans can often find small kidney cancers, but these tests are expensive. Ultrasound is less expensive and can also detect some early kidney cancers. One problem with these tests is that they can’t always tell benign tumors from small renal cell carcinomas.
+Often, kidney cancers are found by accident during imaging tests for some other illness or symptom. These cancers usually are not causing pain or other symptoms when they are found. The survival rate for these kidney cancers is very high because they are usually found at a very early stage.
+For people at increased risk of kidney cancer
+People who have certain inherited conditions, such as von Hippel-Lindau disease, have a higher risk of kidney cancer. Doctors often recommend that these people get regular imaging tests such as CT, MRI, or ultrasound scans at younger ages, to look for kidney tumors. Kidney cancers that are found early with these tests can often be cured.
+It is important to tell your doctor if any of your family members (blood relatives) has or had kidney cancer, especially at a younger age, or if they have been diagnosed with an inherited condition linked to this cancer, such as von Hippel-Lindau disease. Your doctor may recommend that you consider genetic counseling and testing to see if you have the condition.
+Before having genetic tests, it’s important to talk with a genetic counselor so that you understand what the tests can − and can’t − tell you, and what any results would mean. Genetic tests look for the gene mutations that cause these conditions in your DNA. They are used to diagnose these inherited conditions, not kidney cancer itself. Your risk may be increased if you have one of these conditions, but it does not mean that you have (or definitely will get) kidney cancer. For more information on genetic testing, see Genetics and Cancer.
+Some doctors also recommend that people with kidney diseases treated by long-term dialysis or those who have had radiation to their kidney in the past have regular tests to look for kidney cancer.Early kidney cancers usually do not cause any signs or symptoms, but larger ones might. Some possible signs and symptoms of kidney cancer include:
+
+Blood in the urine (hematuria)
+Low back pain on one side (not caused by injury)
+A mass (lump) on the side or lower back
+Fatigue (tiredness)
+Loss of appetite
+Weight loss not caused by dieting
+Fever that is not caused by an infection and that doesn’t go away
+Anemia (low red blood cell counts)
+
+These signs and symptoms can be caused by kidney cancer (or another type of cancer), but more often they are caused by other, benign, diseases. For example, blood in the urine is most often caused by a bladder or urinary tract infection or a kidney stone. Still, if you have any of these symptoms, see a doctor so that the cause can be found and treated, if needed.Kidney cancer might be found because of signs or symptoms a person is having, or it might be found because of lab tests or imaging tests a person is getting for another reason. The actual diagnosis of kidney cancer is made by looking at a sample of kidney cells in the lab or sometimes by how the kidney looks on an imaging test. If you think you have possible signs or symptoms of kidney cancer, see your doctor.
+Medical history and physical exam
+If you have any signs or symptoms that suggest you might have kidney cancer, your doctor will want to take your complete medical history to check for risk factors and to learn more about your symptoms.
+A physical exam can provide information about signs of kidney cancer and other health problems. For example, the doctor may be able to feel an abnormal mass (lump) when they examine your abdomen (belly).
+If symptoms or the results of the physical exam suggest you might have kidney cancer, more tests will probably be done. These might include lab tests,imaging tests, or biopsies of the kidney.
+Blood tests
+Lab tests cannot show for sure if a person has kidney cancer, but they can sometimes give the first hint that there may be a kidney problem. If cancer has already been diagnosed, they are also done to get a sense of a person’s overall health and to help tell if the cancer might have spread to other areas. They also can help show if a person is healthy enough to have an operation.
+
+Special tests are done on a urine sample to look for small amounts of blood and other substances not seen with the naked eye. About half of all patients with renal cell cancer will have blood in their urine. If the patient has transitional cell carcinoma (in the renal pelvis, the ureter, or the bladder), sometimes a special test of the urine sample (called urine cytology) will show actual cancer cells in the urine.
+Complete blood count (CBC): This is a test that measures the number of different cells in the blood. This test result is often abnormal in people with kidney cancer. Anemia (having too few red blood cells) is very common. Less often, a person may have too many red blood cells (called polycythemia) because the kidney cancer cells make a hormone (erythropoietin) that causes the bone marrow to make more red blood cells. Blood counts are also important to make sure a person is healthy enough for surgery.
+Blood chemistry tests: These tests are usually done in people who might have kidney cancer, because the cancer can affect the levels of certain chemicals in the blood. For example, high levels of liver enzymes are sometimes found. High blood calcium levels may be found which might lead to more imaging tests. Blood chemistry tests also measure kidney function, which is especially important if certain imaging tests or if surgery is planned.
+Urinalysis (urine testing)
+This test of your urine may be done if your doctor suspects a kidney problem.
+Imaging tests to look for kidney cancer
+Imaging tests use x-rays, magnetic fields, sound waves, or radioactive substances to create pictures of the inside of your body. Imaging tests are done for a number of reasons, such as:
+
+To look at suspicious areas that might be cancer
+To learn how far cancer might have spread
+To help determine if treatment is working
+To look for possible signs of cancer coming back after treatment
+
+Unlike most other cancers, doctors can often diagnose kidney cancer with fair certainty based on imaging tests without doing a biopsy (removing a sample of the tumor). Some patients, however, may need a biopsy.
+Computed tomography (CT) scan
+The CT scan uses x-rays to make detailed cross-sectional images of your body. It can provide precise information about the size, shape, and location of a tumor. It is also useful in checking to see if a cancer has spread to nearby lymph nodes or to organs and tissues outside the kidney.
+CT-guided needle biopsy: If a kidney biopsy is needed, this test can also be used to guide a biopsy needle into the mass (lump) to get a sample to check for cancer.
+When a CT is done to look at the kidneys, an IV (intravenous) contrast dye is often needed to make certain areas stand out better on the scan. This CT contrast can damage the kidneys. This happens more often in patients whose kidneys are not working well in the first place. Because of this, your kidney function will be checked with a blood test before you get IV contrast.
+Magnetic resonance imaging (MRI) scan
+MRI scans may be done when a person can’t have the CT contrast dye because they have an allergy to it or they don’t have good kidney function. MRI scans may also be done if there’s a chance that the cancer has grown into major blood vessels in the abdomen (like the inferior vena cava), because they provide a better picture of blood vessels than CT scans. Finally, they may be used to look at abnormal areas in the brain and spinal cord that might be due to cancer spread.
+Ultrasound
+Ultrasound can help find a kidney mass and show if it is solid or filled with fluid (kidney tumors are more likely to be solid). Different ultrasound patterns can also help doctors tell the difference between some types of benign and malignant kidney tumors.
+If a kidney biopsy is needed, this test can also be used to guide a biopsy needle into the mass to take a sample.
+
+
+
+
+
+
+Angiography
+Angiography is an x-ray test that looks at blood vessels. In traditional angiography, a contrast dye is injected into the renal artery, and the dye outlines the blood vessels. X-rays are taken to identify and map the blood vessels that feed a kidney tumor. 
+This test can help in planning surgery for some patients. Angiography can also help diagnose renal cancers since the blood vessels usually have a special appearance with this test.
+Nowadays, angiography is done as a part of a CT or MRI scan , instead of as a separate x-ray test. This means less contrast dye is used, which is helpful since the dye can damage kidney function.
+Chest x-ray
+An x-ray may be done after kidney cancer has been diagnosed to see if cancer has spread to the lungs. More often though, a CT chest is done because it can see abnormal areas better. 
+Bone scan
+A bone scan can help show if a cancer has spread to your bones. A small amount of low-level radioactive material is injected into the blood and collects mainly in abnormal areas of bone. It might be done if there is reason to think the cancer might have spread to the bones such as bone pain or blood test results showing an increased calcium level.
+Kidney biopsy
+Unlike with most other types of cancer, biopsies are sometimes not needed to diagnose kidney tumors. In certain cases, imaging tests can provide enough information for a surgeon to decide if an operation is needed. The diagnosis is then confirmed when part of the kidney that was removed is looked at in the lab.
+A biopsy might be done to get a small sample of tissue from an area that may be cancer when the imaging tests are not clear enough to permit surgery. Biopsy may also be done to confirm cancer if a person might not be treated with surgery, such as with small tumors that will be watched and not treated, or when other treatments are being considered.
+Fine needle aspiration (FNA) and needle core biopsy are 2 types of kidney biopsies that may be done.
+In cases where the doctors think kidney cancer might have spread to other sites, they may take a biopsy of the metastatic site instead of the kidney.
+Biopsy results
+The biopsy samples are sent to a lab, where they are looked at by a pathologist, a doctor who specializes in diagnosing diseases with lab tests. If kidney cancer is found, an important feature that is evaluated is the grade, specifically called the Fuhrman grade.
+The Fuhrman grade is found by looking at kidney cancer cells in the lab. Many doctors use it to describe how quickly the cancer is likely to grow and spread. The grade is based on how closely the cancer cells look like those of normal kidney cells. Renal cell cancers are usually graded on a scale of 1 through 4. Grade 1 renal cell cancers have cells that look a lot like normal kidney cells. These cancers usually grow and spread slowly and tend to have a good prognosis (outlook). At the other extreme, grade 4 renal cell cancer looks quite different from normal kidney cells. These cancers tend to have a worse prognosis.After someone is diagnosed with kidney cancer, doctors will try to figure out whether it has spread, and if so, how far. This process is called staging. The stage of a cancer describes how much cancer is in the body. It helps determine how serious the cancer is and how best to treat it. Doctors also use a cancer's stage when talking about survival statistics.
+The stages of kidney cancer range from I (1) through IV (4). As a rule, the lower the number, the less the cancer has spread. A higher number, such as stage IV, means cancer has spread more. And within a stage, an earlier letter (or number) means a lower stage. Although each person’s cancer experience is unique, cancers with similar stages tend to have a similar outlook and are often treated in much the same way.
+How is stage determined?
+The staging system most often used for kidney cancer is the American Joint Committee on Cancer (AJCC) TNM system. The TNM system is based on 3 key pieces of information:
+
+The size and extent of the main tumor (T): How large is the tumor? Has it has grown into nearby areas?
+The spread to nearby lymph nodes (N): Has the cancer spread to nearby lymph nodes?
+The spread (metastasis) to distant sites (M): Has the cancer spread to other organs such as the bones, brain, or lungs?
+
+Numbers or letters after T, N, and M provide more details about each of these factors. Higher numbers mean the cancer is more advanced. Once a person’s T, N, and M categories have been determined, this information is combined in a process called stage grouping to assign an overall stage. To learn more, see Cancer Staging.
+The system described below is the most recent version of the AJCC system, effective as of January 2018.
+Kidney cancer is typically given a clinical stage based on the results of a physical exam, biopsy, and imaging tests (described in Tests for Kidney Cancer). If surgery is done, the pathologic stage (also called the surgical stage) is determined by examining tissue removed during the operation.
+Kidney cancer staging can be complex. If you have any questions about your stage, please ask your doctor to explain it to you in a way you understand.
+
+
+
+Stage
+Stage grouping
+Stage description*
+
+
+I
+T1  N0  M0
+The tumor is 7 cm across or smaller and is only in the kidney (T1). There is no spread to lymph nodes (N0) or distant organs (M0).
+
+
+II
+T2  N0  M0
+The tumor is larger than 7 cm across but is still only in the kidney (T2). There is no spread to lymph nodes (N0) or distant organs (M0).
+
+
+        III  
+T3  N0  M0
+The tumor is growing into a major vein (like the renal vein or the vena cava) or into tissue around the kidney, but it is not growing into the adrenal gland or beyond Gerota’s fascia (T3). There is no spread to lymph nodes (N0) or distant organs (M0).
+
+
+OR
+
+
+T1 to T3  N1  M0
+The main tumor can be any size and may be outside the kidney, but it has not spread beyond Gerota’s fascia. The cancer has spread to nearby lymph nodes (N1) but has not spread to distant lymph nodes or other organs (M0).
+
+
+IV
+T4  Any N  M0
+The main tumor is growing beyond Gerota’s fascia and may be growing into the adrenal gland on top of the kidney (T4). It may or may not have spread to nearby lymph nodes (any N). It has not spread to distant lymph nodes or other organs (M0).
+
+
+OR
+
+
+Any T  Any N  M1
+The main tumor can be any size and may have grown outside the kidney (any T). It may or may not have spread to nearby lymph nodes (any N). It has spread to distant lymph nodes and/or other organs (M1).
+
+
+
+*The following additional categories are not listed in the table above:
+
+T0: There is no evidence of a primary tumor.
+NX: Nearby lymph nodes cannot be assessed due to lack of information.
+
+Prognostic systems
+The stage of the cancer is important, but other factors should be considered when determining prognosis (outcome) and treatment of people with Stage IV (metastatic) renal cell carcinoma. The two systems that are commonly used are the Memorial Sloan Kettering Cancer Center (MSKCC) criteria and the International Metastatic Renal Cell Carcinoma Database Consortium (IMDC) criteria.
+These two systems use 5 or 6 factors which, when combined, put people into low-, intermediate-, and high-risk groups.
+The MSKCC system includes:
+
+High blood lactate dehydrogenase (LDH) level
+High blood calcium level
+Anemia (low red blood cell count)
+Less than a year from diagnosis to the need for systemic treatment (targeted therapy, immunotherapy, or chemotherapy)
+Poor performance status (a measure of how well a person can do normal daily activities)
+
+The IMDC system includes:
+
+High white blood cell count (neutrophils)
+High platelet cell count
+High blood calcium level
+Anemia (low red blood cell count)
+Less than a year from diagnosis to the need for systemic treatment (targeted therapy, immunotherapy, or chemotherapy)
+Poor performance status (a measure of how well a person can do normal daily activities)
+
+For each system, people with:
+
+None of the above factors are considered to be low-risk and have a good prognosis
+1 or 2 factors are considered to be intermediate-risk and have an intermediate prognosis
+3 or more of these factors are considered to be high-risk, have a poor prognosis, and may be less likely to benefit from certain treatments.Survival rates can give you an idea of what percentage of people with the same type and stage of cancer are still alive a certain amount of time (usually 5 years) after they were diagnosed. They can’t tell you how long you will live, but they may help give you a better understanding of how likely it is that your treatment will be successful.
+Keep in mind that survival rates are estimates and are often based on previous outcomes of large numbers of people who had a specific cancer, but they can’t predict what will happen in any particular person’s case. These statistics can be confusing and may lead you to have more questions. Ask your doctor how these numbers might apply to you. 
+What is a 5-year relative survival rate?
+A relative survival rate compares people with the same type and stage of kidney cancer to people in the overall population. For example, if the 5-year relative survival rate for a specific stage of kidney cancer is 80%, it means that people who have that cancer are, on average, about 80% as likely as people who don’t have that cancer to live for at least 5 years after being diagnosed.
+Where do these numbers come from?
+The American Cancer Society relies on information from the Surveillance, Epidemiology, and End Results (SEER) database, maintained by the National Cancer Institute (NCI), to provide survival statistics for different types of cancer.
+The SEER database tracks 5-year relative survival rates for kidney cancer in the United States, based on how far the cancer has spread. The SEER database, however, does not group cancers by AJCC TNM stages (stage 1, stage 2, stage 3, etc.). Instead, it groups cancers into localized, regional, and distant stages:
+
+Localized: There is no sign that the cancer has spread outside of the kidney.
+Regional: The cancer has spread outside the kidney to nearby structures or lymph nodes.
+Distant: Includes cancers that have spread to distant parts of the body such as the lungs, brain, or bones.
+
+5-year relative survival rates for kidney cancer
+Based on people diagnosed with cancers of the kidney (or renal pelvis) between 2013 and 2019.
+
+
+
+SEER* stage
+5-year relative survival rate
+
+
+Localized
+93%
+
+
+Regional
+74%
+
+
+Distant
+17%
+
+
+All SEER stages combined
+78%
+
+
+
+*SEER = Surveillance, Epidemiology, and End Results
+Understanding the numbers
+
+People now being diagnosed with kidney cancer may have a better outlook than these numbers show. Treatments improve over time, and these numbers are based on people who were diagnosed and treated at least 5 years earlier.
+These numbers apply only to the stage of the cancer when it is first diagnosed. They do not apply later on if the cancer grows, spreads, or comes back after treatment.
+These numbers don’t take everything into account. Survival rates are grouped based on how far the cancer has spread, but your age, overall health, how well the cancer responds to treatment, and other factors can also affect your outlook.It’s important to have honest, open discussions with your cancer care team. They want to answer all your questions, so that you can make informed treatment and life decisions. For instance, consider these questions:
+When you’re told you have kidney cancer
+
+What type of kidney cancer do I have?
+Where is the cancer located?
+Has the cancer spread beyond where it started?
+What is the stage of the cancer, and what does that mean for me?
+Will I need other tests before we can decide on treatment?
+Do I need to see any other doctors or health professionals?
+If I’m concerned about the costs and insurance coverage for my diagnosis and treatment, who can help me?
+
+When deciding on a treatment plan
+
+What are my treatment options?
+What do you recommend and why?
+How much experience do you have treating this type of cancer?
+Should I get a second opinion? How do I do that? Can you recommend someone?
+What would the goal of treatment be?
+How quickly do we need to decide on treatment? What should I do to be ready for treatment?
+How long will treatment last? What will it be like? Where will it be done?
+What risks or side effects are there to the treatments you suggest? Are there things I can do to reduce the side effects?
+How might treatment affect my daily activities? Can I still work full time?
+What are the chances the cancer will recur (come back) with these treatment plans?
+What will we do if the treatment doesn’t work or if the cancer recurs?
+What if I have trouble getting to and from my treatments because of transportation problems?
+If I have stage 4 kidney cancer, what is my risk group and what does that mean for me?
+
+During treatment
+Once treatment begins, you’ll need to know what to expect and what to look for. Not all of these questions may apply to you, but asking the ones that do may be helpful.
+
+How will we know if the treatment is working?
+Is there anything I can do to help manage side effects?
+What symptoms or side effects should I tell you about right away?
+How can I reach you on nights, holidays, or weekends?
+Do I need to change what I eat during treatment?
+Are there any limits on what I can do?
+Can I exercise during treatment? If so, what kind of exercise should I do, and how often?
+ If I start to feel overwhelmed, depressed, or distressed, can you suggest a mental health professional I can see?
+What if I need some social support during treatment because my family lives far away?
+
+After treatment
+
+Do I need a special diet after treatment?
+Are there any limits on what I can do?
+What other symptoms should I watch for?
+What kind of exercise should I do now?
+What type of follow-up will I need after treatment?
+How often will I need to have follow-up exams and imaging tests?
+Will I need any blood tests?
+How will we know if the cancer has come back? What should I watch for?
+
+Along with these sample questions, be sure to write down some of your own. For instance, you might want more information about recovery times so you can plan your work or activity schedule. You might also want to ask about clinical trials for which you may qualify.
+Keep in mind that doctors are not the only ones who can provide you with information. Other health care professionals, such as nurses and social workers, may have the answers to some of your questions. You can find more information about communicating with your health care team in The Doctor-Patient Relationship﻿.Surgery is the main treatment for most kidney cancers and many times it can cure the cancer by itself.
+Depending on the stage and location of the cancer and other factors, surgery might be done to remove the entire kidney including the tumor (known as a radical nephrectomy) or the cancer alone along with some of the surrounding kidney tissue (known as a partial nephrectomy). Sometimes, the adrenal gland (the small organ that sits on top of each kidney) and fatty tissue around the kidney is removed as well. In certain cases, the nearby lymph nodes might also be removed.
+Some people whose cancer has spread to other organs may benefit from surgery that takes out the kidney tumor. Removing the kidney might also lessen symptoms such as pain and bleeding.
+Radical nephrectomy
+In this operation, the surgeon removes your whole kidney, the attached adrenal gland, nearby lymph nodes, and the fatty tissue around the kidney. Most people do just fine with only one working kidney.
+The surgeon can make the incision in several places. The most common sites are the middle of the abdomen (belly), under the ribs on the same side as the cancer, or in the back, just behind the kidney. Each approach has its benefits in treating cancers of different sizes and in different parts of the kidney. Although removing the adrenal gland is a part of a standard radical nephrectomy, the surgeon may be able to leave it behind in some cases where the cancer is in the lower part of the kidney and is far away from the adrenal gland.
+If the tumor has grown from the kidney through the renal vein (the vein leading away from the kidney) and into the inferior vena cava (the large vein that empties into the heart), the heart may need to be stopped for a short time in order to remove the tumor. The patient is put on cardiopulmonary bypass (a heart-lung machine) that circulates the blood while bypassing the heart. If you need this, a heart surgeon will work with your urologist during your operation.
+Laparoscopic nephrectomy and robotic-assisted laparoscopic nephrectomy
+These approaches to the operation are done through several small incisions instead of one large one. If a radical nephrectomy is needed, many doctors and patients now prefer to use these approaches when they can.
+Laparoscopic nephrectomy: Special long instruments are inserted through the incisions, each of which is about 1/2-inch (1.27cm) long, to remove the kidney. One of the instruments, the laparoscope, is a long tube with a small video camera on the end. This lets the surgeon see inside the abdomen. Usually, one of the incisions has to be made longer in order to remove the kidney (although it’s not as long as the incision for a standard radical nephrectomy).
+Robotic-assisted laparoscopic nephrectomy:  This approach uses a robotic system to do the laparoscopic surgery remotely. The surgeon sits at a panel near the operating table and controls robotic arms to operate. For the surgeon, the robotic system may allow them to move the instruments more easily and with more precision than during standard laparoscopic surgery. But the most important factor in the success of either type of laparoscopic surgery is the surgeon’s experience and skill. This is a difficult approach to learn. If you are considering this type of operation, be sure to find a surgeon with a lot of experience.
+In experienced hands, the technique is as effective as an open radical nephrectomy and usually results in a shorter hospital stay, a faster recovery, and less pain after surgery. This approach may not be an option for tumors larger than about 7 cm (3 inches) across or tumors that have grown into the renal vein or spread to lymph nodes around the kidney.
+Partial nephrectomy (nephron-sparing surgery)
+In a partial nephrectomy, the surgeon removes only the part of the kidney that contains cancer, leaving the rest of the kidney behind. As with a radical nephrectomy, the surgeon can make the incision in several places, depending on factors like the location of the tumor.
+Partial nephrectomy is now the preferred treatment for many people with early-stage kidney cancer. It is often done to remove single small tumors (less than 4 cm or 1½ inches across), and can also be done to remove larger tumors (up to 7 cm or 3 inches across). Studies have shown the long-term results to be about the same as when the whole kidney is removed. The obvious benefit is that the patient keeps more kidney function.
+A partial nephrectomy might not be an option if the tumor is in the middle of the kidney, if it is very large, if there is more than one tumor in the same kidney, or if the cancer has spread to the lymph nodes or distant organs. Not all doctors can do this type of surgery. It should only be done by one with a lot of experience.
+Laparoscopic partial nephrectomy and robotic-assisted laparoscopic partial nephrectomy
+Many doctors now do partial nephrectomies laparoscopically or using a robot (as described above). But again, this is a difficult operation, and it should only be done by a surgeon with a great deal of experience.
+Regional lymphadenectomy (lymph node dissection)
+This procedure removes nearby lymph nodes to see if they contain cancer. Some doctors do this when doing a radical nephrectomy. More lymph nodes may be removed if the tumor has features suggesting it is at high risk of spreading.
+Most doctors agree that the lymph nodes should be removed if they look enlarged on imaging tests or feel abnormal during the operation. Some doctors also remove these lymph nodes to check them for cancer spread even when they aren’t enlarged, to better stage the cancer. Before surgery, ask your doctor if they plan to remove the lymph nodes near the kidney.
+Removal of an adrenal gland (adrenalectomy)
+Although this is a standard part of a radical nephrectomy, if the cancer is in the lower part of the kidney (away from the adrenal gland) and imaging tests show the adrenal gland is not affected, it might not have to be removed. Just like with lymph node removal, this is decided on an individual basis and should be discussed with the doctor before surgery.
+Removal of metastases
+In about 1 in 3 people with kidney cancer, the cancer will already have spread (metastasized) to other parts of the body when it is diagnosed. The lungs, lymph nodes, bones, and liver are the most common sites of spread. For some people, surgery may still be helpful.
+Attempting a surgical cure
+In rare cases where there is only a single metastasis or if there are only a few that can be removed easily without causing serious side effects, surgery may lead to long-term survival in some people.
+The metastasis may be removed at the same time as a radical nephrectomy or later if the cancer recurs (comes back).
+Surgery to relieve symptoms (palliative surgery)
+When other treatments aren’t helpful, surgically removing the metastases can sometimes relieve pain and other symptoms, although this usually does not help people live longer.
+Risks and side effects of surgery
+The short-term risks of any type of surgery include reactions to anesthesia, too much bleeding (which might require blood transfusions), blood clots, and infections. Most people will have at least some pain after the operation, which can usually be helped with pain medicines, if needed.
+Other possible risks of surgery include:
+
+Damage to internal organs and blood vessels (such as the spleen, pancreas, aorta, vena cava, large or small bowel) during surgery
+Pneumothorax (unwanted air in the chest cavity)
+Incisional hernia (bulging of internal organs near the surgical incision due to problems with wound healing)
+Leakage of urine into the abdomen (after partial nephrectomy)
+Kidney failure (if the remaining kidney fails to function well)Whenever possible, surgery is the main treatment for kidney cancer that can be removed. But for people who are too sick to have surgery or don't want to have surgery, other treatments can sometimes be used to destroy the kidney tumor. These approaches are usually considered for small (no larger than 4 cm or1½ inches) kidney cancers. There is much less data on how well these treatments work over time than there is for surgery, but they might be helpful for some people.
+Cryotherapy (cryoablation)
+Cryotherapy uses extreme cold to destroy the tumor. A hollow probe (needle) is inserted into the tumor either through the skin (percutaneously) or during laparoscopy (see Surgery for Kidney Cancer). Very cold gases are passed through the probe, creating an ice ball at its tip that destroys the tumor. To be sure the tumor is destroyed without too much damage to nearby tissues, the doctor carefully watches images of the tumor during the procedure (with ultrasound, CT or MRI scans) or measures tissue temperature.
+The type of anesthesia used for cryotherapy depends on how the procedure is being done. Possible side effects include bleeding and damage to the kidneys or other nearby organs.
+Radiofrequency ablation (RFA)
+Radiofrequency ablation uses high-energy radio waves to heat the tumor. A thin, needle-like probe is placed through the skin and moved forward until the end is in the tumor. Placement of the probe is guided by ultrasound or CT scan. Once it is in place, an electric current is passed through the tip of the probe. This heats the tumor and destroys the cancer cells.
+RFA is usually done as an outpatient procedure, using local anesthesia (numbing medicine) where the probe is inserted. You may be given medicine to help you relax as well.
+Major complications are uncommon, but they can include bleeding and damage to the kidneys or other nearby organs.Some small kidney tumors are benign. And most (3 out of 4) small kidney cancers are slow growing.  One option for some people with these small kidney tumors (less than 4 cm[about 1½ inches]), may be to give no treatment at first and watch the tumor carefully to see if it grows. This is usually done by imaging tests (ultrasound, CT or MRI scan) every 3 to 6 months. If it grows quickly or gets larger than 4 cm, the tumor is removed or treated another way.
+This approach is most often used for elderly or frail patients as it avoids the risks of treatment, such as surgery or ablation. Watching the tumor closely for a time helps doctors decide which tumors are more likely to be cancer based on their growth. Sometimes, a biopsy is done before deciding to watch the tumor to see if the lump is really cancer.Radiation therapy uses high-energy rays or particles to kill cancer cells.
+Radiation is sometimes used to treat kidney cancer if a person is not healthy enough to have surgery or has only one kidney. Sometimes other treatments will be tried first instead. When radiation therapy is used to treat kidney cancer, it is usually external beam therapy (EBRT), which focuses radiation on the cancer from a source outside the body. If radiation is used to treat a single area of cancer spread, for example in the lung, it is usually stereotactic body radiation therapy (SBRT), a special type of EBRT.
+For people with kidney cancer, radiation therapy is more often used to palliate, or ease, cancer symptoms such as pain, bleeding, or problems caused by cancer spread (especially to the bones or brain).
+Possible side effects of radiation therapy
+Side effects of radiation therapy depend on where it is aimed and can include skin changes (similar to sunburn) and hair loss where the radiation passes through the skin, nausea, diarrhea, or tiredness. Often these go away after a short while. Radiation may also make side effects from some other treatments worse.As researchers learn more about the changes in cells that cause cancer, they have developed drugs that target some of these changes. These targeted drugs are different from standard chemotherapy drugs. They sometimes work when standard chemo drugs don’t, and they often have different side effects.
+Targeted drugs are proving to be especially important in kidney cancer, where chemotherapy has not been shown to be very effective.
+When might targeted drugs be used?
+Treating advanced kidney cancer
+All of the targeted drugs below can be used to treat advanced kidney cancers. They can often shrink or slow the growth of the cancer for a time, but it doesn’t seem that any of these drugs can actually cure kidney cancer.
+Targeted drugs are most often used one at a time. If one doesn’t work, another can be tried. It’s not yet known if any one of these drugs is clearly better than the others, if combining them might be more helpful than giving them one at a time, or if one sequence is better than another. Studies are being done to help answer these questions.
+Adjuvant therapy after surgery
+The targeted drug sunitinib (Sutent) can also be used after surgery in people with a high risk of the cancer returning, to help lower the risk that the cancer will come back. This is known as adjuvant therapy.
+Targeted drugs used to treat kidney cancer
+Most of the targeted drugs used to treat kidney cancer work by blocking angiogenesis (growth of the new blood vessels that feed cancers) or important proteins in cancer cells (called tyrosine kinases) that help them grow and survive. Some targeted drugs affect both.
+Drugs that target tumor blood vessel growth (angiogenesis)
+Sunitinib (Sutent)
+Sunitinib acts by blocking both angiogenesis and growth-stimulating proteins in the cancer cell itself. Sunitinib does this by blocking several tyrosine kinases that are important for cell growth and survival. This drug is taken as a pill daily, typically for 4 weeks on and 2 weeks off. Some doctors might recommend taking it 2 weeks on and 1 week off to reduce side effects.
+Sunitinib can be used in people with advanced kidney cancer, as well as in people with a high risk of the cancer returning after surgery, to help lower the risk that the cancer will come back. This is known as adjuvant therapy.
+The most common side effects are nausea, diarrhea, changes in skin or hair color, mouth sores, weakness, and low white and red blood cell counts. Other possible effects include tiredness, high blood pressure, congestive heart failure, bleeding, hand-foot syndrome, and low thyroid hormone levels.
+Sorafenib (Nexavar)
+Sorafenib blocks several tyrosine kinases, similar to the ones blocked by sunitinib. It attacks both blood vessel growth and other targets that help cancer cells grow. It is taken as a pill twice a day.
+The most common side effects seen with this drug include fatigue, rash, diarrhea, increases in blood pressure, and redness, pain, swelling, or blisters on the palms of the hands or soles of the feet (hand-foot syndrome).
+Pazopanib (Votrient)
+Pazopanib is a drug that blocks several tyrosine kinases involved in cancer cell growth and the formation of new blood vessels in the tumor. It is taken as a pill once a day.
+Common side effects include high blood pressure, nausea, diarrhea, headaches, low blood cell counts, and hair color change. It can cause lab test results of liver function to become abnormal, but it rarely leads to severe liver damage that could be life threatening. Problems with bleeding, clotting, and wound healing can occur, as well. In rare cases it can also cause a problem with the heart rhythm or even a heart failure. If you are taking this drug, your doctor will monitor your heart with EKGs as well as check your blood tests for liver or other problems.
+Cabozantinib (Cabometyx)
+Cabozantinib is a drug that blocks several tyrosine kinases, including some that help form new blood vessels.
+
+It might be used first to treat people with intermediate or poor risk advanced kidney cancer
+It might be used first with the immunotherapy drug, nivolumab, in people with advanced kidney cancer
+It might be used in people with advanced kidney cancer after someone has already tried another drug that blocks angiogenesis or after immunotherapy treatments. 
+
+It is taken as a pill once a day and has shown to help people live longer in certain cases.
+Common side effects include diarrhea, fatigue, nausea and vomiting, poor appetite and weight loss, high blood pressure, hand-foot syndrome, and constipation. Less common but more serious side effects can include serious bleeding, blood clots, very high blood pressure, severe diarrhea, and holes forming in the intestines.
+Lenvatinib (Lenvima)
+Lenvatinib is a kinase inhibitor drug that helps block tumors from forming new blood vessels, as well as targeting some of the proteins in cancer cells that normally help them grow. It can be used along with everolimus (see below) after at least one other treatment has been tried. The combination has been shown to help some people live longer. It can also be used with the immunotherapy drug pembrolizumab as a first treatment in people with advanced kidney cancer. Lenvatinib is taken as capsules once a day.
+Common side effects include diarrhea, fatigue, joint or muscle pain, loss of appetite, nausea and vomiting, mouth sores, weight loss, high blood pressure, and swelling in the arms or legs. Less common but more serious side effects can include serious bleeding, blood clots, very high blood pressure, severe diarrhea, holes forming in the intestines, and kidney, liver, or heart failure.
+Bevacizumab (Avastin)
+Bevacizumab is an IV drug that works by slowing the growth of new blood vessels. It may help some people with kidney cancer when used with interferon-alfa.
+More common side effects include high blood pressure, tiredness, and headaches. Less common but possibly serious side effects include bleeding, blood clots, holes forming in the intestines, heart problems, and slow wound healing.
+Axitinib (Inlyta)
+Axitinib is a drug that inhibits several tyrosine kinases involved in the formation of new blood vessels. It can be used by itself after at least one other treatment has been tried, or it can be used with certain immunotherapy drugs, like pembrolizumab or avelumab, as the first treatment for people with advanced kidney cancer. Axitinib is taken as a pill twice a day.
+Common side effects include high blood pressure, fatigue, nausea and vomiting, diarrhea, poor appetite and weight loss, voice changes, hand-foot syndrome, and constipation. High blood pressure requiring treatment is fairly common, but in a small number of patients it can get high enough to be life-threatening. It can also cause problems with bleeding, clotting, and wound healing. In some patients, lab test results of liver function can become abnormal. Axitinib may also cause the thyroid gland to become underactive, so your doctor will watch your blood levels of thyroid hormone while you are on this drug.
+Tivozanib (Fotivda)
+Tivozanib is a drug that blocks several tyrosine kinases involved in cancer cell growth and the formation of new blood vessels in the tumor. This drug is taken as a pill daily, typically for 3 weeks on and 1 week off.
+It might be used in people with advanced kidney cancer after someone has already tried two or more other systemic drugs such as chemotherapy, targeted therapy, or immunotherapy.
+Common side effects include high blood pressure, diarrhea, nausea, poor appetite, cough, mouth sores, feeling tired, and voice changes. Less common but more serious side effects can include heart problems, life threatening high blood pressure, blood clots, bleeding, poor wound healing, abnormal thyroid tests, and damage to the kidney.
+Belzutifan (Welireg)
+Belzutifan is a type of drug known as a HIF inhibitor. It blocks a protein called hypoxia-inducible factor 2 alpha (HIF-2a), which is involved in both cancer cell growth and the formation of new blood vessels in tumors. This drug is taken as pills, typically once a day.
+Belzutifan can be used:
+
+In people with von Hippel-Lindau (VHL) disease who have kidney cancer and don’t need surgery right away.
+In people with advanced kidney cancer that has already been treated with a different targeted drug and with an immune checkpoint inhibitor (a type of immunotherapy drug).
+
+Common side effects of this drug include low red blood cell counts (anemia), feeling tired and/or dizzy, nausea, headache, increased blood sugar levels, and changes in lab tests showing the drug might be affecting the kidneys. Less common but more serious side effects can include very low red blood cell counts (severe anemia), which might require blood transfusions, and low oxygen levels in the body, for which you might need oxygen therapy or even be admitted to the hospital.
+Drugs that target the mTOR protein
+Temsirolimus (Torisel)
+Temsirolimus works by blocking a protein known as mTOR, which normally helps cells grow and divide. This drug has been shown to be helpful against advanced kidney cancers that have a poorer prognosis because of certain factors and may help some people live longer. It is given as an intravenous (IV) infusion, typically once a week.
+The most common side effects of this drug include skin rash, weakness, mouth sores, nausea, loss of appetite, fluid buildup in the face or legs, and increases in blood sugar and cholesterol levels. Rarely, more serious side effects have been reported.
+Everolimus (Afinitor)
+Everolimus also blocks the mTOR protein. It is used to treat advanced kidney cancers after other drugs such as sorafenib or sunitinib have been tried. It can be used by itself or along with lenvatinib (see above) after at least one other treatment has been tried. Everolimus is taken as a pill once a day.
+Common side effects of this drug include mouth sores, an increased risk of infections, nausea, loss of appetite, diarrhea, skin rash, feeling tired or weak, fluid buildup (usually in the legs), and increases in blood sugar and cholesterol levels. A less common but serious side effect is lung damage, which can cause shortness of breath or other problems.Immunotherapy is the use of medicines to boost a person's own immune system to recognize and destroy cancer cells more effectively. Several types of immunotherapy can be used to treat kidney cancer.
+Immune checkpoint inhibitors
+An important part of the immune system is its ability to keep itself from attacking normal cells in the body. To do this, it uses “checkpoints,” which are proteins on immune cells that need to be turned on (or off) to start an immune response. Kidney cancer cells sometimes use these checkpoints to avoid being attacked by the immune system. But these drugs target the checkpoint proteins, helping to restore the immune response against the cancer cells.
+PD-1 inhibitors
+Pembrolizumab (Keytruda) and Nivolumab (Opdivo) are drugs that target PD-1, a protein on immune system cells (called T cells) that normally help keep these cells from attacking other cells in the body. By blocking PD-1, these drugs boost the immune response against kidney cancer cells. This can often shrink some tumors or slow their growth.
+
+For people whose cancer has been removed by surgery, but are at a higher risk of it coming back, pembrolizumab can be given for one year after surgery. It can also be given this way to people who have surgery to remove the main tumor along with surgery to remove a distant area(s) of cancer spread.
+Pembrolizumab can be used with the targeted drug axitinib as the first treatment for people with advanced kidney cancer.
+Pembrolizumab can also be used with the targeted drug lenvatinib as a first treatment in people with advanced kidney cancer.
+Nivolumab can be used for people whose advanced kidney cancer starts growing again after targeted drug treatments and has shown to help people live longer.
+For patients with intermediate or poor risk advanced kidney cancer who have not received any treatment, nivolumab can be given with ipilimumab (a CTLA-4 inhibitor) for 4 doses followed by nivolumab alone. This combination has been shown to help people live longer. Ipilimumab is discussed below. 
+For people with advanced kidney cancer, nivolumab might be used with the targeted drug cabozantinib as the first treatment. This combination has shown to help people live longer. 
+
+Nivolumab is given as an intravenous (IV) infusion every 2, 3 or 4 weeks. Pembrolizumab is given every 3 or 6 weeks as an IV infusion.
+Possible side effects of PD-1 inhibitors
+Side effects of PD-1 inhibitors can include fatigue, cough, nausea, itching, skin rash, loss of appetite, constipation, joint pain, and diarrhea. See below for possible severe side effects of all checkpoint inhibitors.
+
+
+PD-L1 inhibitors
+Avelumab (Bavencio) targets PD-L1, a protein related to PD-1 that is found on some tumor cells and immune cells. Blocking the PD-L1 protein can help boost the immune response against cancer cells. This can often shrink some tumors or slow their growth.
+Avelumab can be used with the targeted drug axitinib as the first treatment for people with advanced kidney cancer. It is given every 2 weeks as an IV infusion.
+Possible side effects
+The most common side effects of the combination avelumab with axitinib include fatigue, diarrhea, high blood pressure, skin rash or blistering, cough, shortness of breath, or abdominal pain. See below for possible severe side effects of all checkpoint inhibitors.
+
+
+CTLA-4 inhibitors
+Ipilimumab (Yervoy) is another drug that boosts the immune response, but it has a different target. It blocks CTLA-4, another protein on T cells that normally helps keep them in check.
+For patients with intermediate or poor risk advanced kidney cancer who have not received any treatment, ipilimumab can be given with nivolumab (a PD-1 inhibitor) for 4 doses followed by nivolumab alone.
+Ipilimumab is given as an intravenous (IV) infusion, usually once every 3 weeks for 4 treatments.
+Possible side effects of CTLA-4 inhibitors 
+The most common side effects from ipilimumab include fatigue, diarrhea, skin rash, and itching. See below for possible severe side effects of all checkpoint inhibitors.
+Possible serious side effects of all checkpoint inhibitors
+More serious side effects occur less often, but are possible. These drugs work by removing the brakes on the body’s immune system. Sometimes the immune system starts attacking other parts of the body, which can cause serious problems in the lungs, intestines, liver, hormone-making glands (like the thyroid), kidneys, or other organs. In some people these side effects can be life threatening.
+
+It’s very important to report any new side effects during or after treatment to your health care team right away. If serious side effects do occur, you may need to stop treatment and take high doses of corticosteroids to suppress your immune system.
+Cytokines
+Cytokines are small proteins that boost the immune system in a general way. Man-made versions of cytokines, such as interleukin-2 (IL-2) and interferon-alpha, are sometimes used to treat kidney cancer in very specific cases. Both cytokines can cause kidney cancers to shrink in a small percentage of patients.
+Interleukin-2 (IL-2)
+In the past, IL-2 was commonly used as first-line therapy for advanced kidney cancer, and it may still be helpful for some people. But it can cause serious side effects, so many doctors only use it for people who are healthy enough to tolerate the side effects and for cancers that aren’t responding to targeted drugs or other types of immunotherapy.
+Giving high doses of IL-2 seems to offer the best chance of shrinking the cancer, but this can cause serious side effects, so it is not used in people who are in poor overall health. Special care is needed to recognize and treat these side effects. Because of this, high-dose IL-2 is only given in the hospital at certain centers that are experienced with giving this type of treatment. IL-2 is given through a vein (IV).
+The possible side effects of high-dose IL-2 include:
+These side effects are often severe and, rarely, can be fatal. Only doctors experienced in the use of these drugs should give this treatment.
+Interferon-alfa
+Interferon has less serious side effects than IL-2, but it does not seem to be as effective when used by itself. It is more often used in combination with the targeted drug bevacizumab (Avastin). Interferon is given as a subcutaneous injection (under the skin) usually three times a week.
+Common side effects of interferon include flu-like symptoms (fever, chills, muscle aches), fatigue, and nausea.
+
+Extreme fatigue
+Low blood pressure
+Fluid buildup in the lungs
+Trouble breathing
+Kidney damage
+Heart attacks
+Intestinal bleeding
+Diarrhea or abdominal pain
+High fever and chills
+Rapid heart beat
+Mental changesChemotherapy (chemo) uses anti-cancer drugs that are given into a vein (IV) or taken by mouth (as pills). These drugs enter your blood and reach nearly all areas of the body, which makes this treatment potentially useful for cancer that has spread (metastasized) to organs beyond the kidney.
+Because kidney cancer cells usually do not respond well to chemo, chemo is not a standard treatment for kidney cancer. Some chemo drugs, such as cisplatin, 5-fluorouracil (5-FU), and gemcitabine have been shown to help a small number of patients. Still, chemo is often only used for kidney cancer after targeted drugs and/or immunotherapy have already been tried.
+Doctors give chemotherapy in cycles, with each period of treatment followed by a rest period to allow the body time to recover. Chemo cycles generally last a few weeks.
+Possible side effects of chemotherapy
+Chemo drugs attack cells that are dividing quickly, which is why they often work against cancer cells. But other cells in the body, such as those in the bone marrow (where new blood cells are made), the lining of the mouth and intestines, and the hair follicles, also divide quickly. These cells are also likely to be affected by chemo, which can lead to certain side effects.
+The side effects of chemo depend on the type of drugs, the amount taken, and the length of treatment. Possible side effects can include:
+
+Hair loss
+Mouth sores
+Loss of appetite
+Nausea and vomiting
+Diarrhea or constipation
+Increased chance of infections (due to low white blood cell counts)
+Easy bruising or bleeding (due to low blood platelet counts)
+Fatigue (due to low red blood cell counts)
+
+These side effects usually go away after treatment is finished. There are often ways to prevent or lessen them. For example, drugs can be given to help prevent or reduce nausea and vomiting. Specific chemo drugs may each cause specific side effects. Ask your health care team about the side effects your chemo drugs may cause.The type of treatment(s) your doctor recommends will depend on the stage of the cancer and on your overall health. This section sums up the options usually considered for each stage of kidney cancer.
+Stages I, II, or III
+Stage I and II cancers are still contained in the kidney. Stage III cancers either have grown into nearby large veins or have spread to nearby lymph nodes.
+These cancers are usually removed with surgery when possible. There are two common approaches:
+
+Partial nephrectomy (removing part of the kidney). This is often the treatment of choice in tumors up to 7 cm (a little less than 3 inches) if it can be done.
+Radical nephrectomy (removing the entire kidney).
+
+The lymph nodes near the kidney may be removed as well, especially if they are enlarged.
+If the cancer has grown into nearby veins (as with some stage III cancers), your surgeon may need to cut open these veins to remove all of the cancer. This may require putting you on bypass (a heart-lung machine), so that the heart can be stopped for a short time to remove the cancer from the large vein leading to the heart.
+After surgery, some people at high risk of the cancer returning might be helped by getting the targeted drug sunitinib (Sutent) for about a year, which can help lower this risk. Another option for people who have had surgery but are at a higher risk of the cancer coming back, is one year of the immunotherapy drug pembrolizumab. Treatment given after surgery is known as adjuvant therapy.   Clinical trials are also looking at other adjuvant treatments for kidney cancer. Ask your doctor if you are interested in learning more about adjuvant therapies being studied in clinical trials.
+If you can't have kidney surgery because of other serious medical problems, you might benefit from other local treatments such as cryotherapy or radiofrequency ablation. Radiation therapy may be another option. These treatments are generally only given when surgery can’t be done. Although these types of treatments can have outcomes similar to surgery as far as the chances of the cancer spreading to other parts of the body, some studies show the cancer might be more likely to come back in the same area.
+Active surveillance is another option for some people with small kidney tumors. With active surveillance, the tumor is watched closely (with CTs or ultrasounds) and only treated if it grows.
+Some stage III cancers cannot be completely removed by surgery or treated with radiation. In these cases, the cancers might be treated with targeted therapy drugs alone or in combination with immunotherapy.  
+Stage IV
+Stage IV kidney cancer means the cancer has grown outside of the kidney or has spread to other parts of the body such as distant lymph nodes or other organs.
+Treatment of stage IV kidney cancer depends on how extensive the cancer is and on the person’s general health. In some cases, surgery may still be a part of treatment.
+In rare cases where the main tumor appears to be removable and the cancer has only spread to one other area (such as to one or a few spots in the lungs), surgery to remove both the kidney and the metastasis (the outside area of cancer spread) may be an option if a person is in good enough health. In certain cases, removing the area of spread can help people live longer. For some people who have the main tumor removed along with a few areas of distant cancer spread, adjuvant treatment with the immunotherapy drug pembrolizumab for one year, might be considered. Radiation, instead of surgery, might also be an option to treat the area of cancer spread.
+If the main tumor is still there, and the cancer has spread extensively elsewhere, removing the tumor in the kidney is not recommended in most cases, as it had been in the past. This is based on recent information that shows removal of the kidney in this case does not help people live longer. The first treatment choice would be systemic therapy, which might consist of two immunotherapy drugs, a targeted therapy drug with an immunotherapy drug, or a targeted therapy drug alone. It’s not clear if any one of these therapies or any particular sequence is better than another, although the combinations of ipilimumab along with nivolumab, axitinib with pembrolizumab, and cabozantinib with nivolumab appears to be most helpful for people with advanced kidney cancer.
+Because advanced kidney cancer is very hard to cure, clinical trials of new combinations of targeted therapies, immunotherapy, or other new treatments are also options.
+For some people, palliative treatments such as radiation therapy may be the best option. A special form of radiation therapy called stereotactic radiosurgery can be very effective in treating brain metastases. Surgery or radiation therapy can also be used to help reduce pain or other symptoms of metastases in some other places, such as the bones. You can read more about palliative treatment for cancer in Palliative (Supportive) Care or in Advanced Cancer, Metastatic Cancer, and Bone Metastasis.
+Having your pain controlled can help you maintain your quality of life. Medicines to relieve pain do not interfere with your other treatments, and controlling pain will often help you be more active and continue your daily activities.
+Recurrent cancer
+Cancer is called recurrent when it come backs after treatment. Recurrence can be local (near the area of the initial tumor) or it may be in distant organs. Treatment of kidney cancer that comes back (recurs) after initial treatment depends on where it recurs and what treatments have been used, as well as a person’s health and wishes for further treatment.
+Local recurrence
+For cancers that recur after initial surgery, further surgery might be an option. If surgery cannot remove the area of recurrence, treatment with two immunotherapy drugs, a combination of an immunotherapy drug plus a targeted therapy drug, or in some cases, a targeted therapy drug alone may be recommended. Clinical trials of new treatments are an option as well.
+Distant recurrence
+Kidney cancer that recurs in distant parts of the body is treated like a stage IV cancer. Your options depend on which, if any, drugs you received before the cancer came back and how long ago you received them, as well as on your health﻿.
+For cancers that progress (continue to grow or spread) during treatment with targeted therapy or immunotherapy, another type of targeted therapy or immunotherapy may be helpful. Recurrent cancers can sometimes be hard to treat, so you might also want to ask your doctor about clinical trials.
+For some people with recurrent kidney cancer, palliative treatments such as radiation therapy may be the best option. Controlling symptoms such as pain is an important part of treatment at any stage of the disease.
+For more information see Understanding Recurrence.For some people with kidney cancer, treatment can remove or destroy the cancer. Completing treatment can be both stressful and exciting. You may be relieved to finish treatment, yet it’s hard not to worry about cancer coming back. This is very common if you’ve had cancer.
+For other people, the kidney cancer might never go away completely. Some people may get regular treatment with chemotherapy or targeted therapy or other treatments to try and help keep the cancer in check. Learning to live with cancer that does not go away can be difficult and very stressful. 
+Follow-up care
+If you have completed treatment, your doctors will still want to watch you closely. It’s very important to go to all your follow-up appointments. During these visits, your doctors will ask if you are having any problems and may order exams and lab tests or imaging tests to look for signs of cancer or treatment side effects. 
+Almost any cancer treatment can have side effects. Some might only last for a few days or weeks, but others might last a long time. Some side effects might not even show up until years after you have finished treatment. Your doctor visits are a good time to ask questions and talk about any changes or problems you notice or concerns you have.
+It’s very important to let your doctor know about any new symptoms or problems, because they could be caused by the cancer coming back or by a new disease or a second cancer.
+Doctor visits
+To some extent, the frequency of follow up visits and tests will depend on the stage of your cancer, the treatment you received, and the chance of it coming back.
+In people with early-stage cancer, many doctors recommend follow-up visits (which may include imaging tests and blood tests) with a physical exam every 12 months for the first couple of years after treatment. For people who were treated for later stage cancers, follow-up visits with imaging and lab tests most likely will be every 3-6 months for the first 3 years and then once a year. Some doctors may advise different follow-up schedules.
+Survivors of kidney cancer should also follow the American Cancer Society Guidelines for the Early Detection of Cancer, such as those for breast, cervical, colorectal, and prostate cancer.
+Ask your doctor for a survivorship care plan
+Talk with your doctor about developing a survivorship care plan for you. This plan might include:
+
+A suggested schedule for follow-up exams and tests
+A schedule for other tests you might need to look for long-term health effects from your cancer or its treatment
+A list of possible late- or long-term side effects from your treatment, including what to watch for and when you should contact your doctor
+Suggestions for things you can do that might improve your health, including possibly lowering your chances of the cancer coming back
+Reminders to keep your appointments with your primary care provider (PCP), who will monitor your general health care
+
+Keeping health insurance and copies of your medical records
+Even after treatment, it’s very important to keep health insurance. Tests and doctor visits cost a lot, and even though no one wants to think of their cancer coming back, this could happen.
+At some point after your cancer treatment, you might find yourself seeing a new doctor who doesn’t know about your medical history. It’s important to keep copies of your medical records to give your new doctor the details of your diagnosis and treatment.
+Can I lower my risk of kidney cancer progressing or coming back?
+If you have (or have had) kidney cancer, you probably want to know if there are things you can do that might lower your risk of the cancer growing or coming back, such as exercising, eating a certain type of diet, or taking nutritional supplements. At this time, it’s not yet clear if those things will help.
+It is known that smoking is linked to an increased risk of kidney cancer. While it’s not clear if smoking can affect kidney cancer growth or recurrence, it is still helpful to stop smoking to decrease your risk of getting another smoking-related cancer. Not smoking can also help you tolerate chemotherapy and radiation better. If you need help quitting, talk to your doctor or call the American Cancer Society at 1-800-227-2345.
+At this time, not enough is known about kidney cancer to say for sure if there are things you can do that will be helpful. Adopting healthy behaviors such as, eating well, getting regular physical activity, and staying at a healthy weight may help, but no one knows for sure. Still, we do know that these types of changes can have positive effects on your health that can extend beyond your risk of kidney cancer or other cancers.
+About dietary supplements
+So far, no dietary supplements (including vitamins, minerals, and herbal products) have been shown to clearly help lower the risk of kidney cancer progressing or coming back. This doesn’t mean that no supplements will help, but it’s important to know that none have been proven to do so.
+Dietary supplements are not regulated like medicines in the United States – they do not have to be proven effective (or even safe) before being sold, although there are limits on what they’re allowed to claim they can do. If you’re thinking about taking any type of nutritional supplement, talk to your health care team. They can help you decide which ones you can use safely while avoiding those that might be harmful.
+If the cancer comes back
+If the cancer does return at some point, your treatment options will depend on where the cancer is, what treatments you’ve had before, and your health. Surgery, radiation therapy, chemotherapy, targeted therapy, immunotherapy, or some combination of these might be options. Other types of treatment might also be used to help relieve any symptoms from the cancer. For more information on how recurrent cancer is treated, see Treatment Choices for Kidney Cancer, by Stage.
+For more general information on recurrence, you may also want to see Understanding Recurrence.
+Getting emotional support
+Its normal to feel depressed, anxious, or worried when kidney cancer is a part of your life. Some people are affected more than others. But everyone can benefit from help and support from other people, whether friends and family, religious groups, support groups, professional counselors, or others. Learn more in Life After Cancer.
+Second cancers after treatment
+Cancer survivors can be affected by a number of health problems, but often a major concern is facing cancer again. Cancer that comes back after treatment is called a recurrence. But some cancer survivors may develop a new, unrelated cancer later. This is called a second cancer.
+Unfortunately, being treated for kidney cancer doesn’t mean you can’t get another cancer. People who have had cancer can still get the same types of cancers that other people get. In fact, they might be at a higher risk of certain types of cancer including:
+
+A second kidney cancer (this is different from the first cancer coming back).  The risk of a second kidney cancer is highest in patients who were diagnosed before age 50.
+Bladder cancer
+Cancer of the ureter (the tube that connects the kidney to the bladder)
+Prostate cancer
+Thyroid cancer
+Melanoma of the skin
+
+Can I lower my risk of getting a second cancer?
+There are steps you can take to lower your risk and stay as healthy as possible. For example, people who have had kidney cancer should do their best to stay away from tobacco products. Smoking might further increase the risk of some of the second cancers that are more common after kidney cancer.
+To help maintain good health, kidney cancer survivors should also:
+
+Get to and stay at a healthy weight 
+Keep physically active and limit sitting or lying down time
+Follow a healthy eating pattern that includes plenty of fruits, vegetables, and whole grains, and that limits or avoids red and processed meats, sugary drinks, and highly processed foods.
+It’s best not to drink alcohol. If you do drink, have no more than 1 drink per day for women or 2 drinks per day for men
+
+These steps might also lower the risk of some other health problems.What is kidney cancer?
+Cancer can start any place in the body. Kidney cancer starts in the kidney and is also called renal cell carcinoma  or RCC for short. It starts when cells in the kidney grow out of control and crowd out normal cells. This makes it hard for the body to work the way it should.
+Cancer cells can spread to other parts of the body. Cancer cells in the kidney can sometimes travel to the bone and grow there. When cancer cells do this, it’s called metastasis. The cancer cells in the new place will look just like the ones from the kidney.
+Cancer is always named for the place where it starts. So if kidney cancer spreads to the bone (or any other place), it’s still called kidney cancer. It’s not called bone cancer unless it starts from cells in the bone.

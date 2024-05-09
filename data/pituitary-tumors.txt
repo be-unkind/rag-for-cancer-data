@@ -1,0 +1,354 @@
+A tumor is an abnormal growth of cells. Tumors can start nearly anywhere in the body. Tumors that start in the pituitary gland are called pituitary tumors.
+To understand pituitary tumors, it helps to know something about the pituitary gland and what it does.
+The pituitary gland
+The pituitary is a small gland at the base of the skull, just below the brain and above the nasal passages and the fleshy back part of the roof of the mouth (known as the soft palate). The pituitary sits in a tiny bony space called the sella turcica. The nerves that connect the eyes to the brain, called the optic nerves, pass just above it.More than 10,000 pituitary tumors are diagnosed each year in the United States. Almost all of these tumors are benign (pituitary adenomas). Very few pituitary tumors are cancers (pituitary carcinomas).
+The actual number of pituitary tumors may be much higher than the number of tumors that are found each year. When examining people who have died or who have had imaging tests (like MRI scans) of their head for other health problems, doctors have found that as many as 1 in 4 people may have a pituitary adenoma without knowing it. These tumors are often small and never cause any symptoms or health problems, so very few of them would normally be diagnosed at all.
+Pituitary tumors can occur in people of any age (including in children), but they are most often found in older adults.Research into pituitary tumors is being done in many medical centers and other institutions around the world.
+Research on pituitary tumor genetics and classification
+Doctors now better understand the gene changes in cells that can lead to pituitary tumors.
+This is already leading to improvements in genetic testing for people who are suspected of having multiple endocrine neoplasia, type I (MEN1) or other inherited syndromes that increase the risk of pituitary tumors.
+Understanding the gene and protein changes inside tumor cells is also helping doctors better classify pituitary adenomas, as well as better customize treatments for people with these tumors.
+This type of research might also make it possible to identify specific gene changes and biomarkers in a person's tumor cells. This could help doctors know, for example, whether a pituitary adenoma is more likely to grow aggressively or to come back after treatment, which in turn might affect a person’s treatment options.
+Research on imaging tests for pituitary tumors
+Imaging tests such as MRI scans continue to improve, leading to better accuracy in finding and determining the size of new tumors and those that come back after treatment. Studies are now looking at whether using MRI during surgery (known as intraoperative MRI) might help ensure tumors are removed completely.
+Other types of imaging tests, such as newer types of PET scans, are also being studied in clinical trials.
+Research on pituitary tumor treatments
+Doctors are looking for better ways to treat pituitary tumors while causing fewer side effects.
+Surgery 
+Surgery is often used to treat pituitary tumors. Doctors continue to look for better ways to remove these tumors completely while sparing as much of the normal pituitary gland as possible.
+Pituitary surgery often uses minimally invasive techniques, with a tiny video camera on the end of a small, flexible scope (an endoscope) and very small, thin surgical tools (microinstruments). This can mean shorter recovery times for the patient after surgery, as well as better nasal outcomes, fewer hormone issues, and a better quality of life.
+Studies are now looking at which type of surgery might be best for different types and sizes of tumors, as well as ways to combine surgical techniques or use 2-staged surgery to get better results. 
+Another technological advance in pituitary surgery is neuronavigation, in which surgical tools are ‘attached’ virtually to preoperative MRI or CT images so neurosurgeons can see the exact position of the tools in relation to the tumor, as well as important surrounding structures. This can be thought of as being a type of GPS for the base of the skull and brain.
+Robotic surgery, in which the surgeon sits at a control panel and precisely moves robotic arms, is also being studied as a way to reach these tumors and limit side effects. 
+Radiation therapy
+Radiation therapy techniques are improving, letting doctors focus radiation more precisely on tumors and limiting the damage to nearby normal tissues.
+Doctors are also studying whether giving radiation after surgery helps keep pituitary tumors from coming back.
+Medicines
+Progress is being made in the medicines used to treat pituitary tumors and in those used to help relieve the side effects of some other forms of treatment.
+For example, researchers are studying some newer drugs:
+
+TBR-760 is a combined dopamine-somatostatin receptor agonist, so it can affect pituitary cells in more than one way. This drug is now being studied for use against non-functioning pituitary adenomas.
+Vorinostat is a type of drug known as a histone deacetylase (HDAC) inhibitor. It affects which genes a tumor cell is using. This drug is already used to treat some uncommon types of lymphomas, and is now being studied for use against ACTH-secreting pituitary adenomas.
+
+Other drugs are also being studied in clinical trials.A risk factor is anything that increases a person’s chances of getting a disease. For example, smoking is a risk factor for lung cancer and many other cancers.
+But having a risk factor, or even many risk factors, does not mean that you will get the disease. And many people who get the disease may have few or no known risk factors.
+Pituitary tumors have only a few known risk factors.
+Family history
+Most people who develop pituitary tumors don’t have a family history of the disease. But rarely, pituitary tumors can run in families.
+Sometimes when pituitary tumors run in families, they are found as part of a genetic syndrome, often along with other types of tumors (see the next section).
+Sometimes, though, the cause of pituitary tumors that run in families is not known.
+Genetic syndromes
+Pituitary tumors can sometimes be a part of a syndrome that often includes an increased risk of other types of tumors as well. These syndromes are caused by changes (mutations) in a person’s genes, which are often inherited from a parent. Syndromes that increase a person's risk of pituitary tumors include:
+Multiple endocrine neoplasia, type I (MEN1): This is a hereditary condition in which people have a very high risk of developing tumors of the pituitary, parathyroid, and pancreas. This syndrome is caused by changes in the MEN1 gene, and it is passed on to about half of the children of an affected parent.
+Multiple endocrine neoplasia, type IV (MEN4): This rare syndrome is very similar to MEN1, in that people with MEN4 have increased risks of pituitary tumors and certain other tumors. But MEN4 is caused by changes in the CDKN1B gene, which are most often inherited from a parent.
+McCune-Albright syndrome: People with this syndrome often have brown patches on their skin (called café-au-lait spots) and develop many bone problems. They can also have hormone problems and pituitary tumors. This syndrome is caused by changes in the GNAS gene, which aren’t inherited but occur before birth.
+Carney complex: This is a rare syndrome in which people have changes in skin coloring, as well as a high risk of some types of benign (non-cancerous) tumors, including pituitary tumors. Many cases are caused by inherited changes in the PRKAR1A gene, but some are caused by changes in other genes that have not yet been identified.
+Familial isolated pituitary adenoma (FIPA): In this syndrome, only pituitary tumors run in the family. This syndrome is sometimes caused by changes in the AIP gene, although in many cases the gene changes that cause it aren’t yet known.
+You can learn more about genetic cancer syndromes in Family Cancer Syndromes.We don’t know exactly what causes most pituitary tumors. But in recent years, researchers have made great progress in understanding how certain changes in the DNA in pituitary cells can lead to them forming a tumor.
+DNA in our cells makes up our genes, which control how our cells function. We usually look like our parents because they are the source of our DNA. But our genes affect more than how we look.
+Some genes normally help control when our cells grow, divide to make new cells, repair mistakes in DNA, or cause cells to die when they’re supposed to. If these genes aren’t working correctly, it can lead to cells growing out of control. For example:
+
+Changes (mutations) in genes that normally help cells grow, divide, or stay alive can lead to these genes being more active than they should be, causing them to become oncogenes. These genes can result in cells growing out of control.
+Genes that normally help keep cell division under control or cause cells to die at the right time are known as tumor suppressor genes. Changes that turn off these genes can result in cells growing out of control.
+Some genes normally help repair mistakes in a cell’s DNA. Changes that turn off these DNA repair genes can result in the buildup of DNA changes within a cell, which might lead to them growing out of control.
+
+Any of these types of DNA changes might lead to cells growing out of control and forming a tumor. To learn more, see Oncogenes, Tumor Suppressor Genes, and DNA Repair Genes.
+Inherited versus acquired gene mutations
+Some people inherit gene mutations (changes) that increase their risk for pituitary tumors from their parents. Some of these mutations and the genetic syndromes they cause are discussed in Risk Factors for Pituitary Tumors. Members of families with these genetic syndromes can think about having genetic testing to find out if they are affected.
+But often, the gene changes that lead to pituitary tumors are acquired during life, rather than having been inherited. In some types of cancer, acquired gene mutations can be caused by outside exposures, such as radiation or cancer-causing chemicals. But there are no known environmental causes for pituitary tumors. The gene changes in these tumors might just be random events that sometimes happen when a cell divides, without having an outside cause.
+In pituitary tumors that don’t run in families, sometimes the tumor cells have acquired mutations in genes such as AIP, GNAS, USP8, USP48, and BRAF. These mutations are much more common in some types of pituitary adenomas than in others.
+Changes in other genes have also been found in some types of pituitary adenomas, but in many cases it’s not clear which gene changes might have caused the tumor, or even if abnormal genes are always needed for pituitary tumors to form.
+Because there are no known lifestyle-related or environmental causes of pituitary tumors, it’s important to remember that there is nothing people with these tumors could have done to prevent them.Certain lifestyle changes (such as staying at a healthy weight or not smoking) can lower the risk for many types of cancer. But pituitary tumors have not been linked with any known outside risk factors. Because of this, there is no known way to prevent these tumors at this time.
+Still, for people who have a high risk of pituitary tumors (because of certain inherited syndromes), there may be ways to find and treat them early, before they cause problems. (See Can Pituitary Tumors Be Found Early?)Many pituitary tumors aren’t detected until they start to cause signs and symptoms. But some pituitary tumors are found early with imaging tests or blood tests.
+For people with an increased risk of pituitary tumors
+For members of families known to have an increased risk of pituitary tumors because of a genetic syndrome such as multiple endocrine neoplasia, type I (MEN1), doctors often recommend regular blood testing of pituitary hormone levels. These tests can often help find a tumor early so that it can be removed completely, which increases the chance for a cure.
+For people who don't have an increased risk
+For most people, screening for pituitary tumors is not recommended. (Screening is testing for a disease such as a pituitary tumor in people without any symptoms.)
+Sometimes a pituitary tumor is found early because a person has a CT or MRI scan of the head for some other reason. These tumors are sometimes referred to as pituitary incidentalomas, because they are found incidentally (by accident). Incidentalomas might not need to be treated, as long as they aren’t causing any problems, although the doctor might recommend watching them over time to make sure they aren’t growing.
+Functional pituitary adenomas (tumors that make excess hormones like prolactin or ACTH) are often found when they are still small because the excess hormones cause symptoms.
+Non-functional pituitary tumors (tumors that don’t make enough hormones to cause symptoms) are less likely to be found early. These tumors typically don’t cause symptoms until they’ve grown large enough to press on nearby normal pituitary cells, nerves, or parts of the brain near the pituitary.Not all pituitary tumors (pituitary adenomas) cause symptoms. But when they do, they can cause symptoms in these ways:
+
+Some tumors cause symptoms when they make too much of one or more pituitary hormones. These are called functional (or functioning) pituitary adenomas, and the symptoms they cause depend on which hormone(s) they make. These tumors tend to cause symptoms while they are still small.
+Tumors that don’t make enough hormones to cause symptoms, called non-functional (or non-functioning) adenomas, can become large enough to press on (or grow into) nearby structures, such as parts of the brain, nearby nerves, or other parts of the pituitary gland itself.
+
+Symptoms caused by larger tumors
+The pituitary gland sits in a very small space at the base of the skull. Pituitary tumors that grow large enough can press on or grow into nearby parts of the brain, nerves involved with vision, or other important structures. This can lead to symptoms such as:
+
+Trouble with eye movement, which can lead to blurred or double vision
+Visual field defects (especially loss of peripheral vision)
+Progressive blindness
+Headaches
+Facial numbness or pain
+Dizziness
+Loss of consciousness (passing out)
+
+Tumors that grow large enough can also press on and destroy the normal parts of the pituitary gland. This can lead to low levels of one or more pituitary hormones, which can in turn lead to low levels of some body hormones such as cortisol, thyroid hormone, and sex hormones. Depending on which hormones are affected, symptoms might include:
+
+Feeling tired or weak
+Unexplained weight loss or weight gain
+Low blood pressure
+Loss of body hair
+Feeling cold
+Menstrual changes or loss of menstrual periods in women
+Erectile dysfunction (trouble with erections) in men
+Growth of breast tissue in men
+Decreased interest in sex
+
+Diabetes insipidus
+Large tumors can sometimes press on the posterior (back) part of the pituitary, causing a shortage of the hormone vasopressin (also called anti-diuretic hormone or ADH). This can lead to diabetes insipidus. In this condition, too much water is lost in the urine, so the person urinates often and becomes very thirsty as the body tries to keep up with the loss of water.
+If left untreated, this can cause dehydration and altered blood mineral levels, which can lead to coma and even death. Diabetes insipidus can be treated by replacing vasopressin with a drug called desmopressin. (Diabetes insipidus is not related to diabetes mellitus, in which people have high blood sugar levels.)
+Pituitary apoplexy
+Another way that a pituitary tumor (especially a larger one) can cause many of the symptoms above is if it leads to bleeding or a blockage in a blood vessel, reducing the blood supply to the pituitary. This condition, known as pituitary apoplexy, isn’t common, but it can result in symptoms developing quickly, and it's often a medical emergency.
+Symptoms caused by tumors making excess hormones
+Symptoms from excess pituitary hormones depend on which hormone(s) the tumor is making. (Even when a tumor makes excess hormones, it might still cause some of the symptoms above, such as vision changes or headaches.)
+Growth hormone-secreting adenomas (somatotroph adenomas)
+The effects of tumors making too much growth hormone (GH) are different in children and teens from those in adults.
+In children and teens, high GH levels can stimulate the growth of nearly all bones in the body, which is known as gigantism. Signs and symptoms can include:
+
+Being very tall
+Very rapid growth
+Joint pain
+Increased sweating
+
+In adults, the arm and leg bones can’t grow any more, even when GH levels are very high, so people don’t grow taller. But the bones in an adult's hands, feet, and skull can grow throughout life. Making too much GH as an adult causes a condition called acromegaly. Signs and symptoms can include:
+
+Growth of the hands and feet
+Changes in how the face looks (due to growth of facial bones)
+Wider spacing of the teeth and protruding jaw (due to jawbone growth)
+Deepening of the voice
+Thickening of the tongue and roof of mouth, leading to sleep disturbances such as snoring and sleep apnea (pauses in breathing)
+Thickened skin
+Increased growth of body hair
+Numbness or tingling in the hands or feet
+Carpal tunnel syndrome﻿
+Joint pain
+Increased sweating
+High blood sugar or even diabetes mellitus
+High blood pressure
+Heart disease
+
+Many of these changes can occur very slowly, and people might not notice them until they look at an old picture of themselves or try to put on a hat, ring, gloves, or shoes they haven’t worn in many years.
+Corticotropin (ACTH)-secreting adenomas (corticotroph adenomas)
+High ACTH levels cause the adrenal glands to make excess steroid hormones such as cortisol. This causes symptoms that doctors group together as Cushing’s disease. In adults, the symptoms can include:
+
+Unexplained weight gain (mostly in the face, chest, and belly)
+Purple stretch marks on the chest or belly
+New or increased hair growth (on the face, chest, and/or belly)
+Swelling and redness of the face
+Acne
+Extra fat on the back of the neck
+Moodiness or depression
+Easy bruising
+High blood sugar levels or even diabetes mellitus
+High blood pressure
+Decreased interest in sex
+Changes in menstrual periods in women
+Weakening of the bones, which can lead to osteoporosis or even fractures
+
+Most of these symptoms can also occur in children. Children with Cushing’s disease may also stop growing and have problems with school performance.
+Prolactin-secreting adenomas (prolactinomas or lactotroph adenomas)
+Prolactinomas are most common in young women and older men.
+
+In women before menopause, high prolactin levels cause menstrual periods to become less frequent or to stop. High prolactin levels can also cause abnormal breast milk production, called galactorrhea.
+In men, high prolactin levels can cause breast growth and milk production, as well as erectile dysfunction (trouble with erections)
+Both men and women can have loss of interest in sex, infertility, and weakening of the bones (osteoporosis).
+
+These tumors can also sometimes grow large enough to press on nearby nerves and parts of the brain, which can cause headaches and vision problems. In females who don’t have periods (such as girls before puberty and women after menopause), prolactinomas might not be noticed until they grow large enough to cause these symptoms.
+Thyrotropin (TSH)-secreting adenomas (thyrotroph adenomas)
+These rare tumors make too much thyroid-stimulating hormone (TSH), which then causes the thyroid gland to make excess amounts of thyroid hormones. This can cause symptoms of hyperthyroidism (overactive thyroid), such as:
+
+Rapid or irregular heartbeat
+Tremors (shaking)
+Weight loss
+Increased appetite
+Feeling warm or hot
+Sweating
+Trouble falling asleep
+Anxiety
+Frequent bowel movements
+A lump in the front of the neck (from an enlarged thyroid)
+
+Gonadotropin-secreting adenomas (gonadotroph adenomas)
+These tumors make luteinizing hormone (LH) and/or follicle-stimulating hormone (FSH).
+Most gonadotropin-secreting adenomas don’t make enough hormones to cause symptoms, so they are basically non-functional adenomas. These tumors may grow large enough to cause symptoms such as headaches and vision problems before they are found. (See "Symptoms caused by larger tumors" above.)
+By pressing on the rest of the pituitary, these tumors can also sometimes result in lower levels of sex hormones such as estrogen, progesterone, and testosterone. This can lead to irregular menstrual periods in women or erectile dysfunction and decreased interest in sex in men.
+Less often, gonadotroph adenomas do make excess hormones, resulting in higher levels of sex hormones. Most of these tumors occur in middle-aged adults, and the higher levels of hormones don’t usually result in any symptoms. But they might cause problems in younger people, such as irregular menstrual periods in younger women or early signs of puberty in girls.Pituitary tumors are usually found when a person goes to the doctor because of symptoms they're having. But sometimes these tumors don’t cause symptoms, and they're found when a person has an imaging test of the head for some other health issue. (Tumors found this way are known as pituitary incidentalomas.)
+If there’s a reason to suspect you might have a pituitary tumor, your doctor will do exams and tests to find out. Signs and symptoms might suggest that you could have a pituitary tumor, but tests are needed to be sure of the diagnosis and find out what kind of pituitary tumor it is.
+Medical history and physical exam
+If your symptoms lead your doctor to believe that you might have a pituitary tumor, the first step is to get your medical history to learn more about your symptoms and to check for possible risk factors. Your doctor may ask about your family history of tumors or other problems to see if you might have an inherited genetic syndrome, such as multiple endocrine neoplasia, type I (MEN1).
+Your doctor will also examine you to look for possible signs of a pituitary tumor or other health problems. This will probably include exams to look for vision or nervous system problems that could be caused by a tumor.
+If a pituitary tumor is strongly suspected, your doctor may refer you to an ophthalmologist (eye doctor) to check your vision more carefully, as pituitary tumors can damage nerves leading to the eyes. The most common test is to measure how well you can see. The doctor may also test your field of vision (or visual fields). Pituitary tumors can press on parts of the optic nerves (the nerves leading from the eyes to the brain). This can lead to the loss of peripheral vision, meaning that you can't see things off to the side without actually looking right at them. Eye doctors have special instruments that can test for this.
+You might also be referred to other doctors, such as an endocrinologist (a doctor who treats diseases in glands that secrete hormones) or a neurosurgeon (a doctor who uses surgery to treat brain and pituitary tumors), who might order other tests.
+Lab tests of hormone levels
+If your doctor suspects you might have a hormone-producing pituitary tumor, hormone levels in your blood, urine, and/or other body fluids will be measured.
+Somatotroph (growth hormone-secreting) adenoma
+A physical exam may alert the doctor to look for this tumor because the signs and symptoms (of acromegaly or gigantism) are often very distinctive.
+The first step is usually to check the level of insulin-like growth factor-1 (IGF-1) in your blood. When growth hormone (GH) levels are high, it causes the liver to make more IGF-1. Blood GH levels can be checked as well, but t﻿esting the IGF-1 level can often be more helpful because the IGF-1 level doesn’t change much during the day, while the GH level can.
+If blood levels of IGF-1 (or both) are very high, the diagnosis is almost certainly a pituitary tumor.
+If the levels are slightly increased, an oral glucose tolerance test is often done to be sure. You'll be asked to drink a sugary liquid, and then the levels of GH and blood sugar (glucose) will be measured at certain times. The normal response to suddenly taking in so much sugar is a drop in GH levels. But if the GH levels stay high, a pituitary tumor is likely the cause.
+Corticotroph (corticotropin or ACTH-secreting) adenoma
+Most of the signs and symptoms of ACTH-secreting tumors come from having too much cortisol (an adrenal steroid hormone) in the body. But there are also other reasons the body might have too much cortisol, such as if a person is taking some type of steroid or has an adrenal tumor. Having too much cortisol in the body leads to a condition called Cushing’s syndrome. If you have symptoms suggesting this syndrome, you'll need tests to see if it’s caused by a pituitary tumor (in which case it’s known as Cushing’s disease) or by something else.
+Tests that might be done include:
+
+Late-night salivary cortisol: This test measures the levels of cortisol in your saliva late at night to see if they stay elevated. (They normally drop at night.)
+24-hour urinary cortisol excretion: For this test, you collect all of your urine over a 24-hour period, which is then tested to measure your daily production of cortisol and other steroid hormones.
+Dexamethasone suppression test: This test involves taking a dose of a cortisone-like drug called dexamethasone, then having your blood or urine cortisol levels checked.
+Petrosal sinus sampling: This test is typically done in an operating room. Catheters (long, soft, small tubes) are put into veins on each inner thigh through tiny cuts and are guided up into the petrosal sinuses, which are small veins near the base of the brain that drain blood from each side of the pituitary. An injection of corticotropin-releasing hormone (CRH) is typically given, which causes the pituitary to make more ACTH. Blood samples are taken from the 2 catheters at different times before and after the injection, as well as from another part of the body. These samples are tested to see if the ACTH level is higher in the blood from the pituitary (and if so, if it is higher on one side than the other). If it is, the source of the high ACTH level is very likely a pituitary tumor.
+
+Often more than one of these tests is needed to help distinguish ACTH-secreting pituitary tumors from other conditions that can cause similar symptoms, such as adrenal gland tumors.
+Lactotroph (prolactin-secreting) adenoma (prolactinoma)
+Blood prolactin levels can be measured to check for a prolactinoma. Blood levels of other hormones might also be checked, as other types of pituitary tumors (and other conditions) can also sometimes cause prolactin levels to rise.
+Gonadotroph (gonadotropin-secreting) adenoma
+Luteinizing hormone (LH) and follicle-stimulating hormone (FSH) blood levels can be checked to see if you have a gonadotropin-secreting tumor. Levels of related hormones, such as estrogen, progesterone, and testosterone, are often checked as well.
+Thyrotroph (thyrotropin-secreting) adenoma
+Tests to measure blood levels of thyrotropin (also known as thyroid-stimulating hormone, or TSH) and thyroid hormones can usually identify people with a thyrotropin-secreting adenoma.
+Non-functional adenoma
+Non-functional (non-functioning) pituitary adenomas don’t make enough excess hormones to cause symptoms. Sometimes, though, blood levels of pituitary hormones might still be higher than normal, even if they're not causing symptoms. They might also be lower than normal if the tumor has grown big enough to press on the pituitary cells that normally make these hormones. Because of this, checking blood hormone levels might still be helpful.
+Testing for diabetes insipidus
+Diabetes insipidus can develop if a pituitary tumor grows large enough to damage the part of the pituitary that stores the hormone vasopressin (also known as antidiuretic hormone, or ADH), which leads to too much water being lost in the urine. This condition can also have other causes, including surgery to treat pituitary tumors or other tumors near the pituitary gland.
+In many cases, the cause of diabetes insipidus can be determined with tests that measure the amount of urine made over a 24-hour period, sodium and glucose levels in the blood, and osmolality (total salt concentration) of the blood and urine.
+If these test results are not clear, then a water deprivation test may be done. In this test, you are not allowed to drink fluids for several hours, sometimes overnight. After the water restriction, your blood and urine osmolality and your blood sodium level will be checked. If your pituitary isn't making enough vasopressin, you'll continue to make urine even though you aren't taking in any fluid. This will cause your urine osmolality to remain low, as opposed to rising as it normally would if your urine was being concentrated. You may also be given an injection of vasopressin to see if this corrects the problem.
+Imaging tests
+Imaging tests use x-rays, magnetic fields, or other means to create pictures of the inside of your body. You might have one or more of these tests to look for pituitary tumors or to see if they have grown into nearby structures. In some cases, an imaging test of the head done for another reason may show a pituitary tumor.
+Magnetic resonance imaging (MRI)
+MRIs use radio waves and strong magnets to create detailed pictures of the inside of the body.
+This test is very helpful for looking at the brain and spinal cord, and it's considered the best way to find pituitary tumors. MRI images are usually more detailed than those from CT scans (see below). They can show macroadenomas of the pituitary gland, as well as most microadenomas. MRI might not detect very small microadenomas, although many of these can now be seen with newer MRI machines, which have stronger magnets and can show even more detail.
+Computed tomography (CT) scan
+A CT scan uses x-rays to create detailed cross-sectional images of part of your body. CT scans can find a pituitary adenoma if it's large enough, but MRI scans are used much more often to look at the brain and pituitary gland.
+Lab tests of pituitary tissue samples
+In diagnosing cancers and tumors in most other parts of the body, imaging tests and blood tests may strongly suggest a certain type of tumor, but a biopsy  (removing a sample of the tumor to examine under a microscope) is often the only way to be sure of the diagnosis. In many cases, doctors won't treat a tumor until a biopsy has been done.
+A biopsy, however, isn't usually needed before treating a pituitary tumor. One reason is that the hormone tests for most types of pituitary adenomas are very accurate, so a biopsy isn’t likely to provide much more information. Biopsies in this part of the body can also pose a risk of serious side effects, even though this risk is small. Also, some types of adenomas can be treated without surgery, using medicines or radiation therapy.
+When pituitary tumors are removed by surgery, they're looked at under a microscope to determine their exact type. Special stains may be used on the tumor to color the areas making hormones, and other lab tests may be done as well to help classify the tumor.For most types of cancer, staging is the process used to determine if and how far the cancer has spread. This is done to help guide treatment. But pituitary tumors are nearly always benign (not cancer) and do not spread, so there is no staging system for them. Pituitary carcinoma (cancer) is too rare for a staging system to have been developed.
+The most useful information for guiding the treatment of a pituitary adenoma is:
+
+Whether it is a microadenoma (smaller than 1 centimeter across) or a macroadenoma (1 centimeter across or larger). A centimeter is less than 1/2 an inch.
+Whether it has grown into nearby structures (such as bones of the skull)
+Whether it is causing symptoms such as vision changes, headaches, or problems related to changes in hormone levels
+Whether it is functional (making enough excess hormones to cause symptoms) or non-functional
+If it is functional, which hormone(s) it is makingAs you go through your diagnosis and treatment, you need to have honest, open discussions with your health care team. Ask any question, no matter how small it might seem. Here are some questions you might want to ask. Be sure to add your own as you think of them. Nurses, social workers, and other members of your treatment team may also be able to answer many of your questions.
+
+How sure are you that I have a pituitary tumor? Could it be something else?
+Has my tumor spread into the nearby brain tissue or other structures?
+Is my tumor making excess hormones? If so, which one?
+Do I need any other tests before we can decide on treatment?
+Do I need to see any other types of doctors?
+How much experience do you have treating this type of tumor?
+Should I get a second opinion? Can you recommend a doctor or hospital?
+Does the tumor need to be treated? If so, how soon do we need to start?
+What are my treatment choices? What do you recommend? Why?
+What is the goal of treatment (cure, keeping the tumor in check, etc.)?
+What are the possible risks or side effects of treatment?
+Will this treatment affect my ability to have children?
+What should I do to be ready for treatment?
+How long will treatment take? What will it be like? Where will it be given?
+What is my expected prognosis (outlook)?
+What will we do if the treatment doesn’t work or if the tumor comes back?
+What type of follow-up will I need after treatment?
+
+Along with these examples, be sure to write down any other questions you might want to ask. For instance, you might want information about recovery times so that you can plan your work or activity schedule. Or you may want to ask if you qualify for any clinical trials.Surgery is the main treatment for many pituitary tumors. How the surgery is done (and how well it works) depends on several factors, including the type of tumor, its size and location, and if it has spread into nearby structures.
+Transsphenoidal surgery
+This is the most common way to remove pituitary tumors. Transsphenoidal surgery is done through the sphenoid sinus, a hollow space in the skull behind the nasal passages and below the brain. The back wall of the sinus is just below the pituitary gland.Radiation therapy uses high energy x-rays or particles to kill tumor cells. For this type of treatment, you'll see a doctor called a radiation oncologist. Radiation is directed at the tumor from a source outside the body.
+When might radiation therapy be used?
+Radiation therapy may be recommended to treat a pituitary tumor if:
+
+Surgery isn't an option for some reason
+Some of the pituitary tumor remains or comes back after surgery
+The tumor causes symptoms that aren’t controlled with medicines
+
+Radiation therapy can work well, especially in controlling tumor growth. However, it tends to work more slowly in controlling excess pituitary hormone production. It can often take months or even years before excess hormone production is fully controlled.
+How is radiation therapy given?
+Radiation therapy is much like getting an x-ray, but the doses of radiation used are much stronger.
+Before your treatments start, the radiation team will get imaging tests such as MRI scans to map out the exact location, size, and shape of the tumor. This planning session, called simulation, is used to determine the correct angles for aiming the radiation beams, the shape of the beams, and the proper dose of radiation.
+The treatment itself is not painful. You lie on a special table while a machine delivers the radiation from precise angles. Each session typically lasts about 15 to 30 minutes. Much of that time is spent making sure you are in the right position so the radiation is aimed correctly. The actual time you're getting the treatment is much shorter.
+Types of radiation therapy
+The main ways to give radiation therapy for pituitary tumors are:
+
+Fractionated radiation therapy
+Stereotactic radiosurgery (SRS)/stereotactic radiation therapy (SRT)
+
+The choice of which one to use depends on factors such as the size and location of the tumor, if the tumor is making excess hormones, and the availability of nearby treatment facilities.
+Fractionated radiation therapy
+In this approach, the total dose of radiation is broken up (fractionated) into smaller doses, which are usually given 5 times a week over 4 to 6 weeks.
+Higher doses of radiation can damage normal brain tissue, so doctors try to deliver the radiation to the tumor while giving the lowest possible dose to normal surrounding brain areas. Some newer techniques can help doctors focus the radiation more precisely.
+Intensity modulated radiation therapy (IMRT): IMRT is an advanced form of 3D radiation therapy. It uses the results of imaging tests such as MRI and special computers to map the location of the tumor precisely. Then a computer-driven machine moves around the patient to deliver the radiation. IMRT lets the doctor shape the radiation beams and aim them at the tumor from many angles. The intensity (strength) of the beams can also be adjusted to limit the dose reaching nearby normal tissues. This may mean fewer side effects. Many major hospitals and cancer centers now use IMRT.
+Proton beam radiation therapy: This form of treatment uses beams of protons rather than x-rays to kill tumor cells. Protons are positive parts of atoms.
+Unlike x-rays, which release energy both before and after they hit their target, protons cause little damage to tissues they pass through and only release their energy after traveling a certain distance. Doctors can use this property to deliver more radiation to the tumor with less damage to normal brain tissue.
+Proton beam radiation therapy requires highly specialized equipment and isn't available everywhere – there are a limited number of proton beam centers in the United States at this time.
+Stereotactic radiosurgery (SRS)/stereotactic radiation therapy (SRT)
+This type of treatment delivers a large, precise radiation dose to the tumor area, either in one treatment session (for SRS) or in a few sessions (for SRT). There is no actual surgery in this treatment. Radiosurgery targets the tumor precisely, limiting the radiation exposure to nearby structures and the rest of the brain.
+A head frame might be attached to the skull to help aim the radiation beams. (Sometimes a mesh face mask is used to hold the head in place instead.) Once CT or MRI scans have shown the exact location of the tumor, radiation is focused on it from many different angles.
+
+In one approach, thin radiation beams from a machine are focused on the tumor from hundreds of different angles for a short period of time. Each beam alone is weak, but they all converge at the tumor to give a higher dose of radiation. An example of such a machine is the Gamma Knife.
+Another approach uses a movable linear accelerator (a machine that creates radiation) that's controlled by a computer. Instead of delivering many beams at once, this machine moves around the patient's head to deliver a thin beam of radiation to the tumor from many different angles. Several machines with names such as X-Knife, CyberKnife, and Clinac are used for this type of stereotactic radiosurgery.
+
+SRS typically delivers the whole radiation dose in one session, though it may be repeated if needed. For SRT (sometimes called fractionated radiosurgery),﻿ doctors give the radiation in several treatments to deliver the same or a slightly higher dose.
+The benefits of stereotactic radiation are usually seen a bit sooner than with other forms of radiation therapy, but it can still take months to be fully effective.
+Unfortunately, this therapy might not be a good option for tumors that are very close to the optic nerves. It also might not be helpful for tumors that have an unusual shape.
+Possible side effects of radiation therapy
+Radiation therapy can sometimes affect nearby normal structures, which can lead to side effects. For example:
+
+Some people might feel tired or irritable during the course of radiation therapy.
+Nausea, vomiting, and headaches are possible but are not common.
+Radiation might damage the remaining normal parts of the pituitary gland. This could result in the loss of pituitary function over time, so treatment with hormones might be needed.
+Radiation might damage normal brain tissue near the pituitary, which could affect mental function years later.
+R﻿adiation might damage the optic nerves, which could lead to vision changes.
+R﻿adiation may increase the risk of developing a brain tumor later in life, although this risk is low in adults.Many medicines can be used to treat pituitary tumors. For some pituitary tumors, medicine might be the only treatment needed. For other tumors, medicines might not be used unless other treatments such as surgery or radiation therapy aren’t effective.The treatment of functional pituitary adenomas (tumors that make excess hormones) depends on which type of hormone they make.Some pituitary adenomas don’t make enough excess hormones for them to cause symptoms. Most of these non-functional pituitary tumors are gonadotroph adenomas that don’t make enough hormones to cause any problems.
+Not all of these tumors need to be treated right away, especially if they're small and not growing or causing symptoms. But large tumors and those that are clearly growing often do need treatment.
+Large pituitary tumors (macroadenomas)
+Most non-functioning pituitary tumors grow large enough to cause local symptoms such as vision problems or headaches before they are found. They might also cause symptoms by pressing on the normal parts of the pituitary, which can lead to lower levels of pituitary hormones. 
+These macroadenomas are most often treated with surgery if it can be done. The goal of surgery is to remove as much of the tumor as possible. This can usually help relieve any symptoms the tumor is causing and can lower the chances the tumor will come back and cause problems in the future. Some macroadenomas can be removed completely, but this might not be possible for other tumors, based on their size and location.
+If the tumor can’t be removed completely, if it comes back after surgery, or if a person can’t have surgery for some reason, radiation therapy might be done. Radiation tends to work very slowly (over many months), so it’s not usually the first treatment tried, especially in people who are having symptoms. Because radiation works slowly, medicines might be tried in the meantime to help relieve any symptoms the tumor is causing, although drugs aren’t always helpful for non-functioning tumors (see below).
+MRI scans typically are done for many years after treatment. Eye exams and blood tests of hormone levels may be done, too. If the tumor comes back, more surgery or radiation may be used.
+Medicines are not usually not helpful in treating non-functioning tumors, but some of the same drugs used when treating functioning pituitary tumors may be tried if surgery and radiation therapy aren't good options. Some doctors have reported success using the chemotherapy drug temozolomide for fast-growing tumors.
+Pituitary incidentalomas
+These are pituitary tumors that are seen on scans of the head done for other reasons. Many of these are smaller tumors (microadenomas), but some of them are larger (macroadenomas). These tumors usually don't cause obvious symptoms because they're not big enough to press on nearby structures and they don't make excess levels of any hormone.
+For larger incidentalomas, tests and exams are often done to see if the tumor is making any excess hormones, or if it is causing subtle symptoms that a person might not be aware of. If either of these is true, then treatment is often recommended. (See above or Treatment of Functional (Hormone-Making) Pituitary Tumors.) Otherwise, the tumor often can be watched closely over time with MRIs to see if it is growing.
+Smaller incidentalomas usually do not change over time, and doctors often recommend just watching them with regular MRI scans to see if the tumor starts growing. Hormone levels may be checked, too, although not all doctors agree in which ones should be checked or how often. If the tumor does start growing or causing symptoms, it can then be treated. But it's important to find the right balance so that people with incidentalomas aren't getting tests or treatments that they don't really need.Pituitary carcinomas are very rare tumors that usually have already spread to other parts of the body by the time they're found. Because so few people have had this type of cancer, it's been difficult to learn much about it, so it can be hard to diagnose and treat. Whenever possible, a team of medical experts should discuss the cancer before deciding on which tests and treatment options might be best.
+Surgery is usually the first treatment if it can be done. Surgery might be done to remove tumors in other parts of the body as well. Radiation therapy might also be an option, either after surgery or for people who can’t have surgery for some reason. These treatments may help prevent or relieve symptoms by removing the tumor, shrinking it, or slowing its growth. If the tumor isn’t removed completely or if it starts to grow again, a second surgery may be an option.
+For functional pituitary carcinomas (those that make excess hormones), the same medicines used to treat pituitary adenomas can be tried, but higher doses or combinations of drugs may be needed.
+Chemotherapy and newer targeted therapy drugs may be other options in some cases. The chemo drug temozolomide is often the first drug tried, sometimes along with radiation therapy to the tumor. If this doesn't work, other chemo drugs might be options, although it’s not clear how effective they might be.
+Because pituitary carcinoma affects so few people, it's been hard to study which treatments might be most effective. Taking part in a clinical trial of a new treatment may be a good option.For most people with pituitary tumors, treatment can remove or control the tumor. For some, treatment might make the tumor go away completely, and they won't need any more treatment. For others, the tumor might never go away completely, or they might need to keep gett﻿ing medicines or other treatments to help keep the tumor in check.
+It can be hard not to worry about the tumor growing or coming back. This is a very common concern in people who have had a pituitary tumor.
+It may take a while before your fears lessen. But it may help to know that many pituitary tumor survivors have learned to live full lives while coping with this uncertainty.
+Follow-up care
+Follow-up care is very important after treatment for a pituitary tumor. Even if you've finished treatment, your doctors will still want to watch you closely. Be sure to go to all of your visits with your health care team and follow their instructions carefully. Report any new or returning symptoms to your doctor right away. Ask questions if you don’t understand what your doctor says.
+After surgery
+Surgery is often the first treatment for many types of pituitary adenomas. If you had a functional (hormone-making) pituitary adenoma, tests of blood hormone levels can often be done within days or weeks after surgery to see if treatment worked. Blood tests will also be done to see how well the remaining normal pituitary gland is working. Even if the results show that the tumor was removed completely and that pituitary function is normal, you'll still need regular visits with your doctors. Your hormone levels may need to be checked in the future to see if the adenoma comes back.
+Whether or not the tumor made hormones, MRI scans are often done as a part of follow-up.
+Depending on the size of the tumor and the extent of surgery, you may also need to see other doctors, such as:
+
+A neurologist to check your brain and nerve function
+An ophthalmologist (eye doctor) to assess your vision
+
+Some people might develop diabetes insipidus (see Signs and Symptoms of Pituitary Tumors) after surgery. This usually goes away on its own, but in some people it might last longer. It can usually be treated. If the problem is mild, simply taking in enough fluids might be enough to treat it. For more severe problems, a drug called desmopressin can be taken either by nasal spray or by tablet.
+After radiation therapy
+If radiation therapy was your main treatment (or was part of your treatment), you will need check-ups for several years afterward. The response of the tumor to radiation therapy can be hard to predict. The benefits and side effects of treatment can be seen within months in some people, while in others it might take years to know how well it worked. Your pituitary function will be checked at regular intervals. MRI scans are typically the main follow-up tests, along with blood tests of hormone levels (if your tumor made hormones).
+Replacing hormones after surgery or radiation
+It’s common for people to have low pituitary hormone levels after surgery or radiation therapy. If this happens to you, you'll probably need hormone replacement. Thyroid hormone and adrenal steroids can be taken as pills. In men, testosterone can be given to restore sex drive and help prevent osteoporosis (weak bones). Testosterone is available as a gel, liquid, or patch applied to the skin. It can also be injected monthly or implanted as a pellet under the skin every few months. In young women, estrogen can be given either by pills or a skin patch to avoid early menopause. Often, progesterone is given along with estrogen. Pituitary hormone deficiency can affect a woman’s ability to have children, but it may still be possible with hormone therapy.
+Follow-up while on medicines
+If you're taking medicine to treat a prolactinoma (prolactin-making tumor), your hormone levels will be checked at least once or twice a year. If an MRI shows that the tumor has shrunk after treatment, the MRI might not need to be repeated, depending on whether the response to treatment is partial or complete. If you have a prolactin-producing microadenoma (smaller tumor), after a couple of years your doctor might recommend stopping the drug and then checking your prolactin level. If it stays normal, you may be able to stay off the drug.
+People getting drug therapy for corticotropin (ACTH)-producing or growth hormone (GH)-producing adenomas may have more frequent follow-up visits. Your hormone levels and symptoms will be watched carefully. People with GH-producing adenomas have an increased risk of developing high blood pressure and heart failure. They also have a higher risk of getting colon cancer. Periodic check-ups for these conditions are recommended.
+Genetic counseling and testing
+It’s important to consider whether your pituitary tumor might be a sign of a genetic syndrome in your family. Some people with pituitary tumors might want to talk to a genetic counselor about whether genetic testing to look for certain gene changes might be right for them. If a change is found, family members might want to be tested as well to see if they are at increased risk.
+Ask your doctor for a survivorship care plan
+Talk with your doctor about developing a survivorship care plan for you. This plan might include: 
+
+A summary of your diagnosis, the tests that were done, and the treatment you received
+A ﻿suggested schedule for follow-up exams and tests
+A schedule for other tests you might need in the future, such as early detection (screening) tests for cancer, or tests to look for long-term health effects from your tumor or its treatment
+A list of possible late- or long-term side effects from your treatment, including what to watch for and when you should contact your doctor
+Diet and physical activity suggestions
+Reminders to keep your appointments with your primary care provider (PCP), who will monitor your general health
+
+Keeping health insurance and copies of your medical records
+Even after treatment, it’s very important to keep health insurance. Tests and doctor visits cost a lot, and even though no one wants to think of their tumor coming back, this could happen.
+At some point after your treatment, you might find yourself seeing a new doctor who doesn’t know about your medical history. It’s important to keep copies of your medical records to give your new doctor the details of your diagnosis and treatment. Learn more in Keeping Copies of Important Medical Records.
+Can I lower my risk of the pituitary adenoma progressing or coming back?
+If you have (or have had) a pituitary tumor, you probably want to know if there are things you can do that might lower your risk of it growing or coming back, such as exercising, eating a certain type of diet, or taking nutritional supplements. Unfortunately, it’s not yet clear if there are things you can do that will help.
+Adopting healthy behaviors such as not smoking, eating well, getting regular physical activity, and staying at a healthy weight might help, but no one knows for sure. We do know, however, that these types of changes can have positive effects on your health in many other ways.
+About dietary supplements
+So far, no dietary supplements (including vitamins, minerals, and herbal products) have been shown to help lower the risk of a pituitary tumor growing or coming back. This doesn’t mean that no supplements will help, but it’s important to know that none have been proven to do so.
+Dietary supplements are not regulated like medicines in the United States – they don't have to be proven effective (or even safe) before being sold, although there are limits on what they’re allowed to claim they can do. If you’re thinking about taking any type of nutritional supplement, talk to your health care team. They can help you decide which ones you can use safely while avoiding those that might be harmful.What is a pituitary tumor?
+A tumor is an abnormal mass of body tissue that results from cells growing out of control. Some tumors are cancer, but others are not.
+Tumors can start any place in the body. A tumor that starts in the pituitary gland is called a pituitary tumor (or a pituitary adenoma).
+The pituitary is a gland that sits in a small space below your brain in the middle of your head. Its job is to make hormones that affect other parts of the body.

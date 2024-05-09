@@ -1,0 +1,681 @@
+Brain and spinal cord tumors are masses of abnormal cells in the brain or spinal cord that have grown out of control.
+Are brain and spinal cord tumors cancer?
+In most other parts of the body, there's an important difference between benign (non-cancerous) tumors and malignant  tumors (cancers). Benign tumors do not invade nearby tissues or spread to distant areas, and are almost never life threatening in other parts of the body. Malignant tumors (cancers) are so dangerous mainly because they can spread throughout the body.
+Brain tumors rarely spread to other parts of the body, though many of them are considered malignant because they can spread through the brain and spinal cord tissue. But even so-called benign tumors can press on and destroy normal brain tissue as they grow, which can lead to serious or sometimes even life-threatening damage. Because the difference between benign and malignant tumors isn't as important in the brain, doctors usually speak of “brain tumors” rather than “brain cancers.”
+The main concerns with brain and spinal cord tumors are:
+
+How fast they grow
+How readily they spread through the rest of the brain or spinal cord
+If they can be removed or treated and not come back
+
+Both benign and malignant tumors can be life threatening.
+Are brain and spinal cord tumors different in children?
+Brain and spinal cord tumors in children tend to be different from those in adults. They often form in different places, develop from different cell types, and may have a different treatment and prognosis (outlook).
+To learn more about the differences between childhood cancers and adult cancers in general, see What Are the Differences Between Cancers in Adults in Children? 
+The central nervous system
+To understand brain and spinal cord tumors, it helps to know about the normal structure and function of the central nervous system (CNS), which is the medical name for the brain and spinal cord.
+The brain is the center of thought, feeling, memory, speech, vision, hearing, movement, and much more. The spinal cord and special nerves in the head, called cranial nerves, carry messages between the brain and the rest of the body. These messages tell our muscles how to move, transmit information gathered by our senses, and help coordinate the functions of our internal organs.
+The brain is protected by the skull. Likewise, the spinal cord is protected by the bones (vertebrae) of the spinal column.
+The brain and spinal cord are surrounded and cushioned by a liquid called cerebrospinal fluid (CSF). Cerebrospinal fluid is made by the choroid plexus, which is in spaces in the brain called ventricles. The ventricles and the spaces around the brain and spinal cord are filled with CSF.
+Parts of the brain and spinal cord
+The main areas of the brain include the cerebrum, cerebellum, and brain stem. Each area has a special function.Many different types of tumors can occur in the brain and spinal cord. Several factors are important when doctors are trying to figure out how best to treat a tumor and what the prognosis (outlook) is likely to be. 
+The type of tumor (based on the type of cell it starts from): Tumors can form in almost any type of tissue or cell in the brain or spinal cord. Some tumors have a mix of cell types. Different types of tumors tend to start in certain parts of the brain or spinal cord, and tend to grow in certain ways. (The most common types of brain and spinal cord tumors in children are described below.)
+The grade of the tumor: Some types of brain and spinal cord tumors are more likely to grow into nearby tissues (and to grow quickly) than are others. Brain and spinal cord tumors are typically divided into 4 grades (using Roman numerals I to IV), based largely on how the tumor cells look under a microscope. The higher the grade, the more quickly the tumor is likely to grow: 
+
+Lower grade (grade I or II) tumors tend to grow more slowly and are less likely to grow into (invade or infiltrate) nearby tissues.
+Higher grade (grade III or IV) tumors tend to grow quickly and are more likely to grow into nearby tissues. These tumors often require more intensive treatment.
+
+Gene changes in the tumor cells: Even for a specific type of tumor, the changes in the genes of the tumor cells can be different. For example, many types of tumors are now divided based on whether the cells have mutations in one of the IDH genes. For a specific type of tumor, those with IDH mutations tend to have a better outlook than those without a mutation. Other gene mutations can also be important for certain types of tumors.
+The location of the tumor: Where the tumor is in the brain and spinal cord can affect what symptoms it causes, as well as which treatments might be best. Brain tumors in children are more likely to start in the lower parts of the brain, such as the cerebellum and brain stem, than they are in adults. But they can start in the upper parts of the brain as well.
+Gliomas
+Gliomas are not a specific type of tumor. Glioma is a general term for a group of tumors that start in glial cells (the supporting cells of the brain). A number of tumors can be considered gliomas, including:
+
+Astrocytomas (which include glioblastomas)
+Oligodendrogliomas
+Ependymomas
+Brain stem gliomas
+Optic gliomas
+
+About half of all brain and spinal cord tumors in children are gliomas.
+Astrocytomas
+Astrocytomas are tumors that start in cells called astrocytes, a kind of glial cell that helps support and nourish nerve cells.
+Some astrocytomas can spread widely throughout the brain and blend with the normal brain tissue, which can make them hard to remove by surgery. Sometimes they spread along the cerebrospinal fluid (CSF) pathways. It is very rare for them to spread outside of the brain or spinal cord.
+As with other brain tumors, astrocytomas are often grouped by grade.
+Low-grade (grade I or II) astrocytomas tend to grow slowly and are the most common type in children. Some types, known as non-infiltrating astrocytomas, are grade I tumors that tend to grow very slowly and do not grow into (infiltrate) nearby tissues, so they often have a good prognosis.
+
+Pilocytic astrocytomas are grade I tumors that tend to grow slowly and rarely grow into nearby tissues. They most commonly occur in the cerebellum but can also begin in the optic nerve, hypothalamus, brain stem, or other areas. They account for nearly 1 out of 5 brain tumors in children.
+Subependymal giant cell astrocytomas (SEGAs) occur in the ventricles (spaces in the brain). They are grade I tumors that tend to grow slowly and rarely grow into nearby tissues. These tumors are almost always linked with an inherited condition called tuberous sclerosis.
+Diffuse astrocytomas are also slow-growing tumors, but they are grade II tumors that can grow into nearby tissues, which makes them hard to remove with surgery. Though these tumors are thought of as low grade, they tend to become more aggressive and fast growing over time.
+Pleomorphic xanthoastrocytomas (PXAs) are grade II tumors that tend to grow slowly, and most can be cured by surgery alone.
+Optic gliomas are astrocytomas that start in the optic nerves (the nerves leading from the eyes to the brain). They usually grow slowly, and are often linked with an inherited condition called neurofibromatosis type 1. These tumors are rarely fatal, but they may cause vision loss and injury to nearby brain tissue.
+
+High-grade (grade III or IV) astrocytomas tend to grow quickly and spread into the surrounding normal brain tissue. These include:
+
+Glioblastomas, which are the fastest growing type of astrocytoma (grade IV). 
+Anaplastic astrocytomas, which are grade III.
+
+Oligodendrogliomas
+These tumors start in brain cells called oligodendrocytes (a type of glial cell that makes a fatty substance that helps nerve cells send electric signals). These are grade II tumors that tend to grow slowly, but most of them can grow into nearby brain tissue and can’t be removed completely by surgery. Oligodendrogliomas rarely spread along the CSF pathways and even less frequently spread outside the brain or spinal cord. As with astrocytomas, they can become more aggressive over time.
+Only about 1% of brain tumors in children are oligodendrogliomas.
+Ependymomas
+About 5% of brain tumors in children are ependymomas. These tumors start in the ependymal cells that line the ventricles or central canal of the spinal cord. They can range from fairly low-grade (slow growing) tumors to grade III (fast growing) tumors, which are called anaplastic ependymomas.
+Ependymomas may spread along the CSF pathways but do not spread outside the brain or spinal cord. These tumors can block the flow of CSF out of the ventricles, causing the ventricles to become very large – a condition called hydrocephalus.
+Unlike astrocytomas and oligodendrogliomas, ependymomas usually do not grow into normal brain tissue. As a result, some (but not all) ependymomas can be removed and cured by surgery. But because they can spread along ependymal surfaces and CSF pathways, treating them can sometimes be difficult.
+Brain stem gliomas
+A brain stem glioma is any type of glioma that starts in the brain stem. This term refers to the location of the tumor, rather than the type of cell it starts in.
+
+A small number of brain stem gliomas occur as tumors with very distinct edges (called focal brain stem gliomas).
+More often, brain stem gliomas grow diffusely throughout the brain stem (where the tumor cells are spread throughout normal tissue), rather than growing as a focal tumor (where the tumor cells are clustered together). These are referred to as diffuse midline gliomas. These tumors most often start in the pons, where they are called diffuse intrinsic pontine gliomas (DIPGs). These tumors can be hard to treat.
+
+About 10% to 20% of brain tumors in children are brain stem gliomas. Nearly all of these tumors are some type of astrocytoma.
+Embryonal tumors
+These tumors start in early forms of nerve cells in the central nervous system. About 10% to 20% of brain tumors in children are embryonal tumors. They are more common in younger children than older ones, and are rare in adults. Embryonal tumors tend to grow quickly and often spread throughout the CSF pathways. 
+Medulloblastomas are the most common type of embryonal tumor. These tumors start in the cerebellum. There are several different types of medulloblastomas, based on how the tumor cells look under a microscope, and on which gene mutations the cells have. Some types of medulloblastoma tend to have a better outlook than others, and doctors are now trying to determine how this might affect treatment.
+Medulloblastomas can often be treated effectively and tend to have a better outlook than embryonal tumors in other parts of the brain.
+Other, less common types of embryonal tumors include:
+
+Medulloepithelioma
+Atypical teratoid/rhabdoid tumor (ATRT)
+Embryonal tumor with multilayered rosettes
+
+In the past, many embryonal tumors were referred to as primitive neuroectodermal tumors (PNETs).
+Pineal tumors
+Some types of tumors occur in the pineal gland (a small gland in the middle of the brain). The most common (and fastest growing) of these are called pineoblastomas. These tumors can be hard to treat.
+Germ cell tumors, which are described below, can also start in the pineal gland.
+Craniopharyngiomas
+These slow-growing tumors start above the pituitary gland but below the brain itself. They account for about 4% of brain tumors in children. These tumors may press on the pituitary gland and the hypothalamus, causing hormone problems. Because craniopharyngiomas start very close to the optic nerves, they can also cause vision problems. This makes them hard to remove completely without damaging the child’s vision or hormone balance.
+Mixed glial and neuronal tumors
+Certain tumors that develop in children and young adults (and rarely in older adults) have both glial and neuronal cell components. They tend to have a fairly good outlook.
+
+Dysembryoplastic neuroepithelial tumors (DNETs) tend to be slow growing (grade II) tumors, and most can be cured by surgery alone.
+Ganglioglioma is a type of grade I tumor that has both mature neurons and glial cells. Most can be cured by surgery alone or surgery combined with radiation therapy.
+
+Choroid plexus tumors
+These rare tumors start in the choroid plexus, the area that makes cerebrospinal fluid (CSF) within the ventricles of the brain. Most are benign (choroid plexus papillomas) and can be cured by surgery. However, some are malignant (choroid plexus carcinomas).
+Schwannomas (neurilemmomas)
+These tumors start in Schwann cells that surround and insulate cranial nerves and other nerves. Schwannomas are usually benign . They often form near the cerebellum on the cranial nerve responsible for hearing and balance, in which case they are called vestibular schwannomas or acoustic neuromas. They may also develop on spinal nerves, just past the point where the nerve leaves the spinal cord. When this is the case, the tumor can press on the spinal cord, causing weakness, sensory loss, and bowel and bladder problems.
+These tumors are rare in children. When schwannomas are found in a child, particularly if there are tumors on both sides of the head, it often means the child has an inherited tumor syndrome such as neurofibromatosis type 2. (See Risk Factors for Brain and Spinal Cord Tumors in Children.)
+Other tumors that start in or near the brain
+Meningiomas
+These tumors begin in the meninges, the layers of tissue that surround the outer part of the brain and spinal cord. Meningiomas cause symptoms by pressing on the brain or spinal cord. They are much less common in children than in adults.
+Meningiomas are almost always benign and are usually cured by surgery. Some, however, are located very close to vital structures in the brain and can’t be cured by surgery alone.
+Meningiomas are often assigned a grade based on how the tumor cells look.
+
+Grade I meningiomas, which look most like normal cells, account for most meningiomas.
+Grade II (atypical) meningiomas look slightly more abnormal.
+Grade III (anaplastic or malignant) meningiomas, which look the most abnormal, make up only about 1% to 3% of meningiomas.
+
+Higher-grade meningiomas are more likely to come back after treatment, and some grade III meningiomas can spread to other parts of the body.
+Chordomas
+These tumors start in the bone at the base of the skull or at the lower end of the spine. Chordomas don’t start in the central nervous system, but they can injure nearby parts of the brain or spinal cord by pressing on them. These tumors tend to come back if they are not removed completely, causing more damage. They usually do not spread to other organs. Chordomas are much more common in adults than in children. For more on these tumors, see Bone Cancer.
+Germ cell tumors
+These rare tumors develop from germ cells, which normally form egg cells in women and sperm cells in men. During normal development before birth, germ cells travel to the ovaries or testicles and develop into egg or sperm cells. But sometimes some germ cells don’t move where they should and end up in abnormal locations such as the brain. They may then develop into germ cell tumors, similar to those that can form in the ovaries or testicles.
+Germ cell tumors of the nervous system usually occur in children, most often in the pineal gland or above the pituitary gland. These tumors can sometimes be diagnosed without a biopsy by measuring certain chemicals in the cerebrospinal fluid (CSF) or blood.
+Types of germ cell tumors include:
+
+Germinomas (the most common type of CNS germ cell tumor)
+Choriocarcinomas
+Embryonal carcinomas
+Teratomas
+Yolk sac tumors (endodermal sinus tumors)
+
+Neuroblastomas
+These nerve cell tumors are the third most common cancer in children. But neuroblastomas rarely develop in the brain or spinal cord; most develop from nerve cells inside the abdomen or chest. This type of cancer is most common during early infancy. For more information, see Neuroblastoma.
+Lymphomas
+Lymphomas are cancers that start in cells called lymphocytes, which are white blood cells that are part of the immune system. Most lymphomas start in other parts of the body, but a small portion start in the central nervous system (CNS), and are called primary CNS lymphomas. These tumors are rare in children. For more on childhood lymphomas, see Non-Hodgkin Lymphoma in Children.
+Pituitary tumors
+Tumors that start in the pituitary gland are almost always benign (non-cancerous). But they can still cause problems if they grow large enough to press on nearby structures or if they make too much of any kind of hormone. These tumors are more common in teens than in younger children. For more information, see Pituitary Tumors.
+Cancers that spread to the brain from other parts of the body
+Sometimes tumors in the brain are found to have metastasized (spread) there from some other part of the body. Tumors that start in other organs and then spread to the brain are called metastatic or secondary brain tumors (as opposed to primary brain tumors, which start in the brain). This is important because metastatic and primary brain tumors are often treated differently.
+In children, metastatic brain tumors are much less common than primary brain tumors. Childhood leukemias can sometimes spread to the CSF around the brain and spinal cord. When this happens, the cancer is still considered a leukemia (the cancer cells in the CSF are leukemia cells), so doctors use treatments directed at the leukemia. For more information, see Childhood Leukemia.How common are brain and spinal cord tumors in children?
+Brain and spinal cord tumors are the second most common cancers in children (after leukemia). They account for about 1 out of 4 childhood cancers. More than 4,000 brain and spinal cord tumors are diagnosed each year in children and teens. The incidence rate (number of tumors per 100,000 children) has not changed much in recent years.
+Malignant (fast-growing) brain and spinal cord tumors are slightly more common in boys, while non-malignant tumors are slightly more common in girls.
+Survival rates for children with brain and spinal cord tumors
+About 3 out of 4 children with brain tumors (all types combined) survive at least 5 years after being diagnosed. But the outlook can vary a great deal based on the type of tumor, where it is, and other factors. For survival information on some particular tumor types, see Survival Rates for Selected Childhood Brain and Spinal Cord Tumors.
+Visit the American Cancer Society’s Cancer Statistics Center for more key statistics.There is always research going on in the area of brain and spinal cord tumors. Scientists and doctors are looking for causes and ways to prevent them, better tests to help characterize these tumors, and better ways to treat them.
+Finding and testing for gene changes in brain tumors
+In recent years, researchers have found some changes in genes, chromosomes, and proteins inside brain tumor cells that can be used to help predict a child’s outlook (prognosis) or help guide treatment. Some examples of changes that can now be tested for include: 
+
+IDH1 or IDH2 gene mutations
+Chromosomal 1p19q co-deletions
+MGMT promoter methylation
+
+For children with medulloblastomas, doctors can now also test for other gene changes that can help show if they are likely to have a better outlook (and therefore might require less intensive treatment).
+For more on these tests, see "Lab tests of biopsy specimens" in Tests for Brain and Spinal Cord Tumors in Children.
+Researchers are also looking for other changes in tumor cells that might help guide treatment.
+Imaging and surgery techniques
+Recent advances have made surgery for brain tumors much safer and more successful. Some of these newer techniques include:
+
+Magnetic resonance spectroscopy (MRS). In this approach, described in Tests for Brain and Spinal Cord Tumors in Children, specially processed MRS information is used to make a map of important chemicals involved in tumor metabolism. This can help surgeons direct their biopsies to the most abnormal areas in the tumor. It can also help doctors direct radiation to the right areas and evaluate the effects of chemotherapy or targeted therapy.
+Diffusion tensor imaging (DTI), also known as tractography. This is a type of MRI test that can show the major pathways (tracts) of white matter in the brain. This information can be used by surgeons to help avoid these important parts of the brain when removing tumors. 
+Fluorescence-guided surgery. For this approach, the patient drinks a special dye a few hours before surgery. The dye is taken up mainly by the tumor, which then glows when the surgeon looks at it under special lighting from the operating microscope. This lets the surgeon better separate tumor from normal brain tissue. Researchers are now looking to improve on the dyes currently in use.
+Newer surgical approaches for some types of tumors. For example, a newer approach to treat some tumors in or near the pituitary (such as some craniopharyngiomas) is to use an endoscope, a thin tube with a tiny video camera lens at the tip. The endoscope is passed through a hole made in the back of the nose, which allows the surgeon to operate through the nasal passages and limits the potential damage to the brain. A similar technique can be used for some tumors in the ventricles, where a small opening in the skull near the hairline serves as the point of endoscope insertion. The use of this technique is limited by the tumor’s size, shape, position, and by how many blood vessels it contains.
+
+Radiation therapy
+Children's brains are very sensitive to radiation, which can lead to side effects if normal brain tissue receives a large dose, especially if the child is very young. Several newer types of radiation therapy now let doctors aim radiation more precisely at the tumor, which helps spare normal brain tissue from getting too much radiation. Newer techniques such as stereotactic radiosurgery, 3-dimensional conformal radiation therapy (3D-CRT), intensity modulated radiation therapy (IMRT), and proton beam therapy are described in Radiation Therapy for Brain and Spinal Cord Tumors in Children.
+Clinical trials have shown that in some situations, using chemotherapy can let doctors use lower doses of radiation therapy without lowering the chance that treatment will be effective. Doctors are now trying to determine if even lower doses of radiation can be used and still give the same results.
+Chemotherapy
+New approaches may help make chemotherapy (chemo) more useful against brain and spinal cord tumors.
+Adjuvant chemotherapy
+In some children and infants with brain tumors, chemo is given right after surgery to either delay radiation therapy (particularly in infants) or to decrease the radiation dose needed to treat the tumor. This is known as adjuvant chemotherapy. Some studies are looking at whether giving prolonged chemo can help avoid the need for radiation therapy at all in certain cases.
+High-dose chemotherapy and stem cell transplant
+One of the main factors that limits the doses of chemo that can be given safely is its effects on the bone marrow, where new blood cells are normally made. A stem cell transplant allows higher doses of chemo to be given than would normally be possible. First, blood stem cells are removed from either the child’s blood or the bone marrow and are stored in a deep freeze. The child is then treated with very high doses of chemo. The blood stem cells are then thawed and infused back into the body, where they settle in the bone marrow and start making new blood cells.
+Although some children with certain brain or spinal cord tumors (such as medulloblastomas) have responded well to this very intensive treatment, it can have serious side effects, and it is not yet known if it is effective enough to become a standard treatment. For now, most doctors consider this treatment experimental for brain and spinal tumors. Clinical trials are being done to determine how useful it is.
+Improving chemotherapy drugs
+Many chemo drugs are limited in their effectiveness because the tightly controlled openings in the brain capillaries, sometimes referred to as the blood-brain barrier, prevents the drugs from getting from the bloodstream to some parts of the brain tumor. Researchers are now trying to modify some of these drugs by coating them with tiny layers of fat (liposomes) or attaching them to molecules that normally cross the blood-brain barrier, to help them work better. This is an area of active research.
+Getting chemotherapy directly to tumors
+Some newer approaches might help doctors get chemo directly to brain and spinal cord tumors.
+For example, in one method called convection enhanced delivery, small tubes are placed into the tumor in the brain through a small hole in the skull during surgery. The tubing extends through the scalp and is connected to an infusion pump, through which chemo drugs can be given. This can be done for hours or days and might be repeated more than once, depending on the drug used. This technique can also be used to get other, newer types of drugs into the tumor. This is still an investigational method, and studies are continuing.
+Researchers are also looking at the possibility of using lasers or other means to disrupt the blood-brain barrier and allow drugs to more readily reach brain tumors.
+Other new treatments
+Researchers are also testing some newer approaches to treatment that may help doctors target tumors more precisely. The hope is to develop more effective treatments that cause fewer side effects. Although these treatment approaches are promising, most are still experimental at this time and are only available through clinical trials.
+Targeted drugs
+As researchers have learned more about the gene changes in tumor cells that help them grow, they have developed newer drugs that target these changes. These targeted drugs work differently from standard chemo drugs. Here are some examples of targeted drugs now being studied or in use:
+
+Everolimus (Afinitor) is a drug that targets mTOR, a protein involved in cell growth. This drug may shrink or slow the growth of subependymal giant cell astrocytomas (SEGAs) that can’t be removed with surgery.
+A small portion of low-grade gliomas have been found to have a change in the BRAF gene known as a V600E mutation, which can help them grow. Research has shown that drugs that target the BRAF protein (or related proteins) might be helpful in treating tumors with BRAF V600E mutations if other treatments are no longer working. The targeted drugs dabrafenib (Tafinlar) and trametinib (Mekinist) are now approved for use in treating these tumors, and other drugs are also being studied.
+Some types of medulloblastomas tend to have mutations (changes) in genes that are part of a cell signaling route called the sonic hedgehog (SHH) pathway. This pathway is crucial for the development of the embryo and fetus, but it can be overactive in some medulloblastoma cells. Drugs that target proteins in this pathway are now being tested against medulloblastoma in clinical trials.
+
+Many other targeted drugs are already being used to treat other types of cancer, and some are being studied to see if they will work for brain tumors as well.
+Angiogenesis inhibitors
+Tumors have to create new blood vessels (a process called angiogenesis) to keep their cells nourished. Targeted drugs that attack these blood vessels are used to help treat some cancers, including some brain tumors in adults. Several drugs that impair blood vessel growth are now being studied for use against brain tumors in children.
+Hypoxic cell sensitizers
+Some drugs increase the oxygen content in the tumor, which makes tumor cells more likely to be killed by radiation therapy if the drugs are given before treatment. Studies are now looking to see if this affects treatment outcomes.
+Immunotherapy
+The goal of immunotherapy is to help the body’s own immune system fight the tumor.
+Several types of vaccines are being developed against brain tumor cells. Unlike vaccines against infectious diseases, these vaccines are meant to help treat the disease instead of prevent it. The goal of the vaccines is to stimulate the body’s immune system to attack the brain tumor cells.
+Early study results of some of these vaccines have shown promise, but more research is needed to determine how effective they are. At this time, brain tumor vaccines are available only through clinical trials.
+Other types of drugs that affect the immune system are also being studied.
+Therapeutic viruses
+Researchers have done a great deal of lab work with viruses that reproduce only within brain tumor cells and then cause those cells to die, while leaving normal cells alone. Research using these viruses in humans with brain tumors is still in very early stages.A risk factor is anything that affects a person’s chance of getting a disease such as a brain or spinal cord tumor. Different types of cancer have different risk factors.
+Lifestyle-related risk factors such as diet, body weight, physical activity, and tobacco use play a major role in many adult cancers. But these factors usually take many years to influence cancer risk, and they are not thought to play much of a role in childhood cancers, including brain tumors.
+Very few risk factors have been found for brain and spinal cord tumors. There is no clear cause for most of these tumors.
+Radiation exposure
+The only well-established environmental risk factor for brain tumors is radiation exposure to the head, which most often comes from the treatment of other conditions.
+For example, before the risks of radiation were well known (more than 50 years ago), children with ringworm of the scalp (a fungal infection) often received low-dose radiation therapy. This was later found to increase their risk of some types of brain tumors as they got older.
+Today, most radiation-induced brain tumors are caused by radiation given to the head to treat other cancers, such as leukemia. These brain tumors usually develop around 10 to 15 years after getting radiation therapy.
+Radiation-induced tumors are still fairly rare, but because of the increased risk (as well as the other possible side effects), radiation therapy is only given to the head after carefully weighing the possible benefits and risks. For most patients with cancer in or near the brain, the benefits of getting radiation therapy as part of their treatment far outweigh the small risk of developing a brain tumor years later.
+The possible risk from fetal or childhood exposure to imaging tests that use radiation, such as x-rays or CT scans, is not known for sure. These tests use much lower levels of radiation than those used in radiation treatments, so if there is any increase in risk, it is likely to be very small. But to be safe, most doctors recommend that pregnant women and children not get these tests unless they are absolutely needed.
+Inherited and genetic conditions
+Rarely, children have inherited abnormal genes from a parent that put them at increased risk for certain types of brain tumors. In other cases, these abnormal genes are not inherited but occur as a result of changes (mutations) in the gene before birth.
+People with inherited tumor syndromes often have many tumors that start when they are young. Some of the better known syndromes include:
+Neurofibromatosis type 1 (von Recklinghausen disease)
+This is the most common syndrome linked to brain or spinal cord tumors. It is often inherited from a parent, but it can also start in some children whose parents don’t have it. Children with this syndrome may have optic gliomas or other gliomas of the brain or spinal cord, or neurofibromas (benign tumors of peripheral nerves). Changes in the NF1 gene cause this disorder.
+Neurofibromatosis type 2
+This condition is less common than von Recklinghausen disease. It can also either be inherited or may start in children without a family history. It is associated with cranial or spinal nerve schwannomas, especially vestibular schwannomas (acoustic neuromas), which almost always occur on both sides of the head. It is also linked to an increased risk of meningiomas, as well as spinal cord gliomas or ependymomas. Changes in the NF2 gene are nearly always responsible for neurofibromatosis type 2.
+Tuberous sclerosis
+Children with this condition may develop subependymal giant cell astrocytomas (SEGAs), as well as other benign tumors of the brain, skin, heart, kidneys, or other organs. This condition is caused by changes in either the TSC1 or the TSC2 gene.
+Von Hippel-Lindau disease
+Children with this disease tend to develop blood vessel tumors (hemangioblastomas) of the cerebellum, spinal cord, or retina, as well as tumors in the kidney, pancreas, and some other parts of the body. It is caused by changes in the VHL gene.
+Li-Fraumeni syndrome
+People with this syndrome have an increased risk of gliomas, as well as breast cancer, soft tissue sarcomas, leukemia, and some other types of cancer. It is caused by changes in the TP53 gene.
+Other syndromes
+Other inherited conditions linked with increased risks of certain types of brain and spinal cord tumors include:
+
+Gorlin syndrome (basal cell nevus syndrome)
+Turcot syndrome
+Cowden syndrome
+Hereditary retinoblastoma
+Rubinstein-Taybi syndrome
+
+Some families may have genetic disorders that are not well recognized or that could even be unique to a particular family.
+Factors with uncertain, controversial, or unproven effects on brain tumor risk
+Cell phone use
+Cell phones give off radiofrequency (RF) rays, a form of electromagnetic energy on the spectrum between FM radio waves and those used in microwave ovens, radar, and satellite stations. Cell phones do not give off ionizing radiation, the type that can cause cancer by damaging the DNA inside cells. Still, there have been concerns that the phones, whose antennae are built-in and therefore are placed close to the head when being used, might somehow raise the risk of brain tumors.
+Some studies have suggested a possible increased risk of brain tumors or of vestibular schwannomas (acoustic neuromas) in adults with cell phone use, but most of the larger studies done so far have not found an increased risk, either overall or among specific types of tumors. Still, there are very few studies of long-term use (10 years or more), and cell phones haven’t been around long enough to determine the possible risks of lifetime use. The same is true of any possible higher risks in children, who are increasingly using cell phones. Cell phone technology also continues to change, and it’s not clear how this might affect any risk.
+These risks are being studied, but it will likely be many years before firm conclusions can be made. In the meantime, for people concerned about the possible risks, there are ways to lower their (and their children’s) exposure, such as using the phone's speaker or an earpiece to move the phone itself away from the head when used. For more information, see Cellular Phones.
+Other factors
+Exposure to aspartame (a sugar substitute), exposure to electromagnetic fields from power lines and other sources, and infection with certain viruses have been suggested as possible risk factors, but most researchers agree that there is no convincing evidence to link these factors to brain tumors. Research on these and other potential risk factors continues.The cause of most brain and spinal cord tumors is not fully understood, and there are very few known risk factors for these tumors. But researchers have found some of the changes that occur in normal brain cells that may lead them to form tumors.
+Normal human cells grow and function based mainly on the information contained in each cell’s DNA. Brain and spinal cord tumors, like other tumors, are usually caused by changes (mutations) in the DNA inside cells. DNA is the chemical that makes up our genes, which control how our cells function. We usually look like our parents because they are the source of our DNA. But DNA affects more than how we look.
+Some genes control when our cells grow, divide into new cells, and die:
+
+Certain genes that help cells grow, divide, and stay alive are called oncogenes.
+Genes that help keep cell division under control, or cause cells to die at the right time, are called tumor suppressor genes.
+
+Cancers can be caused by DNA changes that turn on oncogenes or turn off tumor suppressor genes. These gene changes can be inherited from a parent (as is sometimes the case with childhood cancers), but more often they are acquired during a person’s lifetime.
+Inherited gene changes
+Researchers have found the gene changes that cause some rare inherited syndromes (like neurofibromatosis, tuberous sclerosis, Li-Fraumeni syndrome, and von Hippel-Lindau disease) and increase the risk of developing some brain and spinal cord tumors. For example, the Li-Fraumeni syndrome is caused by changes in the TP53 tumor suppressor gene. Normally, this gene prevents cells with damaged DNA from growing. Changes in this gene increase the risk of developing brain tumors (particularly gliomas), as well as some other cancers.
+Acquired gene changes
+Most often, it's not known why children without inherited syndromes develop brain or spinal cord tumors. Most exposures that cause cancer, such as tobacco smoke, somehow damage DNA. But the brain is relatively protected from most cancer-causing chemicals that we might breathe in or eat. What’s more, children are less likely to have been exposed to many of these chemicals.
+Several different gene changes usually occur in normal cells before they become cancerous. There are many kinds of brain tumors, each of which may have different sets of gene changes. A number of gene changes have been found in different brain tumor types, but there are probably many others that have not yet been found.
+Researchers now understand some of the gene changes that occur in different types of brain tumors, but it’s still not clear what causes these changes. Some gene changes might be inherited, but most brain and spinal cord tumors in children are not the result of known inherited syndromes. Most gene changes are probably just random events that sometimes happen inside a cell, without having an outside cause.
+Other than radiation, there are no known lifestyle-related or environmental factors clearly linked to childhood brain tumors, so it's important to remember that there is nothing these children or their parents could have done to prevent these cancers.Adults can lower their risk of certain cancers with lifestyle changes (such as staying at a healthy weight or quitting smoking), but at this time there are no known ways to prevent most cancers in children.
+Other than exposure to radiation, there are no known lifestyle-related or environmental risk factors for brain and spinal cord tumors in children, so at this time there is no way to protect against most of these cancers.
+Limiting radiation exposure to the head
+For most children with other types of cancer in or near the head, radiation therapy may be given if the doctors feel the benefits outweigh the small risk of developing a brain tumor years later. Still, when it is needed, doctors try to limit the dose of radiation as much as possible.
+X-rays or CT scans done before birth or during childhood use much lower levels of radiation than those used for cancer treatment. If there is any increase in risk from these tests, it is likely to be very small, but to be safe, most doctors recommend that pregnant women and children not get these tests unless they are absolutely needed.Screening is testing for a disease (such as brain or spinal cord tumors) in people without any symptoms. At this time there are no widely recommended screening tests for most children to look for brain or spinal cord tumors before they start to cause symptoms. These tumors usually are found as a result of signs or symptoms the child is having.
+Most often, the outlook for children with brain or spinal cord tumors depends more on the type of tumor and its location than on how early it is detected. But as with any disease, earlier detection and treatment is likely to be helpful.
+Children with certain inherited syndromes
+For children with certain inherited syndromes that put them at higher risk for brain tumors, such as neurofibromatosis or tuberous sclerosis, doctors often recommend frequent physical exams and other tests. These tests might find tumors when they are still small. Not all tumors related to these syndromes may need to be treated right away, but finding them early might help doctors monitor them so that they can be treated quickly if they begin to grow or cause problems.Signs and symptoms from brain and spinal cord tumors might occur gradually and become worse over time, or they can happen suddenly, such as with a seizure.
+General symptoms
+Tumors in any part of the brain might raise the pressure inside the skull (known as intracranial pressure). This can be caused by growth of the tumor, swelling in the brain, or blocked flow of cerebrospinal fluid. Increased pressure can lead to general symptoms such as:
+
+Headache
+Nausea
+Vomiting
+Crossed eyes or blurred vision
+Balance problems
+Behavior changes
+Seizures
+Drowsiness or even coma
+
+Headaches that get worse over time are a common symptom of brain tumors. But not all brain tumors cause headaches, and most headaches are not caused by tumors.
+In some children, seizures are the first symptom of a brain tumor. Most seizures in children are not caused by brain tumors, but if your child has a seizure, your child’s doctor may refer you to a neurologist (a doctor who specializes in brain and nervous system problems) to make sure it wasn’t caused by a brain tumor or other serious disease.
+In the first few years of life, other symptoms of tumors can include:
+
+Irritability
+Loss of appetite
+Developmental delays
+Drop in intellectual and/or physical abilities
+Increased head size, sometimes along with bulging of the soft spots of the skull (fontanelles)
+
+In the school-aged child, other general symptoms of tumors can include poor school performance, fatigue, and personality changes.
+If the child can cooperate, the doctor can sometimes tell if pressure inside the skull is increased by looking inside the child’s eyes for swelling of the optic nerve (known as papilledema).
+Symptoms of tumors in different parts of the brain or spinal cord
+Tumors in different parts of the brain or spinal cord can cause different symptoms. But these symptoms can be caused by any abnormality in that particular location – they don’t always mean a child has a brain or spinal cord tumor.
+
+Tumors in the parts of the cerebrum (the large, outer part of the brain) that control movement or sensation can cause weakness or numbness in a part of the body, often on just one side.
+Tumors in or near the parts of the cerebrum responsible for language can cause problems with speech or even understanding words.
+Tumors in the front part of the cerebrum can sometimes affect thinking, personality, and language skills.
+Tumors in the cerebellum (the lower, back part of the brain that controls coordination) can cause trouble walking, trouble with precise movements of hands, arms, feet, and legs, problems swallowing or synchronizing eye movements, and changes in speech rhythm.
+Tumors in the back part of the cerebrum, or around the pituitary gland, the optic nerves, or certain other cranial nerves can cause vision problems.
+Tumors in or near other cranial nerves might lead to hearing loss (in one or both ears), balance problems, weakness of some facial muscles, facial numbness or pain, or trouble swallowing.
+Spinal cord tumors may cause numbness, weakness, or lack of coordination in the arms and/or legs (usually on both sides of the body), as well as bladder or bowel problems.
+
+Having one or more of the symptoms above does not necessarily mean that your child has a brain or spinal cord tumor. All of these symptoms can have other causes. Still, if your child has any of these symptoms, especially if they don’t go away or get worse over time, see your child’s doctor so that the cause can be found and treated, if needed.Brain and spinal cord tumors are usually found because of signs or symptoms a child is having. If a tumor is suspected, tests will be needed to confirm the diagnosis.
+Medical history and physical exam
+If your child has symptoms that suggest a brain or spinal cord tumor, the doctor will get a complete medical history, focusing on the symptoms and when they began. The doctor will also do a neurologic exam to check your child’s brain and spinal cord function, if possible. Depending on the child’s age, the exam may test reflexes, sensation, muscle strength, vision, eye and mouth movement, coordination, balance, alertness, and other functions.
+If the results are abnormal, your child’s doctor may refer you to a neurologist (a doctor specializing in medical treatment of nervous system diseases) or a neurosurgeon (a surgeon specializing in nervous system diseases), who will do a more detailed exam and might order other tests.
+Imaging tests
+Your child’s doctors may order one or more imaging tests. These tests use x-rays, strong magnets, or radioactive substances to create pictures of internal organs such as the brain and spinal cord. The pictures may be looked at by doctors specializing in this field (neurosurgeons, neurologists, and neuroradiologists) as well as by your child’s primary care doctor.
+Magnetic resonance imaging (MRI) and computed tomography (CT) scans are used most often for brain diseases. These scans will almost always show a brain or spinal cord tumor, if one is present. Doctors can often also get an idea about what type of tumor it might be, based on how it looks on the scan and where it is in the brain (or spinal cord).
+Magnetic resonance imaging (MRI) scan
+MRI scans are very good for looking at the brain and spinal cord and are considered the best way to look for tumors in these areas. MRI images are usually more detailed than those from CT scans (described below). But they don't show the bones of the skull as well as CT scans and therefore might not show the effects of tumors on the skull.
+MRI scans use radio waves and strong magnets (instead of x-rays) to make pictures, so they don't expose the child to radiation. A contrast material called gadolinium may be injected into a vein before the scan to help see details better.
+MRI scans can take a long time, and they require a person to stay still for several minutes at a time. Some children might need medicine to help them relax or even go to sleep during the test.
+Special types of MRI can be useful in some situations:
+Magnetic resonance angiography (MRA) and magnetic resonance venography (MRV): These special forms of MRI may be done to look at the blood vessels in the brain, especially in and around a tumor. This can be very useful before surgery to help the surgeon plan an operation.
+Magnetic resonance spectroscopy (MRS): This test can be done as part of an MRI. It measures biochemical changes in an area of the brain (which are displayed in graph-like results called spectra). By comparing the results from a tumor to that of normal brain tissue, it can sometimes help determine the type of tumor (or how quickly it is likely to grow), although a biopsy of the tumor is often still needed to get an accurate diagnosis. MRS can also be used after treatment if another test shows an area still looks abnormal. The MRS can help determine if the area is remaining tumor or if it is more likely to be scar tissue.
+Magnetic resonance perfusion (perfusion MRI): For this test, a contrast dye is injected quickly into a vein. Then this type of MRI can show the amount of blood going through different parts of the brain and tumor. Tumors often have a bigger blood supply than normal areas of the brain. A faster growing tumor may need more blood.
+Perfusion MRI can give doctors an idea of the best place to take a biopsy. It can also be used after treatment to help determine if an area that still looks abnormal is remaining tumor or if it is more likely to be scar tissue.
+Functional MRI (fMRI): This test looks for tiny blood flow changes in an active part of the brain. It can be used to determine what part of the brain handles a function such as speech, thought, sensation, or movement. Doctors can use this to help determine which parts of the brain to avoid when planning surgery or radiation therapy.
+This test is like a regular MRI, except that your child will be asked to do certain tasks (like answering simple questions or moving their fingers) to activate different areas of the brain while the scans are being done.
+Diffusion tensor imaging (DTI), also known as tractography: This is a type of MRI test that can show the major pathways (tracts) of white matter in the brain. This information can be used by surgeons to help avoid these important parts of the brain when removing tumors.
+Computed tomography (CT) scan
+The CT scan uses x-rays to make detailed cross-sectional images of your child’s brain and spinal cord. Unlike a regular x-ray, a CT scan creates detailed images of the soft tissues in the body.
+For brain and spinal cord tumors, CT scans are not used as often as MRI scans, which give slightly more detailed images and do not use radiation. Still, there are instances where CT scans may have advantages over MRI scans:
+
+CT scans take much less time than MRIs, which can be particularly helpful for children who have trouble staying still.
+CT scans provide greater detail of the bone structures near the tumor than MRIs do.
+CT angiography (CTA), described below, can provide better details of the blood vessels in and around a tumor than MRA in some cases.
+
+Before the scan, your child may get an injection of a contrast dye through an IV (intravenous) line. This helps better outline any tumors that are present.
+CT angiography (CTA): For this test, your child gets an injection of contrast material through an IV line while they are in the CT scanner. The scan creates detailed images of the blood vessels in the brain, which can help doctors plan surgery.
+Positron emission tomography (PET) scan
+For a PET scan, a radioactive substance (usually a type of sugar known as FDG) is injected into the blood. The amount of radioactivity used is very low and passes out of the body within a day or so. Because tumor cells in the body are growing quickly, they absorb larger amounts of the sugar than most other cells. A special camera is then used to create a picture of areas of radioactivity in the body. Some children might need medicine to help them relax or even go to sleep during the test.
+The PET scan image is not as detailed as a CT or MRI scan, but it can provide helpful information about whether abnormal areas seen on other tests (such as MRIs) are likely to be tumors or not. This test is more likely to be helpful for fast-growing (high-grade tumors) than for slower-growing tumors.
+This test is also useful after treatment to help determine if an area that still looks abnormal on an MRI scan is remaining tumor or if it is more likely to be scar tissue. Remaining tumor might show up on the PET scan, while scar tissue will not.
+Brain or spinal cord tumor biopsy
+Imaging tests such as MRI and CT scans may show that a child has a brain or spinal cord tumor. But often the type of tumor can only be determined by removing a sample of it, which is called a biopsy. A biopsy may be done as a procedure on its own for diagnosis, or it may be part of surgery to treat the tumor.
+In some cases (such as for many astrocytomas or brain stem gliomas), it may not be necessary or possible to biopsy the tumor safely, so the diagnosis is made based only on how the tumor looks on imaging tests.
+Biopsies can be done in different ways.
+Stereotactic needle biopsy
+This type of biopsy may be used if imaging tests show surgery to remove the tumor might be too risky (such as with some tumors in vital areas or deep within the brain), but a sample is still needed to make a diagnosis.
+Depending on the situation, the biopsy may be done with the child awake or under general anesthesia (asleep). If the child is awake, the neurosurgeon injects a local anesthetic into areas of skin over the skull to numb them. (The skull and brain itself do not feel pain.)
+The biopsy itself can be done in 2 main ways:
+
+The most common approach is to get an MRI or CT scan, and then use either markers (each about the size of a nickel) placed on different parts of the scalp, or facial and scalp contours, to create a map of the inside of the head. An incision (cut) is then made in the scalp, and a small hole is drilled in the skull. An image-guidance system is then used to direct a hollow needle into the tumor to remove small pieces of tissue. 
+In an approach that’s used less often, a rigid frame is attached to the head. An MRI or CT scan is used along with the frame to help the neurosurgeon guide a hollow needle into the tumor to remove small pieces of tissue. This also requires an incision in the scalp and a small hole in the skull.
+
+The biopsy samples are then sent to a pathologist (a doctor specializing in diagnosis of diseases by lab tests). The pathologist looks at it under a microscope (and might do other lab tests) to determine if the tumor is benign or malignant (cancerous) and exactly what type of tumor it is. This helps determine the best course of treatment and the prognosis (outlook).
+Craniotomy (surgical or open biopsy)
+If imaging tests show the tumor can likely be treated with surgery, the neurosurgeon may not do a needle biopsy. Instead, an operation called a craniotomy (described in Surgery for Brain and Spinal Cord Tumors in Children) might be done to remove all or most of the tumor. (Removing most of the tumor is known as debulking.)
+Small samples of the tumor are looked at right away by the pathologist while the child is still in the operating room, to get a preliminary diagnosis. This can help guide treatment, including whether further surgery should be done at that time. A final diagnosis is made a within a few days in most cases.
+Lab tests of biopsy specimens
+Finding out which type of tumor a child has is very important in helping to determine their outlook (prognosis) and treatment options. But in recent years, doctors have found that changes in certain genes, chromosomes, or proteins within the tumor cells can also be important. Some tumors are now tested for these types of changes. For example:  
+
+Gliomas that are found to have IDH1 or IDH2 gene mutations tend to have a better outlook than gliomas without these gene mutations.
+Oligodendrogliomas whose cells are missing parts of certain chromosomes (known as a 1p19q co-deletion) are much more likely to be helped by chemotherapy than patients whose tumors do not.
+In high-grade gliomas, MGMT promoter methylation is linked with better outcomes and a higher chance of responding to chemotherapy, so it can sometimes be used to help guide treatment.
+For any type of low-grade glioma, the tumor cells might be tested for BRAF gene changes to see if treatment with certain targeted therapy drugs might be an option.
+For medulloblastomas, changes in certain genes can be used to divide these tumors into groups, some of which have a better prognosis (outlook) than others.
+
+You can read more about the kinds of tests that are done on biopsy or tissue samples in Testing Biopsy and Cytology Specimens for Cancer.
+Lumbar puncture (spinal tap)
+This test is used mainly to look for signs of cancer in the cerebrospinal fluid (CSF), which is the liquid that bathes the brain and spinal cord. For this test, the doctor first numbs an area in the lower part of the back over the spine. The doctor may also recommend that the child be given something to make them sleep so the lumbar puncture can be done more easily and safely. A small, hollow needle is then placed between the bones of the spine to withdraw some of the fluid.
+The fluid is looked at under a microscope for cancer cells. The CSF can also be tested for certain substances released by some germ cell tumors.
+Lumbar punctures are often used if a tumor has already been diagnosed as a type that can commonly spread through the CSF (such as a medulloblastoma). Information from the spinal tap can influence treatment.
+Bone marrow aspiration and biopsy
+Because some tumors (especially medulloblastomas) can spread beyond the nervous system, in some instances the doctor may recommend looking at cells in your child’s bone marrow (the soft, inner part of certain bones) to see if tumor cells have spread there.
+The bone marrow aspiration and biopsy are often done at the same time. The samples are usually taken from the back of the pelvic (hip) bone, but in some cases they may be taken from other bones.
+For a bone marrow aspiration, the skin over the hip and the surface of the bone is cleaned and then numbed with local anesthetic. In most cases, the child is also given other medicines to make them drowsy or even asleep during the procedure. A thin, hollow needle is then inserted into the bone, and a syringe is used to suck out (aspirate) a small amount of liquid bone marrow.
+A bone marrow biopsy is usually done just after the aspiration. A small piece of bone and marrow is removed with a slightly larger needle that is pushed down into the bone. Once the biopsy is done, pressure is applied to the site to help stop any bleeding.
+The specimens are then looked at under a microscope for tumor cells.
+Blood and urine tests
+These lab tests are rarely used to diagnose brain and spinal cord tumors, but if your child has been sick for some time they may be done to check how well the liver, kidneys, and some other organs are working. This is especially important before any planned surgery.
+If your child is getting chemotherapy, blood tests will be done routinely to check blood counts and to see if the treatment is affecting other parts of the body.Why aren't brain and spinal cord tumors staged like other cancers?
+For most types of cancer, the stage – a measure of how far the cancer has spread – is one of the most important factors in selecting treatment options and in determining a person's outlook (prognosis).
+But tumors of the brain and spinal cord differ in some important ways from cancers in other parts of the body. One of the main reasons other types of cancer are dangerous is that they can spread throughout the body. Tumors starting in the brain or spinal cord can spread to other parts of the central nervous system, but they almost never spread to other organs. These tumors are dangerous because as they grow, they can interfere with essential functions of the brain.
+Because most tumors in the brain or spinal cord do not usually spread, they do not have a formal staging system like most other types of cancer.
+What factors can affect prognosis?
+While these tumors aren't staged, there are other important factors that can help determine a child’s prognosis. These include:
+
+The type of tumor (such as astrocytoma, ependymoma, etc.)
+The grade of the tumor (how quickly the tumor is likely to grow, based on how the cells look under a microscope)
+The location and size of the tumor
+How much of the tumor can be removed by surgery (if it can be done)
+Whether the tumor cells have certain gene mutations or other changes
+The child’s age
+The child’s functional level (whether the tumor is affecting normal brain functions and everyday activities)
+Whether or not the tumor has spread through the cerebrospinal fluid (CSF, the fluid around the brain and spinal cord) to other parts of the brain or spinal cord
+Whether or not tumor cells have spread beyond the central nervous system
+
+If your child has a brain or spinal cord tumor, talk to the treatment team to learn more about how these and other factors might affect your child’s outlook and treatment options.
+Risk groups for medulloblastoma
+Medulloblastomas are one of the most common types of brain tumors in children. Many clinical trials for treating medulloblastoma use a system that places children into either standard-risk or high-risk groups, based on certain factors. Children are placed in the high-risk group if any of these apply:
+
+The child is younger than 3
+A lot of the tumor can’t be removed during surgery
+Tumor cells are in the CSF or have spread to other parts of the brain or elsewhere
+
+Doctors are still refining this system to make it as accurate as possible.
+Along with these risk groups, medulloblastomas can also be grouped based on: 
+
+How the tumor cells look under a microscope
+Whether the cells have certain gene changes 
+
+For example, based on gene changes, medulloblastomas can be divided into 4 types. Some of these tend to have a better outlook, so doctors may be able to use this to better tailor the treatment each child gets. (See What’s New in Research for Brain Tumors in Children?)Survival rates are a way to get a general idea of the outlook (prognosis) for people with a certain type of tumor. They tell you what portion of people with the same type of tumor are still alive a certain amount of time (usually 5 years) after they were diagnosed. They can’t tell you what will happen, but they may help give you a better understanding about how likely it is that treatment will be successful. Some people will want to know about survival rates, and some people won’t. If you don’t want to know, you don’t have to.
+What is a 5-year survival rate?
+The 5-year survival rate is the percentage of children who live at least 5 years after their cancer is diagnosed. For example, a 5-year survival rate of 80% means that an estimated 80 out of 100 children who have that type of tumor are still alive 5 years after being diagnosed. Of course, many children live much longer than 5 years (and many are cured).
+Survival rates don’t tell the whole story
+Survival rates are often based on previous outcomes of large numbers of people who had the disease, but they can’t predict what will happen in any child’s case. There are some limitations to keep in mind:
+
+The numbers below are among the most current available. But to get 5-year survival rates, doctors have to look at children who were treated at least 5 years ago. As treatments improve over time, children who are now being diagnosed with brain or spinal cord tumors may have a better outlook than these statistics show.
+The outlook for children with brain or spinal cord tumors varies by the type of tumor. But ﻿many other factors can also affect a child’s outlook, such as their age, the location and size of the tumor, and how well the tumor responds to treatment. The outlook for each child is specific to their circumstances.
+
+Your child’s doctor can tell you how the survival rates below might apply to your child’s situation.
+Survival rates for more common brain and spinal cord tumors in children
+The numbers below come from the Central Brain Tumor Registry of the United States (CBTRUS) and are based on children aged 14 or younger who were treated between 2000 and 2014. There are some important points to note about these numbers:
+
+These numbers are for some of the more common types of tumors. Numbers are not readily available for all types of tumors that occur in children, often because they are rare or are hard to classify.
+In some cases, the numbers include a wide range of different types of tumors that can have different outlooks. For example, the survival rate for embryonal tumors below includes medulloblastomas, as well as other types of tumors. Medulloblastomas tend to have a better outlook than the other embryonal tumors. Therefore the actual survival rate for medulloblastomas would be expected to be higher than the number below, while the number for other embryonal tumors would likely be lower.
+
+
+
+
+Type of Tumor
+5-Year Survival Rate
+
+
+Pilocytic astrocytoma
+About 95%
+
+
+Diffuse astrocytoma
+About 80% to 85%
+
+
+Anaplastic astrocytoma
+About 25%
+
+
+Glioblastoma
+About 20%
+
+
+Oligodendroglioma
+About 90%
+
+
+Ependymoma/anaplastic ependymoma
+About 75%
+
+
+Embryonal tumors (includes medulloblastoma)
+About 60% to 65%
+
+
+
+Remember, these survival rates are only estimates – they can’t predict what will happen with any child. We understand that these statistics can be confusing and may lead you to have more questions. Talk to your child's doctor to better understand your specific situation.It’s important for you to have honest, open discussions with your child’s cancer care team. They want to answer all of your questions, no matter how minor you might think they are. Here are some questions you might want to ask. Be sure to add your own questions as you think of them.
+When you’re told your child has a brain or spinal cord tumor
+
+What kind of tumor does my child have? What does this mean?
+Where is the tumor located? Has it grown into nearby areas?
+Will my child need other tests before we can decide on treatment?
+Will we need to see any other types of doctors?
+
+When deciding on a treatment plan
+
+How much experience do you have treating this type of tumor?
+What are our treatment options? What do you recommend? Why?
+Should we get a second opinion? Can you recommend a doctor or cancer center?
+How soon do we need to start treatment?
+What should we do to be ready for treatment?
+How long will treatment last? What will it be like? Where will it be done?
+How might treatment affect our daily activities?
+What are the possible risks and side effects of treatment?
+How might treatment affect my child’s ability to learn, grow, and develop?
+How likely is it that treatment could affect my child’s future ability to have children?
+Based on what you’ve learned about my child’s tumor, what is the expected prognosis (outlook)?
+
+During treatment
+Once treatment begins, you’ll need to know what to expect and what to look for. Not all of these questions may apply, but getting answers to the ones that do may be helpful.
+
+How will we know if the treatment is working?
+Is there anything we can do to help manage side effects?
+What symptoms or side effects should we tell you about right away?
+How can we reach someone from your office on nights, holidays, or weekends?
+Are there any limits on what my child can do? 
+
+After treatment
+
+What type of follow-up will we need after treatment?
+How often will my child need to have follow-up exams and tests?
+Are there any limits on what my child can do? 
+How will we know if the tumor has come back? What should we watch for?
+Are there nearby support groups or other families who have been through this that we could talk to?
+
+Along with these sample questions, be sure to write down any others you might want to ask. For instance, you might want information about recovery times so you can plan your work and your child’s school and activity schedule. Or you may want to ask about clinical trials for which your child may qualify.
+Also keep in mind that doctors aren't the only ones who can give you information. Other members of the treatment team, such as nurses and social workers, can answer some of your questions. You can find out more about speaking with your child’s health care team in The Doctor-Patient Relationship.For brain and spinal cord tumors, surgery may be done to:
+
+Get a biopsy sample to determine the type of tumor and if the tumor cells have certain gene changes that might affect prognosis (outlook)
+Remove or destroy the tumor (or as much of it as possible)
+Help prevent or treat symptoms or possible complications from the tumor
+
+Before surgery, be sure you understand what the goal of the surgery is, as well as the potential benefits and risks.
+Surgery to remove or destroy the tumor
+Most often, the first step in brain or spinal cord tumor treatment is for the neurosurgeon to remove or destroy as much of the tumor as possible, while trying to limit any effects on normal brain or nerve function.
+Surgery alone or combined with radiation therapy may control or cure many slower-growing tumors, including some low-grade astrocytomas, dysembryoplastic neuroepithelial tumors (DNETs), ependymomas, craniopharyngiomas, gangliogliomas, and meningiomas.
+Children with tumors that tend to grow into nearby brain tissue, such as anaplastic astrocytomas or glioblastomas, cannot be cured by surgery alone. But surgery can reduce the amount of tumor that needs to be treated by radiation or chemotherapy, which might improve the results of these treatments.
+Surgery can also help relieve some of the symptoms caused by brain tumors, particularly those caused by increased pressure within the skull, such as headaches, nausea, vomiting, and blurred vision. Surgery may also make seizures easier to control with medicines.
+Surgery may not be a good option in some cases, such as if the tumor is deep within the brain, or if it has spread throughout a part of the brain that can’t be removed, such as the brain stem. If this is the case, other treatments may be used instead.
+Craniotomy
+A craniotomy is a surgical opening made in the skull. This is the most common surgery to remove a brain tumor. For this operation, the child may either be under general anesthesia (in a deep sleep) or may remain awake (with the surgical area numbed) for at least part of the surgery if brain function needs to be assessed during the operation.
+Part of the head might need to be shaved before surgery. The neurosurgeon makes an incision (cut) in the skin over the skull near the tumor and then uses a special type of drill to remove a piece of bone from the skull. The opening is typically large enough for the surgeon to insert several instruments and view the parts of the brain needed to operate safely.
+Many devices can help the surgeon see the tumor and surrounding brain tissue. The surgeon often operates while looking at the brain through a microscope. Imaging tests such as MRI or CT scans can be done before surgery (or ultrasound can be used once the skull has been opened) to help locate the tumor and its edges.
+The surgeon will remove or destroy as much of the tumor as is safely possible. This can be done in several ways depending on how hard or soft the tumor is, and whether it has many or just a few blood vessels:
+
+One way is to cut it out with a scalpel or special scissors.
+Some tumors are soft and can be removed with suction devices.
+In other cases, a probe attached to an ultrasonic aspirator can be placed into the tumor to break it up and suck it out.
+
+The surgeon is very careful to avoid damaging normal brain tissue as much as possible. To lower the risk of removing or damaging vital parts of the brain, different techniques can be used, such as:
+
+Functional MRI: Before surgery, this type of imaging test (described in Tests for Brain and Spinal Cord Tumors in Children) can be done to locate a particular function of the brain. This can be used to help preserve that region during the operation.
+Intraoperative cortical stimulation (cortical mapping): During surgery, the surgeon can often detect the function of brain areas in and around the tumor by electrically stimulating them and monitoring the response. This will show if these areas control an important function, helping the surgeon to avoid them.
+Intraoperative imaging: In some cases, the surgeon uses MRI (or other) images taken at different times during the operation to show the location of any remaining tumor. This might allow some brain tumors to be removed more safely and extensively.
+Newer techniques: Newer types of MRI, as well as other techniques such as fluorescence-guided surgery, might be helpful in some situations. Some of these are described in What’s New in Research for Brain and Spinal Cord Tumors in Children?
+
+After removing the tumor, the surgeon replaces the piece of skull bone and closes the incision. (If any metal screws, wires, or plates are needed to fasten the bone, they are usually made from titanium, which allows the child to get follow-up MRIs and will not set off metal detectors.)
+For tumors that are hard to treat surgically, another option might be to insert a thin probe with a tiny laser on the end through a small hole in the skull and into the tumor. The laser is then used to heat and destroy (ablate) the tumor. This technique, known as laser interstitial thermal therapy (LITT), is still fairly new, so doctors are still learning about the best ways to use it.
+What to expect after surgery
+After the operation to remove the tumor, the child may have a tube (called a drain) coming out of the incision that allows excess cerebrospinal fluid (CSF) to drain from the skull. Other tubes may be placed to allow blood that builds up after surgery to drain from under the scalp. The drains are usually removed after a few days. An imaging test such as an MRI or CT scan is typically done 1 to 3 days after the operation to confirm how much of the tumor has been removed. Recovery time in the hospital is usually 4 to 6 days, but this depends on the size and location of the tumor and whether other treatments are given.
+Surgery to help with CSF flow blockage
+If the tumor blocks the flow of CSF within the head, it can cause increased intracranial pressure (ICP) inside the skull. This can cause symptoms such as headaches, nausea, vomiting, and blurred vision, and may even damage the brain or be life-threatening. Surgery to remove the tumor can often help with this, but there are also other ways to drain away excess CSF and lower the pressure if needed.
+Placing a shunt
+The neurosurgeon may put in a silicone tube called a shunt (sometimes referred to as a ventriculoperitoneal or VP shunt). One end of the shunt is placed in a ventricle of the brain (an area filled with CSF) and the other end is placed in the abdomen or, less often, the heart (and would then be referred to as a ventriculoatrial shunt). The tube runs under the skin of the neck and chest, and allows the excess CSF to flow into the abdomen (or heart), where it mixes in with other fluids. The flow of CSF is controlled by a valve in the tubing.
+Shunts can be temporary or permanent. They can be placed before or after the surgery to remove the tumor. Placing a shunt normally takes about an hour. Most children will need to stay in the hospital for about 1 to 3 days after the surgery. As with any operation, complications may develop, such as bleeding or infection. Sometimes shunts get clogged and need to be replaced.
+Making an opening in the third ventricle
+Another option to treat increased pressure in the skull in some cases is an endoscopic third ventriculostomy. In this operation, the surgeon makes an opening in the floor of the third ventricle at the base of the brain to allow the CSF to flow again. This operation is done through a small hole in the front of the skull. An advantage of this approach is that it does not require a shunt, but there is a chance that the opening made in the ventricle might close up again.
+Placing an external drain
+If the pressure inside the head needs to be relieved for a short time, an external ventricular drain (EVD) might be put in place to allow the excess CSF to drain out of the body. The drain is a small tube. One end is put into a ventricle, and the other end is attached to a collection bag outside the body. Along with collecting the excess CSF, the drain can also be used to measure the pressure inside the skull, as well as to look for tumor cells, blood, or signs of infection in the CSF.
+The drain can be placed either during surgery or during a procedure at the hospital bedside. It can be put in place to relieve the pressure in the days before surgery, or to help drain the fluid that collects after an operation. If the pressure inside the skull needs to be lowered for more than a few days, the doctor might need to change this to a VP shunt.
+Surgery to place a ventricular access catheter
+Surgery may also be used to insert a ventricular access catheter to help deliver chemotherapy directly into the CSF later on. One type is called an Ommaya reservoir. A small incision is made in the scalp, and a small hole is drilled in the skull. A flexible tube is then inserted through the hole until the open end of the tube is in a ventricle, where it reaches the CSF. The other end, which has a dome-shaped reservoir, stays just under the scalp. After the operation, doctors and nurses can use a thin needle to give chemotherapy drugs through the reservoir or to remove CSF from the ventricle for testing.
+Possible risks and side effects of surgery
+Surgery on the brain or spinal cord is a serious operation, and surgeons are very careful to try to limit any problems either during or after surgery. Complications during or after surgery such as bleeding, infections, seizures, or reactions to anesthesia are rare, but they can happen.
+Swelling in the brain is a major concern after surgery. Drugs called corticosteroids are typically given before and for several days after surgery to help lessen this risk.
+One of the biggest concerns when removing brain tumors is the possible loss of brain function afterward, which is why doctors are very careful to remove only as much tissue as is necessary. Any symptoms of brain injury after surgery will depend mainly on the location and size of the tumor. If problems do arise, it might be right after surgery, or it might be days or even weeks later, so close monitoring for any changes is very important. (See What Happens After Treatment for Brain and Spinal Cord Tumors in Children?)Radiation therapy uses high-energy x-rays or small particles to kill cancer cells. This type of treatment is given by a doctor called a radiation oncologist.
+When might radiation therapy be used?
+Radiation therapy may be used in different situations for brain or spinal cord tumors:
+
+After surgery to try to kill any remaining tumor cells
+As part of the main treatment if surgery is not a good option
+To help prevent or relieve symptoms from the tumor
+
+Children younger than 3 years are usually not given radiation because of possible long-term side effects with brain development. Instead, they are treated mainly with surgery and chemotherapy. Radiation can also cause some problems in older children. Radiation oncologists try very hard to deliver enough radiation to the tumor while limiting the radiation to normal surrounding brain areas as much as possible.
+Getting radiation therapy
+Most often, the radiation is focused on the tumor from a source outside the body. This is called external beam radiation therapy (EBRT).
+Before your child’s treatments start, the radiation team will take careful measurements to determine the correct angles for aiming the radiation beams and the proper dose of radiation. This planning session, called simulation, usually includes getting imaging tests such as CT or MRI scans.Your child might be fitted with a plastic mold like a body cast to keep them in the same position so that the radiation can be aimed more accurately.
+Most often, the total dose of radiation is divided into daily fractions (usually given Monday through Friday) over several weeks. For each treatment session, your child lies on a special table while a machine delivers the radiation from precise angles. Each treatment is much like getting an x-ray, but the dose of radiation is much higher. It is not painful. Some younger children might be given medicine to make them sleepy to make sure they don’t move during the treatment. Each session lasts about 15 to 30 minutes, but most of the time is spent making sure the radiation is aimed correctly. The actual treatment time each day is much shorter.
+Special radiation therapy techniques
+Radiation therapy can damage normal brain tissue, so doctors try to deliver high doses of radiation to the tumor with the lowest possible dose to normal surrounding brain areas. Several techniques can help doctors focus the radiation more precisely:
+Three-dimensional conformal radiation therapy (3D-CRT): 3D-CRT uses the results of imaging tests such as MRI and special computers to precisely map the location of the tumor. Several radiation beams are then shaped and aimed at the tumor from different directions. Each beam alone is fairly weak, which makes it less likely to damage normal tissues, but the beams join together at the tumor to give a higher dose of radiation there.
+Intensity modulated radiation therapy (IMRT): IMRT is an advanced form of 3D therapy. In addition to shaping the beams and aiming them at the tumor from several angles, the intensity (strength) of the beams can be adjusted to limit the dose reaching the most sensitive normal tissues. This may let the doctor deliver a higher dose to the tumor. Many major hospitals and cancer centers now use IMRT.
+Conformal proton beam radiation therapy: Proton beam therapy uses an approach similar to 3D-CRT. But instead of using x-rays, it focuses proton beams on the tumor. Unlike x-rays, which release energy both before and after they hit their target, protons cause little damage to tissues they pass through and then release their energy after traveling a certain distance. This means that more radiation can be delivered to the tumor, while doing less damage to the normal tissue around it.  This approach may be more helpful for brain tumors that have distinct edges (such as chordomas), but it's not clear if it will be useful for tumors whose edges are mixed with normal brain tissue (such as astrocytomas or glioblastomas). There are only a limited number of proton beam centers in the United States at this time.
+Stereotactic radiosurgery (SRS)/stereotactic radiotherapy (SRT): This type of treatment delivers a large, precise radiation dose to the tumor area in a single session (SRS) or in a few sessions (SRT). It may be useful for some tumors in parts of the brain or spinal cord that can’t be treated with surgery or when a child isn’t healthy enough for surgery. (The term "radiosurgery" is used because the radiation is delivered so precisely, but there is no actual surgery involved in either SRS or SRT.)
+For either procedure, a head frame is usually attached to the skull to help aim the radiation beams. Sometimes a face mask is used to hold the head in place instead. Once the exact location of the tumor is known from CT or MRI scans, radiation is focused at the tumor from many different angles. This can be done in 2 ways:
+
+In one approach, thin radiation beams are focused at the tumor from hundreds of different angles for a short period of time. Each beam alone is weak, but they all converge at the tumor to give a higher dose of radiation. The Gamma Knife is an example of a machine that uses this approach.
+Another approach uses a movable linear accelerator (a machine that creates radiation) that is controlled by a computer. Instead of delivering many beams at once, this machine moves around the head to deliver a thin beam of radiation to the tumor from many different angles. Several machines with names such as X-Knife, CyberKnife, and Clinac deliver stereotactic radiosurgery in this way.
+
+SRS typically delivers the whole radiation dose in a single session, though it may be repeated if needed.
+For SRT (also called fractionated radiosurgery) doctors give the radiation in several treatments to deliver the same or a slightly higher dose, which can now often be done without the need for a head frame.
+Other types of radiation therapy
+Brachytherapy (internal radiation therapy): Unlike the external radiation approaches above, in brachytherapy a radiation source is put directly into or near the tumor. The radiation it gives off travels a very short distance, so it affects only the tumor. This technique is most often used along with external radiation. It provides a high dose of radiation at the tumor site, while the external radiation treats nearby areas with a lower dose.
+Whole brain and spinal cord radiation therapy (craniospinal radiation): If tests such as an MRI scan or lumbar puncture show the tumor has spread along the covering of the spinal cord (meninges) or into the surrounding cerebrospinal fluid, then external radiation may be given to the whole brain and spinal cord. Some tumors such as ependymomas and medulloblastomas are more likely to spread this way, and therefore may require craniospinal radiation.
+Possible effects of radiation therapy
+Radiation is more harmful to tumor cells than it is to normal cells. Still, radiation can also damage normal brain tissue, especially in children younger than 3 years, which can lead to side effects.
+Side effects during or soon after treatment: During radiation therapy, some children may become irritable and tired. Nausea, vomiting, and headaches are also possible but are uncommon. Spinal radiation causes nausea and vomiting more often than brain radiation. Sometimes dexamethasone (a corticosteroid) or other drugs can help relieve these symptoms. Some children might have hair loss in areas of the scalp that get radiation.
+Some weeks after radiation therapy, children may become drowsy or have other nervous system symptoms. This is called the radiation somnolence syndrome or early-delayed radiation effect. It usually passes after a few weeks.
+Problems with thinking and memory: Children may lose some brain function if large areas of the brain get radiation. Problems can include memory loss, personality changes, and trouble learning at school. These may get better over time, but some effects may be long-lasting.
+Other side effects: Other effects could include seizures and slowed growth. There may also be other symptoms depending on the area of the brain treated and how much radiation was given.
+Radiation necrosis: Rarely, a large mass of dead (necrotic) tissue forms at the site of the tumor in the months or years after radiation treatment. It can often be controlled with corticosteroid drugs, but surgery may be needed to remove the necrotic tissue in some instances.
+Increased risk of another tumor: Radiation can damage genes in normal cells. As a result, there is a small risk of developing a second cancer in the area that got the radiation – for example, a meningioma of the coverings of the brain, another brain tumor, or less likely a bone cancer in the skull. If this occurs, it's usually many years after the radiation is given. This small risk should not keep children who need radiation from getting treatment. It’s important to continue close follow-up with your child’s doctor so that if problems do come up they can be found and treated as early as possible.
+Balancing the risks and benefits
+The risk of all of these side effects must be balanced against the risks of not using radiation and having less control of the tumor. If problems are seen after treatment, often it’s hard to determine whether they were caused by damage from the tumor itself, from surgery or radiation therapy, or from some combination of these. Doctors are constantly testing lower doses or different ways of giving radiation to see if they can be as effective while causing fewer problems.
+Normal brain cells grow quickly in the first few years of life, making them very sensitive to radiation. Because of this, radiation therapy is often not used or is postponed in children younger than 3 years old to avoid damage that might affect brain development. This needs to be balanced with the risk of tumor regrowth, because early radiation therapy may be lifesaving in some cases. It’s important that you talk with your child’s doctor about the risks and benefits of treatment.Chemotherapy (chemo) uses anti-cancer drugs that are usually given into a vein (IV) or taken by mouth. These drugs enter the bloodstream and reach almost all areas of the body. However, many chemo drugs aren’t able to enter the brain and reach tumor cells.
+For some brain tumors, the drugs can be given directly into the cerebrospinal fluid (CSF, the fluid that bathes the brain and spinal cord), either in the brain or into the spinal canal below the spinal cord. To help with this, a thin tube known as a ventricular access catheter may be inserted through a small hole in the skull and into a ventricle during a minor operation. (See Surgery for Brain and Spinal Cord Tumors in Children.)
+When might chemotherapy be used?
+In general, chemo is used for faster growing tumors. Some types of brain tumors, such as medulloblastomas, tend to respond well to chemo.
+Chemo is most often used along with other types of treatment such as surgery and radiation therapy. It may be used instead of radiation therapy in children 3 years and younger.
+Which chemo drugs are used to treat brain and spinal cord tumors?
+Some of the chemo drugs used to treat children with brain or spinal cord tumors include:
+
+Carboplatin
+Carmustine (BCNU)
+Cisplatin
+Cyclophosphamide
+Etoposide
+Lomustine (CCNU)
+Methotrexate
+Temozolomide
+Thiotepa
+Vincristine
+
+These drugs may be used alone or in various combinations, depending on the type of brain tumor. Doctors give chemo in cycles. Each cycle generally lasts for a few weeks and is followed by a rest period to give the body time to recover.
+Possible side effects of chemotherapy
+Chemo drugs can cause side effects. These depend on the type and dose of drugs, and how long treatment lasts. Possible side effects can include:
+
+Hair loss
+Mouth sores
+Loss of appetite
+Nausea and vomiting
+Diarrhea
+Increased chance of infections (from having too few white blood cells)
+Easy bruising or bleeding (from having too few blood platelets)
+Fatigue (from having too few red blood cells or other factors)
+
+Some of the most effective drugs against brain tumors tend to have fewer of these side effects than other common chemo drugs, but they can still occur. Most side effects tend to go away once treatment is finished. Your child’s doctor and treating team will watch closely for any side effects. There are often ways to lessen these side effects. For example, drugs can be given to help prevent or reduce nausea and vomiting.
+Some chemo drugs can also have other, less common side effects. For example, cisplatin and carboplatin can also cause kidney damage and hearing loss. Your child’s kidney function and hearing will be checked periodically if they are given these drugs.
+Be sure to ask your child’s doctor or nurse about medicines to help reduce side effects, and let them know if your child has side effects so they can be managed. In some cases, the doses of the chemo drugs may need to be reduced or treatment may need to be delayed or stopped to prevent the effects from getting worse.As researchers have learned more about the changes in the inner workings of cells that cause cancer or help cancer cells grow, they have developed newer drugs that target these changes. These targeted drugs work differently from standard chemotherapy drugs. They sometimes work when chemo drugs don’t, and they often have different side effects.
+Targeted drugs do not yet play a large role in treating brain or spinal cord tumors, but some of them might be helpful for certain types of tumors.
+Drugs that target tumors with BRAF gene changes
+In some low-grade gliomas, the tumor cells have changes (mutations) in the BRAF gene, which causes them to make certain proteins that help the cells grow.
+Dabrafenib (Tafinlar) and trametinib (Mekinist)
+Dabrafenib and trametinib are targeted drugs that affect some of these proteins. (Dabrafenib targets the BRAF protein, while trametinib affects the related MEK protein.) Combining these drugs might be an option for children at least one year of age with any type of low-grade glioma with a BRAF V600E mutation that needs treatment other than surgery or radiation. If your child has a low-grade glioma, the tumor cells might be tested for this gene change to see if these drugs might be helpful.
+These drugs are typically taken daily, either as pills or as liquids.
+Common side effects can include skin changes, rash, itching, sensitivity to the sun, headache, fever, chills, joint or muscle pain, fatigue, cough, hair loss, nausea, diarrhea, and high blood pressure.
+Less common but serious side effects can include bleeding, heart rhythm problems, liver or kidney problems, lung problems, severe allergic reactions, severe skin or eye problems, and increased blood sugar levels.
+Some people treated with these drugs have developed skin cancers, especially squamous cell skin cancers. Your child’s doctor will want to check their skin often during treatment. You should also let the doctor know right away if you notice any new growths or abnormal areas on your child’s skin.
+Tovorafenib (Ojemda)
+Tovorafenib targets the BRAF protein. This drug might be an option for children at least 6 months of age with any type of low-grade glioma that has a BRAF gene change and that has come back or is no longer responding to other treatments. If your child has a low-grade glioma, the tumor cells might be tested for BRAF gene changes to see if this drug might be helpful.
+This drug is typically taken once a week, either as pills or as a liquid.
+Common side effects of tovorafenib can include skin changes (such as rash, dry skin, or acne), sensitivity to the sun, hair color changes, feeling tired, headache, nausea and vomiting, fever, constipation, an increased risk of infections, and changes in some blood test results. This drug might also slow a child’s growth.
+Less common but serious side effects can include serious bleeding, liver problems, and severe reactions to sunlight.
+Everolimus (Afinitor)
+For subependymal giant cell astrocytomas (SEGAs) that can’t be removed completely by surgery, everolimus may shrink the tumor or slow its growth for some time. This drug works by blocking a cell protein known as mTOR, which normally helps cells grow and divide into new cells.
+Everolimus is a pill taken once a day.
+Common side effects include mouth sores, increased risk of infections, nausea, loss of appetite, diarrhea, skin rash, feeling tired or weak, fluid buildup (usually in the legs), and increases in blood sugar and cholesterol levels. A less common but serious side effect is lung damage, which can cause shortness of breath or other problems.
+Many other targeted drugs are now being developed and studied in clinical trials. Some of these are described in What’s New in Research and Treatment for Brain and Spinal Cord Tumors in Children?Children with brain or spinal cord tumors can often be given drugs to help with symptoms from the tumor or side effects of treatment. These drugs do not treat the tumor directly, but they can be important an important part of your child's treatment.
+Corticosteroids
+Cortisone-like drugs such as dexamethasone (Decadron) are often given to reduce the swelling that can occur around brain tumors. They are often given before and for a few days after surgery, and might be used during radiation therapy as well. This may help relieve side effects such as headaches, nausea, and vomiting.
+Anti-seizure drugs (anticonvulsants)
+Drugs may be given to lower the chance of seizures in children with brain tumors. Many different anti-seizure drugs can be used.
+Hormones
+The pituitary gland, which lies at the base of the brain, helps control the levels of many different hormones in the body. If the pituitary has been damaged by the spread of the tumor or by treatments (surgery or radiation therapy), your child may need to take pituitary hormones or other hormones to replace those that are no longer being made by the body.The treatment options for brain and spinal cord tumors in children depend on many factors, including:
+
+The type of tumor
+The location of the tumor
+How far the tumor has grown or spread
+The child's age and overall healthAfter treatment, the main concerns for most families are the short- and long-term effects of the tumor and its treatment, and concerns about the tumor still being present or coming back.
+It’s certainly normal to want to put the tumor and its treatment behind you, and to get back to a life that doesn’t revolve around the tumor. But it’s important to realize that follow-up care is a central part of this process that offers your child the best chance for recovery and long-term survival.
+Follow-up visits and tests
+Once treatment is finished, the health care team will discuss a follow-up schedule with you. It’s very important to go to all follow-up appointments.
+In some cases, even with slow-growing tumors, some of the tumor may still remain after treatment. Even when childhood tumors are treated successfully, some might come back even many years later. (Your child’s doctor should be able to give you an idea of how likely this is.)
+Imaging tests (CT or MRI scans), physical exams, and sometimes other tests will be done after treatment to help determine how successful it was. Whether the tumor was removed completely or not, your child’s health care team will want to watch your child closely, especially in the first few months and years after treatment to watch for tumor growth or recurrence. Depending on the type and location of the tumor and the extent of the treatment, the team will let you know which tests need to be done and how often.
+During this time, report any new symptoms to your child’s doctor right away, so the cause can be determined and treated, if need be. Your child’s doctor can give you an idea of what to look for. If your child needs further treatment at some point, the doctor will go over the options with you.
+Some children might need follow-up tests for many years after treatment. For example, children who get radiation therapy to treat their brain tumors are at increased risk of getting another tumor, so imaging tests might be needed for many years later to look for them.
+Ask for a survivorship care plan
+Talk with your child’s treatment team about developing a survivorship care plan for them. This plan might include: 
+
+A suggested schedule for follow-up exams and tests
+A schedule for other tests they might need in the future, such as early detection (screening) tests for other types of cancer, or tests to look for long-term health effects from their tumor or its treatment
+A list of possible late- or long-term side effects from treatment, including what to watch for and when you should contact the doctor
+Diet and physical activity suggestions
+
+Recovering from the effects of the tumor and its treatment
+The tumor and its treatment might cause physical, mental, and emotional side effects, which can range from very mild to fairly severe. A child’s brain is often better able to adjust to changes than an adult’s, but it’s also more sensitive to treatments such as radiation. What’s more, some effects might be long-lasting or might not show up until years after treatment.
+Once your child has recovered from treatment, the doctors will try to determine the extent of any damage to the brain or other areas. In a very young child this may take time. Physical exams and imaging tests (CT or MRI scans) will be done to determine the extent and location of any changes in the brain.
+Several types of doctors and other health professionals might help look for these changes and help your child recover.
+
+A neurologist (a doctor who specializes in medical treatment of the nervous system) may assess your child’s physical coordination, muscle strength, and other aspects of nervous system function. A neurologist can also help manage seizures if your child has them.
+If there is muscle weakness or paralysis, your child will be seen by physical and/or occupational therapists and perhaps a physiatrist (a doctor who specializes in rehabilitation) while in the hospital and/or as an outpatient for physical therapy.
+If speech is affected, a speech therapist (speech-language pathologist) will help your child improve talking and communicating.
+If needed, an ophthalmologist (a doctor who specializes in eye problems) will check your child’s vision, and an audiologist can check your child’s hearing. If problems with vision or hearing are found, your child may need some type of special education.
+Your child may also be seen by a psychiatrist or psychologist to determine the extent of any damage caused by the tumor and by treatment. The doctor will document your child’s development in areas such as general intelligence, speech and hearing, memory, and learning skills.
+If the tumor was in or near the base of the brain or if radiation therapy was given to this area, the pituitary gland could be damaged, which could affect hormone levels. Sometimes this can lead to symptoms even before treatment, as a result of the tumor itself. If there is reason to think the pituitary has been affected, your child may be seen by an endocrinologist (a doctor who specializes in hormone disorders). Hormone treatments may be prescribed to restore normal hormone levels. For example, growth hormone can be given to help restore normal growth.
+
+Late and long-term effects of treatment
+A major concern of both parents and doctors is the potential for lasting effects from treatment, as well as effects that don’t show up until years later. Some of these, such as learning problems or delayed growth and development, were mentioned above. Others might include effects on the reproductive system as boys and girls get older, or an increased risk of other cancers later in life. While doctors do everything they can to limit the chance of these complications, sometimes they may be an unavoidable part of making sure the tumor is treated properly.
+To help increase awareness of late effects and improve follow-up care of childhood cancer survivors throughout their lives, the Children’s Oncology Group (COG) has developed long-term follow-up guidelines for survivors of childhood cancers. These guidelines can help you know what to watch for, what type of screening tests should be done to look for problems, and how late effects are treated.
+It’s very important to discuss possible long-term complications with your child’s health care team, and to make sure there is a plan in place to watch for these problems and treat them, if needed. To learn more, ask your child’s doctors about the COG survivor guidelines. You can also read them on the COG website at www.survivorshipguidelines.org. The guidelines themselves are written for health professionals, so you might want to go over the information with the child’s treatment team. Information based on some of the guidelines, written for families of children with cancer, is also available (as Health Links) on the site.
+For more about some of the possible long-term effects of treatment, see Late Effects of Childhood Cancer Treatment.
+Social, emotional, and other issues
+Children can develop social and emotional issues both during and after treatment. Factors such as the child’s age when diagnosed and the extent of treatment can play a role here.
+Brain and spinal cord tumors and their treatment can sometimes affect how a child does some everyday tasks, including certain school, work, or recreational activities. These effects are often greatest during the first year of treatment, but they can be long-lasting in some children. It’s important that the treating center assess the family situation as soon as possible, so that any areas of concern can be addressed.
+Some children and teens may have emotional or psychological issues that need to be addressed during and after treatment. Depending on their age, they may also have some problems with normal functioning and school work. These can often be helped with support and encouragement. Doctors and other members of the health care team can also often recommend special support programs and services to help after treatment.
+Many experts recommend that school-age children and teens attend school as much as possible. This can help them maintain a sense of daily routine and keep their friends informed about what is going on.
+Friends can be a great source of support, but patients and parents should know that some people have misunderstandings and fears about diseases such as brain tumors. Some treatment centers have a school re-entry program that can help in situations like this. In this program, a teacher (called a school liaison) working with the hospital can help pave the way for your child going (back) to school by talking with the teachers, explaining your child’s health issues, and discussing any special education techniques that might be needed. The liaison can also talk to the students about the diagnosis, treatment, and changes the child might go through, as well as answer questions from teachers and classmates.
+With support from family, friends, other survivors, mental health professionals, and others, many people who have survived their tumor can thrive in spite of the challenges they’ve had to face.
+For more information on these and other topics, see When Your Child Has Cancer.
+Keeping health insurance and copies of medical records
+Even after treatment, it’s very important to keep health insurance. Tests and doctor visits cost a lot, and even though no one wants to think about a tumor possibly coming back, this could happen.
+At some point after treatment, your child will likely be seeing a new doctor who doesn’t know about their medical history. It’s important to keep copies of medical records to give the new doctor the details of their diagnosis and treatment. Learn more in Keeping Copies of Important Medical Records.What are brain and spinal cord tumors?
+Brain and spinal cord tumors are masses of changed cells in the brain or spinal cord that have grown out of control. They may or may not be cancer. If the tumor is not cancer it may be called benign. But even benign tumors in the brain or spinal cord can be harmful.
+If not treated, tumors in the brain or spinal cord can press on or spread into normal tissue as they grow. This can make it hard for the brain and spinal cord to work the way they should to control the rest of the body.
+The main concerns with brain and spinal cord tumors are:
+
+How fast they will grow
+How quickly they spread to nearby parts of the brain or spinal cord
+ Whether they can be taken out and not come back

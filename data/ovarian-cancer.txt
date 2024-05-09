@@ -1,0 +1,858 @@
+Cancer starts when cells in the body begin to grow out of control. Cells in nearly any part of the body can become cancer and can spread. To learn more about how cancers start and spread, see What Is Cancer?
+Ovarian cancers were previously believed to begin only in the ovaries, but recent evidence suggests that many ovarian cancers may actually start in the cells in the far (distal) end of the fallopian tubes.
+What are the ovaries?
+Ovaries are reproductive glands found only in females (women). The ovaries produce eggs (ova) for reproduction. The eggs travel from the ovaries through the fallopian tubes into the uterus where the fertilized egg settles in and develops into a fetus. The ovaries are also the main source of the female hormones estrogen and progesterone. One ovary is on each side of the uterus.The American Cancer Society estimates for ovarian cancer in the United States for 2024 are:
+
+About 19,680 women will receive a new diagnosis of ovarian cancer.
+About 12,740 women will die from ovarian cancer.
+
+Ovarian cancer is one of the leading causes of cancer deaths among women.
+A woman's risk of getting ovarian cancer during her lifetime is about 1 in 87. Her lifetime chance of dying from ovarian cancer is about 1 in 130. (These statistics don’t count low malignant potential ovarian tumors.)
+This cancer mainly develops in older women. About half of the women who are diagnosed with ovarian cancer are 63 years or older. It is more common in White women than Black women.
+Ovarian cancer diagnoses have been slowly falling over the past few decades. The incidence rate declined by 1% to 2% per year from 1990 to the mid-2010s and by almost 3% per year from 2015 to 2019. This is likely due to more use of oral contraceptives and less use of menopausal hormone therapy. 
+Fewer women are dying of ovarian cancer as well, likely due to better treatments and fewer women being diagnosed. The rate of ovarian cancer deaths has decreased by 40% since 1975. Most of this progress has happened since the mid-2000s.
+Visit the American Cancer Society’s Cancer Statistics Center for more key statistics.Risk factors and causes
+Scientists continue to study the genes responsible for familial ovarian cancer. This research is beginning to yield clues about how these genes normally work and how disrupting their action can lead to cancer. This information eventually is expected to lead to new drugs for preventing and treating familial ovarian cancer.
+Research in this area has already led to better ways to detect high-risk genes and assess a woman's ovarian cancer risk. A better understanding of how genetic and hormonal factors (such as oral contraceptive use) interact may also lead to better ways to prevent ovarian cancer.
+Prevention
+New information about how much BRCA1 and BRCA2 gene mutations increase ovarian cancer risk is helping women make practical decisions about prevention. For example, mathematical models have been developed that help estimate how many years of life an average woman with a BRCA mutation might gain by having both ovaries and fallopian tubes removed to prevent a cancer from developing. Studies have shown that fallopian tube cancers develop in women with BRCA gene mutations more often than doctors had previously suspected. However, it is important to remember that although doctors can predict the average outcome of a group of many women, it is still impossible to accurately predict the outcome for any individual woman.
+Studies suggest that many primary peritoneal cancers and some ovarian cancers (such as high-grade serous carcinomas) actually start in the fallopian tubes. According to this theory, the early changes of these cancers can start in the fallopian tubes. Cells from these very early fallopian tube cancers can become detached and then stick to the surface of the peritoneum or the ovaries. For reasons that are still not understood, these cancer cells may grow more rapidly in their new locations.
+This theory has important implications for preventing ovarian cancer because having the ovaries removed early can cause problems from lack of estrogen, such as bone loss, cardiovascular disease, and menopause symptoms. Some experts have suggested recently that some women who are concerned about their ovarian cancer risk (especially those with a strong family history and/or BRCA gene mutations) consider having just their fallopian tubes removed first. They then can have their ovaries removed when they are older. This approach lets women keep their ovaries functioning for longer, but because of that, it might not help breast cancer risk as much. This is an active area of research.
+Other studies are testing new drugs for ovarian cancer risk reduction.
+Researchers are constantly looking for clues such as lifestyle, diet, and medicines that may alter the risk of ovarian cancer.
+Early detection
+Being able to find ovarian cancer early could have a great impact on the cure rate. Researchers are testing new ways to screen women for ovarian cancer. One method being tested is looking at the pattern of proteins in the blood (called proteomics) to find ovarian cancer early.
+Imaging
+The use of new imaging techniques such as Functional MRI are being evaluated in ovarian cancers. PET/CT scans are also being studied to see where they may be best used for ovarian cancer.
+Diagnosis
+For women who have an ovarian tumor, a test called OVA1 can measure the levels of 5 proteins in the blood. The levels of these proteins, when looked at together, are used to determine whether a woman's tumor should be considered low risk or high risk. If the tumor is labeled "low risk" based on this test, the woman is not likely to have cancer. If the tumor is considered "high risk," the woman is more likely to have a cancer, and should see a specialist (a gynecologic oncologist). This test is NOT a screening test and it is NOT a test to decide if you should have surgery or not. It is meant for women who have an ovarian tumor where surgery has been decided but have not yet been referred to a gynecologic oncologist.
+Treatment
+Treatment research includes testing the value of currently available methods as well as developing new approaches to treatment.
+Chemotherapy
+New chemotherapy (chemo) drugs and drug combinations are being tested.
+When the drugs cisplatin and carboplatin stop working, the cancer is said to be platinum resistant. Studies are looking for many ways to make these cancers sensitive to these drugs again. Different strategies include:
+
+Looking closely at what specific mechanisms and proteins are involved in the making ovarian cancer cells resistant.
+Developing drugs that can keep the cancer cells from becoming resistant to the chemo by blocking channels that pump chemotherapy out of the cancer cell.
+Trying to determine the details of certain cancer cells where the DNA is not damaged by chemotherapy which allows it to keep growing.
+
+Although carboplatin is preferred over cisplatin in treating ovarian cancer if the drug is to be given IV, cisplatin is used in intraperitoneal (IP) chemotherapy. Studies are looking at giving carboplatin for IP chemo.
+Another approach is to give IP chemo during surgery using heated drugs. This, known as heated intraperitoneal chemotherapy or HIPEC, can be effective. More studies are showing this to be beneficial and may improve how long a woman lives.
+Targeted therapy
+Targeted therapy is a newer type of cancer treatment that uses drugs or other substances to identify and attack cancer cells while doing little damage to normal cells. Each type of targeted therapy works differently, but they all attack the cancer cells' inner workings − the programming that makes them different from normal, healthy cells. Bevacizumab (Avastin) is the targeted therapy that has been studied best in ovarian cancer, but other similar drugs, like pembrolizumab, are being looked at, as well.
+Catumaxomab is a drug being studied specifically for people with malignant ascites (fluid buildup in the abdomen [belly] caused by cancer cells). It works by targeting 3 different cell types including tumor cells and white blood cells called T-cells.
+Poly(ADP-ribose) polymerases (PARPs) are enzymes that have been recently recognized as key regulators of cell survival and cell death. Drugs that inhibit PARP-1 (called PARP inhibitors) have been approved for patients with ovarian cancer caused by mutations in BRCA1 and BRCA2. New evidence shows that ovarian cancers can also become resistant to treatment with PARP inhibitors. Research is trying to find ways to counteract this process.
+Genetic therapies
+For ovarian and breast cancers that are caused by the BRCA 1 mutation, it has been shown that low levels of the BRCA 1 mutation are associated with good responses to PARP inhibitors and platinum drugs, like cisplatin and carboplatin. New research shows that microRNA, very small pieces of RNA (substances that carry genetic messages for DNA), can also lower levels of BRCA1 mutations. New drugs that can target these tiny pieces of RNA are being investigated as possible ways to treat these cancers.A risk factor is anything that increases your chance of getting a disease like cancer. Different cancers have different risk factors. Some risk factors, like smoking, can be changed. Others, like a person’s age or family history, can’t be changed.
+But having a risk factor, or even many, does not mean that you will get the disease. And some people who get the disease may not have any known risk factors. Researchers have discovered several risk factors that might increase a woman's chance of developing epithelial ovarian cancer. These risk factors don’t apply to other less common types of ovarian cancer like germ cell tumors and stromal tumors.
+Factors that increase your risk of ovarian cancers
+Getting older
+The risk of developing ovarian cancer gets higher with age. Ovarian cancer is rare in women younger than 40. Most ovarian cancers develop after menopause. Half of all ovarian cancers are found in women 63 years of age or older.
+Being overweight or obese
+Obesity has been linked to a higher risk of developing many cancers. The current information available for ovarian cancer risk and obesity is not clear. Obese women (those with a body mass index [BMI] of at least 30) probably have a higher risk of developing ovarian cancer, but not necessarily the most aggressive types, such as high-grade serous cancers. Obesity may also negatively affect the overall survival of a woman with ovarian cancer.
+Having children later or never having a full-term pregnancy
+Women who have their first full-term pregnancy after age 35 or who never carried a pregnancy to term have a higher risk of ovarian cancer.
+
+Taking hormone therapy after menopause
+Women using estrogens alone or with progesterone after menopause have an increased risk of developing ovarian cancer compared to women who have never used hormones.
+Having a family history of ovarian cancer, breast cancer, or colorectal cancer
+Ovarian cancer can run in families. Your ovarian cancer risk is increased if your mother, sister, or daughter has (or has had) ovarian cancer. The risk also gets higher the more relatives you have with ovarian cancer. Increased risk for ovarian cancer can also come from your father's side.
+A family history of some other types of cancer such as colorectal and breast cancer is linked to an increased risk of ovarian cancer. This is because these cancers can be caused by an inherited mutation (change) in certain genes that cause a family cancer syndrome that increases the risk of ovarian cancer.
+Having a family cancer syndrome
+Up to 25% of ovarian cancers are a part of family cancer syndromes resulting from inherited changes (mutations) in certain genes.
+Hereditary breast and ovarian cancer syndrome (HBOC)
+This syndrome is caused by inherited mutations in the genes BRCA1 and BRCA2, as well as possibly some other genes that have not yet been found. This syndrome is linked to a high risk of breast cancer as well as ovarian, fallopian tube, and primary peritoneal cancers. The risk of some other cancers, such as pancreatic cancer and prostate cancer, are also increased.
+Mutations in BRCA1 and BRCA2 are also responsible for most inherited ovarian cancers. Mutations in BRCA1 and BRCA2 are about 10 times more common in those who are Ashkenazi Jewish than those in the general U.S. population.
+The lifetime ovarian cancer risk for women with a BRCA1 mutation is estimated to be between 35% and 70%. This means that if 100 women had a BRCA1 mutation, between 35 and 70 of them would get ovarian cancer. For women with BRCA2 mutations the risk has been estimated to be between 10% and 30% by age 70. These mutations also increase the risks for primary peritoneal carcinoma and fallopian tube carcinoma.
+In comparison, the ovarian cancer lifetime risk for the women in the general population is less than 2%.
+ 
+Hereditary nonpolyposis colon cancer (HNPCC)
+Women with this syndrome have a very high risk of colon cancer and also have an increased risk of developing cancer of the uterus (endometrial cancer) and ovarian cancer. Many different genes can cause this syndrome. They include MLH1, MSH2, MSH6, PMS2, and EPCAM. The lifetime risk of ovarian cancer in women with hereditary nonpolyposis colon cancer is about 10%. Up to 1% of all ovarian epithelial cancers occur in women with this syndrome. Another name for HNPCC is Lynch syndrome.
+Peutz-Jeghers syndrome
+People with this rare genetic syndrome develop polyps in the stomach and intestine while they are teenagers. They also have a high risk of cancer, particularly cancers of the digestive tract (esophagus, stomach, small intestine, colon). Women with this syndrome have an increased risk of ovarian cancer, including both epithelial ovarian cancer and a type of stromal tumor called sex cord tumor with annular tubules (SCTAT). This syndrome is caused by mutations in the gene STK11.
+MUTYH-associated polyposis
+People with this syndrome develop polyps in the colon and small intestine and have a high risk of colon cancer. They are also more likely to develop other cancers, including cancers of the ovary and bladder. This syndrome is caused by mutations in the gene MUTYH.
+Other genes associated with hereditary ovarian cancer
+Besides the gene mutations mentioned above, there are other genes linked to ovarian cancer. These include ATM, BRIP1, RAD51C, RAD51D, and PALB2. Some of these genes are also associated with cancers such as breast and pancreas.
+Using fertility treatment
+Fertility treatment with in vitro fertilization (IVF) seems to increase the risk of the type of ovarian tumors known as "borderline" or "low malignant potential" (described in What Is Ovarian Cancer?). Other studies, however, have not shown an increased risk of invasive ovarian cancer with fertility drugs. If you are taking fertility drugs, you should discuss the potential risks with your doctor.
+Having had breast cancer
+If you have had breast cancer, you might also have an increased risk of developing ovarian cancer. There are several reasons for this. Some of the reproductive risk factors for ovarian cancer may also affect breast cancer risk. The risk of ovarian cancer after breast cancer is highest in those women with a family history of breast cancer. A strong family history of breast cancer may be caused by an inherited mutation in the BRCA1 or BRCA2 genes and hereditary breast and ovarian cancer syndrome, which is linked to an increased risk of ovarian cancer.
+Smoking
+Smoking doesn’t increase the risk of ovarian cancer overall, but it is linked to an increased risk for the mucinous type.
+Factors with unclear effects on ovarian cancer risk
+Androgens
+Androgens, such as testosterone, are male hormones. There appears to be a link between certain androgens and specific types of ovarian cancer, but further studies of the role of androgens in ovarian cancer are needed.
+Talcum powder
+It has been suggested that talcum powder might cause cancer in the ovaries if the powder particles (applied to the genital area or on sanitary napkins, diaphragms, or condoms) were to travel through the vagina, uterus, and fallopian tubes to the ovary.
+Many studies in women have looked at the possible link between talcum powder and cancer of the ovary. Findings have been mixed, with some studies reporting a slightly increased risk and some reporting no increase. Many case-control studies have found a small increase in risk. But these types of studies can be biased because they often rely on a person’s memory of talc use many years earlier.  One prospective cohort study, which would not have the same type of potential bias, has not found an increased risk. A second found a modest increase in risk of one type of ovarian cancer.
+For any individual woman, if there is an increased risk, the overall increase is likely to very be small. Still, talc is widely used in many products, so it is important to determine if the increased risk is real. Research in this area continues.
+Diet
+Some studies have shown a reduced rate of ovarian cancer in women who ate a diet high in vegetables or a low fat diet, but other studies disagree. The American Cancer Society recommends following a healthy eating pattern that includes plenty of fruits, vegetables, and whole grains, and that limits or avoids red and processed meats, sugary drinks, and highly processed foods. Even though the effect of these dietary recommendations on ovarian cancer risk remains uncertain, following them can help prevent several other diseases, including some other types of cancer.
+Factors that can lower risk of ovarian cancer
+Pregnancy and breastfeeding
+Women who have been pregnant and carried it to term before age 26 have a lower risk of ovarian cancer than women who have not. The risk goes down with each full-term pregnancy. Breastfeeding may lower the risk even further.
+Birth control
+Women who have used oral contraceptives (also known as birth control pills or the pill) have a lower risk of ovarian cancer. The risk is lower the longer the pills are used. This lower risk continues for many years after the pill is stopped. Other forms of birth control such as tubal ligation (having fallopian tubes tied) and short use of IUDs (intrauterine devices) have also been associated with a lower risk of ovarian cancer.
+A hysterectomy (removing the uterus without removing the ovaries) also seems to reduce the risk of getting ovarian cancer by about one-third.We don’t yet know exactly what causes most ovarian cancers. As discussed in Ovarian Cancer Risk Factors, we do know some factors that make a woman more likely to develop epithelial ovarian cancer. Much less is known about risk factors for germ cell and stromal tumors of the ovaries.
+The most recent and important finding about the cause of ovarian cancer is that it starts in cells at the tail ends of the fallopian tubes and not necessarily in the ovary itself. This new information may open more research studies looking at preventing and screening for this type of cancer. 
+There are many theories about the causes of ovarian cancer. Some of them came from looking at the things that change the risk of ovarian cancer. For example, pregnancy and taking birth control pills both lower the risk of ovarian cancer. Since both of these things reduce the number of times the ovary releases an egg (ovulation), some researchers think that there may be some relationship between ovulation and the risk of developing ovarian cancer.
+Also, we know that tubal ligation and hysterectomy lower the risk of ovarian cancer. One theory to explain this is that some cancer-causing substances may enter the body through the vagina and pass through the uterus and fallopian tubes to reach the ovaries. This would explain how removing the uterus or blocking the fallopian tubes affects ovarian cancer risk.
+Another theory is that male hormones (androgens) can cause ovarian cancer.
+Gene changes related to ovarian cancer
+Researchers have made great progress in understanding how certain mutations (changes) in DNA can cause normal cells to become cancerous. DNA is the chemical that carries the instructions for nearly everything our cells do. We usually look like our parents because they are the source of our DNA. However, DNA affects more than the way we look. Some genes (parts of our DNA) contain instructions for controlling when our cells grow and divide. Mutations in these genes can lead to the development of cancer.
+Inherited genetic mutations
+A small portion of ovarian cancers occur in women with inherited mutations linked to an increased risk of ovarian cancer. These include mutations in the BRCA1 and BRCA2 genes, as well as the genes related to other family cancer syndromes linked to an increased risk of ovarian cancer, such as PTEN (PTEN tumor hamartoma syndrome), STK11 (Peutz-Jeghers syndrome), MUTYH (MUTYH-associated polyposis, and the many genes that can cause hereditary nonpolyposis colon cancer (MLH1, MLH3, MSH2, MSH6, TGFBR2, PMS1, and PMS2).
+Genetic tests can detect mutations associated with these inherited syndromes. If you have a family history of cancers linked to these syndromes, such as breast and ovarian cancers, thyroid and ovarian cancer, and/or colorectal and endometrial (uterine) cancer, you might want to ask your doctor about genetic counseling and testing. The American Cancer Society recommends discussing genetic testing with a qualified cancer genetics professional before any genetic testing is done. For more on this, see Genetics and Cancer.
+Acquired genetic changes
+Most mutations related to ovarian cancer are not inherited but instead occur during a woman's life and are called acquired mutations. In some cancers, these types of mutations leading to the development of cancer may result from radiation or cancer-causing chemicals, but there is no evidence for this in ovarian cancer. So far, studies haven’t been able to specifically link any single chemical in the environment or in our diets to mutations that cause ovarian cancer. The cause of most acquired mutations remains unknown.
+Most ovarian cancers have several acquired mutations. Research has suggested that tests to identify acquired mutations in ovarian cancers, like the TP53 tumor suppressor gene or the HER2 oncogene, can help predict a woman's prognosis. The role of these tests is still not certain, and more research is needed.Most women have one or more risk factors for ovarian cancer. But most of the common factors only slightly increase your risk, so they only partly explain the frequency of the disease. So far, what is known about risk factors has not translated into practical ways to prevent most cases of ovarian cancer.
+There are several ways you can reduce your risk of developing the most common type of ovarian cancer, epithelial ovarian cancer. Much less is known about ways to lower the risk of developing germ cell and stromal tumors of the ovaries, so this information does not apply to those types. It is important to realize that some of these strategies lower your risk only slightly, while others lower it much more. Some strategies are easily followed, and others require surgery. If you are concerned about your risk of ovarian cancer, talk to your health care professionals. They can help you consider these ideas as they apply to your own situation.
+Avoiding certain risk factors
+Some risk factors for ovarian cancer, like getting older or having a family history, cannot be changed. But women might be able to lower their risk slightly by avoiding other risk factors, for example, by staying at a healthy weight, or not taking hormone replacement therapy after menopause. See Risk Factors for Ovarian Cancer to learn more.
+Oral contraceptives
+Using oral contraceptives (birth control pills) decreases the risk of developing ovarian cancer for average risk women and BRCA mutation carriers , especially among women who use them for several years. Women who used oral contraceptives for 5 or more years have about a 50% lower risk of developing ovarian cancer compared with women who never used oral contraceptives. Still, birth control pills do have some serious risks and side effects such as slightly increasing breast cancer risk. Women considering taking these drugs for any reason should first discuss the possible risks and benefits with their doctor.
+Gynecologic surgery
+Both tubal ligation and hysterectomy may reduce the chance of developing certain types of ovarian cancer, but experts agree that these operations should only be done for valid medical reasons -- not for their effect on ovarian cancer risk.
+If you are going to have a hysterectomy for a valid medical reason and you have a strong family history of ovarian or breast cancer, you may want to consider having both ovaries and fallopian tubes removed (called a bilateral salpingo-oophorectomy) as part of that procedure.
+Even if you don’t have an increased risk of ovarian cancer, some doctors recommend that the ovaries be removed with the uterus if a woman has already gone through menopause or is close to menopause. If you are older than 40 and you are going to have a hysterectomy, you should discuss the potential risks and benefits of having your ovaries removed with your doctor.
+Another option for average risk women who do not wish to have their ovaries removed because they don’t want to lose ovarian function (and go through menopause early) is to have just the fallopian tubes removed (a bilateral salpingectomy) along with the uterus (a hysterectomy). They may choose to have their ovaries removed later. This has not been studied as well as removing both the ovaries and fallopian tubes at the same time, but there is enough information that it may be considered an option to reduce ovarian cancer risk in average risk women.
+Prevention strategies for women with a family history of ovarian cancer or BRCA mutation
+If your family history suggests that you (or a close relative) might have a syndrome linked with a high risk of ovarian cancer, you might want to consider genetic counseling and testing. During genetic counseling (by a genetic counselor or other health care professional with training in genetic risk evaluation), your personal medical and family history is reviewed. This can help predict whether you are likely to have one of the gene mutations associated with an increased ovarian cancer risk.
+The counselor will also discuss the benefits and potential drawbacks of genetic testing with you. Genetic testing can help determine if you or members of your family carry certain gene mutations that cause a high risk of ovarian cancer. Still, the results are not always clear, and a genetic counselor can help you sort out what the results mean to you.
+For some women with a strong family history of ovarian cancer, knowing they do not have a mutation that increases their ovarian cancer risk can be a great relief for them and their children. Knowing that you do have such a mutation can be stressful, but many women find this information very helpful in making important decisions about certain prevention strategies for them and their children. See Genetics and Cancer to learn more.
+Using oral contraceptives is one way that high risk women (women with BRCA1 and BRCA2 mutations) can reduce their risk of developing ovarian cancer. But birth control pills can increase breast cancer risk in women with or without these mutations. This increased risk appears highest while women are actively taking birth control pills but can continue even after stopping them. Research is continuing to find out more about the risks and benefits of oral contraceptives for women at high ovarian and breast cancer risk.
+Tubal ligation may also effectively reduce the risk of ovarian cancer in women who have BRCA1 or BRCA2 mutations. Usually this type of surgery is not done alone and is typically done for reasons other than ovarian cancer prevention.
+Sometimes a woman may want to consider having both ovaries and fallopian tubes removed (called a bilateral salpingo-oophorectomy) to reduce her risk of ovarian cancer before cancer is even suspected. If the ovaries are removed to prevent ovarian cancer, the surgery is called risk-reducing or prophylactic. Generally, salpingo-oophorectomy may be recommended for high-risk women after they have finished having children. This operation lowers ovarian cancer risk a great deal but does not entirely eliminate it. That’s because some women who have a high risk of ovarian cancer already have a cancer at the time of surgery. These cancers can be so small that they are only found when the ovaries and fallopian tubes are looked at in the lab after they are removed. Also, women with BRCA1 or BRCA2 gene mutations have an increased risk of primary peritoneal carcinoma. Although the risk is low, this cancer can still develop after the ovaries and fallopian tubes are removed.
+The risk of fallopian tube cancer is also increased in women with mutations in BRCA1 or BRCA2. Sometimes early fallopian tube cancers are found unexpectedly when the fallopian tubes are removed as a part of a risk-reducing surgery. In fact, some cancers that were thought to be ovarian or primary peritoneal cancers may have actually started in the fallopian tubes. That is why experts recommend that women at high risk of ovarian cancer who are having their ovaries removed should have their fallopian tubes completely removed as well (salpingo-oophorectomy).
+Research has shown that premenopausal women who have BRCA gene mutations and have had their ovaries removed reduce their risk of breast cancer as well as their risk of ovarian cancer. The risk of ovarian cancer is reduced by 85% to 95%, and the risk of breast cancer cut by 50% or more.
+Some women who have a high risk of ovarian cancer due to BRCA gene mutations feel that having their ovaries and fallopian tubes removed is not right for them. Often doctors recommend that those women have screening tests to try to find ovarian cancer early.Only about 20% of ovarian cancers are found at an early stage. When ovarian cancer is found early, about 94% of patients live longer than 5 years after diagnosis.
+Ways to find ovarian cancer early
+Regular women's health exams
+During a pelvic exam, the health care professional feels the ovaries and uterus for size, shape, and consistency. A pelvic exam can be useful because it can find some female cancers at an early stage, but most early ovarian tumors are difficult or impossible to feel. Pelvic exams may, however, help find other cancers or female conditions. Women should discuss the need for these exams with their doctor.
+Screening tests used for cervical cancer, such as a Pap test or HPV (human papillomavirus) test aren’t effective tests for ovarian cancer. Rarely, ovarian cancers are found through Pap tests, but usually they are at an advanced stage.
+See a doctor if you have symptoms
+Early cancers of the ovaries often cause no symptoms. Symptoms of ovarian cancer can also be caused by other, less serious conditions. By the time ovarian cancer is considered as a possible cause of these symptoms, it usually has already spread. Also, some types of ovarian cancer can rapidly spread to nearby organs. Prompt attention to symptoms may improve the odds of early diagnosis and successful treatment. If you have symptoms similar to those of ovarian cancer almost daily for more than a few weeks, report them right away to your health care professional.
+Screening tests for ovarian cancer
+Screening tests and exams are used to detect a disease, like cancer, in people who don’t have any symptoms. (For example, a mammogram can often detect breast cancer in its earliest stage, even before a doctor can feel the cancer.)
+There has been a lot of research to develop a screening test for ovarian cancer, but there hasn’t been much success so far. The 2 tests used most often (in addition to a complete pelvic exam) to screen for ovarian cancer are transvaginal ultrasound (TVUS) and the CA-125 blood test.
+
+TVUS (transvaginal ultrasound) is a test that uses sound waves to look at the uterus, fallopian tubes, and ovaries by putting an ultrasound wand into the vagina. It can help find a mass (tumor) in the ovary, but it can't actually tell if a mass is cancer or benign. When it is used for screening, most of the masses found are not cancer.
+The CA-125 blood test measures the amount of a protein called CA-125 in the blood. Many women with ovarian cancer have high levels of CA-125. This test can be useful as a tumor marker to help guide treatment in women known to have ovarian cancer, because a high level often goes down if treatment is working. But checking CA-125 levels has not been found to be as useful as a screening test for ovarian cancer. The problem with using this test for ovarian cancer screening is that high levels of CA-125 is more often caused by common conditions such as endometriosis and pelvic inflammatory disease. Also, not everyone who has ovarian cancer has a high CA-125 level. When someone who is not known to have ovarian cancer has an abnormal CA-125 level, the doctor might repeat the test (to make sure the result is correct) and may consider ordering a transvaginal ultrasound test.
+
+Better ways to screen for ovarian cancer are being researched but currently there are no reliable screening tests. Hopefully, improvements in screening tests will eventually lead to fewer deaths from ovarian cancer.
+If you're at average risk
+There are no recommended screening tests for ovarian cancer for women who do not have symptoms and are not at high risk of developing ovarian cancer. In studies of women at average risk of ovarian cancer, using TVUS and CA-125 for screening led to more testing and sometimes more surgeries, but did not lower the number of deaths caused by ovarian cancer. For that reason, no major medical or professional organization recommends the routine use of TVUS or the CA-125 blood test to screen for ovarian cancer in women at average risk.
+If you're at high risk
+Some organizations state that TVUS and CA-125 may be offered to screen women who have a high risk of ovarian cancer due to an inherited genetic syndrome such as Lynch syndrome, BRCA gene mutations or a strong family history of breast and ovarian cancer. Still, even in these women, it has not been proven that using these tests for screening lowers their chances of dying from ovarian cancer.
+Screening tests for germ cell tumors/stromal tumors
+There are no recommended screening tests for germ cell tumors or stromal tumors. Some germ cell cancers release certain protein markers such as human chorionic gonadotropin (HCG) and alpha-fetoprotein (AFP) into the blood. After these tumors have been treated by surgery and chemotherapy, blood tests for these markers can be used to see if treatment is working and to determine if the cancer is coming back.Ovarian cancer may cause several signs and symptoms. Women are more likely to have symptoms if the disease has spread, but even early-stage ovarian cancer can cause them. The most common symptoms include:
+
+Bloating
+Pelvic or abdominal (belly) pain
+Trouble eating or feeling full quickly
+Urinary symptoms such as urgency (always feeling like you have to go) or frequency (having to go often)
+
+These symptoms are also commonly caused by benign (non-cancerous) diseases and by cancers of other organs. When they are caused by ovarian cancer, they tend to be persistent and a change from normal − for example, they occur more often or are more severe. These symptoms are more likely to be caused by other conditions, and most of them occur just about as often in women who don’t have ovarian cancer. But if you have these symptoms more than 12 times a month, see your doctor so the problem can be found and treated if necessary.
+Others symptoms of ovarian cancer can include:
+
+Fatigue (extreme tiredness)
+Upset stomach
+Back pain
+Pain during sex
+Constipation
+Changes in a woman's period, such as heavier bleeding than normal or irregular bleeding
+Abdominal (belly) swelling with weight lossIf your doctor finds something suspicious during a pelvic exam, or if you have symptoms that might be due to ovarian cancer, your doctor will recommend exams and tests to find the cause.
+Medical history and physical exam
+Your doctor will ask about your medical history to learn about possible risk factors, including your family history. You will also be asked if you’re having any symptoms, when they started, and how long you've had them. Your doctor will likely do a pelvic exam to check for an enlarged ovary or signs of fluid in the abdomen (which is called ascites).
+If there is reason to suspect you might have ovarian cancer based on your symptoms and/or physical exam, your doctor will order some tests to check further.
+Consultation with a specialist
+If the results of your pelvic exam or other tests suggest that you might have ovarian cancer, you will need a doctor or surgeon who specializes in treating women with this type of cancer. A gynecologic oncologist is an obstetrician/gynecologist who is specially trained in treating cancers of the female reproductive system. Treatment by a gynecologic oncologist helps ensure that you get the best kind of surgery for your cancer. It has also been shown to help patients with ovarian cancer live longer. Anyone suspected of having ovarian cancer should see this type of specialist before having surgery.
+Imaging tests
+Doctors use imaging tests to take pictures of the inside of your body. Imaging tests can show whether a pelvic mass is present, but they cannot confirm that the mass is a cancer. These tests are also useful if your doctor is looking to see if ovarian cancer has spread (metastasized) to other tissues and organs.
+Ultrasound
+Ultrasound (ultrasonography) uses sound waves to create an image on a video screen. Sound waves are released from a small probe placed in the vagina and a small microphone-like instrument called a transducer gives off sound waves and picks up the echoes as they bounce off organs. A computer turns these echoes into an image on the screen.
+Ultrasound is often the first test done if a problem with the ovaries is suspected. It can be used to find an ovarian tumor and to check if it is a solid mass (tumor) or a fluid-filled cyst. It can also be used to get a better look at the ovary to see how big it is and how it looks inside. This helps the doctor decide which masses or cysts are more worrisome.
+Computed tomography (CT) scans
+The CT scan is an x-ray test that makes detailed cross-sectional images of your body. The test can help tell if ovarian cancer has spread to other organs.
+CT scans do not show small ovarian tumors well, but they can see larger tumors, and may be able to see if the tumor is growing into nearby structures. A CT scan may also find enlarged lymph nodes, signs of cancer spread to liver or other organs, or signs that an ovarian tumor is affecting your kidneys or bladder.
+CT scans are not usually used to biopsy an ovarian tumor (see biopsy in the section "Other tests"), but they can be used to biopsy a suspected metastasis (area of spread). For this procedure, called a CT-guided needle biopsy, the patient stays on the CT scanning table, while a radiologist moves a biopsy needle toward the mass. CT scans are repeated until the doctors are confident that the needle is in the mass. A fine needle biopsy sample (tiny fragment of tissue) or a core needle biopsy sample (a thin cylinder of tissue about ½ inch long and less than 1/8 inch in diameter) is removed and examined in the lab.
+Barium enema x-ray
+A barium enema is a test to see if the cancer has invaded the colon (large intestine) or rectum. This test is rarely used for women with ovarian cancer. Colonoscopy may be done instead.
+Magnetic resonance imaging (MRI) scans
+MRI scans also create cross-section pictures of your insides. But MRI uses strong magnets to make the images – not x-rays. A contrast material called gadolinium may be injected into a vein before the scan to see details better.
+MRI scans are not used often to look for ovarian cancer, but they are particularly helpful to examine the brain and spinal cord where cancer could spread.
+Chest x-ray
+An x-ray might be done to determine whether ovarian cancer has spread (metastasized) to the lungs. This spread may cause one or more tumors in the lungs and more often causes fluid to collect around the lungs. This fluid, called a pleural effusion, can be seen with chest x-rays as well as other types of scans.
+Positron emission tomography (PET) scan
+For a PET scan, radioactive glucose (sugar) is given to look for the cancer. Body cells take in different amounts of the sugar, depending on how fast they are growing. Cancer cells, which grow quickly, are more likely to take up larger amounts of the sugar than normal cells. A special camera is used to create a picture of areas of radioactivity in the body.
+The picture from a PET scan is not as detailed as a CT or MRI scan, but it provides helpful information about whether abnormal areas seen on these other tests are likely to be cancer or not.
+If you have already been diagnosed with cancer, your doctor may use this test to see if the cancer has spread to lymph nodes or other parts of the body. A PET scan can also be useful if your doctor thinks the cancer may have spread but doesn’t know where.
+PET/CT scan: Some machines can do both a PET and CT scan at the same time. This lets the doctor compare areas of higher radioactivity on the PET scan with the more detailed picture of that area on the CT scan.
+PET scans can help find cancer when it has spread, but are not used often to look for ovarian cancer.
+Other tests
+Laparoscopy
+This procedure uses a thin, lighted tube through which a doctor can look at the ovaries and other pelvic organs and tissues in the area. The tube is inserted through a small incision (cut) in the lower abdomen and sends the images of the pelvis or abdomen to a video monitor. Laparoscopy provides a view of organs that can help plan surgery or other treatments and can help doctors confirm the stage (how far the tumor has spread) of the cancer. Also, doctors can manipulate small instruments through the laparoscopic incision(s) to perform biopsies.
+Colonoscopy
+A colonoscopy is a way to examine the inside of the large intestine (colon). The doctor looks at the entire length of the colon and rectum with a colonoscope, a thin, flexible, lighted tube with a small video camera on the end. It is inserted through the anus and into the rectum and the colon. Any abnormal areas seen can by biopsied. This procedure is more commonly used to look for colorectal cancer.
+Biopsy
+The only way to determine for certain if a growth is cancer is to remove a piece of it and examine it in the lab. This procedure is called a biopsy. For ovarian cancer, the biopsy is most commonly done by removing the tumor during surgery.
+In rare cases, a suspected ovarian cancer may be biopsied during a laparoscopy procedure or with a needle placed directly into the tumor through the skin of the abdomen. Usually the needle will be guided by either ultrasound or CT scan. This is only done if you cannot have surgery because of advanced cancer or some other serious medical condition, because there is concern that a biopsy could spread the cancer.
+If you have ascites (fluid buildup inside the abdomen), samples of the fluid can also be used to diagnose the cancer. In this procedure, called paracentesis, the skin of the abdomen is numbed and a needle attached to a syringe is passed through the abdominal wall into the fluid in the abdominal cavity. Ultrasound may be used to guide the needle. The fluid is taken up into the syringe and then sent for analysis to see if it contains cancer cells.
+In all these procedures, the tissue or fluid obtained is sent to the lab. There it is examined by a pathologist, a doctor who specialize in diagnosing and classifying diseases by examining cells under a microscope and using other lab tests.
+Blood tests
+Your doctor will order blood count tests to make sure you have enough red blood cells, white blood cells and platelets (cells that help stop bleeding). There will also be tests to measure your kidney and liver function as well as your general health.
+The doctor will also order a CA-125 test. Women who have a high CA-125 level are often referred to a gynecologic oncologist, but any woman with suspected ovarian cancer should see a gynecologic oncologist, as well.
+Some germ cell cancers can cause elevated blood levels of the tumor markers human chorionic gonadotropin (HCG), alpha-fetoprotein (AFP), and/or lactate dehydrogenase (LDH). These may be checked if your doctor suspects that your ovarian tumor could be a germ cell tumor.
+Some ovarian stromal tumors cause the blood levels of a substance called inhibin and hormones such as estrogen and testosterone to go up. These levels may be checked if your doctor suspects that you have this type of tumor.
+Genetic counseling and testing if you have ovarian cancer
+If you have been diagnosed with an epithelial ovarian cancer, your doctor will likely recommend that you get genetic counseling and genetic testing for certain inherited gene changes, even if you do not have a family history of cancer. The most common mutations found are in the BRCA1 and BRCA2 genes, but some ovarian cancers are linked to mutations in other genes, such as ATM, BRIP1, RAD51C/RAD51D, MSH2, MLH1, MSH6, or PMS6. 
+Genetic testing to look for inherited mutations can be helpful in several ways 
+
+If you are found to have a gene mutation, you might be more likely to get other types of cancer as well. You might benefit from doing what you can to lower your risk of these cancers, as well as having tests to find them early.
+If you have a gene mutation, your family members (blood relatives) might also have it, so they can decide if they want to be tested to learn more about their cancer risk.
+If you have a BRCA1 or BRCA2 mutation, at some point you might benefit from treatment with targeted drugs called PARP inhibitors.
+Even if you do not have any of the gene mutations listed above, your tumor might be tested for some of these abnormal genes because it might give you more options for treatment.
+
+You may have heard about some home-based genetic tests. There is a concern that these tests are promoted by companies without giving full information. For example, a test for a small number of BRCA1 and BRCA2 gene mutations has been approved by the FDA. However, there are more than 1,000 known BRCA mutations, and the ones included in the approved test are not the most common ones. This means there are many BRCA mutations that would not be detected by this test.
+A genetic counselor or other qualified medical professional can help you understand the risks, benefits, and possible limits of what genetic testing can tell you. This can help you decide if testing is right for you, and which testing is best. 
+To learn more about genetic testing, see Should I Get Genetic Testing for Cancer Risk?
+Lab tests for gene or protein changes
+In some ovarian cancers, doctors might look for specific gene or protein changes in the cancer cells that could mean certain targeted or immunotherapy drugs might help treat the cancer. These tests can be done on a piece of the cancer taken during a biopsy or surgery for ovarian cancer.
+BRCA1 and BRCA2 gene mutations: BRCA genes are normally involved in DNA repair, and mutations in these genes can cause cells to grow out of control and turn into cancer. Ovarian cancers with BRCA gene mutations are more likely to be helped by treatment with targeted drugs called PARP inhibitors.
+Folate receptor-alpha (FR-alpha) testing: In many ovarian cancers, the cells have high levels of the FR-alpha protein on their surfaces. Testing for FR-alpha levels can show if the cancer is more likely to respond to treatment with a targeted drug such as mirvetuximab soravtansine (Elahere).
+MSI and MMR gene testing: Women who have clear cell, endometrioid, or mucinous ovarian cancer might have their tumor tested to see if it shows high levels of gene changes called microsatellite instability (MSI). Testing might also be done to see if the cancer cells have changes in any of the mismatch repair (MMR) genes (MLH1, MSH2, MSH6, and PMS2). 
+Changes in MSI or in MMR genes (or both) are often seen in people with Lynch syndrome (HNPCC). Up to 10% of all ovarian epithelial cancers have changes in these genes.
+There are 2 possible reasons to test ovarian cancers for MSI or for MMR gene changes:
+
+To identify patients who should be tested for Lynch syndrome. A diagnosis of Lynch syndrome can help determine if a person should have screenings for other types of cancer, such as endometrial or colon cancer. If a person does have Lynch syndrome, their relatives could also have it, and may want to be tested for it.
+To determine treatment options for ovarian cancer. Ovarian cancers that have certain MSI or MMR gene changes might be treated with certain immunotherapy drugs known as checkpoint inhibitors.
+
+NTRK gene mutations: Some ovarian cancers might be tested for changes in one of the NTRK genes. Cells with these gene changes can lead to abnormal cell growth and cancer. Larotrectinib (Vitrakvi) and entrectinib (Rozlytrek) are targeted drugs that stop the proteins made by the abnormal NTRK genes. The number of ovarian cancers that have this mutation is very small, but this may be an option for some women.After a woman is diagnosed with ovarian cancer, doctors will try to figure out if it has spread, and if so, how far. This process is called staging. The stage of a cancer describes how much cancer is in the body. It helps determine how serious the cancer is and how best to treat it. Doctors also use a cancer's stage when talking about survival statistics.
+Ovarian cancer stages range from stage I (1) through IV (4). As a rule, the lower the number, the less the cancer has spread. A higher number, such as stage IV, means cancer has spread more. Although each person’s cancer experience is unique, cancers with similar stages tend to have a similar outlook and are often treated in much the same way.
+One of the goals of surgery for ovarian cancer is to take tissue samples for diagnosis and staging. To stage the cancer, samples of tissues are taken from different parts of the pelvis and abdomen and examined in the lab.
+How is the stage determined?
+The 2 systems used for staging ovarian cancer, the FIGO (International Federation of Gynecology and Obstetrics) system and the AJCC (American Joint Committee on Cancer) TNM staging system are basically the same.
+They both use 3 factors to stage (classify) this cancer :
+
+The extent (size) of the tumor (T): Has the cancer spread outside the ovary or fallopian tube?  Has the cancer reached nearby pelvic organs like the uterus or bladder?
+The spread to nearby lymph nodes (N): Has the cancer spread to the lymph nodes in the pelvis or around the aorta (the main artery that runs from the heart down along the back of the abdomen and pelvis)? Also called para-aortic lymph nodes.
+The spread (metastasis) to distant sites (M): Has the cancer spread to fluid around the lungs (malignant pleural effusion) or to distant organs such as the liver or bones?
+
+Numbers or letters after T, N, and M provide more details about each of these factors. Higher numbers mean the cancer is more advanced. Once a person’s T, N, and M categories have been determined, this information is combined in a process called stage grouping to assign an overall stage.
+The staging system in the table below uses the pathologic stage (also called the surgical stage). It is determined by examining tissue removed during an operation. This is also known as surgical staging. Sometimes, if surgery is not possible right away, the cancer will be given a clinical stage instead. This is based on the results of a physical exam, biopsy, and imaging tests done before surgery. For more information see Cancer Staging. 
+The system described below is the most recent AJCC system effective January 2018. It is the staging system for ovarian cancer, fallopian tube cancer, and primary peritoneal cancer.
+Cancer staging can be complex, so ask your doctor to explain it to you in a way you understand.  
+
+
+
+AJCC Stage
+Stage grouping
+FIGO Stage
+Stage description*
+
+
+I
+T1 N0 M0
+I
+The cancer is only in the ovary (or ovaries) or fallopian tube(s) (T1). It has not spread to nearby lymph nodes (N0) or to distant sites (M0).
+
+
+IA
+T1a N0 M0
+IA
+The cancer is in one ovary, and the tumor is confined to the inside of the ovary; or the cancer is in one fallopian tube, and is only inside the fallopian tube. There is no cancer on the outer surfaces of the ovary or fallopian tube. No cancer cells are found in the fluid (ascites) or washings from the abdomen and pelvis (T1a). It has not spread to nearby lymph nodes (N0) or to distant sites (M0).
+
+
+IB
+  T1b N0 M0
+IB
+The cancer is in both ovaries or fallopian tubes but not on their outer surfaces. No cancer cells are found in the fluid (ascites) or washings from the abdomen and pelvis (T1b). It has not spread to nearby lymph nodes (N0) or to distant sites (M0).
+
+
+IC
+T1c N0 M0
+IC
+The cancer is in one or both ovaries or fallopian tubes and any of the following are present:
+
+The tissue (capsule) surrounding the tumor broke during surgery, which could allow cancer cells to leak into the abdomen and pelvis (called surgical spill). This is stage IC1.
+Cancer is on the outer surface of at least one of the ovaries or fallopian tubes or the capsule (tissue surrounding the tumor) has ruptured (burst) before surgery (which could allow cancer cells to spill into the abdomen and pelvis). This is stage IC2.
+Cancer cells are found in the fluid (ascites) or washings from the abdomen and pelvis. This is stage IC3.
+ It has not spread to nearby lymph nodes (N0) or to distant sites (M0).
+
+
+II  
+T2 N0 M0
+II
+The cancer is in one or both ovaries or fallopian tubes and has spread to other organs (such as the uterus, bladder, the sigmoid colon, or the rectum) within the pelvis or there is primary peritoneal cancer (T2). It has not spread to nearby lymph nodes (N0) or to distant sites (M0).
+
+
+IIA
+T2a N0 M0
+IIA
+The cancer has spread to or has invaded (grown into) the uterus or the fallopian tubes, or the ovaries. (T2a). It has not spread to nearby lymph nodes (N0) or to distant sites (M0).
+
+
+IIB
+T2b N0 M0
+IIB
+The cancer is on the outer surface of or has grown into other nearby pelvic organs such as the bladder, the sigmoid colon, or the rectum (T2b). It has not spread to nearby lymph nodes (N0) or to distant sites (M0).
+
+
+IIIA1
+T1 or T2 N1 M0
+IIIA1
+The cancer is in one or both ovaries or fallopian tubes, or there is primary peritoneal cancer (T1) and it may have spread or grown into nearby organs in the pelvis (T2). It has spread to the retroperitoneal (pelvic and/or para-aortic) lymph nodes only. It has not spread to distant sites (M0).
+
+
+IIIA2
+T3a N0 or N1 M0
+IIIA2
+The cancer is in one or both ovaries or fallopian tubes, or there is primary peritoneal cancer and it has spread or grown into organs outside the pelvis. During surgery, no cancer is visible in the abdomen (outside of the pelvis) to the naked eye, but tiny deposits of cancer are found in the lining of the abdomen when it is examined in the lab (T3a). The cancer might or might not have spread to retroperitoneal lymph nodes (N0 or N1), but it has not spread to distant sites (M0).
+
+
+IIIB
+T3b N0 or N1 M0
+IIIB
+There is cancer in one or both ovaries or fallopian tubes, or there is primary peritoneal cancer and it has spread or grown into organs outside the pelvis. The deposits of cancer are large enough for the surgeon to see, but are no bigger than 2 cm (about 3/4 inch) across. (T3b). It may or may not have spread to the retroperitoneal lymph nodes (N0 or N1), but it has not spread to the inside of the liver or spleen or to distant sites (M0).
+
+
+IIIC
+T3c N0 or N1 M0
+IIIC
+The cancer is in one or both ovaries or fallopian tubes, or there is primary peritoneal cancer and it has spread or grown into organs outside the pelvis. The deposits of cancer are larger than 2 cm (about 3/4 inch) across and may be on the outside (the capsule) of the liver or spleen (T3c). It may or may not have spread to the retroperitoneal lymph nodes (N0 or N1), but it has not spread to the inside of the liver or spleen or to distant sites (M0).
+
+
+IVA
+Any T Any N M1a
+IVA
+Cancer cells are found in the fluid around the lungs (called a malignant pleural effusion) with no other areas of cancer spread such as the liver, spleen, intestine, or lymph nodes outside the abdomen (M1a).
+
+
+IVB
+Any T Any N M1b
+IVB
+The cancer has spread to the inside of the spleen or liver, to lymph nodes other than the retroperitoneal lymph nodes, and/or to other organs or tissues outside the peritoneal cavity such as the lungs and bones (M1b).
+
+
+
+* The following additional categories are not described in the table above:
+
+TX: Main tumor cannot be assessed due to lack of information
+T0: No evidence of a primary tumor.
+NX: Regional lymph nodes cannot be assessed due to lack of information.Survival rates can give you an idea of what percentage of people with the same type and stage of cancer are still alive a certain amount of time (usually 5 years) after they were diagnosed. They can’t tell you how long you will live, but they may help give you a better understanding of how likely it is that your treatment will be successful.
+Keep in mind that survival rates are estimates and are often based on previous outcomes of large numbers of people who had a specific cancer, but they can’t predict what will happen in any particular person’s case. These statistics can be confusing and may lead you to have more questions. Ask your doctor how these numbers might apply to you. 
+What is a 5-year relative survival rate?
+A relative survival rate compares people with the same type and stage of cancer to people in the overall population. For example, if the 5-year relative survival rate for a specific stage of ovarian cancer is 80%, it means that people who have that cancer are, on average, about 80% as likely as people who don’t have that cancer to live for at least 5 years after being diagnosed.
+Where do these numbers come from?
+The American Cancer Society relies on information from the Surveillance, Epidemiology, and End Results (SEER) database, maintained by the National Cancer Institute (NCI), to provide survival statistics for different types of cancer.
+The SEER database tracks 5-year relative survival rates for ovarian cancer in the United States, based on how far the cancer has spread. The SEER database, however, does not group cancers by AJCC or FIGO stages (stage 1, stage 2, stage 3, etc.). Instead, it groups cancers into localized, regional, and distant stages:
+
+Localized: There is no sign that the cancer has spread outside of the ovaries.
+Regional: The cancer has spread outside the ovaries to nearby structures or lymph nodes.
+Distant: The cancer has spread to distant parts of the body, such as the liver or lungs.
+
+5-year relative survival rates for ovarian (or fallopian tube) cancer
+These numbers are based on people diagnosed with cancers of the ovary (or fallopian tube) between 2012 and 2018  These survival rates differ based on the type of ovarian cancer (invasive epithelial, stromal, or germ cell tumor).
+Invasive epithelial ovarian cancer
+
+
+
+SEER stage
+5-year relative survival rate
+
+
+Localized
+93%
+
+
+Regional
+75%
+
+
+Distant
+31%
+
+
+All SEER stages combined
+50%
+
+
+
+Ovarian stromal tumors
+
+
+
+SEER* stage
+5-year relative survival rate
+
+
+Localized
+97%
+
+
+Regional
+86%
+
+
+Distant
+70%
+
+
+All SEER stages combined
+89%
+
+
+
+Germ cell tumors of the ovary
+
+
+
+SEER stage
+5-year relative survival rate
+
+
+Localized
+97%
+
+
+Regional
+94%
+
+
+Distant
+71%
+
+
+All SEER stages combined
+92%
+
+
+
+Fallopian tube cancer
+
+
+
+SEER stage
+5-year relative survival rate
+
+
+Localized
+94%
+
+
+Regional
+53%
+
+
+Distant
+44%
+
+
+All SEER stages combined
+55%
+
+
+
+*SEER = Surveillance, Epidemiology, and End Results
+Understanding the numbers
+
+These numbers apply only to the stage of the cancer when it is first diagnosed. They do not apply later on if the cancer grows, spreads, or comes back after treatment.
+These numbers don’t take everything into account. Survival rates are grouped based on how far the cancer has spread. But other factors, such as your age and overall health, and how well the cancer responds to treatment, can also affect your outlook.
+People now being diagnosed with ovarian (or fallopian tube) cancer may have a better outlook than these numbers show. Treatments improve over time, and these numbers are based on people who were diagnosed and treated at least five years earlier.It is important for you to have honest, open discussions with your cancer care team. They want to answer all of your questions,  so that you can make informed treatment and life decisions. Here are some questions to consider:
+When you’re told you have ovarian cance﻿﻿r
+
+What type of ovarian cancer do I have?
+Has my cancer spread beyond the ovaries?
+What is the cancer’s stage (extent), and what does that mean?
+Will I need other tests before we can decide on treatment?
+Do I need to see any other doctors or health professionals?
+If I’m concerned about the costs and insurance coverage for my diagnosis and treatment, who can help me?
+Will I be able to have children after my treatment? 
+Should I think about genetic testing? What are my testing options? Should I take a home-based genetic test? What would the pros and cons of testing be?
+
+When deciding on a treatment pla﻿n
+
+What are my treatment options?
+What do you recommend and why?
+How much experience do you have treating this type of cancer?
+Should I get a second opinion? How do I do that? Can you recommend someone?
+What would the goal of the treatment be?
+How quickly do we need to decide on treatment?
+What should I do to be ready for treatment?
+How long will treatment last? What will it be like? Where will it be done?
+What risks or side effects are there to the treatments you suggest?
+Are there things I can do to reduce these side effects?
+How might treatment affect my daily activities? Can I still work full time?
+What are the chances the cancer will recur (come back) with these treatment plans?
+What will we do if the treatment doesn’t work or if the cancer recurs?
+What if I have transportation problems getting to and from treatment?
+
+During treatment
+Once treatment begins, you’ll need to know what to expect and what to look for. Not all of these questions may apply to you, but asking the ones that do may be helpful.
+
+How will we know if the treatment is working?
+Is there anything I can do to help manage side effects?
+What symptoms or side effects should I tell you about right away?
+How can I reach you on nights, holidays, or weekends?
+Do I need to change what I eat during treatment?
+Are there any limits on what I can do?
+Can I exercise during treatment? If so, what kind should I do, and how often?
+Can you suggest a mental health professional I can see if I start to feel overwhelmed, depressed, or distressed?
+What if I need social support during treatment because my family lives far away?
+
+After treatment
+
+Do I need a special diet after treatment?
+Are there any limits on what I can do?
+What other symptoms should I watch for?
+What kind of exercise should I do now?
+What type of follow-up will I need after treatment?
+How often will I need to have follow-up exams and imaging tests?
+Will I need any blood tests?
+How will we know if the cancer has come back? What should I watch for?
+What will my options be if the cancer comes back?
+
+Along with these sample questions, be sure to write down some of your own. For instance, you might want more information about recovery times. You may also want to ask about clinical trials for which you may qualify.Surgery is the main treatment for most ovarian cancers. How much surgery you have depends on how far your cancer has spread and on your general health. For women of childbearing age who have certain kinds of tumors and whose cancer is in the earliest stage, it may be possible to treat the disease without removing both ovaries and the uterus.
+Surgery for epithelial ovarian cancer
+For epithelial ovarian cancer, surgery has 2 main goals: staging and debulking. If your cancer isn’t properly staged and debulked, you may need to have more surgery later, so it’s important that this surgery is done by a specialist who’s trained and experienced in ovarian cancer surgery, like a gynecologic oncologist.
+Staging epithelial ovarian cancer
+The first goal of ovarian cancer surgery is to stage the cancer − to see how far the cancer has spread from the ovary. Usually this means removing the uterus (this operation is called a hysterectomy), along with both ovaries and fallopian tubes (this is called a bilateral salpingo-oophorectomy or BSO). In addition, the omentum is also removed (an omentectomy). The omentum is a layer of fatty tissue that covers the abdominal contents like an apron, and ovarian cancer sometimes spreads to this area. Some lymph nodes in the pelvis and abdomen might also be biopsied (taken out to see if the cancer has spread from the ovary).
+If there is fluid in the pelvis or abdominal cavity, it will be removed for testing. The surgeon may "wash" the abdominal cavity with salt water (saline) and send that fluid to the lab for testing. Biopsies may also be taken from different areas inside the abdomen and pelvis. All the tissue and fluid samples taken during the operation are sent to a lab to look for cancer cells. Staging is very important because ovarian cancers at different stages are treated differently. If the staging isn't done correctly, the doctor may not be able to decide on the best treatment.
+Debulking epithelial ovarian cancer
+The other important goal of ovarian cancer surgery is to remove as much of the tumor as possible − this is called debulking. Debulking is very important when ovarian cancer has already spread throughout the abdomen (belly) at the time of surgery. The aim of debulking surgery is to leave behind no visible cancer or no tumors larger than 1 cm (less than 1/2 an inch). This is called optimally debulked. Patients whose tumors have been optimally debulked, have a better outlook (prognosis) than those left with larger tumors after surgery (called sub-optimally debulked). 
+In some cases, other organs might be affected by debulking:
+
+Sometimes the surgeon will need to remove a piece of colon to debulk the cancer properly. In some cases, a piece of colon is removed and then the 2 ends that remain are sewn back together. In other cases, though, the ends can’t be sewn back together right away. Instead, the top end of the colon is attached to an opening (stoma) in the skin of the abdomen to allow body wastes to get out. This is known as a colostomy. Most often, this is only temporary, and the ends of the colon can be reattached later in another operation. For more information, see Colostomy Guide.
+Sometimes, a part of the small intestine may need to be removed. Just like with the colon, the small intestine can either be reconnected (which is most common) or an ileostomy might be made. This is usually temporary, but will need special care, so ask your doctor if this is a possibility before having surgery. See Ileostomy Guide to learn more.
+Debulking surgery might also mean removing a piece of the bladder. If this happens, a catheter (to empty the bladder) will be placed during surgery. This will be left in place until the bladder recovers enough to be able to empty on its own. Then, the catheter can be removed.
+Debulking might also require removing the spleen and/or the gallbladder, as well as part of the stomach, liver, and/or pancreas.
+
+If both ovaries and/or the uterus are removed, you will not be able to become pregnant. It also means that you will go into menopause if you haven’t done so already. Most women will stay in the hospital for 3 to 7 days after the operation and can resume their usual activities within 4 to 6 weeks.
+Intraoperative imaging
+To know where the ovarian cancer is in your body to remove it, the surgeon typically uses the imaging tests done before surgery as well as a bright light and feeling for the tumors during the operation. Still, some tumors that are not easily seen or felt by hand might be missed. To help find these tumors, intraoperative imaging might be used.
+This approach uses a special imaging system in the operating room during the surgery. A fluorescent drug called pafolacianine (Cytalux) will be injected into your blood a few hours before surgery. The drug travels through the body and attaches to a specific protein found on ovarian cancer cells. During surgery, the imaging system gives off near-infrared fluorescent light that will cause the drug to light up so the surgeon can see which areas need to be removed.
+The most common side effects from pafolacianine (Cytalux) are belly pain, heartburn, itching, chest pain, nausea, vomiting, and flushing.
+Your doctor will probably ask you to avoid taking any supplements that have folic acid in them for a few days before the procedure so they don’t disturb the test.
+Surgery for ovarian germ cell tumors and ovarian stromal tumors
+For germ cell tumors and stromal tumors, the main goal of surgery is to remove the cancer.
+Most ovarian germ cell tumors are treated with a hysterectomy and bilateral salpingo-oophorectomy. If the cancer is in only one ovary and you still want to be able to have children, only the ovary containing the cancer and the fallopian tube on the same side are removed (leaving behind the other ovary and fallopian tube and the uterus).
+Ovarian stromal tumors are often confined to just one ovary, so surgery may just remove that ovary. If the cancer has spread, more tissue may need to be removed. This could mean a hysterectomy and bilateral salpingo-oophorectomy and even debulking surgery.
+Sometimes, after child bearing is finished, surgery to remove the other ovary, the other fallopian tube, and the uterus may be recommended, for both germ cell and stromal ovarian tumors.Radiation therapy uses high energy x-rays or particles to kill cancer cells. These x-rays may be given in a procedure that is much like having a regular x-ray. Aggressive chemotherapy is usually more effective, so radiation therapy is rarely used in this country as the main treatment for ovarian cancer. However, it can be useful in treating areas where the cancer has spread, either near the main tumor or in a distant organ, like the brain or spinal cord.
+External beam radiation therapy
+This is the most common type of radiation therapy for women with ovarian cancer. External radiation therapy is much like getting an x-ray, but the radiation is stronger. A machine focuses the radiation on the area affected by the cancer. The procedure itself is painless. Each treatment lasts only a few minutes, but the setup time—getting you into place for treatment—usually takes longer. Treatments are given 5 days a week for several weeks.
+Some common side effects include:
+
+Skin changes – the skin in the treated area may look and feel sunburned or even blister and peel
+Fatigue (tiredness)
+Nausea and vomiting
+Diarrhea
+Vaginal irritation, sometimes with a discharge (if the pelvis is being treated)
+
+These side effects improve after treatment is stopped. Skin changes gradually fade, and the skin returns to normal in 6 to 12 months.
+If you are having side effects from radiation, tell your cancer care team. There may be ways to manage them.
+Brachytherapy
+Brachytherapy, also known as internal radiation, is another way to deliver radiation therapy. Instead of aiming radiation beams from outside the body, a device containing radioactive seeds or pellets is placed inside the body, near the cancer.  This is rarely done for ovarian cancer.Chemotherapy (chemo) is the use of drugs to treat cancer. Most often, chemo is a systemic treatment, meaning the drugs enter the bloodstream and reach almost all areas of the body. Chemo can be useful to kill very small amounts of cancer cells that may still be around after surgery, for cancers that have metastasized (spread), or to shrink very large tumors to make surgery easier. Most of the time, chemo uses drugs that are injected into a vein (IV) or given by mouth. In some cases, chemotherapy may also be injected through a catheter (thin tube) directly into the abdominal cavity. This is called intraperitoneal (IP) chemotherapy.
+Chemotherapy for epithelial ovarian cancer
+Chemo for ovarian cancer usually involves getting two different types of drugs together. Getting a combination of drugs instead of just one drug alone seems to work better as a first treatment for ovarian cancer. Usually, the combination includes a type of chemo drug called a platinum compound (usually cisplatin or carboplatin), and another type of chemo drug called a taxane, such as paclitaxel (Taxol®) or docetaxel (Taxotere®). These drugs are usually given as an IV (put into a vein) every 3 to 4 weeks.
+The typical course of chemo for epithelial ovarian cancer involves 3 to 6 cycles of treatment, depending on the stage and type of ovarian cancer. A cycle is a schedule of regular doses of a drug, followed by a rest period. Different drugs have varying cycles; your doctor will let you know what schedule is planned for your chemo.
+Epithelial ovarian cancer often shrinks or even seems to go away with chemo, but the cancer cells may eventually begin to grow again. If the first chemo seemed to work well and the cancer stayed away for at least 6 to 12 months, it can be treated with the same chemotherapy used the first time. In some cases, different drugs may be used.
+Some of the other chemo drugs that are helpful in treating ovarian cancer include:
+
+Albumin bound paclitaxel (nab-paclitaxel, Abraxane®)
+Altretamine (Hexalen®)
+Capecitabine (Xeloda®)
+Cyclophosphamide (Cytoxan®)
+Etoposide (VP-16)
+Gemcitabine (Gemzar®)
+Ifosfamide (Ifex®)
+Irinotecan (CPT-11, Camptosar®)
+Liposomal doxorubicin (Doxil®)
+Melphalan
+Pemetrexed (Alimta®)
+Topotecan
+Vinorelbine (Navelbine®)
+
+
+Intraperitoneal (IP) chemotherapy
+For women who have stage III ovarian cancer (cancer that has not spread outside the abdomen) and whose cancers were optimally debulked (no tumors larger than 1 cm after surgery), intraperitoneal (IP) chemotherapy might be given in addition to systemic chemo (paclitaxel given in a vein).
+In IP chemotherapy, the drugs cisplatin and paclitaxel are injected into the abdominal cavity through a catheter (thin tube). The tube can be placed during the staging/debulking surgery, but sometimes it is placed later. If it is done later, it can be placed by a surgeon using laparoscopy, or by an interventional radiologist under x-ray guidance. The catheter is usually connected to a port, a half dollar-sized disk topped with a pliable diaphragm. The port is placed under the skin against a bony structure of the abdominal wall, such as a rib or pelvic bone. A needle can be placed through the skin and into the port to give chemo and other drugs. Over time, problems may occur with the catheter (for example, it might become plugged or infected), but this is rare. .
+Giving chemo this way gives the most concentrated dose of the drugs directly to the cancer cells in the abdominal cavity. This chemo also gets absorbed into the bloodstream and so can reach cancer cells outside the abdominal cavity. IP chemotherapy seems to help some women live longer than IV chemo alone, but the side effects are often more severe. Women getting IP chemotherapy might have more abdominal pain, nausea, vomiting, and other side effects, which might make some women stop their treatment early. The risk of side effects also means a woman must have normal kidney function and be in good overall heath before starting IP chemo. Women also cannot have a lot of adhesions or scar tissue inside their abdomen (belly) because this can keep the chemo from reaching all the exposed cancer cells.
+Chemotherapy for germ cell tumors
+If you have a germ cell tumor, you will likely be treated with combination chemo (several different drugs at once). The combination used most often is called BEP, and includes the chemotherapy drugs bleomycin, etoposide and cisplatin (Platinol). If the cancer is a dysgerminoma, these are usually very sensitive to chemotherapy, and can sometimes be treated with the less toxic combination of carboplatin and etoposide. Other drug combinations may be used if the cancer isn’t responding to treatment or to treat cancer that has recurred (come back). These include:
+
+High dose chemotherapy (the exact drugs used can vary depending on what cancer center is giving the treatment)
+TIP (paclitaxel/Taxol, ifosfamide, and cisplatin/Platinol)
+VeIP (vinblastine, ifosfamide, and cisplatin/Platinol)
+VIP (etoposide/VP-16, ifosfamide, and cisplatin/Platinol)
+VAC (vincristine, dactinomycin, and cyclophosphamide)
+
+Chemotherapy for stromal tumors
+Ovarian stromal tumors are not often treated with chemotherapy, but when they are, the combination of carboplatin plus paclitaxel or PEB (cisplatin/Platinol, etoposide, and bleomycin) is used most often.
+Side effects of chemotherapy
+Chemo drugs can cause side effects. These depend on the type and dose of drugs given, and the length of treatment. Some of the most common possible side effects include:
+
+Nausea and vomiting
+Loss of appetite
+Loss of hair
+Hand and foot rashes
+Mouth sores
+
+Chemo can also affect the blood-forming cells of the bone marrow, which can lead to:
+
+Increased chance of infections (from low white blood cell counts, also called leukopenia)
+Easy bruising or bleeding (from low blood platelet counts. also called thrombocytopenia)
+Fatigue (from low red blood cell counts and other reasons, also called anemia)
+
+These side effects usually go away after treatment is finished. While you are in treatment, tell your cancer care team about any side effects you are having. There are often ways to lessen these side effects. For example, drugs can be given to help prevent or reduce nausea and vomiting.
+Some chemo drugs may have long-term or even permanent side effects:
+
+Cisplatin can cause kidney damage. To help prevent this, doctors give lots of IV fluid before and after this drug is given.
+Both cisplatin and the taxanes can cause nerve damage (called neuropathy). This can lead to problems with numbness, tingling, or even pain in the hands and feet.
+Cisplatin can also damage the nerves to the ear, which can lead to hearing loss (called ototoxicity).
+Chemo can also cause early menopause and infertility (being unable to become pregnant), which may be permanent. This is rarely an issue in the treatment of epithelial ovarian cancer, since most women have both ovaries removed as a part of treatment.
+Rarely, some chemo drugs can permanently damage bone marrow. This can later cause a bone marrow cancer such as myelodysplastic syndrome or even acute myeloid leukemia. This is called a second cancer. Your health care team knows which drugs can cause this problem and will discuss this possibility with you. Their positive effects against ovarian cancer offset the small chance that any of these drugs will cause another cancer.
+Ifosfamide can cause irritation and bleeding of the bladder lining (hemorrhagic cystitis). This can usually be prevented by giving the drug mesna with the ifosfamide.
+
+Other drugs can have other side effects, so ask your doctor what side effects to expect from the drugs that you will receive. Most side effects improve once treatment is stopped, but some can last a long time and may never go away completely.Hormone therapy is the use of hormones or hormone-blocking drugs to fight cancer. This type of systemic therapy is rarely used to treat epithelial ovarian cancer, but is more often used to treat ovarian stromal tumors.
+Luteinizing-hormone-releasing hormone (LHRH) agonists
+LHRH agonists (sometimes called GnRH agonists) switch off estrogen production by the ovaries. These drugs are used to lower estrogen levels in women who are premenopausal. Examples of LHRH agonists include goserelin (Zoladex®) and leuprolide (Lupron®). These drugs are injected every 1 to 3 months. Side effects can include any of the symptoms of menopause, such as hot flashes and vaginal dryness. If they are taken for a long time (years), these drugs can weaken bones (sometimes leading to osteoporosis).
+Tamoxifen
+Tamoxifen is a drug that is often used to treat breast cancer. It can also be used to treat ovarian stromal tumors and is rarely used to treat advanced epithelial ovarian cancer. Tamoxifen acts as an anti-estrogen in many tissues in the body, but as a weak estrogen in others. The goal of tamoxifen therapy is to keep any estrogens circulating in the woman’s body from stimulating cancer cell growth. The anti-estrogen activity of this drug can lead to side effects like hot flashes and vaginal dryness. Because tamoxifen acts like a weak estrogen in some areas of the body, it does not cause bone loss but can increase the risk of serious blood clots in the legs.
+Aromatase inhibitors
+Aromatase inhibitors are drugs that block an enzyme (called aromatase) that turns other hormones into estrogen in post-menopausal women. They don’t stop the ovaries from making estrogen, so they are only helpful in lowering estrogen levels in women after menopause. These drugs are mainly used to treat breast cancer, but can also be used to treat some ovarian stromal tumors that have come back after treatment as well as low grade serous carcinomas. They include letrozole (Femara®), anastrozole (Arimidex®), and exemestane (Aromasin®). These drugs are taken as pills once a day.
+Common side effects of aromatase inhibitors include hot flashes, joint and muscle pain, and bone thinning. The bone thinning can lead to osteoporosis and bones that break easily.Targeted therapy is a type of cancer treatment that uses drugs to attack parts of cancer cells that make them different from normal, healthy cells. Each type of targeted therapy works differently, but they all change the way a cancer cell grows, divides, repairs itself, or interacts with other cells.
+Bevacizumab
+Bevacizumab (Avastin, other names) belongs to a class of drugs called angiogenesis inhibitors. For cancers to grow and spread, they need to make new blood vessels to nourish themselves (called angiogenesis). This drug attaches to a protein called VEGF (that signals new blood vessels to form) and slows or stops cancer growth.
+Bevacizumab has been shown to shrink or slow the growth of advanced epithelial ovarian cancers. Bevacizumab appears to work even better when given along with chemotherapy having shown good results in terms of shrinking (or stopping the growth of) tumors. But it doesn’t seem to help women live longer.
+Bevacizumab can also be given with olaparib (see below) as maintenance treatment in women whose cancers have a BRCA gene mutation or genomic instability (see below) and have shrunk quite a bit with chemotherapy containing carboplatin or cisplatin.
+This drug is given as an infusion into the vein (IV) every 2 to 3 weeks.
+Side effects of bevacizumab
+Common side effects can include high blood pressure, tiredness, bleeding, low white blood cell counts, headaches, mouth sores, loss of appetite, and diarrhea.
+Rare but possibly serious side effects can include blood clots, severe bleeding, slow wound healing, holes forming in the colon (called perforations), and the formation of abnormal connections between the bowel and the skin or bladder (fistulas). If a perforation or fistula occurs it can lead to severe infection and may require surgery to correct.
+PARP inhibitors
+Olaparib (Lynparza), rucaparib (Rubraca), and niraparib (Zejula) are drugs known as a PARP (poly(ADP)-ribose polymerase) inhibitors. PARP enzymes normally help repair damaged DNA inside cells. The proteins made by the BRCA genes (BRCA1 and BRCA2) also normally help repair DNA, but in a different way. Mutations in BRCA genes can make it hard for a cell to repair its DNA. PARP inhibitors can make it even harder for tumor cells with an abnormal BRCA gene to repair damaged DNA, which often leads to the death of these cells.
+If you are not known to have a BRCA mutation, your doctor might test your blood or saliva and your tumor to be sure you have one before starting treatment with one of these drugs.
+All of these drugs are taken daily by mouth, as pills or capsules.
+Olaparib (Lynparza) is used to treat advanced ovarian cancer, typically after chemotherapy has been tried. This drug can be used in patients with or without mutations in one of the BRCA genes.
+In women with a BRCA mutation:
+
+Olaparib can be used as maintenance treatment for advanced ovarian cancer that has gotten smaller in response to first treatment with chemotherapy containing cisplatin or carboplatin.
+Olaparib can be used with bevacizumab (see above) as maintenance treatment in women whose cancers have shrunk quite a bit with chemotherapy containing carboplatin or cisplatin.
+
+In women without a BRCA mutation:
+
+If the tumor has a high genomic instability score (a test measuring the amount of abnormal genes in cancer cells), olaparib can be used with bevacizumab as maintenance treatment in women whose cancers have shrunk quite a bit with chemotherapy containing carboplatin or cisplatin.
+
+In women with or without a BRCA mutation:
+
+Olaparib can be used as maintenance treatment for advanced ovarian cancer that has come back after treatment, and then has shrunk in response to chemotherapy containing cisplatin or carboplatin.
+
+Niraparib (Zejula) may be used in some situations to treat ovarian cancer.
+In women with or without a BRCA gene mutation:
+
+Niraparib might be used as maintenance treatment for advanced ovarian cancer, where the cancer has shrunk with first-line chemotherapy containing cisplatin or carboplatin.
+
+In women with a BRCA gene mutation:
+
+Niraparib might be used as maintenance treatment for advanced ovarian cancer that has come back after treatment, where the cancer has then shrunk with chemotherapy containing cisplatin or carboplatin.
+
+Rucaparib (Rubraca) can be used in women with or without a BRCA mutation, as maintenance treatment for advanced ovarian cancer that has come back after treatment, and then has shrunk in response to chemotherapy containing cisplatin or carboplatin.
+These drugs have been shown to help shrink or slow the growth of some advanced ovarian cancers for a time. So far, though, it's not clear if they can help women live longer.
+Side effects of PARP inhibitors
+Side effects of these drugs can include nausea, vomiting, diarrhea, fatigue, loss of appetite, taste changes, low red blood cell counts (anemia), belly pain, and muscle and joint pain.
+Rarely, some patients treated with these drugs have developed a blood cancer, such as myelodysplastic syndrome or acute myeloid leukemia. 
+Drugs that target folate receptor-alpha
+In many ovarian cancers, the cells have high levels of the folate receptor-alpha (FR-alpha) protein on their surfaces. Drugs that target this protein might be an option to treat these cancers.
+Mirvetuximab soravtansine (Elahere) is an antibody-drug conjugate (ADC), which is a lab-made antibody linked to a chemotherapy drug. Once it's in the body, the antibody acts like a homing device by attaching to the FR-alpha protein on cancer cells, which brings the chemo directly to them.
+This drug can be used to treat epithelial ovarian cancer that tests positive for FR-alpha and that is no longer responding to platinum chemotherapy drugs such as cisplatin or carboplatin.
+This drug is infused into a vein (through an IV line or central venous catheter), typically once every 3 weeks. Before each treatment, you’ll get medicines to help prevent infusion reactions, nausea, and vomiting.
+Side effects of mirvetuximab soravtansine
+Common side effects of this drug can include nausea and vomiting, diarrhea or constipation, feeling tired, belly pain, low blood cell counts, and changes in mineral levels in the blood.
+This drug can cause eye problems, which can sometimes be serious. Problems can include blurred vision, dry eyes, light sensitivity, eye pain, or vision changes. You’ll need an eye exam before being treated with this drug, and your doctor will prescribe eye drops for you to use before and during your treatment. Tell your doctor or nurse right away if you develop any eye problems.
+This drug can cause serious lung disease in some people, which might even be life threatening. It’s very important to let your doctor or nurse know right away if you’re having symptoms such as coughing, trouble breathing, or chest pain.
+This drug can also cause nerve damage (peripheral neuropathy), which can lead to numbness, tingling, or weakness in the hands or feet.
+Drugs that target cells with NTRK gene changes
+A very small number of ovarian cancers have changes in one of the NTRK genes. Cells with these gene changes can lead to abnormal cell growth and cancer. Larotrectinib (Vitrakvi) and entrectinib (Rozlytrek) are targeted drugs that stop the proteins made by the abnormal NTRK genes. These drugs can be used in people with advanced ovarian cancer whose tumor has an NTRK gene change and is still growing despite other treatments.
+These drugs are taken as pills, once or twice a day.
+Side effects of drugs that target NTRK gene changes
+Common side effects can include dizziness, fatigue, nausea, vomiting, constipation, weight gain, and diarrhea.
+Less common but serious side effects can include abnormal liver tests, heart problems, and confusion.Immunotherapy is the use of medicines to stimulate a person’s own immune system to recognize and destroy cancer cells more effectively.  
+Immune checkpoint inhibitors
+An important part of the immune system is its ability to keep itself from attacking normal cells in the body. To do this, it uses “checkpoints” – proteins on immune cells that need to be turned on (or off) to start an immune response. Cancer cells sometimes use these checkpoints to avoid being attacked by the immune system. But drugs that target these checkpoints can be used to treat some people with ovarian cancer.
+
+Pembrolizumab (Keytruda) targets PD-1, a protein on certain immune cells (called T cells) that normally helps keep these cells from attacking other cells in the body. By blocking PD-1, these drugs boost the immune response against cancer cells. This can shrink some tumors or slow their growth.
+
+Pembrolizumab can be used in people with certain types of advanced ovarian cancer that have high levels of MSI or changes in the MMR genes whose cancer starts growing after chemotherapy or other drug treatments. 
+This immunotherapy drug is given as an intravenous (IV) infusion every 3 weeks.
+Possible side effects of immunotherapy
+Side effects of these drugs can include fatigue, cough, nausea, itching, skin rash, loss of appetite, constipation, joint pain, and diarrhea.
+Other, more serious side effects occur less often.
+Infusion reactions: Some people might have an infusion reaction while getting these drugs. This is like an allergic reaction, and can include fever, chills, flushing of the face, rash, itchy skin, feeling dizzy, wheezing, and trouble breathing. It’s important to tell your doctor or nurse right away if you have any of these symptoms while getting these drugs.
+Autoimmune reactions: These drugs work by basically removing one of the safeguards on the body’s immune system. Sometimes the immune system starts attacking other parts of the body, which can cause serious or even life-threatening problems in the lungs, intestines, liver, hormone-making glands, kidneys, or other organs.
+It’s very important to report any new side effects to your health care team as soon as possible. If serious side effects do occur, treatment may need to be stopped and you may get high doses of corticosteroids to suppress your immune system.The first step in treating most ovarian cancers is surgery to remove and stage the cancer. Debulking is also done as needed. (See Surgery for Ovarian Cancer.) Because fallopian tube and primary peritoneal cancers have the same staging system as ovarian cancers they are included in this section.
+Stage I cancers
+The initial treatment for stage I ovarian cancer is surgery to remove the tumor. Most often the uterus, both fallopian tubes, and both ovaries are removed (a hysterectomy with bilateral salpingo-oophorectomy). The treatment after surgery depends on the sub-stage of the cancer.
+Stages IA and IB (T1a or T1b, N0, M0): The treatment after surgery depends on the way the cancer cells look in the lab (called the tumor grade).
+
+For grade 1 (also called low grade) tumors, most women don't need any treatment after surgery. Women who want to be able to have children after treatment might be given the option of having an initial surgery that removes only the ovary containing the cancer along with the fallopian tube on the same side.
+For grade 2 (high grade) tumors, patients are either watched closely after surgery without further treatment, or they are treated with chemotherapy (chemo). The chemo used most often is carboplatin and paclitaxel (Taxol) for 3-6 cycles, but cisplatin can be used instead of carboplatin, and docetaxel (Taxotere) can be used instead of paclitaxel.
+For grade 3 (high grade) tumors, the treatment usually includes the same chemotherapy that is given for grade 2 Stage IA and IB cancers.
+
+Stage IC (T1c, N0, M0): Standard surgery to remove the cancer is still the first treatment. After surgery, chemo is recommended, usually with 3 to 6 cycles of treatment with carboplatin and paclitaxel.
+Stage I fallopian tube and primary peritoneal cancers are treated the same way as stage I ovarian cancer.
+Stage II cancers
+For stage II (including IIA and IIB) cancers, treatment starts with surgery for staging and debulking. This includes a hysterectomy and bilateral salpingo-oophorectomy. The surgeon will try to remove as much of the tumor as possible.
+After surgery, chemo is recommended for at least 6 cycles. The combination of carboplatin and paclitaxel is used most often. Some women with stage II ovarian cancer are treated with intraperitoneal (IP) chemotherapy instead of intravenous (IV) chemotherapy.
+Stage II fallopian tube and primary peritoneal cancers are also treated with surgery for staging and debulking, followed by chemo.
+Stage III cancers
+Stage III cancers (including IIIA1, IIIA2, IIIB, and IIIC) are generally treated similarly to stage II cancers.
+First, the cancer is surgically staged and the tumor is debulked (like stage II). The uterus, both fallopian tubes, both ovaries, and omentum (fatty tissue from the upper abdomen near the stomach and intestines) are removed. The surgeon will also try to remove as much tumor as possible. The goal is to leave behind no visible tumor or no tumor larger than 1 cm. When this goal is reached, the cancer is said to have been optimally debulked. Sometimes tumor is growing on the intestines, and in order to remove the cancer, part of the intestine will have to be removed. Sometimes pieces of other organs (like the bladder or liver) may also have to be removed to take out the cancer. The smaller the remaining tumor, the better the outlook will be.
+After recovery from surgery, combination chemo is given. The combination used most often is carboplatin (or cisplatin) and a taxane, such as paclitaxel (Taxol), given IV (into a vein) for 6 cycles. The targeted drug bevacizumab (Avastin) might be given along with chemo as well. (If it is, it’s typically continued alone after chemo for up to about a year.) 
+Another option is to give intra-abdominal (intraperitoneal or IP) chemo along with intravenous (IV) chemo, after surgery. IP chemo is usually only considered if the cancer was optimally debulked − it may not work as well if a lot of tumor is left in the abdomen.
+After surgery, and during and after chemo, blood tests checking for the CA-125 tumor marker will be done to see how well the treatment is working. A CT scan, PET-CT scan, or MRI might also be done.
+For women who are not healthy enough to have full staging and debulking surgery, chemo might be given as the first treatment. If the chemo works and the woman becomes stronger, surgery to debulk the cancer may be done, often followed by more chemo. Most often, 3 cycles of chemo are given before surgery, with at least 3 more after surgery (for a total of at least 6 cycles). Giving chemo before surgery is also sometimes an option for some women with advanced cancers that aren’t likely to be optimally debulked if surgery is done first.
+Maintenance therapy: If the cancer shrinks a lot or appears to be gone after chemotherapy that includes a platinum drug (cisplatin or carboplatin), doctors might recommend additional treatment for some women. This is called maintenance therapy. It is aimed at killing any cancer cells that were left behind after treatment but are too small to be seen on tests. The goal of maintenance therapy is to keep the cancer from coming back. Drugs that might be used include bevacizumab, niraparib, rucaparib, and olaparib.
+Stage IV cancers
+In stage IV, the cancer has spread to distant sites, like the liver, the lungs, or bones. These cancers are very hard to cure with current treatments, but they can still be treated. The goals of treatment are to help patients feel better and live longer.
+Stage IV can be treated like stage III, with surgery to remove the tumor and debulk the cancer, followed by chemo (and possibly the targeted drug bevacizumab [Avastin]). (If bevacizumab is given, it might be continued alone after chemo or with olaparib.)
+Another option is to treat with chemo first. Then, if the tumors shrink from the chemo, surgery may be done, followed by more chemo. Most often, 3 cycles of chemo are given before surgery, with at least 3 more after surgery. 
+Maintenance therapy: If the cancer shrinks a lot or appears to be gone after chemotherapy that includes a platinum drug (cisplatin or carboplatin), doctors might recommend additional treatment for some women. This maintenance therapy is aimed at killing any cancer cells that were left behind after treatment. The goal of maintenance therapy is to keep the cancer from coming back. Drugs that might be used include bevacizumab, niraparib, rucaparib, and olaparib.
+Another option is to limit treatments to those aimed at improving comfort (but not at fighting the cancer). This type of treatment is called palliative.
+Recurrent or persistent ovarian cancer
+Cancer is called recurrent when it come backs after treatment. Recurrence can be local (in or near the same place it started) or distant (spread to organs like the lungs or bone). Persistent tumors are those that never went away completely after treatment. Advanced epithelial ovarian cancer often comes back months or years after the initial treatment.
+Sometimes, more surgery is recommended. Most women with recurrent or persistent ovarian cancer are treated with some form of chemo. Which chemo drugs are used depends on what was used the first time and how well it worked (how long the cancer stayed away). The longer it takes for the cancer to come back after treatment, the better the chance that additional chemo will work. If it has been at least 6 months since any chemo, carboplatin and paclitaxel are often used (even if these drugs were given before). Giving carboplatin with another drug is also an option.
+If the cancer comes back in less than 6 months (or if it never went away at all), different chemo drugs usually will be tried. There are many different chemo drugs that can be used to treat ovarian cancer, so some women may receive several different chemo regimens over several years.
+Treatment with targeted drugs might also be helpful. For example, bevacizumab (Avastin) may be given with chemo. A PARP inhibitor drug such as olaparib (Lynparza), rucaparib (Rubraca), or niraparib (Zejula) may also be an option at some point. The antibody-drug conjugate mirvetuximab soravtansine (Elahere) might also be an option in some cases.
+In addition, some women benefit from hormonal treatment with drugs like anastrozole, letrozole, or tamoxifen.
+Someone who didn't initially receive chemo can be treated with the same drugs that are used for newly diagnosed cancer − usually carboplatin and paclitaxel.
+A clinical trial for new treatments might provide important advantages for women with recurrent or persistent ovarian cancer. Ask your cancer care team for information about suitable clinical trials for your type of cancer.
+Palliative treatments
+Palliative treatments are used to relieve the symptoms of ovarian cancer.
+Women with ovarian cancer can have a buildup of fluid in the abdomen. This is called ascites. It can be very uncomfortable but can be treated with a procedure called paracentesis. After the skin is numbed, a needle is used to withdraw the fluid, often several quarts, into a bottle. Often, ultrasound is used to guide the needle. Often the fluid builds up again, and this procedure needs to be repeated. Sometimes a catheter (a thin flexible tube) is placed into the abdomen and left there so that fluid can be removed as often as is needed without using a needle. Another option is to inject chemo directly into the abdomen to slow the buildup of fluid. Treatment with bevacizumab (Avastin) may also help slow fluid buildup. These treatments can relieve symptoms for some women and, rarely, might help some women live longer. Often, however, their effects are temporary, and the cancer returns or persists.
+Ovarian cancer can also block the intestinal tract. This is called obstruction, and can cause abdominal pain, nausea, and vomiting. Dealing with an intestinal blockage can be difficult. There are several procedures that might be done, depending on the type of obstruction and your overall health:
+
+Doctors may place a tube through the skin and into the stomach to allow the stomach juices to drain, so that the digestive tract isn’t completely blocked.
+Sometimes a stent (a stiff tube) can be put into the large intestine to relieve a blockage. Since this option has a high risk of complications, you should discuss the risks and benefits with your doctor first.
+For some women, surgery can be done to relieve intestinal obstruction. This is usually only done if you are well enough to get additional treatments (like chemo) after surgery. Often, however, the cancer has grown so much in the abdomen that surgery to unblock the intestine doesn't work.Borderline epithelial tumors are also known as atypical proliferating tumors and used to be called low malignant potential tumors. These tumors look the same as invasive epithelial ovarian cancers when seen on an ultrasound or CT scan. Doctors can't be sure whether a tumor is invasive or borderline until a biopsy sample has been taken (usually during surgery) and checked in a lab.
+Surgery for borderline tumors is similar to the surgery for invasive ovarian cancer, with the goals of removing the tumor along with full staging and debulking.
+
+For women who have finished having children, the uterus, both fallopian tubes, and both ovaries are removed. Surgical staging is done to see if the tumor has spread outside the ovary or pelvis. Sometimes, this means removing the omentum and some lymph nodes, and doing washings of the abdomen and pelvis.
+For women who want to be able to become pregnant in the future, only the ovary with the tumor and the fallopian tube on that side is removed. Rarely, just the part of the ovary containing the tumor is removed. These women still should have surgical staging to see if the tumor has spread. If the tumor is only in one ovary, the woman is usually observed without further treatment and monitored with ultrasound exams.
+
+For tumors that haven't spread outside the ovary, Chemotherapy (chemo) and radiation therapy are not generally the first treatments used. Observation is often recommended for borderline tumors because they grow very slowly and even when they spread they are rarely fatal.
+If the tumor has spread outside the ovary when it is first diagnosed, the surgeon will remove as much of it as possible (debulking). Treatment after surgery depends on whether the spread is invasive or not. When borderline tumors spread, the can form tumor implants (deposits) on the peritoneum (lining of the abdomen) and on the surface of organs in the abdomen and pelvis. Most often, these implants are non-invasive, meaning they haven't grown into the abdominal lining or organs.
+
+For women with non-invasive spread from a borderline tumor, chemo has not been shown to be helpful after debulking surgery. These women are usually watched closely without further treatment.
+For women whose tumor implants are invasive, chemo may be an option, but the benefit from chemo for these cancers is unclear. When chemo is used, it is usually the same as chemo given for invasive ovarian cancer.
+
+If the tumor comes back after initial surgery, further debulking surgery might be considered. Chemo and, rarely, radiation therapy are also options for recurrent borderline tumors.Treating benign germ cell tumors
+Women with benign (non-cancerous) germ cell tumors such as mature teratomas (dermoid cysts) are cured by removing the part of the ovary that has the tumor (ovarian cystectomy) or by removing the entire ovary.
+Treating malignant germ cell tumors
+As with epithelial ovarian cancers, it is a good idea to consult with a gynecologic oncologist for treating malignant germ cell tumors, especially because these are so uncommon. About 2-3% of all ovarian cancers are germ cell tumors.
+For most types and stages of germ cell cancers
+Most types and stages of germ cell cancers of the ovary are treated the same way, with surgery and chemotherapy (chemo).
+Surgery: In general, all women with malignant germ cell tumors will have the same staging surgery that is done for epithelial ovarian cancer. For women who still want to be able to have children, the cancerous ovary and the fallopian tube on the same side are removed, but the uterus, the ovary, and the fallopian tube on the opposite side are left behind. This isn’t an option when the cancer is in both ovaries. If preserving fertility is not a concern, complete staging including removing both ovaries, both fallopian tubes, and the uterus is generally recommended.
+Sometimes, the doctor might consider removing only a part of one ovary to allow a woman to keep her ovarian function. Even when both ovaries need to be removed, a woman may wish to keep her uterus to allow future pregnancy through the use of in-vitro fertilization.
+If cancer has spread beyond the ovaries , debulking surgery may be done as a part of the initial surgery. This removes as much cancer as possible without damaging or removing essential organs.
+Chemotherapy: Most women with germ cell cancer will need to be treated with combination chemo for at least 3 cycles. The combination used most often is PEB (or BEP), and includes the chemo drugs cisplatin, etoposide, and bleomycin. Dysgerminomas are usually very sensitive to chemo, and can sometimes be treated with the less toxic combination of carboplatin and etoposide. Other drug combinations may be used to treat cancer that has recurred (come back) or hasn't responded to treatment.
+Germ cell cancers can raise blood levels of the tumor markers human chorionic gonadotropin (HCG), alpha-fetoprotein (AFP), and/or lactate dehydrogenase (LDH). If the blood levels of these are high before treatment starts, they are rechecked during chemo (usually before each cycle). If the chemo is working, the levels will go down. If the levels stay up, it might be a sign that a different treatment is needed.
+Stage IA dysgerminoma
+If dysgerminoma is limited to one ovary, surgery to remove that ovary and the fallopian tube on the same side might be the only treatment needed, without chemo after surgery. This approach requires close follow-up so that if the cancer comes back it can be found early and treated. Most women in this stage are cured with surgery and never need chemo.
+Grade 1 immature teratoma
+A grade 1 immature teratoma is made up mostly of non-cancerous tissue, and only a few cancerous areas are seen. These tumors rarely come back after being removed. If careful staging has determined that a grade 1 immature teratoma is limited to one or both ovaries, surgery to remove the ovary or ovaries containing the cancer and the fallopian tube or tubes might be the only treatment needed.
+Treating recurrent or persistent germ cell tumors
+Recurrent tumors are those that come back after initial treatment. Persistent tumors are those that never disappeared even after treatment. Sometimes increased blood levels of the tumor markers HCG and AFP will be the only sign that a germ cell cancer is still there (or has come back). Other times a definite tumor might be seen and removed by surgery.
+Treatment for recurrent or persistent germ cell tumors might include surgery, chemo or, rarely, radiation therapy. For chemo, a combination of drugs is used most often. PEB (cisplatin, etoposide, and bleomycin) may be used if this combination of drugs was not used before. For women who have already been treated with PEB, other drug combinations are used.
+For recurrent or persistent germ cell cancer, a clinical trial for new treatments may provide important advantages. Ask your cancer care team for information about clinical trials for your type of cancer.Stage I
+All stage I stromal tumors are treated with surgery to remove the ovary with the tumor. Most women with stage I tumors are watched closely after the operation and don’t require further treatment. However, some stage I tumors are more likely to come back after surgery, for example:
+
+Very large tumors
+Tumors where the cyst broke open (ruptured)
+Poorly-differentiated tumors (also called high grade − the cancer cells don’t look like normal tissue when examined in the lab).
+
+These cancers are said to be at high risk for recurrence. Women with high-risk stage I stromal cancers have 2 options after surgery: observation (being watched closely) or chemotherapy (chemo).
+Stages II, III, and IV
+These cancers are treated with surgery to remove the ovary with the tumor. Surgery is also used to stage and debulk the cancer, as needed. This may be followed by chemo or hormone therapy. Often, the chemo used is the same type used to treat germ cell tumors (PEB: cisplatin, etoposide, and bleomycin). The combination of carboplatin and paclitaxel (Taxol) may also be used. Hormone treatment is most often used to treat advanced stromal tumors in women who cannot tolerate chemo, but who want to try treatment. This may mean treatment with a drug such as leuprolide (Lupron) and goserelin (Zoladex), the drug tamoxifen, or an aromatase inhibitor. Rarely, radiation therapy may be an option.
+Recurrent stromal tumors
+Cancer that comes back after treatment is said to be recurrent. This can happen many years later for stromal tumors. Even so, the prognosis (outlook) might still be good because they grow so slowly. Surgery may be repeated. Any of the chemo regimens used initially can also be used to treat a relapse. Hormone therapy is also an option to treat recurrence. There really isn't a standard treatment for recurrent stromal cancer, so treatment as part of a clinical trial is also a good option. Radiation therapy might also sometimes be helpful.
+For tumors that produce hormones, the hormone blood levels may be checked regularly after surgery to check for increased levels that could suggest the tumor has returned. The level of a hormone called inhibin can also go up with some stromal tumors and might be useful to check for recurrence.For some people with ovarian cancer, treatment may remove or destroy the cancer. Completing treatment can be both stressful and exciting. You will be relieved to finish treatment, yet it is hard not to worry about cancer coming back. (When cancer returns, it is called recurrence.) This is very common if you've had cancer.
+For other people, ovarian cancer never goes away completely. Some women may be treated with chemotherapy on and off for years. Learning to live with cancer that does not go away can be difficult and very stressful.
+Life after ovarian cancer means returning to some familiar things and also making some new choices.
+Follow up care
+Ask your doctor for a survivorship care plan
+Talk with your doctor about developing a survivorship care plan for you. This plan might include:
+
+A suggested schedule for follow-up exams and tests
+A schedule for other tests you might need in the future, such as early detection (screening) tests for other types of cancer, or tests to look for long-term health effects from your cancer or its treatment
+A list of possible late- or long-term side effects from your treatment, including what to watch for and when you should contact your doctor
+Diet and physical activity suggestions
+Reminders to keep your appointments with your primary care provider (PCP) who will monitor your general health care, including your cancer screening tests. 
+
+Typical follow-up schedules after ovarian cancer
+Even if you have completed treatment, you will likely have follow-up visits with your doctor for many years. It is very important to go to all of your follow-up appointments. During these visits, your doctors will ask questions about any problems you may have and may do exams and lab tests or x-rays and scans to look for signs of cancer or treatment side effects.
+Some cancer treatment side effects may last a long time or might not even show up until years after you have finished treatment. Your doctor visits are a good time to ask questions and talk about any changes or problems you notice or concerns you have.
+To some extent, the frequency of follow up visits and tests will depend on the stage of your cancer and the chance of it coming back.
+Doctor visits
+Your doctor will probably recommend you have a physical exam and pelvic exam every 2 to 4 months for the first couple of years after treatment, then every 3-6 months or so for the next few years.
+Imaging tests
+Whether or not your doctor recommends imaging tests will depend on the stage of your cancer and other factors. CT scans, MRIs or PET scans may be done depending on any symptoms or other concerning signs.
+Blood tests for tumor markers
+Follow-up for ovarian cancer usually includes blood tests for tumor markers or hormones that help recognize recurrence. The choice of which blood tests to do depends on the type of cancer a woman has.
+
+For epithelial ovarian cancer, CA-125 is the tumor marker used most often to check for recurrence. But it is not clear if checking for CA-125 levels and treating you before you have symptoms will help you live longer. Treatment based only on CA-125 levels and not symptoms can increase side effects, so it is important to discuss the pros and cons of CA-125 monitoring and quality of life with your doctor. Tests for other tumor markers, such as CA 19-9, CEA, and HE-4, are used most often for women whose CA-125 levels never went up.
+For germ cell tumors, blood is tested for alpha-fetoprotein (AFP) and/or human chorionic gonadotropin (HCG).
+For stromal cancers, checking levels of hormones like estrogen, testosterone, and inhibin is sometimes helpful.
+
+Keeping health insurance and copies of your medical records
+Even after treatment, it’s very important to keep health insurance. Tests and doctor visits cost a lot, and even though no one wants to think of their cancer coming back, this could happen.
+At some point after your cancer treatment, you might find yourself seeing a new doctor who doesn’t know about your medical history. It’s important to keep copies of your medical records to give your new doctor the details of your diagnosis and treatment. Learn more in Keeping Copies of Important Medical Records.
+Can I lower my risk of the ovarian cancer progressing or coming back?
+If you have (or have had) ovarian cancer, you probably want to know if there are things you can do that might lower your risk of the cancer growing or coming back, such as exercising, eating a certain type of diet, or taking nutritional supplements. While there are some things you can do that might be helpful, more research is needed to know for sure.
+Get regular physical activity
+Some studies have shown that women who are more physically active after being diagnosed with ovarian cancer might live longer. More research is being done in this area. 
+Adopt other healthy behaviors
+Adopting healthy behaviors such as not smoking, eating well, and staying at a healthy weight might help, but no one knows for sure. However, we do know that these types of changes can have positive effects on your health that can extend beyond your risk of ovarian cancer or other cancers.
+About dietary supplements
+So far, no dietary supplements (including vitamins, minerals, and herbal products) have been shown to clearly help lower the risk of ovarian cancer progressing or coming back. This doesn’t mean that no supplements will help, but it’s important to know that none have been proven to do so.
+Dietary supplements are not regulated like medicines in the United States – they do not have to be proven effective (or even safe) before being sold, although there are limits on what they’re allowed to claim they can do. If you’re thinking about taking any type of nutritional supplement, talk to your health care team. They can help you decide which ones you can use safely while avoiding those that might be harmful.
+If the cancer comes back
+If the cancer does recur at some point, your treatment options will depend on where the cancer is located, what treatments you’ve had before, and your health.
+For more general information on recurrence, you may also want to see Understanding Recurrence.
+Could I get a second cancer after ovarian cancer treatment?
+People who’ve had ovarian cancer can still get other cancers, Ovarian cancer survivors are at higher risk for getting some other types of cancer. Learn more in Second Cancers After Ovarian Cancer.
+Getting emotional support
+Some amount of feeling depressed, anxious, or worried is normal when cancer is a part of your life. Some people are affected more than others. But everyone can benefit from help and support from other people, whether friends and family, religious groups, support groups, professional counselors, or others. Learn more in Life After Cancer.Cancer survivors can be affected by a number of health problems, but often their greatest concern is facing cancer again. If a cancer comes back after treatment it is called a “recurrence.” But some cancer survivors may develop a new, unrelated cancer later. This is called a “second cancer.” No matter what type of cancer you have had, it is still possible to get another (new) cancer, even after surviving the first.
+Unfortunately, being treated for cancer doesn’t mean you can’t get another cancer. People who have had cancer can still get the same types of cancers that other people get. In fact, certain types of cancer and cancer treatments can be linked to a higher risk of certain second cancers.
+Survivors of ovarian cancer can get any type of second cancer, but they have an increased risk of:
+
+Colon cancer
+Rectal cancer
+Small intestine cancer
+Cancer of the renal pelvis (part of the kidney)
+Breast cancer
+Bladder cancer
+Bile duct cancer
+Melanoma of the eye
+Acute leukemia
+
+Women treated with radiation therapy also have an increased risk of soft tissue cancer and possibly pancreas cancer.
+The increased risk of leukemia is linked to treatment with chemotherapy. The main drugs linked with leukemia risk are platinum agents (like cisplatin and carboplatin) and alkylating agents (like cyclophosphamide and ifosfamide). The risk increases as the total dose of these drugs increases, but the overall risk is still low.
+Genetic factors that may have caused ovarian cancer in the first place may also add to the risk of breast and colorectal cancers. For example, women with mutations in the BRCA genes have a high risk of both ovarian and breast cancer, as well as some other cancers. Women with the inherited disorder called hereditary non-polyposis colorectal cancer (HNPCC, also called Lynch syndrome), have a high risk of colon, rectum, small intestine, and renal pelvis cancers, as well as ovarian and other cancers.
+Other risk factors for ovarian and breast cancer that overlap may also help explain some of the increased risk of breast cancer in ovarian cancer survivors.
+Studies have shown that the risk of developing solid tumors is higher during all follow-up periods after ovarian cancer.
+Can I lower my risk of getting a second cancer?
+There are steps you can take to lower your risk of getting another cancer and stay as healthy as possible. For example, it’s important to stay away from tobacco products. Smoking increases the risk of many cancers.
+To help maintain good health, ovarian cancer survivors should also:
+
+Get to and stay at a healthy weight
+Keep physically active and limit sitting or lying down time
+Follow a healthy eating pattern that includes plenty of fruits, vegetables, and whole grains, and that limits or avoids red and processed meats, sugary drinks, and highly processed foods.
+It’s best not to drink alcohol. If you do drink, have no more than 1 drink per day for women or 2 drinks per day for men.
+
+These steps may also lower the risk of some other health problems.
+See Second Cancers in Adults for more information about causes of second cancers.What is ovarian cancer?
+Cancer can start any place in the body. Cancer that starts in the ovary is called ovarian cancer. It starts when cells in the ovary grow out of control. Some ovarian cancers can also start in the fallopian tubes - tubes that connect the ovary to the uterus.
+Women have 2 ovaries. They are where eggs are made, and also where most of women’s hormones are made.
+Cancer cells can spread to other parts of the body. Cancer cells in the ovary can sometimes travel to the liver and grow there. When cancer cells do this, it’s called metastasis. To doctors, the cancer cells in the new place look just like the ones from the ovary.
+Cancer is always named for the place where it starts. So when ovarian cancer spreads to the liver (or any other place), it’s still called ovarian cancer. It’s not called liver cancer.
