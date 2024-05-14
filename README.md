@@ -2,17 +2,43 @@
 
 ## Setup
 
-1. Install the required packages with the following line: 
+1. Python
 
-    `pip install requirements.txt`
+    Make sure Python is installed on your system
 
-2. Update the file path if needed
-3. Fill in the fields with your API keys
-4. To complete data preprocessing steps, run the corresponding file with: 
+2. Setting up environment
+
+    Execute the following lines in the terminal to switch to your project folder (change path to the path to your local project directory) and create virtual environment
+
+    `cd path/to/project/folder`
+
+    `python -m venv rag_for_cancer_data_venv`
+
+    To deactivate the virtual environment, simply run the following line in the terminal:
+
+    `deactivate`
+
+3. Install the required packages with the following line: 
+
+    `pip install -r requirements.txt`
+
+4. Update the file paths if needed
+5. Setting up Environment Variables
+
+    - In the root directory of your project, create a file named `.env`.
+    - Add your credentials
+
+        Open the `.env` file in a text editor and add your API keys:
+        ```
+        GROQ_API_KEY=your_groq_api_key_here
+        HF_API_KEY=your_hf_api_key_here
+        ```
+
+6. To complete data preprocessing steps, run the corresponding file with: 
 
     `python preprocessing.py`
 
-5. To construct rag and get answer to your question, run the corresponding file with: 
+7. To construct rag and get answer to your question, run the corresponding file with: 
 
     `python rag.py`
 

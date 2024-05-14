@@ -10,24 +10,30 @@ import chromadb.utils.embedding_functions as embedding_functions
 
 import gradio as gr
 
-GROQ_API_KEY = '...'
-HF_API_KEY = '...'
+from configs import db_config
+from configs import models_config
 
-class GenerateAnswer(dspy.Signature):
-    """Answer questions with factoid answers using relevant information from the context"""
+from dotenv import load_dotenv
+
+load_dotenv()
+
+class GenerateAnswerSignature(dspy.Signature):
+    """
+    Answer based on the provided information, typically in 5-7 sentences. 
+    Only answer if the question relates directly to the topic of cancer. 
+    If the question does not directly match with the context, respond with 'Sorry, but I can provide you only the information about cancer.
+    """
 
     context = dspy.InputField(desc="May contain relevant facts.")
     question = dspy.InputField()
-    answer = dspy.OutputField(desc="Answer based on the provided information, typically in 5-7 sentences. \
-                                    Only answer if the question relates directly to the provided context \
-                                    If the question does not directly match with the context, respond with 'Sorry, but I can provide you only the information about cancer.'")
+    answer = dspy.OutputField(desc="Answer based on the provided information, typically in 5-7 sentences.")
 
 class CancerRAG(dspy.Module):
-    def __init__(self, num_passages=3):
+    def __init__(self, num_passages=models_config.RM_TOP_PASSAGES):
         super().__init__()
 
         self.retrieve = dspy.Retrieve(k=num_passages)
-        self.generate_answer = dspy.ChainOfThought(GenerateAnswer)
+        self.generate_answer = dspy.ChainOfThought(GenerateAnswerSignature)
         # self.generate_answer = dspy.ChainOfThought("context, question -> answer")
 
     def forward(self, question):
@@ -36,17 +42,17 @@ class CancerRAG(dspy.Module):
         return dspy.Prediction(context=context, answer=prediction.answer)
 
 def construct_rag():
-    llama = dspy.GROQ(model='llama3-8b-8192', api_key=GROQ_API_KEY, temperature=0, max_tokens=500)
+    llama = dspy.GROQ(model=models_config.LM_NAME_GROQ, api_key=os.getenv('GROQ_API_KEY'), temperature=models_config.LM_TEMPERATURE, max_tokens=models_config.LM_MAX_TOKENS)
     huggingface_ef = embedding_functions.HuggingFaceEmbeddingFunction(
-    api_key=HF_API_KEY,
-    model_name='BAAI/bge-small-en-v1.5'
+    api_key=os.getenv('HF_API_KEY'),
+    model_name=models_config.EMBEDDING_MODEL_NAME
     )
 
     retrieve_model = ChromadbRM(
-        'cancer_data',
-        os.path.join(os.getcwd(),'cancer_db'),
+        db_config.COLLECTION_NAME,
+        os.path.join(os.getcwd(), db_config.DB_NAME),
         embedding_function=huggingface_ef,
-        k=5
+        k=models_config.RM_TOP_PASSAGES
     )
 
     dspy.settings.configure(lm=llama, rm=retrieve_model)

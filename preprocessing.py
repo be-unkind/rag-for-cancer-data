@@ -8,6 +8,9 @@ import pickle
 import chromadb
 import uuid
 
+from configs import db_config
+from configs import models_config
+
 DATA_DIR = os.path.join(os.getcwd(), 'data')
 DEVICE = 'cuda:0' if torch.cuda.is_available() else 'cpu'
 
@@ -53,7 +56,7 @@ def insert_record(collection, chunk, embedding):
         ids=[str(uuid.uuid4())],
     )
 
-def save_to_vector_db(docs, embeddings, db_name='cancer_db', collection_name='cancer_data'):
+def save_to_vector_db(docs, embeddings, db_name=db_config.DB_NAME, collection_name=db_config.COLLECTION_NAME):
     chroma_client = chromadb.PersistentClient(path=os.path.join(os.getcwd(), db_name))
     collection = chroma_client.get_or_create_collection(name=collection_name)
 
@@ -62,7 +65,7 @@ def save_to_vector_db(docs, embeddings, db_name='cancer_db', collection_name='ca
 
     return None
 
-def find_embedding(model, query: str, n_results=3, db_name='cancer_db', collection_name='cancer_data'):
+def find_embedding(model, query: str, n_results=db_config.DEFAULT_N_RESULTS, db_name=db_config.DB_NAME, collection_name=db_config.COLLECTION_NAME):
     chroma_client = chromadb.PersistentClient(path=os.path.join(os.getcwd(), db_name))
     collection = chroma_client.get_or_create_collection(name=collection_name)
 
@@ -85,13 +88,13 @@ def find_embedding(model, query: str, n_results=3, db_name='cancer_db', collecti
 
 def main(splitter_model, model_embedding):
     if check_file_in_directory(os.getcwd(), 'docs.pkl'):
-        with open('/Users/nastya/Documents/litslink/cancer/docs.pkl', 'rb') as f:
+        with open(os.path.join(os.getcwd(), 'docs.pkl'), 'rb') as f:
             docs = pickle.load(f)
     else:
         docs = split_semantic_chunking(texts_lst, splitter_model)
 
     if check_file_in_directory(os.getcwd(), 'embeddings.pkl'):
-        with open('/Users/nastya/Documents/litslink/cancer/embeddings.pkl', 'rb') as f:
+        with open(os.path.join(os.getcwd(), 'embeddings.pkl'), 'rb') as f:
             embeddings = pickle.load(f)
     else:
         embeddings = text_to_embeddings(docs)
@@ -103,8 +106,8 @@ def main(splitter_model, model_embedding):
 if __name__ == "__main__":
     texts_lst = get_raw_data()
 
-    splitter_model = SemanticChunker(HuggingFaceEmbeddings(model_name='BAAI/bge-small-en-v1.5', model_kwargs={'device': DEVICE}), breakpoint_threshold_type="interquartile")
-    model_embedding = HuggingFaceEmbeddings(model_name='BAAI/bge-small-en-v1.5', model_kwargs={'device': DEVICE})
+    splitter_model = SemanticChunker(HuggingFaceEmbeddings(model_name=models_config.EMBEDDING_MODEL_NAME, model_kwargs={'device': DEVICE}), breakpoint_threshold_type=models_config.CHUNKING_BREAKPOINT)
+    model_embedding = HuggingFaceEmbeddings(model_name=models_config.EMBEDDING_MODEL_NAME, model_kwargs={'device': DEVICE})
 
     main(splitter_model, model_embedding)
 
